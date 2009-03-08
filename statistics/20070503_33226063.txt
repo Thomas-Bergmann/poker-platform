@@ -1,0 +1,3863 @@
+
+Hello hatoka,
+These hand histories are provided to you as an aid for your training and development. You are not permitted to share them with anyone.  We reserve the right to cease providing them or apply further restrictions at any time.
+Complete hand histories are only available to players that participated in the hand.
+You requested a transcript of Tournament #33226063.
+
+Summary
+----------
+Played on    : 03 May 2007 07:28 AM
+On Table     : Table  125655
+Game Type    : Texas Holdem
+Buy-In       : $5
+Fee          : $1
+You finished in  position 1
+1st place - hatoka -  $25
+2nd place - flytotherain -  $15
+3rd place - Be_Happy69 -  $10
+
+***** Hand History for Game 5933363752 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 07:28:52 EDT 2007
+Table Table  125655 (Real Money) -- Seat 7 is the button
+Total number of players : 10
+Seat 1: DeadlyDeed (2000)
+Seat 2: mamuel1909 (2000)
+Seat 3: dalehmi (2000)
+Seat 4: JBeijar (2000)
+Seat 5: m_burgoon (2000)
+Seat 6: azzman83 (2000)
+Seat 7: duellmaster2 (2000)
+Seat 8: Be_Happy69 (2000)
+Seat 9: hatoka (2000)
+Seat 10: flytotherain (2000)
+Be_Happy69  posts small blind (20)
+hatoka  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ Qs, 8c ]
+flytotherain calls (40)
+DeadlyDeed folds.
+mamuel1909 folds.
+dalehmi calls (40)
+JBeijar folds.
+m_burgoon calls (40)
+azzman83 folds.
+duellmaster2 calls (40)
+Be_Happy69 calls (20)
+hatoka checks.
+** Dealing Flop ** :  [ 8d, 9s, Jh ]
+Be_Happy69 checks.
+hatoka checks.
+flytotherain bets (40)
+dalehmi folds.
+m_burgoon raises (80) to 80
+duellmaster2 calls (80)
+Be_Happy69 folds.
+hatoka calls (80)
+flytotherain calls (40)
+** Dealing Turn ** :  [ Ac ]
+hatoka checks.
+flytotherain checks.
+m_burgoon bets (200)
+duellmaster2 folds.
+hatoka folds.
+flytotherain calls (200)
+** Dealing River ** :  [ 7h ]
+flytotherain checks.
+m_burgoon checks.
+** Summary **
+Main Pot: 960
+Board: [ 8d 9s Jh Ac 7h  ]
+
+DeadlyDeed balance 2000, didn't bet (folded)
+mamuel1909 balance 2000, didn't bet (folded)
+dalehmi balance 1960, lost 40 (folded)
+JBeijar balance 2000, didn't bet (folded)
+m_burgoon balance 2640, bet 320, collected 960, net +640 [ Tc Jc ] [ a straight Seven to Jack -- Jc,Tc,9s,8d,7h ]
+azzman83 balance 2000, didn't bet (folded)
+duellmaster2 balance 1880, lost 120 (folded)
+Be_Happy69 balance 1960, lost 40 (folded)
+hatoka balance 1880, lost 120 (folded)
+flytotherain balance 1680, lost 320 [ 2d 7s ] [ a pair of Sevens -- Ac,Jh,9s,7s,7h ]
+
+***** Hand History for Game 5933366330 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 07:30:19 EDT 2007
+Table Table  125655 (Real Money) -- Seat 8 is the button
+Total number of players : 10
+Seat 1: DeadlyDeed (2000)
+Seat 2: mamuel1909 (2000)
+Seat 3: dalehmi (1960)
+Seat 4: JBeijar (2000)
+Seat 5: m_burgoon (2640)
+Seat 6: azzman83 (2000)
+Seat 7: duellmaster2 (1880)
+Seat 8: Be_Happy69 (1960)
+Seat 9: hatoka (1880)
+Seat 10: flytotherain (1680)
+hatoka  posts small blind (20)
+flytotherain  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 4c, 7s ]
+DeadlyDeed raises (80) to 80
+mamuel1909 folds.
+dalehmi raises (200) to 200
+JBeijar calls (200)
+m_burgoon folds.
+azzman83 folds.
+duellmaster2 calls (200)
+Be_Happy69 folds.
+hatoka folds.
+flytotherain calls (160)
+DeadlyDeed folds.
+** Dealing Flop ** :  [ Qh, 6c, 7c ]
+flytotherain checks.
+dalehmi bets (1760)
+dalehmi is all-In.
+JBeijar folds.
+duellmaster2 folds.
+flytotherain folds.
+Creating Main Pot with $900 with dalehmi
+** Summary **
+Main Pot: 900
+Board: [ Qh 6c 7c  ]
+
+DeadlyDeed balance 1920, lost 80 (folded)
+mamuel1909 balance 2000, didn't bet (folded)
+dalehmi balance 2660, bet 1960, collected 2660, net +700
+JBeijar balance 1800, lost 200 (folded)
+m_burgoon balance 2640, didn't bet (folded)
+azzman83 balance 2000, didn't bet (folded)
+duellmaster2 balance 1680, lost 200 (folded)
+Be_Happy69 balance 1960, didn't bet (folded)
+hatoka balance 1860, lost 20 (folded)
+flytotherain balance 1480, lost 200 (folded)
+
+***** Hand History for Game 5933367473 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 07:30:54 EDT 2007
+Table Table  125655 (Real Money) -- Seat 9 is the button
+Total number of players : 10
+Seat 1: DeadlyDeed (1920)
+Seat 2: mamuel1909 (2000)
+Seat 3: dalehmi (2660)
+Seat 4: JBeijar (1800)
+Seat 5: m_burgoon (2640)
+Seat 6: azzman83 (2000)
+Seat 7: duellmaster2 (1680)
+Seat 8: Be_Happy69 (1960)
+Seat 9: hatoka (1860)
+Seat 10: flytotherain (1480)
+flytotherain  posts small blind (20)
+DeadlyDeed  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 3h, Ah ]
+mamuel1909 folds.
+dalehmi folds.
+JBeijar folds.
+m_burgoon raises (80) to 80
+azzman83 folds.
+duellmaster2 calls (80)
+Be_Happy69 folds.
+hatoka calls (80)
+flytotherain calls (60)
+DeadlyDeed calls (40)
+** Dealing Flop ** :  [ 4c, Js, 8d ]
+flytotherain bets (40)
+DeadlyDeed raises (80) to 80
+m_burgoon calls (80)
+duellmaster2 calls (80)
+hatoka folds.
+flytotherain calls (40)
+** Dealing Turn ** :  [ 9c ]
+flytotherain checks.
+DeadlyDeed bets (160)
+m_burgoon calls (160)
+duellmaster2 folds.
+flytotherain calls (160)
+** Dealing River ** :  [ 9s ]
+flytotherain checks.
+DeadlyDeed bets (80)
+m_burgoon folds.
+flytotherain calls (80)
+** Summary **
+Main Pot: 1360
+Board: [ 4c Js 8d 9c 9s  ]
+
+DeadlyDeed balance 2880, bet 400, collected 1360, net +960 [ Td Jd ] [ two pairs, Jacks and Nines -- Jd,Js,Td,9c,9s ]
+mamuel1909 balance 2000, didn't bet (folded)
+dalehmi balance 2660, didn't bet (folded)
+JBeijar balance 1800, didn't bet (folded)
+m_burgoon balance 2320, lost 320 (folded)
+azzman83 balance 2000, didn't bet (folded)
+duellmaster2 balance 1520, lost 160 (folded)
+Be_Happy69 balance 1960, didn't bet (folded)
+hatoka balance 1780, lost 80 (folded)
+flytotherain balance 1080, lost 400 [ 5d 8c ] [ two pairs, Nines and Eights -- Js,9c,9s,8c,8d ]
+
+
+***** Hand History for Game 5933369407 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 07:31:55 EDT 2007
+Table Table  125655 (Real Money) -- Seat 10 is the button
+Total number of players : 10
+Seat 1: DeadlyDeed (2880)
+Seat 2: mamuel1909 (2000)
+Seat 3: dalehmi (2660)
+Seat 4: JBeijar (1800)
+Seat 5: m_burgoon (2320)
+Seat 6: azzman83 (2000)
+Seat 7: duellmaster2 (1520)
+Seat 8: Be_Happy69 (1960)
+Seat 9: hatoka (1780)
+Seat 10: flytotherain (1080)
+DeadlyDeed  posts small blind (20)
+mamuel1909  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ Ac, 2c ]
+dalehmi raises (80) to 80
+JBeijar folds.
+m_burgoon calls (80)
+azzman83 folds.
+duellmaster2 folds.
+Be_Happy69 folds.
+hatoka calls (80)
+flytotherain calls (80)
+DeadlyDeed folds.
+mamuel1909 folds.
+** Dealing Flop ** :  [ Ah, 6s, 4h ]
+dalehmi checks.
+m_burgoon bets (380)
+hatoka folds.
+flytotherain calls (380)
+dalehmi folds.
+** Dealing Turn ** :  [ Ts ]
+m_burgoon checks.
+flytotherain checks.
+** Dealing River ** :  [ 5d ]
+m_burgoon checks.
+flytotherain checks.
+** Summary **
+Main Pot: 1140
+Board: [ Ah 6s 4h Ts 5d  ]
+
+DeadlyDeed balance 2860, lost 20 (folded)
+mamuel1909 balance 1960, lost 40 (folded)
+dalehmi balance 2580, lost 80 (folded)
+JBeijar balance 1800, didn't bet (folded)
+m_burgoon balance 1860, lost 460 [ 8d Jc ] [ high card Ace -- Ah,Jc,Ts,8d,6s ]
+azzman83 balance 2000, didn't bet (folded)
+duellmaster2 balance 1520, didn't bet (folded)
+Be_Happy69 balance 1960, didn't bet (folded)
+hatoka balance 1700, lost 80 (folded)
+flytotherain balance 1760, bet 460, collected 1140, net +680 [ 3d 5c ] [ a pair of Fives -- Ah,Ts,6s,5c,5d ]
+
+***** Hand History for Game 5933370758 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 07:32:37 EDT 2007
+Table Table  125655 (Real Money) -- Seat 1 is the button
+Total number of players : 10
+Seat 1: DeadlyDeed (2860)
+Seat 2: mamuel1909 (1960)
+Seat 3: dalehmi (2580)
+Seat 4: JBeijar (1800)
+Seat 5: m_burgoon (1860)
+Seat 6: azzman83 (2000)
+Seat 7: duellmaster2 (1520)
+Seat 8: Be_Happy69 (1960)
+Seat 9: hatoka (1700)
+Seat 10: flytotherain (1760)
+mamuel1909  posts small blind (20)
+dalehmi  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ Ah, 2s ]
+JBeijar folds.
+m_burgoon calls (40)
+azzman83 folds.
+duellmaster2 folds.
+Be_Happy69 folds.
+hatoka folds.
+flytotherain calls (40)
+DeadlyDeed folds.
+mamuel1909 folds.
+dalehmi checks.
+** Dealing Flop ** :  [ 6h, Qs, Jd ]
+dalehmi checks.
+m_burgoon checks.
+flytotherain checks.
+** Dealing Turn ** :  [ 3c ]
+dalehmi checks.
+m_burgoon checks.
+flytotherain checks.
+** Dealing River ** :  [ Js ]
+dalehmi bets (80)
+m_burgoon raises (160) to 160
+flytotherain folds.
+dalehmi calls (80)
+** Summary **
+Main Pot: 460
+Board: [ 6h Qs Jd 3c Js  ]
+
+DeadlyDeed balance 2860, didn't bet (folded)
+mamuel1909 balance 1940, lost 20 (folded)
+dalehmi balance 2380, lost 200 [ 3h 8c ] [ two pairs, Jacks and Threes -- Qs,Jd,Js,3h,3c ]
+
+JBeijar balance 1800, didn't bet (folded)
+m_burgoon balance 2120, bet 200, collected 460, net +260 [ Jc 8h ] [ three of a kind, Jacks -- Qs,Jc,Jd,Js,8h ]
+azzman83 balance 2000, didn't bet (folded)
+duellmaster2 balance 1520, didn't bet (folded)
+Be_Happy69 balance 1960, didn't bet (folded)
+hatoka balance 1700, didn't bet (folded)
+flytotherain balance 1720, lost 40 (folded)
+
+***** Hand History for Game 5933372021 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 07:33:16 EDT 2007
+Table Table  125655 (Real Money) -- Seat 2 is the button
+Total number of players : 10
+Seat 1: DeadlyDeed (2860)
+Seat 2: mamuel1909 (1940)
+Seat 3: dalehmi (2380)
+Seat 4: JBeijar (1800)
+Seat 5: m_burgoon (2120)
+Seat 6: azzman83 (2000)
+Seat 7: duellmaster2 (1520)
+Seat 8: Be_Happy69 (1960)
+Seat 9: hatoka (1700)
+Seat 10: flytotherain (1720)
+dalehmi  posts small blind (20)
+JBeijar  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ Ts, Ad ]
+m_burgoon calls (40)
+azzman83 folds.
+duellmaster2 folds.
+Be_Happy69 folds.
+hatoka calls (40)
+flytotherain calls (40)
+DeadlyDeed folds.
+mamuel1909 folds.
+dalehmi folds.
+JBeijar checks.
+** Dealing Flop ** :  [ 7h, 5s, Kc ]
+JBeijar bets (160)
+m_burgoon calls (160)
+hatoka folds.
+flytotherain folds.
+** Dealing Turn ** :  [ 3d ]
+JBeijar bets (200)
+m_burgoon calls (200)
+** Dealing River ** :  [ 9h ]
+JBeijar bets (400)
+m_burgoon folds.
+** Summary **
+Main Pot: 900
+Board: [ 7h 5s Kc 3d 9h  ]
+
+DeadlyDeed balance 2860, didn't bet (folded)
+mamuel1909 balance 1940, didn't bet (folded)
+dalehmi balance 2360, lost 20 (folded)
+JBeijar balance 2300, bet 800, collected 1300, net +500
+m_burgoon balance 1720, lost 400 (folded)
+azzman83 balance 2000, didn't bet (folded)
+duellmaster2 balance 1520, didn't bet (folded)
+Be_Happy69 balance 1960, didn't bet (folded)
+hatoka balance 1660, lost 40 (folded)
+flytotherain balance 1680, lost 40 (folded)
+
+***** Hand History for Game 5933373287 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 07:33:55 EDT 2007
+Table Table  125655 (Real Money) -- Seat 3 is the button
+Total number of players : 10
+Seat 1: DeadlyDeed (2860)
+Seat 2: mamuel1909 (1940)
+Seat 3: dalehmi (2360)
+Seat 4: JBeijar (2300)
+Seat 5: m_burgoon (1720)
+Seat 6: azzman83 (2000)
+Seat 7: duellmaster2 (1520)
+Seat 8: Be_Happy69 (1960)
+Seat 9: hatoka (1660)
+Seat 10: flytotherain (1680)
+JBeijar  posts small blind (20)
+m_burgoon  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 8h, 7s ]
+azzman83 folds.
+duellmaster2 folds.
+Be_Happy69 folds.
+hatoka folds.
+flytotherain calls (40)
+DeadlyDeed folds.
+mamuel1909 folds.
+dalehmi folds.
+JBeijar raises (80) to 100
+m_burgoon calls (60)
+flytotherain folds.
+** Dealing Flop ** :  [ 5s, 4c, Th ]
+JBeijar checks.
+m_burgoon bets (40)
+JBeijar calls (40)
+** Dealing Turn ** :  [ 8s ]
+JBeijar checks.
+m_burgoon bets (120)
+JBeijar folds.
+** Summary **
+Main Pot: 320
+Board: [ 5s 4c Th 8s  ]
+
+DeadlyDeed balance 2860, didn't bet (folded)
+mamuel1909 balance 1940, didn't bet (folded)
+dalehmi balance 2360, didn't bet (folded)
+JBeijar balance 2160, lost 140 (folded)
+m_burgoon balance 1900, bet 260, collected 440, net +180
+azzman83 balance 2000, didn't bet (folded)
+duellmaster2 balance 1520, didn't bet (folded)
+Be_Happy69 balance 1960, didn't bet (folded)
+hatoka balance 1660, didn't bet (folded)
+flytotherain balance 1640, lost 40 (folded)
+
+***** Hand History for Game 5933374766 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 07:34:42 EDT 2007
+Table Table  125655 (Real Money) -- Seat 4 is the button
+Total number of players : 10
+Seat 1: DeadlyDeed (2860)
+Seat 2: mamuel1909 (1940)
+Seat 3: dalehmi (2360)
+Seat 4: JBeijar (2160)
+Seat 5: m_burgoon (1900)
+Seat 6: azzman83 (2000)
+Seat 7: duellmaster2 (1520)
+Seat 8: Be_Happy69 (1960)
+Seat 9: hatoka (1660)
+Seat 10: flytotherain (1640)
+m_burgoon  posts small blind (20)
+azzman83  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 4d, 6h ]
+duellmaster2 calls (40)
+Be_Happy69 folds.
+hatoka folds.
+flytotherain calls (40)
+DeadlyDeed folds.
+mamuel1909 raises (80) to 80
+dalehmi calls (80)
+JBeijar calls (80)
+m_burgoon calls (60)
+azzman83 calls (40)
+duellmaster2 calls (40)
+flytotherain calls (40)
+** Dealing Flop ** :  [ 5c, 7h, 3s ]
+m_burgoon bets (1820)
+m_burgoon is all-In.
+azzman83 folds.
+duellmaster2 folds.
+flytotherain folds.
+mamuel1909 folds.
+dalehmi folds.
+JBeijar folds.
+Creating Main Pot with $560 with m_burgoon
+** Summary **
+Main Pot: 560
+Board: [ 5c 7h 3s  ]
+
+DeadlyDeed balance 2860, didn't bet (folded)
+mamuel1909 balance 1860, lost 80 (folded)
+dalehmi balance 2280, lost 80 (folded)
+JBeijar balance 2080, lost 80 (folded)
+m_burgoon balance 2380, bet 1900, collected 2380, net +480
+azzman83 balance 1920, lost 80 (folded)
+duellmaster2 balance 1440, lost 80 (folded)
+Be_Happy69 balance 1960, didn't bet (folded)
+hatoka balance 1660, didn't bet (folded)
+flytotherain balance 1560, lost 80 (folded)
+
+***** Hand History for Game 5933376649 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 07:35:42 EDT 2007
+Table Table  125655 (Real Money) -- Seat 5 is the button
+Total number of players : 10
+Seat 1: DeadlyDeed (2860)
+Seat 2: mamuel1909 (1860)
+Seat 3: dalehmi (2280)
+Seat 4: JBeijar (2080)
+Seat 5: m_burgoon (2380)
+Seat 6: azzman83 (1920)
+Seat 7: duellmaster2 (1440)
+Seat 8: Be_Happy69 (1960)
+Seat 9: hatoka (1660)
+Seat 10: flytotherain (1560)
+azzman83  posts small blind (20)
+duellmaster2  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 8h, 2h ]
+Be_Happy69 folds.
+hatoka folds.
+flytotherain calls (40)
+DeadlyDeed folds.
+mamuel1909 folds.
+dalehmi folds.
+JBeijar folds.
+m_burgoon raises (80) to 80
+azzman83 calls (60)
+duellmaster2 calls (40)
+flytotherain calls (40)
+** Dealing Flop ** :  [ Jc, 8s, 6d ]
+azzman83 bets (160)
+duellmaster2 folds.
+flytotherain calls (160)
+m_burgoon calls (160)
+** Dealing Turn ** :  [ 6c ]
+azzman83 checks.
+flytotherain bets (200)
+m_burgoon calls (200)
+azzman83 folds.
+** Dealing River ** :  [ 9c ]
+flytotherain bets (200)
+m_burgoon calls (200)
+** Summary **
+Main Pot: 1600
+Board: [ Jc 8s 6d 6c 9c  ]
+
+DeadlyDeed balance 2860, didn't bet (folded)
+mamuel1909 balance 1860, didn't bet (folded)
+dalehmi balance 2280, didn't bet (folded)
+JBeijar balance 2080, didn't bet (folded)
+m_burgoon balance 1740, lost 640 [ 7d 7s ] [ two pairs, Sevens and Sixes -- Jc,7d,7s,6d,6c ]
+azzman83 balance 1680, lost 240 (folded)
+duellmaster2 balance 1360, lost 80 (folded)
+Be_Happy69 balance 1960, didn't bet (folded)
+hatoka balance 1660, didn't bet (folded)
+flytotherain balance 2520, bet 640, collected 1600, net +960 [ Jh Qh ] [ two pairs, Jacks and Sixes -- Qh,Jh,Jc,6d,6c ]
+
+***** Hand History for Game 5933379232 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 07:37:03 EDT 2007
+Table Table  125655 (Real Money) -- Seat 6 is the button
+Total number of players : 10
+Seat 1: DeadlyDeed (2860)
+Seat 2: mamuel1909 (1860)
+Seat 3: dalehmi (2280)
+Seat 4: JBeijar (2080)
+Seat 5: m_burgoon (1740)
+Seat 6: azzman83 (1680)
+Seat 7: duellmaster2 (1360)
+Seat 8: Be_Happy69 (1960)
+Seat 9: hatoka (1660)
+Seat 10: flytotherain (2520)
+duellmaster2  posts small blind (20)
+Be_Happy69  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 7c, Ah ]
+hatoka calls (40)
+flytotherain raises (80) to 80
+DeadlyDeed calls (80)
+mamuel1909 folds.
+dalehmi folds.
+JBeijar folds.
+m_burgoon raises (120) to 120
+azzman83 calls (120)
+duellmaster2 folds.
+Be_Happy69 folds.
+hatoka folds.
+flytotherain calls (40)
+DeadlyDeed calls (40)
+** Dealing Flop ** :  [ 5d, 5s, Ac ]
+flytotherain bets (80)
+DeadlyDeed folds.
+m_burgoon raises (160) to 160
+azzman83 folds.
+flytotherain raises (280) to 360
+m_burgoon calls (200)
+** Dealing Turn ** :  [ 7h ]
+flytotherain bets (1280)
+m_burgoon folds.
+** Summary **
+Main Pot: 1300
+Board: [ 5d 5s Ac 7h  ]
+
+DeadlyDeed balance 2740, lost 120 (folded)
+mamuel1909 balance 1860, didn't bet (folded)
+dalehmi balance 2280, didn't bet (folded)
+JBeijar balance 2080, didn't bet (folded)
+m_burgoon balance 1260, lost 480 (folded)
+azzman83 balance 1560, lost 120 (folded)
+duellmaster2 balance 1340, lost 20 (folded)
+Be_Happy69 balance 1920, lost 40 (folded)
+hatoka balance 1620, lost 40 (folded)
+flytotherain balance 3340, bet 1760, collected 2580, net +820
+
+***** Hand History for Game 5933381551 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 07:38:17 EDT 2007
+Table Table  125655 (Real Money) -- Seat 7 is the button
+Total number of players : 10
+Seat 1: DeadlyDeed (2740)
+Seat 2: mamuel1909 (1860)
+Seat 3: dalehmi (2280)
+Seat 4: JBeijar (2080)
+Seat 5: m_burgoon (1260)
+Seat 6: azzman83 (1560)
+Seat 7: duellmaster2 (1340)
+Seat 8: Be_Happy69 (1920)
+Seat 9: hatoka (1620)
+Seat 10: flytotherain (3340)
+Be_Happy69  posts small blind (20)
+hatoka  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ Jd, 2s ]
+flytotherain calls (40)
+DeadlyDeed raises (80) to 80
+mamuel1909 folds.
+dalehmi folds.
+JBeijar raises (180) to 180
+m_burgoon folds.
+azzman83 folds.
+duellmaster2 raises (1340) to 1340
+duellmaster2 is all-In.
+Be_Happy69 folds.
+hatoka folds.
+flytotherain folds.
+DeadlyDeed folds.
+JBeijar calls (1160)
+** Dealing Flop ** :  [ 4c, 4h, Td ]
+** Dealing Turn ** :  [ Qs ]
+** Dealing River ** :  [ Ad ]
+Creating Main Pot with $2860 with duellmaster2
+** Summary **
+Main Pot: 2860
+Board: [ 4c 4h Td Qs Ad  ]
+
+DeadlyDeed balance 2660, lost 80 (folded)
+mamuel1909 balance 1860, didn't bet (folded)
+dalehmi balance 2280, didn't bet (folded)
+JBeijar balance 3600, bet 1340, collected 2860, net +1520 [ Qh Ac ] [ two pairs, Aces and Queens -- Ac,Ad,Qh,Qs,Td ]
+m_burgoon balance 1260, didn't bet (folded)
+azzman83 balance 1560, didn't bet (folded)
+duellmaster2 balance 0, lost 1340 [ Th Ah ] [ two pairs, Aces and Tens -- Ah,Ad,Qs,Th,Td ]
+Be_Happy69 balance 1900, lost 20 (folded)
+hatoka balance 1580, lost 40 (folded)
+flytotherain balance 3300, lost 40 (folded)
+
+***** Hand History for Game 5933382981 *****
+duellmaster2 finished in 10 place.
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 07:39:03 EDT 2007
+Table Table  125655 (Real Money) -- Seat 8 is the button
+Total number of players : 9
+Seat 1: DeadlyDeed (2660)
+Seat 2: mamuel1909 (1860)
+Seat 3: dalehmi (2280)
+Seat 4: JBeijar (3600)
+Seat 5: m_burgoon (1260)
+Seat 6: azzman83 (1560)
+Seat 8: Be_Happy69 (1900)
+Seat 9: hatoka (1580)
+Seat 10: flytotherain (3300)
+hatoka  posts small blind (30)
+flytotherain  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 4h, 9h ]
+DeadlyDeed raises (120) to 120
+mamuel1909 folds.
+dalehmi folds.
+JBeijar folds.
+m_burgoon calls (120)
+azzman83 calls (120)
+Be_Happy69 folds.
+hatoka folds.
+flytotherain calls (60)
+** Dealing Flop ** :  [ Jd, Qc, 2s ]
+flytotherain checks.
+DeadlyDeed bets (240)
+m_burgoon raises (1140) to 1140
+m_burgoon is all-In.
+azzman83 raises (1440) to 1440
+azzman83 is all-In.
+flytotherain folds.
+DeadlyDeed folds.
+** Dealing Turn ** :  [ 3c ]
+** Dealing River ** :  [ 7c ]
+Creating Main Pot with $3030 with m_burgoon
+** Summary **
+Main Pot: 3030
+Board: [ Jd Qc 2s 3c 7c  ]
+
+DeadlyDeed balance 2300, lost 360 (folded)
+mamuel1909 balance 1860, didn't bet (folded)
+dalehmi balance 2280, didn't bet (folded)
+JBeijar balance 3600, didn't bet (folded)
+m_burgoon balance 3030, bet 1260, collected 3030, net +1770 [ Qs 2c ] [ two pairs, Queens and Twos -- Qs,Qc,Jd,2c,2s ]
+azzman83 balance 300, bet 1560, collected 300, lost -1260 [ Qd Ac ] [ a pair of Queens -- Ac,Qd,Qc,Jd,7c ]
+Be_Happy69 balance 1900, didn't bet (folded)
+hatoka balance 1550, lost 30 (folded)
+flytotherain balance 3180, lost 120 (folded)
+
+***** Hand History for Game 5933384609 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 07:39:54 EDT 2007
+Table Table  125655 (Real Money) -- Seat 9 is the button
+Total number of players : 9
+Seat 1: DeadlyDeed (2300)
+Seat 2: mamuel1909 (1860)
+Seat 3: dalehmi (2280)
+Seat 4: JBeijar (3600)
+Seat 5: m_burgoon (3030)
+Seat 6: azzman83 (300)
+Seat 8: Be_Happy69 (1900)
+Seat 9: hatoka (1550)
+Seat 10: flytotherain (3180)
+flytotherain  posts small blind (30)
+DeadlyDeed  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Ks, 5d ]
+mamuel1909 calls (60)
+dalehmi folds.
+JBeijar folds.
+m_burgoon calls (60)
+azzman83 folds.
+Be_Happy69 raises (1900) to 1900
+Be_Happy69 is all-In.
+hatoka folds.
+flytotherain folds.
+DeadlyDeed folds.
+mamuel1909 folds.
+m_burgoon calls (1840)
+** Dealing Flop ** :  [ 3c, 3d, Kh ]
+** Dealing Turn ** :  [ 8h ]
+** Dealing River ** :  [ 4s ]
+Creating Main Pot with $3950 with Be_Happy69
+** Summary **
+Main Pot: 3950
+Board: [ 3c 3d Kh 8h 4s  ]
+
+DeadlyDeed balance 2240, lost 60 (folded)
+mamuel1909 balance 1800, lost 60 (folded)
+dalehmi balance 2280, didn't bet (folded)
+JBeijar balance 3600, didn't bet (folded)
+m_burgoon balance 1130, lost 1900 [ Ad Jc ] [ a pair of Threes -- Ad,Kh,Jc,3c,3d ]
+azzman83 balance 300, didn't bet (folded)
+Be_Happy69 balance 3950, bet 1900, collected 3950, net +2050 [ Jh Js ] [ two pairs, Jacks and Threes -- Kh,Jh,Js,3c,3d ]
+hatoka balance 1550, didn't bet (folded)
+flytotherain balance 3150, lost 30 (folded)
+
+***** Hand History for Game 5933385928 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 07:40:35 EDT 2007
+Table Table  125655 (Real Money) -- Seat 10 is the button
+Total number of players : 9
+Seat 1: DeadlyDeed (2240)
+Seat 2: mamuel1909 (1800)
+Seat 3: dalehmi (2280)
+Seat 4: JBeijar (3600)
+Seat 5: m_burgoon (1130)
+Seat 6: azzman83 (300)
+Seat 8: Be_Happy69 (3950)
+Seat 9: hatoka (1550)
+Seat 10: flytotherain (3150)
+DeadlyDeed  posts small blind (30)
+mamuel1909  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 2s, Ah ]
+dalehmi folds.
+JBeijar raises (600) to 600
+m_burgoon folds.
+azzman83 folds.
+Be_Happy69 folds.
+hatoka folds.
+flytotherain calls (600)
+DeadlyDeed folds.
+mamuel1909 folds.
+** Dealing Flop ** :  [ 7s, 3s, Jc ]
+JBeijar checks.
+flytotherain checks.
+** Dealing Turn ** :  [ 8h ]
+JBeijar checks.
+flytotherain bets (300)
+JBeijar calls (300)
+** Dealing River ** :  [ 3h ]
+JBeijar bets (200)
+flytotherain calls (200)
+** Summary **
+Main Pot: 2290
+Board: [ 7s 3s Jc 8h 3h  ]
+
+DeadlyDeed balance 2210, lost 30 (folded)
+mamuel1909 balance 1740, lost 60 (folded)
+dalehmi balance 2280, didn't bet (folded)
+JBeijar balance 4790, bet 1100, collected 2290, net +1190 [ 5d 5c ] [ two pairs, Fives and Threes -- Jc,5d,5c,3s,3h ]
+m_burgoon balance 1130, didn't bet (folded)
+azzman83 balance 300, didn't bet (folded)
+Be_Happy69 balance 3950, didn't bet (folded)
+hatoka balance 1550, didn't bet (folded)
+flytotherain balance 2050, lost 1100 [ As 9c ] [ a pair of Threes -- As,Jc,9c,3s,3h ]
+
+
+***** Hand History for Game 5933387611 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 07:41:28 EDT 2007
+Table Table  125655 (Real Money) -- Seat 1 is the button
+Total number of players : 9
+Seat 1: DeadlyDeed (2210)
+Seat 2: mamuel1909 (1740)
+Seat 3: dalehmi (2280)
+Seat 4: JBeijar (4790)
+Seat 5: m_burgoon (1130)
+Seat 6: azzman83 (300)
+Seat 8: Be_Happy69 (3950)
+Seat 9: hatoka (1550)
+Seat 10: flytotherain (2050)
+mamuel1909  posts small blind (30)
+dalehmi  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 8s, 5h ]
+JBeijar raises (4790) to 4790
+JBeijar is all-In.
+m_burgoon calls (1130)
+m_burgoon is all-In.
+azzman83 calls (300)
+azzman83 is all-In.
+Be_Happy69 folds.
+hatoka folds.
+flytotherain folds.
+DeadlyDeed folds.
+mamuel1909 folds.
+dalehmi folds.
+** Dealing Flop ** :  [ Ad, 6s, Td ]
+** Dealing Turn ** :  [ 2c ]
+** Dealing River ** :  [ Qc ]
+Creating Main Pot with $990 with azzman83
+Creating Side Pot 1 with $1660 with m_burgoon
+** Summary **
+Main Pot: 990 | Side Pot 1: 1660
+Board: [ Ad 6s Td 2c Qc  ]
+
+DeadlyDeed balance 2210, didn't bet (folded)
+mamuel1909 balance 1710, lost 30 (folded)
+dalehmi balance 2220, lost 60 (folded)
+JBeijar balance 6310, bet 4790, collected 6310, net +1520 [ As Ac ] [ three of a kind, Aces -- As,Ac,Ad,Qc,Td ]
+m_burgoon balance 0, lost 1130 [ Ks Ah ] [ a pair of Aces -- Ah,Ad,Ks,Qc,Td ]
+azzman83 balance 0, lost 300 [ 7s 7c ] [ a pair of Sevens -- Ad,Qc,Td,7s,7c ]
+Be_Happy69 balance 3950, didn't bet (folded)
+hatoka balance 1550, didn't bet (folded)
+flytotherain balance 2050, didn't bet (folded)
+
+***** Hand History for Game 5933388695 *****
+azzman83 finished in 9 place.
+m_burgoon finished in 8 place.
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 07:42:03 EDT 2007
+Table Table  125655 (Real Money) -- Seat 2 is the button
+Total number of players : 7
+Seat 1: DeadlyDeed (2210)
+Seat 2: mamuel1909 (1710)
+Seat 3: dalehmi (2220)
+Seat 4: JBeijar (6310)
+Seat 8: Be_Happy69 (3950)
+Seat 9: hatoka (1550)
+Seat 10: flytotherain (2050)
+dalehmi  posts small blind (30)
+JBeijar  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Ad, 7h ]
+Be_Happy69 folds.
+hatoka raises (120) to 120
+flytotherain calls (120)
+DeadlyDeed calls (120)
+mamuel1909 folds.
+dalehmi folds.
+JBeijar calls (60)
+** Dealing Flop ** :  [ 5h, Kd, As ]
+JBeijar checks.
+hatoka bets (300)
+flytotherain folds.
+DeadlyDeed calls (300)
+JBeijar calls (300)
+** Dealing Turn ** :  [ 5d ]
+JBeijar checks.
+hatoka checks.
+DeadlyDeed checks.
+** Dealing River ** :  [ 3h ]
+JBeijar bets (390)
+hatoka calls (390)
+DeadlyDeed folds.
+** Summary **
+Main Pot: 2190
+Board: [ 5h Kd As 5d 3h  ]
+
+DeadlyDeed balance 1790, lost 420 (folded)
+mamuel1909 balance 1710, didn't bet (folded)
+dalehmi balance 2190, lost 30 (folded)
+JBeijar balance 5500, lost 810 [ 2d 3c ] [ two pairs, Fives and Threes -- As,5h,5d,3c,3h ]
+Be_Happy69 balance 3950, didn't bet (folded)
+hatoka balance 2930, bet 810, collected 2190, net +1380 [ Ad 7h ] [ two pairs, Aces and Fives -- Ad,As,Kd,5h,5d ]
+flytotherain balance 1930, lost 120 (folded)
+
+***** Hand History for Game 5933391416 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 07:43:27 EDT 2007
+Table Table  125655 (Real Money) -- Seat 3 is the button
+Total number of players : 7
+Seat 1: DeadlyDeed (1790)
+Seat 2: mamuel1909 (1710)
+Seat 3: dalehmi (2190)
+Seat 4: JBeijar (5500)
+Seat 8: Be_Happy69 (3950)
+Seat 9: hatoka (2930)
+Seat 10: flytotherain (1930)
+JBeijar  posts small blind (30)
+Be_Happy69  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Kc, 3s ]
+hatoka folds.
+flytotherain calls (60)
+DeadlyDeed raises (270) to 270
+mamuel1909 folds.
+dalehmi folds.
+JBeijar folds.
+Be_Happy69 folds.
+flytotherain calls (210)
+** Dealing Flop ** :  [ 3c, 8c, 3d ]
+flytotherain checks.
+DeadlyDeed bets (480)
+flytotherain folds.
+** Summary **
+Main Pot: 630
+Board: [ 3c 8c 3d  ]
+
+DeadlyDeed balance 2150, bet 750, collected 1110, net +360
+mamuel1909 balance 1710, didn't bet (folded)
+dalehmi balance 2190, didn't bet (folded)
+JBeijar balance 5470, lost 30 (folded)
+Be_Happy69 balance 3890, lost 60 (folded)
+hatoka balance 2930, didn't bet (folded)
+flytotherain balance 1660, lost 270 (folded)
+
+***** Hand History for Game 5933392402 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 07:43:58 EDT 2007
+Table Table  125655 (Real Money) -- Seat 4 is the button
+Total number of players : 7
+Seat 1: DeadlyDeed (2150)
+Seat 2: mamuel1909 (1710)
+Seat 3: dalehmi (2190)
+Seat 4: JBeijar (5470)
+Seat 8: Be_Happy69 (3890)
+Seat 9: hatoka (2930)
+Seat 10: flytotherain (1660)
+Be_Happy69  posts small blind (30)
+hatoka  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Tc, 5c ]
+flytotherain folds.
+DeadlyDeed raises (120) to 120
+mamuel1909 folds.
+dalehmi calls (120)
+JBeijar folds.
+Be_Happy69 folds.
+hatoka folds.
+** Dealing Flop ** :  [ Kc, Ah, 8h ]
+DeadlyDeed bets (300)
+dalehmi calls (300)
+** Dealing Turn ** :  [ 2h ]
+DeadlyDeed bets (240)
+dalehmi calls (240)
+** Dealing River ** :  [ 7d ]
+DeadlyDeed bets (180)
+dalehmi calls (180)
+** Summary **
+Main Pot: 1770
+Board: [ Kc Ah 8h 2h 7d  ]
+
+DeadlyDeed balance 3080, bet 840, collected 1770, net +930 [ Qc Ad ] [ a pair of Aces with Queen kicker -- Ad,Ah,Kc,Qc,8hQc(kicker card) ]
+mamuel1909 balance 1710, didn't bet (folded)
+dalehmi balance 1350, lost 840 [ 4s As ] [ a pair of Aces -- As,Ah,Kc,8h,7d ]
+
+JBeijar balance 5470, didn't bet (folded)
+Be_Happy69 balance 3860, lost 30 (folded)
+hatoka balance 2870, lost 60 (folded)
+flytotherain balance 1660, didn't bet (folded)
+
+***** Hand History for Game 5933394094 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 07:44:51 EDT 2007
+Table Table  125655 (Real Money) -- Seat 8 is the button
+Total number of players : 7
+Seat 1: DeadlyDeed (3080)
+Seat 2: mamuel1909 (1710)
+Seat 3: dalehmi (1350)
+Seat 4: JBeijar (5470)
+Seat 8: Be_Happy69 (3860)
+Seat 9: hatoka (2870)
+Seat 10: flytotherain (1660)
+hatoka  posts small blind (30)
+flytotherain  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Th, Kh ]
+DeadlyDeed calls (60)
+mamuel1909 folds.
+dalehmi folds.
+JBeijar folds.
+Be_Happy69 folds.
+hatoka raises (90) to 120
+flytotherain calls (60)
+DeadlyDeed calls (60)
+** Dealing Flop ** :  [ 6c, 3c, Js ]
+hatoka checks.
+flytotherain checks.
+DeadlyDeed checks.
+** Dealing Turn ** :  [ 5s ]
+hatoka checks.
+flytotherain checks.
+DeadlyDeed checks.
+** Dealing River ** :  [ 4d ]
+hatoka bets (300)
+flytotherain raises (600) to 600
+DeadlyDeed folds.
+hatoka folds.
+** Summary **
+Main Pot: 960
+Board: [ 6c 3c Js 5s 4d  ]
+
+DeadlyDeed balance 2960, lost 120 (folded)
+mamuel1909 balance 1710, didn't bet (folded)
+dalehmi balance 1350, didn't bet (folded)
+JBeijar balance 5470, didn't bet (folded)
+Be_Happy69 balance 3860, didn't bet (folded)
+hatoka balance 2450, lost 420 (folded)
+flytotherain balance 2200, bet 720, collected 1260, net +540
+
+***** Hand History for Game 5933395983 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 07:45:49 EDT 2007
+Table Table  125655 (Real Money) -- Seat 9 is the button
+Total number of players : 7
+Seat 1: DeadlyDeed (2960)
+Seat 2: mamuel1909 (1710)
+Seat 3: dalehmi (1350)
+Seat 4: JBeijar (5470)
+Seat 8: Be_Happy69 (3860)
+Seat 9: hatoka (2450)
+Seat 10: flytotherain (2200)
+flytotherain  posts small blind (30)
+DeadlyDeed  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 9d, Qh ]
+mamuel1909 folds.
+dalehmi calls (60)
+JBeijar calls (60)
+Be_Happy69 folds.
+hatoka folds.
+flytotherain calls (30)
+DeadlyDeed checks.
+** Dealing Flop ** :  [ 6d, 2s, 9h ]
+flytotherain bets (60)
+DeadlyDeed folds.
+dalehmi calls (60)
+JBeijar calls (60)
+** Dealing Turn ** :  [ 6h ]
+flytotherain bets (120)
+dalehmi folds.
+JBeijar folds.
+** Summary **
+Main Pot: 420
+Board: [ 6d 2s 9h 6h  ]
+
+DeadlyDeed balance 2900, lost 60 (folded)
+mamuel1909 balance 1710, didn't bet (folded)
+dalehmi balance 1230, lost 120 (folded)
+JBeijar balance 5350, lost 120 (folded)
+Be_Happy69 balance 3860, didn't bet (folded)
+hatoka balance 2450, didn't bet (folded)
+flytotherain balance 2500, bet 240, collected 540, net +300
+
+***** Hand History for Game 5933397084 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 07:46:23 EDT 2007
+Table Table  125655 (Real Money) -- Seat 10 is the button
+Total number of players : 7
+Seat 1: DeadlyDeed (2900)
+Seat 2: mamuel1909 (1710)
+Seat 3: dalehmi (1230)
+Seat 4: JBeijar (5350)
+Seat 8: Be_Happy69 (3860)
+Seat 9: hatoka (2450)
+Seat 10: flytotherain (2500)
+DeadlyDeed  posts small blind (30)
+mamuel1909  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Qd, 8s ]
+dalehmi folds.
+JBeijar folds.
+Be_Happy69 folds.
+hatoka folds.
+flytotherain raises (120) to 120
+DeadlyDeed calls (90)
+mamuel1909 folds.
+** Dealing Flop ** :  [ 4s, 6s, Jh ]
+DeadlyDeed bets (240)
+flytotherain raises (480) to 480
+DeadlyDeed calls (240)
+** Dealing Turn ** :  [ 4d ]
+DeadlyDeed checks.
+flytotherain bets (300)
+DeadlyDeed folds.
+** Summary **
+Main Pot: 1260
+Board: [ 4s 6s Jh 4d  ]
+
+DeadlyDeed balance 2300, lost 600 (folded)
+mamuel1909 balance 1650, lost 60 (folded)
+dalehmi balance 1230, didn't bet (folded)
+JBeijar balance 5350, didn't bet (folded)
+Be_Happy69 balance 3860, didn't bet (folded)
+hatoka balance 2450, didn't bet (folded)
+flytotherain balance 3160, bet 900, collected 1560, net +660
+
+***** Hand History for Game 5933398521 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 07:47:07 EDT 2007
+Table Table  125655 (Real Money) -- Seat 1 is the button
+Total number of players : 7
+Seat 1: DeadlyDeed (2300)
+Seat 2: mamuel1909 (1650)
+Seat 3: dalehmi (1230)
+Seat 4: JBeijar (5350)
+Seat 8: Be_Happy69 (3860)
+Seat 9: hatoka (2450)
+Seat 10: flytotherain (3160)
+mamuel1909  posts small blind (30)
+dalehmi  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 6s, 8s ]
+JBeijar folds.
+Be_Happy69 folds.
+hatoka folds.
+flytotherain calls (60)
+DeadlyDeed raises (120) to 120
+mamuel1909 calls (90)
+dalehmi folds.
+flytotherain calls (60)
+** Dealing Flop ** :  [ Tc, Qd, Jd ]
+mamuel1909 bets (180)
+flytotherain calls (180)
+DeadlyDeed raises (1860) to 1860
+mamuel1909 calls (1350)
+mamuel1909 is all-In.
+flytotherain folds.
+** Dealing Turn ** :  [ 4c ]
+** Dealing River ** :  [ 9d ]
+Creating Main Pot with $3660 with mamuel1909
+** Summary **
+Main Pot: 3660
+Board: [ Tc Qd Jd 4c 9d  ]
+
+DeadlyDeed balance 650, bet 1980, collected 330, lost -1650 [ Ks Kd ] [ a straight Nine to King -- Ks,Qd,Jd,Tc,9d ]
+mamuel1909 balance 3660, bet 1650, collected 3660, net +2010 [ Ad 7d ] [ a flush, Ace high -- Ad,Qd,Jd,9d,7d ]
+dalehmi balance 1170, lost 60 (folded)
+JBeijar balance 5350, didn't bet (folded)
+Be_Happy69 balance 3860, didn't bet (folded)
+hatoka balance 2450, didn't bet (folded)
+flytotherain balance 2860, lost 300 (folded)
+
+***** Hand History for Game 5933399860 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 07:47:48 EDT 2007
+Table Table  125655 (Real Money) -- Seat 2 is the button
+Total number of players : 7
+Seat 1: DeadlyDeed (650)
+Seat 2: mamuel1909 (3660)
+Seat 3: dalehmi (1170)
+Seat 4: JBeijar (5350)
+Seat 8: Be_Happy69 (3860)
+Seat 9: hatoka (2450)
+Seat 10: flytotherain (2860)
+dalehmi  posts small blind (30)
+JBeijar  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Ac, 3s ]
+Be_Happy69 folds.
+mamuel1909: i had to call it
+hatoka raises (120) to 120
+flytotherain calls (120)
+DeadlyDeed folds.
+mamuel1909 folds.
+dalehmi folds.
+JBeijar calls (60)
+** Dealing Flop ** :  [ 9s, Qc, 2d ]
+JBeijar checks.
+hatoka checks.
+flytotherain bets (60)
+JBeijar calls (60)
+DeadlyDeed: Its all fair
+hatoka folds.
+** Dealing Turn ** :  [ 6h ]
+JBeijar checks.
+flytotherain bets (60)
+JBeijar calls (60)
+** Dealing River ** :  [ 7d ]
+JBeijar checks.
+flytotherain bets (180)
+JBeijar folds.
+** Summary **
+Main Pot: 630
+Board: [ 9s Qc 2d 6h 7d  ]
+
+DeadlyDeed balance 650, didn't bet (folded)
+mamuel1909 balance 3660, didn't bet (folded)
+dalehmi balance 1140, lost 30 (folded)
+JBeijar balance 5110, lost 240 (folded)
+Be_Happy69 balance 3860, didn't bet (folded)
+hatoka balance 2330, lost 120 (folded)
+flytotherain balance 3250, bet 420, collected 810, net +390
+
+***** Hand History for Game 5933401587 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 07:48:40 EDT 2007
+Table Table  125655 (Real Money) -- Seat 3 is the button
+Total number of players : 7
+Seat 1: DeadlyDeed (650)
+Seat 2: mamuel1909 (3660)
+Seat 3: dalehmi (1140)
+Seat 4: JBeijar (5110)
+Seat 8: Be_Happy69 (3860)
+Seat 9: hatoka (2330)
+Seat 10: flytotherain (3250)
+JBeijar  posts small blind (30)
+Be_Happy69  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Qd, As ]
+hatoka raises (180) to 180
+flytotherain calls (180)
+DeadlyDeed folds.
+mamuel1909 calls (180)
+dalehmi raises (1140) to 1140
+dalehmi is all-In.
+JBeijar folds.
+Be_Happy69 folds.
+hatoka folds.
+flytotherain folds.
+mamuel1909 folds.
+Creating Main Pot with $810 with dalehmi
+** Summary **
+Main Pot: 810
+
+DeadlyDeed balance 650, didn't bet (folded)
+mamuel1909 balance 3480, lost 180 (folded)
+dalehmi balance 1770, bet 1140, collected 1770, net +630
+JBeijar balance 5080, lost 30 (folded)
+Be_Happy69 balance 3800, lost 60 (folded)
+hatoka balance 2150, lost 180 (folded)
+flytotherain balance 3070, lost 180 (folded)
+
+***** Hand History for Game 5933402950 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 07:49:22 EDT 2007
+Table Table  125655 (Real Money) -- Seat 4 is the button
+Total number of players : 7
+Seat 1: DeadlyDeed (650)
+Seat 2: mamuel1909 (3480)
+Seat 3: dalehmi (1770)
+Seat 4: JBeijar (5080)
+Seat 8: Be_Happy69 (3800)
+Seat 9: hatoka (2150)
+Seat 10: flytotherain (3070)
+Be_Happy69  posts small blind (50)
+hatoka  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Qd, Ad ]
+flytotherain calls (100)
+DeadlyDeed raises (650) to 650
+DeadlyDeed is all-In.
+mamuel1909 folds.
+dalehmi folds.
+JBeijar folds.
+Be_Happy69 folds.
+hatoka calls (550)
+flytotherain calls (550)
+Creating Main Pot with $2000 with DeadlyDeed
+** Dealing Flop ** :  [ 9c, 9s, 7h ]
+hatoka checks.
+flytotherain checks.
+** Dealing Turn ** :  [ Jh ]
+hatoka checks.
+flytotherain checks.
+** Dealing River ** :  [ 6h ]
+hatoka checks.
+flytotherain checks.
+** Summary **
+Main Pot: 2000
+Board: [ 9c 9s 7h Jh 6h  ]
+
+DeadlyDeed balance 2000, bet 650, collected 2000, net +1350 [ 7d Ah ] [ two pairs, Nines and Sevens -- Ah,9c,9s,7d,7h ]
+mamuel1909 balance 3480, didn't bet (folded)
+dalehmi balance 1770, didn't bet (folded)
+JBeijar balance 5080, didn't bet (folded)
+Be_Happy69 balance 3750, lost 50 (folded)
+hatoka balance 1500, lost 650 [ Qd Ad ] [ a pair of Nines with Ace kicker -- Ad,Qd,Jh,9c,9sAd(kicker card) ]
+flytotherain balance 2420, lost 650 [ Th Kd ] [ a pair of Nines -- Kd,Jh,Th,9c,9s ]
+
+
+***** Hand History for Game 5933404532 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 07:50:11 EDT 2007
+Table Table  125655 (Real Money) -- Seat 8 is the button
+Total number of players : 7
+Seat 1: DeadlyDeed (2000)
+Seat 2: mamuel1909 (3480)
+Seat 3: dalehmi (1770)
+Seat 4: JBeijar (5080)
+Seat 8: Be_Happy69 (3750)
+Seat 9: hatoka (1500)
+Seat 10: flytotherain (2420)
+hatoka  posts small blind (50)
+flytotherain  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 7c, 6c ]
+DeadlyDeed folds.
+mamuel1909 folds.
+dalehmi folds.
+JBeijar raises (280) to 280
+Be_Happy69 folds.
+hatoka folds.
+flytotherain calls (180)
+** Dealing Flop ** :  [ Qc, 6s, Ts ]
+flytotherain bets (100)
+JBeijar calls (100)
+** Dealing Turn ** :  [ 4h ]
+flytotherain bets (100)
+JBeijar calls (100)
+** Dealing River ** :  [ 4d ]
+flytotherain bets (100)
+JBeijar raises (600) to 600
+flytotherain calls (500)
+** Summary **
+Main Pot: 2210
+Board: [ Qc 6s Ts 4h 4d  ]
+
+DeadlyDeed balance 2000, didn't bet (folded)
+mamuel1909 balance 3480, didn't bet (folded)
+dalehmi balance 1770, didn't bet (folded)
+JBeijar balance 4000, lost 1080 [ 7d 7s ] [ two pairs, Sevens and Fours -- Qc,7d,7s,4h,4d ]
+Be_Happy69 balance 3750, didn't bet (folded)
+hatoka balance 1450, lost 50 (folded)
+flytotherain balance 3550, bet 1080, collected 2210, net +1130 [ Qd 5s ] [ two pairs, Queens and Fours -- Qd,Qc,Ts,4h,4d ]
+
+***** Hand History for Game 5933405799 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 07:50:48 EDT 2007
+Table Table  125655 (Real Money) -- Seat 9 is the button
+Total number of players : 7
+Seat 1: DeadlyDeed (2000)
+Seat 2: mamuel1909 (3480)
+Seat 3: dalehmi (1770)
+Seat 4: JBeijar (4000)
+Seat 8: Be_Happy69 (3750)
+Seat 9: hatoka (1450)
+Seat 10: flytotherain (3550)
+flytotherain  posts small blind (50)
+DeadlyDeed  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Jc, Kc ]
+mamuel1909 folds.
+dalehmi folds.
+JBeijar folds.
+Be_Happy69 folds.
+hatoka raises (300) to 300
+flytotherain calls (250)
+DeadlyDeed calls (200)
+** Dealing Flop ** :  [ Js, 5s, Qh ]
+flytotherain checks.
+DeadlyDeed checks.
+hatoka bets (500)
+flytotherain folds.
+DeadlyDeed folds.
+** Summary **
+Main Pot: 900
+Board: [ Js 5s Qh  ]
+
+DeadlyDeed balance 1700, lost 300 (folded)
+mamuel1909 balance 3480, didn't bet (folded)
+dalehmi balance 1770, didn't bet (folded)
+JBeijar balance 4000, didn't bet (folded)
+Be_Happy69 balance 3750, didn't bet (folded)
+hatoka balance 2050, bet 800, collected 1400, net +600
+flytotherain balance 3250, lost 300 (folded)
+
+***** Hand History for Game 5933407727 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 07:51:47 EDT 2007
+Table Table  125655 (Real Money) -- Seat 10 is the button
+Total number of players : 7
+Seat 1: DeadlyDeed (1700)
+Seat 2: mamuel1909 (3480)
+Seat 3: dalehmi (1770)
+Seat 4: JBeijar (4000)
+Seat 8: Be_Happy69 (3750)
+Seat 9: hatoka (2050)
+Seat 10: flytotherain (3250)
+DeadlyDeed  posts small blind (50)
+mamuel1909  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 5c, 9c ]
+dalehmi folds.
+JBeijar folds.
+Be_Happy69 folds.
+hatoka folds.
+flytotherain calls (100)
+DeadlyDeed folds.
+mamuel1909 checks.
+** Dealing Flop ** :  [ 7d, Kc, Jd ]
+mamuel1909 bets (100)
+flytotherain raises (200) to 200
+mamuel1909 folds.
+** Summary **
+Main Pot: 450
+Board: [ 7d Kc Jd  ]
+
+DeadlyDeed balance 1650, lost 50 (folded)
+mamuel1909 balance 3280, lost 200 (folded)
+dalehmi balance 1770, didn't bet (folded)
+JBeijar balance 4000, didn't bet (folded)
+Be_Happy69 balance 3750, didn't bet (folded)
+hatoka balance 2050, didn't bet (folded)
+flytotherain balance 3500, bet 300, collected 550, net +250
+
+***** Hand History for Game 5933408382 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 07:52:06 EDT 2007
+Table Table  125655 (Real Money) -- Seat 1 is the button
+Total number of players : 7
+Seat 1: DeadlyDeed (1650)
+Seat 2: mamuel1909 (3280)
+Seat 3: dalehmi (1770)
+Seat 4: JBeijar (4000)
+Seat 8: Be_Happy69 (3750)
+Seat 9: hatoka (2050)
+Seat 10: flytotherain (3500)
+mamuel1909  posts small blind (50)
+dalehmi  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Qs, 9c ]
+JBeijar raises (250) to 250
+Be_Happy69 folds.
+hatoka folds.
+flytotherain calls (250)
+DeadlyDeed folds.
+mamuel1909 folds.
+dalehmi folds.
+** Dealing Flop ** :  [ Ah, Qc, 7c ]
+JBeijar checks.
+flytotherain checks.
+** Dealing Turn ** :  [ 4s ]
+JBeijar checks.
+flytotherain checks.
+** Dealing River ** :  [ 6c ]
+JBeijar bets (750)
+flytotherain folds.
+** Summary **
+Main Pot: 650
+Board: [ Ah Qc 7c 4s 6c  ]
+
+DeadlyDeed balance 1650, didn't bet (folded)
+mamuel1909 balance 3230, lost 50 (folded)
+dalehmi balance 1670, lost 100 (folded)
+JBeijar balance 4400, bet 1000, collected 1400, net +400
+Be_Happy69 balance 3750, didn't bet (folded)
+hatoka balance 2050, didn't bet (folded)
+flytotherain balance 3250, lost 250 (folded)
+
+***** Hand History for Game 5933410109 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 07:52:56 EDT 2007
+Table Table  125655 (Real Money) -- Seat 2 is the button
+Total number of players : 7
+Seat 1: DeadlyDeed (1650)
+Seat 2: mamuel1909 (3230)
+Seat 3: dalehmi (1670)
+Seat 4: JBeijar (4400)
+Seat 8: Be_Happy69 (3750)
+Seat 9: hatoka (2050)
+Seat 10: flytotherain (3250)
+dalehmi  posts small blind (50)
+JBeijar  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Jc, 5d ]
+Be_Happy69 folds.
+hatoka folds.
+flytotherain calls (100)
+DeadlyDeed folds.
+mamuel1909 folds.
+dalehmi calls (50)
+JBeijar checks.
+** Dealing Flop ** :  [ 6s, Js, 6d ]
+dalehmi bets (100)
+JBeijar calls (100)
+flytotherain folds.
+** Dealing Turn ** :  [ 6c ]
+dalehmi bets (100)
+JBeijar calls (100)
+** Dealing River ** :  [ 2h ]
+dalehmi bets (1370)
+dalehmi is all-In.
+JBeijar folds.
+Creating Main Pot with $700 with dalehmi
+** Summary **
+Main Pot: 700
+Board: [ 6s Js 6d 6c 2h  ]
+
+DeadlyDeed balance 1650, didn't bet (folded)
+mamuel1909 balance 3230, didn't bet (folded)
+dalehmi balance 2070, bet 1670, collected 2070, net +400
+JBeijar balance 4100, lost 300 (folded)
+Be_Happy69 balance 3750, didn't bet (folded)
+hatoka balance 2050, didn't bet (folded)
+flytotherain balance 3150, lost 100 (folded)
+
+***** Hand History for Game 5933411277 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 07:53:32 EDT 2007
+Table Table  125655 (Real Money) -- Seat 3 is the button
+Total number of players : 7
+Seat 1: DeadlyDeed (1650)
+Seat 2: mamuel1909 (3230)
+Seat 3: dalehmi (2070)
+Seat 4: JBeijar (4100)
+Seat 8: Be_Happy69 (3750)
+Seat 9: hatoka (2050)
+Seat 10: flytotherain (3150)
+JBeijar  posts small blind (50)
+Be_Happy69  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Qs, Jh ]
+hatoka raises (300) to 300
+flytotherain calls (300)
+DeadlyDeed folds.
+mamuel1909 folds.
+dalehmi folds.
+JBeijar folds.
+Be_Happy69 calls (200)
+** Dealing Flop ** :  [ 5h, Qd, 3h ]
+Be_Happy69 checks.
+hatoka bets (600)
+flytotherain folds.
+Be_Happy69 folds.
+** Summary **
+Main Pot: 950
+Board: [ 5h Qd 3h  ]
+
+DeadlyDeed balance 1650, didn't bet (folded)
+mamuel1909 balance 3230, didn't bet (folded)
+dalehmi balance 2070, didn't bet (folded)
+JBeijar balance 4050, lost 50 (folded)
+Be_Happy69 balance 3450, lost 300 (folded)
+hatoka balance 2700, bet 900, collected 1550, net +650
+flytotherain balance 2850, lost 300 (folded)
+
+***** Hand History for Game 5933412816 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 07:54:18 EDT 2007
+Table Table  125655 (Real Money) -- Seat 4 is the button
+Total number of players : 7
+Seat 1: DeadlyDeed (1650)
+Seat 2: mamuel1909 (3230)
+Seat 3: dalehmi (2070)
+Seat 4: JBeijar (4050)
+Seat 8: Be_Happy69 (3450)
+Seat 9: hatoka (2700)
+Seat 10: flytotherain (2850)
+Be_Happy69  posts small blind (50)
+hatoka  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 5h, 9d ]
+flytotherain folds.
+DeadlyDeed raises (400) to 400
+mamuel1909 raises (700) to 700
+dalehmi folds.
+JBeijar folds.
+Be_Happy69 folds.
+hatoka folds.
+DeadlyDeed calls (300)
+** Dealing Flop ** :  [ Ks, 8d, Jh ]
+DeadlyDeed bets (950)
+DeadlyDeed is all-In.
+mamuel1909 calls (950)
+** Dealing Turn ** :  [ 4s ]
+** Dealing River ** :  [ As ]
+Creating Main Pot with $3450 with DeadlyDeed
+** Summary **
+Main Pot: 3450
+Board: [ Ks 8d Jh 4s As  ]
+
+DeadlyDeed balance 0, lost 1650 [ 3d 3s ] [ a pair of Threes -- As,Ks,Jh,3d,3s ]
+mamuel1909 balance 5030, bet 1650, collected 3450, net +1800 [ Kd Ac ] [ two pairs, Aces and Kings -- Ac,As,Kd,Ks,Jh ]
+dalehmi balance 2070, didn't bet (folded)
+JBeijar balance 4050, didn't bet (folded)
+Be_Happy69 balance 3400, lost 50 (folded)
+hatoka balance 2600, lost 100 (folded)
+flytotherain balance 2850, didn't bet (folded)
+
+***** Hand History for Game 5933414162 *****
+DeadlyDeed finished in 7 place.
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 07:54:58 EDT 2007
+Table Table  125655 (Real Money) -- Seat 8 is the button
+Total number of players : 6
+Seat 2: mamuel1909 (5030)
+Seat 3: dalehmi (2070)
+Seat 4: JBeijar (4050)
+Seat 8: Be_Happy69 (3400)
+Seat 9: hatoka (2600)
+Seat 10: flytotherain (2850)
+hatoka  posts small blind (50)
+flytotherain  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 9d, 8c ]
+mamuel1909 raises (200) to 200
+dalehmi calls (200)
+JBeijar folds.
+Be_Happy69 folds.
+hatoka folds.
+flytotherain raises (200) to 300
+mamuel1909 calls (100)
+dalehmi raises (1870) to 2070
+dalehmi is all-In.
+flytotherain calls (1770)
+mamuel1909 folds.
+** Dealing Flop ** :  [ Qd, 6d, 9c ]
+** Dealing Turn ** :  [ 4c ]
+** Dealing River ** :  [ 7h ]
+Creating Main Pot with $4490 with dalehmi
+** Summary **
+Main Pot: 4490
+Board: [ Qd 6d 9c 4c 7h  ]
+
+mamuel1909 balance 4730, lost 300 (folded)
+dalehmi balance 0, lost 2070 [ Ac Qc ] [ a pair of Queens -- Ac,Qc,Qd,9c,7h ]
+JBeijar balance 4050, didn't bet (folded)
+Be_Happy69 balance 3400, didn't bet (folded)
+hatoka balance 2550, lost 50 (folded)
+flytotherain balance 5270, bet 2070, collected 4490, net +2420 [ As Ad ] [ a pair of Aces -- As,Ad,Qd,9c,7h ]
+
+***** Hand History for Game 5933415227 *****
+dalehmi finished in 6 place.
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 07:55:29 EDT 2007
+Table Table  125655 (Real Money) -- Seat 9 is the button
+Total number of players : 5
+Seat 2: mamuel1909 (4730)
+Seat 4: JBeijar (4050)
+Seat 8: Be_Happy69 (3400)
+Seat 9: hatoka (2550)
+Seat 10: flytotherain (5270)
+flytotherain  posts small blind (50)
+mamuel1909  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 8d, 2c ]
+JBeijar raises (250) to 250
+Be_Happy69 folds.
+hatoka folds.
+flytotherain calls (200)
+mamuel1909 folds.
+** Dealing Flop ** :  [ Qd, Qc, 6h ]
+flytotherain checks.
+JBeijar bets (100)
+flytotherain folds.
+** Summary **
+Main Pot: 600
+Board: [ Qd Qc 6h  ]
+
+mamuel1909 balance 4630, lost 100 (folded)
+JBeijar balance 4400, bet 350, collected 700, net +350
+Be_Happy69 balance 3400, didn't bet (folded)
+hatoka balance 2550, didn't bet (folded)
+flytotherain balance 5020, lost 250 (folded)
+
+***** Hand History for Game 5933416218 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 07:55:59 EDT 2007
+Table Table  125655 (Real Money) -- Seat 10 is the button
+Total number of players : 5
+Seat 2: mamuel1909 (4630)
+Seat 4: JBeijar (4400)
+Seat 8: Be_Happy69 (3400)
+Seat 9: hatoka (2550)
+Seat 10: flytotherain (5020)
+mamuel1909  posts small blind (50)
+JBeijar  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 7h, 7s ]
+Be_Happy69 folds.
+hatoka raises (500) to 500
+flytotherain calls (500)
+mamuel1909 folds.
+JBeijar folds.
+** Dealing Flop ** :  [ 9s, 8c, 9d ]
+hatoka checks.
+flytotherain bets (500)
+hatoka calls (500)
+** Dealing Turn ** :  [ 4h ]
+hatoka checks.
+flytotherain checks.
+** Dealing River ** :  [ 8h ]
+hatoka bets (1000)
+flytotherain folds.
+** Summary **
+Main Pot: 2150
+Board: [ 9s 8c 9d 4h 8h  ]
+
+mamuel1909 balance 4580, lost 50 (folded)
+JBeijar balance 4300, lost 100 (folded)
+Be_Happy69 balance 3400, didn't bet (folded)
+hatoka balance 3700, bet 2000, collected 3150, net +1150
+flytotherain balance 4020, lost 1000 (folded)
+
+***** Hand History for Game 5933418676 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 07:57:11 EDT 2007
+Table Table  125655 (Real Money) -- Seat 2 is the button
+Total number of players : 5
+Seat 2: mamuel1909 (4580)
+Seat 4: JBeijar (4300)
+Seat 8: Be_Happy69 (3400)
+Seat 9: hatoka (3700)
+Seat 10: flytotherain (4020)
+JBeijar  posts small blind (50)
+Be_Happy69  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Ts, 8d ]
+hatoka folds.
+flytotherain folds.
+mamuel1909 folds.
+JBeijar calls (50)
+Be_Happy69 raises (500) to 600
+JBeijar folds.
+** Summary **
+Main Pot: 200
+
+mamuel1909 balance 4580, didn't bet (folded)
+JBeijar balance 4200, lost 100 (folded)
+Be_Happy69 balance 3500, bet 600, collected 700, net +100
+hatoka balance 3700, didn't bet (folded)
+flytotherain balance 4020, didn't bet (folded)
+
+***** Hand History for Game 5933419392 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 07:57:32 EDT 2007
+Table Table  125655 (Real Money) -- Seat 4 is the button
+Total number of players : 5
+Seat 2: mamuel1909 (4580)
+Seat 4: JBeijar (4200)
+Seat 8: Be_Happy69 (3500)
+Seat 9: hatoka (3700)
+Seat 10: flytotherain (4020)
+Be_Happy69  posts small blind (50)
+hatoka  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Td, 3d ]
+flytotherain calls (100)
+mamuel1909 folds.
+JBeijar calls (100)
+Be_Happy69 calls (50)
+hatoka checks.
+** Dealing Flop ** :  [ 4c, 4h, Ts ]
+Be_Happy69 checks.
+hatoka bets (400)
+flytotherain folds.
+JBeijar folds.
+Be_Happy69 calls (400)
+** Dealing Turn ** :  [ 7s ]
+Be_Happy69 checks.
+hatoka checks.
+** Dealing River ** :  [ Qc ]
+Be_Happy69 bets (600)
+hatoka calls (600)
+** Summary **
+Main Pot: 2400
+Board: [ 4c 4h Ts 7s Qc  ]
+
+mamuel1909 balance 4580, didn't bet (folded)
+JBeijar balance 4100, lost 100 (folded)
+Be_Happy69 balance 4800, bet 1100, collected 2400, net +1300 [ 4s Kd ] [ three of a kind, Fours -- Kd,Qc,4s,4c,4h ]
+hatoka balance 2600, lost 1100 [ Td 3d ] [ two pairs, Tens and Fours -- Qc,Td,Ts,4c,4h ]
+
+flytotherain balance 3920, lost 100 (folded)
+
+***** Hand History for Game 5933421511 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 07:58:35 EDT 2007
+Table Table  125655 (Real Money) -- Seat 8 is the button
+Total number of players : 5
+Seat 2: mamuel1909 (4580)
+Seat 4: JBeijar (4100)
+Seat 8: Be_Happy69 (4800)
+Seat 9: hatoka (2600)
+Seat 10: flytotherain (3920)
+hatoka  posts small blind (50)
+flytotherain  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Qd, 8h ]
+mamuel1909 folds.
+JBeijar folds.
+Be_Happy69 folds.
+hatoka folds.
+** Summary **
+Main Pot: 100
+
+mamuel1909 balance 4580, didn't bet (folded)
+JBeijar balance 4100, didn't bet (folded)
+Be_Happy69 balance 4800, didn't bet (folded)
+hatoka balance 2550, lost 50 (folded)
+flytotherain balance 3970, bet 100, collected 150, net +50
+
+***** Hand History for Game 5933421910 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 07:58:46 EDT 2007
+Table Table  125655 (Real Money) -- Seat 9 is the button
+Total number of players : 5
+Seat 2: mamuel1909 (4580)
+Seat 4: JBeijar (4100)
+Seat 8: Be_Happy69 (4800)
+Seat 9: hatoka (2550)
+Seat 10: flytotherain (3970)
+flytotherain  posts small blind (50)
+mamuel1909  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 7c, 4h ]
+JBeijar folds.
+Be_Happy69 folds.
+hatoka folds.
+flytotherain calls (50)
+mamuel1909 checks.
+** Dealing Flop ** :  [ 8d, 3h, 5s ]
+flytotherain bets (100)
+mamuel1909 folds.
+** Summary **
+Main Pot: 200
+Board: [ 8d 3h 5s  ]
+
+mamuel1909 balance 4480, lost 100 (folded)
+JBeijar balance 4100, didn't bet (folded)
+Be_Happy69 balance 4800, didn't bet (folded)
+hatoka balance 2550, didn't bet (folded)
+flytotherain balance 4070, bet 200, collected 300, net +100
+
+***** Hand History for Game 5933422593 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 07:59:07 EDT 2007
+Table Table  125655 (Real Money) -- Seat 10 is the button
+Total number of players : 5
+Seat 2: mamuel1909 (4480)
+Seat 4: JBeijar (4100)
+Seat 8: Be_Happy69 (4800)
+Seat 9: hatoka (2550)
+Seat 10: flytotherain (4070)
+mamuel1909  posts small blind (50)
+JBeijar  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 6s, Kd ]
+Be_Happy69 folds.
+hatoka folds.
+flytotherain calls (100)
+mamuel1909 folds.
+JBeijar checks.
+** Dealing Flop ** :  [ 4c, 7s, 3c ]
+JBeijar checks.
+flytotherain checks.
+** Dealing Turn ** :  [ 3h ]
+JBeijar bets (100)
+flytotherain folds.
+** Summary **
+Main Pot: 250
+Board: [ 4c 7s 3c 3h  ]
+
+mamuel1909 balance 4430, lost 50 (folded)
+JBeijar balance 4250, bet 200, collected 350, net +150
+Be_Happy69 balance 4800, didn't bet (folded)
+hatoka balance 2550, didn't bet (folded)
+flytotherain balance 3970, lost 100 (folded)
+
+***** Hand History for Game 5933424168 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 07:59:53 EDT 2007
+Table Table  125655 (Real Money) -- Seat 2 is the button
+Total number of players : 5
+Seat 2: mamuel1909 (4430)
+Seat 4: JBeijar (4250)
+Seat 8: Be_Happy69 (4800)
+Seat 9: hatoka (2550)
+Seat 10: flytotherain (3970)
+JBeijar  posts small blind (100)
+Be_Happy69  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Js, Ah ]
+hatoka could not respond in time.(disconnected)
+hatoka folds.
+flytotherain calls (200)
+mamuel1909 folds.
+JBeijar folds.
+Be_Happy69 checks.
+** Dealing Flop ** :  [ 3c, 4d, Kc ]
+Be_Happy69 checks.
+flytotherain checks.
+** Dealing Turn ** :  [ Qc ]
+Be_Happy69 bets (200)
+flytotherain folds.
+** Summary **
+Main Pot: 500
+Board: [ 3c 4d Kc Qc  ]
+
+mamuel1909 balance 4430, didn't bet (folded)
+JBeijar balance 4150, lost 100 (folded)
+Be_Happy69 balance 5100, bet 400, collected 700, net +300
+hatoka balance 2550, didn't bet (folded)
+flytotherain balance 3770, lost 200 (folded)
+
+***** Hand History for Game 5933425917 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 08:00:44 EDT 2007
+Table Table  125655 (Real Money) -- Seat 4 is the button
+Total number of players : 5
+Seat 2: mamuel1909 (4430)
+Seat 4: JBeijar (4150)
+Seat 8: Be_Happy69 (5100)
+Seat 9: hatoka (2550)
+Seat 10: flytotherain (3770)
+Be_Happy69  posts small blind (100)
+hatoka  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 7c, 8h ]
+flytotherain calls (200)
+mamuel1909 folds.
+JBeijar folds.
+Be_Happy69 folds.
+hatoka folds.
+** Summary **
+Main Pot: 500
+
+mamuel1909 balance 4430, didn't bet (folded)
+JBeijar balance 4150, didn't bet (folded)
+Be_Happy69 balance 5000, lost 100 (folded)
+hatoka balance 2350, lost 200 (folded)
+flytotherain balance 4070, bet 200, collected 500, net +300
+
+***** Hand History for Game 5933426216 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 08:00:53 EDT 2007
+Table Table  125655 (Real Money) -- Seat 8 is the button
+Total number of players : 5
+Seat 2: mamuel1909 (4430)
+Seat 4: JBeijar (4150)
+Seat 8: Be_Happy69 (5000)
+Seat 9: hatoka (2350)
+Seat 10: flytotherain (4070)
+hatoka  posts small blind (100)
+flytotherain  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Jh, Kc ]
+mamuel1909 folds.
+JBeijar folds.
+Be_Happy69 folds.
+hatoka raises (300) to 400
+flytotherain folds.
+** Summary **
+Main Pot: 400
+
+mamuel1909 balance 4430, didn't bet (folded)
+JBeijar balance 4150, didn't bet (folded)
+Be_Happy69 balance 5000, didn't bet (folded)
+hatoka balance 2550, bet 400, collected 600, net +200
+flytotherain balance 3870, lost 200 (folded)
+
+***** Hand History for Game 5933426773 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 08:01:09 EDT 2007
+Table Table  125655 (Real Money) -- Seat 9 is the button
+Total number of players : 5
+Seat 2: mamuel1909 (4430)
+Seat 4: JBeijar (4150)
+Seat 8: Be_Happy69 (5000)
+Seat 9: hatoka (2550)
+Seat 10: flytotherain (3870)
+flytotherain  posts small blind (100)
+mamuel1909  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 6s, 7d ]
+JBeijar folds.
+Be_Happy69 folds.
+hatoka folds.
+flytotherain calls (100)
+mamuel1909 checks.
+** Dealing Flop ** :  [ Kc, Kh, 8h ]
+flytotherain checks.
+mamuel1909 checks.
+** Dealing Turn ** :  [ Ah ]
+flytotherain checks.
+mamuel1909 checks.
+** Dealing River ** :  [ Jd ]
+flytotherain checks.
+mamuel1909 checks.
+** Summary **
+Main Pot: 400
+Board: [ Kc Kh 8h Ah Jd  ]
+
+mamuel1909 balance 4430, bet 200, collected 200, net +0 [ 3c 5s ] [ a pair of Kings -- Ah,Kc,Kh,Jd,8h ]
+JBeijar balance 4150, didn't bet (folded)
+Be_Happy69 balance 5000, didn't bet (folded)
+hatoka balance 2550, didn't bet (folded)
+flytotherain balance 3870, bet 200, collected 200, net +0 [ 2d 5h ] [ a pair of Kings -- Ah,Kc,Kh,Jd,8h ]
+
+***** Hand History for Game 5933427620 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 08:01:33 EDT 2007
+Table Table  125655 (Real Money) -- Seat 10 is the button
+Total number of players : 5
+Seat 2: mamuel1909 (4430)
+Seat 4: JBeijar (4150)
+Seat 8: Be_Happy69 (5000)
+Seat 9: hatoka (2550)
+Seat 10: flytotherain (3870)
+mamuel1909  posts small blind (100)
+JBeijar  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Ah, 7c ]
+Be_Happy69 folds.
+hatoka raises (400) to 400
+flytotherain calls (400)
+mamuel1909 calls (300)
+JBeijar folds.
+** Dealing Flop ** :  [ 8s, Jd, 3d ]
+mamuel1909 bets (200)
+hatoka calls (200)
+flytotherain calls (200)
+** Dealing Turn ** :  [ 5h ]
+mamuel1909 checks.
+hatoka checks.
+flytotherain checks.
+** Dealing River ** :  [ 7h ]
+mamuel1909 checks.
+hatoka bets (500)
+flytotherain calls (500)
+mamuel1909 calls (500)
+** Summary **
+Main Pot: 3500
+Board: [ 8s Jd 3d 5h 7h  ]
+
+mamuel1909 balance 3330, lost 1100 [ 3c Ac ] [ a pair of Threes -- Ac,Jd,8s,3c,3d ]
+
+JBeijar balance 3950, lost 200 (folded)
+Be_Happy69 balance 5000, didn't bet (folded)
+hatoka balance 1450, lost 1100 [ Ah 7c ] [ a pair of Sevens -- Ah,Jd,8s,7c,7h ]
+flytotherain balance 6270, bet 1100, collected 3500, net +2400 [ Qh 8d ] [ a pair of Eights -- Qh,Jd,8d,8s,7h ]
+
+***** Hand History for Game 5933429711 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 08:02:34 EDT 2007
+Table Table  125655 (Real Money) -- Seat 2 is the button
+Total number of players : 5
+Seat 2: mamuel1909 (3330)
+Seat 4: JBeijar (3950)
+Seat 8: Be_Happy69 (5000)
+Seat 9: hatoka (1450)
+Seat 10: flytotherain (6270)
+JBeijar  posts small blind (100)
+Be_Happy69  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 2d, 3d ]
+hatoka folds.
+flytotherain calls (200)
+mamuel1909 folds.
+JBeijar calls (100)
+Be_Happy69 checks.
+** Dealing Flop ** :  [ 3h, 7d, Qd ]
+JBeijar bets (200)
+Be_Happy69 folds.
+flytotherain folds.
+** Summary **
+Main Pot: 600
+Board: [ 3h 7d Qd  ]
+
+mamuel1909 balance 3330, didn't bet (folded)
+JBeijar balance 4350, bet 400, collected 800, net +400
+Be_Happy69 balance 4800, lost 200 (folded)
+hatoka balance 1450, didn't bet (folded)
+flytotherain balance 6070, lost 200 (folded)
+
+***** Hand History for Game 5933430542 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 08:02:57 EDT 2007
+Table Table  125655 (Real Money) -- Seat 4 is the button
+Total number of players : 5
+Seat 2: mamuel1909 (3330)
+Seat 4: JBeijar (4350)
+Seat 8: Be_Happy69 (4800)
+Seat 9: hatoka (1450)
+Seat 10: flytotherain (6070)
+Be_Happy69  posts small blind (100)
+hatoka  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 3s, 6s ]
+flytotherain calls (200)
+mamuel1909 folds.
+JBeijar folds.
+Be_Happy69 folds.
+hatoka checks.
+** Dealing Flop ** :  [ Th, 6d, 2d ]
+hatoka checks.
+flytotherain checks.
+** Dealing Turn ** :  [ Qd ]
+hatoka bets (300)
+flytotherain calls (300)
+** Dealing River ** :  [ Tc ]
+hatoka checks.
+flytotherain checks.
+** Summary **
+Main Pot: 1100
+Board: [ Th 6d 2d Qd Tc  ]
+
+mamuel1909 balance 3330, didn't bet (folded)
+JBeijar balance 4350, didn't bet (folded)
+Be_Happy69 balance 4700, lost 100 (folded)
+hatoka balance 2050, bet 500, collected 1100, net +600 [ 3s 6s ] [ two pairs, Tens and Sixes -- Qd,Th,Tc,6s,6d ]
+flytotherain balance 5570, lost 500 [ Js Kc ] [ a pair of Tens -- Kc,Qd,Js,Th,Tc ]
+
+
+***** Hand History for Game 5933432266 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 08:03:47 EDT 2007
+Table Table  125655 (Real Money) -- Seat 8 is the button
+Total number of players : 5
+Seat 2: mamuel1909 (3330)
+Seat 4: JBeijar (4350)
+Seat 8: Be_Happy69 (4700)
+Seat 9: hatoka (2050)
+Seat 10: flytotherain (5570)
+hatoka  posts small blind (100)
+flytotherain  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Th, Ad ]
+mamuel1909 folds.
+JBeijar calls (200)
+Be_Happy69 folds.
+hatoka raises (300) to 400
+flytotherain calls (200)
+JBeijar calls (200)
+** Dealing Flop ** :  [ Ah, 9d, Kd ]
+hatoka bets (500)
+flytotherain calls (500)
+JBeijar calls (500)
+** Dealing Turn ** :  [ Ac ]
+hatoka checks.
+flytotherain bets (1200)
+JBeijar calls (1200)
+hatoka calls (1150)
+hatoka is all-In.
+Creating Main Pot with $6150 with hatoka
+** Dealing River ** :  [ 6s ]
+flytotherain checks.
+JBeijar checks.
+** Summary **
+Main Pot: 6150 | Side Pot 1: 100
+Board: [ Ah 9d Kd Ac 6s  ]
+
+mamuel1909 balance 3330, didn't bet (folded)
+JBeijar balance 2350, bet 2100, collected 100, lost -2000 [ As 8c ] [ three of a kind, Aces -- As,Ah,Ac,Kd,9d ]
+Be_Happy69 balance 4700, didn't bet (folded)
+hatoka balance 6150, bet 2050, collected 6150, net +4100 [ Th Ad ] [ three of a kind, Aces with Ten kicker -- Ad,Ah,Ac,Kd,Th ]
+flytotherain balance 3470, lost 2100 [ Ks 7d ] [ two pairs, Aces and Kings -- Ah,Ac,Ks,Kd,9d ]
+
+***** Hand History for Game 5933434370 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 08:04:50 EDT 2007
+Table Table  125655 (Real Money) -- Seat 9 is the button
+Total number of players : 5
+Seat 2: mamuel1909 (3330)
+Seat 4: JBeijar (2350)
+Seat 8: Be_Happy69 (4700)
+Seat 9: hatoka (6150)
+Seat 10: flytotherain (3470)
+flytotherain  posts small blind (100)
+mamuel1909  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Kh, 4c ]
+JBeijar folds.
+Be_Happy69 folds.
+hatoka folds.
+flytotherain calls (100)
+mamuel1909 checks.
+** Dealing Flop ** :  [ 5h, Kd, 8h ]
+flytotherain checks.
+mamuel1909 checks.
+** Dealing Turn ** :  [ 2c ]
+flytotherain checks.
+mamuel1909 checks.
+** Dealing River ** :  [ 7c ]
+flytotherain bets (400)
+mamuel1909 folds.
+** Summary **
+Main Pot: 400
+Board: [ 5h Kd 8h 2c 7c  ]
+
+mamuel1909 balance 3130, lost 200 (folded)
+JBeijar balance 2350, didn't bet (folded)
+Be_Happy69 balance 4700, didn't bet (folded)
+hatoka balance 6150, didn't bet (folded)
+flytotherain balance 3670, bet 600, collected 800, net +200
+
+***** Hand History for Game 5933435569 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 08:05:23 EDT 2007
+Table Table  125655 (Real Money) -- Seat 10 is the button
+Total number of players : 5
+Seat 2: mamuel1909 (3130)
+Seat 4: JBeijar (2350)
+Seat 8: Be_Happy69 (4700)
+Seat 9: hatoka (6150)
+Seat 10: flytotherain (3670)
+mamuel1909  posts small blind (100)
+JBeijar  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Qh, Kd ]
+Be_Happy69 folds.
+hatoka raises (400) to 400
+flytotherain calls (400)
+mamuel1909 folds.
+JBeijar folds.
+** Dealing Flop ** :  [ Jd, 5s, 3s ]
+hatoka checks.
+flytotherain checks.
+** Dealing Turn ** :  [ 9c ]
+hatoka bets (500)
+flytotherain calls (500)
+** Dealing River ** :  [ 4d ]
+hatoka checks.
+flytotherain checks.
+** Summary **
+Main Pot: 2100
+Board: [ Jd 5s 3s 9c 4d  ]
+
+mamuel1909 balance 3030, lost 100 (folded)
+JBeijar balance 2150, lost 200 (folded)
+Be_Happy69 balance 4700, didn't bet (folded)
+hatoka balance 5250, lost 900 [ Qh Kd ] [ high card King -- Kd,Qh,Jd,9c,5s ]
+flytotherain balance 4870, bet 900, collected 2100, net +1200 [ Ks 9h ] [ a pair of Nines -- Ks,Jd,9h,9c,5s ]
+
+***** Hand History for Game 5933437288 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 08:06:13 EDT 2007
+Table Table  125655 (Real Money) -- Seat 2 is the button
+Total number of players : 5
+Seat 2: mamuel1909 (3030)
+Seat 4: JBeijar (2150)
+Seat 8: Be_Happy69 (4700)
+Seat 9: hatoka (5250)
+Seat 10: flytotherain (4870)
+JBeijar  posts small blind (100)
+Be_Happy69  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 3s, 5h ]
+hatoka folds.
+flytotherain calls (200)
+mamuel1909 folds.
+JBeijar folds.
+Be_Happy69 checks.
+** Dealing Flop ** :  [ 7c, 9d, 2c ]
+Be_Happy69 checks.
+flytotherain bets (200)
+Be_Happy69 calls (200)
+** Dealing Turn ** :  [ Qd ]
+Be_Happy69 checks.
+flytotherain bets (600)
+Be_Happy69 calls (600)
+** Dealing River ** :  [ Jh ]
+Be_Happy69 checks.
+flytotherain bets (1000)
+Be_Happy69 calls (1000)
+** Summary **
+Main Pot: 4100
+Board: [ 7c 9d 2c Qd Jh  ]
+
+mamuel1909 balance 3030, didn't bet (folded)
+JBeijar balance 2050, lost 100 (folded)
+Be_Happy69 balance 2700, lost 2000 [ 9c 8d ] [ a pair of Nines -- Qd,Jh,9c,9d,8d ]
+
+hatoka balance 5250, didn't bet (folded)
+flytotherain balance 6970, bet 2000, collected 4100, net +2100 [ 9s 7h ] [ two pairs, Nines and Sevens -- Qd,9s,9d,7h,7c ]
+
+***** Hand History for Game 5933439029 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 08:07:03 EDT 2007
+Table Table  125655 (Real Money) -- Seat 4 is the button
+Total number of players : 5
+Seat 2: mamuel1909 (3030)
+Seat 4: JBeijar (2050)
+Seat 8: Be_Happy69 (2700)
+Seat 9: hatoka (5250)
+Seat 10: flytotherain (6970)
+Be_Happy69  posts small blind (100)
+hatoka  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 5d, Qc ]
+flytotherain raises (400) to 400
+mamuel1909 folds.
+JBeijar folds.
+Be_Happy69 folds.
+hatoka folds.
+** Summary **
+Main Pot: 500
+
+mamuel1909 balance 3030, didn't bet (folded)
+JBeijar balance 2050, didn't bet (folded)
+Be_Happy69 balance 2600, lost 100 (folded)
+hatoka balance 5050, lost 200 (folded)
+flytotherain balance 7270, bet 400, collected 700, net +300
+
+***** Hand History for Game 5933439760 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 08:07:24 EDT 2007
+Table Table  125655 (Real Money) -- Seat 8 is the button
+Total number of players : 5
+Seat 2: mamuel1909 (3030)
+Seat 4: JBeijar (2050)
+Seat 8: Be_Happy69 (2600)
+Seat 9: hatoka (5050)
+Seat 10: flytotherain (7270)
+hatoka  posts small blind (100)
+flytotherain  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Ts, 4s ]
+mamuel1909 folds.
+JBeijar folds.
+Be_Happy69 folds.
+hatoka calls (100)
+flytotherain raises (200) to 400
+hatoka folds.
+** Summary **
+Main Pot: 400
+
+mamuel1909 balance 3030, didn't bet (folded)
+JBeijar balance 2050, didn't bet (folded)
+Be_Happy69 balance 2600, didn't bet (folded)
+hatoka balance 4850, lost 200 (folded)
+flytotherain balance 7470, bet 400, collected 600, net +200
+
+***** Hand History for Game 5933440640 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 08:07:50 EDT 2007
+Table Table  125655 (Real Money) -- Seat 9 is the button
+Total number of players : 5
+Seat 2: mamuel1909 (3030)
+Seat 4: JBeijar (2050)
+Seat 8: Be_Happy69 (2600)
+Seat 9: hatoka (4850)
+Seat 10: flytotherain (7470)
+flytotherain  posts small blind (100)
+mamuel1909  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 5d, Kh ]
+JBeijar raises (2050) to 2050
+JBeijar is all-In.
+Be_Happy69 folds.
+hatoka folds.
+flytotherain calls (1950)
+mamuel1909 folds.
+** Dealing Flop ** :  [ 8h, Tc, Kc ]
+** Dealing Turn ** :  [ Ah ]
+** Dealing River ** :  [ 3h ]
+Creating Main Pot with $4300 with JBeijar
+** Summary **
+Main Pot: 4300
+Board: [ 8h Tc Kc Ah 3h  ]
+
+mamuel1909 balance 2830, lost 200 (folded)
+JBeijar balance 0, lost 2050 [ 2s As ] [ a pair of Aces -- As,Ah,Kc,Tc,8h ]
+Be_Happy69 balance 2600, didn't bet (folded)
+hatoka balance 4850, didn't bet (folded)
+flytotherain balance 9720, bet 2050, collected 4300, net +2250 [ 8d 8s ] [ three of a kind, Eights -- Ah,Kc,8d,8s,8h ]
+
+***** Hand History for Game 5933441222 *****
+JBeijar finished in 5 place.
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 08:08:06 EDT 2007
+Table Table  125655 (Real Money) -- Seat 10 is the button
+Total number of players : 4
+Seat 2: mamuel1909 (2830)
+Seat 8: Be_Happy69 (2600)
+Seat 9: hatoka (4850)
+Seat 10: flytotherain (9720)
+mamuel1909  posts small blind (100)
+Be_Happy69  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 9c, 2c ]
+hatoka folds.
+flytotherain calls (200)
+mamuel1909 raises (2730) to 2830
+mamuel1909 is all-In.
+Be_Happy69 folds.
+flytotherain folds.
+Creating Main Pot with $600 with mamuel1909
+** Summary **
+Main Pot: 600
+
+mamuel1909 balance 3230, bet 2830, collected 3230, net +400
+Be_Happy69 balance 2400, lost 200 (folded)
+hatoka balance 4850, didn't bet (folded)
+flytotherain balance 9520, lost 200 (folded)
+
+***** Hand History for Game 5933441824 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 08:08:23 EDT 2007
+Table Table  125655 (Real Money) -- Seat 2 is the button
+Total number of players : 4
+Seat 2: mamuel1909 (3230)
+Seat 8: Be_Happy69 (2400)
+Seat 9: hatoka (4850)
+Seat 10: flytotherain (9520)
+Be_Happy69  posts small blind (100)
+hatoka  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 2h, 3s ]
+flytotherain calls (200)
+mamuel1909 folds.
+Be_Happy69 calls (100)
+hatoka checks.
+** Dealing Flop ** :  [ 3h, 9h, 4s ]
+Be_Happy69 checks.
+hatoka checks.
+flytotherain checks.
+** Dealing Turn ** :  [ Tc ]
+Be_Happy69 bets (200)
+hatoka folds.
+flytotherain calls (200)
+** Dealing River ** :  [ 3c ]
+Be_Happy69 checks.
+flytotherain checks.
+** Summary **
+Main Pot: 1000
+Board: [ 3h 9h 4s Tc 3c  ]
+
+mamuel1909 balance 3230, didn't bet (folded)
+Be_Happy69 balance 3000, bet 400, collected 1000, net +600 [ Qh As ] [ a pair of Threes with Ace kicker -- As,Qh,Tc,3h,3cAs(kicker card) ]
+hatoka balance 4650, lost 200 (folded)
+flytotherain balance 9120, lost 400 [ 8h Qc ] [ a pair of Threes -- Qc,Tc,9h,3h,3c ]
+
+
+***** Hand History for Game 5933443404 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 08:09:10 EDT 2007
+Table Table  125655 (Real Money) -- Seat 8 is the button
+Total number of players : 4
+Seat 2: mamuel1909 (3230)
+Seat 8: Be_Happy69 (3000)
+Seat 9: hatoka (4650)
+Seat 10: flytotherain (9120)
+hatoka  posts small blind (100)
+flytotherain  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 7h, Ts ]
+mamuel1909 folds.
+Be_Happy69 folds.
+hatoka folds.
+** Summary **
+Main Pot: 200
+
+mamuel1909 balance 3230, didn't bet (folded)
+Be_Happy69 balance 3000, didn't bet (folded)
+hatoka balance 4550, lost 100 (folded)
+flytotherain balance 9220, bet 200, collected 300, net +100
+
+***** Hand History for Game 5933443837 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 08:09:23 EDT 2007
+Table Table  125655 (Real Money) -- Seat 9 is the button
+Total number of players : 4
+Seat 2: mamuel1909 (3230)
+Seat 8: Be_Happy69 (3000)
+Seat 9: hatoka (4550)
+Seat 10: flytotherain (9220)
+flytotherain  posts small blind (100)
+mamuel1909  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 4s, Td ]
+Be_Happy69 folds.
+hatoka folds.
+flytotherain calls (100)
+mamuel1909 checks.
+** Dealing Flop ** :  [ 4c, Tc, 2h ]
+flytotherain checks.
+mamuel1909 checks.
+** Dealing Turn ** :  [ Jh ]
+flytotherain checks.
+mamuel1909 checks.
+** Dealing River ** :  [ 3d ]
+flytotherain bets (600)
+mamuel1909 folds.
+** Summary **
+Main Pot: 400
+Board: [ 4c Tc 2h Jh 3d  ]
+
+mamuel1909 balance 3030, lost 200 (folded)
+Be_Happy69 balance 3000, didn't bet (folded)
+hatoka balance 4550, didn't bet (folded)
+flytotherain balance 9420, bet 800, collected 1000, net +200
+
+***** Hand History for Game 5933444470 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 08:09:42 EDT 2007
+Table Table  125655 (Real Money) -- Seat 10 is the button
+Total number of players : 4
+Seat 2: mamuel1909 (3030)
+Seat 8: Be_Happy69 (3000)
+Seat 9: hatoka (4550)
+Seat 10: flytotherain (9420)
+mamuel1909  posts small blind (100)
+Be_Happy69  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Ah, 3s ]
+hatoka raises (400) to 400
+flytotherain calls (400)
+mamuel1909 folds.
+Be_Happy69 folds.
+** Dealing Flop ** :  [ 9c, Jd, 7c ]
+hatoka checks.
+flytotherain checks.
+** Dealing Turn ** :  [ 4h ]
+hatoka checks.
+flytotherain checks.
+** Dealing River ** :  [ 5h ]
+hatoka bets (400)
+flytotherain folds.
+** Summary **
+Main Pot: 1100
+Board: [ 9c Jd 7c 4h 5h  ]
+
+mamuel1909 balance 2930, lost 100 (folded)
+Be_Happy69 balance 2800, lost 200 (folded)
+hatoka balance 5250, bet 800, collected 1500, net +700
+flytotherain balance 9020, lost 400 (folded)
+
+***** Hand History for Game 5933445545 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 08:10:14 EDT 2007
+Table Table  125655 (Real Money) -- Seat 2 is the button
+Total number of players : 4
+Seat 2: mamuel1909 (2930)
+Seat 8: Be_Happy69 (2800)
+Seat 9: hatoka (5250)
+Seat 10: flytotherain (9020)
+Be_Happy69  posts small blind (200)
+hatoka  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 6h, 2h ]
+flytotherain calls (400)
+mamuel1909 folds.
+Be_Happy69 folds.
+hatoka checks.
+** Dealing Flop ** :  [ 4s, Kc, 7s ]
+hatoka checks.
+flytotherain bets (400)
+hatoka folds.
+** Summary **
+Main Pot: 1000
+Board: [ 4s Kc 7s  ]
+
+mamuel1909 balance 2930, didn't bet (folded)
+Be_Happy69 balance 2600, lost 200 (folded)
+hatoka balance 4850, lost 400 (folded)
+flytotherain balance 9620, bet 800, collected 1400, net +600
+
+***** Hand History for Game 5933446528 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 08:10:42 EDT 2007
+Table Table  125655 (Real Money) -- Seat 8 is the button
+Total number of players : 4
+Seat 2: mamuel1909 (2930)
+Seat 8: Be_Happy69 (2600)
+Seat 9: hatoka (4850)
+Seat 10: flytotherain (9620)
+hatoka  posts small blind (200)
+flytotherain  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 7c, 3d ]
+mamuel1909 folds.
+Be_Happy69 folds.
+hatoka folds.
+** Summary **
+Main Pot: 400
+
+mamuel1909 balance 2930, didn't bet (folded)
+Be_Happy69 balance 2600, didn't bet (folded)
+hatoka balance 4650, lost 200 (folded)
+flytotherain balance 9820, bet 400, collected 600, net +200
+
+***** Hand History for Game 5933446951 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 08:10:54 EDT 2007
+Table Table  125655 (Real Money) -- Seat 9 is the button
+Total number of players : 4
+Seat 2: mamuel1909 (2930)
+Seat 8: Be_Happy69 (2600)
+Seat 9: hatoka (4650)
+Seat 10: flytotherain (9820)
+flytotherain  posts small blind (200)
+mamuel1909  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 2d, 7c ]
+Be_Happy69 folds.
+hatoka folds.
+flytotherain calls (200)
+mamuel1909 checks.
+** Dealing Flop ** :  [ 7d, 5h, Jd ]
+flytotherain checks.
+mamuel1909 checks.
+** Dealing Turn ** :  [ 5c ]
+flytotherain checks.
+mamuel1909 checks.
+** Dealing River ** :  [ 8c ]
+flytotherain checks.
+mamuel1909 bets (800)
+flytotherain folds.
+** Summary **
+Main Pot: 800
+Board: [ 7d 5h Jd 5c 8c  ]
+
+mamuel1909 balance 3330, bet 1200, collected 1600, net +400
+Be_Happy69 balance 2600, didn't bet (folded)
+hatoka balance 4650, didn't bet (folded)
+flytotherain balance 9420, lost 400 (folded)
+
+***** Hand History for Game 5933447913 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 08:11:21 EDT 2007
+Table Table  125655 (Real Money) -- Seat 10 is the button
+Total number of players : 4
+Seat 2: mamuel1909 (3330)
+Seat 8: Be_Happy69 (2600)
+Seat 9: hatoka (4650)
+Seat 10: flytotherain (9420)
+mamuel1909  posts small blind (200)
+Be_Happy69  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ Qs, Js ]
+hatoka raises (800) to 800
+flytotherain calls (800)
+mamuel1909 folds.
+Be_Happy69 folds.
+** Dealing Flop ** :  [ 5c, 8d, 3h ]
+hatoka checks.
+flytotherain bets (400)
+hatoka calls (400)
+** Dealing Turn ** :  [ 7c ]
+hatoka checks.
+flytotherain checks.
+** Dealing River ** :  [ Td ]
+hatoka checks.
+flytotherain bets (1200)
+hatoka folds.
+** Summary **
+Main Pot: 3000
+Board: [ 5c 8d 3h 7c Td  ]
+
+mamuel1909 balance 3130, lost 200 (folded)
+Be_Happy69 balance 2200, lost 400 (folded)
+hatoka balance 3450, lost 1200 (folded)
+flytotherain balance 11220, bet 2400, collected 4200, net +1800
+
+***** Hand History for Game 5933449730 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 08:12:14 EDT 2007
+Table Table  125655 (Real Money) -- Seat 2 is the button
+Total number of players : 4
+Seat 2: mamuel1909 (3130)
+Seat 8: Be_Happy69 (2200)
+Seat 9: hatoka (3450)
+Seat 10: flytotherain (11220)
+Be_Happy69  posts small blind (200)
+hatoka  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 5d, 3c ]
+flytotherain raises (800) to 800
+mamuel1909 folds.
+Be_Happy69 folds.
+hatoka folds.
+** Summary **
+Main Pot: 1000
+
+mamuel1909 balance 3130, didn't bet (folded)
+Be_Happy69 balance 2000, lost 200 (folded)
+hatoka balance 3050, lost 400 (folded)
+flytotherain balance 11820, bet 800, collected 1400, net +600
+
+***** Hand History for Game 5933450059 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 08:12:24 EDT 2007
+Table Table  125655 (Real Money) -- Seat 8 is the button
+Total number of players : 4
+Seat 2: mamuel1909 (3130)
+Seat 8: Be_Happy69 (2000)
+Seat 9: hatoka (3050)
+Seat 10: flytotherain (11820)
+hatoka  posts small blind (200)
+flytotherain  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ Jh, Ad ]
+mamuel1909 folds.
+Be_Happy69 folds.
+hatoka raises (600) to 800
+flytotherain calls (400)
+** Dealing Flop ** :  [ 6c, Jd, 4d ]
+hatoka bets (400)
+flytotherain folds.
+** Summary **
+Main Pot: 1600
+Board: [ 6c Jd 4d  ]
+
+mamuel1909 balance 3130, didn't bet (folded)
+Be_Happy69 balance 2000, didn't bet (folded)
+hatoka balance 3850, bet 1200, collected 2000, net +800
+flytotherain balance 11020, lost 800 (folded)
+
+***** Hand History for Game 5933450784 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 08:12:45 EDT 2007
+Table Table  125655 (Real Money) -- Seat 9 is the button
+Total number of players : 4
+Seat 2: mamuel1909 (3130)
+Seat 8: Be_Happy69 (2000)
+Seat 9: hatoka (3850)
+Seat 10: flytotherain (11020)
+flytotherain  posts small blind (200)
+mamuel1909  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ Kd, Js ]
+Be_Happy69 folds.
+hatoka raises (1200) to 1200
+flytotherain folds.
+mamuel1909 folds.
+** Summary **
+Main Pot: 1000
+
+mamuel1909 balance 2730, lost 400 (folded)
+Be_Happy69 balance 2000, didn't bet (folded)
+hatoka balance 4450, bet 1200, collected 1800, net +600
+flytotherain balance 10820, lost 200 (folded)
+
+***** Hand History for Game 5933451325 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 08:13:01 EDT 2007
+Table Table  125655 (Real Money) -- Seat 10 is the button
+Total number of players : 4
+Seat 2: mamuel1909 (2730)
+Seat 8: Be_Happy69 (2000)
+Seat 9: hatoka (4450)
+Seat 10: flytotherain (10820)
+mamuel1909  posts small blind (200)
+Be_Happy69  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 9h, 3s ]
+hatoka folds.
+flytotherain calls (400)
+mamuel1909 raises (2530) to 2730
+mamuel1909 is all-In.
+Be_Happy69 folds.
+flytotherain folds.
+Creating Main Pot with $1200 with mamuel1909
+** Summary **
+Main Pot: 1200
+
+mamuel1909 balance 3530, bet 2730, collected 3530, net +800
+Be_Happy69 balance 1600, lost 400 (folded)
+hatoka balance 4450, didn't bet (folded)
+flytotherain balance 10420, lost 400 (folded)
+
+***** Hand History for Game 5933451901 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 08:13:18 EDT 2007
+Table Table  125655 (Real Money) -- Seat 2 is the button
+Total number of players : 4
+Seat 2: mamuel1909 (3530)
+Seat 8: Be_Happy69 (1600)
+Seat 9: hatoka (4450)
+Seat 10: flytotherain (10420)
+Be_Happy69  posts small blind (200)
+hatoka  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 7s, 2s ]
+flytotherain calls (400)
+mamuel1909 folds.
+Be_Happy69 folds.
+hatoka checks.
+** Dealing Flop ** :  [ Qc, 7h, 7c ]
+hatoka checks.
+flytotherain bets (400)
+hatoka calls (400)
+** Dealing Turn ** :  [ Td ]
+hatoka bets (500)
+flytotherain calls (500)
+** Dealing River ** :  [ Kc ]
+hatoka checks.
+flytotherain checks.
+** Summary **
+Main Pot: 2800
+Board: [ Qc 7h 7c Td Kc  ]
+
+mamuel1909 balance 3530, didn't bet (folded)
+Be_Happy69 balance 1400, lost 200 (folded)
+hatoka balance 5950, bet 1300, collected 2800, net +1500 [ 7s 2s ] [ three of a kind, Sevens -- Kc,Qc,7s,7h,7c ]
+flytotherain balance 9120, lost 1300 [ 5d 5c ] [ two pairs, Sevens and Fives -- Kc,7h,7c,5d,5c ]
+
+
+***** Hand History for Game 5933453248 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 08:13:55 EDT 2007
+Table Table  125655 (Real Money) -- Seat 8 is the button
+Total number of players : 4
+Seat 2: mamuel1909 (3530)
+Seat 8: Be_Happy69 (1400)
+Seat 9: hatoka (5950)
+Seat 10: flytotherain (9120)
+hatoka  posts small blind (200)
+flytotherain  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 3s, 5c ]
+mamuel1909 folds.
+Be_Happy69 folds.
+hatoka folds.
+** Summary **
+Main Pot: 400
+
+mamuel1909 balance 3530, didn't bet (folded)
+Be_Happy69 balance 1400, didn't bet (folded)
+hatoka balance 5750, lost 200 (folded)
+flytotherain balance 9320, bet 400, collected 600, net +200
+
+***** Hand History for Game 5933453804 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 08:14:12 EDT 2007
+Table Table  125655 (Real Money) -- Seat 9 is the button
+Total number of players : 4
+Seat 2: mamuel1909 (3530)
+Seat 8: Be_Happy69 (1400)
+Seat 9: hatoka (5750)
+Seat 10: flytotherain (9320)
+flytotherain  posts small blind (200)
+mamuel1909  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 3h, Qh ]
+Be_Happy69 raises (800) to 800
+hatoka folds.
+flytotherain calls (600)
+mamuel1909 folds.
+** Dealing Flop ** :  [ 3c, 8s, Jc ]
+flytotherain checks.
+Be_Happy69 bets (600)
+Be_Happy69 is all-In.
+flytotherain calls (600)
+** Dealing Turn ** :  [ 4h ]
+** Dealing River ** :  [ Jd ]
+Creating Main Pot with $3200 with Be_Happy69
+** Summary **
+Main Pot: 3200
+Board: [ 3c 8s Jc 4h Jd  ]
+
+mamuel1909 balance 3130, lost 400 (folded)
+Be_Happy69 balance 3200, bet 1400, collected 3200, net +1800 [ As Ac ] [ two pairs, Aces and Jacks -- As,Ac,Jc,Jd,8s ]
+hatoka balance 5750, didn't bet (folded)
+flytotherain balance 7920, lost 1400 [ 5h Qs ] [ a pair of Jacks -- Qs,Jc,Jd,8s,5h ]
+
+***** Hand History for Game 5933455342 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 08:14:57 EDT 2007
+Table Table  125655 (Real Money) -- Seat 10 is the button
+Total number of players : 4
+Seat 2: mamuel1909 (3130)
+Seat 8: Be_Happy69 (3200)
+Seat 9: hatoka (5750)
+Seat 10: flytotherain (7920)
+mamuel1909  posts small blind (200)
+Be_Happy69  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ Qs, 4d ]
+hatoka folds.
+flytotherain folds.
+mamuel1909 raises (2930) to 3130
+mamuel1909 is all-In.
+Be_Happy69 folds.
+Creating Main Pot with $800 with mamuel1909
+** Summary **
+Main Pot: 800
+
+mamuel1909 balance 3530, bet 3130, collected 3530, net +400
+Be_Happy69 balance 2800, lost 400 (folded)
+hatoka balance 5750, didn't bet (folded)
+flytotherain balance 7920, didn't bet (folded)
+
+***** Hand History for Game 5933455876 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 08:15:13 EDT 2007
+Table Table  125655 (Real Money) -- Seat 2 is the button
+Total number of players : 4
+Seat 2: mamuel1909 (3530)
+Seat 8: Be_Happy69 (2800)
+Seat 9: hatoka (5750)
+Seat 10: flytotherain (7920)
+Be_Happy69  posts small blind (200)
+hatoka  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ Kc, Js ]
+flytotherain calls (400)
+mamuel1909 folds.
+Be_Happy69 folds.
+hatoka raises (800) to 1200
+flytotherain calls (800)
+** Dealing Flop ** :  [ 6d, Ah, Qh ]
+hatoka checks.
+flytotherain checks.
+** Dealing Turn ** :  [ 4s ]
+hatoka bets (500)
+flytotherain calls (500)
+** Dealing River ** :  [ 8h ]
+hatoka checks.
+flytotherain checks.
+** Summary **
+Main Pot: 3600
+Board: [ 6d Ah Qh 4s 8h  ]
+
+mamuel1909 balance 3530, didn't bet (folded)
+Be_Happy69 balance 2600, lost 200 (folded)
+hatoka balance 4050, lost 1700 [ Kc Js ] [ high card Ace -- Ah,Kc,Qh,Js,8h ]
+flytotherain balance 9820, bet 1700, collected 3600, net +1900 [ 9d 9c ] [ a pair of Nines -- Ah,Qh,9d,9c,8h ]
+
+***** Hand History for Game 5933457464 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 08:15:58 EDT 2007
+Table Table  125655 (Real Money) -- Seat 8 is the button
+Total number of players : 4
+Seat 2: mamuel1909 (3530)
+Seat 8: Be_Happy69 (2600)
+Seat 9: hatoka (4050)
+Seat 10: flytotherain (9820)
+hatoka  posts small blind (200)
+flytotherain  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 5d, 6h ]
+mamuel1909 raises (3530) to 3530
+mamuel1909 is all-In.
+Be_Happy69 folds.
+hatoka folds.
+flytotherain folds.
+Creating Main Pot with $1000 with mamuel1909
+** Summary **
+Main Pot: 1000
+
+mamuel1909 balance 4130, bet 3530, collected 4130, net +600
+Be_Happy69 balance 2600, didn't bet (folded)
+hatoka balance 3850, lost 200 (folded)
+flytotherain balance 9420, lost 400 (folded)
+
+***** Hand History for Game 5933457914 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 08:16:11 EDT 2007
+Table Table  125655 (Real Money) -- Seat 9 is the button
+Total number of players : 4
+Seat 2: mamuel1909 (4130)
+Seat 8: Be_Happy69 (2600)
+Seat 9: hatoka (3850)
+Seat 10: flytotherain (9420)
+flytotherain  posts small blind (200)
+mamuel1909  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 3h, 8s ]
+Be_Happy69 folds.
+hatoka folds.
+flytotherain calls (200)
+mamuel1909 checks.
+** Dealing Flop ** :  [ 3c, 7s, Qh ]
+flytotherain bets (400)
+mamuel1909 folds.
+** Summary **
+Main Pot: 800
+Board: [ 3c 7s Qh  ]
+
+mamuel1909 balance 3730, lost 400 (folded)
+Be_Happy69 balance 2600, didn't bet (folded)
+hatoka balance 3850, didn't bet (folded)
+flytotherain balance 9820, bet 800, collected 1200, net +400
+
+***** Hand History for Game 5933458396 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 08:16:25 EDT 2007
+Table Table  125655 (Real Money) -- Seat 10 is the button
+Total number of players : 4
+Seat 2: mamuel1909 (3730)
+Seat 8: Be_Happy69 (2600)
+Seat 9: hatoka (3850)
+Seat 10: flytotherain (9820)
+mamuel1909  posts small blind (200)
+Be_Happy69  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ Qh, Kc ]
+hatoka raises (800) to 800
+flytotherain folds.
+mamuel1909 folds.
+Be_Happy69 folds.
+** Summary **
+Main Pot: 1000
+
+mamuel1909 balance 3530, lost 200 (folded)
+Be_Happy69 balance 2200, lost 400 (folded)
+hatoka balance 4450, bet 800, collected 1400, net +600
+flytotherain balance 9820, didn't bet (folded)
+
+***** Hand History for Game 5933458772 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 08:16:36 EDT 2007
+Table Table  125655 (Real Money) -- Seat 2 is the button
+Total number of players : 4
+Seat 2: mamuel1909 (3530)
+Seat 8: Be_Happy69 (2200)
+Seat 9: hatoka (4450)
+Seat 10: flytotherain (9820)
+Be_Happy69  posts small blind (200)
+hatoka  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ Ks, Qs ]
+flytotherain folds.
+mamuel1909 folds.
+Be_Happy69 folds.
+** Summary **
+Main Pot: 400
+
+mamuel1909 balance 3530, didn't bet (folded)
+Be_Happy69 balance 2000, lost 200 (folded)
+hatoka balance 4650, bet 400, collected 600, net +200
+flytotherain balance 9820, didn't bet (folded)
+
+***** Hand History for Game 5933459210 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 08:16:48 EDT 2007
+Table Table  125655 (Real Money) -- Seat 8 is the button
+Total number of players : 4
+Seat 2: mamuel1909 (3530)
+Seat 8: Be_Happy69 (2000)
+Seat 9: hatoka (4650)
+Seat 10: flytotherain (9820)
+hatoka  posts small blind (200)
+flytotherain  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ Jh, 9s ]
+mamuel1909 folds.
+Be_Happy69 folds.
+hatoka calls (200)
+flytotherain checks.
+** Dealing Flop ** :  [ Qs, 9c, Th ]
+hatoka bets (800)
+flytotherain calls (800)
+** Dealing Turn ** :  [ 7c ]
+hatoka checks.
+flytotherain checks.
+** Dealing River ** :  [ 5c ]
+hatoka bets (400)
+flytotherain folds.
+** Summary **
+Main Pot: 2400
+Board: [ Qs 9c Th 7c 5c  ]
+
+mamuel1909 balance 3530, didn't bet (folded)
+Be_Happy69 balance 2000, didn't bet (folded)
+hatoka balance 5850, bet 1600, collected 2800, net +1200
+flytotherain balance 8620, lost 1200 (folded)
+
+***** Hand History for Game 5933460592 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 08:17:28 EDT 2007
+Table Table  125655 (Real Money) -- Seat 9 is the button
+Total number of players : 4
+Seat 2: mamuel1909 (3530)
+Seat 8: Be_Happy69 (2000)
+Seat 9: hatoka (5850)
+Seat 10: flytotherain (8620)
+flytotherain  posts small blind (200)
+mamuel1909  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 6d, Td ]
+Be_Happy69 folds.
+hatoka folds.
+flytotherain calls (200)
+mamuel1909 checks.
+** Dealing Flop ** :  [ 6c, 5h, 8c ]
+flytotherain checks.
+mamuel1909 checks.
+** Dealing Turn ** :  [ Qd ]
+flytotherain checks.
+mamuel1909 checks.
+** Dealing River ** :  [ 5s ]
+flytotherain bets (400)
+mamuel1909 folds.
+** Summary **
+Main Pot: 800
+Board: [ 6c 5h 8c Qd 5s  ]
+
+mamuel1909 balance 3130, lost 400 (folded)
+Be_Happy69 balance 2000, didn't bet (folded)
+hatoka balance 5850, didn't bet (folded)
+flytotherain balance 9020, bet 800, collected 1200, net +400
+
+***** Hand History for Game 5933461275 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 08:17:47 EDT 2007
+Table Table  125655 (Real Money) -- Seat 10 is the button
+Total number of players : 4
+Seat 2: mamuel1909 (3130)
+Seat 8: Be_Happy69 (2000)
+Seat 9: hatoka (5850)
+Seat 10: flytotherain (9020)
+mamuel1909  posts small blind (200)
+Be_Happy69  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 9d, 9s ]
+hatoka raises (1200) to 1200
+flytotherain calls (1200)
+mamuel1909 folds.
+Be_Happy69 folds.
+** Dealing Flop ** :  [ 3d, 9h, 3c ]
+hatoka checks.
+flytotherain checks.
+** Dealing Turn ** :  [ Tc ]
+hatoka bets (1500)
+flytotherain folds.
+** Summary **
+Main Pot: 3000
+Board: [ 3d 9h 3c Tc  ]
+
+mamuel1909 balance 2930, lost 200 (folded)
+Be_Happy69 balance 1600, lost 400 (folded)
+hatoka balance 7650, bet 2700, collected 4500, net +1800
+flytotherain balance 7820, lost 1200 (folded)
+
+***** Hand History for Game 5933462318 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 08:18:18 EDT 2007
+Table Table  125655 (Real Money) -- Seat 2 is the button
+Total number of players : 4
+Seat 2: mamuel1909 (2930)
+Seat 8: Be_Happy69 (1600)
+Seat 9: hatoka (7650)
+Seat 10: flytotherain (7820)
+Be_Happy69  posts small blind (200)
+hatoka  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ Jh, 6s ]
+flytotherain calls (400)
+mamuel1909 folds.
+Be_Happy69 calls (200)
+hatoka checks.
+** Dealing Flop ** :  [ 4d, 5h, 5c ]
+Be_Happy69 bets (1200)
+Be_Happy69 is all-In.
+hatoka folds.
+flytotherain folds.
+Creating Main Pot with $1200 with Be_Happy69
+** Summary **
+Main Pot: 1200
+Board: [ 4d 5h 5c  ]
+
+mamuel1909 balance 2930, didn't bet (folded)
+Be_Happy69 balance 2400, bet 1600, collected 2400, net +800
+hatoka balance 7250, lost 400 (folded)
+flytotherain balance 7420, lost 400 (folded)
+
+***** Hand History for Game 5933463309 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 08:18:47 EDT 2007
+Table Table  125655 (Real Money) -- Seat 8 is the button
+Total number of players : 4
+Seat 2: mamuel1909 (2930)
+Seat 8: Be_Happy69 (2400)
+Seat 9: hatoka (7250)
+Seat 10: flytotherain (7420)
+hatoka  posts small blind (200)
+flytotherain  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 9h, 5h ]
+mamuel1909 folds.
+Be_Happy69 raises (2400) to 2400
+Be_Happy69 is all-In.
+hatoka folds.
+flytotherain folds.
+Creating Main Pot with $1000 with Be_Happy69
+** Summary **
+Main Pot: 1000
+
+mamuel1909 balance 2930, didn't bet (folded)
+Be_Happy69 balance 3000, bet 2400, collected 3000, net +600
+hatoka balance 7050, lost 200 (folded)
+flytotherain balance 7020, lost 400 (folded)
+
+***** Hand History for Game 5933463938 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 08:19:05 EDT 2007
+Table Table  125655 (Real Money) -- Seat 9 is the button
+Total number of players : 4
+Seat 2: mamuel1909 (2930)
+Seat 8: Be_Happy69 (3000)
+Seat 9: hatoka (7050)
+Seat 10: flytotherain (7020)
+flytotherain  posts small blind (200)
+mamuel1909  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ Tc, Js ]
+Be_Happy69 folds.
+hatoka raises (800) to 800
+flytotherain calls (600)
+mamuel1909 folds.
+** Dealing Flop ** :  [ 8h, 2c, 6s ]
+flytotherain bets (400)
+hatoka calls (400)
+** Dealing Turn ** :  [ 7c ]
+flytotherain bets (400)
+hatoka calls (400)
+** Dealing River ** :  [ 4d ]
+flytotherain bets (400)
+hatoka folds.
+** Summary **
+Main Pot: 3600
+Board: [ 8h 2c 6s 7c 4d  ]
+
+mamuel1909 balance 2530, lost 400 (folded)
+Be_Happy69 balance 3000, didn't bet (folded)
+hatoka balance 5450, lost 1600 (folded)
+flytotherain balance 9020, bet 2000, collected 4000, net +2000
+
+***** Hand History for Game 5933465638 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 08:19:53 EDT 2007
+Table Table  125655 (Real Money) -- Seat 10 is the button
+Total number of players : 4
+Seat 2: mamuel1909 (2530)
+Seat 8: Be_Happy69 (3000)
+Seat 9: hatoka (5450)
+Seat 10: flytotherain (9020)
+mamuel1909  posts small blind (200)
+Be_Happy69  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ Js, Qs ]
+hatoka raises (800) to 800
+flytotherain folds.
+mamuel1909 folds.
+Be_Happy69 folds.
+** Summary **
+Main Pot: 1000
+
+mamuel1909 balance 2330, lost 200 (folded)
+Be_Happy69 balance 2600, lost 400 (folded)
+hatoka balance 6050, bet 800, collected 1400, net +600
+flytotherain balance 9020, didn't bet (folded)
+
+***** Hand History for Game 5933466166 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 08:20:09 EDT 2007
+Table Table  125655 (Real Money) -- Seat 2 is the button
+Total number of players : 4
+Seat 2: mamuel1909 (2330)
+Seat 8: Be_Happy69 (2600)
+Seat 9: hatoka (6050)
+Seat 10: flytotherain (9020)
+Be_Happy69  posts small blind (200)
+hatoka  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 3h, 3s ]
+flytotherain calls (400)
+mamuel1909 folds.
+Be_Happy69 folds.
+hatoka checks.
+** Dealing Flop ** :  [ 6s, 2d, Ac ]
+hatoka checks.
+flytotherain checks.
+** Dealing Turn ** :  [ 3c ]
+hatoka checks.
+flytotherain checks.
+** Dealing River ** :  [ 8d ]
+hatoka bets (500)
+flytotherain raises (1000) to 1000
+hatoka calls (500)
+** Summary **
+Main Pot: 3000
+Board: [ 6s 2d Ac 3c 8d  ]
+
+mamuel1909 balance 2330, didn't bet (folded)
+Be_Happy69 balance 2400, lost 200 (folded)
+hatoka balance 7650, bet 1400, collected 3000, net +1600 [ 3h 3s ] [ three of a kind, Threes -- Ac,8d,3h,3s,3c ]
+flytotherain balance 7620, lost 1400 [ 5d 8c ] [ a pair of Eights -- Ac,8c,8d,6s,5d ]
+
+***** Hand History for Game 5933467741 *****
+600/1200 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 08:20:54 EDT 2007
+Table Table  125655 (Real Money) -- Seat 8 is the button
+Total number of players : 4
+Seat 2: mamuel1909 (2330)
+Seat 8: Be_Happy69 (2400)
+Seat 9: hatoka (7650)
+Seat 10: flytotherain (7620)
+hatoka  posts small blind (300)
+flytotherain  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ Jh, Tc ]
+mamuel1909 folds.
+Be_Happy69 folds.
+hatoka calls (300)
+flytotherain checks.
+** Dealing Flop ** :  [ 6d, 3s, 3c ]
+hatoka bets (600)
+flytotherain folds.
+** Summary **
+Main Pot: 1200
+Board: [ 6d 3s 3c  ]
+
+mamuel1909 balance 2330, didn't bet (folded)
+Be_Happy69 balance 2400, didn't bet (folded)
+hatoka balance 8250, bet 1200, collected 1800, net +600
+flytotherain balance 7020, lost 600 (folded)
+
+***** Hand History for Game 5933468774 *****
+600/1200 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 08:21:23 EDT 2007
+Table Table  125655 (Real Money) -- Seat 9 is the button
+Total number of players : 4
+Seat 2: mamuel1909 (2330)
+Seat 8: Be_Happy69 (2400)
+Seat 9: hatoka (8250)
+Seat 10: flytotherain (7020)
+flytotherain  posts small blind (300)
+mamuel1909  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ 9s, 2h ]
+Be_Happy69 folds.
+hatoka folds.
+flytotherain calls (300)
+mamuel1909 raises (1730) to 2330
+mamuel1909 is all-In.
+flytotherain calls (1730)
+** Dealing Flop ** :  [ 8c, Qc, 5d ]
+** Dealing Turn ** :  [ Qd ]
+** Dealing River ** :  [ Qs ]
+Creating Main Pot with $4660 with mamuel1909
+** Summary **
+Main Pot: 4660
+Board: [ 8c Qc 5d Qd Qs  ]
+
+mamuel1909 balance 0, lost 2330 [ 5c Ac ] [ a full house, Queens full of Fives -- Qc,Qd,Qs,5c,5d ]
+Be_Happy69 balance 2400, didn't bet (folded)
+hatoka balance 8250, didn't bet (folded)
+flytotherain balance 9350, bet 2330, collected 4660, net +2330 [ As 8d ] [ a full house, Queens full of Eights -- Qc,Qd,Qs,8d,8c ]
+
+***** Hand History for Game 5933469524 *****
+mamuel1909 finished in 4 place.
+600/1200 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 08:21:44 EDT 2007
+Table Table  125655 (Real Money) -- Seat 10 is the button
+Total number of players : 3
+Seat 8: Be_Happy69 (2400)
+Seat 9: hatoka (8250)
+Seat 10: flytotherain (9350)
+Be_Happy69  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ 8c, Js ]
+hatoka folds.
+flytotherain calls (600)
+Be_Happy69 raises (1800) to 2400
+Be_Happy69 is all-In.
+flytotherain calls (1800)
+** Dealing Flop ** :  [ Qh, 4c, Tc ]
+** Dealing Turn ** :  [ 7h ]
+** Dealing River ** :  [ 4d ]
+Creating Main Pot with $4800 with Be_Happy69
+** Summary **
+Main Pot: 4800
+Board: [ Qh 4c Tc 7h 4d  ]
+
+Be_Happy69 balance 0, lost 2400 [ Ad Kc ] [ a pair of Fours -- Ad,Kc,Qh,4c,4d ]
+hatoka balance 8250, didn't bet (folded)
+flytotherain balance 11750, bet 2400, collected 4800, net +2400 [ Qd 9h ] [ two pairs, Queens and Fours -- Qd,Qh,Tc,4c,4d ]
+
+***** Hand History for Game 5933470407 *****
+Be_Happy69 finished in 3 place and won $10.
+600/1200 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 08:22:09 EDT 2007
+Table Table  125655 (Real Money) -- Seat 10 is the button
+Total number of players : 2
+Seat 9: hatoka (8250)
+Seat 10: flytotherain (11750)
+flytotherain  posts small blind (300)
+hatoka  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ 9s, 6c ]
+flytotherain calls (300)
+hatoka checks.
+** Dealing Flop ** :  [ Tc, 2c, 3c ]
+hatoka bets (600)
+flytotherain raises (1200) to 1200
+hatoka folds.
+** Summary **
+Main Pot: 2400
+Board: [ Tc 2c 3c  ]
+
+hatoka balance 7050, lost 1200 (folded)
+flytotherain balance 12950, bet 1800, collected 3000, net +1200
+
+***** Hand History for Game 5933471339 *****
+600/1200 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 08:22:35 EDT 2007
+Table Table  125655 (Real Money) -- Seat 9 is the button
+Total number of players : 2
+Seat 9: hatoka (7050)
+Seat 10: flytotherain (12950)
+hatoka  posts small blind (300)
+flytotherain  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ Qh, Kc ]
+hatoka raises (900) to 1200
+flytotherain calls (600)
+** Dealing Flop ** :  [ Jc, 7s, 9d ]
+flytotherain checks.
+hatoka bets (600)
+flytotherain calls (600)
+** Dealing Turn ** :  [ 3c ]
+flytotherain checks.
+hatoka checks.
+** Dealing River ** :  [ 9h ]
+flytotherain bets (5400)
+hatoka folds.
+** Summary **
+Main Pot: 3600
+Board: [ Jc 7s 9d 3c 9h  ]
+
+hatoka balance 5250, lost 1800 (folded)
+flytotherain balance 14750, bet 7200, collected 9000, net +1800
+
+***** Hand History for Game 5933472639 *****
+600/1200 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 08:23:13 EDT 2007
+Table Table  125655 (Real Money) -- Seat 10 is the button
+Total number of players : 2
+Seat 9: hatoka (5250)
+Seat 10: flytotherain (14750)
+flytotherain  posts small blind (300)
+hatoka  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ Kc, 2c ]
+flytotherain calls (300)
+hatoka raises (600) to 1200
+flytotherain calls (600)
+** Dealing Flop ** :  [ As, 2h, 5d ]
+hatoka bets (600)
+flytotherain calls (600)
+** Dealing Turn ** :  [ 3c ]
+hatoka bets (1600)
+flytotherain calls (1600)
+** Dealing River ** :  [ Ks ]
+hatoka checks.
+flytotherain bets (1800)
+hatoka raises (1850) to 1850
+hatoka is all-In.
+flytotherain calls (50)
+Creating Main Pot with $10500 with hatoka
+** Summary **
+Main Pot: 10500
+Board: [ As 2h 5d 3c Ks  ]
+
+hatoka balance 10500, bet 5250, collected 10500, net +5250 [ Kc 2c ] [ two pairs, Kings and Twos -- As,Kc,Ks,2c,2h ]
+flytotherain balance 9500, lost 5250 [ Ts 6s ] [ high card Ace -- As,Ks,Ts,6s,5d ]
+
+***** Hand History for Game 5933474185 *****
+600/1200 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 08:23:58 EDT 2007
+Table Table  125655 (Real Money) -- Seat 9 is the button
+Total number of players : 2
+Seat 9: hatoka (10500)
+Seat 10: flytotherain (9500)
+hatoka  posts small blind (300)
+flytotherain  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ 8h, 9d ]
+hatoka calls (300)
+flytotherain checks.
+** Dealing Flop ** :  [ 2s, Th, Qh ]
+flytotherain bets (600)
+hatoka folds.
+** Summary **
+Main Pot: 1200
+Board: [ 2s Th Qh  ]
+
+hatoka balance 9900, lost 600 (folded)
+flytotherain balance 10100, bet 1200, collected 1800, net +600
+
+***** Hand History for Game 5933474846 *****
+600/1200 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 08:24:17 EDT 2007
+Table Table  125655 (Real Money) -- Seat 10 is the button
+Total number of players : 2
+Seat 9: hatoka (9900)
+Seat 10: flytotherain (10100)
+flytotherain  posts small blind (300)
+hatoka  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ Qd, 5c ]
+flytotherain calls (300)
+hatoka checks.
+** Dealing Flop ** :  [ 6h, Kh, 7s ]
+hatoka checks.
+flytotherain bets (600)
+hatoka folds.
+** Summary **
+Main Pot: 1200
+Board: [ 6h Kh 7s  ]
+
+hatoka balance 9300, lost 600 (folded)
+flytotherain balance 10700, bet 1200, collected 1800, net +600
+
+***** Hand History for Game 5933475459 *****
+600/1200 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 08:24:34 EDT 2007
+Table Table  125655 (Real Money) -- Seat 9 is the button
+Total number of players : 2
+Seat 9: hatoka (9300)
+Seat 10: flytotherain (10700)
+hatoka  posts small blind (300)
+flytotherain  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ Kh, 9c ]
+hatoka raises (900) to 1200
+flytotherain calls (600)
+** Dealing Flop ** :  [ 2d, 8c, Ad ]
+flytotherain checks.
+hatoka bets (600)
+flytotherain calls (600)
+** Dealing Turn ** :  [ 4h ]
+flytotherain checks.
+hatoka checks.
+** Dealing River ** :  [ 9h ]
+flytotherain checks.
+hatoka bets (1000)
+flytotherain calls (1000)
+** Summary **
+Main Pot: 5600
+Board: [ 2d 8c Ad 4h 9h  ]
+
+hatoka balance 12100, bet 2800, collected 5600, net +2800 [ Kh 9c ] [ a pair of Nines -- Ad,Kh,9c,9h,8c ]
+flytotherain balance 7900, lost 2800 [ 7c 8d ] [ a pair of Eights -- Ad,9h,8d,8c,7c ]
+
+
+***** Hand History for Game 5933476519 *****
+600/1200 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 08:25:04 EDT 2007
+Table Table  125655 (Real Money) -- Seat 10 is the button
+Total number of players : 2
+Seat 9: hatoka (12100)
+Seat 10: flytotherain (7900)
+flytotherain  posts small blind (300)
+hatoka  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ 5s, Th ]
+flytotherain calls (300)
+hatoka checks.
+** Dealing Flop ** :  [ As, 9s, Ah ]
+hatoka checks.
+flytotherain checks.
+** Dealing Turn ** :  [ Qd ]
+hatoka bets (600)
+flytotherain folds.
+** Summary **
+Main Pot: 1200
+Board: [ As 9s Ah Qd  ]
+
+hatoka balance 12700, bet 1200, collected 1800, net +600
+flytotherain balance 7300, lost 600 (folded)
+
+***** Hand History for Game 5933477273 *****
+600/1200 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 08:25:27 EDT 2007
+Table Table  125655 (Real Money) -- Seat 9 is the button
+Total number of players : 2
+Seat 9: hatoka (12700)
+Seat 10: flytotherain (7300)
+hatoka  posts small blind (300)
+flytotherain  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ 7h, Jc ]
+hatoka calls (300)
+flytotherain checks.
+** Dealing Flop ** :  [ 4h, 3s, 3d ]
+flytotherain checks.
+hatoka checks.
+** Dealing Turn ** :  [ 9s ]
+flytotherain bets (600)
+hatoka folds.
+** Summary **
+Main Pot: 1200
+Board: [ 4h 3s 3d 9s  ]
+
+hatoka balance 12100, lost 600 (folded)
+flytotherain balance 7900, bet 1200, collected 1800, net +600
+
+***** Hand History for Game 5933477997 *****
+600/1200 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 08:25:47 EDT 2007
+Table Table  125655 (Real Money) -- Seat 10 is the button
+Total number of players : 2
+Seat 9: hatoka (12100)
+Seat 10: flytotherain (7900)
+flytotherain  posts small blind (300)
+hatoka  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ 7d, Jc ]
+flytotherain raises (900) to 1200
+hatoka folds.
+** Summary **
+Main Pot: 1200
+
+hatoka balance 11500, lost 600 (folded)
+flytotherain balance 8500, bet 1200, collected 1800, net +600
+
+***** Hand History for Game 5933478338 *****
+600/1200 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 08:25:57 EDT 2007
+Table Table  125655 (Real Money) -- Seat 9 is the button
+Total number of players : 2
+Seat 9: hatoka (11500)
+Seat 10: flytotherain (8500)
+hatoka  posts small blind (300)
+flytotherain  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ Tc, Jh ]
+hatoka raises (900) to 1200
+flytotherain folds.
+** Summary **
+Main Pot: 1200
+
+hatoka balance 12100, bet 1200, collected 1800, net +600
+flytotherain balance 7900, lost 600 (folded)
+
+***** Hand History for Game 5933478649 *****
+600/1200 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 08:26:07 EDT 2007
+Table Table  125655 (Real Money) -- Seat 10 is the button
+Total number of players : 2
+Seat 9: hatoka (12100)
+Seat 10: flytotherain (7900)
+flytotherain  posts small blind (300)
+hatoka  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ 3c, Qc ]
+flytotherain calls (300)
+hatoka checks.
+** Dealing Flop ** :  [ 2h, 8s, 8h ]
+hatoka bets (600)
+flytotherain folds.
+** Summary **
+Main Pot: 1200
+Board: [ 2h 8s 8h  ]
+
+hatoka balance 12700, bet 1200, collected 1800, net +600
+flytotherain balance 7300, lost 600 (folded)
+
+***** Hand History for Game 5933479177 *****
+600/1200 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 08:26:22 EDT 2007
+Table Table  125655 (Real Money) -- Seat 9 is the button
+Total number of players : 2
+Seat 9: hatoka (12700)
+Seat 10: flytotherain (7300)
+hatoka  posts small blind (300)
+flytotherain  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ Ac, 4c ]
+hatoka raises (900) to 1200
+flytotherain raises (1200) to 1800
+hatoka raises (11500) to 12700
+hatoka is all-In.
+flytotherain calls (5500)
+flytotherain is all-In.
+** Dealing Flop ** :  [ 6h, 2c, 3s ]
+** Dealing Turn ** :  [ 9d ]
+** Dealing River ** :  [ 3c ]
+Creating Main Pot with $14600 with flytotherain
+** Summary **
+Main Pot: 14600
+Board: [ 6h 2c 3s 9d 3c  ]
+
+hatoka balance 12700, bet 12700, collected 12700, net +0 [ Ac 4c ] [ a pair of Threes -- Ac,9d,6h,3s,3c ]
+flytotherain balance 7300, bet 7300, collected 7300, net +0 [ Ah 5c ] [ a pair of Threes -- Ah,9d,6h,3s,3c ]
+
+***** Hand History for Game 5933480015 *****
+600/1200 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 08:26:46 EDT 2007
+Table Table  125655 (Real Money) -- Seat 10 is the button
+Total number of players : 2
+Seat 9: hatoka (12700)
+Seat 10: flytotherain (7300)
+flytotherain  posts small blind (300)
+hatoka  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ 2c, 8d ]
+flytotherain calls (300)
+hatoka checks.
+** Dealing Flop ** :  [ 6h, Js, 6c ]
+hatoka: hard fight
+hatoka checks.
+flytotherain checks.
+** Dealing Turn ** :  [ 6s ]
+hatoka checks.
+flytotherain checks.
+** Dealing River ** :  [ 8c ]
+hatoka bets (1200)
+flytotherain folds.
+** Summary **
+Main Pot: 1200
+Board: [ 6h Js 6c 6s 8c  ]
+
+hatoka balance 13300, bet 1800, collected 2400, net +600
+flytotherain balance 6700, lost 600 (folded)
+
+***** Hand History for Game 5933481195 *****
+600/1200 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 08:27:19 EDT 2007
+Table Table  125655 (Real Money) -- Seat 9 is the button
+Total number of players : 2
+Seat 9: hatoka (13300)
+Seat 10: flytotherain (6700)
+hatoka  posts small blind (300)
+flytotherain  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ 7h, 6h ]
+hatoka calls (300)
+flytotherain checks.
+** Dealing Flop ** :  [ 4d, Ks, 3c ]
+flytotherain bets (600)
+hatoka calls (600)
+** Dealing Turn ** :  [ Ad ]
+flytotherain bets (600)
+hatoka folds.
+** Summary **
+Main Pot: 2400
+Board: [ 4d Ks 3c Ad  ]
+
+hatoka balance 12100, lost 1200 (folded)
+flytotherain balance 7900, bet 1800, collected 3000, net +1200
+
+***** Hand History for Game 5933481983 *****
+600/1200 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 08:27:42 EDT 2007
+Table Table  125655 (Real Money) -- Seat 10 is the button
+Total number of players : 2
+Seat 9: hatoka (12100)
+Seat 10: flytotherain (7900)
+flytotherain  posts small blind (300)
+hatoka  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ 8c, 8h ]
+flytotherain calls (300)
+flytotherain: ja und es dauert
+hatoka raises (600) to 1200
+flytotherain calls (600)
+** Dealing Flop ** :  [ Qs, 4h, Qh ]
+hatoka bets (10900)
+hatoka is all-In.
+flytotherain folds.
+Creating Main Pot with $2400 with hatoka
+** Summary **
+Main Pot: 2400
+Board: [ Qs 4h Qh  ]
+
+hatoka balance 13300, bet 12100, collected 13300, net +1200
+flytotherain balance 6700, lost 1200 (folded)
+
+***** Hand History for Game 5933482679 *****
+600/1200 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 08:28:02 EDT 2007
+Table Table  125655 (Real Money) -- Seat 9 is the button
+Total number of players : 2
+Seat 9: hatoka (13300)
+Seat 10: flytotherain (6700)
+hatoka  posts small blind (300)
+flytotherain  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ 5s, 3d ]
+hatoka folds.
+** Summary **
+Main Pot: 600
+
+hatoka balance 13000, lost 300 (folded)
+flytotherain balance 7000, bet 600, collected 900, net +300
+
+***** Hand History for Game 5933482946 *****
+600/1200 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 08:28:10 EDT 2007
+Table Table  125655 (Real Money) -- Seat 10 is the button
+Total number of players : 2
+Seat 9: hatoka (13000)
+Seat 10: flytotherain (7000)
+flytotherain  posts small blind (300)
+hatoka  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ Qd, 3s ]
+flytotherain calls (300)
+hatoka checks.
+** Dealing Flop ** :  [ 4d, 2d, 2c ]
+hatoka bets (600)
+flytotherain raises (1200) to 1200
+hatoka folds.
+** Summary **
+Main Pot: 2400
+Board: [ 4d 2d 2c  ]
+
+hatoka balance 11800, lost 1200 (folded)
+flytotherain balance 8200, bet 1800, collected 3000, net +1200
+
+***** Hand History for Game 5933483635 *****
+600/1200 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 08:28:29 EDT 2007
+Table Table  125655 (Real Money) -- Seat 9 is the button
+Total number of players : 2
+Seat 9: hatoka (11800)
+Seat 10: flytotherain (8200)
+hatoka  posts small blind (300)
+flytotherain  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ Jh, 8s ]
+hatoka raises (900) to 1200
+flytotherain folds.
+** Summary **
+Main Pot: 1200
+
+hatoka balance 12400, bet 1200, collected 1800, net +600
+flytotherain balance 7600, lost 600 (folded)
+
+***** Hand History for Game 5933483968 *****
+600/1200 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 08:28:38 EDT 2007
+Table Table  125655 (Real Money) -- Seat 10 is the button
+Total number of players : 2
+Seat 9: hatoka (12400)
+Seat 10: flytotherain (7600)
+flytotherain  posts small blind (300)
+hatoka  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ 9d, 8c ]
+flytotherain calls (300)
+hatoka checks.
+** Dealing Flop ** :  [ 4d, 3d, 3s ]
+hatoka checks.
+flytotherain checks.
+** Dealing Turn ** :  [ Qs ]
+hatoka checks.
+flytotherain checks.
+** Dealing River ** :  [ 6c ]
+hatoka bets (600)
+flytotherain calls (600)
+** Summary **
+Main Pot: 2400
+Board: [ 4d 3d 3s Qs 6c  ]
+
+hatoka balance 11200, lost 1200 [ 9d 8c ] [ a pair of Threes -- Qs,9d,8c,3d,3s ]
+flytotherain balance 8800, bet 1200, collected 2400, net +1200 [ Kc 9c ] [ a pair of Threes with King kicker -- Kc,Qs,9c,3d,3sKc(kicker card) ]
+
+***** Hand History for Game 5933484805 *****
+600/1200 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 08:29:03 EDT 2007
+Table Table  125655 (Real Money) -- Seat 9 is the button
+Total number of players : 2
+Seat 9: hatoka (11200)
+Seat 10: flytotherain (8800)
+hatoka  posts small blind (300)
+flytotherain  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ Qh, 5s ]
+hatoka calls (300)
+flytotherain checks.
+** Dealing Flop ** :  [ 5h, Ac, 2s ]
+flytotherain bets (600)
+hatoka raises (1200) to 1200
+flytotherain calls (600)
+** Dealing Turn ** :  [ 4c ]
+flytotherain checks.
+hatoka checks.
+** Dealing River ** :  [ Ad ]
+flytotherain checks.
+hatoka checks.
+** Summary **
+Main Pot: 3600
+Board: [ 5h Ac 2s 4c Ad  ]
+
+hatoka balance 13000, bet 1800, collected 3600, net +1800 [ Qh 5s ] [ two pairs, Aces and Fives -- Ac,Ad,Qh,5s,5h ]
+flytotherain balance 7000, lost 1800 [ 7c 2h ] [ two pairs, Aces and Twos -- Ac,Ad,7c,2h,2s ]
+
+***** Hand History for Game 5933485776 *****
+600/1200 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 08:29:31 EDT 2007
+Table Table  125655 (Real Money) -- Seat 10 is the button
+Total number of players : 2
+Seat 9: hatoka (13000)
+Seat 10: flytotherain (7000)
+flytotherain  posts small blind (300)
+hatoka  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ Qd, 3h ]
+flytotherain raises (900) to 1200
+hatoka folds.
+** Summary **
+Main Pot: 1200
+
+hatoka balance 12400, lost 600 (folded)
+flytotherain balance 7600, bet 1200, collected 1800, net +600
+
+***** Hand History for Game 5933486095 *****
+600/1200 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 08:29:41 EDT 2007
+Table Table  125655 (Real Money) -- Seat 9 is the button
+Total number of players : 2
+Seat 9: hatoka (12400)
+Seat 10: flytotherain (7600)
+hatoka  posts small blind (300)
+flytotherain  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ Qs, As ]
+hatoka raises (900) to 1200
+flytotherain calls (600)
+** Dealing Flop ** :  [ 7d, Kd, Kh ]
+flytotherain checks.
+hatoka bets (900)
+flytotherain raises (6400) to 6400
+flytotherain is all-In.
+hatoka folds.
+Creating Main Pot with $4200 with flytotherain
+** Summary **
+Main Pot: 4200
+Board: [ 7d Kd Kh  ]
+
+hatoka balance 10300, lost 2100 (folded)
+flytotherain balance 9700, bet 7600, collected 9700, net +2100
+
+***** Hand History for Game 5933487165 *****
+600/1200 Tourney Texas Hold'em Game Table (NL) (Tournament 33226063)  - Thu May 03 08:30:11 EDT 2007
+Table Table  125655 (Real Money) -- Seat 10 is the button
+Total number of players : 2
+Seat 9: hatoka (10300)
+Seat 10: flytotherain (9700)
+flytotherain  posts small blind (300)
+hatoka  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ 6h, 6s ]
+flytotherain calls (300)
+hatoka raises (600) to 1200
+flytotherain calls (600)
+** Dealing Flop ** :  [ 7s, Td, 8c ]
+hatoka bets (1200)
+flytotherain raises (8500) to 8500
+flytotherain is all-In.
+hatoka calls (7300)
+** Dealing Turn ** :  [ Ks ]
+** Dealing River ** :  [ 9d ]
+Creating Main Pot with $19400 with flytotherain
+** Summary **
+Main Pot: 19400
+Board: [ 7s Td 8c Ks 9d  ]
+
+hatoka balance 20000, bet 9700, collected 19400, net +9700 [ 6h 6s ] [ a straight Six to Ten -- Td,9d,8c,7s,6h ]
+flytotherain balance 0, lost 9700 [ Th 2d ] [ a pair of Tens -- Ks,Th,Td,9d,8c ]
+
+
+

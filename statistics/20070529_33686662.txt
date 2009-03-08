@@ -1,0 +1,2801 @@
+
+Hello hatoka,
+These hand histories are provided to you as an aid for your training and development. You are not permitted to share them with anyone.  We reserve the right to cease providing them or apply further restrictions at any time.
+Complete hand histories are only available to players that participated in the hand.
+You requested a transcript of Tournament #33686662.
+
+Summary
+----------
+Played on    : 29 May 2007 04:55 PM
+On Table     : Speed #1330110
+Game Type    : Texas Holdem
+Buy-In       : $5
+Fee          : $1
+You finished in  position 7
+1st place - coogan9867 -  $25
+2nd place - Rabishahh -  $15
+3rd place - Paldo1 -  $10
+
+***** Hand History for Game 6014735791 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 16:55:53 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 2 is the button
+Total number of players : 10
+Seat 1: Tina_Engel (2000)
+Seat 2: danog69 (2000)
+Seat 3: coogan9867 (2000)
+Seat 4: markca (2000)
+Seat 5: Paldo1 (2000)
+Seat 6: hatoka (2000)
+Seat 7: Rabishahh (2000)
+Seat 8: sarah9621 (2000)
+Seat 9: Lunatic68 (2000)
+Seat 10: kale_Jeff (2000)
+coogan9867  posts small blind (20)
+markca  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ Ad, Jc ]
+Paldo1 folds.
+hatoka raises (120) to 120
+Rabishahh calls (120)
+sarah9621 folds.
+Lunatic68 calls (120)
+kale_Jeff folds.
+Tina_Engel folds.
+danog69 folds.
+coogan9867 calls (100)
+markca folds.
+** Dealing Flop ** :  [ 9d, Qc, 9h ]
+coogan9867 checks.
+hatoka checks.
+Rabishahh checks.
+Lunatic68 bets (200)
+coogan9867 folds.
+hatoka folds.
+Rabishahh folds.
+** Summary **
+Main Pot: 520
+Board: [ 9d Qc 9h  ]
+
+Tina_Engel balance 2000, didn't bet (folded)
+danog69 balance 2000, didn't bet (folded)
+coogan9867 balance 1880, lost 120 (folded)
+markca balance 1960, lost 40 (folded)
+Paldo1 balance 2000, didn't bet (folded)
+hatoka balance 1880, lost 120 (folded)
+Rabishahh balance 1880, lost 120 (folded)
+sarah9621 balance 2000, didn't bet (folded)
+Lunatic68 balance 2400, bet 320, collected 720, net +400
+kale_Jeff balance 2000, didn't bet (folded)
+
+***** Hand History for Game 6014738834 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 16:56:39 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 3 is the button
+Total number of players : 10
+Seat 1: Tina_Engel (2000)
+Seat 2: danog69 (2000)
+Seat 3: coogan9867 (1880)
+Seat 4: markca (1960)
+Seat 5: Paldo1 (2000)
+Seat 6: hatoka (1880)
+Seat 7: Rabishahh (1880)
+Seat 8: sarah9621 (2000)
+Seat 9: Lunatic68 (2400)
+Seat 10: kale_Jeff (2000)
+markca  posts small blind (20)
+Paldo1  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 8c, As ]
+hatoka folds.
+Rabishahh folds.
+sarah9621 raises (120) to 120
+Lunatic68 folds.
+kale_Jeff folds.
+Tina_Engel folds.
+danog69 calls (120)
+coogan9867 folds.
+markca calls (100)
+Paldo1 folds.
+** Dealing Flop ** :  [ Ah, 8h, Qs ]
+markca bets (160)
+sarah9621 folds.
+danog69 folds.
+** Summary **
+Main Pot: 400
+Board: [ Ah 8h Qs  ]
+
+Tina_Engel balance 2000, didn't bet (folded)
+danog69 balance 1880, lost 120 (folded)
+coogan9867 balance 1880, didn't bet (folded)
+markca balance 2240, bet 280, collected 560, net +280
+Paldo1 balance 1960, lost 40 (folded)
+hatoka balance 1880, didn't bet (folded)
+Rabishahh balance 1880, didn't bet (folded)
+sarah9621 balance 1880, lost 120 (folded)
+Lunatic68 balance 2400, didn't bet (folded)
+kale_Jeff balance 2000, didn't bet (folded)
+
+***** Hand History for Game 6014742047 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 16:57:23 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 4 is the button
+Total number of players : 10
+Seat 1: Tina_Engel (2000)
+Seat 2: danog69 (1880)
+Seat 3: coogan9867 (1880)
+Seat 4: markca (2240)
+Seat 5: Paldo1 (1960)
+Seat 6: hatoka (1880)
+Seat 7: Rabishahh (1880)
+Seat 8: sarah9621 (1880)
+Seat 9: Lunatic68 (2400)
+Seat 10: kale_Jeff (2000)
+Paldo1  posts small blind (20)
+hatoka  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 3h, 7d ]
+Rabishahh folds.
+sarah9621 folds.
+Lunatic68 folds.
+kale_Jeff folds.
+Tina_Engel folds.
+danog69 folds.
+coogan9867 folds.
+markca folds.
+Paldo1 folds.
+** Summary **
+Main Pot: 40
+
+Tina_Engel balance 2000, didn't bet (folded)
+danog69 balance 1880, didn't bet (folded)
+coogan9867 balance 1880, didn't bet (folded)
+markca balance 2240, didn't bet (folded)
+Paldo1 balance 1940, lost 20 (folded)
+hatoka balance 1900, bet 40, collected 60, net +20
+Rabishahh balance 1880, didn't bet (folded)
+sarah9621 balance 1880, didn't bet (folded)
+Lunatic68 balance 2400, didn't bet (folded)
+kale_Jeff balance 2000, didn't bet (folded)
+
+***** Hand History for Game 6014743196 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 16:57:39 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 5 is the button
+Total number of players : 10
+Seat 1: Tina_Engel (2000)
+Seat 2: danog69 (1880)
+Seat 3: coogan9867 (1880)
+Seat 4: markca (2240)
+Seat 5: Paldo1 (1940)
+Seat 6: hatoka (1900)
+Seat 7: Rabishahh (1880)
+Seat 8: sarah9621 (1880)
+Seat 9: Lunatic68 (2400)
+Seat 10: kale_Jeff (2000)
+hatoka  posts small blind (20)
+Rabishahh  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ Kh, 3d ]
+sarah9621 folds.
+Lunatic68 calls (40)
+kale_Jeff folds.
+Tina_Engel calls (40)
+danog69 calls (40)
+coogan9867 folds.
+markca folds.
+Paldo1 calls (40)
+hatoka calls (20)
+Rabishahh checks.
+** Dealing Flop ** :  [ 5h, 6s, 7s ]
+hatoka checks.
+Rabishahh checks.
+Lunatic68 bets (120)
+Tina_Engel calls (120)
+danog69 calls (120)
+Paldo1 folds.
+hatoka folds.
+Rabishahh folds.
+** Dealing Turn ** :  [ 5c ]
+Lunatic68 checks.
+Tina_Engel checks.
+danog69 bets (1720)
+danog69 is all-In.
+Lunatic68 folds.
+Tina_Engel folds.
+Creating Main Pot with $600 with danog69
+** Summary **
+Main Pot: 600
+Board: [ 5h 6s 7s 5c  ]
+
+Tina_Engel balance 1840, lost 160 (folded)
+danog69 balance 2320, bet 1880, collected 2320, net +440
+coogan9867 balance 1880, didn't bet (folded)
+markca balance 2240, didn't bet (folded)
+Paldo1 balance 1900, lost 40 (folded)
+hatoka balance 1860, lost 40 (folded)
+Rabishahh balance 1840, lost 40 (folded)
+sarah9621 balance 1880, didn't bet (folded)
+Lunatic68 balance 2240, lost 160 (folded)
+kale_Jeff balance 2000, didn't bet (folded)
+
+***** Hand History for Game 6014747233 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 16:58:35 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 6 is the button
+Total number of players : 10
+Seat 1: Tina_Engel (1840)
+Seat 2: danog69 (2320)
+Seat 3: coogan9867 (1880)
+Seat 4: markca (2240)
+Seat 5: Paldo1 (1900)
+Seat 6: hatoka (1860)
+Seat 7: Rabishahh (1840)
+Seat 8: sarah9621 (1880)
+Seat 9: Lunatic68 (2240)
+Seat 10: kale_Jeff (2000)
+Rabishahh  posts small blind (20)
+sarah9621  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 4d, 6h ]
+Lunatic68 folds.
+kale_Jeff calls (40)
+Tina_Engel folds.
+danog69 folds.
+coogan9867 calls (40)
+markca folds.
+Paldo1 folds.
+hatoka folds.
+Rabishahh folds.
+sarah9621 checks.
+** Dealing Flop ** :  [ 9h, Jd, 7d ]
+sarah9621 bets (120)
+kale_Jeff calls (120)
+coogan9867 folds.
+** Dealing Turn ** :  [ As ]
+sarah9621 checks.
+kale_Jeff checks.
+** Dealing River ** :  [ 4h ]
+sarah9621 checks.
+kale_Jeff checks.
+** Summary **
+Main Pot: 380
+Board: [ 9h Jd 7d As 4h  ]
+
+Tina_Engel balance 1840, didn't bet (folded)
+danog69 balance 2320, didn't bet (folded)
+coogan9867 balance 1840, lost 40 (folded)
+markca balance 2240, didn't bet (folded)
+Paldo1 balance 1900, didn't bet (folded)
+hatoka balance 1860, didn't bet (folded)
+Rabishahh balance 1820, lost 20 (folded)
+sarah9621 balance 2100, bet 160, collected 380, net +220 [ 6c 9c ] [ a pair of Nines -- As,Jd,9c,9h,7d ]
+Lunatic68 balance 2240, didn't bet (folded)
+kale_Jeff balance 1840, lost 160 [ 6d 5d ] [ high card Ace -- As,Jd,9h,7d,6d ]
+
+
+***** Hand History for Game 6014749664 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 16:59:09 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 7 is the button
+Total number of players : 10
+Seat 1: Tina_Engel (1840)
+Seat 2: danog69 (2320)
+Seat 3: coogan9867 (1840)
+Seat 4: markca (2240)
+Seat 5: Paldo1 (1900)
+Seat 6: hatoka (1860)
+Seat 7: Rabishahh (1820)
+Seat 8: sarah9621 (2100)
+Seat 9: Lunatic68 (2240)
+Seat 10: kale_Jeff (1840)
+sarah9621  posts small blind (20)
+Lunatic68  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 9s, 9c ]
+kale_Jeff folds.
+Tina_Engel folds.
+danog69 calls (40)
+coogan9867 raises (280) to 280
+markca folds.
+Paldo1 folds.
+hatoka calls (280)
+Rabishahh folds.
+sarah9621 calls (260)
+Lunatic68 folds.
+danog69 calls (240)
+** Dealing Flop ** :  [ 2h, 5c, Qd ]
+sarah9621 bets (480)
+danog69 folds.
+coogan9867 raises (1560) to 1560
+coogan9867 is all-In.
+hatoka folds.
+sarah9621 calls (1080)
+** Dealing Turn ** :  [ Tc ]
+** Dealing River ** :  [ 6h ]
+Creating Main Pot with $4280 with coogan9867
+** Summary **
+Main Pot: 4280
+Board: [ 2h 5c Qd Tc 6h  ]
+
+Tina_Engel balance 1840, didn't bet (folded)
+danog69 balance 2040, lost 280 (folded)
+coogan9867 balance 4280, bet 1840, collected 4280, net +2440 [ Th Td ] [ three of a kind, Tens -- Qd,Th,Td,Tc,6h ]
+markca balance 2240, didn't bet (folded)
+Paldo1 balance 1900, didn't bet (folded)
+hatoka balance 1580, lost 280 (folded)
+Rabishahh balance 1820, didn't bet (folded)
+sarah9621 balance 260, lost 1840 [ Qh Ac ] [ a pair of Queens -- Ac,Qh,Qd,Tc,6h ]
+Lunatic68 balance 2200, lost 40 (folded)
+kale_Jeff balance 1840, didn't bet (folded)
+
+***** Hand History for Game 6014753280 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:00:01 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 8 is the button
+Total number of players : 10
+Seat 1: Tina_Engel (1840)
+Seat 2: danog69 (2040)
+Seat 3: coogan9867 (4280)
+Seat 4: markca (2240)
+Seat 5: Paldo1 (1900)
+Seat 6: hatoka (1580)
+Seat 7: Rabishahh (1820)
+Seat 8: sarah9621 (260)
+Seat 9: Lunatic68 (2200)
+Seat 10: kale_Jeff (1840)
+Lunatic68  posts small blind (20)
+kale_Jeff  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 2d, Qd ]
+Tina_Engel folds.
+coogan9867: sos
+danog69 raises (240) to 240
+coogan9867 folds.
+markca folds.
+Paldo1 folds.
+hatoka folds.
+Rabishahh folds.
+sarah9621 raises (260) to 260
+sarah9621 is all-In.
+Lunatic68 folds.
+kale_Jeff folds.
+danog69 calls (20)
+** Dealing Flop ** :  [ 8d, 9d, 5h ]
+** Dealing Turn ** :  [ Kc ]
+** Dealing River ** :  [ 2s ]
+Creating Main Pot with $580 with sarah9621
+** Summary **
+Main Pot: 580
+Board: [ 8d 9d 5h Kc 2s  ]
+
+Tina_Engel balance 1840, didn't bet (folded)
+danog69 balance 2360, bet 260, collected 580, net +320 [ Ts Ac ] [ high card Ace -- Ac,Kc,Ts,9d,8d ]
+coogan9867 balance 4280, didn't bet (folded)
+markca balance 2240, didn't bet (folded)
+Paldo1 balance 1900, didn't bet (folded)
+hatoka balance 1580, didn't bet (folded)
+Rabishahh balance 1820, didn't bet (folded)
+sarah9621 balance 0, lost 260 [ Jh Th ] [ high card King -- Kc,Jh,Th,9d,8d ]
+Lunatic68 balance 2180, lost 20 (folded)
+kale_Jeff balance 1800, lost 40 (folded)
+
+***** Hand History for Game 6014754694 *****
+sarah9621 finished in 10 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:00:22 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 9 is the button
+Total number of players : 9
+Seat 1: Tina_Engel (1840)
+Seat 2: danog69 (2360)
+Seat 3: coogan9867 (4280)
+Seat 4: markca (2240)
+Seat 5: Paldo1 (1900)
+Seat 6: hatoka (1580)
+Seat 7: Rabishahh (1820)
+Seat 9: Lunatic68 (2180)
+Seat 10: kale_Jeff (1800)
+kale_Jeff  posts small blind (20)
+Tina_Engel  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 4h, 5c ]
+danog69 raises (400) to 400
+coogan9867 folds.
+markca folds.
+Paldo1 folds.
+hatoka folds.
+Rabishahh folds.
+Lunatic68 folds.
+kale_Jeff folds.
+Tina_Engel folds.
+** Summary **
+Main Pot: 100
+
+Tina_Engel balance 1800, lost 40 (folded)
+danog69 balance 2420, bet 400, collected 460, net +60
+coogan9867 balance 4280, didn't bet (folded)
+markca balance 2240, didn't bet (folded)
+Paldo1 balance 1900, didn't bet (folded)
+hatoka balance 1580, didn't bet (folded)
+Rabishahh balance 1820, didn't bet (folded)
+Lunatic68 balance 2180, didn't bet (folded)
+kale_Jeff balance 1780, lost 20 (folded)
+
+***** Hand History for Game 6014756092 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:00:41 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 10 is the button
+Total number of players : 9
+Seat 1: Tina_Engel (1800)
+Seat 2: danog69 (2420)
+Seat 3: coogan9867 (4280)
+Seat 4: markca (2240)
+Seat 5: Paldo1 (1900)
+Seat 6: hatoka (1580)
+Seat 7: Rabishahh (1820)
+Seat 9: Lunatic68 (2180)
+Seat 10: kale_Jeff (1780)
+Tina_Engel  posts small blind (20)
+danog69  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ Qh, 7d ]
+coogan9867 folds.
+markca folds.
+Paldo1 folds.
+hatoka folds.
+Rabishahh folds.
+Lunatic68 folds.
+kale_Jeff folds.
+Tina_Engel calls (20)
+danog69 checks.
+** Dealing Flop ** :  [ 3d, Kh, Jc ]
+Tina_Engel checks.
+danog69 bets (160)
+Tina_Engel calls (160)
+** Dealing Turn ** :  [ 2s ]
+Tina_Engel checks.
+danog69 checks.
+** Dealing River ** :  [ 4s ]
+Tina_Engel bets (320)
+danog69 folds.
+** Summary **
+Main Pot: 400
+Board: [ 3d Kh Jc 2s 4s  ]
+
+Tina_Engel balance 2000, bet 520, collected 720, net +200
+danog69 balance 2220, lost 200 (folded)
+coogan9867 balance 4280, didn't bet (folded)
+markca balance 2240, didn't bet (folded)
+Paldo1 balance 1900, didn't bet (folded)
+hatoka balance 1580, didn't bet (folded)
+Rabishahh balance 1820, didn't bet (folded)
+Lunatic68 balance 2180, didn't bet (folded)
+kale_Jeff balance 1780, didn't bet (folded)
+
+***** Hand History for Game 6014758324 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:01:14 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 1 is the button
+Total number of players : 9
+Seat 1: Tina_Engel (2000)
+Seat 2: danog69 (2220)
+Seat 3: coogan9867 (4280)
+Seat 4: markca (2240)
+Seat 5: Paldo1 (1900)
+Seat 6: hatoka (1580)
+Seat 7: Rabishahh (1820)
+Seat 9: Lunatic68 (2180)
+Seat 10: kale_Jeff (1780)
+danog69  posts small blind (30)
+coogan9867  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Th, 6h ]
+markca folds.
+Paldo1 folds.
+hatoka folds.
+Rabishahh folds.
+Lunatic68 calls (60)
+kale_Jeff calls (60)
+Tina_Engel calls (60)
+danog69 calls (30)
+coogan9867 checks.
+** Dealing Flop ** :  [ 3d, Kc, 3s ]
+danog69 checks.
+coogan9867 checks.
+Lunatic68 checks.
+kale_Jeff checks.
+Tina_Engel bets (240)
+danog69 folds.
+coogan9867 folds.
+Lunatic68 folds.
+kale_Jeff folds.
+** Summary **
+Main Pot: 300
+Board: [ 3d Kc 3s  ]
+
+Tina_Engel balance 2240, bet 300, collected 540, net +240
+danog69 balance 2160, lost 60 (folded)
+coogan9867 balance 4220, lost 60 (folded)
+markca balance 2240, didn't bet (folded)
+Paldo1 balance 1900, didn't bet (folded)
+hatoka balance 1580, didn't bet (folded)
+Rabishahh balance 1820, didn't bet (folded)
+Lunatic68 balance 2120, lost 60 (folded)
+kale_Jeff balance 1720, lost 60 (folded)
+
+***** Hand History for Game 6014761181 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:01:55 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 2 is the button
+Total number of players : 9
+Seat 1: Tina_Engel (2240)
+Seat 2: danog69 (2160)
+Seat 3: coogan9867 (4220)
+Seat 4: markca (2240)
+Seat 5: Paldo1 (1900)
+Seat 6: hatoka (1580)
+Seat 7: Rabishahh (1820)
+Seat 9: Lunatic68 (2120)
+Seat 10: kale_Jeff (1720)
+coogan9867  posts small blind (30)
+markca  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Jd, 6c ]
+Paldo1 folds.
+hatoka folds.
+Rabishahh folds.
+Lunatic68 folds.
+kale_Jeff folds.
+Tina_Engel raises (180) to 180
+danog69 folds.
+coogan9867 folds.
+markca folds.
+** Summary **
+Main Pot: 150
+
+Tina_Engel balance 2330, bet 180, collected 270, net +90
+danog69 balance 2160, didn't bet (folded)
+coogan9867 balance 4190, lost 30 (folded)
+markca balance 2180, lost 60 (folded)
+Paldo1 balance 1900, didn't bet (folded)
+hatoka balance 1580, didn't bet (folded)
+Rabishahh balance 1820, didn't bet (folded)
+Lunatic68 balance 2120, didn't bet (folded)
+kale_Jeff balance 1720, didn't bet (folded)
+
+***** Hand History for Game 6014762994 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:02:21 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 3 is the button
+Total number of players : 9
+Seat 1: Tina_Engel (2330)
+Seat 2: danog69 (2160)
+Seat 3: coogan9867 (4190)
+Seat 4: markca (2180)
+Seat 5: Paldo1 (1900)
+Seat 6: hatoka (1580)
+Seat 7: Rabishahh (1820)
+Seat 9: Lunatic68 (2120)
+Seat 10: kale_Jeff (1720)
+markca  posts small blind (30)
+Paldo1  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Tc, 7d ]
+hatoka folds.
+Rabishahh folds.
+Lunatic68 folds.
+kale_Jeff raises (120) to 120
+Tina_Engel folds.
+danog69 calls (120)
+coogan9867 folds.
+markca folds.
+Paldo1 folds.
+** Dealing Flop ** :  [ 2d, 4s, 5s ]
+kale_Jeff bets (120)
+danog69 calls (120)
+** Dealing Turn ** :  [ 5d ]
+kale_Jeff bets (60)
+danog69 calls (60)
+** Dealing River ** :  [ 6c ]
+kale_Jeff checks.
+danog69 bets (540)
+kale_Jeff folds.
+** Summary **
+Main Pot: 690
+Board: [ 2d 4s 5s 5d 6c  ]
+
+Tina_Engel balance 2330, didn't bet (folded)
+danog69 balance 2550, bet 840, collected 1230, net +390
+coogan9867 balance 4190, didn't bet (folded)
+markca balance 2150, lost 30 (folded)
+Paldo1 balance 1840, lost 60 (folded)
+hatoka balance 1580, didn't bet (folded)
+Rabishahh balance 1820, didn't bet (folded)
+Lunatic68 balance 2120, didn't bet (folded)
+kale_Jeff balance 1420, lost 300 (folded)
+
+***** Hand History for Game 6014765655 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:03:00 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 4 is the button
+Total number of players : 9
+Seat 1: Tina_Engel (2330)
+Seat 2: danog69 (2550)
+Seat 3: coogan9867 (4190)
+Seat 4: markca (2150)
+Seat 5: Paldo1 (1840)
+Seat 6: hatoka (1580)
+Seat 7: Rabishahh (1820)
+Seat 9: Lunatic68 (2120)
+Seat 10: kale_Jeff (1420)
+Paldo1  posts small blind (30)
+hatoka  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 4d, Kc ]
+Rabishahh folds.
+Lunatic68 calls (60)
+kale_Jeff folds.
+Tina_Engel folds.
+danog69 folds.
+coogan9867 raises (300) to 300
+markca folds.
+Paldo1 folds.
+hatoka folds.
+Lunatic68 calls (240)
+** Dealing Flop ** :  [ 7d, Ac, Ks ]
+Lunatic68 bets (240)
+coogan9867 raises (1740) to 1740
+Lunatic68 raises (1580) to 1820
+Lunatic68 is all-In.
+coogan9867 calls (80)
+** Dealing Turn ** :  [ 3c ]
+** Dealing River ** :  [ Kh ]
+Creating Main Pot with $4330 with Lunatic68
+** Summary **
+Main Pot: 4330
+Board: [ 7d Ac Ks 3c Kh  ]
+
+Tina_Engel balance 2330, didn't bet (folded)
+danog69 balance 2550, didn't bet (folded)
+coogan9867 balance 6400, bet 2120, collected 4330, net +2210 [ Qh As ] [ two pairs, Aces and Kings with Queen kicker -- As,Ac,Ks,Kh,Qh ]
+markca balance 2150, didn't bet (folded)
+Paldo1 balance 1810, lost 30 (folded)
+hatoka balance 1520, lost 60 (folded)
+Rabishahh balance 1820, didn't bet (folded)
+Lunatic68 balance 0, lost 2120 [ Ad 9d ] [ two pairs, Aces and Kings -- Ad,Ac,Ks,Kh,9d ]
+kale_Jeff balance 1420, didn't bet (folded)
+
+***** Hand History for Game 6014768809 *****
+Lunatic68 finished in 9 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:03:45 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 5 is the button
+Total number of players : 8
+Seat 1: Tina_Engel (2330)
+Seat 2: danog69 (2550)
+Seat 3: coogan9867 (6400)
+Seat 4: markca (2150)
+Seat 5: Paldo1 (1810)
+Seat 6: hatoka (1520)
+Seat 7: Rabishahh (1820)
+Seat 10: kale_Jeff (1420)
+hatoka  posts small blind (30)
+Rabishahh  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Jd, 4s ]
+kale_Jeff folds.
+Tina_Engel folds.
+danog69 folds.
+coogan9867 folds.
+markca folds.
+Paldo1 folds.
+hatoka raises (90) to 120
+Rabishahh raises (300) to 360
+hatoka calls (240)
+** Dealing Flop ** :  [ Ks, Td, 2d ]
+hatoka bets (60)
+Rabishahh raises (450) to 450
+hatoka folds.
+** Summary **
+Main Pot: 840
+Board: [ Ks Td 2d  ]
+
+Tina_Engel balance 2330, didn't bet (folded)
+danog69 balance 2550, didn't bet (folded)
+coogan9867 balance 6400, didn't bet (folded)
+markca balance 2150, didn't bet (folded)
+Paldo1 balance 1810, didn't bet (folded)
+hatoka balance 1100, lost 420 (folded)
+Rabishahh balance 2240, bet 810, collected 1230, net +420
+kale_Jeff balance 1420, didn't bet (folded)
+
+***** Hand History for Game 6014771238 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:04:21 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 6 is the button
+Total number of players : 8
+Seat 1: Tina_Engel (2330)
+Seat 2: danog69 (2550)
+Seat 3: coogan9867 (6400)
+Seat 4: markca (2150)
+Seat 5: Paldo1 (1810)
+Seat 6: hatoka (1100)
+Seat 7: Rabishahh (2240)
+Seat 10: kale_Jeff (1420)
+Rabishahh  posts small blind (30)
+kale_Jeff  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 9h, Kh ]
+Tina_Engel folds.
+danog69 folds.
+coogan9867 folds.
+markca raises (240) to 240
+Paldo1 folds.
+hatoka folds.
+Rabishahh folds.
+kale_Jeff folds.
+** Summary **
+Main Pot: 150
+
+Tina_Engel balance 2330, didn't bet (folded)
+danog69 balance 2550, didn't bet (folded)
+coogan9867 balance 6400, didn't bet (folded)
+markca balance 2240, bet 240, collected 330, net +90
+Paldo1 balance 1810, didn't bet (folded)
+hatoka balance 1100, didn't bet (folded)
+Rabishahh balance 2210, lost 30 (folded)
+kale_Jeff balance 1360, lost 60 (folded)
+
+***** Hand History for Game 6014772851 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:04:45 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 7 is the button
+Total number of players : 8
+Seat 1: Tina_Engel (2330)
+Seat 2: danog69 (2550)
+Seat 3: coogan9867 (6400)
+Seat 4: markca (2240)
+Seat 5: Paldo1 (1810)
+Seat 6: hatoka (1100)
+Seat 7: Rabishahh (2210)
+Seat 10: kale_Jeff (1360)
+kale_Jeff  posts small blind (30)
+Tina_Engel  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Jc, 7d ]
+danog69 calls (60)
+coogan9867 folds.
+markca folds.
+Paldo1 folds.
+hatoka folds.
+Rabishahh calls (60)
+kale_Jeff calls (30)
+Tina_Engel checks.
+** Dealing Flop ** :  [ 7s, 3s, Ah ]
+kale_Jeff checks.
+Tina_Engel checks.
+danog69 bets (300)
+Rabishahh folds.
+kale_Jeff folds.
+Tina_Engel folds.
+** Summary **
+Main Pot: 240
+Board: [ 7s 3s Ah  ]
+
+Tina_Engel balance 2270, lost 60 (folded)
+danog69 balance 2730, bet 360, collected 540, net +180
+coogan9867 balance 6400, didn't bet (folded)
+markca balance 2240, didn't bet (folded)
+Paldo1 balance 1810, didn't bet (folded)
+hatoka balance 1100, didn't bet (folded)
+Rabishahh balance 2150, lost 60 (folded)
+kale_Jeff balance 1300, lost 60 (folded)
+
+***** Hand History for Game 6014775117 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:05:18 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 10 is the button
+Total number of players : 8
+Seat 1: Tina_Engel (2270)
+Seat 2: danog69 (2730)
+Seat 3: coogan9867 (6400)
+Seat 4: markca (2240)
+Seat 5: Paldo1 (1810)
+Seat 6: hatoka (1100)
+Seat 7: Rabishahh (2150)
+Seat 10: kale_Jeff (1300)
+Tina_Engel  posts small blind (30)
+danog69  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 8h, Tc ]
+coogan9867 raises (120) to 120
+markca folds.
+Paldo1 calls (120)
+hatoka folds.
+Rabishahh folds.
+kale_Jeff folds.
+Tina_Engel folds.
+danog69 calls (60)
+** Dealing Flop ** :  [ 8c, Ah, 4h ]
+danog69 checks.
+coogan9867 checks.
+Paldo1 bets (250)
+danog69 folds.
+coogan9867 folds.
+** Summary **
+Main Pot: 390
+Board: [ 8c Ah 4h  ]
+
+Tina_Engel balance 2240, lost 30 (folded)
+danog69 balance 2610, lost 120 (folded)
+coogan9867 balance 6280, lost 120 (folded)
+markca balance 2240, didn't bet (folded)
+Paldo1 balance 2080, bet 370, collected 640, net +270
+hatoka balance 1100, didn't bet (folded)
+Rabishahh balance 2150, didn't bet (folded)
+kale_Jeff balance 1300, didn't bet (folded)
+
+***** Hand History for Game 6014777957 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:06:01 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 1 is the button
+Total number of players : 8
+Seat 1: Tina_Engel (2240)
+Seat 2: danog69 (2610)
+Seat 3: coogan9867 (6280)
+Seat 4: markca (2240)
+Seat 5: Paldo1 (2080)
+Seat 6: hatoka (1100)
+Seat 7: Rabishahh (2150)
+Seat 10: kale_Jeff (1300)
+danog69  posts small blind (30)
+coogan9867  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 4d, 6c ]
+markca folds.
+Paldo1 folds.
+hatoka folds.
+Rabishahh folds.
+kale_Jeff folds.
+Tina_Engel folds.
+danog69 calls (30)
+coogan9867 checks.
+** Dealing Flop ** :  [ 6h, 2d, Ts ]
+danog69 bets (360)
+coogan9867 folds.
+** Summary **
+Main Pot: 120
+Board: [ 6h 2d Ts  ]
+
+Tina_Engel balance 2240, didn't bet (folded)
+danog69 balance 2670, bet 420, collected 480, net +60
+coogan9867 balance 6220, lost 60 (folded)
+markca balance 2240, didn't bet (folded)
+Paldo1 balance 2080, didn't bet (folded)
+hatoka balance 1100, didn't bet (folded)
+Rabishahh balance 2150, didn't bet (folded)
+kale_Jeff balance 1300, didn't bet (folded)
+
+***** Hand History for Game 6014780189 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:06:34 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 2 is the button
+Total number of players : 8
+Seat 1: Tina_Engel (2240)
+Seat 2: danog69 (2670)
+Seat 3: coogan9867 (6220)
+Seat 4: markca (2240)
+Seat 5: Paldo1 (2080)
+Seat 6: hatoka (1100)
+Seat 7: Rabishahh (2150)
+Seat 10: kale_Jeff (1300)
+coogan9867  posts small blind (50)
+markca  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 2h, 7h ]
+Paldo1 folds.
+hatoka folds.
+Rabishahh folds.
+kale_Jeff calls (100)
+Tina_Engel folds.
+danog69 calls (100)
+coogan9867 calls (50)
+markca checks.
+** Dealing Flop ** :  [ 3c, 7s, 9c ]
+coogan9867 checks.
+markca bets (300)
+kale_Jeff calls (300)
+danog69 raises (2570) to 2570
+danog69 is all-In.
+coogan9867 folds.
+markca folds.
+kale_Jeff folds.
+Creating Main Pot with $1300 with danog69
+** Summary **
+Main Pot: 1300
+Board: [ 3c 7s 9c  ]
+
+Tina_Engel balance 2240, didn't bet (folded)
+danog69 balance 3570, bet 2670, collected 3570, net +900
+coogan9867 balance 6120, lost 100 (folded)
+markca balance 1840, lost 400 (folded)
+Paldo1 balance 2080, didn't bet (folded)
+hatoka balance 1100, didn't bet (folded)
+Rabishahh balance 2150, didn't bet (folded)
+kale_Jeff balance 900, lost 400 (folded)
+
+***** Hand History for Game 6014783200 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:07:19 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 3 is the button
+Total number of players : 8
+Seat 1: Tina_Engel (2240)
+Seat 2: danog69 (3570)
+Seat 3: coogan9867 (6120)
+Seat 4: markca (1840)
+Seat 5: Paldo1 (2080)
+Seat 6: hatoka (1100)
+Seat 7: Rabishahh (2150)
+Seat 10: kale_Jeff (900)
+markca  posts small blind (50)
+Paldo1  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Ac, 5s ]
+hatoka folds.
+Rabishahh folds.
+kale_Jeff calls (100)
+Tina_Engel folds.
+danog69 calls (100)
+coogan9867 folds.
+markca calls (50)
+Paldo1 checks.
+** Dealing Flop ** :  [ 8h, 4c, 7h ]
+markca bets (500)
+Paldo1 folds.
+kale_Jeff folds.
+danog69 folds.
+** Summary **
+Main Pot: 400
+Board: [ 8h 4c 7h  ]
+
+Tina_Engel balance 2240, didn't bet (folded)
+danog69 balance 3470, lost 100 (folded)
+coogan9867 balance 6120, didn't bet (folded)
+markca balance 2140, bet 600, collected 900, net +300
+Paldo1 balance 1980, lost 100 (folded)
+hatoka balance 1100, didn't bet (folded)
+Rabishahh balance 2150, didn't bet (folded)
+kale_Jeff balance 800, lost 100 (folded)
+
+***** Hand History for Game 6014785489 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:07:52 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 4 is the button
+Total number of players : 8
+Seat 1: Tina_Engel (2240)
+Seat 2: danog69 (3470)
+Seat 3: coogan9867 (6120)
+Seat 4: markca (2140)
+Seat 5: Paldo1 (1980)
+Seat 6: hatoka (1100)
+Seat 7: Rabishahh (2150)
+Seat 10: kale_Jeff (800)
+Paldo1  posts small blind (50)
+hatoka  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Qh, Ac ]
+Rabishahh folds.
+kale_Jeff raises (200) to 200
+Tina_Engel folds.
+danog69 calls (200)
+coogan9867 calls (200)
+markca folds.
+Paldo1 calls (150)
+hatoka raises (600) to 700
+kale_Jeff raises (600) to 800
+kale_Jeff is all-In.
+danog69 folds.
+coogan9867 folds.
+Paldo1 raises (1100) to 1300
+hatoka calls (400)
+hatoka is all-In.
+** Dealing Flop ** :  [ 5c, 3s, Tc ]
+** Dealing Turn ** :  [ 4d ]
+** Dealing River ** :  [ 2d ]
+Creating Main Pot with $2800 with kale_Jeff
+Creating Side Pot 1 with $600 with hatoka
+** Summary **
+Main Pot: 2800 | Side Pot 1: 600
+Board: [ 5c 3s Tc 4d 2d  ]
+
+Tina_Engel balance 2240, didn't bet (folded)
+danog69 balance 3270, lost 200 (folded)
+coogan9867 balance 5920, lost 200 (folded)
+markca balance 2140, didn't bet (folded)
+Paldo1 balance 880, bet 1300, collected 200, lost -1100 [ 9d 9s ] [ a pair of Nines -- Tc,9d,9s,5c,4d ]
+hatoka balance 2000, bet 1100, collected 2000, net +900 [ Qh Ac ] [ a straight Ace to Five -- Ac,5c,4d,3s,2d ]
+Rabishahh balance 2150, didn't bet (folded)
+kale_Jeff balance 1400, bet 800, collected 1400, net +600 [ Jh Ad ] [ a straight Ace to Five -- Ad,5c,4d,3s,2d ]
+
+***** Hand History for Game 6014788324 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:08:36 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 5 is the button
+Total number of players : 8
+Seat 1: Tina_Engel (2240)
+Seat 2: danog69 (3270)
+Seat 3: coogan9867 (5920)
+Seat 4: markca (2140)
+Seat 5: Paldo1 (880)
+Seat 6: hatoka (2000)
+Seat 7: Rabishahh (2150)
+Seat 10: kale_Jeff (1400)
+hatoka  posts small blind (50)
+Rabishahh  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Kd, 8d ]
+kale_Jeff calls (100)
+Tina_Engel folds.
+danog69 folds.
+coogan9867 folds.
+markca raises (500) to 500
+Paldo1 folds.
+hatoka folds.
+Rabishahh folds.
+kale_Jeff folds.
+** Summary **
+Main Pot: 350
+
+Tina_Engel balance 2240, didn't bet (folded)
+danog69 balance 3270, didn't bet (folded)
+coogan9867 balance 5920, didn't bet (folded)
+markca balance 2390, bet 500, collected 750, net +250
+Paldo1 balance 880, didn't bet (folded)
+hatoka balance 1950, lost 50 (folded)
+Rabishahh balance 2050, lost 100 (folded)
+kale_Jeff balance 1300, lost 100 (folded)
+
+***** Hand History for Game 6014789954 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:09:01 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 6 is the button
+Total number of players : 8
+Seat 1: Tina_Engel (2240)
+Seat 2: danog69 (3270)
+Seat 3: coogan9867 (5920)
+Seat 4: markca (2390)
+Seat 5: Paldo1 (880)
+Seat 6: hatoka (1950)
+Seat 7: Rabishahh (2050)
+Seat 10: kale_Jeff (1300)
+Rabishahh  posts small blind (50)
+kale_Jeff  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Kd, Kh ]
+Tina_Engel folds.
+danog69 folds.
+coogan9867 folds.
+markca folds.
+Paldo1 folds.
+hatoka raises (300) to 300
+Rabishahh folds.
+kale_Jeff folds.
+** Summary **
+Main Pot: 250
+
+Tina_Engel balance 2240, didn't bet (folded)
+danog69 balance 3270, didn't bet (folded)
+coogan9867 balance 5920, didn't bet (folded)
+markca balance 2390, didn't bet (folded)
+Paldo1 balance 880, didn't bet (folded)
+hatoka balance 2100, bet 300, collected 450, net +150
+Rabishahh balance 2000, lost 50 (folded)
+kale_Jeff balance 1200, lost 100 (folded)
+
+***** Hand History for Game 6014791175 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:09:19 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 7 is the button
+Total number of players : 8
+Seat 1: Tina_Engel (2240)
+Seat 2: danog69 (3270)
+Seat 3: coogan9867 (5920)
+Seat 4: markca (2390)
+Seat 5: Paldo1 (880)
+Seat 6: hatoka (2100)
+Seat 7: Rabishahh (2000)
+Seat 10: kale_Jeff (1200)
+kale_Jeff  posts small blind (50)
+Tina_Engel  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 8d, 5s ]
+danog69 folds.
+coogan9867 raises (200) to 200
+markca folds.
+Paldo1 folds.
+hatoka folds.
+Rabishahh folds.
+kale_Jeff folds.
+Tina_Engel calls (100)
+** Dealing Flop ** :  [ 4s, Jh, 5c ]
+Tina_Engel checks.
+coogan9867 bets (300)
+Tina_Engel folds.
+** Summary **
+Main Pot: 450
+Board: [ 4s Jh 5c  ]
+
+Tina_Engel balance 2040, lost 200 (folded)
+danog69 balance 3270, didn't bet (folded)
+coogan9867 balance 6170, bet 500, collected 750, net +250
+markca balance 2390, didn't bet (folded)
+Paldo1 balance 880, didn't bet (folded)
+hatoka balance 2100, didn't bet (folded)
+Rabishahh balance 2000, didn't bet (folded)
+kale_Jeff balance 1150, lost 50 (folded)
+
+***** Hand History for Game 6014792816 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:09:44 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 10 is the button
+Total number of players : 8
+Seat 1: Tina_Engel (2040)
+Seat 2: danog69 (3270)
+Seat 3: coogan9867 (6170)
+Seat 4: markca (2390)
+Seat 5: Paldo1 (880)
+Seat 6: hatoka (2100)
+Seat 7: Rabishahh (2000)
+Seat 10: kale_Jeff (1150)
+Tina_Engel  posts small blind (50)
+danog69  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 8h, Ah ]
+coogan9867 folds.
+markca folds.
+Paldo1 folds.
+hatoka raises (200) to 200
+Rabishahh folds.
+kale_Jeff folds.
+Tina_Engel folds.
+danog69 calls (100)
+** Dealing Flop ** :  [ 6h, 2h, Kd ]
+danog69 checks.
+hatoka bets (500)
+danog69 calls (500)
+** Dealing Turn ** :  [ Qc ]
+danog69 checks.
+hatoka checks.
+** Dealing River ** :  [ 6d ]
+danog69 checks.
+hatoka checks.
+** Summary **
+Main Pot: 1450
+Board: [ 6h 2h Kd Qc 6d  ]
+
+Tina_Engel balance 1990, lost 50 (folded)
+danog69 balance 2570, lost 700 [ Th 7h ] [ a pair of Sixes -- Kd,Qc,Th,6h,6d ]
+coogan9867 balance 6170, didn't bet (folded)
+markca balance 2390, didn't bet (folded)
+Paldo1 balance 880, didn't bet (folded)
+hatoka balance 2850, bet 700, collected 1450, net +750 [ 8h Ah ] [ a pair of Sixes with Ace kicker -- Ah,Kd,Qc,6h,6dAh(kicker card) ]
+Rabishahh balance 2000, didn't bet (folded)
+kale_Jeff balance 1150, didn't bet (folded)
+
+***** Hand History for Game 6014795150 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:10:20 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 1 is the button
+Total number of players : 8
+Seat 1: Tina_Engel (1990)
+Seat 2: danog69 (2570)
+Seat 3: coogan9867 (6170)
+Seat 4: markca (2390)
+Seat 5: Paldo1 (880)
+Seat 6: hatoka (2850)
+Seat 7: Rabishahh (2000)
+Seat 10: kale_Jeff (1150)
+danog69  posts small blind (50)
+coogan9867  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Td, Kh ]
+markca calls (100)
+Paldo1 folds.
+hatoka calls (100)
+Rabishahh folds.
+kale_Jeff folds.
+Tina_Engel folds.
+danog69 calls (50)
+coogan9867 checks.
+** Dealing Flop ** :  [ 8h, 9s, Kd ]
+danog69 checks.
+coogan9867 checks.
+markca checks.
+hatoka bets (300)
+danog69 calls (300)
+coogan9867 folds.
+markca raises (700) to 700
+hatoka calls (400)
+danog69 calls (400)
+** Dealing Turn ** :  [ Ts ]
+danog69 bets (1770)
+danog69 is all-In.
+markca calls (1590)
+markca is all-In.
+hatoka calls (1770)
+** Dealing River ** :  [ 2h ]
+Creating Main Pot with $7270 with markca
+Creating Side Pot 1 with $360 with danog69
+** Summary **
+Main Pot: 7270 | Side Pot 1: 360
+Board: [ 8h 9s Kd Ts 2h  ]
+
+Tina_Engel balance 1990, didn't bet (folded)
+danog69 balance 7630, bet 2570, collected 7630, net +5060 [ 7s 6s ] [ a straight Six to Ten -- Ts,9s,8h,7s,6s ]
+coogan9867 balance 6070, lost 100 (folded)
+markca balance 0, lost 2390 [ 8s 9c ] [ two pairs, Nines and Eights -- Kd,9c,9s,8s,8h ]
+Paldo1 balance 880, didn't bet (folded)
+hatoka balance 280, lost 2570 [ Td Kh ] [ two pairs, Kings and Tens -- Kh,Kd,Td,Ts,9s ]
+Rabishahh balance 2000, didn't bet (folded)
+kale_Jeff balance 1150, didn't bet (folded)
+
+***** Hand History for Game 6014798983 *****
+markca finished in 8 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:11:18 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 2 is the button
+Total number of players : 7
+Seat 1: Tina_Engel (1990)
+Seat 2: danog69 (7630)
+Seat 3: coogan9867 (6070)
+Seat 5: Paldo1 (880)
+Seat 6: hatoka (280)
+Seat 7: Rabishahh (2000)
+Seat 10: kale_Jeff (1150)
+coogan9867  posts small blind (50)
+Paldo1  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Ad, Jc ]
+hatoka raises (280) to 280
+hatoka is all-In.
+Rabishahh folds.
+kale_Jeff calls (280)
+Tina_Engel folds.
+danog69 calls (280)
+coogan9867 raises (1250) to 1300
+Paldo1 folds.
+kale_Jeff calls (870)
+kale_Jeff is all-In.
+danog69 folds.
+** Dealing Flop ** :  [ 7h, 2h, Qh ]
+** Dealing Turn ** :  [ 2c ]
+** Dealing River ** :  [ 3s ]
+Creating Main Pot with $1220 with hatoka
+Creating Side Pot 1 with $1740 with kale_Jeff
+** Summary **
+Main Pot: 1220 | Side Pot 1: 1740
+Board: [ 7h 2h Qh 2c 3s  ]
+
+Tina_Engel balance 1990, didn't bet (folded)
+danog69 balance 7350, lost 280 (folded)
+coogan9867 balance 4920, bet 1300, collected 150, lost -1150 [ Ac 9c ] [ a pair of Twos -- Ac,Qh,9c,2h,2c ]
+Paldo1 balance 780, lost 100 (folded)
+hatoka balance 0, lost 280 [ Ad Jc ] [ a pair of Twos -- Ad,Qh,Jc,2h,2c ]
+Rabishahh balance 2000, didn't bet (folded)
+kale_Jeff balance 2960, bet 1150, collected 2960, net +1810 [ 8c 8h ] [ two pairs, Eights and Twos -- Qh,8c,8h,2h,2c ]
+
+***** Hand History for Game 6014800991 *****
+hatoka finished in 7 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:11:49 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 3 is the button
+Total number of players : 6
+Seat 1: Tina_Engel (1990)
+Seat 2: danog69 (7350)
+Seat 3: coogan9867 (4920)
+Seat 5: Paldo1 (780)
+Seat 7: Rabishahh (2000)
+Seat 10: kale_Jeff (2960)
+Paldo1  posts small blind (100)
+Rabishahh  posts big blind (200)
+** Dealing down cards **
+kale_Jeff folds.
+Tina_Engel folds.
+danog69 folds.
+coogan9867 raises (1600) to 1600
+Tina_Engel: nice comeback
+Paldo1 folds.
+Rabishahh folds.
+** Summary **
+Main Pot: 500
+
+Tina_Engel balance 1990, didn't bet (folded)
+danog69 balance 7350, didn't bet (folded)
+coogan9867 balance 5220, bet 1600, collected 1900, net +300
+Paldo1 balance 680, lost 100 (folded)
+Rabishahh balance 1800, lost 200 (folded)
+kale_Jeff balance 2960, didn't bet (folded)
+
+***** Hand History for Game 6014802142 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:12:06 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 5 is the button
+Total number of players : 6
+Seat 1: Tina_Engel (1990)
+Seat 2: danog69 (7350)
+Seat 3: coogan9867 (5220)
+Seat 5: Paldo1 (680)
+Seat 7: Rabishahh (1800)
+Seat 10: kale_Jeff (2960)
+Rabishahh  posts small blind (100)
+kale_Jeff  posts big blind (200)
+** Dealing down cards **
+Tina_Engel folds.
+danog69 folds.
+coogan9867 folds.
+Paldo1 folds.
+kale_Jeff: thank you
+Rabishahh calls (100)
+kale_Jeff checks.
+** Dealing Flop ** :  [ 4h, 4s, Ah ]
+Rabishahh checks.
+kale_Jeff checks.
+** Dealing Turn ** :  [ Qh ]
+Rabishahh bets (200)
+kale_Jeff calls (200)
+** Dealing River ** :  [ Ks ]
+Rabishahh bets (400)
+kale_Jeff calls (400)
+** Summary **
+Main Pot: 1600
+Board: [ 4h 4s Ah Qh Ks  ]
+
+Tina_Engel balance 1990, didn't bet (folded)
+danog69 balance 7350, didn't bet (folded)
+coogan9867 balance 5220, didn't bet (folded)
+Paldo1 balance 680, didn't bet (folded)
+Rabishahh balance 2600, bet 800, collected 1600, net +800 [ 7h 6h ] [ a flush, Ace high -- Ah,Qh,7h,6h,4h ]
+
+kale_Jeff balance 2160, lost 800 [Didn't Show]
+
+***** Hand History for Game 6014803874 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:12:33 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 7 is the button
+Total number of players : 6
+Seat 1: Tina_Engel (1990)
+Seat 2: danog69 (7350)
+Seat 3: coogan9867 (5220)
+Seat 5: Paldo1 (680)
+Seat 7: Rabishahh (2600)
+Seat 10: kale_Jeff (2160)
+kale_Jeff  posts small blind (100)
+Tina_Engel  posts big blind (200)
+** Dealing down cards **
+danog69 folds.
+coogan9867 raises (600) to 600
+Paldo1 raises (680) to 680
+Paldo1 is all-In.
+Rabishahh folds.
+kale_Jeff folds.
+Tina_Engel folds.
+coogan9867 calls (80)
+** Dealing Flop ** :  [ 7h, 2s, 2c ]
+** Dealing Turn ** :  [ Qc ]
+** Dealing River ** :  [ 5s ]
+Creating Main Pot with $1660 with Paldo1
+** Summary **
+Main Pot: 1660
+Board: [ 7h 2s 2c Qc 5s  ]
+
+Tina_Engel balance 1790, lost 200 (folded)
+danog69 balance 7350, didn't bet (folded)
+coogan9867 balance 4540, lost 680 [ 6d Ad ] [ a pair of Twos -- Ad,Qc,7h,2s,2c ]
+Paldo1 balance 1660, bet 680, collected 1660, net +980 [ Ah Ac ] [ two pairs, Aces and Twos -- Ah,Ac,Qc,2s,2c ]
+Rabishahh balance 2600, didn't bet (folded)
+kale_Jeff balance 2060, lost 100 (folded)
+
+***** Hand History for Game 6014805235 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:12:54 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 10 is the button
+Total number of players : 6
+Seat 1: Tina_Engel (1790)
+Seat 2: danog69 (7350)
+Seat 3: coogan9867 (4540)
+Seat 5: Paldo1 (1660)
+Seat 7: Rabishahh (2600)
+Seat 10: kale_Jeff (2060)
+Tina_Engel  posts small blind (100)
+danog69  posts big blind (200)
+** Dealing down cards **
+coogan9867 folds.
+Paldo1 folds.
+Rabishahh folds.
+kale_Jeff folds.
+Tina_Engel calls (100)
+danog69 checks.
+** Dealing Flop ** :  [ 7d, Qc, 6c ]
+Tina_Engel bets (600)
+danog69 folds.
+** Summary **
+Main Pot: 400
+Board: [ 7d Qc 6c  ]
+
+Tina_Engel balance 1990, bet 800, collected 1000, net +200
+danog69 balance 7150, lost 200 (folded)
+coogan9867 balance 4540, didn't bet (folded)
+Paldo1 balance 1660, didn't bet (folded)
+Rabishahh balance 2600, didn't bet (folded)
+kale_Jeff balance 2060, didn't bet (folded)
+
+***** Hand History for Game 6014806965 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:13:21 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 1 is the button
+Total number of players : 6
+Seat 1: Tina_Engel (1990)
+Seat 2: danog69 (7150)
+Seat 3: coogan9867 (4540)
+Seat 5: Paldo1 (1660)
+Seat 7: Rabishahh (2600)
+Seat 10: kale_Jeff (2060)
+danog69  posts small blind (100)
+coogan9867  posts big blind (200)
+** Dealing down cards **
+Paldo1 folds.
+Rabishahh folds.
+kale_Jeff calls (200)
+Tina_Engel folds.
+danog69 folds.
+coogan9867 checks.
+** Dealing Flop ** :  [ Ac, 5h, 8d ]
+coogan9867 checks.
+kale_Jeff checks.
+** Dealing Turn ** :  [ 7s ]
+coogan9867 checks.
+kale_Jeff bets (600)
+coogan9867 folds.
+** Summary **
+Main Pot: 500
+Board: [ Ac 5h 8d 7s  ]
+
+Tina_Engel balance 1990, didn't bet (folded)
+danog69 balance 7050, lost 100 (folded)
+coogan9867 balance 4340, lost 200 (folded)
+Paldo1 balance 1660, didn't bet (folded)
+Rabishahh balance 2600, didn't bet (folded)
+kale_Jeff balance 2360, bet 800, collected 1100, net +300
+
+***** Hand History for Game 6014809504 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:14:00 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 2 is the button
+Total number of players : 6
+Seat 1: Tina_Engel (1990)
+Seat 2: danog69 (7050)
+Seat 3: coogan9867 (4340)
+Seat 5: Paldo1 (1660)
+Seat 7: Rabishahh (2600)
+Seat 10: kale_Jeff (2360)
+coogan9867  posts small blind (100)
+Paldo1  posts big blind (200)
+** Dealing down cards **
+Rabishahh folds.
+kale_Jeff folds.
+Tina_Engel folds.
+danog69 calls (200)
+coogan9867 raises (1500) to 1600
+Paldo1 folds.
+danog69 folds.
+** Summary **
+Main Pot: 600
+
+Tina_Engel balance 1990, didn't bet (folded)
+danog69 balance 6850, lost 200 (folded)
+coogan9867 balance 4740, bet 1600, collected 2000, net +400
+Paldo1 balance 1460, lost 200 (folded)
+Rabishahh balance 2600, didn't bet (folded)
+kale_Jeff balance 2360, didn't bet (folded)
+
+***** Hand History for Game 6014810673 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:14:19 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 3 is the button
+Total number of players : 6
+Seat 1: Tina_Engel (1990)
+Seat 2: danog69 (6850)
+Seat 3: coogan9867 (4740)
+Seat 5: Paldo1 (1460)
+Seat 7: Rabishahh (2600)
+Seat 10: kale_Jeff (2360)
+Paldo1  posts small blind (100)
+Rabishahh  posts big blind (200)
+** Dealing down cards **
+kale_Jeff folds.
+Tina_Engel folds.
+danog69 folds.
+coogan9867 raises (1600) to 1600
+Paldo1 folds.
+Rabishahh folds.
+** Summary **
+Main Pot: 500
+
+Tina_Engel balance 1990, didn't bet (folded)
+danog69 balance 6850, didn't bet (folded)
+coogan9867 balance 5040, bet 1600, collected 1900, net +300
+Paldo1 balance 1360, lost 100 (folded)
+Rabishahh balance 2400, lost 200 (folded)
+kale_Jeff balance 2360, didn't bet (folded)
+
+***** Hand History for Game 6014811975 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:14:38 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 5 is the button
+Total number of players : 6
+Seat 1: Tina_Engel (1990)
+Seat 2: danog69 (6850)
+Seat 3: coogan9867 (5040)
+Seat 5: Paldo1 (1360)
+Seat 7: Rabishahh (2400)
+Seat 10: kale_Jeff (2360)
+Rabishahh  posts small blind (100)
+kale_Jeff  posts big blind (200)
+** Dealing down cards **
+Tina_Engel folds.
+danog69 folds.
+coogan9867 folds.
+Paldo1 folds.
+Rabishahh folds.
+** Summary **
+Main Pot: 200
+
+Tina_Engel balance 1990, didn't bet (folded)
+danog69 balance 6850, didn't bet (folded)
+coogan9867 balance 5040, didn't bet (folded)
+Paldo1 balance 1360, didn't bet (folded)
+Rabishahh balance 2300, lost 100 (folded)
+kale_Jeff balance 2460, bet 200, collected 300, net +100
+
+***** Hand History for Game 6014812632 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:14:49 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 7 is the button
+Total number of players : 6
+Seat 1: Tina_Engel (1990)
+Seat 2: danog69 (6850)
+Seat 3: coogan9867 (5040)
+Seat 5: Paldo1 (1360)
+Seat 7: Rabishahh (2300)
+Seat 10: kale_Jeff (2460)
+kale_Jeff  posts small blind (100)
+Tina_Engel  posts big blind (200)
+** Dealing down cards **
+danog69 folds.
+coogan9867 folds.
+Paldo1 folds.
+Rabishahh raises (500) to 500
+kale_Jeff folds.
+Tina_Engel calls (300)
+** Dealing Flop ** :  [ 4d, 3c, 5s ]
+Tina_Engel bets (600)
+Rabishahh raises (1800) to 1800
+Rabishahh is all-In.
+Tina_Engel calls (890)
+Tina_Engel is all-In.
+** Dealing Turn ** :  [ 9s ]
+** Dealing River ** :  [ Jc ]
+Creating Main Pot with $4080 with Tina_Engel
+** Summary **
+Main Pot: 4080
+Board: [ 4d 3c 5s 9s Jc  ]
+
+Tina_Engel balance 0, lost 1990 [ 4c Ac ] [ a pair of Fours -- Ac,Jc,9s,4c,4d ]
+danog69 balance 6850, didn't bet (folded)
+coogan9867 balance 5040, didn't bet (folded)
+Paldo1 balance 1360, didn't bet (folded)
+Rabishahh balance 4390, bet 2300, collected 4390, net +2090 [ 5d Ad ] [ a pair of Fives -- Ad,Jc,9s,5d,5s ]
+kale_Jeff balance 2360, lost 100 (folded)
+
+***** Hand History for Game 6014814539 *****
+Tina_Engel finished in 6 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:15:19 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 10 is the button
+Total number of players : 5
+Seat 2: danog69 (6850)
+Seat 3: coogan9867 (5040)
+Seat 5: Paldo1 (1360)
+Seat 7: Rabishahh (4390)
+Seat 10: kale_Jeff (2360)
+danog69  posts big blind (200)
+** Dealing down cards **
+coogan9867 folds.
+Paldo1 folds.
+Rabishahh folds.
+kale_Jeff calls (200)
+danog69 raises (200) to 400
+kale_Jeff calls (200)
+** Dealing Flop ** :  [ Ts, 3d, 5c ]
+danog69 checks.
+kale_Jeff checks.
+** Dealing Turn ** :  [ 6c ]
+danog69 checks.
+kale_Jeff checks.
+** Dealing River ** :  [ 9d ]
+danog69 bets (200)
+kale_Jeff folds.
+** Summary **
+Main Pot: 800
+Board: [ Ts 3d 5c 6c 9d  ]
+
+danog69 balance 7250, bet 600, collected 1000, net +400
+coogan9867 balance 5040, didn't bet (folded)
+Paldo1 balance 1360, didn't bet (folded)
+Rabishahh balance 4390, didn't bet (folded)
+kale_Jeff balance 1960, lost 400 (folded)
+
+***** Hand History for Game 6014816206 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:15:45 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 10 is the button
+Total number of players : 5
+Seat 2: danog69 (7250)
+Seat 3: coogan9867 (5040)
+Seat 5: Paldo1 (1360)
+Seat 7: Rabishahh (4390)
+Seat 10: kale_Jeff (1960)
+danog69  posts small blind (100)
+coogan9867  posts big blind (200)
+** Dealing down cards **
+Paldo1 folds.
+Rabishahh folds.
+kale_Jeff folds.
+danog69 calls (100)
+coogan9867 checks.
+** Dealing Flop ** :  [ Kh, 6s, Qs ]
+danog69 checks.
+coogan9867 bets (1000)
+danog69 folds.
+** Summary **
+Main Pot: 400
+Board: [ Kh 6s Qs  ]
+
+danog69 balance 7050, lost 200 (folded)
+coogan9867 balance 5240, bet 1200, collected 1400, net +200
+Paldo1 balance 1360, didn't bet (folded)
+Rabishahh balance 4390, didn't bet (folded)
+kale_Jeff balance 1960, didn't bet (folded)
+
+***** Hand History for Game 6014818415 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:16:19 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 2 is the button
+Total number of players : 5
+Seat 2: danog69 (7050)
+Seat 3: coogan9867 (5240)
+Seat 5: Paldo1 (1360)
+Seat 7: Rabishahh (4390)
+Seat 10: kale_Jeff (1960)
+coogan9867  posts small blind (100)
+Paldo1  posts big blind (200)
+** Dealing down cards **
+Rabishahh folds.
+kale_Jeff folds.
+danog69 calls (200)
+coogan9867 folds.
+Paldo1 checks.
+** Dealing Flop ** :  [ Ks, Js, 7d ]
+Paldo1 checks.
+danog69 checks.
+** Dealing Turn ** :  [ Ah ]
+Paldo1 checks.
+danog69 checks.
+** Dealing River ** :  [ As ]
+Paldo1 checks.
+danog69 bets (1000)
+Paldo1 folds.
+** Summary **
+Main Pot: 500
+Board: [ Ks Js 7d Ah As  ]
+
+danog69 balance 7350, bet 1200, collected 1500, net +300
+coogan9867 balance 5140, lost 100 (folded)
+Paldo1 balance 1160, lost 200 (folded)
+Rabishahh balance 4390, didn't bet (folded)
+kale_Jeff balance 1960, didn't bet (folded)
+
+***** Hand History for Game 6014821571 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:17:07 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 3 is the button
+Total number of players : 5
+Seat 2: danog69 (7350)
+Seat 3: coogan9867 (5140)
+Seat 5: Paldo1 (1160)
+Seat 7: Rabishahh (4390)
+Seat 10: kale_Jeff (1960)
+Paldo1  posts small blind (200)
+Rabishahh  posts big blind (400)
+** Dealing down cards **
+kale_Jeff folds.
+danog69 calls (400)
+coogan9867 folds.
+Paldo1 folds.
+Rabishahh checks.
+** Dealing Flop ** :  [ 3c, Js, Qc ]
+Rabishahh checks.
+danog69 bets (400)
+Rabishahh folds.
+** Summary **
+Main Pot: 1000
+Board: [ 3c Js Qc  ]
+
+danog69 balance 7950, bet 800, collected 1400, net +600
+coogan9867 balance 5140, didn't bet (folded)
+Paldo1 balance 960, lost 200 (folded)
+Rabishahh balance 3990, lost 400 (folded)
+kale_Jeff balance 1960, didn't bet (folded)
+
+***** Hand History for Game 6014822881 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:17:27 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 5 is the button
+Total number of players : 5
+Seat 2: danog69 (7950)
+Seat 3: coogan9867 (5140)
+Seat 5: Paldo1 (960)
+Seat 7: Rabishahh (3990)
+Seat 10: kale_Jeff (1960)
+Rabishahh  posts small blind (200)
+kale_Jeff  posts big blind (400)
+** Dealing down cards **
+danog69 folds.
+coogan9867 folds.
+Paldo1 raises (960) to 960
+Paldo1 is all-In.
+Rabishahh folds.
+kale_Jeff folds.
+Creating Main Pot with $1000 with Paldo1
+** Summary **
+Main Pot: 1000
+
+danog69 balance 7950, didn't bet (folded)
+coogan9867 balance 5140, didn't bet (folded)
+Paldo1 balance 1560, bet 960, collected 1560, net +600
+Rabishahh balance 3790, lost 200 (folded)
+kale_Jeff balance 1560, lost 400 (folded)
+
+***** Hand History for Game 6014823849 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:17:42 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 7 is the button
+Total number of players : 5
+Seat 2: danog69 (7950)
+Seat 3: coogan9867 (5140)
+Seat 5: Paldo1 (1560)
+Seat 7: Rabishahh (3790)
+Seat 10: kale_Jeff (1560)
+kale_Jeff  posts small blind (200)
+danog69  posts big blind (400)
+** Dealing down cards **
+coogan9867 folds.
+Paldo1 folds.
+Rabishahh raises (999) to 999
+kale_Jeff folds.
+danog69 calls (599)
+** Dealing Flop ** :  [ Ad, 7d, Js ]
+danog69 checks.
+Rabishahh bets (1111)
+danog69 calls (1111)
+** Dealing Turn ** :  [ 4s ]
+danog69 checks.
+Rabishahh bets (1680)
+Rabishahh is all-In.
+danog69 calls (1680)
+** Dealing River ** :  [ 9s ]
+Creating Main Pot with $7780 with Rabishahh
+** Summary **
+Main Pot: 7780
+Board: [ Ad 7d Js 4s 9s  ]
+
+danog69 balance 4160, lost 3790 [ As Qc ] [ a pair of Aces -- As,Ad,Qc,Js,9s ]
+coogan9867 balance 5140, didn't bet (folded)
+Paldo1 balance 1560, didn't bet (folded)
+Rabishahh balance 7780, bet 3790, collected 7780, net +3990 [ 7s 7h ] [ three of a kind, Sevens -- Ad,Js,7s,7h,7d ]
+kale_Jeff balance 1360, lost 200 (folded)
+
+***** Hand History for Game 6014826345 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:18:21 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 10 is the button
+Total number of players : 5
+Seat 2: danog69 (4160)
+Seat 3: coogan9867 (5140)
+Seat 5: Paldo1 (1560)
+Seat 7: Rabishahh (7780)
+Seat 10: kale_Jeff (1360)
+danog69  posts small blind (200)
+coogan9867  posts big blind (400)
+** Dealing down cards **
+Paldo1 folds.
+Rabishahh folds.
+kale_Jeff folds.
+danog69 folds.
+** Summary **
+Main Pot: 400
+
+danog69 balance 3960, lost 200 (folded)
+coogan9867 balance 5340, bet 400, collected 600, net +200
+Paldo1 balance 1560, didn't bet (folded)
+Rabishahh balance 7780, didn't bet (folded)
+kale_Jeff balance 1360, didn't bet (folded)
+
+***** Hand History for Game 6014826977 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:18:31 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 2 is the button
+Total number of players : 5
+Seat 2: danog69 (3960)
+Seat 3: coogan9867 (5340)
+Seat 5: Paldo1 (1560)
+Seat 7: Rabishahh (7780)
+Seat 10: kale_Jeff (1360)
+coogan9867  posts small blind (200)
+Paldo1  posts big blind (400)
+** Dealing down cards **
+Rabishahh folds.
+kale_Jeff folds.
+danog69 folds.
+coogan9867 calls (200)
+Paldo1 raises (1160) to 1560
+Paldo1 is all-In.
+coogan9867 folds.
+Creating Main Pot with $800 with Paldo1
+** Summary **
+Main Pot: 800
+
+danog69 balance 3960, didn't bet (folded)
+coogan9867 balance 4940, lost 400 (folded)
+Paldo1 balance 1960, bet 1560, collected 1960, net +400
+Rabishahh balance 7780, didn't bet (folded)
+kale_Jeff balance 1360, didn't bet (folded)
+
+***** Hand History for Game 6014828451 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:18:54 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 3 is the button
+Total number of players : 5
+Seat 2: danog69 (3960)
+Seat 3: coogan9867 (4940)
+Seat 5: Paldo1 (1960)
+Seat 7: Rabishahh (7780)
+Seat 10: kale_Jeff (1360)
+Paldo1  posts small blind (200)
+Rabishahh  posts big blind (400)
+** Dealing down cards **
+kale_Jeff folds.
+danog69 calls (400)
+coogan9867 folds.
+Paldo1 folds.
+Rabishahh checks.
+** Dealing Flop ** :  [ Kh, 6s, 8s ]
+Rabishahh checks.
+danog69 bets (3560)
+danog69 is all-In.
+Rabishahh folds.
+Creating Main Pot with $1000 with danog69
+** Summary **
+Main Pot: 1000
+Board: [ Kh 6s 8s  ]
+
+danog69 balance 4560, bet 3960, collected 4560, net +600
+coogan9867 balance 4940, didn't bet (folded)
+Paldo1 balance 1760, lost 200 (folded)
+Rabishahh balance 7380, lost 400 (folded)
+kale_Jeff balance 1360, didn't bet (folded)
+
+***** Hand History for Game 6014829884 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:19:16 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 5 is the button
+Total number of players : 5
+Seat 2: danog69 (4560)
+Seat 3: coogan9867 (4940)
+Seat 5: Paldo1 (1760)
+Seat 7: Rabishahh (7380)
+Seat 10: kale_Jeff (1360)
+Rabishahh  posts small blind (200)
+kale_Jeff  posts big blind (400)
+** Dealing down cards **
+danog69 folds.
+coogan9867 folds.
+Paldo1 folds.
+Rabishahh folds.
+** Summary **
+Main Pot: 400
+
+danog69 balance 4560, didn't bet (folded)
+coogan9867 balance 4940, didn't bet (folded)
+Paldo1 balance 1760, didn't bet (folded)
+Rabishahh balance 7180, lost 200 (folded)
+kale_Jeff balance 1560, bet 400, collected 600, net +200
+
+***** Hand History for Game 6014830641 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:19:28 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 7 is the button
+Total number of players : 5
+Seat 2: danog69 (4560)
+Seat 3: coogan9867 (4940)
+Seat 5: Paldo1 (1760)
+Seat 7: Rabishahh (7180)
+Seat 10: kale_Jeff (1560)
+kale_Jeff  posts small blind (200)
+danog69  posts big blind (400)
+** Dealing down cards **
+coogan9867 folds.
+Paldo1 folds.
+Rabishahh folds.
+kale_Jeff calls (200)
+danog69 checks.
+** Dealing Flop ** :  [ 7c, 2s, Kc ]
+kale_Jeff bets (400)
+danog69 folds.
+** Summary **
+Main Pot: 800
+Board: [ 7c 2s Kc  ]
+
+danog69 balance 4160, lost 400 (folded)
+coogan9867 balance 4940, didn't bet (folded)
+Paldo1 balance 1760, didn't bet (folded)
+Rabishahh balance 7180, didn't bet (folded)
+kale_Jeff balance 1960, bet 800, collected 1200, net +400
+
+***** Hand History for Game 6014831882 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:19:47 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 10 is the button
+Total number of players : 5
+Seat 2: danog69 (4160)
+Seat 3: coogan9867 (4940)
+Seat 5: Paldo1 (1760)
+Seat 7: Rabishahh (7180)
+Seat 10: kale_Jeff (1960)
+danog69  posts small blind (200)
+coogan9867  posts big blind (400)
+** Dealing down cards **
+Paldo1 folds.
+Rabishahh folds.
+kale_Jeff folds.
+danog69 folds.
+** Summary **
+Main Pot: 400
+
+danog69 balance 3960, lost 200 (folded)
+coogan9867 balance 5140, bet 400, collected 600, net +200
+Paldo1 balance 1760, didn't bet (folded)
+Rabishahh balance 7180, didn't bet (folded)
+kale_Jeff balance 1960, didn't bet (folded)
+
+***** Hand History for Game 6014832942 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:20:04 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 2 is the button
+Total number of players : 5
+Seat 2: danog69 (3960)
+Seat 3: coogan9867 (5140)
+Seat 5: Paldo1 (1760)
+Seat 7: Rabishahh (7180)
+Seat 10: kale_Jeff (1960)
+coogan9867  posts small blind (200)
+Paldo1  posts big blind (400)
+** Dealing down cards **
+Rabishahh folds.
+kale_Jeff folds.
+danog69 folds.
+coogan9867 raises (1400) to 1600
+Paldo1 folds.
+** Summary **
+Main Pot: 800
+
+danog69 balance 3960, didn't bet (folded)
+coogan9867 balance 5540, bet 1600, collected 2000, net +400
+Paldo1 balance 1360, lost 400 (folded)
+Rabishahh balance 7180, didn't bet (folded)
+kale_Jeff balance 1960, didn't bet (folded)
+
+***** Hand History for Game 6014834432 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:20:27 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 3 is the button
+Total number of players : 5
+Seat 2: danog69 (3960)
+Seat 3: coogan9867 (5540)
+Seat 5: Paldo1 (1360)
+Seat 7: Rabishahh (7180)
+Seat 10: kale_Jeff (1960)
+Paldo1  posts small blind (200)
+Rabishahh  posts big blind (400)
+** Dealing down cards **
+kale_Jeff folds.
+danog69 raises (3960) to 3960
+danog69 is all-In.
+coogan9867 folds.
+Paldo1 folds.
+Rabishahh folds.
+Creating Main Pot with $1000 with danog69
+** Summary **
+Main Pot: 1000
+
+danog69 balance 4560, bet 3960, collected 4560, net +600
+coogan9867 balance 5540, didn't bet (folded)
+Paldo1 balance 1160, lost 200 (folded)
+Rabishahh balance 6780, lost 400 (folded)
+kale_Jeff balance 1960, didn't bet (folded)
+
+***** Hand History for Game 6014836248 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:20:56 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 5 is the button
+Total number of players : 5
+Seat 2: danog69 (4560)
+Seat 3: coogan9867 (5540)
+Seat 5: Paldo1 (1160)
+Seat 7: Rabishahh (6780)
+Seat 10: kale_Jeff (1960)
+Rabishahh  posts small blind (200)
+kale_Jeff  posts big blind (400)
+** Dealing down cards **
+danog69 folds.
+coogan9867 folds.
+Paldo1 raises (1160) to 1160
+Paldo1 is all-In.
+Rabishahh folds.
+kale_Jeff folds.
+Creating Main Pot with $1000 with Paldo1
+** Summary **
+Main Pot: 1000
+
+danog69 balance 4560, didn't bet (folded)
+coogan9867 balance 5540, didn't bet (folded)
+Paldo1 balance 1760, bet 1160, collected 1760, net +600
+Rabishahh balance 6580, lost 200 (folded)
+kale_Jeff balance 1560, lost 400 (folded)
+
+***** Hand History for Game 6014837083 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:21:09 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 7 is the button
+Total number of players : 5
+Seat 2: danog69 (4560)
+Seat 3: coogan9867 (5540)
+Seat 5: Paldo1 (1760)
+Seat 7: Rabishahh (6580)
+Seat 10: kale_Jeff (1560)
+kale_Jeff  posts small blind (200)
+danog69  posts big blind (400)
+** Dealing down cards **
+coogan9867 folds.
+Paldo1 folds.
+Rabishahh folds.
+kale_Jeff calls (200)
+danog69 checks.
+** Dealing Flop ** :  [ Ts, Jh, 8h ]
+kale_Jeff checks.
+danog69 bets (4160)
+danog69 is all-In.
+kale_Jeff folds.
+Creating Main Pot with $800 with danog69
+** Summary **
+Main Pot: 800
+Board: [ Ts Jh 8h  ]
+
+danog69 balance 4960, bet 4560, collected 4960, net +400
+coogan9867 balance 5540, didn't bet (folded)
+Paldo1 balance 1760, didn't bet (folded)
+Rabishahh balance 6580, didn't bet (folded)
+kale_Jeff balance 1160, lost 400 (folded)
+
+***** Hand History for Game 6014838361 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:21:29 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 10 is the button
+Total number of players : 5
+Seat 2: danog69 (4960)
+Seat 3: coogan9867 (5540)
+Seat 5: Paldo1 (1760)
+Seat 7: Rabishahh (6580)
+Seat 10: kale_Jeff (1160)
+danog69  posts small blind (200)
+coogan9867  posts big blind (400)
+** Dealing down cards **
+Paldo1 folds.
+Rabishahh folds.
+kale_Jeff folds.
+danog69 calls (200)
+coogan9867 checks.
+** Dealing Flop ** :  [ 2c, 3h, 8c ]
+danog69 bets (4560)
+danog69 is all-In.
+coogan9867 calls (4560)
+** Dealing Turn ** :  [ Ad ]
+** Dealing River ** :  [ 6s ]
+Creating Main Pot with $9920 with danog69
+** Summary **
+Main Pot: 9920
+Board: [ 2c 3h 8c Ad 6s  ]
+
+danog69 balance 0, lost 4960 [ 8d Qd ] [ a pair of Eights -- Ad,Qd,8d,8c,6s ]
+coogan9867 balance 10500, bet 4960, collected 9920, net +4960 [ Kc 8h ] [ a pair of Eights with King kicker -- Ad,Kc,8h,8c,6sKc(kicker card) ]
+Paldo1 balance 1760, didn't bet (folded)
+Rabishahh balance 6580, didn't bet (folded)
+kale_Jeff balance 1160, didn't bet (folded)
+
+***** Hand History for Game 6014839698 *****
+danog69 finished in 5 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:21:51 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 10 is the button
+Total number of players : 4
+Seat 3: coogan9867 (10500)
+Seat 5: Paldo1 (1760)
+Seat 7: Rabishahh (6580)
+Seat 10: kale_Jeff (1160)
+coogan9867  posts small blind (200)
+Paldo1  posts big blind (400)
+** Dealing down cards **
+Rabishahh folds.
+kale_Jeff folds.
+coogan9867 calls (200)
+Paldo1 checks.
+** Dealing Flop ** :  [ Ac, 7s, Ah ]
+coogan9867 bets (800)
+Paldo1 folds.
+** Summary **
+Main Pot: 800
+Board: [ Ac 7s Ah  ]
+
+coogan9867 balance 10900, bet 1200, collected 1600, net +400
+Paldo1 balance 1360, lost 400 (folded)
+Rabishahh balance 6580, didn't bet (folded)
+kale_Jeff balance 1160, didn't bet (folded)
+
+***** Hand History for Game 6014841320 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:22:16 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 3 is the button
+Total number of players : 4
+Seat 3: coogan9867 (10900)
+Seat 5: Paldo1 (1360)
+Seat 7: Rabishahh (6580)
+Seat 10: kale_Jeff (1160)
+Paldo1  posts small blind (300)
+Rabishahh  posts big blind (600)
+** Dealing down cards **
+kale_Jeff folds.
+coogan9867 folds.
+Paldo1 raises (1060) to 1360
+Paldo1 is all-In.
+Rabishahh calls (760)
+** Dealing Flop ** :  [ Ad, 5c, 2c ]
+** Dealing Turn ** :  [ 4c ]
+** Dealing River ** :  [ 3c ]
+Creating Main Pot with $2720 with Paldo1
+** Summary **
+Main Pot: 2720
+Board: [ Ad 5c 2c 4c 3c  ]
+
+coogan9867 balance 10900, didn't bet (folded)
+Paldo1 balance 2720, bet 1360, collected 2720, net +1360 [ Kc 8d ] [ a flush, King high -- Kc,5c,4c,3c,2c ]
+Rabishahh balance 5220, lost 1360 [ Tc Jd ] [ a flush, Ten high -- Tc,5c,4c,3c,2c ]
+kale_Jeff balance 1160, didn't bet (folded)
+
+***** Hand History for Game 6014842712 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:22:38 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 5 is the button
+Total number of players : 4
+Seat 3: coogan9867 (10900)
+Seat 5: Paldo1 (2720)
+Seat 7: Rabishahh (5220)
+Seat 10: kale_Jeff (1160)
+Rabishahh  posts small blind (300)
+kale_Jeff  posts big blind (600)
+** Dealing down cards **
+coogan9867 folds.
+Paldo1 folds.
+Rabishahh raises (900) to 1200
+kale_Jeff calls (560)
+kale_Jeff is all-In.
+** Dealing Flop ** :  [ 2c, Qc, 2s ]
+** Dealing Turn ** :  [ Kc ]
+** Dealing River ** :  [ 4s ]
+Creating Main Pot with $2320 with kale_Jeff
+** Summary **
+Main Pot: 2320
+Board: [ 2c Qc 2s Kc 4s  ]
+
+coogan9867 balance 10900, didn't bet (folded)
+Paldo1 balance 2720, didn't bet (folded)
+Rabishahh balance 6380, bet 1200, collected 2360, net +1160 [ Qd 8c ] [ two pairs, Queens and Twos -- Kc,Qd,Qc,2c,2s ]
+kale_Jeff balance 0, lost 1160 [ 5s 5d ] [ two pairs, Fives and Twos -- Kc,5s,5d,2c,2s ]
+
+***** Hand History for Game 6014843899 *****
+kale_Jeff finished in 4 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:22:57 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 7 is the button
+Total number of players : 3
+Seat 3: coogan9867 (10900)
+Seat 5: Paldo1 (2720)
+Seat 7: Rabishahh (6380)
+coogan9867  posts big blind (600)
+** Dealing down cards **
+Paldo1 folds.
+Rabishahh folds.
+** Summary **
+Main Pot: 600
+
+coogan9867 balance 10900, bet 600, collected 600, net +0
+Paldo1 balance 2720, didn't bet (folded)
+Rabishahh balance 6380, didn't bet (folded)
+
+***** Hand History for Game 6014844417 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:23:05 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 7 is the button
+Total number of players : 3
+Seat 3: coogan9867 (10900)
+Seat 5: Paldo1 (2720)
+Seat 7: Rabishahh (6380)
+coogan9867  posts small blind (300)
+Paldo1  posts big blind (600)
+** Dealing down cards **
+Rabishahh folds.
+coogan9867 calls (300)
+Paldo1 raises (2120) to 2720
+Paldo1 is all-In.
+coogan9867 folds.
+Creating Main Pot with $1200 with Paldo1
+** Summary **
+Main Pot: 1200
+
+coogan9867 balance 10300, lost 600 (folded)
+Paldo1 balance 3320, bet 2720, collected 3320, net +600
+Rabishahh balance 6380, didn't bet (folded)
+
+***** Hand History for Game 6014845309 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:23:19 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 3 is the button
+Total number of players : 3
+Seat 3: coogan9867 (10300)
+Seat 5: Paldo1 (3320)
+Seat 7: Rabishahh (6380)
+Paldo1  posts small blind (300)
+Rabishahh  posts big blind (600)
+** Dealing down cards **
+coogan9867 raises (3000) to 3000
+Paldo1 raises (3020) to 3320
+Paldo1 is all-In.
+Rabishahh folds.
+coogan9867 calls (320)
+** Dealing Flop ** :  [ 4s, 2c, 3h ]
+** Dealing Turn ** :  [ Td ]
+** Dealing River ** :  [ 6s ]
+Creating Main Pot with $7240 with Paldo1
+** Summary **
+Main Pot: 7240
+Board: [ 4s 2c 3h Td 6s  ]
+
+coogan9867 balance 6980, lost 3320 [ Ac Qh ] [ high card Ace -- Ac,Qh,Td,6s,4s ]
+Paldo1 balance 7240, bet 3320, collected 7240, net +3920 [ Ad Kc ] [ high card Ace with King kicker -- Ad,Kc,Td,6s,4s ]
+Rabishahh balance 5780, lost 600 (folded)
+
+***** Hand History for Game 6014847053 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:23:47 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 5 is the button
+Total number of players : 3
+Seat 3: coogan9867 (6980)
+Seat 5: Paldo1 (7240)
+Seat 7: Rabishahh (5780)
+Rabishahh  posts small blind (300)
+coogan9867  posts big blind (600)
+** Dealing down cards **
+Paldo1 folds.
+Rabishahh raises (1500) to 1800
+coogan9867 calls (1200)
+** Dealing Flop ** :  [ Ts, Ad, 7d ]
+Rabishahh bets (1200)
+coogan9867 folds.
+** Summary **
+Main Pot: 3600
+Board: [ Ts Ad 7d  ]
+
+coogan9867 balance 5180, lost 1800 (folded)
+Paldo1 balance 7240, didn't bet (folded)
+Rabishahh balance 7580, bet 3000, collected 4800, net +1800
+
+***** Hand History for Game 6014848848 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:24:16 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 7 is the button
+Total number of players : 3
+Seat 3: coogan9867 (5180)
+Seat 5: Paldo1 (7240)
+Seat 7: Rabishahh (7580)
+coogan9867  posts small blind (300)
+Paldo1  posts big blind (600)
+** Dealing down cards **
+Rabishahh raises (1800) to 1800
+coogan9867 calls (1500)
+Paldo1 folds.
+** Dealing Flop ** :  [ Td, Qs, 6s ]
+coogan9867 bets (3380)
+coogan9867 is all-In.
+Rabishahh calls (3380)
+** Dealing Turn ** :  [ 6d ]
+** Dealing River ** :  [ 3c ]
+Creating Main Pot with $10960 with coogan9867
+** Summary **
+Main Pot: 10960
+Board: [ Td Qs 6s 6d 3c  ]
+
+coogan9867 balance 10960, bet 5180, collected 10960, net +5780 [ Tc 8c ] [ two pairs, Tens and Sixes -- Qs,Tc,Td,6s,6d ]
+Paldo1 balance 6640, lost 600 (folded)
+Rabishahh balance 2400, lost 5180 [ Js As ] [ a pair of Sixes -- As,Qs,Js,6s,6d ]
+
+***** Hand History for Game 6014850210 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:24:37 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 3 is the button
+Total number of players : 3
+Seat 3: coogan9867 (10960)
+Seat 5: Paldo1 (6640)
+Seat 7: Rabishahh (2400)
+Paldo1  posts small blind (300)
+Rabishahh  posts big blind (600)
+** Dealing down cards **
+coogan9867 folds.
+Paldo1 folds.
+** Summary **
+Main Pot: 600
+
+coogan9867 balance 10960, didn't bet (folded)
+Paldo1 balance 6340, lost 300 (folded)
+Rabishahh balance 2700, bet 600, collected 900, net +300
+
+***** Hand History for Game 6014850851 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:24:47 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 5 is the button
+Total number of players : 3
+Seat 3: coogan9867 (10960)
+Seat 5: Paldo1 (6340)
+Seat 7: Rabishahh (2700)
+Rabishahh  posts small blind (300)
+coogan9867  posts big blind (600)
+** Dealing down cards **
+Paldo1 folds.
+Rabishahh raises (2400) to 2700
+Rabishahh is all-In.
+coogan9867 folds.
+Creating Main Pot with $1200 with Rabishahh
+** Summary **
+Main Pot: 1200
+
+coogan9867 balance 10360, lost 600 (folded)
+Paldo1 balance 6340, didn't bet (folded)
+Rabishahh balance 3300, bet 2700, collected 3300, net +600
+
+***** Hand History for Game 6014851598 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:24:59 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 7 is the button
+Total number of players : 3
+Seat 3: coogan9867 (10360)
+Seat 5: Paldo1 (6340)
+Seat 7: Rabishahh (3300)
+coogan9867  posts small blind (300)
+Paldo1  posts big blind (600)
+** Dealing down cards **
+Rabishahh raises (3300) to 3300
+Rabishahh is all-In.
+coogan9867 folds.
+Paldo1 folds.
+Creating Main Pot with $1500 with Rabishahh
+** Summary **
+Main Pot: 1500
+
+coogan9867 balance 10060, lost 300 (folded)
+Paldo1 balance 5740, lost 600 (folded)
+Rabishahh balance 4200, bet 3300, collected 4200, net +900
+
+***** Hand History for Game 6014852332 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:25:11 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 3 is the button
+Total number of players : 3
+Seat 3: coogan9867 (10060)
+Seat 5: Paldo1 (5740)
+Seat 7: Rabishahh (4200)
+Paldo1  posts small blind (300)
+Rabishahh  posts big blind (600)
+** Dealing down cards **
+coogan9867 folds.
+Paldo1 folds.
+** Summary **
+Main Pot: 600
+
+coogan9867 balance 10060, didn't bet (folded)
+Paldo1 balance 5440, lost 300 (folded)
+Rabishahh balance 4500, bet 600, collected 900, net +300
+
+***** Hand History for Game 6014852974 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:25:21 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 5 is the button
+Total number of players : 3
+Seat 3: coogan9867 (10060)
+Seat 5: Paldo1 (5440)
+Seat 7: Rabishahh (4500)
+Rabishahh  posts small blind (300)
+coogan9867  posts big blind (600)
+** Dealing down cards **
+Paldo1 folds.
+Rabishahh folds.
+** Summary **
+Main Pot: 600
+
+coogan9867 balance 10360, bet 600, collected 900, net +300
+Paldo1 balance 5440, didn't bet (folded)
+Rabishahh balance 4200, lost 300 (folded)
+
+***** Hand History for Game 6014853686 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:25:32 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 7 is the button
+Total number of players : 3
+Seat 3: coogan9867 (10360)
+Seat 5: Paldo1 (5440)
+Seat 7: Rabishahh (4200)
+coogan9867  posts small blind (300)
+Paldo1  posts big blind (600)
+** Dealing down cards **
+Rabishahh folds.
+coogan9867 raises (900) to 1200
+Paldo1 calls (600)
+** Dealing Flop ** :  [ Ks, Jc, 6s ]
+coogan9867 bets (3000)
+Paldo1 folds.
+** Summary **
+Main Pot: 2400
+Board: [ Ks Jc 6s  ]
+
+coogan9867 balance 11560, bet 4200, collected 5400, net +1200
+Paldo1 balance 4240, lost 1200 (folded)
+Rabishahh balance 4200, didn't bet (folded)
+
+***** Hand History for Game 6014854865 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:25:51 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 3 is the button
+Total number of players : 3
+Seat 3: coogan9867 (11560)
+Seat 5: Paldo1 (4240)
+Seat 7: Rabishahh (4200)
+Paldo1  posts small blind (300)
+Rabishahh  posts big blind (600)
+** Dealing down cards **
+coogan9867 folds.
+Paldo1 raises (3940) to 4240
+Paldo1 is all-In.
+Rabishahh folds.
+Creating Main Pot with $1200 with Paldo1
+** Summary **
+Main Pot: 1200
+
+coogan9867 balance 11560, didn't bet (folded)
+Paldo1 balance 4840, bet 4240, collected 4840, net +600
+Rabishahh balance 3600, lost 600 (folded)
+
+***** Hand History for Game 6014855560 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:26:02 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 5 is the button
+Total number of players : 3
+Seat 3: coogan9867 (11560)
+Seat 5: Paldo1 (4840)
+Seat 7: Rabishahh (3600)
+Rabishahh  posts small blind (300)
+coogan9867  posts big blind (600)
+** Dealing down cards **
+Paldo1 folds.
+Rabishahh raises (3300) to 3600
+Rabishahh is all-In.
+coogan9867 folds.
+Creating Main Pot with $1200 with Rabishahh
+** Summary **
+Main Pot: 1200
+
+coogan9867 balance 10960, lost 600 (folded)
+Paldo1 balance 4840, didn't bet (folded)
+Rabishahh balance 4200, bet 3600, collected 4200, net +600
+
+***** Hand History for Game 6014856496 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:26:17 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 7 is the button
+Total number of players : 3
+Seat 3: coogan9867 (10960)
+Seat 5: Paldo1 (4840)
+Seat 7: Rabishahh (4200)
+coogan9867  posts small blind (300)
+Paldo1  posts big blind (600)
+** Dealing down cards **
+Rabishahh raises (4200) to 4200
+Rabishahh is all-In.
+coogan9867 folds.
+Paldo1 folds.
+Creating Main Pot with $1500 with Rabishahh
+** Summary **
+Main Pot: 1500
+
+coogan9867 balance 10660, lost 300 (folded)
+Paldo1 balance 4240, lost 600 (folded)
+Rabishahh balance 5100, bet 4200, collected 5100, net +900
+
+***** Hand History for Game 6014857264 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:26:28 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 3 is the button
+Total number of players : 3
+Seat 3: coogan9867 (10660)
+Seat 5: Paldo1 (4240)
+Seat 7: Rabishahh (5100)
+Paldo1  posts small blind (300)
+Rabishahh  posts big blind (600)
+** Dealing down cards **
+coogan9867 folds.
+Paldo1 folds.
+** Summary **
+Main Pot: 600
+
+coogan9867 balance 10660, didn't bet (folded)
+Paldo1 balance 3940, lost 300 (folded)
+Rabishahh balance 5400, bet 600, collected 900, net +300
+
+***** Hand History for Game 6014858084 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:26:41 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 5 is the button
+Total number of players : 3
+Seat 3: coogan9867 (10660)
+Seat 5: Paldo1 (3940)
+Seat 7: Rabishahh (5400)
+Rabishahh  posts small blind (300)
+coogan9867  posts big blind (600)
+** Dealing down cards **
+Paldo1 raises (1800) to 1800
+Rabishahh folds.
+coogan9867 raises (2400) to 3000
+Paldo1 raises (2140) to 3940
+Paldo1 is all-In.
+coogan9867 calls (940)
+** Dealing Flop ** :  [ 8d, 9h, Qs ]
+** Dealing Turn ** :  [ Ac ]
+** Dealing River ** :  [ 2h ]
+Creating Main Pot with $8180 with Paldo1
+** Summary **
+Main Pot: 8180
+Board: [ 8d 9h Qs Ac 2h  ]
+
+coogan9867 balance 14900, bet 3940, collected 8180, net +4240 [ Qh Jc ] [ a pair of Queens -- Ac,Qh,Qs,Jc,9h ]
+Paldo1 balance 0, lost 3940 [ Kc Js ] [ high card Ace -- Ac,Kc,Qs,Js,9h ]
+Rabishahh balance 5100, lost 300 (folded)
+
+***** Hand History for Game 6014859886 *****
+Paldo1 finished in 3 place and won $10.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:27:08 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 3 is the button
+Total number of players : 2
+Seat 3: coogan9867 (14900)
+Seat 7: Rabishahh (5100)
+coogan9867  posts small blind (300)
+Rabishahh  posts big blind (600)
+** Dealing down cards **
+coogan9867 raises (900) to 1200
+Rabishahh folds.
+** Summary **
+Main Pot: 1200
+
+coogan9867 balance 15500, bet 1200, collected 1800, net +600
+Rabishahh balance 4500, lost 600 (folded)
+
+***** Hand History for Game 6014860445 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:27:18 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 7 is the button
+Total number of players : 2
+Seat 3: coogan9867 (15500)
+Seat 7: Rabishahh (4500)
+coogan9867  posts ante (25)
+Rabishahh  posts ante (25)
+Rabishahh  posts small blind (400)
+coogan9867  posts big blind (800)
+** Dealing down cards **
+Rabishahh folds.
+** Summary **
+Main Pot: 850
+
+coogan9867 balance 15925, bet 825, collected 1250, net +425
+Rabishahh balance 4075, lost 425 (folded)
+
+***** Hand History for Game 6014860955 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:27:26 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 3 is the button
+Total number of players : 2
+Seat 3: coogan9867 (15925)
+Seat 7: Rabishahh (4075)
+coogan9867  posts ante (25)
+Rabishahh  posts ante (25)
+coogan9867  posts small blind (400)
+Rabishahh  posts big blind (800)
+** Dealing down cards **
+coogan9867 raises (1200) to 1600
+Rabishahh folds.
+** Summary **
+Main Pot: 1650
+
+coogan9867 balance 16750, bet 1625, collected 2450, net +825
+Rabishahh balance 3250, lost 825 (folded)
+
+***** Hand History for Game 6014861592 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:27:36 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 7 is the button
+Total number of players : 2
+Seat 3: coogan9867 (16750)
+Seat 7: Rabishahh (3250)
+coogan9867  posts ante (25)
+Rabishahh  posts ante (25)
+Rabishahh  posts small blind (400)
+coogan9867  posts big blind (800)
+** Dealing down cards **
+Rabishahh raises (2825) to 3225
+Rabishahh is all-In.
+coogan9867 folds.
+Creating Main Pot with $1650 with Rabishahh
+** Summary **
+Main Pot: 1650
+
+coogan9867 balance 15925, lost 825 (folded)
+Rabishahh balance 4075, bet 3250, collected 4075, net +825
+
+***** Hand History for Game 6014862222 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:27:46 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 3 is the button
+Total number of players : 2
+Seat 3: coogan9867 (15925)
+Seat 7: Rabishahh (4075)
+coogan9867  posts ante (25)
+Rabishahh  posts ante (25)
+coogan9867  posts small blind (400)
+Rabishahh  posts big blind (800)
+** Dealing down cards **
+coogan9867 calls (400)
+Rabishahh checks.
+** Dealing Flop ** :  [ 8s, 4c, 9d ]
+Rabishahh checks.
+coogan9867 bets (2400)
+Rabishahh folds.
+** Summary **
+Main Pot: 1650
+Board: [ 8s 4c 9d  ]
+
+coogan9867 balance 16750, bet 3225, collected 4050, net +825
+Rabishahh balance 3250, lost 825 (folded)
+
+***** Hand History for Game 6014863338 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:28:03 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 7 is the button
+Total number of players : 2
+Seat 3: coogan9867 (16750)
+Seat 7: Rabishahh (3250)
+coogan9867  posts ante (25)
+Rabishahh  posts ante (25)
+Rabishahh  posts small blind (400)
+coogan9867  posts big blind (800)
+** Dealing down cards **
+Rabishahh raises (2825) to 3225
+Rabishahh is all-In.
+coogan9867 calls (2425)
+** Dealing Flop ** :  [ 7s, 3h, 4d ]
+** Dealing Turn ** :  [ Td ]
+** Dealing River ** :  [ 2c ]
+Creating Main Pot with $6500 with Rabishahh
+** Summary **
+Main Pot: 6500
+Board: [ 7s 3h 4d Td 2c  ]
+
+coogan9867 balance 13500, lost 3250 [ Jh 8d ] [ high card Jack -- Jh,Td,8d,7s,4d ]
+Rabishahh balance 6500, bet 3250, collected 6500, net +3250 [ Js 2h ] [ a pair of Twos -- Js,Td,7s,2h,2c ]
+
+***** Hand History for Game 6014864342 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:28:19 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 3 is the button
+Total number of players : 2
+Seat 3: coogan9867 (13500)
+Seat 7: Rabishahh (6500)
+coogan9867  posts ante (25)
+Rabishahh  posts ante (25)
+coogan9867  posts small blind (400)
+Rabishahh  posts big blind (800)
+** Dealing down cards **
+coogan9867 calls (400)
+Rabishahh checks.
+** Dealing Flop ** :  [ 7s, 7d, 2s ]
+Rabishahh checks.
+coogan9867 bets (1600)
+Rabishahh raises (5675) to 5675
+Rabishahh is all-In.
+coogan9867 folds.
+Creating Main Pot with $4850 with Rabishahh
+** Summary **
+Main Pot: 4850
+Board: [ 7s 7d 2s  ]
+
+coogan9867 balance 11075, lost 2425 (folded)
+Rabishahh balance 8925, bet 6500, collected 8925, net +2425
+
+***** Hand History for Game 6014865666 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:28:40 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 7 is the button
+Total number of players : 2
+Seat 3: coogan9867 (11075)
+Seat 7: Rabishahh (8925)
+coogan9867  posts ante (25)
+Rabishahh  posts ante (25)
+Rabishahh  posts small blind (400)
+coogan9867  posts big blind (800)
+** Dealing down cards **
+Rabishahh folds.
+** Summary **
+Main Pot: 850
+
+coogan9867 balance 11500, bet 825, collected 1250, net +425
+Rabishahh balance 8500, lost 425 (folded)
+
+***** Hand History for Game 6014866114 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:28:48 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 3 is the button
+Total number of players : 2
+Seat 3: coogan9867 (11500)
+Seat 7: Rabishahh (8500)
+coogan9867  posts ante (25)
+Rabishahh  posts ante (25)
+coogan9867  posts small blind (400)
+Rabishahh  posts big blind (800)
+** Dealing down cards **
+coogan9867 raises (2000) to 2400
+Rabishahh folds.
+** Summary **
+Main Pot: 1650
+
+coogan9867 balance 12325, bet 2425, collected 3250, net +825
+Rabishahh balance 7675, lost 825 (folded)
+
+***** Hand History for Game 6014866897 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:28:59 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 7 is the button
+Total number of players : 2
+Seat 3: coogan9867 (12325)
+Seat 7: Rabishahh (7675)
+coogan9867  posts ante (25)
+Rabishahh  posts ante (25)
+Rabishahh  posts small blind (400)
+coogan9867  posts big blind (800)
+** Dealing down cards **
+Rabishahh folds.
+** Summary **
+Main Pot: 850
+
+coogan9867 balance 12750, bet 825, collected 1250, net +425
+Rabishahh balance 7250, lost 425 (folded)
+
+***** Hand History for Game 6014867370 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:29:08 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 3 is the button
+Total number of players : 2
+Seat 3: coogan9867 (12750)
+Seat 7: Rabishahh (7250)
+coogan9867  posts ante (25)
+Rabishahh  posts ante (25)
+coogan9867  posts small blind (400)
+Rabishahh  posts big blind (800)
+** Dealing down cards **
+coogan9867 calls (400)
+Rabishahh raises (6425) to 7225
+Rabishahh is all-In.
+coogan9867 folds.
+Creating Main Pot with $1650 with Rabishahh
+** Summary **
+Main Pot: 1650
+
+coogan9867 balance 11925, lost 825 (folded)
+Rabishahh balance 8075, bet 7250, collected 8075, net +825
+
+***** Hand History for Game 6014868201 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:29:20 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 7 is the button
+Total number of players : 2
+Seat 3: coogan9867 (11925)
+Seat 7: Rabishahh (8075)
+coogan9867  posts ante (25)
+Rabishahh  posts ante (25)
+Rabishahh  posts small blind (400)
+coogan9867  posts big blind (800)
+** Dealing down cards **
+Rabishahh folds.
+** Summary **
+Main Pot: 850
+
+coogan9867 balance 12350, bet 825, collected 1250, net +425
+Rabishahh balance 7650, lost 425 (folded)
+
+***** Hand History for Game 6014868611 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686662)  - Tue May 29 17:29:27 EDT 2007
+Table Speed 1330110 (Real Money) -- Seat 3 is the button
+Total number of players : 2
+Seat 3: coogan9867 (12350)
+Seat 7: Rabishahh (7650)
+coogan9867  posts ante (25)
+Rabishahh  posts ante (25)
+coogan9867  posts small blind (400)
+Rabishahh  posts big blind (800)
+** Dealing down cards **
+coogan9867 calls (400)
+Rabishahh raises (6825) to 7625
+Rabishahh is all-In.
+coogan9867 calls (6825)
+** Dealing Flop ** :  [ Th, Ts, Jd ]
+** Dealing Turn ** :  [ 8s ]
+** Dealing River ** :  [ Ks ]
+Creating Main Pot with $15300 with Rabishahh
+** Summary **
+Main Pot: 15300
+Board: [ Th Ts Jd 8s Ks  ]
+
+coogan9867 balance 20000, bet 7650, collected 15300, net +7650 [ Td 8d ] [ a full house, Tens full of Eights -- Td,Th,Ts,8d,8s ]
+Rabishahh balance 0, lost 7650 [ 5s 5h ] [ two pairs, Tens and Fives -- Ks,Th,Ts,5s,5h ]
+
+
+

@@ -1,0 +1,1668 @@
+
+Hello hatoka,
+These hand histories are provided to you as an aid for your training and development. You are not permitted to share them with anyone.  We reserve the right to cease providing them or apply further restrictions at any time.
+Complete hand histories are only available to players that participated in the hand.
+You requested a transcript of Tournament #32886016.
+
+Summary
+----------
+Played on    : 14 April 2007 07:50 AM
+On Table     : Speed #1330853
+Game Type    : Texas Holdem
+Buy-In       : $2
+Fee          : $1
+You finished in  position 7
+1st place - neo_333 -  $12
+2nd place - Ellandroad2 -  $7.20
+3rd place - superdave_b -  $4.80
+
+***** Hand History for Game 5873535227 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32886016)  - Sat Apr 14 07:50:58 EDT 2007
+Table Speed 1330853 (Real Money) -- Seat 8 is the button
+Total number of players : 10
+Seat 1: Ellandroad2 (2000)
+Seat 2: neo_333 (2000)
+Seat 3: Cytrall (2000)
+Seat 4: J_Rocha (2000)
+Seat 5: msp2910 (2000)
+Seat 6: hatoka (2000)
+Seat 7: Romero1989 (2000)
+Seat 8: gabyMcquade (2000)
+Seat 9: superdave_b (2000)
+Seat 10: Dolle76 (2000)
+superdave_b  posts small blind (20)
+Dolle76  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 8s, Th ]
+Ellandroad2 raises (320) to 320
+neo_333 folds.
+Cytrall folds.
+J_Rocha folds.
+msp2910 folds.
+hatoka folds.
+Romero1989 folds.
+gabyMcquade folds.
+superdave_b folds.
+Dolle76 calls (280)
+** Dealing Flop ** :  [ Qh, As, 5d ]
+Dolle76 checks.
+Ellandroad2 bets (320)
+Dolle76 folds.
+** Summary **
+Main Pot: 660
+Board: [ Qh As 5d  ]
+
+Ellandroad2 balance 2340, bet 640, collected 980, net +340 [ Kc Ac ] [ a pair of Aces -- Ac,As,Kc,Qh,5d ]
+neo_333 balance 2000, didn't bet (folded)
+Cytrall balance 2000, didn't bet (folded)
+J_Rocha balance 2000, didn't bet (folded)
+msp2910 balance 2000, didn't bet (folded)
+hatoka balance 2000, didn't bet (folded)
+Romero1989 balance 2000, didn't bet (folded)
+gabyMcquade balance 2000, didn't bet (folded)
+superdave_b balance 1980, lost 20 (folded)
+Dolle76 balance 1680, lost 320 (folded)
+
+***** Hand History for Game 5873536401 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32886016)  - Sat Apr 14 07:51:33 EDT 2007
+Table Speed 1330853 (Real Money) -- Seat 9 is the button
+Total number of players : 10
+Seat 1: Ellandroad2 (2340)
+Seat 2: neo_333 (2000)
+Seat 3: Cytrall (2000)
+Seat 4: J_Rocha (2000)
+Seat 5: msp2910 (2000)
+Seat 6: hatoka (2000)
+Seat 7: Romero1989 (2000)
+Seat 8: gabyMcquade (2000)
+Seat 9: superdave_b (1980)
+Seat 10: Dolle76 (1680)
+Dolle76  posts small blind (20)
+Ellandroad2  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 7h, 3s ]
+neo_333 calls (40)
+Cytrall folds.
+J_Rocha folds.
+msp2910 folds.
+hatoka folds.
+Romero1989 folds.
+gabyMcquade calls (40)
+superdave_b calls (40)
+Dolle76 calls (20)
+Ellandroad2 checks.
+** Dealing Flop ** :  [ 8h, 5d, 9s ]
+Dolle76 checks.
+Ellandroad2 checks.
+neo_333 checks.
+gabyMcquade checks.
+superdave_b checks.
+** Dealing Turn ** :  [ 9h ]
+Dolle76 checks.
+Ellandroad2 checks.
+neo_333 checks.
+gabyMcquade bets (80)
+superdave_b folds.
+Dolle76 calls (80)
+Ellandroad2 calls (80)
+neo_333 calls (80)
+** Dealing River ** :  [ 4c ]
+Dolle76 checks.
+Ellandroad2 checks.
+neo_333 bets (120)
+gabyMcquade calls (120)
+Dolle76 folds.
+Ellandroad2 folds.
+** Summary **
+Main Pot: 760
+Board: [ 8h 5d 9s 9h 4c  ]
+
+Ellandroad2 balance 2220, lost 120 (folded)
+neo_333 balance 1760, lost 240 [ Jh Ac ] [ a pair of Nines -- Ac,Jh,9s,9h,8h ]
+Cytrall balance 2000, didn't bet (folded)
+J_Rocha balance 2000, didn't bet (folded)
+msp2910 balance 2000, didn't bet (folded)
+hatoka balance 2000, didn't bet (folded)
+Romero1989 balance 2000, didn't bet (folded)
+gabyMcquade balance 2520, bet 240, collected 760, net +520 [ 7c 5c ] [ two pairs, Nines and Fives -- 9s,9h,8h,5c,5d ]
+superdave_b balance 1940, lost 40 (folded)
+Dolle76 balance 1560, lost 120 (folded)
+
+***** Hand History for Game 5873538583 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32886016)  - Sat Apr 14 07:52:31 EDT 2007
+Table Speed 1330853 (Real Money) -- Seat 10 is the button
+Total number of players : 10
+Seat 1: Ellandroad2 (2220)
+Seat 2: neo_333 (1760)
+Seat 3: Cytrall (2000)
+Seat 4: J_Rocha (2000)
+Seat 5: msp2910 (2000)
+Seat 6: hatoka (2000)
+Seat 7: Romero1989 (2000)
+Seat 8: gabyMcquade (2520)
+Seat 9: superdave_b (1940)
+Seat 10: Dolle76 (1560)
+Ellandroad2  posts small blind (20)
+neo_333  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 2c, 6d ]
+Cytrall calls (40)
+J_Rocha folds.
+msp2910 calls (40)
+hatoka folds.
+Romero1989 folds.
+gabyMcquade calls (40)
+superdave_b folds.
+Dolle76 raises (200) to 200
+Ellandroad2 calls (180)
+neo_333 folds.
+Cytrall calls (160)
+msp2910 folds.
+gabyMcquade calls (160)
+** Dealing Flop ** :  [ Kh, 6h, 4h ]
+Ellandroad2 bets (440)
+Cytrall folds.
+gabyMcquade folds.
+Dolle76 raises (1360) to 1360
+Dolle76 is all-In.
+Ellandroad2 calls (920)
+** Dealing Turn ** :  [ 3c ]
+** Dealing River ** :  [ 8s ]
+Creating Main Pot with $3600 with Dolle76
+** Summary **
+Main Pot: 3600
+Board: [ Kh 6h 4h 3c 8s  ]
+
+Ellandroad2 balance 4260, bet 1560, collected 3600, net +2040 [ Kd Td ] [ a pair of Kings -- Kd,Kh,Td,8s,6h ]
+neo_333 balance 1720, lost 40 (folded)
+Cytrall balance 1800, lost 200 (folded)
+J_Rocha balance 2000, didn't bet (folded)
+msp2910 balance 1960, lost 40 (folded)
+hatoka balance 2000, didn't bet (folded)
+Romero1989 balance 2000, didn't bet (folded)
+gabyMcquade balance 2320, lost 200 (folded)
+superdave_b balance 1940, didn't bet (folded)
+Dolle76 balance 0, lost 1560 [ As 8h ] [ a pair of Eights -- As,Kh,8h,8s,6h ]
+
+***** Hand History for Game 5873540258 *****
+Dolle76 finished in 10 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32886016)  - Sat Apr 14 07:53:16 EDT 2007
+Table Speed 1330853 (Real Money) -- Seat 1 is the button
+Total number of players : 9
+Seat 1: Ellandroad2 (4260)
+Seat 2: neo_333 (1720)
+Seat 3: Cytrall (1800)
+Seat 4: J_Rocha (2000)
+Seat 5: msp2910 (1960)
+Seat 6: hatoka (2000)
+Seat 7: Romero1989 (2000)
+Seat 8: gabyMcquade (2320)
+Seat 9: superdave_b (1940)
+neo_333  posts small blind (20)
+Cytrall  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ Ah, Ts ]
+J_Rocha folds.
+msp2910 calls (40)
+gabyMcquade: nh
+hatoka raises (120) to 120
+Romero1989 folds.
+gabyMcquade folds.
+Ellandroad2: Ty
+superdave_b folds.
+Ellandroad2 folds.
+neo_333 folds.
+Cytrall folds.
+msp2910 calls (80)
+** Dealing Flop ** :  [ Td, 6c, Js ]
+msp2910 checks.
+hatoka bets (500)
+msp2910 folds.
+** Summary **
+Main Pot: 300
+Board: [ Td 6c Js  ]
+
+Ellandroad2 balance 4260, didn't bet (folded)
+neo_333 balance 1700, lost 20 (folded)
+Cytrall balance 1760, lost 40 (folded)
+J_Rocha balance 2000, didn't bet (folded)
+msp2910 balance 1840, lost 120 (folded)
+hatoka balance 2180, bet 620, collected 800, net +180
+Romero1989 balance 2000, didn't bet (folded)
+gabyMcquade balance 2320, didn't bet (folded)
+superdave_b balance 1940, didn't bet (folded)
+
+***** Hand History for Game 5873541605 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32886016)  - Sat Apr 14 07:53:51 EDT 2007
+Table Speed 1330853 (Real Money) -- Seat 2 is the button
+Total number of players : 9
+Seat 1: Ellandroad2 (4260)
+Seat 2: neo_333 (1700)
+Seat 3: Cytrall (1760)
+Seat 4: J_Rocha (2000)
+Seat 5: msp2910 (1840)
+Seat 6: hatoka (2180)
+Seat 7: Romero1989 (2000)
+Seat 8: gabyMcquade (2320)
+Seat 9: superdave_b (1940)
+Cytrall  posts small blind (20)
+J_Rocha  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 5d, 7s ]
+msp2910 calls (40)
+hatoka folds.
+Romero1989 raises (80) to 80
+gabyMcquade folds.
+superdave_b folds.
+Ellandroad2 folds.
+neo_333 calls (80)
+Cytrall calls (60)
+J_Rocha folds.
+msp2910 calls (40)
+** Dealing Flop ** :  [ 3d, 9h, 8d ]
+Cytrall bets (100)
+msp2910 calls (100)
+Romero1989 folds.
+neo_333 calls (100)
+** Dealing Turn ** :  [ Jc ]
+Cytrall bets (200)
+msp2910 calls (200)
+neo_333 calls (200)
+** Dealing River ** :  [ 9c ]
+Cytrall bets (300)
+msp2910 calls (300)
+neo_333 raises (640) to 640
+Cytrall calls (340)
+msp2910 calls (340)
+** Summary **
+Main Pot: 3180
+Board: [ 3d 9h 8d Jc 9c  ]
+
+Ellandroad2 balance 4260, didn't bet (folded)
+neo_333 balance 3860, bet 1020, collected 3180, net +2160 [ Tc 9d ] [ three of a kind, Nines -- Jc,Tc,9d,9h,9c ]
+Cytrall balance 740, lost 1020 [ Kh Jh ] [ two pairs, Jacks and Nines -- Kh,Jh,Jc,9h,9c ]
+
+J_Rocha balance 1960, lost 40 (folded)
+msp2910 balance 820, lost 1020 [ Js 8h ] [ two pairs, Jacks and Nines -- Js,Jc,9h,9c,8h ]
+
+hatoka balance 2180, didn't bet (folded)
+Romero1989 balance 1920, lost 80 (folded)
+gabyMcquade balance 2320, didn't bet (folded)
+superdave_b balance 1940, didn't bet (folded)
+
+***** Hand History for Game 5873544671 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32886016)  - Sat Apr 14 07:55:13 EDT 2007
+Table Speed 1330853 (Real Money) -- Seat 3 is the button
+Total number of players : 9
+Seat 1: Ellandroad2 (4260)
+Seat 2: neo_333 (3860)
+Seat 3: Cytrall (740)
+Seat 4: J_Rocha (1960)
+Seat 5: msp2910 (820)
+Seat 6: hatoka (2180)
+Seat 7: Romero1989 (1920)
+Seat 8: gabyMcquade (2320)
+Seat 9: superdave_b (1940)
+J_Rocha  posts small blind (20)
+msp2910  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 6s, 2h ]
+hatoka folds.
+Romero1989 folds.
+gabyMcquade calls (40)
+superdave_b folds.
+Ellandroad2 folds.
+neo_333 calls (40)
+Cytrall raises (160) to 160
+J_Rocha folds.
+msp2910 folds.
+gabyMcquade calls (120)
+neo_333 calls (120)
+** Dealing Flop ** :  [ 4s, Kh, Kc ]
+gabyMcquade bets (40)
+neo_333 folds.
+Cytrall raises (580) to 580
+Cytrall is all-In.
+gabyMcquade folds.
+Creating Main Pot with $620 with Cytrall
+** Summary **
+Main Pot: 620
+Board: [ 4s Kh Kc  ]
+
+Ellandroad2 balance 4260, didn't bet (folded)
+neo_333 balance 3700, lost 160 (folded)
+Cytrall balance 1160, bet 740, collected 1160, net +420
+J_Rocha balance 1940, lost 20 (folded)
+msp2910 balance 780, lost 40 (folded)
+hatoka balance 2180, didn't bet (folded)
+Romero1989 balance 1920, didn't bet (folded)
+gabyMcquade balance 2120, lost 200 (folded)
+superdave_b balance 1940, didn't bet (folded)
+
+***** Hand History for Game 5873546410 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32886016)  - Sat Apr 14 07:56:00 EDT 2007
+Table Speed 1330853 (Real Money) -- Seat 4 is the button
+Total number of players : 9
+Seat 1: Ellandroad2 (4260)
+Seat 2: neo_333 (3700)
+Seat 3: Cytrall (1160)
+Seat 4: J_Rocha (1940)
+Seat 5: msp2910 (780)
+Seat 6: hatoka (2180)
+Seat 7: Romero1989 (1920)
+Seat 8: gabyMcquade (2120)
+Seat 9: superdave_b (1940)
+msp2910  posts small blind (30)
+hatoka  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 6h, 7h ]
+Romero1989 folds.
+gabyMcquade calls (60)
+superdave_b calls (60)
+Ellandroad2 folds.
+neo_333 calls (60)
+Cytrall calls (60)
+J_Rocha calls (60)
+msp2910 calls (30)
+hatoka checks.
+** Dealing Flop ** :  [ Ks, 8d, Qc ]
+msp2910 checks.
+hatoka checks.
+gabyMcquade bets (60)
+superdave_b calls (60)
+neo_333 folds.
+Cytrall folds.
+J_Rocha folds.
+msp2910 folds.
+hatoka folds.
+** Dealing Turn ** :  [ 2h ]
+gabyMcquade bets (120)
+superdave_b folds.
+** Summary **
+Main Pot: 540
+Board: [ Ks 8d Qc 2h  ]
+
+Ellandroad2 balance 4260, didn't bet (folded)
+neo_333 balance 3640, lost 60 (folded)
+Cytrall balance 1100, lost 60 (folded)
+J_Rocha balance 1880, lost 60 (folded)
+msp2910 balance 720, lost 60 (folded)
+hatoka balance 2120, lost 60 (folded)
+Romero1989 balance 1920, didn't bet (folded)
+gabyMcquade balance 2540, bet 240, collected 660, net +420
+superdave_b balance 1820, lost 120 (folded)
+
+***** Hand History for Game 5873548171 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32886016)  - Sat Apr 14 07:56:46 EDT 2007
+Table Speed 1330853 (Real Money) -- Seat 5 is the button
+Total number of players : 9
+Seat 1: Ellandroad2 (4260)
+Seat 2: neo_333 (3640)
+Seat 3: Cytrall (1100)
+Seat 4: J_Rocha (1880)
+Seat 5: msp2910 (720)
+Seat 6: hatoka (2120)
+Seat 7: Romero1989 (1920)
+Seat 8: gabyMcquade (2540)
+Seat 9: superdave_b (1820)
+hatoka  posts small blind (30)
+Romero1989  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Qh, Qd ]
+gabyMcquade calls (60)
+superdave_b folds.
+Ellandroad2 calls (60)
+neo_333 calls (60)
+Cytrall folds.
+J_Rocha folds.
+msp2910 folds.
+hatoka raises (210) to 240
+Romero1989 folds.
+gabyMcquade calls (180)
+Ellandroad2 calls (180)
+neo_333 calls (180)
+** Dealing Flop ** :  [ Kd, Jc, Js ]
+hatoka bets (300)
+gabyMcquade calls (300)
+Ellandroad2 calls (300)
+neo_333 folds.
+** Dealing Turn ** :  [ Kc ]
+hatoka checks.
+gabyMcquade bets (480)
+Ellandroad2 raises (3720) to 3720
+Ellandroad2 is all-In.
+hatoka folds.
+gabyMcquade calls (1520)
+gabyMcquade is all-In.
+** Dealing River ** :  [ 2d ]
+Creating Main Pot with $5920 with gabyMcquade
+** Summary **
+Main Pot: 5920
+Board: [ Kd Jc Js Kc 2d  ]
+
+Ellandroad2 balance 7640, bet 4260, collected 7640, net +3380 [ 7s Ks ] [ a full house, Kings full of Jacks -- Ks,Kd,Kc,Jc,Js ]
+neo_333 balance 3400, lost 240 (folded)
+Cytrall balance 1100, didn't bet (folded)
+J_Rocha balance 1880, didn't bet (folded)
+msp2910 balance 720, didn't bet (folded)
+hatoka balance 1580, lost 540 (folded)
+Romero1989 balance 1860, lost 60 (folded)
+gabyMcquade balance 0, lost 2540 [ Jd 9s ] [ a full house, Jacks full of Kings -- Kd,Kc,Jd,Jc,Js ]
+superdave_b balance 1820, didn't bet (folded)
+
+***** Hand History for Game 5873550809 *****
+gabyMcquade finished in 9 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32886016)  - Sat Apr 14 07:57:55 EDT 2007
+Table Speed 1330853 (Real Money) -- Seat 6 is the button
+Total number of players : 8
+Seat 1: Ellandroad2 (7640)
+Seat 2: neo_333 (3400)
+Seat 3: Cytrall (1100)
+Seat 4: J_Rocha (1880)
+Seat 5: msp2910 (720)
+Seat 6: hatoka (1580)
+Seat 7: Romero1989 (1860)
+Seat 9: superdave_b (1820)
+Romero1989  posts small blind (30)
+superdave_b  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Qh, 5c ]
+Ellandroad2 folds.
+neo_333 calls (60)
+Cytrall folds.
+J_Rocha folds.
+msp2910 folds.
+hatoka folds.
+Romero1989 calls (30)
+superdave_b checks.
+** Dealing Flop ** :  [ Kh, 7d, 9d ]
+Romero1989 checks.
+superdave_b checks.
+neo_333 bets (180)
+Romero1989 folds.
+superdave_b calls (180)
+** Dealing Turn ** :  [ 9s ]
+superdave_b checks.
+neo_333 bets (180)
+superdave_b calls (180)
+** Dealing River ** :  [ Qc ]
+superdave_b checks.
+neo_333 bets (240)
+superdave_b folds.
+** Summary **
+Main Pot: 900
+Board: [ Kh 7d 9d 9s Qc  ]
+
+Ellandroad2 balance 7640, didn't bet (folded)
+neo_333 balance 3880, bet 660, collected 1140, net +480
+Cytrall balance 1100, didn't bet (folded)
+J_Rocha balance 1880, didn't bet (folded)
+msp2910 balance 720, didn't bet (folded)
+hatoka balance 1580, didn't bet (folded)
+Romero1989 balance 1800, lost 60 (folded)
+superdave_b balance 1400, lost 420 (folded)
+
+***** Hand History for Game 5873552500 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32886016)  - Sat Apr 14 07:58:41 EDT 2007
+Table Speed 1330853 (Real Money) -- Seat 7 is the button
+Total number of players : 8
+Seat 1: Ellandroad2 (7640)
+Seat 2: neo_333 (3880)
+Seat 3: Cytrall (1100)
+Seat 4: J_Rocha (1880)
+Seat 5: msp2910 (720)
+Seat 6: hatoka (1580)
+Seat 7: Romero1989 (1800)
+Seat 9: superdave_b (1400)
+superdave_b  posts small blind (30)
+Ellandroad2  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 7s, 9s ]
+neo_333 folds.
+Cytrall folds.
+J_Rocha folds.
+msp2910 folds.
+hatoka folds.
+Romero1989 raises (120) to 120
+superdave_b folds.
+Ellandroad2 calls (60)
+** Dealing Flop ** :  [ 5d, 8c, 9c ]
+Ellandroad2 checks.
+Romero1989 bets (150)
+Ellandroad2 calls (150)
+** Dealing Turn ** :  [ Qc ]
+Ellandroad2 checks.
+Romero1989 bets (350)
+Ellandroad2 calls (350)
+** Dealing River ** :  [ Ac ]
+Ellandroad2 checks.
+Romero1989 checks.
+** Summary **
+Main Pot: 1270
+Board: [ 5d 8c 9c Qc Ac  ]
+
+Ellandroad2 balance 8290, bet 620, collected 1270, net +650 [ Kh Ts ] [ high card Ace with King kicker -- Ac,Kh,Qc,Ts,9c ]
+neo_333 balance 3880, didn't bet (folded)
+Cytrall balance 1100, didn't bet (folded)
+J_Rocha balance 1880, didn't bet (folded)
+msp2910 balance 720, didn't bet (folded)
+hatoka balance 1580, didn't bet (folded)
+Romero1989 balance 1180, lost 620 [ 2h 3s ] [ high card Ace -- Ac,Qc,9c,8c,5d ]
+
+superdave_b balance 1370, lost 30 (folded)
+
+***** Hand History for Game 5873554471 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32886016)  - Sat Apr 14 07:59:34 EDT 2007
+Table Speed 1330853 (Real Money) -- Seat 9 is the button
+Total number of players : 8
+Seat 1: Ellandroad2 (8290)
+Seat 2: neo_333 (3880)
+Seat 3: Cytrall (1100)
+Seat 4: J_Rocha (1880)
+Seat 5: msp2910 (720)
+Seat 6: hatoka (1580)
+Seat 7: Romero1989 (1180)
+Seat 9: superdave_b (1370)
+Ellandroad2  posts small blind (30)
+neo_333  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 8c, 2c ]
+Cytrall folds.
+J_Rocha folds.
+msp2910 calls (60)
+hatoka folds.
+Romero1989 raises (120) to 120
+superdave_b folds.
+Ellandroad2 calls (90)
+neo_333 folds.
+msp2910 raises (660) to 720
+msp2910 is all-In.
+Romero1989 calls (600)
+Ellandroad2 folds.
+** Dealing Flop ** :  [ 6h, 8h, Td ]
+** Dealing Turn ** :  [ 4s ]
+** Dealing River ** :  [ Ks ]
+Creating Main Pot with $1620 with msp2910
+** Summary **
+Main Pot: 1620
+Board: [ 6h 8h Td 4s Ks  ]
+
+Ellandroad2 balance 8170, lost 120 (folded)
+neo_333 balance 3820, lost 60 (folded)
+Cytrall balance 1100, didn't bet (folded)
+J_Rocha balance 1880, didn't bet (folded)
+msp2910 balance 1620, bet 720, collected 1620, net +900 [ Kh Ad ] [ a pair of Kings with Ace kicker -- Ad,Kh,Ks,Td,8hAd(kicker card) ]
+hatoka balance 1580, didn't bet (folded)
+Romero1989 balance 460, lost 720 [ Jd Kd ] [ a pair of Kings -- Kd,Ks,Jd,Td,8h ]
+superdave_b balance 1370, didn't bet (folded)
+
+***** Hand History for Game 5873555574 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32886016)  - Sat Apr 14 08:00:04 EDT 2007
+Table Speed 1330853 (Real Money) -- Seat 1 is the button
+Total number of players : 8
+Seat 1: Ellandroad2 (8170)
+Seat 2: neo_333 (3820)
+Seat 3: Cytrall (1100)
+Seat 4: J_Rocha (1880)
+Seat 5: msp2910 (1620)
+Seat 6: hatoka (1580)
+Seat 7: Romero1989 (460)
+Seat 9: superdave_b (1370)
+neo_333  posts small blind (30)
+Cytrall  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 7d, Kc ]
+J_Rocha folds.
+msp2910 folds.
+hatoka folds.
+Romero1989 calls (60)
+superdave_b calls (60)
+Ellandroad2 calls (60)
+neo_333 raises (90) to 120
+Cytrall calls (60)
+Romero1989 calls (60)
+superdave_b calls (60)
+Ellandroad2 calls (60)
+** Dealing Flop ** :  [ Js, 7c, Kd ]
+neo_333 bets (240)
+Cytrall raises (980) to 980
+Cytrall is all-In.
+Romero1989 folds.
+superdave_b folds.
+Ellandroad2 raises (8050) to 8050
+Ellandroad2 is all-In.
+neo_333 folds.
+** Dealing Turn ** :  [ 5s ]
+** Dealing River ** :  [ Jc ]
+Creating Main Pot with $2800 with Cytrall
+** Summary **
+Main Pot: 2800
+Board: [ Js 7c Kd 5s Jc  ]
+
+Ellandroad2 balance 9870, bet 8170, collected 9870, net +1700 [ Jh 7s ] [ a full house, Jacks full of Sevens -- Jh,Js,Jc,7s,7c ]
+neo_333 balance 3460, lost 360 (folded)
+Cytrall balance 0, lost 1100 [ Th Qs ] [ a pair of Jacks -- Kd,Qs,Js,Jc,Th ]
+J_Rocha balance 1880, didn't bet (folded)
+msp2910 balance 1620, didn't bet (folded)
+hatoka balance 1580, didn't bet (folded)
+Romero1989 balance 340, lost 120 (folded)
+superdave_b balance 1250, lost 120 (folded)
+
+***** Hand History for Game 5873558313 *****
+Cytrall finished in 8 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32886016)  - Sat Apr 14 08:01:17 EDT 2007
+Table Speed 1330853 (Real Money) -- Seat 2 is the button
+Total number of players : 7
+Seat 1: Ellandroad2 (9870)
+Seat 2: neo_333 (3460)
+Seat 4: J_Rocha (1880)
+Seat 5: msp2910 (1620)
+Seat 6: hatoka (1580)
+Seat 7: Romero1989 (340)
+Seat 9: superdave_b (1250)
+J_Rocha  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Kh, 3d ]
+msp2910 folds.
+hatoka folds.
+Romero1989 raises (340) to 340
+Romero1989 is all-In.
+superdave_b folds.
+Ellandroad2 calls (340)
+neo_333 folds.
+J_Rocha folds.
+** Dealing Flop ** :  [ 2c, 9d, 6s ]
+** Dealing Turn ** :  [ 4s ]
+** Dealing River ** :  [ Jc ]
+Creating Main Pot with $780 with Romero1989
+** Summary **
+Main Pot: 780
+Board: [ 2c 9d 6s 4s Jc  ]
+
+Ellandroad2 balance 9530, lost 340 [ 8h Kc ] [ high card King -- Kc,Jc,9d,8h,6s ]
+neo_333 balance 3460, didn't bet (folded)
+J_Rocha balance 1780, lost 100 (folded)
+msp2910 balance 1620, didn't bet (folded)
+hatoka balance 1580, didn't bet (folded)
+Romero1989 balance 780, bet 340, collected 780, net +440 [ 3c Ad ] [ high card Ace -- Ad,Jc,9d,6s,4s ]
+superdave_b balance 1250, didn't bet (folded)
+
+***** Hand History for Game 5873559301 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32886016)  - Sat Apr 14 08:01:43 EDT 2007
+Table Speed 1330853 (Real Money) -- Seat 2 is the button
+Total number of players : 7
+Seat 1: Ellandroad2 (9530)
+Seat 2: neo_333 (3460)
+Seat 4: J_Rocha (1780)
+Seat 5: msp2910 (1620)
+Seat 6: hatoka (1580)
+Seat 7: Romero1989 (780)
+Seat 9: superdave_b (1250)
+J_Rocha  posts small blind (50)
+msp2910  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Kh, 9s ]
+Romero1989: ty
+hatoka raises (200) to 200
+Romero1989 folds.
+superdave_b calls (200)
+Ellandroad2 folds.
+neo_333 folds.
+J_Rocha folds.
+msp2910 folds.
+** Dealing Flop ** :  [ 2s, 9h, Kc ]
+Romero1989: i may last an extra few mins now
+hatoka checks.
+superdave_b checks.
+** Dealing Turn ** :  [ 8h ]
+Ellandroad2: Maybe.. *S*
+hatoka bets (900)
+superdave_b raises (1050) to 1050
+superdave_b is all-In.
+hatoka calls (150)
+** Dealing River ** :  [ 6d ]
+Creating Main Pot with $2650 with superdave_b
+** Summary **
+Main Pot: 2650
+Board: [ 2s 9h Kc 8h 6d  ]
+
+Ellandroad2 balance 9530, didn't bet (folded)
+neo_333 balance 3460, didn't bet (folded)
+J_Rocha balance 1730, lost 50 (folded)
+msp2910 balance 1520, lost 100 (folded)
+hatoka balance 330, lost 1250 [ Kh 9s ] [ two pairs, Kings and Nines -- Kh,Kc,9s,9h,8h ]
+Romero1989 balance 780, didn't bet (folded)
+superdave_b balance 2650, bet 1250, collected 2650, net +1400 [ 9c 9d ] [ three of a kind, Nines -- Kc,9c,9d,9h,8h ]
+
+***** Hand History for Game 5873561183 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32886016)  - Sat Apr 14 08:02:32 EDT 2007
+Table Speed 1330853 (Real Money) -- Seat 4 is the button
+Total number of players : 7
+Seat 1: Ellandroad2 (9530)
+Seat 2: neo_333 (3460)
+Seat 4: J_Rocha (1730)
+Seat 5: msp2910 (1520)
+Seat 6: hatoka (330)
+Seat 7: Romero1989 (780)
+Seat 9: superdave_b (2650)
+msp2910  posts small blind (50)
+hatoka  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Qh, 7s ]
+Romero1989 folds.
+superdave_b calls (100)
+Ellandroad2 folds.
+neo_333 folds.
+J_Rocha folds.
+msp2910 calls (50)
+Ellandroad2: You probably end up winning now
+hatoka checks.
+** Dealing Flop ** :  [ 4h, Jh, 3c ]
+msp2910 checks.
+hatoka checks.
+superdave_b checks.
+** Dealing Turn ** :  [ 2d ]
+msp2910 bets (100)
+hatoka folds.
+superdave_b calls (100)
+** Dealing River ** :  [ 6s ]
+msp2910 bets (100)
+superdave_b calls (100)
+** Summary **
+Main Pot: 700
+Board: [ 4h Jh 3c 2d 6s  ]
+
+Ellandroad2 balance 9530, didn't bet (folded)
+neo_333 balance 3460, didn't bet (folded)
+J_Rocha balance 1730, didn't bet (folded)
+msp2910 balance 1220, lost 300 [ Tc 3s ] [ a pair of Threes -- Jh,Tc,6s,3s,3c ]
+hatoka balance 230, lost 100 (folded)
+Romero1989 balance 780, didn't bet (folded)
+superdave_b balance 3050, bet 300, collected 700, net +400 [ 3d Qc ] [ a pair of Threes with Queen kicker -- Qc,Jh,6s,3d,3cQc(kicker card) ]
+
+***** Hand History for Game 5873562710 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32886016)  - Sat Apr 14 08:03:13 EDT 2007
+Table Speed 1330853 (Real Money) -- Seat 5 is the button
+Total number of players : 7
+Seat 1: Ellandroad2 (9530)
+Seat 2: neo_333 (3460)
+Seat 4: J_Rocha (1730)
+Seat 5: msp2910 (1220)
+Seat 6: hatoka (230)
+Seat 7: Romero1989 (780)
+Seat 9: superdave_b (3050)
+hatoka  posts small blind (50)
+Romero1989  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Qs, 8s ]
+superdave_b calls (100)
+Ellandroad2 raises (450) to 450
+neo_333 folds.
+Romero1989: true
+Romero1989: lol
+J_Rocha calls (450)
+msp2910 folds.
+hatoka calls (180)
+hatoka is all-In.
+Romero1989 folds.
+superdave_b folds.
+Creating Main Pot with $890 with hatoka
+** Dealing Flop ** :  [ 6h, As, 6s ]
+Ellandroad2 checks.
+J_Rocha bets (400)
+Ellandroad2 calls (400)
+** Dealing Turn ** :  [ 7c ]
+Ellandroad2 checks.
+J_Rocha bets (880)
+J_Rocha is all-In.
+Ellandroad2 calls (880)
+** Dealing River ** :  [ Jh ]
+Creating Side Pot 1 with $3000 with J_Rocha
+** Summary **
+Main Pot: 890 | Side Pot 1: 3000
+Board: [ 6h As 6s 7c Jh  ]
+
+Ellandroad2 balance 7800, lost 1730 [ 8c 8h ] [ two pairs, Eights and Sixes -- As,8c,8h,6h,6s ]
+neo_333 balance 3460, didn't bet (folded)
+J_Rocha balance 3890, bet 1730, collected 3890, net +2160 [ Qd Qh ] [ two pairs, Queens and Sixes -- As,Qd,Qh,6h,6s ]
+msp2910 balance 1220, didn't bet (folded)
+hatoka balance 0, lost 230 [ Qs 8s ] [ a pair of Sixes -- As,Qs,Jh,6h,6s ]
+Romero1989 balance 680, lost 100 (folded)
+superdave_b balance 2950, lost 100 (folded)
+
+***** Hand History for Game 5873564188 *****
+hatoka finished in 7 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32886016)  - Sat Apr 14 08:03:53 EDT 2007
+Table Speed 1330853 (Real Money) -- Seat 5 is the button
+Total number of players : 6
+Seat 1: Ellandroad2 (7800)
+Seat 2: neo_333 (3460)
+Seat 4: J_Rocha (3890)
+Seat 5: msp2910 (1220)
+Seat 7: Romero1989 (680)
+Seat 9: superdave_b (2950)
+Romero1989  posts small blind (50)
+superdave_b  posts big blind (100)
+** Dealing down cards **
+Ellandroad2 calls (100)
+neo_333 folds.
+J_Rocha calls (100)
+msp2910 folds.
+Romero1989 calls (50)
+superdave_b checks.
+** Dealing Flop ** :  [ 7h, 9s, As ]
+Romero1989 checks.
+superdave_b checks.
+Ellandroad2 bets (400)
+J_Rocha calls (400)
+Romero1989 folds.
+superdave_b folds.
+** Dealing Turn ** :  [ Js ]
+Ellandroad2 bets (100)
+J_Rocha raises (400) to 400
+Ellandroad2 calls (300)
+** Dealing River ** :  [ Jh ]
+Ellandroad2 bets (100)
+J_Rocha calls (100)
+** Summary **
+Main Pot: 2200
+Board: [ 7h 9s As Js Jh  ]
+
+Ellandroad2 balance 7900, bet 1000, collected 1100, net +100 [ 6s Ah ] [ two pairs, Aces and Jacks -- Ah,As,Js,Jh,9s ]
+neo_333 balance 3460, didn't bet (folded)
+J_Rocha balance 3990, bet 1000, collected 1100, net +100 [ 3s Ac ] [ two pairs, Aces and Jacks -- Ac,As,Js,Jh,9s ]
+msp2910 balance 1220, didn't bet (folded)
+Romero1989 balance 580, lost 100 (folded)
+superdave_b balance 2850, lost 100 (folded)
+
+***** Hand History for Game 5873565667 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32886016)  - Sat Apr 14 08:04:32 EDT 2007
+Table Speed 1330853 (Real Money) -- Seat 7 is the button
+Total number of players : 6
+Seat 1: Ellandroad2 (7900)
+Seat 2: neo_333 (3460)
+Seat 4: J_Rocha (3990)
+Seat 5: msp2910 (1220)
+Seat 7: Romero1989 (580)
+Seat 9: superdave_b (2850)
+superdave_b  posts small blind (50)
+Ellandroad2  posts big blind (100)
+** Dealing down cards **
+neo_333 folds.
+J_Rocha folds.
+msp2910 folds.
+Romero1989 raises (580) to 580
+Romero1989 is all-In.
+superdave_b calls (530)
+Ellandroad2 calls (480)
+Creating Main Pot with $1740 with Romero1989
+** Dealing Flop ** :  [ Qs, Qc, 6d ]
+superdave_b checks.
+Ellandroad2 checks.
+** Dealing Turn ** :  [ 6h ]
+superdave_b checks.
+Ellandroad2 checks.
+** Dealing River ** :  [ 7d ]
+superdave_b bets (100)
+Ellandroad2 calls (100)
+** Summary **
+Main Pot: 1740 | Side Pot 1: 200
+Board: [ Qs Qc 6d 6h 7d  ]
+
+
+Ellandroad2 balance 7220, lost 680 [Didn't Show]
+neo_333 balance 3460, didn't bet (folded)
+J_Rocha balance 3990, didn't bet (folded)
+msp2910 balance 1220, didn't bet (folded)
+Romero1989 balance 1740, bet 580, collected 1740, net +1160 [ Jd Js ] [ two pairs, Queens and Jacks -- Qs,Qc,Jd,Js,7d ]
+superdave_b balance 2370, bet 680, collected 200, lost -480 [ Ts Tc ] [ two pairs, Queens and Tens -- Qs,Qc,Ts,Tc,7d ]
+
+***** Hand History for Game 5873566895 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32886016)  - Sat Apr 14 08:05:05 EDT 2007
+Table Speed 1330853 (Real Money) -- Seat 9 is the button
+Total number of players : 6
+Seat 1: Ellandroad2 (7220)
+Seat 2: neo_333 (3460)
+Seat 4: J_Rocha (3990)
+Seat 5: msp2910 (1220)
+Seat 7: Romero1989 (1740)
+Seat 9: superdave_b (2370)
+Ellandroad2  posts small blind (50)
+neo_333  posts big blind (100)
+** Dealing down cards **
+J_Rocha raises (400) to 400
+msp2910 folds.
+Romero1989 folds.
+superdave_b folds.
+Ellandroad2 folds.
+neo_333 folds.
+** Summary **
+Main Pot: 250
+
+Ellandroad2 balance 7170, lost 50 (folded)
+neo_333 balance 3360, lost 100 (folded)
+J_Rocha balance 4140, bet 400, collected 550, net +150
+msp2910 balance 1220, didn't bet (folded)
+Romero1989 balance 1740, didn't bet (folded)
+superdave_b balance 2370, didn't bet (folded)
+
+***** Hand History for Game 5873567636 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32886016)  - Sat Apr 14 08:05:24 EDT 2007
+Table Speed 1330853 (Real Money) -- Seat 1 is the button
+Total number of players : 6
+Seat 1: Ellandroad2 (7170)
+Seat 2: neo_333 (3360)
+Seat 4: J_Rocha (4140)
+Seat 5: msp2910 (1220)
+Seat 7: Romero1989 (1740)
+Seat 9: superdave_b (2370)
+neo_333  posts small blind (50)
+J_Rocha  posts big blind (100)
+** Dealing down cards **
+msp2910 calls (100)
+Romero1989 folds.
+superdave_b folds.
+Ellandroad2 folds.
+neo_333 folds.
+J_Rocha raises (100) to 200
+msp2910 calls (100)
+** Dealing Flop ** :  [ 5d, Th, 8d ]
+J_Rocha bets (100)
+msp2910 calls (100)
+** Dealing Turn ** :  [ 3d ]
+J_Rocha bets (100)
+msp2910 calls (100)
+** Dealing River ** :  [ Qh ]
+J_Rocha bets (400)
+msp2910 calls (400)
+** Summary **
+Main Pot: 1650
+Board: [ 5d Th 8d 3d Qh  ]
+
+Ellandroad2 balance 7170, didn't bet (folded)
+neo_333 balance 3310, lost 50 (folded)
+J_Rocha balance 4990, bet 800, collected 1650, net +850 [ 3c 3h ] [ three of a kind, Threes -- Qh,Th,3c,3h,3d ]
+
+msp2910 balance 420, lost 800 [Didn't Show]
+Romero1989 balance 1740, didn't bet (folded)
+superdave_b balance 2370, didn't bet (folded)
+
+***** Hand History for Game 5873568833 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32886016)  - Sat Apr 14 08:05:55 EDT 2007
+Table Speed 1330853 (Real Money) -- Seat 2 is the button
+Total number of players : 6
+Seat 1: Ellandroad2 (7170)
+Seat 2: neo_333 (3310)
+Seat 4: J_Rocha (4990)
+Seat 5: msp2910 (420)
+Seat 7: Romero1989 (1740)
+Seat 9: superdave_b (2370)
+J_Rocha  posts small blind (50)
+msp2910  posts big blind (100)
+** Dealing down cards **
+Romero1989 calls (100)
+superdave_b folds.
+Ellandroad2 raises (450) to 450
+neo_333 folds.
+J_Rocha calls (400)
+msp2910 folds.
+Romero1989 folds.
+** Dealing Flop ** :  [ 3h, 8c, 2h ]
+J_Rocha bets (100)
+Ellandroad2 raises (1000) to 1000
+J_Rocha folds.
+** Summary **
+Main Pot: 1300
+Board: [ 3h 8c 2h  ]
+
+Ellandroad2 balance 7920, bet 1450, collected 2200, net +750 [ Qs Qd ] [ a pair of Queens -- Qs,Qd,8c,3h,2h ]
+neo_333 balance 3310, didn't bet (folded)
+J_Rocha balance 4440, lost 550 (folded)
+msp2910 balance 320, lost 100 (folded)
+Romero1989 balance 1640, lost 100 (folded)
+superdave_b balance 2370, didn't bet (folded)
+
+***** Hand History for Game 5873569801 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32886016)  - Sat Apr 14 08:06:21 EDT 2007
+Table Speed 1330853 (Real Money) -- Seat 4 is the button
+Total number of players : 6
+Seat 1: Ellandroad2 (7920)
+Seat 2: neo_333 (3310)
+Seat 4: J_Rocha (4440)
+Seat 5: msp2910 (320)
+Seat 7: Romero1989 (1640)
+Seat 9: superdave_b (2370)
+msp2910  posts small blind (100)
+Romero1989  posts big blind (200)
+** Dealing down cards **
+superdave_b folds.
+Ellandroad2 folds.
+neo_333 folds.
+J_Rocha calls (200)
+msp2910 folds.
+Romero1989 checks.
+** Dealing Flop ** :  [ 3s, Qc, Kc ]
+Romero1989 bets (400)
+J_Rocha calls (400)
+** Dealing Turn ** :  [ 4h ]
+Romero1989 bets (1040)
+Romero1989 is all-In.
+J_Rocha calls (1040)
+** Dealing River ** :  [ 4c ]
+Creating Main Pot with $3380 with Romero1989
+** Summary **
+Main Pot: 3380
+Board: [ 3s Qc Kc 4h 4c  ]
+
+Ellandroad2 balance 7920, didn't bet (folded)
+neo_333 balance 3310, didn't bet (folded)
+J_Rocha balance 6180, bet 1640, collected 3380, net +1740 [ 6c Ac ] [ a flush, Ace high -- Ac,Kc,Qc,6c,4c ]
+msp2910 balance 220, lost 100 (folded)
+Romero1989 balance 0, lost 1640 [ 7d Ks ] [ two pairs, Kings and Fours -- Ks,Kc,Qc,4h,4c ]
+superdave_b balance 2370, didn't bet (folded)
+
+***** Hand History for Game 5873571054 *****
+Romero1989 finished in 6 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32886016)  - Sat Apr 14 08:06:56 EDT 2007
+Table Speed 1330853 (Real Money) -- Seat 5 is the button
+Total number of players : 5
+Seat 1: Ellandroad2 (7920)
+Seat 2: neo_333 (3310)
+Seat 4: J_Rocha (6180)
+Seat 5: msp2910 (220)
+Seat 9: superdave_b (2370)
+superdave_b  posts big blind (200)
+** Dealing down cards **
+Ellandroad2 calls (200)
+neo_333 folds.
+J_Rocha calls (200)
+msp2910 raises (220) to 220
+msp2910 is all-In.
+superdave_b calls (20)
+Ellandroad2 calls (20)
+J_Rocha calls (20)
+Creating Main Pot with $880 with msp2910
+** Dealing Flop ** :  [ 2c, 3s, 9h ]
+superdave_b checks.
+Ellandroad2 checks.
+J_Rocha checks.
+** Dealing Turn ** :  [ 4s ]
+superdave_b checks.
+Ellandroad2 checks.
+J_Rocha checks.
+** Dealing River ** :  [ Th ]
+superdave_b checks.
+Ellandroad2 checks.
+J_Rocha checks.
+** Summary **
+Main Pot: 880
+Board: [ 2c 3s 9h 4s Th  ]
+
+
+Ellandroad2 balance 7700, lost 220 [Didn't Show]
+neo_333 balance 3310, didn't bet (folded)
+
+J_Rocha balance 5960, lost 220 [Didn't Show]
+
+msp2910 balance 0, lost 220 [Didn't Show]
+superdave_b balance 3030, bet 220, collected 880, net +660 [ As 4c ] [ a pair of Fours -- As,Th,9h,4c,4s ]
+
+***** Hand History for Game 5873572271 *****
+msp2910 finished in 5 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32886016)  - Sat Apr 14 08:07:28 EDT 2007
+Table Speed 1330853 (Real Money) -- Seat 4 is the button
+Total number of players : 4
+Seat 1: Ellandroad2 (7700)
+Seat 2: neo_333 (3310)
+Seat 4: J_Rocha (5960)
+Seat 9: superdave_b (3030)
+superdave_b  posts small blind (100)
+Ellandroad2  posts big blind (200)
+** Dealing down cards **
+neo_333 folds.
+J_Rocha folds.
+superdave_b calls (100)
+Ellandroad2 checks.
+** Dealing Flop ** :  [ Jc, Tc, 8s ]
+superdave_b checks.
+Ellandroad2 checks.
+** Dealing Turn ** :  [ 8d ]
+superdave_b checks.
+Ellandroad2 checks.
+** Dealing River ** :  [ Qh ]
+superdave_b bets (200)
+Ellandroad2 calls (200)
+** Summary **
+Main Pot: 800
+Board: [ Jc Tc 8s 8d Qh  ]
+
+
+Ellandroad2 balance 7300, lost 400 [Didn't Show]
+neo_333 balance 3310, didn't bet (folded)
+J_Rocha balance 5960, didn't bet (folded)
+superdave_b balance 3430, bet 400, collected 800, net +400 [ 9c Ac ] [ a straight Eight to Queen -- Qh,Jc,Tc,9c,8s ]
+
+***** Hand History for Game 5873573310 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32886016)  - Sat Apr 14 08:07:54 EDT 2007
+Table Speed 1330853 (Real Money) -- Seat 9 is the button
+Total number of players : 4
+Seat 1: Ellandroad2 (7300)
+Seat 2: neo_333 (3310)
+Seat 4: J_Rocha (5960)
+Seat 9: superdave_b (3430)
+Ellandroad2  posts small blind (100)
+neo_333  posts big blind (200)
+** Dealing down cards **
+J_Rocha folds.
+superdave_b folds.
+Ellandroad2 calls (100)
+neo_333 folds.
+** Summary **
+Main Pot: 400
+
+Ellandroad2 balance 7500, bet 200, collected 400, net +200 [ 3h 3s ] [ a pair of Threes -- 3h,3s ]
+neo_333 balance 3110, lost 200 (folded)
+J_Rocha balance 5960, didn't bet (folded)
+superdave_b balance 3430, didn't bet (folded)
+
+***** Hand History for Game 5873573783 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32886016)  - Sat Apr 14 08:08:08 EDT 2007
+Table Speed 1330853 (Real Money) -- Seat 1 is the button
+Total number of players : 4
+Seat 1: Ellandroad2 (7500)
+Seat 2: neo_333 (3110)
+Seat 4: J_Rocha (5960)
+Seat 9: superdave_b (3430)
+neo_333  posts small blind (100)
+J_Rocha  posts big blind (200)
+** Dealing down cards **
+superdave_b folds.
+Ellandroad2 folds.
+neo_333 folds.
+** Summary **
+Main Pot: 200
+
+Ellandroad2 balance 7500, didn't bet (folded)
+neo_333 balance 3010, lost 100 (folded)
+J_Rocha balance 6060, bet 200, collected 300, net +100
+superdave_b balance 3430, didn't bet (folded)
+
+***** Hand History for Game 5873574581 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32886016)  - Sat Apr 14 08:08:29 EDT 2007
+Table Speed 1330853 (Real Money) -- Seat 2 is the button
+Total number of players : 4
+Seat 1: Ellandroad2 (7500)
+Seat 2: neo_333 (3010)
+Seat 4: J_Rocha (6060)
+Seat 9: superdave_b (3430)
+J_Rocha  posts small blind (100)
+superdave_b  posts big blind (200)
+** Dealing down cards **
+Ellandroad2 folds.
+neo_333 calls (200)
+J_Rocha calls (100)
+superdave_b checks.
+** Dealing Flop ** :  [ 9c, 9h, 8h ]
+J_Rocha checks.
+superdave_b checks.
+neo_333 bets (200)
+J_Rocha folds.
+superdave_b calls (200)
+** Dealing Turn ** :  [ Qs ]
+superdave_b checks.
+neo_333 bets (200)
+superdave_b calls (200)
+** Dealing River ** :  [ 4h ]
+superdave_b checks.
+neo_333 bets (800)
+superdave_b folds.
+** Summary **
+Main Pot: 1400
+Board: [ 9c 9h 8h Qs 4h  ]
+
+Ellandroad2 balance 7500, didn't bet (folded)
+neo_333 balance 3810, bet 1400, collected 2200, net +800
+J_Rocha balance 5860, lost 200 (folded)
+superdave_b balance 2830, lost 600 (folded)
+
+***** Hand History for Game 5873576579 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32886016)  - Sat Apr 14 08:09:20 EDT 2007
+Table Speed 1330853 (Real Money) -- Seat 4 is the button
+Total number of players : 4
+Seat 1: Ellandroad2 (7500)
+Seat 2: neo_333 (3810)
+Seat 4: J_Rocha (5860)
+Seat 9: superdave_b (2830)
+superdave_b  posts small blind (100)
+Ellandroad2  posts big blind (200)
+** Dealing down cards **
+neo_333 calls (200)
+J_Rocha folds.
+superdave_b calls (100)
+Ellandroad2 checks.
+** Dealing Flop ** :  [ Kh, Qs, 5d ]
+superdave_b checks.
+Ellandroad2 checks.
+neo_333 checks.
+** Dealing Turn ** :  [ 6d ]
+superdave_b checks.
+Ellandroad2 checks.
+neo_333 bets (400)
+superdave_b folds.
+Ellandroad2 calls (400)
+** Dealing River ** :  [ 9s ]
+Ellandroad2 checks.
+neo_333 bets (400)
+Ellandroad2 calls (400)
+** Summary **
+Main Pot: 2200
+Board: [ Kh Qs 5d 6d 9s  ]
+
+
+Ellandroad2 balance 6500, lost 1000 [Didn't Show]
+neo_333 balance 5010, bet 1000, collected 2200, net +1200 [ Jd Qd ] [ a pair of Queens -- Kh,Qd,Qs,Jd,9s ]
+J_Rocha balance 5860, didn't bet (folded)
+superdave_b balance 2630, lost 200 (folded)
+
+***** Hand History for Game 5873578261 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32886016)  - Sat Apr 14 08:10:05 EDT 2007
+Table Speed 1330853 (Real Money) -- Seat 9 is the button
+Total number of players : 4
+Seat 1: Ellandroad2 (6500)
+Seat 2: neo_333 (5010)
+Seat 4: J_Rocha (5860)
+Seat 9: superdave_b (2630)
+Ellandroad2  posts small blind (100)
+neo_333  posts big blind (200)
+** Dealing down cards **
+J_Rocha folds.
+superdave_b folds.
+Ellandroad2 raises (300) to 400
+neo_333 calls (200)
+** Dealing Flop ** :  [ Kd, Jh, 6d ]
+Ellandroad2 bets (1200)
+neo_333 folds.
+** Summary **
+Main Pot: 800
+Board: [ Kd Jh 6d  ]
+
+Ellandroad2 balance 6900, bet 1600, collected 2000, net +400
+neo_333 balance 4610, lost 400 (folded)
+J_Rocha balance 5860, didn't bet (folded)
+superdave_b balance 2630, didn't bet (folded)
+
+***** Hand History for Game 5873579546 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32886016)  - Sat Apr 14 08:10:38 EDT 2007
+Table Speed 1330853 (Real Money) -- Seat 1 is the button
+Total number of players : 4
+Seat 1: Ellandroad2 (6900)
+Seat 2: neo_333 (4610)
+Seat 4: J_Rocha (5860)
+Seat 9: superdave_b (2630)
+neo_333  posts small blind (100)
+J_Rocha  posts big blind (200)
+** Dealing down cards **
+superdave_b calls (200)
+Ellandroad2 calls (200)
+neo_333 raises (300) to 400
+J_Rocha folds.
+superdave_b calls (200)
+Ellandroad2 calls (200)
+** Dealing Flop ** :  [ Kc, 4s, 3h ]
+neo_333 bets (200)
+superdave_b calls (200)
+Ellandroad2 raises (1000) to 1000
+neo_333 calls (800)
+superdave_b folds.
+** Dealing Turn ** :  [ Jd ]
+neo_333 checks.
+Ellandroad2 bets (1000)
+neo_333 folds.
+** Summary **
+Main Pot: 3600
+Board: [ Kc 4s 3h Jd  ]
+
+Ellandroad2 balance 9100, bet 2400, collected 4600, net +2200 [ Ks 9s ] [ a pair of Kings -- Ks,Kc,Jd,9s,4s ]
+neo_333 balance 3210, lost 1400 (folded)
+J_Rocha balance 5660, lost 200 (folded)
+superdave_b balance 2030, lost 600 (folded)
+
+***** Hand History for Game 5873582210 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32886016)  - Sat Apr 14 08:11:48 EDT 2007
+Table Speed 1330853 (Real Money) -- Seat 2 is the button
+Total number of players : 4
+Seat 1: Ellandroad2 (9100)
+Seat 2: neo_333 (3210)
+Seat 4: J_Rocha (5660)
+Seat 9: superdave_b (2030)
+J_Rocha  posts small blind (200)
+superdave_b  posts big blind (400)
+** Dealing down cards **
+Ellandroad2 folds.
+neo_333 folds.
+J_Rocha raises (600) to 800
+superdave_b folds.
+** Summary **
+Main Pot: 800
+
+Ellandroad2 balance 9100, didn't bet (folded)
+neo_333 balance 3210, didn't bet (folded)
+J_Rocha balance 6060, bet 800, collected 1200, net +400
+superdave_b balance 1630, lost 400 (folded)
+
+***** Hand History for Game 5873582718 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32886016)  - Sat Apr 14 08:12:02 EDT 2007
+Table Speed 1330853 (Real Money) -- Seat 4 is the button
+Total number of players : 4
+Seat 1: Ellandroad2 (9100)
+Seat 2: neo_333 (3210)
+Seat 4: J_Rocha (6060)
+Seat 9: superdave_b (1630)
+superdave_b  posts small blind (200)
+Ellandroad2  posts big blind (400)
+** Dealing down cards **
+neo_333 calls (400)
+J_Rocha calls (400)
+superdave_b calls (200)
+Ellandroad2 checks.
+** Dealing Flop ** :  [ 4h, Qs, 7c ]
+superdave_b checks.
+Ellandroad2 checks.
+neo_333 checks.
+J_Rocha bets (800)
+superdave_b folds.
+Ellandroad2 folds.
+neo_333 raises (1600) to 1600
+J_Rocha calls (800)
+** Dealing Turn ** :  [ Ad ]
+neo_333 bets (800)
+J_Rocha raises (1600) to 1600
+neo_333 calls (410)
+neo_333 is all-In.
+** Dealing River ** :  [ Ah ]
+Creating Main Pot with $7220 with neo_333
+** Summary **
+Main Pot: 7220
+Board: [ 4h Qs 7c Ad Ah  ]
+
+Ellandroad2 balance 8700, lost 400 (folded)
+neo_333 balance 7220, bet 3210, collected 7220, net +4010 [ 7d 7s ] [ a full house, Sevens full of Aces -- Ad,Ah,7d,7s,7c ]
+J_Rocha balance 2850, bet 3600, collected 390, lost -3210 [ Qc Kc ] [ two pairs, Aces and Queens -- Ad,Ah,Kc,Qc,Qs ]
+superdave_b balance 1230, lost 400 (folded)
+
+***** Hand History for Game 5873585296 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32886016)  - Sat Apr 14 08:13:09 EDT 2007
+Table Speed 1330853 (Real Money) -- Seat 9 is the button
+Total number of players : 4
+Seat 1: Ellandroad2 (8700)
+Seat 2: neo_333 (7220)
+Seat 4: J_Rocha (2850)
+Seat 9: superdave_b (1230)
+Ellandroad2  posts small blind (200)
+neo_333  posts big blind (400)
+** Dealing down cards **
+J_Rocha raises (800) to 800
+superdave_b folds.
+Ellandroad2: vnh
+Ellandroad2 folds.
+neo_333 calls (400)
+** Dealing Flop ** :  [ 4h, Kc, 3h ]
+neo_333: tyvm
+neo_333 checks.
+J_Rocha bets (400)
+neo_333 calls (400)
+** Dealing Turn ** :  [ 5h ]
+neo_333 checks.
+J_Rocha bets (800)
+neo_333 calls (800)
+** Dealing River ** :  [ Ts ]
+neo_333 bets (1200)
+J_Rocha calls (850)
+J_Rocha is all-In.
+Creating Main Pot with $5900 with J_Rocha
+** Summary **
+Main Pot: 5900
+Board: [ 4h Kc 3h 5h Ts  ]
+
+Ellandroad2 balance 8500, lost 200 (folded)
+neo_333 balance 10270, bet 3200, collected 6250, net +3050 [ 2d 6d ] [ a straight Two to Six -- 6d,5h,4h,3h,2d ]
+J_Rocha balance 0, lost 2850 [ Jh Ac ] [ high card Ace -- Ac,Kc,Jh,Ts,5h ]
+superdave_b balance 1230, didn't bet (folded)
+
+***** Hand History for Game 5873587667 *****
+J_Rocha finished in 4 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32886016)  - Sat Apr 14 08:14:12 EDT 2007
+Table Speed 1330853 (Real Money) -- Seat 1 is the button
+Total number of players : 3
+Seat 1: Ellandroad2 (8500)
+Seat 2: neo_333 (10270)
+Seat 9: superdave_b (1230)
+neo_333  posts small blind (200)
+superdave_b  posts big blind (400)
+** Dealing down cards **
+Ellandroad2 raises (800) to 800
+superdave_b: ty neo lol
+neo_333 folds.
+superdave_b folds.
+** Summary **
+Main Pot: 1000
+
+Ellandroad2 balance 9100, bet 800, collected 1400, net +600 [ Ac Qd ] [ high card Ace -- Ac,Qd ]
+neo_333 balance 10070, lost 200 (folded)
+superdave_b balance 830, lost 400 (folded)
+
+***** Hand History for Game 5873588507 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32886016)  - Sat Apr 14 08:14:35 EDT 2007
+Table Speed 1330853 (Real Money) -- Seat 2 is the button
+Total number of players : 3
+Seat 1: Ellandroad2 (9100)
+Seat 2: neo_333 (10070)
+Seat 9: superdave_b (830)
+superdave_b  posts small blind (200)
+Ellandroad2  posts big blind (400)
+** Dealing down cards **
+neo_333 calls (400)
+superdave_b folds.
+Ellandroad2 raises (400) to 800
+neo_333 calls (400)
+** Dealing Flop ** :  [ 8c, 7s, Jd ]
+Ellandroad2 bets (400)
+neo_333 calls (400)
+** Dealing Turn ** :  [ Kd ]
+Ellandroad2 bets (400)
+neo_333 raises (1200) to 1200
+Ellandroad2 calls (800)
+** Dealing River ** :  [ Qh ]
+Ellandroad2 checks.
+neo_333 bets (2400)
+Ellandroad2 calls (2400)
+** Summary **
+Main Pot: 9800
+Board: [ 8c 7s Jd Kd Qh  ]
+
+
+Ellandroad2 balance 4300, lost 4800 [Didn't Show]
+neo_333 balance 15070, bet 4800, collected 9800, net +5000 [ Tc 9h ] [ a straight Nine to King -- Kd,Qh,Jd,Tc,9h ]
+superdave_b balance 630, lost 200 (folded)
+
+***** Hand History for Game 5873590306 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32886016)  - Sat Apr 14 08:15:21 EDT 2007
+Table Speed 1330853 (Real Money) -- Seat 9 is the button
+Total number of players : 3
+Seat 1: Ellandroad2 (4300)
+Seat 2: neo_333 (15070)
+Seat 9: superdave_b (630)
+Ellandroad2  posts small blind (200)
+neo_333  posts big blind (400)
+** Dealing down cards **
+superdave_b calls (400)
+Ellandroad2 raises (600) to 800
+neo_333 calls (400)
+superdave_b calls (230)
+superdave_b is all-In.
+Creating Main Pot with $1890 with superdave_b
+** Dealing Flop ** :  [ 3h, Ad, 5c ]
+Ellandroad2 bets (3500)
+Ellandroad2 is all-In.
+neo_333 folds.
+** Dealing Turn ** :  [ 4d ]
+** Dealing River ** :  [ 7s ]
+Creating Side Pot 1 with $340 with Ellandroad2
+** Summary **
+Main Pot: 1890 | Side Pot 1: 340
+Board: [ 3h Ad 5c 4d 7s  ]
+
+Ellandroad2 balance 5730, bet 4300, collected 5730, net +1430 [ 5s 5d ] [ three of a kind, Fives -- Ad,7s,5s,5d,5c ]
+neo_333 balance 14270, lost 800 (folded)
+superdave_b balance 0, lost 630 [ Qd Kc ] [ high card Ace -- Ad,Kc,Qd,7s,5c ]
+
+***** Hand History for Game 5873591268 *****
+superdave_b finished in 3 place and won $4.80.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32886016)  - Sat Apr 14 08:15:45 EDT 2007
+Table Speed 1330853 (Real Money) -- Seat 2 is the button
+Total number of players : 2
+Seat 1: Ellandroad2 (5730)
+Seat 2: neo_333 (14270)
+neo_333  posts small blind (200)
+Ellandroad2  posts big blind (400)
+** Dealing down cards **
+neo_333 raises (600) to 800
+Ellandroad2 calls (400)
+** Dealing Flop ** :  [ 5s, Jc, 7h ]
+Ellandroad2 checks.
+neo_333 bets (1200)
+Ellandroad2 folds.
+** Summary **
+Main Pot: 1600
+Board: [ 5s Jc 7h  ]
+
+Ellandroad2 balance 4930, lost 800 (folded)
+neo_333 balance 15070, bet 2000, collected 2800, net +800
+
+***** Hand History for Game 5873592043 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32886016)  - Sat Apr 14 08:16:06 EDT 2007
+Table Speed 1330853 (Real Money) -- Seat 1 is the button
+Total number of players : 2
+Seat 1: Ellandroad2 (4930)
+Seat 2: neo_333 (15070)
+Ellandroad2  posts small blind (200)
+neo_333  posts big blind (400)
+** Dealing down cards **
+Ellandroad2 raises (600) to 800
+neo_333 calls (400)
+** Dealing Flop ** :  [ Kd, 3c, 3s ]
+neo_333 bets (1200)
+Ellandroad2 folds.
+** Summary **
+Main Pot: 1600
+Board: [ Kd 3c 3s  ]
+
+Ellandroad2 balance 4130, lost 800 (folded)
+neo_333 balance 15870, bet 2000, collected 2800, net +800
+
+***** Hand History for Game 5873592790 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32886016)  - Sat Apr 14 08:16:25 EDT 2007
+Table Speed 1330853 (Real Money) -- Seat 2 is the button
+Total number of players : 2
+Seat 1: Ellandroad2 (4130)
+Seat 2: neo_333 (15870)
+neo_333  posts small blind (200)
+Ellandroad2  posts big blind (400)
+** Dealing down cards **
+neo_333 raises (600) to 800
+Ellandroad2 calls (400)
+** Dealing Flop ** :  [ Th, Js, Ad ]
+Ellandroad2 checks.
+neo_333 bets (800)
+Ellandroad2 folds.
+** Summary **
+Main Pot: 1600
+Board: [ Th Js Ad  ]
+
+Ellandroad2 balance 3330, lost 800 (folded)
+neo_333 balance 16670, bet 1600, collected 2400, net +800
+
+***** Hand History for Game 5873593602 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32886016)  - Sat Apr 14 08:16:46 EDT 2007
+Table Speed 1330853 (Real Money) -- Seat 1 is the button
+Total number of players : 2
+Seat 1: Ellandroad2 (3330)
+Seat 2: neo_333 (16670)
+Ellandroad2  posts small blind (200)
+neo_333  posts big blind (400)
+** Dealing down cards **
+Ellandroad2 folds.
+** Summary **
+Main Pot: 400
+
+Ellandroad2 balance 3130, lost 200 (folded)
+neo_333 balance 16870, bet 400, collected 600, net +200
+
+***** Hand History for Game 5873593841 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32886016)  - Sat Apr 14 08:16:52 EDT 2007
+Table Speed 1330853 (Real Money) -- Seat 2 is the button
+Total number of players : 2
+Seat 1: Ellandroad2 (3130)
+Seat 2: neo_333 (16870)
+neo_333  posts small blind (300)
+Ellandroad2  posts big blind (600)
+** Dealing down cards **
+neo_333 raises (900) to 1200
+Ellandroad2 calls (600)
+** Dealing Flop ** :  [ 9d, Tc, Kd ]
+Ellandroad2 bets (1930)
+Ellandroad2 is all-In.
+neo_333 folds.
+Creating Main Pot with $2400 with Ellandroad2
+** Summary **
+Main Pot: 2400
+Board: [ 9d Tc Kd  ]
+
+Ellandroad2 balance 4330, bet 3130, collected 4330, net +1200
+neo_333 balance 15670, lost 1200 (folded)
+
+***** Hand History for Game 5873594564 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32886016)  - Sat Apr 14 08:17:12 EDT 2007
+Table Speed 1330853 (Real Money) -- Seat 1 is the button
+Total number of players : 2
+Seat 1: Ellandroad2 (4330)
+Seat 2: neo_333 (15670)
+Ellandroad2  posts small blind (300)
+neo_333  posts big blind (600)
+** Dealing down cards **
+Ellandroad2 raises (4030) to 4330
+Ellandroad2 is all-In.
+neo_333 folds.
+Creating Main Pot with $1200 with Ellandroad2
+** Summary **
+Main Pot: 1200
+
+Ellandroad2 balance 4930, bet 4330, collected 4930, net +600
+neo_333 balance 15070, lost 600 (folded)
+
+***** Hand History for Game 5873595019 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32886016)  - Sat Apr 14 08:17:24 EDT 2007
+Table Speed 1330853 (Real Money) -- Seat 2 is the button
+Total number of players : 2
+Seat 1: Ellandroad2 (4930)
+Seat 2: neo_333 (15070)
+neo_333  posts small blind (300)
+Ellandroad2  posts big blind (600)
+** Dealing down cards **
+neo_333 raises (900) to 1200
+Ellandroad2 raises (4330) to 4930
+Ellandroad2 is all-In.
+neo_333 calls (3730)
+** Dealing Flop ** :  [ Ac, 3c, 4d ]
+** Dealing Turn ** :  [ 9h ]
+** Dealing River ** :  [ Ah ]
+Creating Main Pot with $9860 with Ellandroad2
+** Summary **
+Main Pot: 9860
+Board: [ Ac 3c 4d 9h Ah  ]
+
+Ellandroad2 balance 0, lost 4930 [ Qd Jh ] [ a pair of Aces -- Ac,Ah,Qd,Jh,9h ]
+neo_333 balance 20000, bet 4930, collected 9860, net +4930 [ 2d Kd ] [ a pair of Aces with King kicker -- Ac,Ah,Kd,9h,4dKd(kicker card) ]
+
+
+

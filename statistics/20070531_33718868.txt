@@ -1,0 +1,1722 @@
+
+Hello hatoka,
+These hand histories are provided to you as an aid for your training and development. You are not permitted to share them with anyone.  We reserve the right to cease providing them or apply further restrictions at any time.
+Complete hand histories are only available to players that participated in the hand.
+You requested a transcript of Tournament #33718868.
+
+Summary
+----------
+Played on    : 31 May 2007 02:23 PM
+On Table     : Speed #1329838
+Game Type    : Texas Holdem
+Buy-In       : $5
+Fee          : $1
+You finished in  position 4
+1st place - waftycranke -  $25
+2nd place - Reddott666 -  $15
+3rd place - francky218 -  $10
+
+***** Hand History for Game 6020335549 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33718868)  - Thu May 31 14:24:01 EDT 2007
+Table Speed 1329838 (Real Money) -- Seat 8 is the button
+Total number of players : 10
+Seat 1: BigMak07 (2000)
+Seat 2: freakboy25 (2000)
+Seat 3: waftycranke (2000)
+Seat 4: Reddott666 (2000)
+Seat 5: francky218 (2000)
+Seat 6: hatoka (2000)
+Seat 7: gewoon_dries (2000)
+Seat 8: effeleven (2000)
+Seat 9: Toogjes (2000)
+Seat 10: oldieoneuk (2000)
+Toogjes  posts small blind (20)
+oldieoneuk  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 3c, Td ]
+BigMak07 folds.
+freakboy25 folds.
+waftycranke folds.
+Reddott666 folds.
+francky218 raises (280) to 280
+hatoka folds.
+gewoon_dries folds.
+effeleven folds.
+Toogjes folds.
+oldieoneuk calls (240)
+** Dealing Flop ** :  [ Ts, 6d, Qh ]
+oldieoneuk bets (120)
+francky218 calls (120)
+** Dealing Turn ** :  [ Qs ]
+oldieoneuk checks.
+francky218 bets (240)
+oldieoneuk calls (240)
+** Dealing River ** :  [ 8c ]
+oldieoneuk checks.
+francky218 bets (360)
+oldieoneuk calls (360)
+** Summary **
+Main Pot: 2020
+Board: [ Ts 6d Qh Qs 8c  ]
+
+BigMak07 balance 2000, didn't bet (folded)
+freakboy25 balance 2000, didn't bet (folded)
+waftycranke balance 2000, didn't bet (folded)
+Reddott666 balance 2000, didn't bet (folded)
+francky218 balance 3020, bet 1000, collected 2020, net +1020 [ Jc Jd ] [ two pairs, Queens and Jacks -- Qh,Qs,Jc,Jd,Ts ]
+hatoka balance 2000, didn't bet (folded)
+gewoon_dries balance 2000, didn't bet (folded)
+effeleven balance 2000, didn't bet (folded)
+Toogjes balance 1980, lost 20 (folded)
+oldieoneuk balance 1000, lost 1000 [ Jh 8h ] [ two pairs, Queens and Eights -- Qh,Qs,Jh,8h,8c ]
+
+
+***** Hand History for Game 6020338875 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33718868)  - Thu May 31 14:24:59 EDT 2007
+Table Speed 1329838 (Real Money) -- Seat 9 is the button
+Total number of players : 10
+Seat 1: BigMak07 (2000)
+Seat 2: freakboy25 (2000)
+Seat 3: waftycranke (2000)
+Seat 4: Reddott666 (2000)
+Seat 5: francky218 (3020)
+Seat 6: hatoka (2000)
+Seat 7: gewoon_dries (2000)
+Seat 8: effeleven (2000)
+Seat 9: Toogjes (1980)
+Seat 10: oldieoneuk (1000)
+oldieoneuk  posts small blind (20)
+BigMak07  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 9c, 8d ]
+freakboy25 folds.
+waftycranke folds.
+Reddott666 folds.
+francky218 folds.
+hatoka folds.
+gewoon_dries folds.
+effeleven calls (40)
+Toogjes folds.
+oldieoneuk calls (20)
+BigMak07 folds.
+** Dealing Flop ** :  [ 3h, Ks, 2h ]
+oldieoneuk checks.
+effeleven bets (40)
+oldieoneuk folds.
+** Summary **
+Main Pot: 120
+Board: [ 3h Ks 2h  ]
+
+BigMak07 balance 1960, lost 40 (folded)
+freakboy25 balance 2000, didn't bet (folded)
+waftycranke balance 2000, didn't bet (folded)
+Reddott666 balance 2000, didn't bet (folded)
+francky218 balance 3020, didn't bet (folded)
+hatoka balance 2000, didn't bet (folded)
+gewoon_dries balance 2000, didn't bet (folded)
+effeleven balance 2080, bet 80, collected 160, net +80
+Toogjes balance 1980, didn't bet (folded)
+oldieoneuk balance 960, lost 40 (folded)
+
+***** Hand History for Game 6020341563 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33718868)  - Thu May 31 14:25:42 EDT 2007
+Table Speed 1329838 (Real Money) -- Seat 10 is the button
+Total number of players : 10
+Seat 1: BigMak07 (1960)
+Seat 2: freakboy25 (2000)
+Seat 3: waftycranke (2000)
+Seat 4: Reddott666 (2000)
+Seat 5: francky218 (3020)
+Seat 6: hatoka (2000)
+Seat 7: gewoon_dries (2000)
+Seat 8: effeleven (2080)
+Seat 9: Toogjes (1980)
+Seat 10: oldieoneuk (960)
+BigMak07  posts small blind (20)
+freakboy25  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 6c, Jd ]
+waftycranke folds.
+Reddott666 calls (40)
+francky218 folds.
+hatoka folds.
+gewoon_dries folds.
+effeleven could not respond in time.(disconnected)
+effeleven folds.
+Toogjes folds.
+oldieoneuk raises (180) to 180
+BigMak07 folds.
+freakboy25 folds.
+Reddott666 calls (140)
+** Dealing Flop ** :  [ 9c, 7h, 7c ]
+Reddott666 checks.
+oldieoneuk bets (120)
+Reddott666 calls (120)
+** Dealing Turn ** :  [ 5c ]
+Reddott666 checks.
+oldieoneuk checks.
+** Dealing River ** :  [ Kh ]
+Reddott666 bets (1700)
+Reddott666 is all-In.
+oldieoneuk folds.
+Creating Main Pot with $660 with Reddott666
+** Summary **
+Main Pot: 660
+Board: [ 9c 7h 7c 5c Kh  ]
+
+BigMak07 balance 1940, lost 20 (folded)
+freakboy25 balance 1960, lost 40 (folded)
+waftycranke balance 2000, didn't bet (folded)
+Reddott666 balance 2360, bet 2000, collected 2360, net +360
+francky218 balance 3020, didn't bet (folded)
+hatoka balance 2000, didn't bet (folded)
+gewoon_dries balance 2000, didn't bet (folded)
+effeleven balance 2080, didn't bet (folded)
+Toogjes balance 1980, didn't bet (folded)
+oldieoneuk balance 660, lost 300 (folded)
+
+***** Hand History for Game 6020345627 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33718868)  - Thu May 31 14:26:48 EDT 2007
+Table Speed 1329838 (Real Money) -- Seat 1 is the button
+Total number of players : 10
+Seat 1: BigMak07 (1940)
+Seat 2: freakboy25 (1960)
+Seat 3: waftycranke (2000)
+Seat 4: Reddott666 (2360)
+Seat 5: francky218 (3020)
+Seat 6: hatoka (2000)
+Seat 7: gewoon_dries (2000)
+Seat 8: effeleven (2080)
+Seat 9: Toogjes (1980)
+Seat 10: oldieoneuk (660)
+freakboy25  posts small blind (20)
+waftycranke  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 4s, Ad ]
+Reddott666 folds.
+francky218 folds.
+hatoka calls (40)
+gewoon_dries folds.
+effeleven raises (160) to 160
+Toogjes folds.
+oldieoneuk calls (160)
+BigMak07 folds.
+freakboy25 folds.
+waftycranke folds.
+hatoka folds.
+** Dealing Flop ** :  [ 9d, Ac, Tc ]
+effeleven bets (320)
+oldieoneuk calls (320)
+** Dealing Turn ** :  [ 3d ]
+effeleven bets (160)
+oldieoneuk calls (160)
+** Dealing River ** :  [ 8s ]
+effeleven bets (40)
+oldieoneuk folds.
+** Summary **
+Main Pot: 1380
+Board: [ 9d Ac Tc 3d 8s  ]
+
+BigMak07 balance 1940, didn't bet (folded)
+freakboy25 balance 1940, lost 20 (folded)
+waftycranke balance 1960, lost 40 (folded)
+Reddott666 balance 2360, didn't bet (folded)
+francky218 balance 3020, didn't bet (folded)
+hatoka balance 1960, lost 40 (folded)
+gewoon_dries balance 2000, didn't bet (folded)
+effeleven balance 2820, bet 680, collected 1420, net +740
+Toogjes balance 1980, didn't bet (folded)
+oldieoneuk balance 20, lost 640 (folded)
+
+***** Hand History for Game 6020349837 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33718868)  - Thu May 31 14:27:57 EDT 2007
+Table Speed 1329838 (Real Money) -- Seat 2 is the button
+Total number of players : 10
+Seat 1: BigMak07 (1940)
+Seat 2: freakboy25 (1940)
+Seat 3: waftycranke (1960)
+Seat 4: Reddott666 (2360)
+Seat 5: francky218 (3020)
+Seat 6: hatoka (1960)
+Seat 7: gewoon_dries (2000)
+Seat 8: effeleven (2820)
+Seat 9: Toogjes (1980)
+Seat 10: oldieoneuk (20)
+waftycranke  posts small blind (20)
+Reddott666  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 5s, Td ]
+francky218 calls (40)
+hatoka folds.
+gewoon_dries calls (40)
+effeleven folds.
+Toogjes folds.
+oldieoneuk calls (20)
+oldieoneuk is all-In.
+BigMak07 folds.
+freakboy25 folds.
+waftycranke raises (60) to 80
+Reddott666 calls (40)
+francky218 calls (40)
+gewoon_dries calls (40)
+Creating Main Pot with $100 with oldieoneuk
+** Dealing Flop ** :  [ Jd, 2d, Qc ]
+waftycranke checks.
+Reddott666 checks.
+francky218 bets (160)
+gewoon_dries raises (415) to 415
+waftycranke folds.
+Reddott666 folds.
+francky218 folds.
+** Dealing Turn ** :  [ Ts ]
+** Dealing River ** :  [ 9c ]
+** Summary **
+Main Pot: 100 | Side Pot 1: 560
+Board: [ Jd 2d Qc Ts 9c  ]
+
+BigMak07 balance 1940, didn't bet (folded)
+freakboy25 balance 1940, didn't bet (folded)
+waftycranke balance 1880, lost 80 (folded)
+Reddott666 balance 2280, lost 80 (folded)
+francky218 balance 2780, lost 240 (folded)
+hatoka balance 1960, didn't bet (folded)
+gewoon_dries balance 2420, bet 495, collected 915, net +420 [ Js Qh ] [ two pairs, Queens and Jacks -- Qh,Qc,Js,Jd,Ts ]
+effeleven balance 2820, didn't bet (folded)
+Toogjes balance 1980, didn't bet (folded)
+oldieoneuk balance 0, lost 20 [ 2h Th ] [ two pairs, Tens and Twos -- Qc,Th,Ts,2h,2d ]
+
+***** Hand History for Game 6020353955 *****
+oldieoneuk finished in 10 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33718868)  - Thu May 31 14:29:05 EDT 2007
+Table Speed 1329838 (Real Money) -- Seat 3 is the button
+Total number of players : 9
+Seat 1: BigMak07 (1940)
+Seat 2: freakboy25 (1940)
+Seat 3: waftycranke (1880)
+Seat 4: Reddott666 (2280)
+Seat 5: francky218 (2780)
+Seat 6: hatoka (1960)
+Seat 7: gewoon_dries (2420)
+Seat 8: effeleven (2820)
+Seat 9: Toogjes (1980)
+Reddott666  posts small blind (30)
+francky218  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 8h, 5h ]
+hatoka folds.
+gewoon_dries calls (60)
+effeleven folds.
+Toogjes folds.
+BigMak07 raises (120) to 120
+freakboy25 folds.
+waftycranke folds.
+Reddott666 folds.
+francky218 calls (60)
+gewoon_dries calls (60)
+** Dealing Flop ** :  [ 3h, 7s, 6s ]
+francky218 bets (180)
+gewoon_dries folds.
+BigMak07 folds.
+** Summary **
+Main Pot: 390
+Board: [ 3h 7s 6s  ]
+
+BigMak07 balance 1820, lost 120 (folded)
+freakboy25 balance 1940, didn't bet (folded)
+waftycranke balance 1880, didn't bet (folded)
+Reddott666 balance 2250, lost 30 (folded)
+francky218 balance 3050, bet 300, collected 570, net +270
+hatoka balance 1960, didn't bet (folded)
+gewoon_dries balance 2300, lost 120 (folded)
+effeleven balance 2820, didn't bet (folded)
+Toogjes balance 1980, didn't bet (folded)
+
+***** Hand History for Game 6020357092 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33718868)  - Thu May 31 14:29:56 EDT 2007
+Table Speed 1329838 (Real Money) -- Seat 4 is the button
+Total number of players : 9
+Seat 1: BigMak07 (1820)
+Seat 2: freakboy25 (1940)
+Seat 3: waftycranke (1880)
+Seat 4: Reddott666 (2250)
+Seat 5: francky218 (3050)
+Seat 6: hatoka (1960)
+Seat 7: gewoon_dries (2300)
+Seat 8: effeleven (2820)
+Seat 9: Toogjes (1980)
+francky218  posts small blind (30)
+hatoka  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 9s, 9c ]
+gewoon_dries folds.
+effeleven calls (60)
+Toogjes folds.
+BigMak07 folds.
+freakboy25 folds.
+waftycranke folds.
+Reddott666 folds.
+francky218 calls (30)
+hatoka raises (120) to 180
+effeleven calls (120)
+francky218 calls (120)
+** Dealing Flop ** :  [ 3h, 9h, 3c ]
+francky218 checks.
+hatoka checks.
+effeleven checks.
+** Dealing Turn ** :  [ Th ]
+francky218 bets (180)
+hatoka raises (500) to 500
+effeleven folds.
+francky218 folds.
+** Summary **
+Main Pot: 900
+Board: [ 3h 9h 3c Th  ]
+
+BigMak07 balance 1820, didn't bet (folded)
+freakboy25 balance 1940, didn't bet (folded)
+waftycranke balance 1880, didn't bet (folded)
+Reddott666 balance 2250, didn't bet (folded)
+francky218 balance 2690, lost 360 (folded)
+hatoka balance 2500, bet 680, collected 1220, net +540
+gewoon_dries balance 2300, didn't bet (folded)
+effeleven balance 2640, lost 180 (folded)
+Toogjes balance 1980, didn't bet (folded)
+
+***** Hand History for Game 6020361516 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33718868)  - Thu May 31 14:31:11 EDT 2007
+Table Speed 1329838 (Real Money) -- Seat 5 is the button
+Total number of players : 9
+Seat 1: BigMak07 (1820)
+Seat 2: freakboy25 (1940)
+Seat 3: waftycranke (1880)
+Seat 4: Reddott666 (2250)
+Seat 5: francky218 (2690)
+Seat 6: hatoka (2500)
+Seat 7: gewoon_dries (2300)
+Seat 8: effeleven (2640)
+Seat 9: Toogjes (1980)
+hatoka  posts small blind (30)
+gewoon_dries  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Ac, 2d ]
+effeleven calls (60)
+Toogjes folds.
+BigMak07 folds.
+freakboy25 folds.
+waftycranke folds.
+Reddott666 folds.
+francky218 folds.
+hatoka calls (30)
+gewoon_dries folds.
+** Dealing Flop ** :  [ 8h, 8s, 5d ]
+hatoka checks.
+effeleven bets (120)
+hatoka folds.
+** Summary **
+Main Pot: 180
+Board: [ 8h 8s 5d  ]
+
+BigMak07 balance 1820, didn't bet (folded)
+freakboy25 balance 1940, didn't bet (folded)
+waftycranke balance 1880, didn't bet (folded)
+Reddott666 balance 2250, didn't bet (folded)
+francky218 balance 2690, didn't bet (folded)
+hatoka balance 2440, lost 60 (folded)
+gewoon_dries balance 2240, lost 60 (folded)
+effeleven balance 2760, bet 180, collected 300, net +120
+Toogjes balance 1980, didn't bet (folded)
+
+***** Hand History for Game 6020363106 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33718868)  - Thu May 31 14:31:37 EDT 2007
+Table Speed 1329838 (Real Money) -- Seat 6 is the button
+Total number of players : 9
+Seat 1: BigMak07 (1820)
+Seat 2: freakboy25 (1940)
+Seat 3: waftycranke (1880)
+Seat 4: Reddott666 (2250)
+Seat 5: francky218 (2690)
+Seat 6: hatoka (2440)
+Seat 7: gewoon_dries (2240)
+Seat 8: effeleven (2760)
+Seat 9: Toogjes (1980)
+gewoon_dries  posts small blind (30)
+effeleven  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 3h, 2c ]
+Toogjes folds.
+BigMak07 folds.
+freakboy25 folds.
+waftycranke folds.
+Reddott666 folds.
+francky218 folds.
+hatoka folds.
+gewoon_dries folds.
+** Summary **
+Main Pot: 60
+
+BigMak07 balance 1820, didn't bet (folded)
+freakboy25 balance 1940, didn't bet (folded)
+waftycranke balance 1880, didn't bet (folded)
+Reddott666 balance 2250, didn't bet (folded)
+francky218 balance 2690, didn't bet (folded)
+hatoka balance 2440, didn't bet (folded)
+gewoon_dries balance 2210, lost 30 (folded)
+effeleven balance 2790, bet 60, collected 90, net +30
+Toogjes balance 1980, didn't bet (folded)
+
+***** Hand History for Game 6020364427 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33718868)  - Thu May 31 14:31:59 EDT 2007
+Table Speed 1329838 (Real Money) -- Seat 7 is the button
+Total number of players : 9
+Seat 1: BigMak07 (1820)
+Seat 2: freakboy25 (1940)
+Seat 3: waftycranke (1880)
+Seat 4: Reddott666 (2250)
+Seat 5: francky218 (2690)
+Seat 6: hatoka (2440)
+Seat 7: gewoon_dries (2210)
+Seat 8: effeleven (2790)
+Seat 9: Toogjes (1980)
+effeleven  posts small blind (30)
+Toogjes  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ As, 7h ]
+BigMak07 folds.
+freakboy25 folds.
+waftycranke folds.
+Reddott666 folds.
+francky218 folds.
+hatoka raises (180) to 180
+gewoon_dries calls (180)
+effeleven folds.
+Toogjes folds.
+** Dealing Flop ** :  [ 7d, 3c, 8d ]
+hatoka bets (500)
+gewoon_dries calls (500)
+** Dealing Turn ** :  [ 4c ]
+hatoka bets (600)
+gewoon_dries folds.
+** Summary **
+Main Pot: 1450
+Board: [ 7d 3c 8d 4c  ]
+
+BigMak07 balance 1820, didn't bet (folded)
+freakboy25 balance 1940, didn't bet (folded)
+waftycranke balance 1880, didn't bet (folded)
+Reddott666 balance 2250, didn't bet (folded)
+francky218 balance 2690, didn't bet (folded)
+hatoka balance 3210, bet 1280, collected 2050, net +770
+gewoon_dries balance 1530, lost 680 (folded)
+effeleven balance 2760, lost 30 (folded)
+Toogjes balance 1920, lost 60 (folded)
+
+***** Hand History for Game 6020368255 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33718868)  - Thu May 31 14:33:03 EDT 2007
+Table Speed 1329838 (Real Money) -- Seat 8 is the button
+Total number of players : 9
+Seat 1: BigMak07 (1820)
+Seat 2: freakboy25 (1940)
+Seat 3: waftycranke (1880)
+Seat 4: Reddott666 (2250)
+Seat 5: francky218 (2690)
+Seat 6: hatoka (3210)
+Seat 7: gewoon_dries (1530)
+Seat 8: effeleven (2760)
+Seat 9: Toogjes (1920)
+Toogjes  posts small blind (30)
+BigMak07  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 4s, 5d ]
+freakboy25 folds.
+waftycranke calls (60)
+Reddott666 raises (300) to 300
+francky218 folds.
+hatoka folds.
+gewoon_dries folds.
+effeleven raises (600) to 600
+Toogjes folds.
+BigMak07 folds.
+waftycranke folds.
+Reddott666 calls (300)
+** Dealing Flop ** :  [ 3d, Ks, 3s ]
+Reddott666 checks.
+effeleven bets (780)
+Reddott666 calls (780)
+** Dealing Turn ** :  [ 3h ]
+Reddott666 bets (870)
+Reddott666 is all-In.
+effeleven calls (870)
+** Dealing River ** :  [ 8d ]
+Creating Main Pot with $4650 with Reddott666
+** Summary **
+Main Pot: 4650
+Board: [ 3d Ks 3s 3h 8d  ]
+
+BigMak07 balance 1760, lost 60 (folded)
+freakboy25 balance 1940, didn't bet (folded)
+waftycranke balance 1820, lost 60 (folded)
+Reddott666 balance 4650, bet 2250, collected 4650, net +2400 [ Kh Kc ] [ a full house, Kings full of Threes -- Kh,Kc,Ks,3d,3s,3h ]
+francky218 balance 2690, didn't bet (folded)
+hatoka balance 3210, didn't bet (folded)
+gewoon_dries balance 1530, didn't bet (folded)
+effeleven balance 510, lost 2250 [ Qs Qh ] [ a full house, Threes full of Queens -- Qs,Qh,3d,3s,3h ]
+Toogjes balance 1890, lost 30 (folded)
+
+***** Hand History for Game 6020371522 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33718868)  - Thu May 31 14:33:57 EDT 2007
+Table Speed 1329838 (Real Money) -- Seat 9 is the button
+Total number of players : 9
+Seat 1: BigMak07 (1760)
+Seat 2: freakboy25 (1940)
+Seat 3: waftycranke (1820)
+Seat 4: Reddott666 (4650)
+Seat 5: francky218 (2690)
+Seat 6: hatoka (3210)
+Seat 7: gewoon_dries (1530)
+Seat 8: effeleven (510)
+Seat 9: Toogjes (1890)
+BigMak07  posts small blind (30)
+freakboy25  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Ac, 5d ]
+waftycranke calls (60)
+Reddott666 folds.
+francky218 folds.
+hatoka folds.
+gewoon_dries folds.
+effeleven folds.
+Toogjes calls (60)
+BigMak07 calls (30)
+freakboy25 checks.
+** Dealing Flop ** :  [ Kd, 2c, 7d ]
+BigMak07 checks.
+freakboy25 checks.
+waftycranke checks.
+Toogjes bets (200)
+BigMak07 folds.
+freakboy25 folds.
+waftycranke calls (200)
+** Dealing Turn ** :  [ 2s ]
+waftycranke checks.
+Toogjes bets (400)
+waftycranke calls (400)
+** Dealing River ** :  [ Tc ]
+waftycranke checks.
+Toogjes checks.
+** Summary **
+Main Pot: 1440
+Board: [ Kd 2c 7d 2s Tc  ]
+
+BigMak07 balance 1700, lost 60 (folded)
+freakboy25 balance 1880, lost 60 (folded)
+waftycranke balance 2600, bet 660, collected 1440, net +780 [ 7s Ad ] [ two pairs, Sevens and Twos -- Ad,7s,7d,2c,2s ]
+Reddott666 balance 4650, didn't bet (folded)
+francky218 balance 2690, didn't bet (folded)
+hatoka balance 3210, didn't bet (folded)
+gewoon_dries balance 1530, didn't bet (folded)
+effeleven balance 510, didn't bet (folded)
+Toogjes balance 1230, lost 660 [ Jd Ah ] [ a pair of Twos -- Ah,Kd,Jd,2c,2s ]
+
+
+***** Hand History for Game 6020376023 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33718868)  - Thu May 31 14:35:12 EDT 2007
+Table Speed 1329838 (Real Money) -- Seat 1 is the button
+Total number of players : 9
+Seat 1: BigMak07 (1700)
+Seat 2: freakboy25 (1880)
+Seat 3: waftycranke (2600)
+Seat 4: Reddott666 (4650)
+Seat 5: francky218 (2690)
+Seat 6: hatoka (3210)
+Seat 7: gewoon_dries (1530)
+Seat 8: effeleven (510)
+Seat 9: Toogjes (1230)
+freakboy25  posts small blind (50)
+waftycranke  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Kd, Td ]
+Reddott666 folds.
+francky218 folds.
+hatoka raises (300) to 300
+gewoon_dries folds.
+effeleven folds.
+Toogjes folds.
+BigMak07 folds.
+freakboy25 folds.
+waftycranke folds.
+** Summary **
+Main Pot: 250
+
+BigMak07 balance 1700, didn't bet (folded)
+freakboy25 balance 1830, lost 50 (folded)
+waftycranke balance 2500, lost 100 (folded)
+Reddott666 balance 4650, didn't bet (folded)
+francky218 balance 2690, didn't bet (folded)
+hatoka balance 3360, bet 300, collected 450, net +150
+gewoon_dries balance 1530, didn't bet (folded)
+effeleven balance 510, didn't bet (folded)
+Toogjes balance 1230, didn't bet (folded)
+
+***** Hand History for Game 6020377239 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33718868)  - Thu May 31 14:35:32 EDT 2007
+Table Speed 1329838 (Real Money) -- Seat 2 is the button
+Total number of players : 9
+Seat 1: BigMak07 (1700)
+Seat 2: freakboy25 (1830)
+Seat 3: waftycranke (2500)
+Seat 4: Reddott666 (4650)
+Seat 5: francky218 (2690)
+Seat 6: hatoka (3360)
+Seat 7: gewoon_dries (1530)
+Seat 8: effeleven (510)
+Seat 9: Toogjes (1230)
+waftycranke  posts small blind (50)
+Reddott666  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 7d, 8c ]
+francky218 folds.
+hatoka folds.
+gewoon_dries calls (100)
+effeleven folds.
+Toogjes folds.
+BigMak07 folds.
+freakboy25 folds.
+waftycranke raises (150) to 200
+Reddott666 folds.
+gewoon_dries calls (100)
+** Dealing Flop ** :  [ 9s, 5h, Qh ]
+waftycranke bets (800)
+gewoon_dries calls (800)
+** Dealing Turn ** :  [ 3d ]
+waftycranke bets (900)
+gewoon_dries calls (530)
+gewoon_dries is all-In.
+** Dealing River ** :  [ Jd ]
+Creating Main Pot with $3160 with gewoon_dries
+** Summary **
+Main Pot: 3160
+Board: [ 9s 5h Qh 3d Jd  ]
+
+BigMak07 balance 1700, didn't bet (folded)
+freakboy25 balance 1830, didn't bet (folded)
+waftycranke balance 4130, bet 1900, collected 3530, net +1630 [ Qc Jc ] [ two pairs, Queens and Jacks -- Qc,Qh,Jc,Jd,9s ]
+Reddott666 balance 4550, lost 100 (folded)
+francky218 balance 2690, didn't bet (folded)
+hatoka balance 3360, didn't bet (folded)
+gewoon_dries balance 0, lost 1530 [ Qd 6d ] [ a pair of Queens -- Qd,Qh,Jd,9s,6d ]
+effeleven balance 510, didn't bet (folded)
+Toogjes balance 1230, didn't bet (folded)
+
+***** Hand History for Game 6020380427 *****
+gewoon_dries finished in 9 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33718868)  - Thu May 31 14:36:26 EDT 2007
+Table Speed 1329838 (Real Money) -- Seat 3 is the button
+Total number of players : 8
+Seat 1: BigMak07 (1700)
+Seat 2: freakboy25 (1830)
+Seat 3: waftycranke (4130)
+Seat 4: Reddott666 (4550)
+Seat 5: francky218 (2690)
+Seat 6: hatoka (3360)
+Seat 8: effeleven (510)
+Seat 9: Toogjes (1230)
+Reddott666  posts small blind (50)
+francky218  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 4s, 9s ]
+hatoka folds.
+effeleven folds.
+Toogjes folds.
+BigMak07 folds.
+freakboy25 folds.
+waftycranke raises (200) to 200
+Reddott666 folds.
+francky218 calls (100)
+** Dealing Flop ** :  [ Ts, Kc, Ks ]
+francky218 checks.
+waftycranke checks.
+** Dealing Turn ** :  [ Jc ]
+francky218 checks.
+waftycranke checks.
+** Dealing River ** :  [ 7s ]
+francky218 checks.
+waftycranke checks.
+** Summary **
+Main Pot: 450
+Board: [ Ts Kc Ks Jc 7s  ]
+
+BigMak07 balance 1700, didn't bet (folded)
+freakboy25 balance 1830, didn't bet (folded)
+waftycranke balance 4380, bet 200, collected 450, net +250 [ 7d Ad ] [ two pairs, Kings and Sevens -- Ad,Kc,Ks,7d,7s ]
+Reddott666 balance 4500, lost 50 (folded)
+francky218 balance 2490, lost 200 [ 2c 3d ] [ a pair of Kings -- Kc,Ks,Jc,Ts,7s ]
+hatoka balance 3360, didn't bet (folded)
+effeleven balance 510, didn't bet (folded)
+Toogjes balance 1230, didn't bet (folded)
+
+***** Hand History for Game 6020383111 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33718868)  - Thu May 31 14:37:12 EDT 2007
+Table Speed 1329838 (Real Money) -- Seat 4 is the button
+Total number of players : 8
+Seat 1: BigMak07 (1700)
+Seat 2: freakboy25 (1830)
+Seat 3: waftycranke (4380)
+Seat 4: Reddott666 (4500)
+Seat 5: francky218 (2490)
+Seat 6: hatoka (3360)
+Seat 8: effeleven (510)
+Seat 9: Toogjes (1230)
+francky218  posts small blind (50)
+hatoka  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 5d, 7c ]
+effeleven raises (510) to 510
+effeleven is all-In.
+Toogjes folds.
+BigMak07 folds.
+freakboy25 raises (1830) to 1830
+freakboy25 is all-In.
+waftycranke raises (3150) to 3150
+Reddott666 folds.
+francky218 folds.
+hatoka folds.
+** Dealing Flop ** :  [ 5c, 9d, Td ]
+** Dealing Turn ** :  [ Ah ]
+** Dealing River ** :  [ 4d ]
+Creating Main Pot with $1680 with effeleven
+Creating Side Pot 1 with $2640 with freakboy25
+** Summary **
+Main Pot: 1680 | Side Pot 1: 2640
+Board: [ 5c 9d Td Ah 4d  ]
+
+BigMak07 balance 1700, didn't bet (folded)
+freakboy25 balance 0, lost 1830 [ Kd Kc ] [ a pair of Kings -- Ah,Kd,Kc,Td,9d ]
+waftycranke balance 6870, bet 3150, collected 5640, net +2490 [ Qd Ad ] [ a flush, Ace high -- Ad,Qd,Td,9d,4d ]
+Reddott666 balance 4500, didn't bet (folded)
+francky218 balance 2440, lost 50 (folded)
+hatoka balance 3260, lost 100 (folded)
+effeleven balance 0, lost 510 [ 7h 7s ] [ a pair of Sevens -- Ah,Td,9d,7h,7s ]
+Toogjes balance 1230, didn't bet (folded)
+
+***** Hand History for Game 6020384749 *****
+effeleven finished in 8 place.
+freakboy25 finished in 7 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33718868)  - Thu May 31 14:37:39 EDT 2007
+Table Speed 1329838 (Real Money) -- Seat 5 is the button
+Total number of players : 6
+Seat 1: BigMak07 (1700)
+Seat 3: waftycranke (6870)
+Seat 4: Reddott666 (4500)
+Seat 5: francky218 (2440)
+Seat 6: hatoka (3260)
+Seat 9: Toogjes (1230)
+hatoka  posts small blind (50)
+Toogjes  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Jh, 7d ]
+BigMak07 folds.
+waftycranke folds.
+Reddott666 folds.
+francky218 folds.
+hatoka raises (150) to 200
+Toogjes folds.
+** Summary **
+Main Pot: 200
+
+BigMak07 balance 1700, didn't bet (folded)
+waftycranke balance 6870, didn't bet (folded)
+Reddott666 balance 4500, didn't bet (folded)
+francky218 balance 2440, didn't bet (folded)
+hatoka balance 3360, bet 200, collected 300, net +100
+Toogjes balance 1130, lost 100 (folded)
+
+***** Hand History for Game 6020386273 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33718868)  - Thu May 31 14:38:05 EDT 2007
+Table Speed 1329838 (Real Money) -- Seat 6 is the button
+Total number of players : 6
+Seat 1: BigMak07 (1700)
+Seat 3: waftycranke (6870)
+Seat 4: Reddott666 (4500)
+Seat 5: francky218 (2440)
+Seat 6: hatoka (3360)
+Seat 9: Toogjes (1130)
+Toogjes  posts small blind (50)
+BigMak07  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 8d, Qc ]
+waftycranke folds.
+Reddott666 folds.
+francky218 folds.
+hatoka folds.
+Toogjes calls (50)
+BigMak07 raises (1600) to 1700
+BigMak07 is all-In.
+Toogjes calls (1030)
+Toogjes is all-In.
+** Dealing Flop ** :  [ Td, 3h, 8h ]
+** Dealing Turn ** :  [ 7c ]
+** Dealing River ** :  [ 9s ]
+Creating Main Pot with $2260 with Toogjes
+** Summary **
+Main Pot: 2260
+Board: [ Td 3h 8h 7c 9s  ]
+
+BigMak07 balance 2830, bet 1700, collected 2830, net +1130 [ 6s Jh ] [ a straight Seven to Jack -- Jh,Td,9s,8h,7c ]
+waftycranke balance 6870, didn't bet (folded)
+Reddott666 balance 4500, didn't bet (folded)
+francky218 balance 2440, didn't bet (folded)
+hatoka balance 3360, didn't bet (folded)
+Toogjes balance 0, lost 1130 [ Ac Qh ] [ high card Ace -- Ac,Qh,Td,9s,8h ]
+
+***** Hand History for Game 6020387774 *****
+Toogjes finished in 6 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33718868)  - Thu May 31 14:38:30 EDT 2007
+Table Speed 1329838 (Real Money) -- Seat 6 is the button
+Total number of players : 5
+Seat 1: BigMak07 (2830)
+Seat 3: waftycranke (6870)
+Seat 4: Reddott666 (4500)
+Seat 5: francky218 (2440)
+Seat 6: hatoka (3360)
+BigMak07  posts small blind (50)
+waftycranke  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Jh, Js ]
+Reddott666 folds.
+francky218 folds.
+hatoka raises (300) to 300
+BigMak07 folds.
+waftycranke folds.
+** Summary **
+Main Pot: 250
+
+BigMak07 balance 2780, lost 50 (folded)
+waftycranke balance 6770, lost 100 (folded)
+Reddott666 balance 4500, didn't bet (folded)
+francky218 balance 2440, didn't bet (folded)
+hatoka balance 3510, bet 300, collected 450, net +150
+
+***** Hand History for Game 6020388865 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33718868)  - Thu May 31 14:38:49 EDT 2007
+Table Speed 1329838 (Real Money) -- Seat 1 is the button
+Total number of players : 5
+Seat 1: BigMak07 (2780)
+Seat 3: waftycranke (6770)
+Seat 4: Reddott666 (4500)
+Seat 5: francky218 (2440)
+Seat 6: hatoka (3510)
+waftycranke  posts small blind (50)
+Reddott666  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Td, Jh ]
+francky218 folds.
+hatoka raises (200) to 200
+BigMak07 folds.
+waftycranke calls (150)
+Reddott666 folds.
+** Dealing Flop ** :  [ 5s, Kd, 4c ]
+waftycranke checks.
+hatoka checks.
+** Dealing Turn ** :  [ 9c ]
+waftycranke bets (1400)
+hatoka folds.
+** Summary **
+Main Pot: 500
+Board: [ 5s Kd 4c 9c  ]
+
+BigMak07 balance 2780, didn't bet (folded)
+waftycranke balance 7070, bet 1600, collected 1900, net +300
+Reddott666 balance 4400, lost 100 (folded)
+francky218 balance 2440, didn't bet (folded)
+hatoka balance 3310, lost 200 (folded)
+
+***** Hand History for Game 6020391827 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33718868)  - Thu May 31 14:39:39 EDT 2007
+Table Speed 1329838 (Real Money) -- Seat 3 is the button
+Total number of players : 5
+Seat 1: BigMak07 (2780)
+Seat 3: waftycranke (7070)
+Seat 4: Reddott666 (4400)
+Seat 5: francky218 (2440)
+Seat 6: hatoka (3310)
+Reddott666  posts small blind (50)
+francky218  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Kh, Qs ]
+hatoka raises (200) to 200
+BigMak07 raises (2780) to 2780
+BigMak07 is all-In.
+waftycranke folds.
+Reddott666 folds.
+francky218 folds.
+hatoka folds.
+Creating Main Pot with $550 with BigMak07
+** Summary **
+Main Pot: 550
+
+BigMak07 balance 3130, bet 2780, collected 3130, net +350
+waftycranke balance 7070, didn't bet (folded)
+Reddott666 balance 4350, lost 50 (folded)
+francky218 balance 2340, lost 100 (folded)
+hatoka balance 3110, lost 200 (folded)
+
+***** Hand History for Game 6020393187 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33718868)  - Thu May 31 14:40:02 EDT 2007
+Table Speed 1329838 (Real Money) -- Seat 4 is the button
+Total number of players : 5
+Seat 1: BigMak07 (3130)
+Seat 3: waftycranke (7070)
+Seat 4: Reddott666 (4350)
+Seat 5: francky218 (2340)
+Seat 6: hatoka (3110)
+francky218  posts small blind (50)
+hatoka  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Js, Tc ]
+BigMak07 raises (200) to 200
+waftycranke raises (7070) to 7070
+waftycranke is all-In.
+Reddott666 folds.
+francky218 folds.
+hatoka folds.
+BigMak07 folds.
+Creating Main Pot with $550 with waftycranke
+** Summary **
+Main Pot: 550
+
+BigMak07 balance 2930, lost 200 (folded)
+waftycranke balance 7420, bet 7070, collected 7420, net +350
+Reddott666 balance 4350, didn't bet (folded)
+francky218 balance 2290, lost 50 (folded)
+hatoka balance 3010, lost 100 (folded)
+
+***** Hand History for Game 6020394604 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33718868)  - Thu May 31 14:40:26 EDT 2007
+Table Speed 1329838 (Real Money) -- Seat 5 is the button
+Total number of players : 5
+Seat 1: BigMak07 (2930)
+Seat 3: waftycranke (7420)
+Seat 4: Reddott666 (4350)
+Seat 5: francky218 (2290)
+Seat 6: hatoka (3010)
+hatoka  posts small blind (100)
+BigMak07  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Ts, 6c ]
+waftycranke raises (400) to 400
+Reddott666 folds.
+francky218 folds.
+hatoka folds.
+BigMak07 raises (2730) to 2930
+BigMak07 is all-In.
+waftycranke calls (2530)
+** Dealing Flop ** :  [ 4h, 4s, Th ]
+** Dealing Turn ** :  [ 8d ]
+** Dealing River ** :  [ Jd ]
+Creating Main Pot with $5960 with BigMak07
+** Summary **
+Main Pot: 5960
+Board: [ 4h 4s Th 8d Jd  ]
+
+BigMak07 balance 0, lost 2930 [ Ad Qh ] [ a pair of Fours -- Ad,Qh,Jd,4h,4s ]
+waftycranke balance 10450, bet 2930, collected 5960, net +3030 [ 6d 6s ] [ two pairs, Sixes and Fours -- Jd,6d,6s,4h,4s ]
+Reddott666 balance 4350, didn't bet (folded)
+francky218 balance 2290, didn't bet (folded)
+hatoka balance 2910, lost 100 (folded)
+
+***** Hand History for Game 6020396195 *****
+BigMak07 finished in 5 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33718868)  - Thu May 31 14:40:53 EDT 2007
+Table Speed 1329838 (Real Money) -- Seat 6 is the button
+Total number of players : 4
+Seat 3: waftycranke (10450)
+Seat 4: Reddott666 (4350)
+Seat 5: francky218 (2290)
+Seat 6: hatoka (2910)
+waftycranke  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Ac, Qh ]
+Reddott666 folds.
+francky218 folds.
+hatoka raises (500) to 500
+waftycranke folds.
+** Summary **
+Main Pot: 400
+
+waftycranke balance 10250, lost 200 (folded)
+Reddott666 balance 4350, didn't bet (folded)
+francky218 balance 2290, didn't bet (folded)
+hatoka balance 3110, bet 500, collected 700, net +200
+
+***** Hand History for Game 6020397159 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33718868)  - Thu May 31 14:41:09 EDT 2007
+Table Speed 1329838 (Real Money) -- Seat 6 is the button
+Total number of players : 4
+Seat 3: waftycranke (10250)
+Seat 4: Reddott666 (4350)
+Seat 5: francky218 (2290)
+Seat 6: hatoka (3110)
+waftycranke  posts small blind (100)
+Reddott666  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 5s, 7h ]
+francky218 raises (400) to 400
+hatoka folds.
+waftycranke folds.
+Reddott666 folds.
+** Summary **
+Main Pot: 500
+
+waftycranke balance 10150, lost 100 (folded)
+Reddott666 balance 4150, lost 200 (folded)
+francky218 balance 2590, bet 400, collected 700, net +300 [ Ad Js ] [ high card Ace -- Ad,Js ]
+hatoka balance 3110, didn't bet (folded)
+
+***** Hand History for Game 6020398331 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33718868)  - Thu May 31 14:41:29 EDT 2007
+Table Speed 1329838 (Real Money) -- Seat 3 is the button
+Total number of players : 4
+Seat 3: waftycranke (10150)
+Seat 4: Reddott666 (4150)
+Seat 5: francky218 (2590)
+Seat 6: hatoka (3110)
+Reddott666  posts small blind (100)
+francky218  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Tc, 4h ]
+hatoka folds.
+waftycranke folds.
+Reddott666 folds.
+** Summary **
+Main Pot: 200
+
+waftycranke balance 10150, didn't bet (folded)
+Reddott666 balance 4050, lost 100 (folded)
+francky218 balance 2690, bet 200, collected 300, net +100
+hatoka balance 3110, didn't bet (folded)
+
+***** Hand History for Game 6020399883 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33718868)  - Thu May 31 14:41:54 EDT 2007
+Table Speed 1329838 (Real Money) -- Seat 4 is the button
+Total number of players : 4
+Seat 3: waftycranke (10150)
+Seat 4: Reddott666 (4050)
+Seat 5: francky218 (2690)
+Seat 6: hatoka (3110)
+francky218  posts small blind (100)
+hatoka  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Qs, Qc ]
+waftycranke raises (400) to 400
+Reddott666 folds.
+francky218 folds.
+hatoka raises (1000) to 1200
+waftycranke calls (800)
+** Dealing Flop ** :  [ 9h, Kd, Ks ]
+hatoka checks.
+waftycranke checks.
+** Dealing Turn ** :  [ 7h ]
+hatoka bets (1000)
+waftycranke raises (2000) to 2000
+hatoka calls (910)
+hatoka is all-In.
+** Dealing River ** :  [ 3h ]
+Creating Main Pot with $6320 with hatoka
+** Summary **
+Main Pot: 6320
+Board: [ 9h Kd Ks 7h 3h  ]
+
+waftycranke balance 13360, bet 3200, collected 6410, net +3210 [ Kh Qd ] [ three of a kind, Kings -- Kh,Kd,Ks,Qd,9h ]
+Reddott666 balance 4050, didn't bet (folded)
+francky218 balance 2590, lost 100 (folded)
+hatoka balance 0, lost 3110 [ Qs Qc ] [ two pairs, Kings and Queens -- Kd,Ks,Qs,Qc,9h ]
+
+***** Hand History for Game 6020402647 *****
+hatoka finished in 4 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33718868)  - Thu May 31 14:42:42 EDT 2007
+Table Speed 1329838 (Real Money) -- Seat 5 is the button
+Total number of players : 3
+Seat 3: waftycranke (13360)
+Seat 4: Reddott666 (4050)
+Seat 5: francky218 (2590)
+waftycranke  posts big blind (200)
+** Dealing down cards **
+Reddott666 folds.
+francky218 folds.
+** Summary **
+Main Pot: 200
+
+waftycranke balance 13360, bet 200, collected 200, net +0
+Reddott666 balance 4050, didn't bet (folded)
+francky218 balance 2590, didn't bet (folded)
+
+***** Hand History for Game 6020403304 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33718868)  - Thu May 31 14:42:52 EDT 2007
+Table Speed 1329838 (Real Money) -- Seat 5 is the button
+Total number of players : 3
+Seat 3: waftycranke (13360)
+Seat 4: Reddott666 (4050)
+Seat 5: francky218 (2590)
+waftycranke  posts small blind (100)
+Reddott666  posts big blind (200)
+** Dealing down cards **
+francky218: good job
+francky218 folds.
+waftycranke raises (7100) to 7200
+Reddott666 folds.
+** Summary **
+Main Pot: 400
+
+waftycranke balance 13560, bet 7200, collected 7400, net +200
+Reddott666 balance 3850, lost 200 (folded)
+francky218 balance 2590, didn't bet (folded)
+
+***** Hand History for Game 6020404390 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33718868)  - Thu May 31 14:43:11 EDT 2007
+Table Speed 1329838 (Real Money) -- Seat 3 is the button
+Total number of players : 3
+Seat 3: waftycranke (13560)
+Seat 4: Reddott666 (3850)
+Seat 5: francky218 (2590)
+Reddott666  posts small blind (100)
+francky218  posts big blind (200)
+** Dealing down cards **
+waftycranke raises (400) to 400
+Reddott666 folds.
+francky218 calls (200)
+** Dealing Flop ** :  [ Jh, Kc, Kh ]
+francky218 bets (400)
+waftycranke folds.
+** Summary **
+Main Pot: 900
+Board: [ Jh Kc Kh  ]
+
+waftycranke balance 13160, lost 400 (folded)
+Reddott666 balance 3750, lost 100 (folded)
+francky218 balance 3090, bet 800, collected 1300, net +500
+
+***** Hand History for Game 6020406597 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33718868)  - Thu May 31 14:43:48 EDT 2007
+Table Speed 1329838 (Real Money) -- Seat 4 is the button
+Total number of players : 3
+Seat 3: waftycranke (13160)
+Seat 4: Reddott666 (3750)
+Seat 5: francky218 (3090)
+francky218  posts small blind (100)
+waftycranke  posts big blind (200)
+** Dealing down cards **
+Reddott666 folds.
+francky218 calls (100)
+waftycranke checks.
+** Dealing Flop ** :  [ 8c, 6s, 4h ]
+francky218 checks.
+waftycranke checks.
+** Dealing Turn ** :  [ 3d ]
+francky218 bets (200)
+waftycranke raises (400) to 400
+francky218 calls (200)
+** Dealing River ** :  [ Ac ]
+francky218 bets (1000)
+waftycranke calls (1000)
+** Summary **
+Main Pot: 3200
+Board: [ 8c 6s 4h 3d Ac  ]
+
+waftycranke balance 14760, bet 1600, collected 3200, net +1600 [ 3c 8d ] [ two pairs, Eights and Threes -- Ac,8d,8c,3c,3d ]
+Reddott666 balance 3750, didn't bet (folded)
+francky218 balance 1490, lost 1600 [ 4d 9c ] [ a pair of Fours -- Ac,9c,8c,4d,4h ]
+
+***** Hand History for Game 6020409764 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33718868)  - Thu May 31 14:44:42 EDT 2007
+Table Speed 1329838 (Real Money) -- Seat 5 is the button
+Total number of players : 3
+Seat 3: waftycranke (14760)
+Seat 4: Reddott666 (3750)
+Seat 5: francky218 (1490)
+waftycranke  posts small blind (100)
+Reddott666  posts big blind (200)
+** Dealing down cards **
+francky218 folds.
+waftycranke folds.
+** Summary **
+Main Pot: 200
+
+waftycranke balance 14660, lost 100 (folded)
+Reddott666 balance 3850, bet 200, collected 300, net +100 [ Ts Ks ] [ high card King -- Ks,Ts ]
+francky218 balance 1490, didn't bet (folded)
+
+***** Hand History for Game 6020410667 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33718868)  - Thu May 31 14:44:57 EDT 2007
+Table Speed 1329838 (Real Money) -- Seat 3 is the button
+Total number of players : 3
+Seat 3: waftycranke (14660)
+Seat 4: Reddott666 (3850)
+Seat 5: francky218 (1490)
+Reddott666  posts small blind (100)
+francky218  posts big blind (200)
+** Dealing down cards **
+waftycranke folds.
+Reddott666 raises (2500) to 2600
+francky218 folds.
+** Summary **
+Main Pot: 400
+
+waftycranke balance 14660, didn't bet (folded)
+Reddott666 balance 4050, bet 2600, collected 2800, net +200
+francky218 balance 1290, lost 200 (folded)
+
+***** Hand History for Game 6020411432 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33718868)  - Thu May 31 14:45:10 EDT 2007
+Table Speed 1329838 (Real Money) -- Seat 4 is the button
+Total number of players : 3
+Seat 3: waftycranke (14660)
+Seat 4: Reddott666 (4050)
+Seat 5: francky218 (1290)
+francky218  posts small blind (100)
+waftycranke  posts big blind (200)
+** Dealing down cards **
+Reddott666 folds.
+francky218 raises (700) to 800
+waftycranke raises (1200) to 1400
+francky218 calls (490)
+francky218 is all-In.
+** Dealing Flop ** :  [ Kh, Ac, 9d ]
+** Dealing Turn ** :  [ 2h ]
+** Dealing River ** :  [ 4d ]
+Creating Main Pot with $2580 with francky218
+** Summary **
+Main Pot: 2580
+Board: [ Kh Ac 9d 2h 4d  ]
+
+waftycranke balance 13370, bet 1400, collected 110, lost -1290 [ 7c Kd ] [ a pair of Kings -- Ac,Kd,Kh,9d,7c ]
+Reddott666 balance 4050, didn't bet (folded)
+francky218 balance 2580, bet 1290, collected 2580, net +1290 [ Th As ] [ a pair of Aces -- As,Ac,Kh,Th,9d ]
+
+***** Hand History for Game 6020413048 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33718868)  - Thu May 31 14:45:36 EDT 2007
+Table Speed 1329838 (Real Money) -- Seat 5 is the button
+Total number of players : 3
+Seat 3: waftycranke (13370)
+Seat 4: Reddott666 (4050)
+Seat 5: francky218 (2580)
+waftycranke  posts small blind (200)
+Reddott666  posts big blind (400)
+** Dealing down cards **
+francky218 folds.
+waftycranke folds.
+** Summary **
+Main Pot: 400
+
+waftycranke balance 13170, lost 200 (folded)
+Reddott666 balance 4250, bet 400, collected 600, net +200
+francky218 balance 2580, didn't bet (folded)
+
+***** Hand History for Game 6020413871 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33718868)  - Thu May 31 14:45:50 EDT 2007
+Table Speed 1329838 (Real Money) -- Seat 3 is the button
+Total number of players : 3
+Seat 3: waftycranke (13170)
+Seat 4: Reddott666 (4250)
+Seat 5: francky218 (2580)
+Reddott666  posts small blind (200)
+francky218  posts big blind (400)
+** Dealing down cards **
+waftycranke folds.
+Reddott666 raises (4050) to 4250
+Reddott666 is all-In.
+francky218 folds.
+Creating Main Pot with $800 with Reddott666
+** Summary **
+Main Pot: 800
+
+waftycranke balance 13170, didn't bet (folded)
+Reddott666 balance 4650, bet 4250, collected 4650, net +400 [ Tc Qc ] [ high card Queen -- Qc,Tc ]
+francky218 balance 2180, lost 400 (folded)
+
+***** Hand History for Game 6020414900 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33718868)  - Thu May 31 14:46:08 EDT 2007
+Table Speed 1329838 (Real Money) -- Seat 4 is the button
+Total number of players : 3
+Seat 3: waftycranke (13170)
+Seat 4: Reddott666 (4650)
+Seat 5: francky218 (2180)
+francky218  posts small blind (200)
+waftycranke  posts big blind (400)
+** Dealing down cards **
+Reddott666 folds.
+francky218 raises (1000) to 1200
+waftycranke folds.
+** Summary **
+Main Pot: 800
+
+waftycranke balance 12770, lost 400 (folded)
+Reddott666 balance 4650, didn't bet (folded)
+francky218 balance 2580, bet 1200, collected 1600, net +400
+
+***** Hand History for Game 6020415999 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33718868)  - Thu May 31 14:46:27 EDT 2007
+Table Speed 1329838 (Real Money) -- Seat 5 is the button
+Total number of players : 3
+Seat 3: waftycranke (12770)
+Seat 4: Reddott666 (4650)
+Seat 5: francky218 (2580)
+waftycranke  posts small blind (200)
+Reddott666  posts big blind (400)
+** Dealing down cards **
+francky218 folds.
+waftycranke folds.
+** Summary **
+Main Pot: 400
+
+waftycranke balance 12570, lost 200 (folded)
+Reddott666 balance 4850, bet 400, collected 600, net +200
+francky218 balance 2580, didn't bet (folded)
+
+***** Hand History for Game 6020416789 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33718868)  - Thu May 31 14:46:40 EDT 2007
+Table Speed 1329838 (Real Money) -- Seat 3 is the button
+Total number of players : 3
+Seat 3: waftycranke (12570)
+Seat 4: Reddott666 (4850)
+Seat 5: francky218 (2580)
+Reddott666  posts small blind (200)
+francky218  posts big blind (400)
+** Dealing down cards **
+waftycranke calls (400)
+Reddott666 folds.
+francky218 checks.
+** Dealing Flop ** :  [ Th, As, 3h ]
+francky218 checks.
+waftycranke checks.
+** Dealing Turn ** :  [ 5d ]
+francky218 checks.
+waftycranke bets (5600)
+francky218 folds.
+** Summary **
+Main Pot: 1000
+Board: [ Th As 3h 5d  ]
+
+waftycranke balance 13170, bet 6000, collected 6600, net +600
+Reddott666 balance 4650, lost 200 (folded)
+francky218 balance 2180, lost 400 (folded)
+
+***** Hand History for Game 6020418708 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33718868)  - Thu May 31 14:47:13 EDT 2007
+Table Speed 1329838 (Real Money) -- Seat 4 is the button
+Total number of players : 3
+Seat 3: waftycranke (13170)
+Seat 4: Reddott666 (4650)
+Seat 5: francky218 (2180)
+francky218  posts small blind (200)
+waftycranke  posts big blind (400)
+** Dealing down cards **
+Reddott666 folds.
+francky218 raises (1980) to 2180
+francky218 is all-In.
+waftycranke calls (1780)
+** Dealing Flop ** :  [ 9d, Th, Js ]
+** Dealing Turn ** :  [ 3s ]
+** Dealing River ** :  [ 8c ]
+Creating Main Pot with $4360 with francky218
+** Summary **
+Main Pot: 4360
+Board: [ 9d Th Js 3s 8c  ]
+
+waftycranke balance 10990, lost 2180 [ As 5s ] [ high card Ace -- As,Js,Th,9d,8c ]
+Reddott666 balance 4650, didn't bet (folded)
+francky218 balance 4360, bet 2180, collected 4360, net +2180 [ 7c 8h ] [ a straight Seven to Jack -- Js,Th,9d,8h,7c ]
+
+***** Hand History for Game 6020420010 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33718868)  - Thu May 31 14:47:35 EDT 2007
+Table Speed 1329838 (Real Money) -- Seat 5 is the button
+Total number of players : 3
+Seat 3: waftycranke (10990)
+Seat 4: Reddott666 (4650)
+Seat 5: francky218 (4360)
+waftycranke  posts small blind (200)
+Reddott666  posts big blind (400)
+** Dealing down cards **
+francky218 folds.
+waftycranke folds.
+** Summary **
+Main Pot: 400
+
+waftycranke balance 10790, lost 200 (folded)
+Reddott666 balance 4850, bet 400, collected 600, net +200
+francky218 balance 4360, didn't bet (folded)
+
+***** Hand History for Game 6020420967 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33718868)  - Thu May 31 14:47:52 EDT 2007
+Table Speed 1329838 (Real Money) -- Seat 3 is the button
+Total number of players : 3
+Seat 3: waftycranke (10790)
+Seat 4: Reddott666 (4850)
+Seat 5: francky218 (4360)
+Reddott666  posts small blind (200)
+francky218  posts big blind (400)
+** Dealing down cards **
+waftycranke raises (800) to 800
+Reddott666 folds.
+francky218 calls (400)
+** Dealing Flop ** :  [ 9h, 9c, Kh ]
+francky218 checks.
+waftycranke bets (9990)
+waftycranke is all-In.
+francky218 folds.
+Creating Main Pot with $1800 with waftycranke
+** Summary **
+Main Pot: 1800
+Board: [ 9h 9c Kh  ]
+
+waftycranke balance 11790, bet 10790, collected 11790, net +1000
+Reddott666 balance 4650, lost 200 (folded)
+francky218 balance 3560, lost 800 (folded)
+
+***** Hand History for Game 6020422215 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33718868)  - Thu May 31 14:48:12 EDT 2007
+Table Speed 1329838 (Real Money) -- Seat 4 is the button
+Total number of players : 3
+Seat 3: waftycranke (11790)
+Seat 4: Reddott666 (4650)
+Seat 5: francky218 (3560)
+francky218  posts small blind (200)
+waftycranke  posts big blind (400)
+** Dealing down cards **
+Reddott666 folds.
+francky218 folds.
+** Summary **
+Main Pot: 400
+
+waftycranke balance 11990, bet 400, collected 600, net +200
+Reddott666 balance 4650, didn't bet (folded)
+francky218 balance 3360, lost 200 (folded)
+
+***** Hand History for Game 6020422904 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33718868)  - Thu May 31 14:48:24 EDT 2007
+Table Speed 1329838 (Real Money) -- Seat 5 is the button
+Total number of players : 3
+Seat 3: waftycranke (11990)
+Seat 4: Reddott666 (4650)
+Seat 5: francky218 (3360)
+waftycranke  posts small blind (200)
+Reddott666  posts big blind (400)
+** Dealing down cards **
+francky218 folds.
+waftycranke raises (600) to 800
+Reddott666 calls (400)
+** Dealing Flop ** :  [ Ks, 2h, Qh ]
+waftycranke checks.
+Reddott666 bets (1200)
+waftycranke folds.
+** Summary **
+Main Pot: 1600
+Board: [ Ks 2h Qh  ]
+
+waftycranke balance 11190, lost 800 (folded)
+Reddott666 balance 5450, bet 2000, collected 2800, net +800
+francky218 balance 3360, didn't bet (folded)
+
+***** Hand History for Game 6020424759 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33718868)  - Thu May 31 14:48:56 EDT 2007
+Table Speed 1329838 (Real Money) -- Seat 3 is the button
+Total number of players : 3
+Seat 3: waftycranke (11190)
+Seat 4: Reddott666 (5450)
+Seat 5: francky218 (3360)
+Reddott666  posts small blind (200)
+francky218  posts big blind (400)
+** Dealing down cards **
+waftycranke folds.
+Reddott666 folds.
+** Summary **
+Main Pot: 400
+
+waftycranke balance 11190, didn't bet (folded)
+Reddott666 balance 5250, lost 200 (folded)
+francky218 balance 3560, bet 400, collected 600, net +200
+
+***** Hand History for Game 6020425721 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33718868)  - Thu May 31 14:49:12 EDT 2007
+Table Speed 1329838 (Real Money) -- Seat 4 is the button
+Total number of players : 3
+Seat 3: waftycranke (11190)
+Seat 4: Reddott666 (5250)
+Seat 5: francky218 (3560)
+francky218  posts small blind (200)
+waftycranke  posts big blind (400)
+** Dealing down cards **
+Reddott666 folds.
+francky218 folds.
+** Summary **
+Main Pot: 400
+
+waftycranke balance 11390, bet 400, collected 600, net +200
+Reddott666 balance 5250, didn't bet (folded)
+francky218 balance 3360, lost 200 (folded)
+
+***** Hand History for Game 6020426402 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33718868)  - Thu May 31 14:49:24 EDT 2007
+Table Speed 1329838 (Real Money) -- Seat 5 is the button
+Total number of players : 3
+Seat 3: waftycranke (11390)
+Seat 4: Reddott666 (5250)
+Seat 5: francky218 (3360)
+waftycranke  posts small blind (200)
+Reddott666  posts big blind (400)
+** Dealing down cards **
+francky218 folds.
+waftycranke folds.
+** Summary **
+Main Pot: 400
+
+waftycranke balance 11190, lost 200 (folded)
+Reddott666 balance 5450, bet 400, collected 600, net +200
+francky218 balance 3360, didn't bet (folded)
+
+***** Hand History for Game 6020427302 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33718868)  - Thu May 31 14:49:39 EDT 2007
+Table Speed 1329838 (Real Money) -- Seat 3 is the button
+Total number of players : 3
+Seat 3: waftycranke (11190)
+Seat 4: Reddott666 (5450)
+Seat 5: francky218 (3360)
+Reddott666  posts small blind (200)
+francky218  posts big blind (400)
+** Dealing down cards **
+waftycranke folds.
+Reddott666 folds.
+** Summary **
+Main Pot: 400
+
+waftycranke balance 11190, didn't bet (folded)
+Reddott666 balance 5250, lost 200 (folded)
+francky218 balance 3560, bet 400, collected 600, net +200
+
+***** Hand History for Game 6020428299 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33718868)  - Thu May 31 14:49:56 EDT 2007
+Table Speed 1329838 (Real Money) -- Seat 4 is the button
+Total number of players : 3
+Seat 3: waftycranke (11190)
+Seat 4: Reddott666 (5250)
+Seat 5: francky218 (3560)
+francky218  posts small blind (200)
+waftycranke  posts big blind (400)
+** Dealing down cards **
+Reddott666 raises (5250) to 5250
+Reddott666 is all-In.
+francky218 folds.
+waftycranke folds.
+Creating Main Pot with $1000 with Reddott666
+** Summary **
+Main Pot: 1000
+
+waftycranke balance 10790, lost 400 (folded)
+Reddott666 balance 5850, bet 5250, collected 5850, net +600
+francky218 balance 3360, lost 200 (folded)
+
+***** Hand History for Game 6020429068 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33718868)  - Thu May 31 14:50:09 EDT 2007
+Table Speed 1329838 (Real Money) -- Seat 5 is the button
+Total number of players : 3
+Seat 3: waftycranke (10790)
+Seat 4: Reddott666 (5850)
+Seat 5: francky218 (3360)
+waftycranke  posts small blind (200)
+Reddott666  posts big blind (400)
+** Dealing down cards **
+francky218 folds.
+waftycranke folds.
+** Summary **
+Main Pot: 400
+
+waftycranke balance 10590, lost 200 (folded)
+Reddott666 balance 6050, bet 400, collected 600, net +200
+francky218 balance 3360, didn't bet (folded)
+
+***** Hand History for Game 6020429902 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33718868)  - Thu May 31 14:50:23 EDT 2007
+Table Speed 1329838 (Real Money) -- Seat 3 is the button
+Total number of players : 3
+Seat 3: waftycranke (10590)
+Seat 4: Reddott666 (6050)
+Seat 5: francky218 (3360)
+Reddott666  posts small blind (200)
+francky218  posts big blind (400)
+** Dealing down cards **
+waftycranke raises (2400) to 2400
+Reddott666 folds.
+francky218 calls (2000)
+** Dealing Flop ** :  [ 5h, 4d, 4s ]
+francky218 bets (960)
+francky218 is all-In.
+waftycranke calls (960)
+** Dealing Turn ** :  [ Ah ]
+** Dealing River ** :  [ 7h ]
+Creating Main Pot with $6920 with francky218
+** Summary **
+Main Pot: 6920
+Board: [ 5h 4d 4s Ah 7h  ]
+
+waftycranke balance 14150, bet 3360, collected 6920, net +3560 [ As Js ] [ two pairs, Aces and Fours with Jack kicker -- As,Ah,Js,4d,4s ]
+Reddott666 balance 5850, lost 200 (folded)
+francky218 balance 0, lost 3360 [ 2s Ac ] [ two pairs, Aces and Fours -- Ac,Ah,7h,4d,4s ]
+
+***** Hand History for Game 6020431617 *****
+francky218 finished in 3 place and won $10.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33718868)  - Thu May 31 14:50:52 EDT 2007
+Table Speed 1329838 (Real Money) -- Seat 4 is the button
+Total number of players : 2
+Seat 3: waftycranke (14150)
+Seat 4: Reddott666 (5850)
+Reddott666  posts small blind (300)
+waftycranke  posts big blind (600)
+** Dealing down cards **
+Reddott666 folds.
+** Summary **
+Main Pot: 600
+
+waftycranke balance 14450, bet 600, collected 900, net +300
+Reddott666 balance 5550, lost 300 (folded)
+
+***** Hand History for Game 6020432293 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33718868)  - Thu May 31 14:51:04 EDT 2007
+Table Speed 1329838 (Real Money) -- Seat 3 is the button
+Total number of players : 2
+Seat 3: waftycranke (14450)
+Seat 4: Reddott666 (5550)
+waftycranke  posts small blind (300)
+Reddott666  posts big blind (600)
+** Dealing down cards **
+waftycranke raises (900) to 1200
+Reddott666 folds.
+** Summary **
+Main Pot: 1200
+
+waftycranke balance 15050, bet 1200, collected 1800, net +600
+Reddott666 balance 4950, lost 600 (folded)
+
+***** Hand History for Game 6020433174 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33718868)  - Thu May 31 14:51:18 EDT 2007
+Table Speed 1329838 (Real Money) -- Seat 4 is the button
+Total number of players : 2
+Seat 3: waftycranke (15050)
+Seat 4: Reddott666 (4950)
+Reddott666  posts small blind (300)
+waftycranke  posts big blind (600)
+** Dealing down cards **
+Reddott666 raises (4650) to 4950
+Reddott666 is all-In.
+waftycranke calls (4350)
+** Dealing Flop ** :  [ 3d, 5s, As ]
+** Dealing Turn ** :  [ Td ]
+** Dealing River ** :  [ 7c ]
+Creating Main Pot with $9900 with Reddott666
+** Summary **
+Main Pot: 9900
+Board: [ 3d 5s As Td 7c  ]
+
+waftycranke balance 20000, bet 4950, collected 9900, net +4950 [ Ac 3s ] [ two pairs, Aces and Threes -- Ac,As,Td,3s,3d ]
+Reddott666 balance 0, lost 4950 [ Ks Tc ] [ a pair of Tens -- As,Ks,Tc,Td,7c ]
+
+
+

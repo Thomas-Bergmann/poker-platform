@@ -1,0 +1,2292 @@
+
+Hello hatoka,
+These hand histories are provided to you as an aid for your training and development. You are not permitted to share them with anyone.  We reserve the right to cease providing them or apply further restrictions at any time.
+Complete hand histories are only available to players that participated in the hand.
+You requested a transcript of Tournament #33200729.
+
+Summary
+----------
+Played on    : 01 May 2007 04:07 PM
+On Table     : Speed #1330064
+Game Type    : Texas Holdem
+Buy-In       : $5
+Fee          : $1
+You finished in  position 6
+1st place - from0to1 -  $25
+2nd place - tombausks -  $15
+3rd place - BIGA911 -  $10
+
+***** Hand History for Game 5928792066 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33200729)  - Tue May 01 16:07:19 EDT 2007
+Table Speed 1330064 (Real Money) -- Seat 5 is the button
+Total number of players : 10
+Seat 1: Walzzje (2000)
+Seat 2: Rob13444 (2000)
+Seat 3: Dietsi24 (2000)
+Seat 4: BIGA911 (2000)
+Seat 5: Prinzessin8 (2000)
+Seat 6: hatoka (2000)
+Seat 7: navydad555 (2000)
+Seat 8: whatagame222 (2000)
+Seat 9: from0to1 (2000)
+Seat 10: tombausks (2000)
+hatoka  posts small blind (20)
+navydad555  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 9d, Tc ]
+whatagame222 folds.
+from0to1 calls (40)
+tombausks calls (40)
+Walzzje folds.
+Rob13444 calls (40)
+Dietsi24 folds.
+BIGA911 folds.
+Prinzessin8 calls (40)
+hatoka folds.
+navydad555 checks.
+** Dealing Flop ** :  [ 2d, 3h, 4h ]
+navydad555 checks.
+from0to1 bets (240)
+tombausks folds.
+Rob13444 calls (240)
+Prinzessin8 folds.
+navydad555 folds.
+** Dealing Turn ** :  [ 7d ]
+from0to1 bets (520)
+Rob13444 folds.
+** Summary **
+Main Pot: 700
+Board: [ 2d 3h 4h 7d  ]
+
+Walzzje balance 2000, didn't bet (folded)
+Rob13444 balance 1720, lost 280 (folded)
+Dietsi24 balance 2000, didn't bet (folded)
+BIGA911 balance 2000, didn't bet (folded)
+Prinzessin8 balance 1960, lost 40 (folded)
+hatoka balance 1980, lost 20 (folded)
+navydad555 balance 1960, lost 40 (folded)
+whatagame222 balance 2000, didn't bet (folded)
+from0to1 balance 2420, bet 800, collected 1220, net +420
+tombausks balance 1960, lost 40 (folded)
+
+***** Hand History for Game 5928797068 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33200729)  - Tue May 01 16:08:33 EDT 2007
+Table Speed 1330064 (Real Money) -- Seat 6 is the button
+Total number of players : 10
+Seat 1: Walzzje (2000)
+Seat 2: Rob13444 (1720)
+Seat 3: Dietsi24 (2000)
+Seat 4: BIGA911 (2000)
+Seat 5: Prinzessin8 (1960)
+Seat 6: hatoka (1980)
+Seat 7: navydad555 (1960)
+Seat 8: whatagame222 (2000)
+Seat 9: from0to1 (2420)
+Seat 10: tombausks (1960)
+navydad555  posts small blind (20)
+whatagame222  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ Ts, Th ]
+from0to1 calls (40)
+tombausks folds.
+Walzzje folds.
+Rob13444 calls (40)
+Dietsi24 calls (40)
+BIGA911 folds.
+Prinzessin8 calls (40)
+hatoka raises (80) to 80
+navydad555 calls (60)
+whatagame222 folds.
+from0to1 calls (40)
+Rob13444 calls (40)
+Dietsi24 calls (40)
+Prinzessin8 calls (40)
+** Dealing Flop ** :  [ Qs, 2d, Js ]
+navydad555 checks.
+from0to1 checks.
+Rob13444 checks.
+Dietsi24 checks.
+Prinzessin8 checks.
+hatoka bets (500)
+navydad555 folds.
+from0to1 folds.
+Rob13444 calls (500)
+Dietsi24 folds.
+Prinzessin8 folds.
+** Dealing Turn ** :  [ 3h ]
+Rob13444 checks.
+hatoka checks.
+** Dealing River ** :  [ 4c ]
+Rob13444 bets (480)
+hatoka calls (480)
+** Summary **
+Main Pot: 2480
+Board: [ Qs 2d Js 3h 4c  ]
+
+Walzzje balance 2000, didn't bet (folded)
+Rob13444 balance 3140, bet 1060, collected 2480, net +1420 [ Qc 7d ] [ a pair of Queens -- Qc,Qs,Js,7d,4c ]
+Dietsi24 balance 1920, lost 80 (folded)
+BIGA911 balance 2000, didn't bet (folded)
+Prinzessin8 balance 1880, lost 80 (folded)
+hatoka balance 920, lost 1060 [ Ts Th ] [ a pair of Tens -- Qs,Js,Ts,Th,4c ]
+
+navydad555 balance 1880, lost 80 (folded)
+whatagame222 balance 1960, lost 40 (folded)
+from0to1 balance 2340, lost 80 (folded)
+tombausks balance 1960, didn't bet (folded)
+
+***** Hand History for Game 5928803307 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33200729)  - Tue May 01 16:10:03 EDT 2007
+Table Speed 1330064 (Real Money) -- Seat 7 is the button
+Total number of players : 10
+Seat 1: Walzzje (2000)
+Seat 2: Rob13444 (3140)
+Seat 3: Dietsi24 (1920)
+Seat 4: BIGA911 (2000)
+Seat 5: Prinzessin8 (1880)
+Seat 6: hatoka (920)
+Seat 7: navydad555 (1880)
+Seat 8: whatagame222 (1960)
+Seat 9: from0to1 (2340)
+Seat 10: tombausks (1960)
+whatagame222  posts small blind (20)
+from0to1  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 2s, 2h ]
+tombausks folds.
+Walzzje folds.
+Rob13444 folds.
+Dietsi24 calls (40)
+BIGA911 calls (40)
+Prinzessin8 folds.
+hatoka calls (40)
+navydad555 folds.
+whatagame222 calls (20)
+from0to1 checks.
+** Dealing Flop ** :  [ 7h, Jh, Qc ]
+whatagame222 bets (80)
+from0to1 folds.
+Dietsi24 folds.
+BIGA911 raises (160) to 160
+hatoka folds.
+whatagame222 calls (80)
+** Dealing Turn ** :  [ Tc ]
+whatagame222 bets (120)
+BIGA911 calls (120)
+** Dealing River ** :  [ 9h ]
+whatagame222 bets (1640)
+whatagame222 is all-In.
+BIGA911 folds.
+Creating Main Pot with $760 with whatagame222
+** Summary **
+Main Pot: 760
+Board: [ 7h Jh Qc Tc 9h  ]
+
+Walzzje balance 2000, didn't bet (folded)
+Rob13444 balance 3140, didn't bet (folded)
+Dietsi24 balance 1880, lost 40 (folded)
+BIGA911 balance 1680, lost 320 (folded)
+Prinzessin8 balance 1880, didn't bet (folded)
+hatoka balance 880, lost 40 (folded)
+navydad555 balance 1880, didn't bet (folded)
+whatagame222 balance 2400, bet 1960, collected 2400, net +440
+from0to1 balance 2300, lost 40 (folded)
+tombausks balance 1960, didn't bet (folded)
+
+***** Hand History for Game 5928808205 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33200729)  - Tue May 01 16:11:13 EDT 2007
+Table Speed 1330064 (Real Money) -- Seat 8 is the button
+Total number of players : 10
+Seat 1: Walzzje (2000)
+Seat 2: Rob13444 (3140)
+Seat 3: Dietsi24 (1880)
+Seat 4: BIGA911 (1680)
+Seat 5: Prinzessin8 (1880)
+Seat 6: hatoka (880)
+Seat 7: navydad555 (1880)
+Seat 8: whatagame222 (2400)
+Seat 9: from0to1 (2300)
+Seat 10: tombausks (1960)
+from0to1  posts small blind (20)
+tombausks  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 9h, As ]
+Walzzje folds.
+Rob13444 calls (40)
+Dietsi24 calls (40)
+BIGA911 folds.
+Prinzessin8 folds.
+hatoka raises (120) to 120
+navydad555 calls (120)
+whatagame222 calls (120)
+from0to1 calls (100)
+tombausks folds.
+Rob13444 folds.
+Dietsi24 calls (80)
+** Dealing Flop ** :  [ 9c, Qs, Ts ]
+from0to1 bets (400)
+Dietsi24 folds.
+hatoka folds.
+navydad555 calls (400)
+whatagame222 calls (400)
+** Dealing Turn ** :  [ 5s ]
+from0to1 bets (1000)
+navydad555 folds.
+whatagame222 folds.
+** Summary **
+Main Pot: 1880
+Board: [ 9c Qs Ts 5s  ]
+
+Walzzje balance 2000, didn't bet (folded)
+Rob13444 balance 3100, lost 40 (folded)
+Dietsi24 balance 1760, lost 120 (folded)
+BIGA911 balance 1680, didn't bet (folded)
+Prinzessin8 balance 1880, didn't bet (folded)
+hatoka balance 760, lost 120 (folded)
+navydad555 balance 1360, lost 520 (folded)
+whatagame222 balance 1880, lost 520 (folded)
+from0to1 balance 3660, bet 1520, collected 2880, net +1360
+tombausks balance 1920, lost 40 (folded)
+
+***** Hand History for Game 5928815513 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33200729)  - Tue May 01 16:12:55 EDT 2007
+Table Speed 1330064 (Real Money) -- Seat 9 is the button
+Total number of players : 10
+Seat 1: Walzzje (2000)
+Seat 2: Rob13444 (3100)
+Seat 3: Dietsi24 (1760)
+Seat 4: BIGA911 (1680)
+Seat 5: Prinzessin8 (1880)
+Seat 6: hatoka (760)
+Seat 7: navydad555 (1360)
+Seat 8: whatagame222 (1880)
+Seat 9: from0to1 (3660)
+Seat 10: tombausks (1920)
+tombausks  posts small blind (30)
+Walzzje  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Qs, Jc ]
+Rob13444 calls (60)
+Dietsi24 calls (60)
+BIGA911 folds.
+Prinzessin8 calls (60)
+hatoka calls (60)
+navydad555 calls (60)
+whatagame222 folds.
+from0to1 calls (60)
+tombausks calls (30)
+Walzzje checks.
+** Dealing Flop ** :  [ 2h, 9s, 3s ]
+tombausks checks.
+Walzzje bets (300)
+Rob13444 calls (300)
+Dietsi24 calls (300)
+Prinzessin8 folds.
+hatoka folds.
+navydad555 folds.
+from0to1 folds.
+tombausks folds.
+** Dealing Turn ** :  [ 9d ]
+Walzzje bets (600)
+Rob13444 folds.
+Dietsi24 folds.
+** Summary **
+Main Pot: 1380
+Board: [ 2h 9s 3s 9d  ]
+
+Walzzje balance 3020, bet 960, collected 1980, net +1020
+Rob13444 balance 2740, lost 360 (folded)
+Dietsi24 balance 1400, lost 360 (folded)
+BIGA911 balance 1680, didn't bet (folded)
+Prinzessin8 balance 1820, lost 60 (folded)
+hatoka balance 700, lost 60 (folded)
+navydad555 balance 1300, lost 60 (folded)
+whatagame222 balance 1880, didn't bet (folded)
+from0to1 balance 3600, lost 60 (folded)
+tombausks balance 1860, lost 60 (folded)
+
+***** Hand History for Game 5928821943 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33200729)  - Tue May 01 16:14:28 EDT 2007
+Table Speed 1330064 (Real Money) -- Seat 10 is the button
+Total number of players : 10
+Seat 1: Walzzje (3020)
+Seat 2: Rob13444 (2740)
+Seat 3: Dietsi24 (1400)
+Seat 4: BIGA911 (1680)
+Seat 5: Prinzessin8 (1820)
+Seat 6: hatoka (700)
+Seat 7: navydad555 (1300)
+Seat 8: whatagame222 (1880)
+Seat 9: from0to1 (3600)
+Seat 10: tombausks (1860)
+Walzzje  posts small blind (30)
+Rob13444  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 8c, 7c ]
+Dietsi24 folds.
+BIGA911 raises (240) to 240
+Prinzessin8 folds.
+hatoka folds.
+navydad555 folds.
+whatagame222 calls (240)
+from0to1 folds.
+tombausks folds.
+Walzzje folds.
+Rob13444 folds.
+** Dealing Flop ** :  [ 2c, 5s, 7h ]
+BIGA911 bets (300)
+whatagame222 folds.
+** Summary **
+Main Pot: 570
+Board: [ 2c 5s 7h  ]
+
+Walzzje balance 2990, lost 30 (folded)
+Rob13444 balance 2680, lost 60 (folded)
+Dietsi24 balance 1400, didn't bet (folded)
+BIGA911 balance 2010, bet 540, collected 870, net +330
+Prinzessin8 balance 1820, didn't bet (folded)
+hatoka balance 700, didn't bet (folded)
+navydad555 balance 1300, didn't bet (folded)
+whatagame222 balance 1640, lost 240 (folded)
+from0to1 balance 3600, didn't bet (folded)
+tombausks balance 1860, didn't bet (folded)
+
+***** Hand History for Game 5928823443 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33200729)  - Tue May 01 16:14:49 EDT 2007
+Table Speed 1330064 (Real Money) -- Seat 1 is the button
+Total number of players : 10
+Seat 1: Walzzje (2990)
+Seat 2: Rob13444 (2680)
+Seat 3: Dietsi24 (1400)
+Seat 4: BIGA911 (2010)
+Seat 5: Prinzessin8 (1820)
+Seat 6: hatoka (700)
+Seat 7: navydad555 (1300)
+Seat 8: whatagame222 (1640)
+Seat 9: from0to1 (3600)
+Seat 10: tombausks (1860)
+Rob13444  posts small blind (30)
+Dietsi24  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 5s, Jd ]
+BIGA911 folds.
+Prinzessin8 folds.
+hatoka folds.
+navydad555 raises (240) to 240
+whatagame222 folds.
+from0to1 calls (240)
+tombausks calls (240)
+Walzzje folds.
+Rob13444 folds.
+Dietsi24 folds.
+** Dealing Flop ** :  [ Ks, Jh, 9d ]
+navydad555 checks.
+from0to1 checks.
+tombausks bets (180)
+navydad555 calls (180)
+from0to1 folds.
+** Dealing Turn ** :  [ 3c ]
+navydad555 bets (180)
+tombausks calls (180)
+** Dealing River ** :  [ 2d ]
+navydad555 checks.
+tombausks checks.
+** Summary **
+Main Pot: 1530
+Board: [ Ks Jh 9d 3c 2d  ]
+
+Walzzje balance 2990, didn't bet (folded)
+Rob13444 balance 2650, lost 30 (folded)
+Dietsi24 balance 1340, lost 60 (folded)
+BIGA911 balance 2010, didn't bet (folded)
+Prinzessin8 balance 1820, didn't bet (folded)
+hatoka balance 700, didn't bet (folded)
+navydad555 balance 700, lost 600 [ Qh As ] [ high card Ace -- As,Ks,Qh,Jh,9d ]
+whatagame222 balance 1640, didn't bet (folded)
+from0to1 balance 3360, lost 240 (folded)
+tombausks balance 2790, bet 600, collected 1530, net +930 [ Qs Js ] [ a pair of Jacks -- Ks,Qs,Js,Jh,9d ]
+
+***** Hand History for Game 5928829086 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33200729)  - Tue May 01 16:16:10 EDT 2007
+Table Speed 1330064 (Real Money) -- Seat 2 is the button
+Total number of players : 10
+Seat 1: Walzzje (2990)
+Seat 2: Rob13444 (2650)
+Seat 3: Dietsi24 (1340)
+Seat 4: BIGA911 (2010)
+Seat 5: Prinzessin8 (1820)
+Seat 6: hatoka (700)
+Seat 7: navydad555 (700)
+Seat 8: whatagame222 (1640)
+Seat 9: from0to1 (3360)
+Seat 10: tombausks (2790)
+Dietsi24  posts small blind (30)
+BIGA911  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Qh, 7h ]
+Prinzessin8 folds.
+hatoka folds.
+navydad555 raises (700) to 700
+navydad555 is all-In.
+whatagame222 folds.
+from0to1 calls (700)
+tombausks folds.
+Walzzje folds.
+Rob13444 folds.
+Dietsi24 folds.
+BIGA911 folds.
+** Dealing Flop ** :  [ Jc, As, Ad ]
+** Dealing Turn ** :  [ 2d ]
+** Dealing River ** :  [ Kd ]
+Creating Main Pot with $1490 with navydad555
+** Summary **
+Main Pot: 1490
+Board: [ Jc As Ad 2d Kd  ]
+
+Walzzje balance 2990, didn't bet (folded)
+Rob13444 balance 2650, didn't bet (folded)
+Dietsi24 balance 1310, lost 30 (folded)
+BIGA911 balance 1950, lost 60 (folded)
+Prinzessin8 balance 1820, didn't bet (folded)
+hatoka balance 700, didn't bet (folded)
+navydad555 balance 1490, bet 700, collected 1490, net +790 [ Ah 8h ] [ three of a kind, Aces -- Ah,As,Ad,Kd,Jc ]
+whatagame222 balance 1640, didn't bet (folded)
+from0to1 balance 2660, lost 700 [ 7s 7d ] [ two pairs, Aces and Sevens -- As,Ad,Kd,7s,7d ]
+tombausks balance 2790, didn't bet (folded)
+
+***** Hand History for Game 5928831420 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33200729)  - Tue May 01 16:16:43 EDT 2007
+Table Speed 1330064 (Real Money) -- Seat 3 is the button
+Total number of players : 10
+Seat 1: Walzzje (2990)
+Seat 2: Rob13444 (2650)
+Seat 3: Dietsi24 (1310)
+Seat 4: BIGA911 (1950)
+Seat 5: Prinzessin8 (1820)
+Seat 6: hatoka (700)
+Seat 7: navydad555 (1490)
+Seat 8: whatagame222 (1640)
+Seat 9: from0to1 (2660)
+Seat 10: tombausks (2790)
+BIGA911  posts small blind (30)
+Prinzessin8  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 2s, Qh ]
+hatoka folds.
+navydad555 calls (60)
+whatagame222 folds.
+from0to1 calls (60)
+tombausks folds.
+Walzzje folds.
+Rob13444 folds.
+Dietsi24 raises (1310) to 1310
+Dietsi24 is all-In.
+BIGA911 folds.
+Prinzessin8 folds.
+navydad555 calls (1250)
+from0to1 folds.
+** Dealing Flop ** :  [ Kc, Ac, 4d ]
+** Dealing Turn ** :  [ 9h ]
+** Dealing River ** :  [ 9d ]
+Creating Main Pot with $2770 with Dietsi24
+** Summary **
+Main Pot: 2770
+Board: [ Kc Ac 4d 9h 9d  ]
+
+Walzzje balance 2990, didn't bet (folded)
+Rob13444 balance 2650, didn't bet (folded)
+Dietsi24 balance 0, lost 1310 [ Qc Ah ] [ two pairs, Aces and Nines -- Ah,Ac,Kc,9h,9d ]
+BIGA911 balance 1920, lost 30 (folded)
+Prinzessin8 balance 1760, lost 60 (folded)
+hatoka balance 700, didn't bet (folded)
+navydad555 balance 2950, bet 1310, collected 2770, net +1460 [ 4s 4c ] [ a full house, Fours full of Nines -- 9h,9d,4s,4c,4d ]
+whatagame222 balance 1640, didn't bet (folded)
+from0to1 balance 2600, lost 60 (folded)
+tombausks balance 2790, didn't bet (folded)
+
+***** Hand History for Game 5928834565 *****
+Dietsi24 finished in 10 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33200729)  - Tue May 01 16:17:29 EDT 2007
+Table Speed 1330064 (Real Money) -- Seat 4 is the button
+Total number of players : 9
+Seat 1: Walzzje (2990)
+Seat 2: Rob13444 (2650)
+Seat 4: BIGA911 (1920)
+Seat 5: Prinzessin8 (1760)
+Seat 6: hatoka (700)
+Seat 7: navydad555 (2950)
+Seat 8: whatagame222 (1640)
+Seat 9: from0to1 (2600)
+Seat 10: tombausks (2790)
+Prinzessin8  posts small blind (30)
+hatoka  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 7h, 9s ]
+navydad555 folds.
+whatagame222 folds.
+from0to1 folds.
+tombausks folds.
+Walzzje folds.
+Rob13444 folds.
+BIGA911 folds.
+Prinzessin8 calls (30)
+hatoka checks.
+** Dealing Flop ** :  [ Kd, Qs, As ]
+Prinzessin8 bets (120)
+hatoka raises (240) to 240
+Prinzessin8 calls (120)
+** Dealing Turn ** :  [ 3h ]
+Prinzessin8 checks.
+hatoka bets (200)
+Prinzessin8 folds.
+** Summary **
+Main Pot: 600
+Board: [ Kd Qs As 3h  ]
+
+Walzzje balance 2990, didn't bet (folded)
+Rob13444 balance 2650, didn't bet (folded)
+BIGA911 balance 1920, didn't bet (folded)
+Prinzessin8 balance 1460, lost 300 (folded)
+hatoka balance 1000, bet 500, collected 800, net +300
+navydad555 balance 2950, didn't bet (folded)
+whatagame222 balance 1640, didn't bet (folded)
+from0to1 balance 2600, didn't bet (folded)
+tombausks balance 2790, didn't bet (folded)
+
+***** Hand History for Game 5928838554 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33200729)  - Tue May 01 16:18:27 EDT 2007
+Table Speed 1330064 (Real Money) -- Seat 5 is the button
+Total number of players : 9
+Seat 1: Walzzje (2990)
+Seat 2: Rob13444 (2650)
+Seat 4: BIGA911 (1920)
+Seat 5: Prinzessin8 (1460)
+Seat 6: hatoka (1000)
+Seat 7: navydad555 (2950)
+Seat 8: whatagame222 (1640)
+Seat 9: from0to1 (2600)
+Seat 10: tombausks (2790)
+hatoka  posts small blind (50)
+navydad555  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 8h, Jc ]
+whatagame222 folds.
+from0to1 raises (300) to 300
+tombausks folds.
+Walzzje folds.
+Rob13444 folds.
+BIGA911 folds.
+Prinzessin8 calls (300)
+hatoka folds.
+navydad555 calls (200)
+** Dealing Flop ** :  [ 7d, 3c, 6c ]
+navydad555 checks.
+from0to1 bets (600)
+Prinzessin8 calls (600)
+navydad555 folds.
+** Dealing Turn ** :  [ 5d ]
+from0to1 bets (1300)
+Prinzessin8 calls (560)
+Prinzessin8 is all-In.
+** Dealing River ** :  [ 7c ]
+Creating Main Pot with $3270 with Prinzessin8
+** Summary **
+Main Pot: 3270
+Board: [ 7d 3c 6c 5d 7c  ]
+
+Walzzje balance 2990, didn't bet (folded)
+Rob13444 balance 2650, didn't bet (folded)
+BIGA911 balance 1920, didn't bet (folded)
+Prinzessin8 balance 0, lost 1460 [ Ad 3s ] [ two pairs, Sevens and Threes -- Ad,7d,7c,3s,3c ]
+hatoka balance 950, lost 50 (folded)
+navydad555 balance 2650, lost 300 (folded)
+whatagame222 balance 1640, didn't bet (folded)
+from0to1 balance 4410, bet 2200, collected 4010, net +1810 [ 5s As ] [ two pairs, Sevens and Fives -- As,7d,7c,5s,5d ]
+tombausks balance 2790, didn't bet (folded)
+
+***** Hand History for Game 5928844591 *****
+Prinzessin8 finished in 9 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33200729)  - Tue May 01 16:19:54 EDT 2007
+Table Speed 1330064 (Real Money) -- Seat 6 is the button
+Total number of players : 8
+Seat 1: Walzzje (2990)
+Seat 2: Rob13444 (2650)
+Seat 4: BIGA911 (1920)
+Seat 6: hatoka (950)
+Seat 7: navydad555 (2650)
+Seat 8: whatagame222 (1640)
+Seat 9: from0to1 (4410)
+Seat 10: tombausks (2790)
+navydad555  posts small blind (50)
+whatagame222  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Qc, 8h ]
+from0to1 folds.
+tombausks folds.
+Walzzje folds.
+Rob13444 calls (100)
+BIGA911 folds.
+hatoka folds.
+navydad555 calls (50)
+whatagame222 checks.
+** Dealing Flop ** :  [ Qd, 5c, 7d ]
+navydad555 checks.
+whatagame222 checks.
+Rob13444 bets (200)
+navydad555 calls (200)
+whatagame222 folds.
+** Dealing Turn ** :  [ Qs ]
+navydad555 bets (300)
+Rob13444 calls (300)
+** Dealing River ** :  [ 9h ]
+navydad555 bets (300)
+Rob13444 calls (300)
+** Summary **
+Main Pot: 1900
+Board: [ Qd 5c 7d Qs 9h  ]
+
+Walzzje balance 2990, didn't bet (folded)
+Rob13444 balance 3650, bet 900, collected 1900, net +1000 [ Ac 7h ] [ two pairs, Queens and Sevens with Ace kicker -- Ac,Qd,Qs,7h,7d ]
+BIGA911 balance 1920, didn't bet (folded)
+hatoka balance 950, didn't bet (folded)
+navydad555 balance 1750, lost 900 [ 7c Tc ] [ two pairs, Queens and Sevens -- Qd,Qs,Tc,7c,7d ]
+whatagame222 balance 1540, lost 100 (folded)
+from0to1 balance 4410, didn't bet (folded)
+tombausks balance 2790, didn't bet (folded)
+
+***** Hand History for Game 5928848123 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33200729)  - Tue May 01 16:20:45 EDT 2007
+Table Speed 1330064 (Real Money) -- Seat 7 is the button
+Total number of players : 8
+Seat 1: Walzzje (2990)
+Seat 2: Rob13444 (3650)
+Seat 4: BIGA911 (1920)
+Seat 6: hatoka (950)
+Seat 7: navydad555 (1750)
+Seat 8: whatagame222 (1540)
+Seat 9: from0to1 (4410)
+Seat 10: tombausks (2790)
+whatagame222  posts small blind (50)
+from0to1  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Jh, Jd ]
+tombausks raises (500) to 500
+Walzzje folds.
+Rob13444 folds.
+BIGA911 folds.
+hatoka raises (950) to 950
+hatoka is all-In.
+navydad555 folds.
+whatagame222 folds.
+from0to1 folds.
+tombausks calls (450)
+** Dealing Flop ** :  [ 7h, 9h, 8h ]
+** Dealing Turn ** :  [ Jc ]
+** Dealing River ** :  [ 9s ]
+Creating Main Pot with $2050 with hatoka
+** Summary **
+Main Pot: 2050
+Board: [ 7h 9h 8h Jc 9s  ]
+
+Walzzje balance 2990, didn't bet (folded)
+Rob13444 balance 3650, didn't bet (folded)
+BIGA911 balance 1920, didn't bet (folded)
+hatoka balance 2050, bet 950, collected 2050, net +1100 [ Jh Jd ] [ a full house, Jacks full of Nines -- Jh,Jd,Jc,9h,9s ]
+navydad555 balance 1750, didn't bet (folded)
+whatagame222 balance 1490, lost 50 (folded)
+from0to1 balance 4310, lost 100 (folded)
+tombausks balance 1840, lost 950 [ 8s 8c ] [ a full house, Eights full of Nines -- 9h,9s,8s,8c,8h ]
+
+***** Hand History for Game 5928850411 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33200729)  - Tue May 01 16:21:18 EDT 2007
+Table Speed 1330064 (Real Money) -- Seat 8 is the button
+Total number of players : 8
+Seat 1: Walzzje (2990)
+Seat 2: Rob13444 (3650)
+Seat 4: BIGA911 (1920)
+Seat 6: hatoka (2050)
+Seat 7: navydad555 (1750)
+Seat 8: whatagame222 (1490)
+Seat 9: from0to1 (4310)
+Seat 10: tombausks (1840)
+from0to1  posts small blind (50)
+tombausks  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 2s, 3c ]
+Walzzje folds.
+Rob13444 folds.
+BIGA911 folds.
+hatoka folds.
+navydad555 folds.
+whatagame222 calls (100)
+from0to1 calls (50)
+tombausks raises (1740) to 1840
+tombausks is all-In.
+whatagame222 folds.
+from0to1 folds.
+Creating Main Pot with $300 with tombausks
+** Summary **
+Main Pot: 300
+
+Walzzje balance 2990, didn't bet (folded)
+Rob13444 balance 3650, didn't bet (folded)
+BIGA911 balance 1920, didn't bet (folded)
+hatoka balance 2050, didn't bet (folded)
+navydad555 balance 1750, didn't bet (folded)
+whatagame222 balance 1390, lost 100 (folded)
+from0to1 balance 4210, lost 100 (folded)
+tombausks balance 2040, bet 1840, collected 2040, net +200
+
+***** Hand History for Game 5928853506 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33200729)  - Tue May 01 16:22:05 EDT 2007
+Table Speed 1330064 (Real Money) -- Seat 9 is the button
+Total number of players : 8
+Seat 1: Walzzje (2990)
+Seat 2: Rob13444 (3650)
+Seat 4: BIGA911 (1920)
+Seat 6: hatoka (2050)
+Seat 7: navydad555 (1750)
+Seat 8: whatagame222 (1390)
+Seat 9: from0to1 (4210)
+Seat 10: tombausks (2040)
+tombausks  posts small blind (50)
+Walzzje  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 4c, 9s ]
+Rob13444 folds.
+BIGA911 folds.
+hatoka folds.
+navydad555 folds.
+whatagame222 folds.
+from0to1 folds.
+tombausks raises (250) to 300
+Walzzje calls (200)
+** Dealing Flop ** :  [ Td, 4d, 6h ]
+tombausks bets (1740)
+tombausks is all-In.
+Walzzje calls (1740)
+** Dealing Turn ** :  [ Kc ]
+** Dealing River ** :  [ Qs ]
+Creating Main Pot with $4080 with tombausks
+** Summary **
+Main Pot: 4080
+Board: [ Td 4d 6h Kc Qs  ]
+
+Walzzje balance 950, lost 2040 [ 6c Ac ] [ a pair of Sixes -- Ac,Kc,Qs,6c,6h ]
+Rob13444 balance 3650, didn't bet (folded)
+BIGA911 balance 1920, didn't bet (folded)
+hatoka balance 2050, didn't bet (folded)
+navydad555 balance 1750, didn't bet (folded)
+whatagame222 balance 1390, didn't bet (folded)
+from0to1 balance 4210, didn't bet (folded)
+tombausks balance 4080, bet 2040, collected 4080, net +2040 [ Ad Jc ] [ a straight Ten to Ace -- Ad,Kc,Qs,Jc,Td ]
+
+***** Hand History for Game 5928856900 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33200729)  - Tue May 01 16:22:54 EDT 2007
+Table Speed 1330064 (Real Money) -- Seat 10 is the button
+Total number of players : 8
+Seat 1: Walzzje (950)
+Seat 2: Rob13444 (3650)
+Seat 4: BIGA911 (1920)
+Seat 6: hatoka (2050)
+Seat 7: navydad555 (1750)
+Seat 8: whatagame222 (1390)
+Seat 9: from0to1 (4210)
+Seat 10: tombausks (4080)
+Walzzje  posts small blind (50)
+Rob13444  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Ks, 7h ]
+BIGA911 folds.
+hatoka folds.
+navydad555 folds.
+whatagame222 folds.
+from0to1 folds.
+tombausks raises (200) to 200
+Walzzje folds.
+Rob13444 calls (100)
+** Dealing Flop ** :  [ 7c, 2h, Qd ]
+Rob13444 checks.
+tombausks bets (300)
+Rob13444 folds.
+** Summary **
+Main Pot: 450
+Board: [ 7c 2h Qd  ]
+
+Walzzje balance 900, lost 50 (folded)
+Rob13444 balance 3450, lost 200 (folded)
+BIGA911 balance 1920, didn't bet (folded)
+hatoka balance 2050, didn't bet (folded)
+navydad555 balance 1750, didn't bet (folded)
+whatagame222 balance 1390, didn't bet (folded)
+from0to1 balance 4210, didn't bet (folded)
+tombausks balance 4330, bet 500, collected 750, net +250
+
+***** Hand History for Game 5928858954 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33200729)  - Tue May 01 16:23:25 EDT 2007
+Table Speed 1330064 (Real Money) -- Seat 1 is the button
+Total number of players : 8
+Seat 1: Walzzje (900)
+Seat 2: Rob13444 (3450)
+Seat 4: BIGA911 (1920)
+Seat 6: hatoka (2050)
+Seat 7: navydad555 (1750)
+Seat 8: whatagame222 (1390)
+Seat 9: from0to1 (4210)
+Seat 10: tombausks (4330)
+Rob13444  posts small blind (50)
+BIGA911  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 2c, 6c ]
+hatoka folds.
+navydad555 folds.
+whatagame222 folds.
+from0to1 folds.
+tombausks folds.
+Walzzje folds.
+Rob13444 calls (50)
+BIGA911 checks.
+** Dealing Flop ** :  [ Qh, 2s, Ah ]
+Rob13444 checks.
+BIGA911 bets (100)
+Rob13444 folds.
+** Summary **
+Main Pot: 200
+Board: [ Qh 2s Ah  ]
+
+Walzzje balance 900, didn't bet (folded)
+Rob13444 balance 3350, lost 100 (folded)
+BIGA911 balance 2020, bet 200, collected 300, net +100
+hatoka balance 2050, didn't bet (folded)
+navydad555 balance 1750, didn't bet (folded)
+whatagame222 balance 1390, didn't bet (folded)
+from0to1 balance 4210, didn't bet (folded)
+tombausks balance 4330, didn't bet (folded)
+
+***** Hand History for Game 5928861525 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33200729)  - Tue May 01 16:24:02 EDT 2007
+Table Speed 1330064 (Real Money) -- Seat 2 is the button
+Total number of players : 8
+Seat 1: Walzzje (900)
+Seat 2: Rob13444 (3350)
+Seat 4: BIGA911 (2020)
+Seat 6: hatoka (2050)
+Seat 7: navydad555 (1750)
+Seat 8: whatagame222 (1390)
+Seat 9: from0to1 (4210)
+Seat 10: tombausks (4330)
+BIGA911  posts small blind (100)
+hatoka  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 3h, Jd ]
+navydad555 folds.
+whatagame222 folds.
+from0to1 folds.
+tombausks folds.
+Walzzje raises (400) to 400
+Rob13444 folds.
+BIGA911 folds.
+hatoka folds.
+** Summary **
+Main Pot: 500
+
+Walzzje balance 1200, bet 400, collected 700, net +300
+Rob13444 balance 3350, didn't bet (folded)
+BIGA911 balance 1920, lost 100 (folded)
+hatoka balance 1850, lost 200 (folded)
+navydad555 balance 1750, didn't bet (folded)
+whatagame222 balance 1390, didn't bet (folded)
+from0to1 balance 4210, didn't bet (folded)
+tombausks balance 4330, didn't bet (folded)
+
+***** Hand History for Game 5928864116 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33200729)  - Tue May 01 16:24:41 EDT 2007
+Table Speed 1330064 (Real Money) -- Seat 4 is the button
+Total number of players : 8
+Seat 1: Walzzje (1200)
+Seat 2: Rob13444 (3350)
+Seat 4: BIGA911 (1920)
+Seat 6: hatoka (1850)
+Seat 7: navydad555 (1750)
+Seat 8: whatagame222 (1390)
+Seat 9: from0to1 (4210)
+Seat 10: tombausks (4330)
+hatoka  posts small blind (100)
+navydad555  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 8c, Ad ]
+whatagame222 folds.
+from0to1 folds.
+tombausks folds.
+Walzzje folds.
+Rob13444 calls (200)
+BIGA911 folds.
+hatoka raises (300) to 400
+navydad555 calls (200)
+Rob13444 calls (200)
+** Dealing Flop ** :  [ 9c, Td, 5h ]
+hatoka checks.
+navydad555 bets (1000)
+Rob13444 calls (1000)
+hatoka folds.
+** Dealing Turn ** :  [ Qs ]
+navydad555 bets (350)
+navydad555 is all-In.
+Rob13444 calls (350)
+** Dealing River ** :  [ 6d ]
+Creating Main Pot with $3900 with navydad555
+** Summary **
+Main Pot: 3900
+Board: [ 9c Td 5h Qs 6d  ]
+
+Walzzje balance 1200, didn't bet (folded)
+Rob13444 balance 1600, lost 1750 [ 9d Ac ] [ a pair of Nines -- Ac,Qs,Td,9d,9c ]
+BIGA911 balance 1920, didn't bet (folded)
+hatoka balance 1450, lost 400 (folded)
+navydad555 balance 3900, bet 1750, collected 3900, net +2150 [ 5d Tc ] [ two pairs, Tens and Fives -- Qs,Tc,Td,5d,5h ]
+whatagame222 balance 1390, didn't bet (folded)
+from0to1 balance 4210, didn't bet (folded)
+tombausks balance 4330, didn't bet (folded)
+
+***** Hand History for Game 5928867388 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33200729)  - Tue May 01 16:25:29 EDT 2007
+Table Speed 1330064 (Real Money) -- Seat 6 is the button
+Total number of players : 8
+Seat 1: Walzzje (1200)
+Seat 2: Rob13444 (1600)
+Seat 4: BIGA911 (1920)
+Seat 6: hatoka (1450)
+Seat 7: navydad555 (3900)
+Seat 8: whatagame222 (1390)
+Seat 9: from0to1 (4210)
+Seat 10: tombausks (4330)
+navydad555  posts small blind (100)
+whatagame222  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 2s, Td ]
+from0to1 folds.
+tombausks folds.
+Walzzje folds.
+Rob13444 calls (200)
+BIGA911 folds.
+hatoka folds.
+navydad555 raises (300) to 400
+whatagame222 folds.
+Rob13444 calls (200)
+** Dealing Flop ** :  [ Jh, 9d, As ]
+navydad555 bets (600)
+Rob13444 folds.
+** Summary **
+Main Pot: 1000
+Board: [ Jh 9d As  ]
+
+Walzzje balance 1200, didn't bet (folded)
+Rob13444 balance 1200, lost 400 (folded)
+BIGA911 balance 1920, didn't bet (folded)
+hatoka balance 1450, didn't bet (folded)
+navydad555 balance 4500, bet 1000, collected 1600, net +600
+whatagame222 balance 1190, lost 200 (folded)
+from0to1 balance 4210, didn't bet (folded)
+tombausks balance 4330, didn't bet (folded)
+
+***** Hand History for Game 5928870263 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33200729)  - Tue May 01 16:26:10 EDT 2007
+Table Speed 1330064 (Real Money) -- Seat 7 is the button
+Total number of players : 8
+Seat 1: Walzzje (1200)
+Seat 2: Rob13444 (1200)
+Seat 4: BIGA911 (1920)
+Seat 6: hatoka (1450)
+Seat 7: navydad555 (4500)
+Seat 8: whatagame222 (1190)
+Seat 9: from0to1 (4210)
+Seat 10: tombausks (4330)
+whatagame222  posts small blind (100)
+from0to1  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 6h, 2c ]
+tombausks calls (200)
+Walzzje folds.
+Rob13444 folds.
+BIGA911 folds.
+hatoka folds.
+navydad555 folds.
+whatagame222 calls (100)
+from0to1 checks.
+** Dealing Flop ** :  [ Kc, Kh, 3s ]
+whatagame222 checks.
+from0to1 checks.
+tombausks checks.
+** Dealing Turn ** :  [ Ad ]
+whatagame222 checks.
+from0to1 bets (600)
+tombausks folds.
+whatagame222 raises (990) to 990
+whatagame222 is all-In.
+from0to1 folds.
+Creating Main Pot with $1800 with whatagame222
+** Summary **
+Main Pot: 1800
+Board: [ Kc Kh 3s Ad  ]
+
+Walzzje balance 1200, didn't bet (folded)
+Rob13444 balance 1200, didn't bet (folded)
+BIGA911 balance 1920, didn't bet (folded)
+hatoka balance 1450, didn't bet (folded)
+navydad555 balance 4500, didn't bet (folded)
+whatagame222 balance 2190, bet 1190, collected 2190, net +1000
+from0to1 balance 3410, lost 800 (folded)
+tombausks balance 4130, lost 200 (folded)
+
+***** Hand History for Game 5928874146 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33200729)  - Tue May 01 16:27:07 EDT 2007
+Table Speed 1330064 (Real Money) -- Seat 8 is the button
+Total number of players : 8
+Seat 1: Walzzje (1200)
+Seat 2: Rob13444 (1200)
+Seat 4: BIGA911 (1920)
+Seat 6: hatoka (1450)
+Seat 7: navydad555 (4500)
+Seat 8: whatagame222 (2190)
+Seat 9: from0to1 (3410)
+Seat 10: tombausks (4130)
+from0to1  posts small blind (100)
+tombausks  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 4s, 3s ]
+Walzzje folds.
+Rob13444 folds.
+BIGA911 folds.
+hatoka folds.
+navydad555 folds.
+whatagame222 folds.
+from0to1 calls (100)
+tombausks checks.
+** Dealing Flop ** :  [ 5h, Jd, Qc ]
+from0to1 checks.
+tombausks checks.
+** Dealing Turn ** :  [ 7d ]
+from0to1 checks.
+tombausks bets (200)
+from0to1 folds.
+** Summary **
+Main Pot: 400
+Board: [ 5h Jd Qc 7d  ]
+
+Walzzje balance 1200, didn't bet (folded)
+Rob13444 balance 1200, didn't bet (folded)
+BIGA911 balance 1920, didn't bet (folded)
+hatoka balance 1450, didn't bet (folded)
+navydad555 balance 4500, didn't bet (folded)
+whatagame222 balance 2190, didn't bet (folded)
+from0to1 balance 3210, lost 200 (folded)
+tombausks balance 4330, bet 400, collected 600, net +200
+
+***** Hand History for Game 5928876128 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33200729)  - Tue May 01 16:27:37 EDT 2007
+Table Speed 1330064 (Real Money) -- Seat 9 is the button
+Total number of players : 8
+Seat 1: Walzzje (1200)
+Seat 2: Rob13444 (1200)
+Seat 4: BIGA911 (1920)
+Seat 6: hatoka (1450)
+Seat 7: navydad555 (4500)
+Seat 8: whatagame222 (2190)
+Seat 9: from0to1 (3210)
+Seat 10: tombausks (4330)
+tombausks  posts small blind (100)
+Walzzje  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ As, 2d ]
+Rob13444 calls (200)
+BIGA911 folds.
+hatoka raises (400) to 400
+navydad555 folds.
+whatagame222 folds.
+from0to1 folds.
+tombausks folds.
+Walzzje calls (200)
+Rob13444 calls (200)
+** Dealing Flop ** :  [ 8d, Kd, Ad ]
+Walzzje bets (800)
+Walzzje is all-In.
+Rob13444 calls (800)
+Rob13444 is all-In.
+hatoka calls (800)
+** Dealing Turn ** :  [ 3c ]
+** Dealing River ** :  [ 9c ]
+Creating Main Pot with $3700 with Walzzje,Rob13444
+** Summary **
+Main Pot: 3700
+Board: [ 8d Kd Ad 3c 9c  ]
+
+Walzzje balance 0, lost 1200 [ Jd Qc ] [ high card Ace -- Ad,Kd,Qc,Jd,9c ]
+Rob13444 balance 1850, bet 1200, collected 1850, net +650 [ 4h Ac ] [ a pair of Aces -- Ac,Ad,Kd,9c,8d ]
+BIGA911 balance 1920, didn't bet (folded)
+hatoka balance 2100, bet 1200, collected 1850, net +650 [ As 2d ] [ a pair of Aces -- As,Ad,Kd,9c,8d ]
+navydad555 balance 4500, didn't bet (folded)
+whatagame222 balance 2190, didn't bet (folded)
+from0to1 balance 3210, didn't bet (folded)
+tombausks balance 4230, lost 100 (folded)
+
+***** Hand History for Game 5928878945 *****
+Walzzje finished in 8 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33200729)  - Tue May 01 16:28:18 EDT 2007
+Table Speed 1330064 (Real Money) -- Seat 10 is the button
+Total number of players : 7
+Seat 2: Rob13444 (1850)
+Seat 4: BIGA911 (1920)
+Seat 6: hatoka (2100)
+Seat 7: navydad555 (4500)
+Seat 8: whatagame222 (2190)
+Seat 9: from0to1 (3210)
+Seat 10: tombausks (4230)
+Rob13444  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Ah, 6h ]
+BIGA911 raises (600) to 600
+hatoka raises (1000) to 1000
+navydad555 folds.
+whatagame222 folds.
+from0to1 folds.
+tombausks folds.
+Rob13444 folds.
+BIGA911 calls (400)
+** Dealing Flop ** :  [ 3c, Qh, 9c ]
+BIGA911 bets (920)
+BIGA911 is all-In.
+hatoka folds.
+Creating Main Pot with $2200 with BIGA911
+** Summary **
+Main Pot: 2200
+Board: [ 3c Qh 9c  ]
+
+Rob13444 balance 1650, lost 200 (folded)
+BIGA911 balance 3120, bet 1920, collected 3120, net +1200
+hatoka balance 1100, lost 1000 (folded)
+navydad555 balance 4500, didn't bet (folded)
+whatagame222 balance 2190, didn't bet (folded)
+from0to1 balance 3210, didn't bet (folded)
+tombausks balance 4230, didn't bet (folded)
+
+***** Hand History for Game 5928881811 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33200729)  - Tue May 01 16:28:59 EDT 2007
+Table Speed 1330064 (Real Money) -- Seat 10 is the button
+Total number of players : 7
+Seat 2: Rob13444 (1650)
+Seat 4: BIGA911 (3120)
+Seat 6: hatoka (1100)
+Seat 7: navydad555 (4500)
+Seat 8: whatagame222 (2190)
+Seat 9: from0to1 (3210)
+Seat 10: tombausks (4230)
+Rob13444  posts small blind (100)
+BIGA911  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 8h, 5d ]
+hatoka folds.
+navydad555 folds.
+whatagame222 calls (200)
+from0to1 folds.
+tombausks folds.
+Rob13444 folds.
+BIGA911 checks.
+** Dealing Flop ** :  [ 3c, Qs, 4c ]
+BIGA911 checks.
+whatagame222 bets (600)
+BIGA911 folds.
+** Summary **
+Main Pot: 500
+Board: [ 3c Qs 4c  ]
+
+Rob13444 balance 1550, lost 100 (folded)
+BIGA911 balance 2920, lost 200 (folded)
+hatoka balance 1100, didn't bet (folded)
+navydad555 balance 4500, didn't bet (folded)
+whatagame222 balance 2490, bet 800, collected 1100, net +300
+from0to1 balance 3210, didn't bet (folded)
+tombausks balance 4230, didn't bet (folded)
+
+***** Hand History for Game 5928883635 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33200729)  - Tue May 01 16:29:26 EDT 2007
+Table Speed 1330064 (Real Money) -- Seat 2 is the button
+Total number of players : 7
+Seat 2: Rob13444 (1550)
+Seat 4: BIGA911 (2920)
+Seat 6: hatoka (1100)
+Seat 7: navydad555 (4500)
+Seat 8: whatagame222 (2490)
+Seat 9: from0to1 (3210)
+Seat 10: tombausks (4230)
+BIGA911  posts small blind (200)
+hatoka  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ Qs, Qd ]
+navydad555 folds.
+whatagame222 folds.
+from0to1 folds.
+tombausks raises (1200) to 1200
+Rob13444 folds.
+BIGA911 calls (1000)
+hatoka calls (700)
+hatoka is all-In.
+Creating Main Pot with $3300 with hatoka
+** Dealing Flop ** :  [ 8s, Kc, 5c ]
+BIGA911 checks.
+tombausks bets (400)
+BIGA911 folds.
+** Dealing Turn ** :  [ 3h ]
+** Dealing River ** :  [ 6s ]
+** Summary **
+Main Pot: 3300 | Side Pot 1: 200
+Board: [ 8s Kc 5c 3h 6s  ]
+
+Rob13444 balance 1550, didn't bet (folded)
+BIGA911 balance 1720, lost 1200 (folded)
+hatoka balance 3300, bet 1100, collected 3300, net +2200 [ Qs Qd ] [ a pair of Queens -- Kc,Qs,Qd,8s,6s ]
+navydad555 balance 4500, didn't bet (folded)
+whatagame222 balance 2490, didn't bet (folded)
+from0to1 balance 3210, didn't bet (folded)
+tombausks balance 3230, bet 1600, collected 600, lost -1000 [ Th Tc ] [ a pair of Tens -- Kc,Th,Tc,8s,6s ]
+
+***** Hand History for Game 5928886076 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33200729)  - Tue May 01 16:30:03 EDT 2007
+Table Speed 1330064 (Real Money) -- Seat 4 is the button
+Total number of players : 7
+Seat 2: Rob13444 (1550)
+Seat 4: BIGA911 (1720)
+Seat 6: hatoka (3300)
+Seat 7: navydad555 (4500)
+Seat 8: whatagame222 (2490)
+Seat 9: from0to1 (3210)
+Seat 10: tombausks (3230)
+hatoka  posts small blind (200)
+navydad555  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 9d, 5d ]
+whatagame222 calls (400)
+from0to1 folds.
+tombausks folds.
+Rob13444 calls (400)
+BIGA911 folds.
+hatoka calls (200)
+navydad555 checks.
+** Dealing Flop ** :  [ Tc, Th, 8d ]
+hatoka checks.
+navydad555 checks.
+whatagame222 bets (400)
+Rob13444 calls (400)
+hatoka folds.
+navydad555 folds.
+** Dealing Turn ** :  [ Qs ]
+whatagame222 bets (400)
+Rob13444 calls (400)
+** Dealing River ** :  [ Jd ]
+whatagame222 bets (1290)
+whatagame222 is all-In.
+Rob13444 calls (350)
+Rob13444 is all-In.
+Creating Main Pot with $3900 with Rob13444
+** Summary **
+Main Pot: 3900
+Board: [ Tc Th 8d Qs Jd  ]
+
+Rob13444 balance 0, lost 1550 [ Kh Td ] [ three of a kind, Tens -- Kh,Qs,Td,Tc,Th ]
+BIGA911 balance 1720, didn't bet (folded)
+hatoka balance 2900, lost 400 (folded)
+navydad555 balance 4100, lost 400 (folded)
+whatagame222 balance 4840, bet 2490, collected 4840, net +2350 [ As Ks ] [ a straight Ten to Ace -- As,Ks,Qs,Jd,Tc ]
+from0to1 balance 3210, didn't bet (folded)
+tombausks balance 3230, didn't bet (folded)
+
+***** Hand History for Game 5928890746 *****
+Rob13444 finished in 7 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33200729)  - Tue May 01 16:31:14 EDT 2007
+Table Speed 1330064 (Real Money) -- Seat 6 is the button
+Total number of players : 6
+Seat 4: BIGA911 (1720)
+Seat 6: hatoka (2900)
+Seat 7: navydad555 (4100)
+Seat 8: whatagame222 (4840)
+Seat 9: from0to1 (3210)
+Seat 10: tombausks (3230)
+navydad555  posts small blind (200)
+whatagame222  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 7c, 9d ]
+from0to1 folds.
+tombausks folds.
+BIGA911 raises (1720) to 1720
+BIGA911 is all-In.
+hatoka folds.
+navydad555 folds.
+whatagame222 folds.
+Creating Main Pot with $1000 with BIGA911
+** Summary **
+Main Pot: 1000
+
+BIGA911 balance 2320, bet 1720, collected 2320, net +600
+hatoka balance 2900, didn't bet (folded)
+navydad555 balance 3900, lost 200 (folded)
+whatagame222 balance 4440, lost 400 (folded)
+from0to1 balance 3210, didn't bet (folded)
+tombausks balance 3230, didn't bet (folded)
+
+***** Hand History for Game 5928892284 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33200729)  - Tue May 01 16:31:35 EDT 2007
+Table Speed 1330064 (Real Money) -- Seat 7 is the button
+Total number of players : 6
+Seat 4: BIGA911 (2320)
+Seat 6: hatoka (2900)
+Seat 7: navydad555 (3900)
+Seat 8: whatagame222 (4440)
+Seat 9: from0to1 (3210)
+Seat 10: tombausks (3230)
+whatagame222  posts small blind (200)
+from0to1  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 2d, Th ]
+tombausks folds.
+BIGA911 folds.
+hatoka folds.
+navydad555 folds.
+whatagame222 calls (200)
+from0to1 checks.
+** Dealing Flop ** :  [ 8c, 4s, Ks ]
+whatagame222 bets (400)
+from0to1 folds.
+** Summary **
+Main Pot: 800
+Board: [ 8c 4s Ks  ]
+
+BIGA911 balance 2320, didn't bet (folded)
+hatoka balance 2900, didn't bet (folded)
+navydad555 balance 3900, didn't bet (folded)
+whatagame222 balance 4840, bet 800, collected 1200, net +400
+from0to1 balance 2810, lost 400 (folded)
+tombausks balance 3230, didn't bet (folded)
+
+***** Hand History for Game 5928894446 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33200729)  - Tue May 01 16:32:08 EDT 2007
+Table Speed 1330064 (Real Money) -- Seat 8 is the button
+Total number of players : 6
+Seat 4: BIGA911 (2320)
+Seat 6: hatoka (2900)
+Seat 7: navydad555 (3900)
+Seat 8: whatagame222 (4840)
+Seat 9: from0to1 (2810)
+Seat 10: tombausks (3230)
+from0to1  posts small blind (200)
+tombausks  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 7s, 7h ]
+BIGA911 folds.
+hatoka raises (1200) to 1200
+navydad555 folds.
+whatagame222 folds.
+from0to1 folds.
+tombausks calls (800)
+** Dealing Flop ** :  [ 7d, 5h, 2d ]
+tombausks checks.
+hatoka bets (1700)
+hatoka is all-In.
+tombausks folds.
+Creating Main Pot with $2600 with hatoka
+** Summary **
+Main Pot: 2600
+Board: [ 7d 5h 2d  ]
+
+BIGA911 balance 2320, didn't bet (folded)
+hatoka balance 4300, bet 2900, collected 4300, net +1400
+navydad555 balance 3900, didn't bet (folded)
+whatagame222 balance 4840, didn't bet (folded)
+from0to1 balance 2610, lost 200 (folded)
+tombausks balance 2030, lost 1200 (folded)
+
+***** Hand History for Game 5928897131 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33200729)  - Tue May 01 16:32:48 EDT 2007
+Table Speed 1330064 (Real Money) -- Seat 9 is the button
+Total number of players : 6
+Seat 4: BIGA911 (2320)
+Seat 6: hatoka (4300)
+Seat 7: navydad555 (3900)
+Seat 8: whatagame222 (4840)
+Seat 9: from0to1 (2610)
+Seat 10: tombausks (2030)
+tombausks  posts small blind (200)
+BIGA911  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 6d, 2c ]
+hatoka folds.
+navydad555 raises (1200) to 1200
+whatagame222 folds.
+from0to1 folds.
+tombausks folds.
+BIGA911 folds.
+** Summary **
+Main Pot: 1000
+
+BIGA911 balance 1920, lost 400 (folded)
+hatoka balance 4300, didn't bet (folded)
+navydad555 balance 4500, bet 1200, collected 1800, net +600
+whatagame222 balance 4840, didn't bet (folded)
+from0to1 balance 2610, didn't bet (folded)
+tombausks balance 1830, lost 200 (folded)
+
+***** Hand History for Game 5928899087 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33200729)  - Tue May 01 16:33:17 EDT 2007
+Table Speed 1330064 (Real Money) -- Seat 10 is the button
+Total number of players : 6
+Seat 4: BIGA911 (1920)
+Seat 6: hatoka (4300)
+Seat 7: navydad555 (4500)
+Seat 8: whatagame222 (4840)
+Seat 9: from0to1 (2610)
+Seat 10: tombausks (1830)
+BIGA911  posts small blind (200)
+hatoka  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ Kh, Jd ]
+navydad555 folds.
+whatagame222 folds.
+from0to1 folds.
+tombausks folds.
+BIGA911 folds.
+** Summary **
+Main Pot: 400
+
+BIGA911 balance 1720, lost 200 (folded)
+hatoka balance 4500, bet 400, collected 600, net +200
+navydad555 balance 4500, didn't bet (folded)
+whatagame222 balance 4840, didn't bet (folded)
+from0to1 balance 2610, didn't bet (folded)
+tombausks balance 1830, didn't bet (folded)
+
+***** Hand History for Game 5928899670 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33200729)  - Tue May 01 16:33:26 EDT 2007
+Table Speed 1330064 (Real Money) -- Seat 4 is the button
+Total number of players : 6
+Seat 4: BIGA911 (1720)
+Seat 6: hatoka (4500)
+Seat 7: navydad555 (4500)
+Seat 8: whatagame222 (4840)
+Seat 9: from0to1 (2610)
+Seat 10: tombausks (1830)
+hatoka  posts small blind (200)
+navydad555  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ Tc, As ]
+whatagame222 folds.
+from0to1 folds.
+tombausks folds.
+BIGA911 raises (1720) to 1720
+BIGA911 is all-In.
+hatoka calls (1520)
+navydad555 folds.
+** Dealing Flop ** :  [ 8h, Ts, 9c ]
+** Dealing Turn ** :  [ Ah ]
+** Dealing River ** :  [ Qc ]
+Creating Main Pot with $3840 with BIGA911
+** Summary **
+Main Pot: 3840
+Board: [ 8h Ts 9c Ah Qc  ]
+
+BIGA911 balance 3840, bet 1720, collected 3840, net +2120 [ 9h Jc ] [ a straight Eight to Queen -- Qc,Jc,Ts,9h,8h ]
+hatoka balance 2780, lost 1720 [ Tc As ] [ two pairs, Aces and Tens -- As,Ah,Qc,Tc,Ts ]
+navydad555 balance 4100, lost 400 (folded)
+whatagame222 balance 4840, didn't bet (folded)
+from0to1 balance 2610, didn't bet (folded)
+tombausks balance 1830, didn't bet (folded)
+
+***** Hand History for Game 5928901896 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33200729)  - Tue May 01 16:33:59 EDT 2007
+Table Speed 1330064 (Real Money) -- Seat 6 is the button
+Total number of players : 6
+Seat 4: BIGA911 (3840)
+Seat 6: hatoka (2780)
+Seat 7: navydad555 (4100)
+Seat 8: whatagame222 (4840)
+Seat 9: from0to1 (2610)
+Seat 10: tombausks (1830)
+navydad555  posts small blind (200)
+whatagame222  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 9h, Jh ]
+from0to1 folds.
+tombausks calls (400)
+BIGA911 folds.
+hatoka folds.
+navydad555 calls (200)
+whatagame222 checks.
+** Dealing Flop ** :  [ 4c, As, 4d ]
+navydad555 checks.
+whatagame222 checks.
+tombausks checks.
+** Dealing Turn ** :  [ Ad ]
+navydad555 checks.
+whatagame222 checks.
+tombausks bets (1430)
+tombausks is all-In.
+navydad555 folds.
+whatagame222 folds.
+Creating Main Pot with $1200 with tombausks
+** Summary **
+Main Pot: 1200
+Board: [ 4c As 4d Ad  ]
+
+BIGA911 balance 3840, didn't bet (folded)
+hatoka balance 2780, didn't bet (folded)
+navydad555 balance 3700, lost 400 (folded)
+whatagame222 balance 4440, lost 400 (folded)
+from0to1 balance 2610, didn't bet (folded)
+tombausks balance 2630, bet 1830, collected 2630, net +800
+
+***** Hand History for Game 5928906622 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33200729)  - Tue May 01 16:35:10 EDT 2007
+Table Speed 1330064 (Real Money) -- Seat 7 is the button
+Total number of players : 6
+Seat 4: BIGA911 (3840)
+Seat 6: hatoka (2780)
+Seat 7: navydad555 (3700)
+Seat 8: whatagame222 (4440)
+Seat 9: from0to1 (2610)
+Seat 10: tombausks (2630)
+whatagame222  posts small blind (300)
+from0to1  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ 7h, Ks ]
+tombausks folds.
+BIGA911 folds.
+hatoka folds.
+navydad555 folds.
+whatagame222 calls (300)
+from0to1 raises (2010) to 2610
+from0to1 is all-In.
+whatagame222 folds.
+Creating Main Pot with $1200 with from0to1
+** Summary **
+Main Pot: 1200
+
+BIGA911 balance 3840, didn't bet (folded)
+hatoka balance 2780, didn't bet (folded)
+navydad555 balance 3700, didn't bet (folded)
+whatagame222 balance 3840, lost 600 (folded)
+from0to1 balance 3210, bet 2610, collected 3210, net +600
+tombausks balance 2630, didn't bet (folded)
+
+***** Hand History for Game 5928909584 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33200729)  - Tue May 01 16:35:55 EDT 2007
+Table Speed 1330064 (Real Money) -- Seat 8 is the button
+Total number of players : 6
+Seat 4: BIGA911 (3840)
+Seat 6: hatoka (2780)
+Seat 7: navydad555 (3700)
+Seat 8: whatagame222 (3840)
+Seat 9: from0to1 (3210)
+Seat 10: tombausks (2630)
+from0to1  posts small blind (300)
+tombausks  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ As, 3c ]
+BIGA911 raises (1800) to 1800
+hatoka folds.
+navydad555 folds.
+whatagame222 folds.
+from0to1 folds.
+tombausks folds.
+** Summary **
+Main Pot: 1500
+
+BIGA911 balance 4740, bet 1800, collected 2700, net +900
+hatoka balance 2780, didn't bet (folded)
+navydad555 balance 3700, didn't bet (folded)
+whatagame222 balance 3840, didn't bet (folded)
+from0to1 balance 2910, lost 300 (folded)
+tombausks balance 2030, lost 600 (folded)
+
+***** Hand History for Game 5928910315 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33200729)  - Tue May 01 16:36:05 EDT 2007
+Table Speed 1330064 (Real Money) -- Seat 9 is the button
+Total number of players : 6
+Seat 4: BIGA911 (4740)
+Seat 6: hatoka (2780)
+Seat 7: navydad555 (3700)
+Seat 8: whatagame222 (3840)
+Seat 9: from0to1 (2910)
+Seat 10: tombausks (2030)
+tombausks  posts small blind (300)
+BIGA911  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ Ac, 8c ]
+hatoka raises (1200) to 1200
+navydad555 calls (1200)
+whatagame222 folds.
+from0to1 folds.
+tombausks folds.
+BIGA911 folds.
+** Dealing Flop ** :  [ 2c, Td, Jd ]
+hatoka bets (600)
+navydad555 raises (1200) to 1200
+hatoka calls (600)
+** Dealing Turn ** :  [ 3h ]
+hatoka checks.
+navydad555 bets (600)
+hatoka calls (380)
+hatoka is all-In.
+** Dealing River ** :  [ 6s ]
+Creating Main Pot with $6460 with hatoka
+** Summary **
+Main Pot: 6460
+Board: [ 2c Td Jd 3h 6s  ]
+
+BIGA911 balance 4140, lost 600 (folded)
+hatoka balance 0, lost 2780 [ Ac 8c ] [ high card Ace -- Ac,Jd,Td,8c,6s ]
+navydad555 balance 7380, bet 3000, collected 6680, net +3680 [ 2h 2s ] [ three of a kind, Twos -- Jd,Td,2h,2s,2c ]
+whatagame222 balance 3840, didn't bet (folded)
+from0to1 balance 2910, didn't bet (folded)
+tombausks balance 1730, lost 300 (folded)
+
+***** Hand History for Game 5928913073 *****
+hatoka finished in 6 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33200729)  - Tue May 01 16:36:47 EDT 2007
+Table Speed 1330064 (Real Money) -- Seat 10 is the button
+Total number of players : 5
+Seat 4: BIGA911 (4140)
+Seat 7: navydad555 (7380)
+Seat 8: whatagame222 (3840)
+Seat 9: from0to1 (2910)
+Seat 10: tombausks (1730)
+BIGA911  posts small blind (300)
+navydad555  posts big blind (600)
+** Dealing down cards **
+whatagame222 folds.
+from0to1 raises (1200) to 1200
+tombausks folds.
+BIGA911 folds.
+navydad555 folds.
+** Summary **
+Main Pot: 1500
+
+BIGA911 balance 3840, lost 300 (folded)
+navydad555 balance 6780, lost 600 (folded)
+whatagame222 balance 3840, didn't bet (folded)
+from0to1 balance 3810, bet 1200, collected 2100, net +900 [ Td Ad ] [ high card Ace -- Ad,Td ]
+tombausks balance 1730, didn't bet (folded)
+
+***** Hand History for Game 5928914841 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33200729)  - Tue May 01 16:37:14 EDT 2007
+Table Speed 1330064 (Real Money) -- Seat 4 is the button
+Total number of players : 5
+Seat 4: BIGA911 (3840)
+Seat 7: navydad555 (6780)
+Seat 8: whatagame222 (3840)
+Seat 9: from0to1 (3810)
+Seat 10: tombausks (1730)
+navydad555  posts small blind (300)
+whatagame222  posts big blind (600)
+** Dealing down cards **
+from0to1 calls (600)
+tombausks folds.
+BIGA911 folds.
+navydad555 calls (300)
+whatagame222 checks.
+** Dealing Flop ** :  [ Tc, 3s, Qh ]
+navydad555 checks.
+whatagame222 checks.
+from0to1 checks.
+** Dealing Turn ** :  [ Td ]
+navydad555 bets (1200)
+whatagame222 folds.
+from0to1 folds.
+** Summary **
+Main Pot: 1800
+Board: [ Tc 3s Qh Td  ]
+
+BIGA911 balance 3840, didn't bet (folded)
+navydad555 balance 7980, bet 1800, collected 3000, net +1200
+whatagame222 balance 3240, lost 600 (folded)
+from0to1 balance 3210, lost 600 (folded)
+tombausks balance 1730, didn't bet (folded)
+
+***** Hand History for Game 5928917777 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33200729)  - Tue May 01 16:37:58 EDT 2007
+Table Speed 1330064 (Real Money) -- Seat 7 is the button
+Total number of players : 5
+Seat 4: BIGA911 (3840)
+Seat 7: navydad555 (7980)
+Seat 8: whatagame222 (3240)
+Seat 9: from0to1 (3210)
+Seat 10: tombausks (1730)
+whatagame222  posts small blind (300)
+from0to1  posts big blind (600)
+** Dealing down cards **
+tombausks folds.
+BIGA911 raises (1800) to 1800
+navydad555 calls (1800)
+whatagame222 folds.
+from0to1 calls (1200)
+** Dealing Flop ** :  [ 2h, Qc, 5c ]
+from0to1 bets (1410)
+from0to1 is all-In.
+BIGA911 folds.
+navydad555 calls (1410)
+** Dealing Turn ** :  [ 6c ]
+** Dealing River ** :  [ 4s ]
+Creating Main Pot with $8520 with from0to1
+** Summary **
+Main Pot: 8520
+Board: [ 2h Qc 5c 6c 4s  ]
+
+BIGA911 balance 2040, lost 1800 (folded)
+navydad555 balance 4770, lost 3210 [ 8h Ah ] [ high card Ace -- Ah,Qc,8h,6c,5c ]
+whatagame222 balance 2940, lost 300 (folded)
+from0to1 balance 8520, bet 3210, collected 8520, net +5310 [ Qd Jd ] [ a pair of Queens -- Qd,Qc,Jd,6c,5c ]
+tombausks balance 1730, didn't bet (folded)
+
+***** Hand History for Game 5928920455 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33200729)  - Tue May 01 16:38:39 EDT 2007
+Table Speed 1330064 (Real Money) -- Seat 8 is the button
+Total number of players : 5
+Seat 4: BIGA911 (2040)
+Seat 7: navydad555 (4770)
+Seat 8: whatagame222 (2940)
+Seat 9: from0to1 (8520)
+Seat 10: tombausks (1730)
+from0to1  posts small blind (300)
+tombausks  posts big blind (600)
+** Dealing down cards **
+BIGA911 folds.
+navydad555 raises (4770) to 4770
+navydad555 is all-In.
+whatagame222 folds.
+from0to1 folds.
+tombausks calls (1130)
+tombausks is all-In.
+** Dealing Flop ** :  [ 8c, Qh, 5d ]
+** Dealing Turn ** :  [ 9c ]
+** Dealing River ** :  [ 7s ]
+Creating Main Pot with $3760 with tombausks
+** Summary **
+Main Pot: 3760
+Board: [ 8c Qh 5d 9c 7s  ]
+
+BIGA911 balance 2040, didn't bet (folded)
+navydad555 balance 3040, bet 4770, collected 3040, lost -1730 [ 4s 4h ] [ a pair of Fours -- Qh,9c,8c,4s,4h ]
+whatagame222 balance 2940, didn't bet (folded)
+from0to1 balance 8220, lost 300 (folded)
+tombausks balance 3760, bet 1730, collected 3760, net +2030 [ Kc Ks ] [ a pair of Kings -- Kc,Ks,Qh,9c,8c ]
+
+***** Hand History for Game 5928921763 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33200729)  - Tue May 01 16:38:59 EDT 2007
+Table Speed 1330064 (Real Money) -- Seat 9 is the button
+Total number of players : 5
+Seat 4: BIGA911 (2040)
+Seat 7: navydad555 (3040)
+Seat 8: whatagame222 (2940)
+Seat 9: from0to1 (8220)
+Seat 10: tombausks (3760)
+tombausks  posts small blind (300)
+BIGA911  posts big blind (600)
+** Dealing down cards **
+navydad555 folds.
+whatagame222 folds.
+from0to1 raises (1200) to 1200
+tombausks folds.
+BIGA911 folds.
+** Summary **
+Main Pot: 1500
+
+BIGA911 balance 1440, lost 600 (folded)
+navydad555 balance 3040, didn't bet (folded)
+whatagame222 balance 2940, didn't bet (folded)
+from0to1 balance 9120, bet 1200, collected 2100, net +900
+tombausks balance 3460, lost 300 (folded)
+
+***** Hand History for Game 5928923299 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33200729)  - Tue May 01 16:39:22 EDT 2007
+Table Speed 1330064 (Real Money) -- Seat 10 is the button
+Total number of players : 5
+Seat 4: BIGA911 (1440)
+Seat 7: navydad555 (3040)
+Seat 8: whatagame222 (2940)
+Seat 9: from0to1 (9120)
+Seat 10: tombausks (3460)
+BIGA911  posts small blind (300)
+navydad555  posts big blind (600)
+** Dealing down cards **
+whatagame222 folds.
+from0to1 folds.
+tombausks raises (3460) to 3460
+tombausks is all-In.
+BIGA911 folds.
+navydad555 calls (2440)
+navydad555 is all-In.
+** Dealing Flop ** :  [ Kd, Jd, 7c ]
+** Dealing Turn ** :  [ 6d ]
+** Dealing River ** :  [ 4c ]
+Creating Main Pot with $6380 with navydad555
+** Summary **
+Main Pot: 6380
+Board: [ Kd Jd 7c 6d 4c  ]
+
+BIGA911 balance 1140, lost 300 (folded)
+navydad555 balance 0, lost 3040 [ Ad 4h ] [ a pair of Fours -- Ad,Kd,Jd,4h,4c ]
+whatagame222 balance 2940, didn't bet (folded)
+from0to1 balance 9120, didn't bet (folded)
+tombausks balance 6800, bet 3460, collected 6800, net +3340 [ 8h 8d ] [ a pair of Eights -- Kd,Jd,8h,8d,7c ]
+
+***** Hand History for Game 5928924757 *****
+navydad555 finished in 5 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33200729)  - Tue May 01 16:39:45 EDT 2007
+Table Speed 1330064 (Real Money) -- Seat 4 is the button
+Total number of players : 4
+Seat 4: BIGA911 (1140)
+Seat 8: whatagame222 (2940)
+Seat 9: from0to1 (9120)
+Seat 10: tombausks (6800)
+whatagame222  posts big blind (600)
+** Dealing down cards **
+from0to1 raises (1200) to 1200
+tombausks folds.
+BIGA911 folds.
+whatagame222 calls (600)
+** Dealing Flop ** :  [ 9h, 5s, Jh ]
+whatagame222 bets (600)
+from0to1 raises (2400) to 2400
+whatagame222 calls (1140)
+whatagame222 is all-In.
+** Dealing Turn ** :  [ 9c ]
+** Dealing River ** :  [ 4c ]
+Creating Main Pot with $5880 with whatagame222
+** Summary **
+Main Pot: 5880
+Board: [ 9h 5s Jh 9c 4c  ]
+
+BIGA911 balance 1140, didn't bet (folded)
+whatagame222 balance 0, lost 2940 [ 7d As ] [ a pair of Nines -- As,Jh,9h,9c,7d ]
+from0to1 balance 12060, bet 3600, collected 6540, net +2940 [ Ad 5d ] [ two pairs, Nines and Fives -- Ad,9h,9c,5d,5s ]
+tombausks balance 6800, didn't bet (folded)
+
+***** Hand History for Game 5928927612 *****
+whatagame222 finished in 4 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33200729)  - Tue May 01 16:40:29 EDT 2007
+Table Speed 1330064 (Real Money) -- Seat 4 is the button
+Total number of players : 3
+Seat 4: BIGA911 (1140)
+Seat 9: from0to1 (12060)
+Seat 10: tombausks (6800)
+BIGA911  posts ante (25)
+from0to1  posts ante (25)
+tombausks  posts ante (25)
+from0to1  posts big blind (800)
+** Dealing down cards **
+tombausks folds.
+BIGA911 folds.
+** Summary **
+Main Pot: 75
+
+BIGA911 balance 1115, lost 25 (folded)
+from0to1 balance 12110, bet 825, collected 875, net +50
+tombausks balance 6775, lost 25 (folded)
+
+***** Hand History for Game 5928928474 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33200729)  - Tue May 01 16:40:42 EDT 2007
+Table Speed 1330064 (Real Money) -- Seat 4 is the button
+Total number of players : 3
+Seat 4: BIGA911 (1115)
+Seat 9: from0to1 (12110)
+Seat 10: tombausks (6775)
+BIGA911  posts ante (25)
+from0to1  posts ante (25)
+tombausks  posts ante (25)
+from0to1  posts small blind (400)
+tombausks  posts big blind (800)
+** Dealing down cards **
+BIGA911 folds.
+from0to1 folds.
+** Summary **
+Main Pot: 875
+
+BIGA911 balance 1090, lost 25 (folded)
+from0to1 balance 11685, lost 425 (folded)
+tombausks balance 7225, bet 825, collected 1275, net +450
+
+***** Hand History for Game 5928929474 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33200729)  - Tue May 01 16:40:58 EDT 2007
+Table Speed 1330064 (Real Money) -- Seat 9 is the button
+Total number of players : 3
+Seat 4: BIGA911 (1090)
+Seat 9: from0to1 (11685)
+Seat 10: tombausks (7225)
+BIGA911  posts ante (25)
+from0to1  posts ante (25)
+tombausks  posts ante (25)
+tombausks  posts small blind (400)
+BIGA911  posts big blind (800)
+** Dealing down cards **
+from0to1 folds.
+tombausks folds.
+** Summary **
+Main Pot: 875
+
+BIGA911 balance 1540, bet 825, collected 1275, net +450
+from0to1 balance 11660, lost 25 (folded)
+tombausks balance 6800, lost 425 (folded)
+
+***** Hand History for Game 5928930510 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33200729)  - Tue May 01 16:41:14 EDT 2007
+Table Speed 1330064 (Real Money) -- Seat 10 is the button
+Total number of players : 3
+Seat 4: BIGA911 (1540)
+Seat 9: from0to1 (11660)
+Seat 10: tombausks (6800)
+BIGA911  posts ante (25)
+from0to1  posts ante (25)
+tombausks  posts ante (25)
+BIGA911  posts small blind (400)
+from0to1  posts big blind (800)
+** Dealing down cards **
+tombausks folds.
+BIGA911 folds.
+** Summary **
+Main Pot: 875
+
+BIGA911 balance 1115, lost 425 (folded)
+from0to1 balance 12110, bet 825, collected 1275, net +450
+tombausks balance 6775, lost 25 (folded)
+
+***** Hand History for Game 5928931248 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33200729)  - Tue May 01 16:41:26 EDT 2007
+Table Speed 1330064 (Real Money) -- Seat 4 is the button
+Total number of players : 3
+Seat 4: BIGA911 (1115)
+Seat 9: from0to1 (12110)
+Seat 10: tombausks (6775)
+BIGA911  posts ante (25)
+from0to1  posts ante (25)
+tombausks  posts ante (25)
+from0to1  posts small blind (400)
+tombausks  posts big blind (800)
+** Dealing down cards **
+BIGA911 folds.
+from0to1 folds.
+** Summary **
+Main Pot: 875
+
+BIGA911 balance 1090, lost 25 (folded)
+from0to1 balance 11685, lost 425 (folded)
+tombausks balance 7225, bet 825, collected 1275, net +450
+
+***** Hand History for Game 5928931954 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33200729)  - Tue May 01 16:41:36 EDT 2007
+Table Speed 1330064 (Real Money) -- Seat 9 is the button
+Total number of players : 3
+Seat 4: BIGA911 (1090)
+Seat 9: from0to1 (11685)
+Seat 10: tombausks (7225)
+BIGA911  posts ante (25)
+from0to1  posts ante (25)
+tombausks  posts ante (25)
+tombausks  posts small blind (400)
+BIGA911  posts big blind (800)
+** Dealing down cards **
+from0to1 folds.
+tombausks raises (1200) to 1600
+BIGA911 calls (265)
+BIGA911 is all-In.
+** Dealing Flop ** :  [ 2s, 5h, 9h ]
+** Dealing Turn ** :  [ Kd ]
+** Dealing River ** :  [ 6d ]
+Creating Main Pot with $2205 with BIGA911
+** Summary **
+Main Pot: 2205
+Board: [ 2s 5h 9h Kd 6d  ]
+
+BIGA911 balance 0, lost 1090 [ Ad 5c ] [ a pair of Fives -- Ad,Kd,9h,5c,5h ]
+from0to1 balance 11660, lost 25 (folded)
+tombausks balance 8340, bet 1625, collected 2740, net +1115 [ 9c 9s ] [ three of a kind, Nines -- Kd,9c,9s,9h,6d ]
+
+***** Hand History for Game 5928933085 *****
+BIGA911 finished in 3 place and won $10.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33200729)  - Tue May 01 16:41:54 EDT 2007
+Table Speed 1330064 (Real Money) -- Seat 10 is the button
+Total number of players : 2
+Seat 9: from0to1 (11660)
+Seat 10: tombausks (8340)
+from0to1  posts ante (25)
+tombausks  posts ante (25)
+tombausks  posts small blind (400)
+from0to1  posts big blind (800)
+** Dealing down cards **
+tombausks calls (400)
+from0to1 raises (2400) to 3200
+tombausks folds.
+** Summary **
+Main Pot: 1650
+
+from0to1 balance 12485, bet 3225, collected 4050, net +825
+tombausks balance 7515, lost 825 (folded)
+
+***** Hand History for Game 5928934316 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33200729)  - Tue May 01 16:42:14 EDT 2007
+Table Speed 1330064 (Real Money) -- Seat 9 is the button
+Total number of players : 2
+Seat 9: from0to1 (12485)
+Seat 10: tombausks (7515)
+from0to1  posts ante (25)
+tombausks  posts ante (25)
+from0to1  posts small blind (400)
+tombausks  posts big blind (800)
+** Dealing down cards **
+from0to1 calls (400)
+tombausks checks.
+** Dealing Flop ** :  [ Qd, 6s, 3c ]
+tombausks checks.
+from0to1 bets (800)
+tombausks folds.
+** Summary **
+Main Pot: 1650
+Board: [ Qd 6s 3c  ]
+
+from0to1 balance 13310, bet 1625, collected 2450, net +825
+tombausks balance 6690, lost 825 (folded)
+
+***** Hand History for Game 5928935462 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33200729)  - Tue May 01 16:42:31 EDT 2007
+Table Speed 1330064 (Real Money) -- Seat 10 is the button
+Total number of players : 2
+Seat 9: from0to1 (13310)
+Seat 10: tombausks (6690)
+from0to1  posts ante (25)
+tombausks  posts ante (25)
+tombausks  posts small blind (400)
+from0to1  posts big blind (800)
+** Dealing down cards **
+tombausks raises (1200) to 1600
+from0to1 calls (800)
+** Dealing Flop ** :  [ Ad, 4c, 4h ]
+from0to1 checks.
+tombausks bets (800)
+from0to1 folds.
+** Summary **
+Main Pot: 3250
+Board: [ Ad 4c 4h  ]
+
+from0to1 balance 11685, lost 1625 (folded)
+tombausks balance 8315, bet 2425, collected 4050, net +1625
+
+***** Hand History for Game 5928936783 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33200729)  - Tue May 01 16:42:53 EDT 2007
+Table Speed 1330064 (Real Money) -- Seat 9 is the button
+Total number of players : 2
+Seat 9: from0to1 (11685)
+Seat 10: tombausks (8315)
+from0to1  posts ante (25)
+tombausks  posts ante (25)
+from0to1  posts small blind (400)
+tombausks  posts big blind (800)
+** Dealing down cards **
+from0to1 folds.
+** Summary **
+Main Pot: 850
+
+from0to1 balance 11260, lost 425 (folded)
+tombausks balance 8740, bet 825, collected 1250, net +425
+
+***** Hand History for Game 5928937260 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33200729)  - Tue May 01 16:43:00 EDT 2007
+Table Speed 1330064 (Real Money) -- Seat 10 is the button
+Total number of players : 2
+Seat 9: from0to1 (11260)
+Seat 10: tombausks (8740)
+from0to1  posts ante (25)
+tombausks  posts ante (25)
+tombausks  posts small blind (400)
+from0to1  posts big blind (800)
+** Dealing down cards **
+tombausks folds.
+** Summary **
+Main Pot: 850
+
+from0to1 balance 11685, bet 825, collected 1250, net +425
+tombausks balance 8315, lost 425 (folded)
+
+***** Hand History for Game 5928938431 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33200729)  - Tue May 01 16:43:18 EDT 2007
+Table Speed 1330064 (Real Money) -- Seat 9 is the button
+Total number of players : 2
+Seat 9: from0to1 (11685)
+Seat 10: tombausks (8315)
+from0to1  posts ante (25)
+tombausks  posts ante (25)
+from0to1  posts small blind (400)
+tombausks  posts big blind (800)
+** Dealing down cards **
+from0to1 raises (1200) to 1600
+tombausks calls (800)
+** Dealing Flop ** :  [ 5d, Qc, 8s ]
+tombausks checks.
+from0to1 checks.
+** Dealing Turn ** :  [ 4d ]
+tombausks checks.
+from0to1 bets (800)
+tombausks raises (2400) to 2400
+from0to1 calls (1600)
+** Dealing River ** :  [ Js ]
+tombausks checks.
+from0to1 checks.
+** Summary **
+Main Pot: 8050
+Board: [ 5d Qc 8s 4d Js  ]
+
+
+from0to1 balance 7660, lost 4025 [Didn't Show]
+tombausks balance 12340, bet 4025, collected 8050, net +4025 [ 8d 9h ] [ a pair of Eights -- Qc,Js,9h,8d,8s ]
+
+***** Hand History for Game 5928941469 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33200729)  - Tue May 01 16:44:07 EDT 2007
+Table Speed 1330064 (Real Money) -- Seat 10 is the button
+Total number of players : 2
+Seat 9: from0to1 (7660)
+Seat 10: tombausks (12340)
+from0to1  posts ante (25)
+tombausks  posts ante (25)
+tombausks  posts small blind (400)
+from0to1  posts big blind (800)
+** Dealing down cards **
+tombausks calls (400)
+from0to1 checks.
+** Dealing Flop ** :  [ 7s, Ac, 9s ]
+from0to1 checks.
+tombausks checks.
+** Dealing Turn ** :  [ 5s ]
+from0to1 bets (800)
+tombausks folds.
+** Summary **
+Main Pot: 1650
+Board: [ 7s Ac 9s 5s  ]
+
+from0to1 balance 8485, bet 1625, collected 2450, net +825
+tombausks balance 11515, lost 825 (folded)
+
+***** Hand History for Game 5928943822 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33200729)  - Tue May 01 16:44:45 EDT 2007
+Table Speed 1330064 (Real Money) -- Seat 9 is the button
+Total number of players : 2
+Seat 9: from0to1 (8485)
+Seat 10: tombausks (11515)
+from0to1  posts ante (25)
+tombausks  posts ante (25)
+from0to1  posts small blind (400)
+tombausks  posts big blind (800)
+** Dealing down cards **
+from0to1 calls (400)
+tombausks raises (10690) to 11490
+tombausks is all-In.
+from0to1 folds.
+Creating Main Pot with $1650 with tombausks
+** Summary **
+Main Pot: 1650
+
+from0to1 balance 7660, lost 825 (folded)
+tombausks balance 12340, bet 11515, collected 12340, net +825
+
+***** Hand History for Game 5928945302 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33200729)  - Tue May 01 16:45:09 EDT 2007
+Table Speed 1330064 (Real Money) -- Seat 10 is the button
+Total number of players : 2
+Seat 9: from0to1 (7660)
+Seat 10: tombausks (12340)
+from0to1  posts ante (25)
+tombausks  posts ante (25)
+tombausks  posts small blind (400)
+from0to1  posts big blind (800)
+** Dealing down cards **
+tombausks raises (2000) to 2400
+from0to1 raises (6835) to 7635
+from0to1 is all-In.
+tombausks calls (5235)
+** Dealing Flop ** :  [ Ad, Js, 8s ]
+** Dealing Turn ** :  [ 6d ]
+** Dealing River ** :  [ 9h ]
+Creating Main Pot with $15320 with from0to1
+** Summary **
+Main Pot: 15320
+Board: [ Ad Js 8s 6d 9h  ]
+
+from0to1 balance 15320, bet 7660, collected 15320, net +7660 [ Ks 8c ] [ a pair of Eights -- Ad,Ks,Js,8c,8s ]
+tombausks balance 4680, lost 7660 [ 5h 5d ] [ a pair of Fives -- Ad,Js,9h,5h,5d ]
+
+***** Hand History for Game 5928947044 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33200729)  - Tue May 01 16:45:34 EDT 2007
+Table Speed 1330064 (Real Money) -- Seat 9 is the button
+Total number of players : 2
+Seat 9: from0to1 (15320)
+Seat 10: tombausks (4680)
+from0to1  posts ante (50)
+tombausks  posts ante (50)
+from0to1  posts small blind (600)
+tombausks  posts big blind (1200)
+** Dealing down cards **
+from0to1 calls (600)
+tombausks raises (3430) to 4630
+tombausks is all-In.
+from0to1 folds.
+Creating Main Pot with $2500 with tombausks
+** Summary **
+Main Pot: 2500
+
+from0to1 balance 14070, lost 1250 (folded)
+tombausks balance 5930, bet 4680, collected 5930, net +1250
+
+***** Hand History for Game 5928948670 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33200729)  - Tue May 01 16:46:04 EDT 2007
+Table Speed 1330064 (Real Money) -- Seat 10 is the button
+Total number of players : 2
+Seat 9: from0to1 (14070)
+Seat 10: tombausks (5930)
+from0to1  posts ante (50)
+tombausks  posts ante (50)
+tombausks  posts small blind (600)
+from0to1  posts big blind (1200)
+** Dealing down cards **
+tombausks raises (1800) to 2400
+from0to1 calls (1200)
+** Dealing Flop ** :  [ Kh, 3d, 4h ]
+from0to1 bets (8400)
+tombausks folds.
+** Summary **
+Main Pot: 4900
+Board: [ Kh 3d 4h  ]
+
+from0to1 balance 16520, bet 10850, collected 13300, net +2450
+tombausks balance 3480, lost 2450 (folded)
+
+***** Hand History for Game 5928950299 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33200729)  - Tue May 01 16:46:36 EDT 2007
+Table Speed 1330064 (Real Money) -- Seat 9 is the button
+Total number of players : 2
+Seat 9: from0to1 (16520)
+Seat 10: tombausks (3480)
+from0to1  posts ante (50)
+tombausks  posts ante (50)
+from0to1  posts small blind (600)
+tombausks  posts big blind (1200)
+** Dealing down cards **
+from0to1 raises (1800) to 2400
+tombausks raises (2230) to 3430
+tombausks is all-In.
+from0to1 calls (1030)
+** Dealing Flop ** :  [ 9s, 7d, Ah ]
+** Dealing Turn ** :  [ Js ]
+** Dealing River ** :  [ 6d ]
+Creating Main Pot with $6960 with tombausks
+** Summary **
+Main Pot: 6960
+Board: [ 9s 7d Ah Js 6d  ]
+
+from0to1 balance 20000, bet 3480, collected 6960, net +3480 [ As 3h ] [ a pair of Aces -- As,Ah,Js,9s,7d ]
+tombausks balance 0, lost 3480 [ 3d 2d ] [ high card Ace -- Ah,Js,9s,7d,6d ]
+
+
+

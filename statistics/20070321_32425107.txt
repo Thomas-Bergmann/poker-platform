@@ -1,0 +1,2338 @@
+
+Hello hatoka,
+These hand histories are provided to you as an aid for your training and development. You are not permitted to share them with anyone.  We reserve the right to cease providing them or apply further restrictions at any time.
+Complete hand histories are only available to players that participated in the hand.
+You requested a transcript of Tournament #32425107.
+
+Summary
+----------
+Played on    : 21 March 2007 05:54 PM
+On Table     : Speed #1331028
+Game Type    : Texas Holdem
+Buy-In       : $2
+Fee          : $1
+You finished in  position 8
+1st place - alfaomega777 -  $12
+2nd place - PrinceFreaca -  $7.20
+3rd place - Pouswous -  $4.80
+
+***** Hand History for Game 5793003053 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425107)  - Wed Mar 21 17:55:01 EDT 2007
+Table Speed 1331028 (Real Money) -- Seat 7 is the button
+Total number of players : 10
+Seat 1: alfaomega777 (2000)
+Seat 2: Pouswous (2000)
+Seat 3: Jovur (2000)
+Seat 4: hatoka (2000)
+Seat 5: Korollah (2000)
+Seat 6: PrinceFreaca (2000)
+Seat 7: JohnTux (2000)
+Seat 8: DorianGray5 (2000)
+Seat 9: don7788 (2000)
+Seat 10: Mike_h1904 (2000)
+DorianGray5  posts small blind (20)
+don7788  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 2c, 5d ]
+Mike_h1904 calls (40)
+alfaomega777 raises (80) to 80
+Pouswous calls (80)
+Jovur folds.
+hatoka folds.
+Korollah folds.
+PrinceFreaca folds.
+JohnTux calls (80)
+DorianGray5 folds.
+don7788 folds.
+Mike_h1904 calls (40)
+** Dealing Flop ** :  [ 8d, Ts, Ad ]
+Mike_h1904 checks.
+alfaomega777 bets (100)
+Pouswous folds.
+JohnTux folds.
+Mike_h1904 calls (100)
+** Dealing Turn ** :  [ 3c ]
+Mike_h1904 checks.
+alfaomega777 bets (200)
+Mike_h1904 folds.
+** Summary **
+Main Pot: 580
+Board: [ 8d Ts Ad 3c  ]
+
+alfaomega777 balance 2400, bet 380, collected 780, net +400
+Pouswous balance 1920, lost 80 (folded)
+Jovur balance 2000, didn't bet (folded)
+hatoka balance 2000, didn't bet (folded)
+Korollah balance 2000, didn't bet (folded)
+PrinceFreaca balance 2000, didn't bet (folded)
+JohnTux balance 1920, lost 80 (folded)
+DorianGray5 balance 1980, lost 20 (folded)
+don7788 balance 1960, lost 40 (folded)
+Mike_h1904 balance 1820, lost 180 (folded)
+
+***** Hand History for Game 5793005678 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425107)  - Wed Mar 21 17:55:45 EDT 2007
+Table Speed 1331028 (Real Money) -- Seat 8 is the button
+Total number of players : 10
+Seat 1: alfaomega777 (2400)
+Seat 2: Pouswous (1920)
+Seat 3: Jovur (2000)
+Seat 4: hatoka (2000)
+Seat 5: Korollah (2000)
+Seat 6: PrinceFreaca (2000)
+Seat 7: JohnTux (1920)
+Seat 8: DorianGray5 (1980)
+Seat 9: don7788 (1960)
+Seat 10: Mike_h1904 (1820)
+don7788  posts small blind (20)
+Mike_h1904  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 9h, 3d ]
+alfaomega777 folds.
+Pouswous raises (80) to 80
+Jovur folds.
+hatoka folds.
+Korollah raises (520) to 520
+PrinceFreaca folds.
+JohnTux raises (1920) to 1920
+JohnTux is all-In.
+DorianGray5 folds.
+don7788 folds.
+Mike_h1904 calls (1780)
+Mike_h1904 is all-In.
+Pouswous calls (1840)
+Pouswous is all-In.
+JohnTux: nice
+Korollah folds.
+** Dealing Flop ** :  [ 7s, Kd, 2c ]
+** Dealing Turn ** :  [ 3h ]
+** Dealing River ** :  [ Th ]
+Creating Main Pot with $6000 with Mike_h1904
+Creating Side Pot 1 with $200 with Pouswous,JohnTux
+** Summary **
+Main Pot: 6000 | Side Pot 1: 200
+Board: [ 7s Kd 2c 3h Th  ]
+
+alfaomega777 balance 2400, didn't bet (folded)
+Pouswous balance 6200, bet 1920, collected 6200, net +4280 [ Jc Kc ] [ a pair of Kings -- Kc,Kd,Jc,Th,7s ]
+Jovur balance 2000, didn't bet (folded)
+hatoka balance 2000, didn't bet (folded)
+Korollah balance 1480, lost 520 (folded)
+PrinceFreaca balance 2000, didn't bet (folded)
+JohnTux balance 0, lost 1920 [ Tc Ac ] [ a pair of Tens -- Ac,Kd,Tc,Th,7s ]
+DorianGray5 balance 1980, didn't bet (folded)
+don7788 balance 1940, lost 20 (folded)
+Mike_h1904 balance 0, lost 1820 [ 9d 9c ] [ a pair of Nines -- Kd,Th,9d,9c,7s ]
+
+***** Hand History for Game 5793008264 *****
+Mike_h1904 finished in 10 place.
+JohnTux finished in 9 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425107)  - Wed Mar 21 17:56:23 EDT 2007
+Table Speed 1331028 (Real Money) -- Seat 9 is the button
+Total number of players : 8
+Seat 1: alfaomega777 (2400)
+Seat 2: Pouswous (6200)
+Seat 3: Jovur (2000)
+Seat 4: hatoka (2000)
+Seat 5: Korollah (1480)
+Seat 6: PrinceFreaca (2000)
+Seat 8: DorianGray5 (1980)
+Seat 9: don7788 (1940)
+alfaomega777  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 3h, Qh ]
+Pouswous calls (40)
+Jovur folds.
+hatoka calls (40)
+Pouswous: tyvm
+Korollah raises (600) to 600
+PrinceFreaca folds.
+DorianGray5 folds.
+don7788 folds.
+alfaomega777 folds.
+Pouswous calls (560)
+hatoka folds.
+** Dealing Flop ** :  [ Ad, 5c, Td ]
+Pouswous checks.
+Korollah bets (880)
+Korollah is all-In.
+Pouswous folds.
+Creating Main Pot with $1280 with Korollah
+** Summary **
+Main Pot: 1280
+Board: [ Ad 5c Td  ]
+
+alfaomega777 balance 2360, lost 40 (folded)
+Pouswous balance 5600, lost 600 (folded)
+Jovur balance 2000, didn't bet (folded)
+hatoka balance 1960, lost 40 (folded)
+Korollah balance 2160, bet 1480, collected 2160, net +680
+PrinceFreaca balance 2000, didn't bet (folded)
+DorianGray5 balance 1980, didn't bet (folded)
+don7788 balance 1940, didn't bet (folded)
+
+***** Hand History for Game 5793010427 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425107)  - Wed Mar 21 17:56:55 EDT 2007
+Table Speed 1331028 (Real Money) -- Seat 9 is the button
+Total number of players : 8
+Seat 1: alfaomega777 (2360)
+Seat 2: Pouswous (5600)
+Seat 3: Jovur (2000)
+Seat 4: hatoka (1960)
+Seat 5: Korollah (2160)
+Seat 6: PrinceFreaca (2000)
+Seat 8: DorianGray5 (1980)
+Seat 9: don7788 (1940)
+alfaomega777  posts small blind (20)
+Pouswous  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 4d, Tc ]
+Jovur folds.
+hatoka folds.
+Korollah folds.
+PrinceFreaca folds.
+DorianGray5 calls (40)
+don7788 folds.
+alfaomega777 folds.
+Pouswous checks.
+** Dealing Flop ** :  [ 5h, 7h, 3h ]
+Pouswous checks.
+DorianGray5 checks.
+** Dealing Turn ** :  [ 2s ]
+Pouswous bets (40)
+DorianGray5 calls (40)
+** Dealing River ** :  [ 9c ]
+Pouswous bets (40)
+DorianGray5 calls (40)
+** Summary **
+Main Pot: 260
+Board: [ 5h 7h 3h 2s 9c  ]
+
+alfaomega777 balance 2340, lost 20 (folded)
+Pouswous balance 5740, bet 120, collected 260, net +140 [ 3d Qs ] [ a pair of Threes -- Qs,9c,7h,3d,3h ]
+Jovur balance 2000, didn't bet (folded)
+hatoka balance 1960, didn't bet (folded)
+Korollah balance 2160, didn't bet (folded)
+PrinceFreaca balance 2000, didn't bet (folded)
+DorianGray5 balance 1860, lost 120 [ Ah 6c ] [ high card Ace -- Ah,9c,7h,6c,5h ]
+
+don7788 balance 1940, didn't bet (folded)
+
+***** Hand History for Game 5793012981 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425107)  - Wed Mar 21 17:57:33 EDT 2007
+Table Speed 1331028 (Real Money) -- Seat 1 is the button
+Total number of players : 8
+Seat 1: alfaomega777 (2340)
+Seat 2: Pouswous (5740)
+Seat 3: Jovur (2000)
+Seat 4: hatoka (1960)
+Seat 5: Korollah (2160)
+Seat 6: PrinceFreaca (2000)
+Seat 8: DorianGray5 (1860)
+Seat 9: don7788 (1940)
+Pouswous  posts small blind (20)
+Jovur  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ Qd, As ]
+hatoka raises (80) to 80
+Korollah folds.
+PrinceFreaca calls (80)
+DorianGray5 calls (80)
+don7788 folds.
+alfaomega777 folds.
+Pouswous calls (60)
+Jovur folds.
+** Dealing Flop ** :  [ 3h, Qc, 2h ]
+Pouswous checks.
+hatoka bets (400)
+PrinceFreaca calls (400)
+DorianGray5 folds.
+Pouswous folds.
+** Dealing Turn ** :  [ Ac ]
+hatoka bets (700)
+PrinceFreaca raises (1400) to 1400
+hatoka raises (780) to 1480
+hatoka is all-In.
+PrinceFreaca calls (80)
+** Dealing River ** :  [ 4s ]
+Creating Main Pot with $4120 with hatoka
+** Summary **
+Main Pot: 4120
+Board: [ 3h Qc 2h Ac 4s  ]
+
+alfaomega777 balance 2340, didn't bet (folded)
+Pouswous balance 5660, lost 80 (folded)
+Jovur balance 1960, lost 40 (folded)
+hatoka balance 0, lost 1960 [ Qd As ] [ two pairs, Aces and Queens -- As,Ac,Qd,Qc,4s ]
+Korollah balance 2160, didn't bet (folded)
+PrinceFreaca balance 4160, bet 1960, collected 4120, net +2160 [ 2d 2c ] [ three of a kind, Twos -- Ac,Qc,2d,2c,2h ]
+DorianGray5 balance 1780, lost 80 (folded)
+don7788 balance 1940, didn't bet (folded)
+
+***** Hand History for Game 5793016950 *****
+hatoka finished in 8 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425107)  - Wed Mar 21 17:58:33 EDT 2007
+Table Speed 1331028 (Real Money) -- Seat 2 is the button
+Total number of players : 7
+Seat 1: alfaomega777 (2340)
+Seat 2: Pouswous (5660)
+Seat 3: Jovur (1960)
+Seat 5: Korollah (2160)
+Seat 6: PrinceFreaca (4160)
+Seat 8: DorianGray5 (1780)
+Seat 9: don7788 (1940)
+Jovur  posts small blind (20)
+Korollah  posts big blind (40)
+** Dealing down cards **
+PrinceFreaca folds.
+DorianGray5 folds.
+don7788 raises (120) to 120
+Pouswous: deuces never looses
+alfaomega777 calls (120)
+Pouswous calls (120)
+Jovur folds.
+Korollah folds.
+** Dealing Flop ** :  [ 2s, 5s, 6h ]
+don7788 bets (250)
+alfaomega777 calls (250)
+Pouswous calls (250)
+** Dealing Turn ** :  [ 8d ]
+don7788 checks.
+alfaomega777 checks.
+Pouswous checks.
+** Dealing River ** :  [ Tc ]
+don7788 checks.
+alfaomega777 checks.
+Pouswous bets (500)
+don7788 folds.
+alfaomega777 folds.
+** Summary **
+Main Pot: 1170
+Board: [ 2s 5s 6h 8d Tc  ]
+
+alfaomega777 balance 1970, lost 370 (folded)
+Pouswous balance 6460, bet 870, collected 1670, net +800
+Jovur balance 1940, lost 20 (folded)
+Korollah balance 2120, lost 40 (folded)
+PrinceFreaca balance 4160, didn't bet (folded)
+DorianGray5 balance 1780, didn't bet (folded)
+don7788 balance 1570, lost 370 (folded)
+
+***** Hand History for Game 5793021409 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425107)  - Wed Mar 21 17:59:40 EDT 2007
+Table Speed 1331028 (Real Money) -- Seat 3 is the button
+Total number of players : 7
+Seat 1: alfaomega777 (1970)
+Seat 2: Pouswous (6460)
+Seat 3: Jovur (1940)
+Seat 5: Korollah (2120)
+Seat 6: PrinceFreaca (4160)
+Seat 8: DorianGray5 (1780)
+Seat 9: don7788 (1570)
+Korollah  posts small blind (20)
+PrinceFreaca  posts big blind (40)
+** Dealing down cards **
+DorianGray5 calls (40)
+don7788 folds.
+alfaomega777 folds.
+Pouswous folds.
+Jovur calls (40)
+Korollah raises (580) to 600
+PrinceFreaca folds.
+DorianGray5 folds.
+Jovur folds.
+** Summary **
+Main Pot: 160
+
+alfaomega777 balance 1970, didn't bet (folded)
+Pouswous balance 6460, didn't bet (folded)
+Jovur balance 1900, lost 40 (folded)
+Korollah balance 2240, bet 600, collected 720, net +120
+PrinceFreaca balance 4120, lost 40 (folded)
+DorianGray5 balance 1740, lost 40 (folded)
+don7788 balance 1570, didn't bet (folded)
+
+***** Hand History for Game 5793023395 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425107)  - Wed Mar 21 18:00:10 EDT 2007
+Table Speed 1331028 (Real Money) -- Seat 5 is the button
+Total number of players : 7
+Seat 1: alfaomega777 (1970)
+Seat 2: Pouswous (6460)
+Seat 3: Jovur (1900)
+Seat 5: Korollah (2240)
+Seat 6: PrinceFreaca (4120)
+Seat 8: DorianGray5 (1740)
+Seat 9: don7788 (1570)
+PrinceFreaca  posts small blind (30)
+DorianGray5  posts big blind (60)
+** Dealing down cards **
+don7788 folds.
+alfaomega777 folds.
+Pouswous folds.
+Jovur folds.
+Korollah raises (720) to 720
+PrinceFreaca folds.
+DorianGray5 folds.
+** Summary **
+Main Pot: 150
+
+alfaomega777 balance 1970, didn't bet (folded)
+Pouswous balance 6460, didn't bet (folded)
+Jovur balance 1900, didn't bet (folded)
+Korollah balance 2330, bet 720, collected 810, net +90
+PrinceFreaca balance 4090, lost 30 (folded)
+DorianGray5 balance 1680, lost 60 (folded)
+don7788 balance 1570, didn't bet (folded)
+
+***** Hand History for Game 5793024847 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425107)  - Wed Mar 21 18:00:32 EDT 2007
+Table Speed 1331028 (Real Money) -- Seat 6 is the button
+Total number of players : 7
+Seat 1: alfaomega777 (1970)
+Seat 2: Pouswous (6460)
+Seat 3: Jovur (1900)
+Seat 5: Korollah (2330)
+Seat 6: PrinceFreaca (4090)
+Seat 8: DorianGray5 (1680)
+Seat 9: don7788 (1570)
+DorianGray5  posts small blind (30)
+don7788  posts big blind (60)
+** Dealing down cards **
+alfaomega777 raises (120) to 120
+Pouswous folds.
+Jovur folds.
+Korollah folds.
+PrinceFreaca folds.
+DorianGray5 folds.
+don7788 folds.
+** Summary **
+Main Pot: 150
+
+alfaomega777 balance 2060, bet 120, collected 210, net +90
+Pouswous balance 6460, didn't bet (folded)
+Jovur balance 1900, didn't bet (folded)
+Korollah balance 2330, didn't bet (folded)
+PrinceFreaca balance 4090, didn't bet (folded)
+DorianGray5 balance 1650, lost 30 (folded)
+don7788 balance 1510, lost 60 (folded)
+
+***** Hand History for Game 5793025580 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425107)  - Wed Mar 21 18:00:43 EDT 2007
+Table Speed 1331028 (Real Money) -- Seat 8 is the button
+Total number of players : 7
+Seat 1: alfaomega777 (2060)
+Seat 2: Pouswous (6460)
+Seat 3: Jovur (1900)
+Seat 5: Korollah (2330)
+Seat 6: PrinceFreaca (4090)
+Seat 8: DorianGray5 (1650)
+Seat 9: don7788 (1510)
+don7788  posts small blind (30)
+alfaomega777  posts big blind (60)
+** Dealing down cards **
+Pouswous raises (120) to 120
+Jovur raises (180) to 180
+Korollah folds.
+PrinceFreaca folds.
+DorianGray5 folds.
+don7788 folds.
+alfaomega777 folds.
+Pouswous raises (120) to 240
+Jovur calls (60)
+** Dealing Flop ** :  [ Tc, 3h, As ]
+Pouswous bets (900)
+Jovur folds.
+** Summary **
+Main Pot: 570
+Board: [ Tc 3h As  ]
+
+alfaomega777 balance 2000, lost 60 (folded)
+Pouswous balance 6790, bet 1140, collected 1470, net +330
+Jovur balance 1660, lost 240 (folded)
+Korollah balance 2330, didn't bet (folded)
+PrinceFreaca balance 4090, didn't bet (folded)
+DorianGray5 balance 1650, didn't bet (folded)
+don7788 balance 1480, lost 30 (folded)
+
+***** Hand History for Game 5793027948 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425107)  - Wed Mar 21 18:01:19 EDT 2007
+Table Speed 1331028 (Real Money) -- Seat 9 is the button
+Total number of players : 7
+Seat 1: alfaomega777 (2000)
+Seat 2: Pouswous (6790)
+Seat 3: Jovur (1660)
+Seat 5: Korollah (2330)
+Seat 6: PrinceFreaca (4090)
+Seat 8: DorianGray5 (1650)
+Seat 9: don7788 (1480)
+alfaomega777  posts small blind (30)
+Pouswous  posts big blind (60)
+** Dealing down cards **
+Jovur folds.
+Korollah folds.
+PrinceFreaca folds.
+DorianGray5 calls (60)
+don7788 calls (60)
+alfaomega777 folds.
+Pouswous checks.
+** Dealing Flop ** :  [ 6c, 2c, Ks ]
+Pouswous bets (200)
+DorianGray5 folds.
+don7788 calls (200)
+** Dealing Turn ** :  [ 9h ]
+Pouswous bets (500)
+don7788 folds.
+** Summary **
+Main Pot: 610
+Board: [ 6c 2c Ks 9h  ]
+
+alfaomega777 balance 1970, lost 30 (folded)
+Pouswous balance 7140, bet 760, collected 1110, net +350
+Jovur balance 1660, didn't bet (folded)
+Korollah balance 2330, didn't bet (folded)
+PrinceFreaca balance 4090, didn't bet (folded)
+DorianGray5 balance 1590, lost 60 (folded)
+don7788 balance 1220, lost 260 (folded)
+
+***** Hand History for Game 5793030778 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425107)  - Wed Mar 21 18:02:02 EDT 2007
+Table Speed 1331028 (Real Money) -- Seat 1 is the button
+Total number of players : 7
+Seat 1: alfaomega777 (1970)
+Seat 2: Pouswous (7140)
+Seat 3: Jovur (1660)
+Seat 5: Korollah (2330)
+Seat 6: PrinceFreaca (4090)
+Seat 8: DorianGray5 (1590)
+Seat 9: don7788 (1220)
+Pouswous  posts small blind (30)
+Jovur  posts big blind (60)
+** Dealing down cards **
+Korollah raises (600) to 600
+PrinceFreaca folds.
+DorianGray5 folds.
+don7788 folds.
+alfaomega777 folds.
+Pouswous folds.
+Jovur raises (1600) to 1660
+Jovur is all-In.
+Korollah calls (1060)
+** Dealing Flop ** :  [ Ks, 5c, 8c ]
+** Dealing Turn ** :  [ 2c ]
+** Dealing River ** :  [ 6d ]
+Creating Main Pot with $3350 with Jovur
+** Summary **
+Main Pot: 3350
+Board: [ Ks 5c 8c 2c 6d  ]
+
+alfaomega777 balance 1970, didn't bet (folded)
+Pouswous balance 7110, lost 30 (folded)
+Jovur balance 0, lost 1660 [ Jc Ts ] [ high card King -- Ks,Jc,Ts,8c,6d ]
+Korollah balance 4020, bet 1660, collected 3350, net +1690 [ Qd Jh ] [ high card King with Queen kicker -- Ks,Qd,Jh,8c,6d ]
+PrinceFreaca balance 4090, didn't bet (folded)
+DorianGray5 balance 1590, didn't bet (folded)
+don7788 balance 1220, didn't bet (folded)
+
+***** Hand History for Game 5793032845 *****
+Jovur finished in 7 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425107)  - Wed Mar 21 18:02:32 EDT 2007
+Table Speed 1331028 (Real Money) -- Seat 2 is the button
+Total number of players : 6
+Seat 1: alfaomega777 (1970)
+Seat 2: Pouswous (7110)
+Seat 5: Korollah (4020)
+Seat 6: PrinceFreaca (4090)
+Seat 8: DorianGray5 (1590)
+Seat 9: don7788 (1220)
+Korollah  posts big blind (60)
+** Dealing down cards **
+PrinceFreaca calls (60)
+DorianGray5 calls (60)
+don7788 folds.
+alfaomega777 folds.
+Pouswous folds.
+Korollah raises (480) to 540
+PrinceFreaca folds.
+DorianGray5 folds.
+** Summary **
+Main Pot: 180
+
+alfaomega777 balance 1970, didn't bet (folded)
+Pouswous balance 7110, didn't bet (folded)
+Korollah balance 4140, bet 540, collected 660, net +120
+PrinceFreaca balance 4030, lost 60 (folded)
+DorianGray5 balance 1530, lost 60 (folded)
+don7788 balance 1220, didn't bet (folded)
+
+***** Hand History for Game 5793034458 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425107)  - Wed Mar 21 18:02:56 EDT 2007
+Table Speed 1331028 (Real Money) -- Seat 2 is the button
+Total number of players : 6
+Seat 1: alfaomega777 (1970)
+Seat 2: Pouswous (7110)
+Seat 5: Korollah (4140)
+Seat 6: PrinceFreaca (4030)
+Seat 8: DorianGray5 (1530)
+Seat 9: don7788 (1220)
+Korollah  posts small blind (30)
+PrinceFreaca  posts big blind (60)
+** Dealing down cards **
+DorianGray5 calls (60)
+don7788 folds.
+alfaomega777 folds.
+Pouswous calls (60)
+Korollah calls (30)
+PrinceFreaca checks.
+** Dealing Flop ** :  [ 4h, Kh, Tc ]
+Korollah checks.
+PrinceFreaca checks.
+DorianGray5 checks.
+Pouswous checks.
+** Dealing Turn ** :  [ 3h ]
+Korollah checks.
+PrinceFreaca bets (120)
+DorianGray5 calls (120)
+Pouswous folds.
+Korollah folds.
+** Dealing River ** :  [ 9c ]
+PrinceFreaca checks.
+DorianGray5 bets (360)
+PrinceFreaca folds.
+** Summary **
+Main Pot: 480
+Board: [ 4h Kh Tc 3h 9c  ]
+
+alfaomega777 balance 1970, didn't bet (folded)
+Pouswous balance 7050, lost 60 (folded)
+Korollah balance 4080, lost 60 (folded)
+PrinceFreaca balance 3850, lost 180 (folded)
+DorianGray5 balance 1830, bet 540, collected 840, net +300
+don7788 balance 1220, didn't bet (folded)
+
+***** Hand History for Game 5793038320 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425107)  - Wed Mar 21 18:03:52 EDT 2007
+Table Speed 1331028 (Real Money) -- Seat 5 is the button
+Total number of players : 6
+Seat 1: alfaomega777 (1970)
+Seat 2: Pouswous (7050)
+Seat 5: Korollah (4080)
+Seat 6: PrinceFreaca (3850)
+Seat 8: DorianGray5 (1830)
+Seat 9: don7788 (1220)
+PrinceFreaca  posts small blind (30)
+DorianGray5  posts big blind (60)
+** Dealing down cards **
+don7788 folds.
+alfaomega777 raises (120) to 120
+Pouswous folds.
+Korollah folds.
+PrinceFreaca folds.
+DorianGray5 calls (60)
+** Dealing Flop ** :  [ 7h, 7d, 9d ]
+DorianGray5 bets (60)
+alfaomega777 calls (60)
+** Dealing Turn ** :  [ Jd ]
+DorianGray5 bets (60)
+alfaomega777 calls (60)
+** Dealing River ** :  [ Jc ]
+DorianGray5 bets (60)
+alfaomega777 calls (60)
+** Summary **
+Main Pot: 630
+Board: [ 7h 7d 9d Jd Jc  ]
+
+
+alfaomega777 balance 1670, lost 300 [Didn't Show]
+Pouswous balance 7050, didn't bet (folded)
+Korollah balance 4080, didn't bet (folded)
+PrinceFreaca balance 3820, lost 30 (folded)
+DorianGray5 balance 2160, bet 300, collected 630, net +330 [ 9c Kd ] [ two pairs, Jacks and Nines -- Kd,Jd,Jc,9c,9d ]
+don7788 balance 1220, didn't bet (folded)
+
+***** Hand History for Game 5793040240 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425107)  - Wed Mar 21 18:04:20 EDT 2007
+Table Speed 1331028 (Real Money) -- Seat 6 is the button
+Total number of players : 6
+Seat 1: alfaomega777 (1670)
+Seat 2: Pouswous (7050)
+Seat 5: Korollah (4080)
+Seat 6: PrinceFreaca (3820)
+Seat 8: DorianGray5 (2160)
+Seat 9: don7788 (1220)
+DorianGray5  posts small blind (30)
+don7788  posts big blind (60)
+** Dealing down cards **
+alfaomega777 folds.
+Pouswous folds.
+Korollah raises (480) to 480
+PrinceFreaca folds.
+DorianGray5 folds.
+don7788 folds.
+** Summary **
+Main Pot: 150
+
+alfaomega777 balance 1670, didn't bet (folded)
+Pouswous balance 7050, didn't bet (folded)
+Korollah balance 4170, bet 480, collected 570, net +90
+PrinceFreaca balance 3820, didn't bet (folded)
+DorianGray5 balance 2130, lost 30 (folded)
+don7788 balance 1160, lost 60 (folded)
+
+***** Hand History for Game 5793041502 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425107)  - Wed Mar 21 18:04:39 EDT 2007
+Table Speed 1331028 (Real Money) -- Seat 8 is the button
+Total number of players : 6
+Seat 1: alfaomega777 (1670)
+Seat 2: Pouswous (7050)
+Seat 5: Korollah (4170)
+Seat 6: PrinceFreaca (3820)
+Seat 8: DorianGray5 (2130)
+Seat 9: don7788 (1160)
+don7788  posts small blind (30)
+alfaomega777  posts big blind (60)
+** Dealing down cards **
+Pouswous folds.
+Korollah raises (600) to 600
+PrinceFreaca folds.
+DorianGray5 folds.
+don7788 folds.
+alfaomega777 folds.
+** Summary **
+Main Pot: 150
+
+alfaomega777 balance 1610, lost 60 (folded)
+Pouswous balance 7050, didn't bet (folded)
+Korollah balance 4260, bet 600, collected 690, net +90
+PrinceFreaca balance 3820, didn't bet (folded)
+DorianGray5 balance 2130, didn't bet (folded)
+don7788 balance 1130, lost 30 (folded)
+
+***** Hand History for Game 5793042739 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425107)  - Wed Mar 21 18:04:58 EDT 2007
+Table Speed 1331028 (Real Money) -- Seat 9 is the button
+Total number of players : 6
+Seat 1: alfaomega777 (1610)
+Seat 2: Pouswous (7050)
+Seat 5: Korollah (4260)
+Seat 6: PrinceFreaca (3820)
+Seat 8: DorianGray5 (2130)
+Seat 9: don7788 (1130)
+alfaomega777  posts small blind (30)
+Pouswous  posts big blind (60)
+** Dealing down cards **
+Korollah folds.
+PrinceFreaca raises (120) to 120
+DorianGray5 folds.
+don7788 folds.
+alfaomega777 calls (90)
+Pouswous folds.
+** Dealing Flop ** :  [ 4d, Ad, Td ]
+alfaomega777 bets (60)
+PrinceFreaca calls (60)
+** Dealing Turn ** :  [ Qh ]
+alfaomega777 bets (60)
+PrinceFreaca calls (60)
+** Dealing River ** :  [ 3c ]
+alfaomega777 bets (60)
+PrinceFreaca calls (60)
+** Summary **
+Main Pot: 660
+Board: [ 4d Ad Td Qh 3c  ]
+
+alfaomega777 balance 1970, bet 300, collected 660, net +360 [ 6h Ah ] [ a pair of Aces -- Ah,Ad,Qh,Td,6h ]
+Pouswous balance 6990, lost 60 (folded)
+Korollah balance 4260, didn't bet (folded)
+
+PrinceFreaca balance 3520, lost 300 [Didn't Show]
+DorianGray5 balance 2130, didn't bet (folded)
+don7788 balance 1130, didn't bet (folded)
+
+***** Hand History for Game 5793044487 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425107)  - Wed Mar 21 18:05:25 EDT 2007
+Table Speed 1331028 (Real Money) -- Seat 1 is the button
+Total number of players : 6
+Seat 1: alfaomega777 (1970)
+Seat 2: Pouswous (6990)
+Seat 5: Korollah (4260)
+Seat 6: PrinceFreaca (3520)
+Seat 8: DorianGray5 (2130)
+Seat 9: don7788 (1130)
+Pouswous  posts small blind (50)
+Korollah  posts big blind (100)
+** Dealing down cards **
+PrinceFreaca folds.
+DorianGray5 folds.
+don7788 folds.
+alfaomega777 folds.
+Pouswous raises (150) to 200
+Korollah raises (600) to 700
+Pouswous raises (1000) to 1200
+Korollah calls (500)
+** Dealing Flop ** :  [ 4c, 7h, 9h ]
+Pouswous bets (1000)
+Korollah raises (3060) to 3060
+Korollah is all-In.
+Pouswous calls (2060)
+** Dealing Turn ** :  [ 9d ]
+** Dealing River ** :  [ 4d ]
+Creating Main Pot with $8520 with Korollah
+** Summary **
+Main Pot: 8520
+Board: [ 4c 7h 9h 9d 4d  ]
+
+alfaomega777 balance 1970, didn't bet (folded)
+Pouswous balance 2730, lost 4260 [ Qd Ad ] [ two pairs, Nines and Fours -- Ad,9h,9d,4c,4d ]
+Korollah balance 8520, bet 4260, collected 8520, net +4260 [ 4s Tc ] [ a full house, Fours full of Nines -- 9h,9d,4s,4c,4d ]
+PrinceFreaca balance 3520, didn't bet (folded)
+DorianGray5 balance 2130, didn't bet (folded)
+don7788 balance 1130, didn't bet (folded)
+
+***** Hand History for Game 5793048898 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425107)  - Wed Mar 21 18:06:30 EDT 2007
+Table Speed 1331028 (Real Money) -- Seat 2 is the button
+Total number of players : 6
+Seat 1: alfaomega777 (1970)
+Seat 2: Pouswous (2730)
+Seat 5: Korollah (8520)
+Seat 6: PrinceFreaca (3520)
+Seat 8: DorianGray5 (2130)
+Seat 9: don7788 (1130)
+Korollah  posts small blind (50)
+PrinceFreaca  posts big blind (100)
+** Dealing down cards **
+DorianGray5 folds.
+Pouswous: damn
+Pouswous: with that hand
+don7788 folds.
+alfaomega777 folds.
+Pouswous: das ist scheisse
+Pouswous calls (100)
+Korollah raises (650) to 700
+PrinceFreaca folds.
+Pouswous: and crazy
+Pouswous calls (600)
+** Dealing Flop ** :  [ 8d, 7s, 2s ]
+Korollah bets (500)
+Pouswous raises (1000) to 1000
+Korollah calls (500)
+** Dealing Turn ** :  [ Qd ]
+Korollah bets (1100)
+Pouswous calls (1030)
+Pouswous is all-In.
+** Dealing River ** :  [ 5d ]
+Creating Main Pot with $5560 with Pouswous
+** Summary **
+Main Pot: 5560
+Board: [ 8d 7s 2s Qd 5d  ]
+
+alfaomega777 balance 1970, didn't bet (folded)
+Pouswous balance 5560, bet 2730, collected 5560, net +2830 [ 5s 4s ] [ a pair of Fives -- Qd,8d,7s,5s,5d ]
+Korollah balance 5790, bet 2800, collected 70, lost -2730 [ Kh Th ] [ high card King -- Kh,Qd,Th,8d,7s ]
+PrinceFreaca balance 3420, lost 100 (folded)
+DorianGray5 balance 2130, didn't bet (folded)
+don7788 balance 1130, didn't bet (folded)
+
+***** Hand History for Game 5793053367 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425107)  - Wed Mar 21 18:07:37 EDT 2007
+Table Speed 1331028 (Real Money) -- Seat 5 is the button
+Total number of players : 6
+Seat 1: alfaomega777 (1970)
+Seat 2: Pouswous (5560)
+Seat 5: Korollah (5790)
+Seat 6: PrinceFreaca (3420)
+Seat 8: DorianGray5 (2130)
+Seat 9: don7788 (1130)
+PrinceFreaca  posts small blind (50)
+DorianGray5  posts big blind (100)
+** Dealing down cards **
+don7788 folds.
+alfaomega777 raises (200) to 200
+Pouswous folds.
+Korollah raises (600) to 600
+PrinceFreaca calls (550)
+DorianGray5 raises (2030) to 2130
+DorianGray5 is all-In.
+alfaomega777 folds.
+Korollah calls (1530)
+PrinceFreaca raises (2820) to 3420
+PrinceFreaca is all-In.
+Korollah calls (1290)
+** Dealing Flop ** :  [ 4d, 9s, 8c ]
+** Dealing Turn ** :  [ 7c ]
+** Dealing River ** :  [ 9d ]
+Creating Main Pot with $6590 with DorianGray5
+Creating Side Pot 1 with $2580 with PrinceFreaca
+** Summary **
+Main Pot: 6590 | Side Pot 1: 2580
+Board: [ 4d 9s 8c 7c 9d  ]
+
+alfaomega777 balance 1770, lost 200 (folded)
+Pouswous balance 5560, didn't bet (folded)
+Korollah balance 2370, lost 3420 [ 3c Ah ] [ a pair of Nines -- Ah,9s,9d,8c,7c ]
+PrinceFreaca balance 2580, bet 3420, collected 2580, lost -840 [ Qd Qs ] [ two pairs, Queens and Nines -- Qd,Qs,9s,9d,8c ]
+DorianGray5 balance 6590, bet 2130, collected 6590, net +4460 [ Ad Ac ] [ two pairs, Aces and Nines -- Ad,Ac,9s,9d,8c ]
+don7788 balance 1130, didn't bet (folded)
+
+***** Hand History for Game 5793055943 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425107)  - Wed Mar 21 18:08:15 EDT 2007
+Table Speed 1331028 (Real Money) -- Seat 6 is the button
+Total number of players : 6
+Seat 1: alfaomega777 (1770)
+Seat 2: Pouswous (5560)
+Seat 5: Korollah (2370)
+Seat 6: PrinceFreaca (2580)
+Seat 8: DorianGray5 (6590)
+Seat 9: don7788 (1130)
+DorianGray5  posts small blind (50)
+don7788  posts big blind (100)
+** Dealing down cards **
+alfaomega777 folds.
+Pouswous folds.
+Korollah folds.
+PrinceFreaca folds.
+DorianGray5 calls (50)
+don7788 checks.
+** Dealing Flop ** :  [ 5s, 4c, 2s ]
+DorianGray5 bets (100)
+don7788 folds.
+** Summary **
+Main Pot: 200
+Board: [ 5s 4c 2s  ]
+
+alfaomega777 balance 1770, didn't bet (folded)
+Pouswous balance 5560, didn't bet (folded)
+Korollah balance 2370, didn't bet (folded)
+PrinceFreaca balance 2580, didn't bet (folded)
+DorianGray5 balance 6690, bet 200, collected 300, net +100
+don7788 balance 1030, lost 100 (folded)
+
+***** Hand History for Game 5793057682 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425107)  - Wed Mar 21 18:08:41 EDT 2007
+Table Speed 1331028 (Real Money) -- Seat 8 is the button
+Total number of players : 6
+Seat 1: alfaomega777 (1770)
+Seat 2: Pouswous (5560)
+Seat 5: Korollah (2370)
+Seat 6: PrinceFreaca (2580)
+Seat 8: DorianGray5 (6690)
+Seat 9: don7788 (1030)
+don7788  posts small blind (50)
+alfaomega777  posts big blind (100)
+** Dealing down cards **
+Pouswous folds.
+Korollah raises (800) to 800
+PrinceFreaca folds.
+DorianGray5 folds.
+don7788 folds.
+alfaomega777 folds.
+** Summary **
+Main Pot: 250
+
+alfaomega777 balance 1670, lost 100 (folded)
+Pouswous balance 5560, didn't bet (folded)
+Korollah balance 2520, bet 800, collected 950, net +150
+PrinceFreaca balance 2580, didn't bet (folded)
+DorianGray5 balance 6690, didn't bet (folded)
+don7788 balance 980, lost 50 (folded)
+
+***** Hand History for Game 5793058585 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425107)  - Wed Mar 21 18:08:54 EDT 2007
+Table Speed 1331028 (Real Money) -- Seat 9 is the button
+Total number of players : 6
+Seat 1: alfaomega777 (1670)
+Seat 2: Pouswous (5560)
+Seat 5: Korollah (2520)
+Seat 6: PrinceFreaca (2580)
+Seat 8: DorianGray5 (6690)
+Seat 9: don7788 (980)
+alfaomega777  posts small blind (50)
+Pouswous  posts big blind (100)
+** Dealing down cards **
+Korollah folds.
+PrinceFreaca folds.
+DorianGray5 folds.
+don7788 folds.
+alfaomega777 folds.
+** Summary **
+Main Pot: 100
+
+alfaomega777 balance 1620, lost 50 (folded)
+Pouswous balance 5610, bet 100, collected 150, net +50
+Korollah balance 2520, didn't bet (folded)
+PrinceFreaca balance 2580, didn't bet (folded)
+DorianGray5 balance 6690, didn't bet (folded)
+don7788 balance 980, didn't bet (folded)
+
+***** Hand History for Game 5793059044 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425107)  - Wed Mar 21 18:09:01 EDT 2007
+Table Speed 1331028 (Real Money) -- Seat 1 is the button
+Total number of players : 6
+Seat 1: alfaomega777 (1620)
+Seat 2: Pouswous (5610)
+Seat 5: Korollah (2520)
+Seat 6: PrinceFreaca (2580)
+Seat 8: DorianGray5 (6690)
+Seat 9: don7788 (980)
+Pouswous  posts small blind (50)
+Korollah  posts big blind (100)
+** Dealing down cards **
+PrinceFreaca calls (100)
+DorianGray5 folds.
+don7788 raises (980) to 980
+don7788 is all-In.
+alfaomega777 raises (1620) to 1620
+alfaomega777 is all-In.
+Pouswous folds.
+Korollah calls (1520)
+PrinceFreaca folds.
+** Dealing Flop ** :  [ 9s, Ah, 4d ]
+** Dealing Turn ** :  [ 2c ]
+** Dealing River ** :  [ Js ]
+Creating Main Pot with $3090 with don7788
+Creating Side Pot 1 with $1280 with alfaomega777
+** Summary **
+Main Pot: 3090 | Side Pot 1: 1280
+Board: [ 9s Ah 4d 2c Js  ]
+
+alfaomega777 balance 4370, bet 1620, collected 4370, net +2750 [ 7d 7s ] [ a pair of Sevens -- Ah,Js,9s,7d,7s ]
+Pouswous balance 5560, lost 50 (folded)
+Korollah balance 900, lost 1620 [ Kc Qc ] [ high card Ace -- Ah,Kc,Qc,Js,9s ]
+PrinceFreaca balance 2480, lost 100 (folded)
+DorianGray5 balance 6690, didn't bet (folded)
+don7788 balance 0, lost 980 [ Ks 8h ] [ high card Ace -- Ah,Ks,Js,9s,8h ]
+
+***** Hand History for Game 5793060977 *****
+don7788 finished in 6 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425107)  - Wed Mar 21 18:09:30 EDT 2007
+Table Speed 1331028 (Real Money) -- Seat 2 is the button
+Total number of players : 5
+Seat 1: alfaomega777 (4370)
+Seat 2: Pouswous (5560)
+Seat 5: Korollah (900)
+Seat 6: PrinceFreaca (2480)
+Seat 8: DorianGray5 (6690)
+Korollah  posts small blind (50)
+PrinceFreaca  posts big blind (100)
+** Dealing down cards **
+DorianGray5 folds.
+alfaomega777 folds.
+Pouswous folds.
+Korollah raises (850) to 900
+Korollah is all-In.
+PrinceFreaca folds.
+Creating Main Pot with $200 with Korollah
+** Summary **
+Main Pot: 200
+
+alfaomega777 balance 4370, didn't bet (folded)
+Pouswous balance 5560, didn't bet (folded)
+Korollah balance 1000, bet 900, collected 1000, net +100
+PrinceFreaca balance 2380, lost 100 (folded)
+DorianGray5 balance 6690, didn't bet (folded)
+
+***** Hand History for Game 5793062399 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425107)  - Wed Mar 21 18:09:51 EDT 2007
+Table Speed 1331028 (Real Money) -- Seat 5 is the button
+Total number of players : 5
+Seat 1: alfaomega777 (4370)
+Seat 2: Pouswous (5560)
+Seat 5: Korollah (1000)
+Seat 6: PrinceFreaca (2380)
+Seat 8: DorianGray5 (6690)
+PrinceFreaca  posts small blind (50)
+DorianGray5  posts big blind (100)
+** Dealing down cards **
+alfaomega777 folds.
+Pouswous calls (100)
+Korollah raises (1000) to 1000
+Korollah is all-In.
+PrinceFreaca folds.
+DorianGray5 folds.
+Pouswous calls (900)
+** Dealing Flop ** :  [ Qd, Th, 6d ]
+** Dealing Turn ** :  [ 4d ]
+** Dealing River ** :  [ Qs ]
+Creating Main Pot with $2150 with Korollah
+** Summary **
+Main Pot: 2150
+Board: [ Qd Th 6d 4d Qs  ]
+
+alfaomega777 balance 4370, didn't bet (folded)
+Pouswous balance 6710, bet 1000, collected 2150, net +1150 [ 7c 7s ] [ two pairs, Queens and Sevens -- Qd,Qs,Th,7c,7s ]
+Korollah balance 0, lost 1000 [ Ac 3h ] [ a pair of Queens -- Ac,Qd,Qs,Th,6d ]
+PrinceFreaca balance 2330, lost 50 (folded)
+DorianGray5 balance 6590, lost 100 (folded)
+
+***** Hand History for Game 5793063775 *****
+Korollah finished in 5 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425107)  - Wed Mar 21 18:10:11 EDT 2007
+Table Speed 1331028 (Real Money) -- Seat 6 is the button
+Total number of players : 4
+Seat 1: alfaomega777 (4370)
+Seat 2: Pouswous (6710)
+Seat 6: PrinceFreaca (2330)
+Seat 8: DorianGray5 (6590)
+DorianGray5  posts small blind (50)
+alfaomega777  posts big blind (100)
+** Dealing down cards **
+Pouswous folds.
+PrinceFreaca folds.
+DorianGray5 calls (50)
+alfaomega777 checks.
+** Dealing Flop ** :  [ 7s, Jh, Jc ]
+DorianGray5 bets (100)
+alfaomega777 folds.
+** Summary **
+Main Pot: 200
+Board: [ 7s Jh Jc  ]
+
+alfaomega777 balance 4270, lost 100 (folded)
+Pouswous balance 6710, didn't bet (folded)
+PrinceFreaca balance 2330, didn't bet (folded)
+DorianGray5 balance 6690, bet 200, collected 300, net +100
+
+***** Hand History for Game 5793064745 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425107)  - Wed Mar 21 18:10:26 EDT 2007
+Table Speed 1331028 (Real Money) -- Seat 8 is the button
+Total number of players : 4
+Seat 1: alfaomega777 (4270)
+Seat 2: Pouswous (6710)
+Seat 6: PrinceFreaca (2330)
+Seat 8: DorianGray5 (6690)
+alfaomega777  posts small blind (100)
+Pouswous  posts big blind (200)
+** Dealing down cards **
+PrinceFreaca folds.
+DorianGray5 folds.
+alfaomega777 calls (100)
+Pouswous checks.
+** Dealing Flop ** :  [ 4h, Tc, Qc ]
+alfaomega777 checks.
+Pouswous checks.
+** Dealing Turn ** :  [ 5h ]
+alfaomega777 checks.
+Pouswous checks.
+** Dealing River ** :  [ Js ]
+alfaomega777 checks.
+Pouswous checks.
+** Summary **
+Main Pot: 400
+Board: [ 4h Tc Qc 5h Js  ]
+
+alfaomega777 balance 4070, lost 200 [ 6c 7d ] [ high card Queen -- Qc,Js,Tc,7d,6c ]
+Pouswous balance 6910, bet 200, collected 400, net +200 [ 4s Ac ] [ a pair of Fours -- Ac,Qc,Js,4s,4h ]
+PrinceFreaca balance 2330, didn't bet (folded)
+DorianGray5 balance 6690, didn't bet (folded)
+
+***** Hand History for Game 5793066016 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425107)  - Wed Mar 21 18:10:46 EDT 2007
+Table Speed 1331028 (Real Money) -- Seat 1 is the button
+Total number of players : 4
+Seat 1: alfaomega777 (4070)
+Seat 2: Pouswous (6910)
+Seat 6: PrinceFreaca (2330)
+Seat 8: DorianGray5 (6690)
+Pouswous  posts small blind (100)
+PrinceFreaca  posts big blind (200)
+** Dealing down cards **
+DorianGray5 folds.
+alfaomega777 raises (400) to 400
+Pouswous folds.
+PrinceFreaca calls (200)
+** Dealing Flop ** :  [ Jh, 6d, 9s ]
+PrinceFreaca checks.
+alfaomega777 bets (400)
+PrinceFreaca folds.
+** Summary **
+Main Pot: 900
+Board: [ Jh 6d 9s  ]
+
+alfaomega777 balance 4570, bet 800, collected 1300, net +500
+Pouswous balance 6810, lost 100 (folded)
+PrinceFreaca balance 1930, lost 400 (folded)
+DorianGray5 balance 6690, didn't bet (folded)
+
+***** Hand History for Game 5793067354 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425107)  - Wed Mar 21 18:11:06 EDT 2007
+Table Speed 1331028 (Real Money) -- Seat 2 is the button
+Total number of players : 4
+Seat 1: alfaomega777 (4570)
+Seat 2: Pouswous (6810)
+Seat 6: PrinceFreaca (1930)
+Seat 8: DorianGray5 (6690)
+PrinceFreaca  posts small blind (100)
+DorianGray5  posts big blind (200)
+** Dealing down cards **
+alfaomega777 folds.
+Pouswous calls (200)
+PrinceFreaca folds.
+DorianGray5 checks.
+** Dealing Flop ** :  [ 9s, Qd, Qh ]
+DorianGray5 bets (200)
+Pouswous calls (200)
+** Dealing Turn ** :  [ As ]
+DorianGray5 bets (200)
+Pouswous raises (400) to 400
+DorianGray5 calls (200)
+** Dealing River ** :  [ Qc ]
+DorianGray5 bets (200)
+Pouswous raises (400) to 400
+DorianGray5 calls (200)
+** Summary **
+Main Pot: 2500
+Board: [ 9s Qd Qh As Qc  ]
+
+alfaomega777 balance 4570, didn't bet (folded)
+Pouswous balance 8110, bet 1200, collected 2500, net +1300 [ Td Ah ] [ a full house, Queens full of Aces -- Ah,As,Qd,Qh,Qc ]
+PrinceFreaca balance 1830, lost 100 (folded)
+
+DorianGray5 balance 5490, lost 1200 [Didn't Show]
+
+***** Hand History for Game 5793069477 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425107)  - Wed Mar 21 18:11:38 EDT 2007
+Table Speed 1331028 (Real Money) -- Seat 6 is the button
+Total number of players : 4
+Seat 1: alfaomega777 (4570)
+Seat 2: Pouswous (8110)
+Seat 6: PrinceFreaca (1830)
+Seat 8: DorianGray5 (5490)
+DorianGray5  posts small blind (100)
+alfaomega777  posts big blind (200)
+** Dealing down cards **
+Pouswous folds.
+PrinceFreaca raises (400) to 400
+DorianGray5 folds.
+alfaomega777 calls (200)
+** Dealing Flop ** :  [ 7h, 9h, 8d ]
+alfaomega777 checks.
+PrinceFreaca bets (600)
+alfaomega777 calls (600)
+** Dealing Turn ** :  [ Ah ]
+alfaomega777 bets (500)
+PrinceFreaca raises (830) to 830
+PrinceFreaca is all-In.
+alfaomega777 calls (330)
+** Dealing River ** :  [ Jd ]
+Creating Main Pot with $3760 with PrinceFreaca
+** Summary **
+Main Pot: 3760
+Board: [ 7h 9h 8d Ah Jd  ]
+
+alfaomega777 balance 2740, lost 1830 [ As 5s ] [ a pair of Aces -- As,Ah,Jd,9h,8d ]
+Pouswous balance 8110, didn't bet (folded)
+PrinceFreaca balance 3760, bet 1830, collected 3760, net +1930 [ 8s Ad ] [ two pairs, Aces and Eights -- Ad,Ah,Jd,8s,8d ]
+DorianGray5 balance 5390, lost 100 (folded)
+
+***** Hand History for Game 5793071449 *****
+alfaomega777: nh
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425107)  - Wed Mar 21 18:12:08 EDT 2007
+Table Speed 1331028 (Real Money) -- Seat 8 is the button
+Total number of players : 4
+Seat 1: alfaomega777 (2740)
+Seat 2: Pouswous (8110)
+Seat 6: PrinceFreaca (3760)
+Seat 8: DorianGray5 (5390)
+alfaomega777  posts small blind (100)
+Pouswous  posts big blind (200)
+** Dealing down cards **
+PrinceFreaca folds.
+DorianGray5 folds.
+alfaomega777 calls (100)
+PrinceFreaca: ty
+Pouswous checks.
+** Dealing Flop ** :  [ Js, Ks, 8h ]
+alfaomega777 checks.
+Pouswous bets (200)
+alfaomega777 folds.
+** Summary **
+Main Pot: 400
+Board: [ Js Ks 8h  ]
+
+alfaomega777 balance 2540, lost 200 (folded)
+Pouswous balance 8310, bet 400, collected 600, net +200
+PrinceFreaca balance 3760, didn't bet (folded)
+DorianGray5 balance 5390, didn't bet (folded)
+
+***** Hand History for Game 5793072375 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425107)  - Wed Mar 21 18:12:22 EDT 2007
+Table Speed 1331028 (Real Money) -- Seat 1 is the button
+Total number of players : 4
+Seat 1: alfaomega777 (2540)
+Seat 2: Pouswous (8310)
+Seat 6: PrinceFreaca (3760)
+Seat 8: DorianGray5 (5390)
+Pouswous  posts small blind (100)
+PrinceFreaca  posts big blind (200)
+** Dealing down cards **
+DorianGray5 folds.
+alfaomega777 folds.
+Pouswous calls (100)
+PrinceFreaca raises (200) to 400
+Pouswous calls (200)
+** Dealing Flop ** :  [ As, 9c, Qh ]
+Pouswous checks.
+PrinceFreaca bets (200)
+Pouswous folds.
+** Summary **
+Main Pot: 800
+Board: [ As 9c Qh  ]
+
+alfaomega777 balance 2540, didn't bet (folded)
+Pouswous balance 7910, lost 400 (folded)
+PrinceFreaca balance 4160, bet 600, collected 1000, net +400
+DorianGray5 balance 5390, didn't bet (folded)
+
+***** Hand History for Game 5793073431 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425107)  - Wed Mar 21 18:12:38 EDT 2007
+Table Speed 1331028 (Real Money) -- Seat 2 is the button
+Total number of players : 4
+Seat 1: alfaomega777 (2540)
+Seat 2: Pouswous (7910)
+Seat 6: PrinceFreaca (4160)
+Seat 8: DorianGray5 (5390)
+PrinceFreaca  posts small blind (100)
+DorianGray5  posts big blind (200)
+** Dealing down cards **
+alfaomega777 folds.
+Pouswous raises (400) to 400
+PrinceFreaca folds.
+DorianGray5 calls (200)
+** Dealing Flop ** :  [ 8h, Kd, 5d ]
+DorianGray5 bets (200)
+Pouswous calls (200)
+** Dealing Turn ** :  [ 3d ]
+DorianGray5 bets (200)
+Pouswous folds.
+** Summary **
+Main Pot: 1300
+Board: [ 8h Kd 5d 3d  ]
+
+alfaomega777 balance 2540, didn't bet (folded)
+Pouswous balance 7310, lost 600 (folded)
+PrinceFreaca balance 4060, lost 100 (folded)
+DorianGray5 balance 6090, bet 800, collected 1500, net +700
+
+***** Hand History for Game 5793074855 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425107)  - Wed Mar 21 18:12:59 EDT 2007
+Table Speed 1331028 (Real Money) -- Seat 6 is the button
+Total number of players : 4
+Seat 1: alfaomega777 (2540)
+Seat 2: Pouswous (7310)
+Seat 6: PrinceFreaca (4060)
+Seat 8: DorianGray5 (6090)
+DorianGray5  posts small blind (100)
+alfaomega777  posts big blind (200)
+** Dealing down cards **
+Pouswous raises (400) to 400
+PrinceFreaca folds.
+DorianGray5 calls (300)
+alfaomega777 folds.
+** Dealing Flop ** :  [ 8d, Qs, 9s ]
+DorianGray5 bets (200)
+Pouswous raises (400) to 400
+DorianGray5 calls (200)
+** Dealing Turn ** :  [ Js ]
+DorianGray5 checks.
+Pouswous bets (1000)
+DorianGray5 folds.
+** Summary **
+Main Pot: 1800
+Board: [ 8d Qs 9s Js  ]
+
+alfaomega777 balance 2340, lost 200 (folded)
+Pouswous balance 8310, bet 1800, collected 2800, net +1000
+PrinceFreaca balance 4060, didn't bet (folded)
+DorianGray5 balance 5290, lost 800 (folded)
+
+***** Hand History for Game 5793077511 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425107)  - Wed Mar 21 18:13:39 EDT 2007
+Table Speed 1331028 (Real Money) -- Seat 8 is the button
+Total number of players : 4
+Seat 1: alfaomega777 (2340)
+Seat 2: Pouswous (8310)
+Seat 6: PrinceFreaca (4060)
+Seat 8: DorianGray5 (5290)
+alfaomega777  posts small blind (100)
+Pouswous  posts big blind (200)
+** Dealing down cards **
+Pouswous: QQ
+PrinceFreaca folds.
+DorianGray5 calls (200)
+alfaomega777 raises (300) to 400
+Pouswous calls (200)
+DorianGray5 calls (200)
+** Dealing Flop ** :  [ 4s, 8h, 5h ]
+alfaomega777 checks.
+Pouswous checks.
+DorianGray5 bets (400)
+alfaomega777 calls (400)
+Pouswous folds.
+** Dealing Turn ** :  [ 4h ]
+alfaomega777 checks.
+DorianGray5 checks.
+** Dealing River ** :  [ 5c ]
+alfaomega777 checks.
+DorianGray5 checks.
+** Summary **
+Main Pot: 2000
+Board: [ 4s 8h 5h 4h 5c  ]
+
+alfaomega777 balance 3540, bet 800, collected 2000, net +1200 [ Ac Kh ] [ two pairs, Fives and Fours with Ace kicker -- Ac,5h,5c,4s,4h ]
+Pouswous balance 7910, lost 400 (folded)
+PrinceFreaca balance 4060, didn't bet (folded)
+
+DorianGray5 balance 4490, lost 800 [Didn't Show]
+
+***** Hand History for Game 5793080079 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425107)  - Wed Mar 21 18:14:17 EDT 2007
+Table Speed 1331028 (Real Money) -- Seat 1 is the button
+Total number of players : 4
+Seat 1: alfaomega777 (3540)
+Seat 2: Pouswous (7910)
+Seat 6: PrinceFreaca (4060)
+Seat 8: DorianGray5 (4490)
+Pouswous  posts small blind (100)
+PrinceFreaca  posts big blind (200)
+** Dealing down cards **
+DorianGray5 raises (600) to 600
+alfaomega777 calls (600)
+Pouswous folds.
+PrinceFreaca calls (400)
+** Dealing Flop ** :  [ 7c, 9c, Td ]
+PrinceFreaca checks.
+DorianGray5 bets (400)
+alfaomega777 calls (400)
+PrinceFreaca folds.
+** Dealing Turn ** :  [ Kh ]
+DorianGray5 checks.
+alfaomega777 checks.
+** Dealing River ** :  [ 4s ]
+DorianGray5 bets (800)
+alfaomega777 calls (800)
+** Summary **
+Main Pot: 4300
+Board: [ 7c 9c Td Kh 4s  ]
+
+
+alfaomega777 balance 1740, lost 1800 [Didn't Show]
+Pouswous balance 7810, lost 100 (folded)
+PrinceFreaca balance 3460, lost 600 (folded)
+DorianGray5 balance 6990, bet 1800, collected 4300, net +2500 [ Ts Tc ] [ three of a kind, Tens -- Kh,Ts,Tc,Td,9c ]
+
+***** Hand History for Game 5793082224 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425107)  - Wed Mar 21 18:14:52 EDT 2007
+Table Speed 1331028 (Real Money) -- Seat 2 is the button
+Total number of players : 4
+Seat 1: alfaomega777 (1740)
+Seat 2: Pouswous (7810)
+Seat 6: PrinceFreaca (3460)
+Seat 8: DorianGray5 (6990)
+PrinceFreaca  posts small blind (100)
+DorianGray5  posts big blind (200)
+** Dealing down cards **
+alfaomega777 folds.
+Pouswous folds.
+PrinceFreaca folds.
+** Summary **
+Main Pot: 200
+
+alfaomega777 balance 1740, didn't bet (folded)
+Pouswous balance 7810, didn't bet (folded)
+PrinceFreaca balance 3360, lost 100 (folded)
+DorianGray5 balance 7090, bet 200, collected 300, net +100
+
+***** Hand History for Game 5793082770 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425107)  - Wed Mar 21 18:15:01 EDT 2007
+Table Speed 1331028 (Real Money) -- Seat 6 is the button
+Total number of players : 4
+Seat 1: alfaomega777 (1740)
+Seat 2: Pouswous (7810)
+Seat 6: PrinceFreaca (3360)
+Seat 8: DorianGray5 (7090)
+DorianGray5  posts small blind (100)
+alfaomega777  posts big blind (200)
+** Dealing down cards **
+Pouswous folds.
+PrinceFreaca folds.
+DorianGray5 calls (100)
+alfaomega777 raises (1540) to 1740
+alfaomega777 is all-In.
+DorianGray5 folds.
+Creating Main Pot with $400 with alfaomega777
+** Summary **
+Main Pot: 400
+
+alfaomega777 balance 1940, bet 1740, collected 1940, net +200
+Pouswous balance 7810, didn't bet (folded)
+PrinceFreaca balance 3360, didn't bet (folded)
+DorianGray5 balance 6890, lost 200 (folded)
+
+***** Hand History for Game 5793083551 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425107)  - Wed Mar 21 18:15:12 EDT 2007
+Table Speed 1331028 (Real Money) -- Seat 8 is the button
+Total number of players : 4
+Seat 1: alfaomega777 (1940)
+Seat 2: Pouswous (7810)
+Seat 6: PrinceFreaca (3360)
+Seat 8: DorianGray5 (6890)
+alfaomega777  posts small blind (100)
+Pouswous  posts big blind (200)
+** Dealing down cards **
+PrinceFreaca folds.
+DorianGray5 folds.
+alfaomega777 calls (100)
+Pouswous checks.
+** Dealing Flop ** :  [ 3c, Qd, 7h ]
+alfaomega777 bets (200)
+Pouswous folds.
+** Summary **
+Main Pot: 400
+Board: [ 3c Qd 7h  ]
+
+alfaomega777 balance 2140, bet 400, collected 600, net +200
+Pouswous balance 7610, lost 200 (folded)
+PrinceFreaca balance 3360, didn't bet (folded)
+DorianGray5 balance 6890, didn't bet (folded)
+
+***** Hand History for Game 5793084656 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425107)  - Wed Mar 21 18:15:28 EDT 2007
+Table Speed 1331028 (Real Money) -- Seat 1 is the button
+Total number of players : 4
+Seat 1: alfaomega777 (2140)
+Seat 2: Pouswous (7610)
+Seat 6: PrinceFreaca (3360)
+Seat 8: DorianGray5 (6890)
+Pouswous  posts small blind (200)
+PrinceFreaca  posts big blind (400)
+** Dealing down cards **
+DorianGray5 folds.
+alfaomega777 folds.
+Pouswous calls (200)
+PrinceFreaca checks.
+** Dealing Flop ** :  [ Ad, 9s, Qh ]
+Pouswous bets (400)
+PrinceFreaca calls (400)
+** Dealing Turn ** :  [ 2d ]
+Pouswous bets (400)
+PrinceFreaca raises (800) to 800
+Pouswous folds.
+** Summary **
+Main Pot: 2400
+Board: [ Ad 9s Qh 2d  ]
+
+alfaomega777 balance 2140, didn't bet (folded)
+Pouswous balance 6410, lost 1200 (folded)
+PrinceFreaca balance 4560, bet 1600, collected 2800, net +1200 [ 9d Ac ] [ two pairs, Aces and Nines -- Ac,Ad,Qh,9d,9s ]
+DorianGray5 balance 6890, didn't bet (folded)
+
+***** Hand History for Game 5793086589 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425107)  - Wed Mar 21 18:15:58 EDT 2007
+Table Speed 1331028 (Real Money) -- Seat 2 is the button
+Total number of players : 4
+Seat 1: alfaomega777 (2140)
+Seat 2: Pouswous (6410)
+Seat 6: PrinceFreaca (4560)
+Seat 8: DorianGray5 (6890)
+PrinceFreaca  posts small blind (200)
+DorianGray5  posts big blind (400)
+** Dealing down cards **
+alfaomega777 folds.
+Pouswous folds.
+PrinceFreaca folds.
+** Summary **
+Main Pot: 400
+
+alfaomega777 balance 2140, didn't bet (folded)
+Pouswous balance 6410, didn't bet (folded)
+PrinceFreaca balance 4360, lost 200 (folded)
+DorianGray5 balance 7090, bet 400, collected 600, net +200
+
+***** Hand History for Game 5793087078 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425107)  - Wed Mar 21 18:16:05 EDT 2007
+Table Speed 1331028 (Real Money) -- Seat 6 is the button
+Total number of players : 4
+Seat 1: alfaomega777 (2140)
+Seat 2: Pouswous (6410)
+Seat 6: PrinceFreaca (4360)
+Seat 8: DorianGray5 (7090)
+DorianGray5  posts small blind (200)
+alfaomega777  posts big blind (400)
+** Dealing down cards **
+Pouswous calls (400)
+PrinceFreaca folds.
+DorianGray5 calls (200)
+alfaomega777 raises (1740) to 2140
+alfaomega777 is all-In.
+Pouswous calls (1740)
+DorianGray5 folds.
+** Dealing Flop ** :  [ Td, 6d, 3s ]
+** Dealing Turn ** :  [ As ]
+** Dealing River ** :  [ 9c ]
+Creating Main Pot with $4680 with alfaomega777
+** Summary **
+Main Pot: 4680
+Board: [ Td 6d 3s As 9c  ]
+
+alfaomega777 balance 4680, bet 2140, collected 4680, net +2540 [ Tc Th ] [ three of a kind, Tens -- As,Tc,Th,Td,9c ]
+Pouswous balance 4270, lost 2140 [ 6c Ac ] [ two pairs, Aces and Sixes -- Ac,As,Td,6c,6d ]
+PrinceFreaca balance 4360, didn't bet (folded)
+DorianGray5 balance 6690, lost 400 (folded)
+
+***** Hand History for Game 5793088200 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425107)  - Wed Mar 21 18:16:22 EDT 2007
+Table Speed 1331028 (Real Money) -- Seat 8 is the button
+Total number of players : 4
+Seat 1: alfaomega777 (4680)
+Seat 2: Pouswous (4270)
+Seat 6: PrinceFreaca (4360)
+Seat 8: DorianGray5 (6690)
+alfaomega777  posts small blind (200)
+Pouswous  posts big blind (400)
+** Dealing down cards **
+PrinceFreaca folds.
+DorianGray5 calls (400)
+alfaomega777 folds.
+Pouswous raises (400) to 800
+DorianGray5 calls (400)
+** Dealing Flop ** :  [ Ts, 5h, Qd ]
+Pouswous bets (400)
+DorianGray5 calls (400)
+** Dealing Turn ** :  [ 7d ]
+Pouswous bets (400)
+DorianGray5 calls (400)
+** Dealing River ** :  [ 4s ]
+Pouswous bets (400)
+DorianGray5 raises (5090) to 5090
+DorianGray5 is all-In.
+Pouswous folds.
+Creating Main Pot with $4200 with DorianGray5
+** Summary **
+Main Pot: 4200
+Board: [ Ts 5h Qd 7d 4s  ]
+
+alfaomega777 balance 4480, lost 200 (folded)
+Pouswous balance 2270, lost 2000 (folded)
+PrinceFreaca balance 4360, didn't bet (folded)
+DorianGray5 balance 8890, bet 6690, collected 8890, net +2200
+
+***** Hand History for Game 5793091019 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425107)  - Wed Mar 21 18:17:06 EDT 2007
+Table Speed 1331028 (Real Money) -- Seat 1 is the button
+Total number of players : 4
+Seat 1: alfaomega777 (4480)
+Seat 2: Pouswous (2270)
+Seat 6: PrinceFreaca (4360)
+Seat 8: DorianGray5 (8890)
+Pouswous  posts small blind (200)
+PrinceFreaca  posts big blind (400)
+** Dealing down cards **
+DorianGray5 folds.
+alfaomega777 folds.
+Pouswous folds.
+** Summary **
+Main Pot: 400
+
+alfaomega777 balance 4480, didn't bet (folded)
+Pouswous balance 2070, lost 200 (folded)
+PrinceFreaca balance 4560, bet 400, collected 600, net +200
+DorianGray5 balance 8890, didn't bet (folded)
+
+***** Hand History for Game 5793091431 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425107)  - Wed Mar 21 18:17:12 EDT 2007
+Table Speed 1331028 (Real Money) -- Seat 2 is the button
+Total number of players : 4
+Seat 1: alfaomega777 (4480)
+Seat 2: Pouswous (2070)
+Seat 6: PrinceFreaca (4560)
+Seat 8: DorianGray5 (8890)
+PrinceFreaca  posts small blind (200)
+DorianGray5  posts big blind (400)
+** Dealing down cards **
+alfaomega777 folds.
+Pouswous folds.
+PrinceFreaca raises (600) to 800
+DorianGray5 calls (400)
+** Dealing Flop ** :  [ Ah, 2d, 2c ]
+PrinceFreaca bets (800)
+DorianGray5 raises (1600) to 1600
+PrinceFreaca calls (800)
+** Dealing Turn ** :  [ 9h ]
+PrinceFreaca checks.
+DorianGray5 bets (400)
+PrinceFreaca calls (400)
+** Dealing River ** :  [ Kc ]
+PrinceFreaca checks.
+DorianGray5 checks.
+** Summary **
+Main Pot: 5600
+Board: [ Ah 2d 2c 9h Kc  ]
+
+alfaomega777 balance 4480, didn't bet (folded)
+Pouswous balance 2070, didn't bet (folded)
+PrinceFreaca balance 4560, bet 2800, collected 2800, net +0 [ Jh Ac ] [ two pairs, Aces and Twos -- Ac,Ah,Kc,2d,2c ]
+DorianGray5 balance 8890, bet 2800, collected 2800, net +0 [ 8h Ad ] [ two pairs, Aces and Twos -- Ad,Ah,Kc,2d,2c ]
+
+***** Hand History for Game 5793093751 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425107)  - Wed Mar 21 18:17:48 EDT 2007
+Table Speed 1331028 (Real Money) -- Seat 6 is the button
+Total number of players : 4
+Seat 1: alfaomega777 (4480)
+Seat 2: Pouswous (2070)
+Seat 6: PrinceFreaca (4560)
+Seat 8: DorianGray5 (8890)
+DorianGray5  posts small blind (200)
+alfaomega777  posts big blind (400)
+** Dealing down cards **
+Pouswous calls (400)
+PrinceFreaca folds.
+DorianGray5 folds.
+alfaomega777 checks.
+** Dealing Flop ** :  [ 3c, Qs, 2s ]
+alfaomega777 bets (400)
+Pouswous raises (800) to 800
+alfaomega777 raises (2400) to 2800
+Pouswous calls (870)
+Pouswous is all-In.
+** Dealing Turn ** :  [ 8h ]
+** Dealing River ** :  [ 6h ]
+Creating Main Pot with $4340 with Pouswous
+** Summary **
+Main Pot: 4340
+Board: [ 3c Qs 2s 8h 6h  ]
+
+alfaomega777 balance 2410, bet 3200, collected 1130, lost -2070 [ Jc 2d ] [ a pair of Twos -- Qs,Jc,8h,2d,2s ]
+Pouswous balance 4340, bet 2070, collected 4340, net +2270 [ Kd Kc ] [ a pair of Kings -- Kd,Kc,Qs,8h,6h ]
+PrinceFreaca balance 4560, didn't bet (folded)
+DorianGray5 balance 8690, lost 200 (folded)
+
+***** Hand History for Game 5793095393 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425107)  - Wed Mar 21 18:18:14 EDT 2007
+Table Speed 1331028 (Real Money) -- Seat 8 is the button
+Total number of players : 4
+Seat 1: alfaomega777 (2410)
+Seat 2: Pouswous (4340)
+Seat 6: PrinceFreaca (4560)
+Seat 8: DorianGray5 (8690)
+alfaomega777  posts small blind (200)
+Pouswous  posts big blind (400)
+** Dealing down cards **
+PrinceFreaca folds.
+DorianGray5 calls (400)
+alfaomega777 calls (200)
+Pouswous checks.
+** Dealing Flop ** :  [ 2d, 3h, 9c ]
+alfaomega777 bets (400)
+Pouswous folds.
+DorianGray5 calls (400)
+** Dealing Turn ** :  [ Ah ]
+alfaomega777 bets (400)
+DorianGray5 folds.
+** Summary **
+Main Pot: 2000
+Board: [ 2d 3h 9c Ah  ]
+
+alfaomega777 balance 3610, bet 1200, collected 2400, net +1200
+Pouswous balance 3940, lost 400 (folded)
+PrinceFreaca balance 4560, didn't bet (folded)
+DorianGray5 balance 7890, lost 800 (folded)
+
+***** Hand History for Game 5793097317 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425107)  - Wed Mar 21 18:18:43 EDT 2007
+Table Speed 1331028 (Real Money) -- Seat 1 is the button
+Total number of players : 4
+Seat 1: alfaomega777 (3610)
+Seat 2: Pouswous (3940)
+Seat 6: PrinceFreaca (4560)
+Seat 8: DorianGray5 (7890)
+Pouswous  posts small blind (200)
+PrinceFreaca  posts big blind (400)
+** Dealing down cards **
+DorianGray5 folds.
+alfaomega777 folds.
+Pouswous calls (200)
+PrinceFreaca checks.
+** Dealing Flop ** :  [ 4d, Qh, 8d ]
+Pouswous checks.
+PrinceFreaca bets (400)
+Pouswous folds.
+** Summary **
+Main Pot: 800
+Board: [ 4d Qh 8d  ]
+
+alfaomega777 balance 3610, didn't bet (folded)
+Pouswous balance 3540, lost 400 (folded)
+PrinceFreaca balance 4960, bet 800, collected 1200, net +400
+DorianGray5 balance 7890, didn't bet (folded)
+
+***** Hand History for Game 5793098211 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425107)  - Wed Mar 21 18:18:57 EDT 2007
+Table Speed 1331028 (Real Money) -- Seat 2 is the button
+Total number of players : 4
+Seat 1: alfaomega777 (3610)
+Seat 2: Pouswous (3540)
+Seat 6: PrinceFreaca (4960)
+Seat 8: DorianGray5 (7890)
+PrinceFreaca  posts small blind (200)
+DorianGray5  posts big blind (400)
+** Dealing down cards **
+alfaomega777 folds.
+Pouswous folds.
+PrinceFreaca calls (200)
+DorianGray5 checks.
+** Dealing Flop ** :  [ 6h, 4d, Kc ]
+PrinceFreaca bets (400)
+DorianGray5 calls (400)
+** Dealing Turn ** :  [ Jh ]
+PrinceFreaca bets (400)
+DorianGray5 folds.
+** Summary **
+Main Pot: 1600
+Board: [ 6h 4d Kc Jh  ]
+
+alfaomega777 balance 3610, didn't bet (folded)
+Pouswous balance 3540, didn't bet (folded)
+PrinceFreaca balance 5760, bet 1200, collected 2000, net +800
+DorianGray5 balance 7090, lost 800 (folded)
+
+***** Hand History for Game 5793099575 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425107)  - Wed Mar 21 18:19:19 EDT 2007
+Table Speed 1331028 (Real Money) -- Seat 6 is the button
+Total number of players : 4
+Seat 1: alfaomega777 (3610)
+Seat 2: Pouswous (3540)
+Seat 6: PrinceFreaca (5760)
+Seat 8: DorianGray5 (7090)
+DorianGray5  posts small blind (200)
+alfaomega777  posts big blind (400)
+** Dealing down cards **
+Pouswous folds.
+PrinceFreaca folds.
+DorianGray5 folds.
+** Summary **
+Main Pot: 400
+
+alfaomega777 balance 3810, bet 400, collected 600, net +200
+Pouswous balance 3540, didn't bet (folded)
+PrinceFreaca balance 5760, didn't bet (folded)
+DorianGray5 balance 6890, lost 200 (folded)
+
+***** Hand History for Game 5793100071 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425107)  - Wed Mar 21 18:19:27 EDT 2007
+Table Speed 1331028 (Real Money) -- Seat 8 is the button
+Total number of players : 4
+Seat 1: alfaomega777 (3810)
+Seat 2: Pouswous (3540)
+Seat 6: PrinceFreaca (5760)
+Seat 8: DorianGray5 (6890)
+alfaomega777  posts small blind (200)
+Pouswous  posts big blind (400)
+** Dealing down cards **
+PrinceFreaca folds.
+DorianGray5 raises (800) to 800
+alfaomega777 folds.
+Pouswous folds.
+** Summary **
+Main Pot: 1000
+
+alfaomega777 balance 3610, lost 200 (folded)
+Pouswous balance 3140, lost 400 (folded)
+PrinceFreaca balance 5760, didn't bet (folded)
+DorianGray5 balance 7490, bet 800, collected 1400, net +600
+
+***** Hand History for Game 5793100710 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425107)  - Wed Mar 21 18:19:37 EDT 2007
+Table Speed 1331028 (Real Money) -- Seat 1 is the button
+Total number of players : 4
+Seat 1: alfaomega777 (3610)
+Seat 2: Pouswous (3140)
+Seat 6: PrinceFreaca (5760)
+Seat 8: DorianGray5 (7490)
+Pouswous  posts small blind (200)
+PrinceFreaca  posts big blind (400)
+** Dealing down cards **
+DorianGray5 folds.
+alfaomega777 folds.
+Pouswous raises (600) to 800
+PrinceFreaca folds.
+** Summary **
+Main Pot: 800
+
+alfaomega777 balance 3610, didn't bet (folded)
+Pouswous balance 3540, bet 800, collected 1200, net +400
+PrinceFreaca balance 5360, lost 400 (folded)
+DorianGray5 balance 7490, didn't bet (folded)
+
+***** Hand History for Game 5793101475 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425107)  - Wed Mar 21 18:19:49 EDT 2007
+Table Speed 1331028 (Real Money) -- Seat 2 is the button
+Total number of players : 4
+Seat 1: alfaomega777 (3610)
+Seat 2: Pouswous (3540)
+Seat 6: PrinceFreaca (5360)
+Seat 8: DorianGray5 (7490)
+PrinceFreaca  posts small blind (200)
+DorianGray5  posts big blind (400)
+** Dealing down cards **
+alfaomega777 folds.
+Pouswous calls (400)
+PrinceFreaca calls (200)
+DorianGray5 checks.
+** Dealing Flop ** :  [ 4s, 2s, 3d ]
+PrinceFreaca checks.
+DorianGray5 bets (400)
+Pouswous calls (400)
+PrinceFreaca folds.
+** Dealing Turn ** :  [ 6d ]
+DorianGray5 bets (400)
+Pouswous raises (1600) to 1600
+DorianGray5 folds.
+** Summary **
+Main Pot: 2800
+Board: [ 4s 2s 3d 6d  ]
+
+alfaomega777 balance 3610, didn't bet (folded)
+Pouswous balance 5140, bet 2400, collected 4000, net +1600
+PrinceFreaca balance 4960, lost 400 (folded)
+DorianGray5 balance 6290, lost 1200 (folded)
+
+***** Hand History for Game 5793103202 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425107)  - Wed Mar 21 18:20:17 EDT 2007
+Table Speed 1331028 (Real Money) -- Seat 6 is the button
+Total number of players : 4
+Seat 1: alfaomega777 (3610)
+Seat 2: Pouswous (5140)
+Seat 6: PrinceFreaca (4960)
+Seat 8: DorianGray5 (6290)
+DorianGray5  posts small blind (200)
+alfaomega777  posts big blind (400)
+** Dealing down cards **
+Pouswous folds.
+PrinceFreaca folds.
+DorianGray5 calls (200)
+alfaomega777 raises (3210) to 3610
+alfaomega777 is all-In.
+DorianGray5 folds.
+Creating Main Pot with $800 with alfaomega777
+** Summary **
+Main Pot: 800
+
+alfaomega777 balance 4010, bet 3610, collected 4010, net +400
+Pouswous balance 5140, didn't bet (folded)
+PrinceFreaca balance 4960, didn't bet (folded)
+DorianGray5 balance 5890, lost 400 (folded)
+
+***** Hand History for Game 5793104065 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425107)  - Wed Mar 21 18:20:30 EDT 2007
+Table Speed 1331028 (Real Money) -- Seat 8 is the button
+Total number of players : 4
+Seat 1: alfaomega777 (4010)
+Seat 2: Pouswous (5140)
+Seat 6: PrinceFreaca (4960)
+Seat 8: DorianGray5 (5890)
+alfaomega777  posts small blind (300)
+Pouswous  posts big blind (600)
+** Dealing down cards **
+PrinceFreaca folds.
+DorianGray5 folds.
+alfaomega777 raises (3710) to 4010
+alfaomega777 is all-In.
+Pouswous folds.
+Creating Main Pot with $1200 with alfaomega777
+** Summary **
+Main Pot: 1200
+
+alfaomega777 balance 4610, bet 4010, collected 4610, net +600
+Pouswous balance 4540, lost 600 (folded)
+PrinceFreaca balance 4960, didn't bet (folded)
+DorianGray5 balance 5890, didn't bet (folded)
+
+***** Hand History for Game 5793105287 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425107)  - Wed Mar 21 18:20:50 EDT 2007
+Table Speed 1331028 (Real Money) -- Seat 1 is the button
+Total number of players : 4
+Seat 1: alfaomega777 (4610)
+Seat 2: Pouswous (4540)
+Seat 6: PrinceFreaca (4960)
+Seat 8: DorianGray5 (5890)
+Pouswous  posts small blind (300)
+PrinceFreaca  posts big blind (600)
+** Dealing down cards **
+DorianGray5 raises (1800) to 1800
+alfaomega777 folds.
+Pouswous folds.
+PrinceFreaca folds.
+** Summary **
+Main Pot: 1500
+
+alfaomega777 balance 4610, didn't bet (folded)
+Pouswous balance 4240, lost 300 (folded)
+PrinceFreaca balance 4360, lost 600 (folded)
+DorianGray5 balance 6790, bet 1800, collected 2700, net +900
+
+***** Hand History for Game 5793105944 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425107)  - Wed Mar 21 18:21:00 EDT 2007
+Table Speed 1331028 (Real Money) -- Seat 2 is the button
+Total number of players : 4
+Seat 1: alfaomega777 (4610)
+Seat 2: Pouswous (4240)
+Seat 6: PrinceFreaca (4360)
+Seat 8: DorianGray5 (6790)
+PrinceFreaca  posts small blind (300)
+DorianGray5  posts big blind (600)
+** Dealing down cards **
+alfaomega777 folds.
+Pouswous folds.
+PrinceFreaca folds.
+** Summary **
+Main Pot: 600
+
+alfaomega777 balance 4610, didn't bet (folded)
+Pouswous balance 4240, didn't bet (folded)
+PrinceFreaca balance 4060, lost 300 (folded)
+DorianGray5 balance 7090, bet 600, collected 900, net +300
+
+***** Hand History for Game 5793106385 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425107)  - Wed Mar 21 18:21:07 EDT 2007
+Table Speed 1331028 (Real Money) -- Seat 6 is the button
+Total number of players : 4
+Seat 1: alfaomega777 (4610)
+Seat 2: Pouswous (4240)
+Seat 6: PrinceFreaca (4060)
+Seat 8: DorianGray5 (7090)
+DorianGray5  posts small blind (300)
+alfaomega777  posts big blind (600)
+** Dealing down cards **
+Pouswous folds.
+PrinceFreaca raises (1200) to 1200
+DorianGray5 calls (900)
+alfaomega777 calls (600)
+** Dealing Flop ** :  [ 6d, Qd, 4d ]
+DorianGray5 checks.
+alfaomega777 bets (3410)
+alfaomega777 is all-In.
+PrinceFreaca folds.
+DorianGray5 calls (3410)
+** Dealing Turn ** :  [ 2s ]
+** Dealing River ** :  [ 3c ]
+Creating Main Pot with $10420 with alfaomega777
+** Summary **
+Main Pot: 10420
+Board: [ 6d Qd 4d 2s 3c  ]
+
+alfaomega777 balance 10420, bet 4610, collected 10420, net +5810 [ Qc Jc ] [ a pair of Queens -- Qc,Qd,Jc,6d,4d ]
+Pouswous balance 4240, didn't bet (folded)
+PrinceFreaca balance 2860, lost 1200 (folded)
+DorianGray5 balance 2480, lost 4610 [ Kc Ad ] [ high card Ace -- Ad,Kc,Qd,6d,4d ]
+
+***** Hand History for Game 5793108006 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425107)  - Wed Mar 21 18:21:32 EDT 2007
+Table Speed 1331028 (Real Money) -- Seat 8 is the button
+Total number of players : 4
+Seat 1: alfaomega777 (10420)
+Seat 2: Pouswous (4240)
+Seat 6: PrinceFreaca (2860)
+Seat 8: DorianGray5 (2480)
+alfaomega777  posts small blind (300)
+Pouswous  posts big blind (600)
+** Dealing down cards **
+PrinceFreaca folds.
+DorianGray5 raises (1200) to 1200
+alfaomega777 raises (6300) to 6600
+Pouswous folds.
+DorianGray5 calls (1280)
+DorianGray5 is all-In.
+** Dealing Flop ** :  [ Jd, 6d, 2d ]
+** Dealing Turn ** :  [ Qh ]
+** Dealing River ** :  [ Jh ]
+Creating Main Pot with $5560 with DorianGray5
+** Summary **
+Main Pot: 5560
+Board: [ Jd 6d 2d Qh Jh  ]
+
+alfaomega777 balance 13500, bet 6600, collected 9680, net +3080 [ Ac 8d ] [ a pair of Jacks with Eight kicker -- Ac,Qh,Jd,Jh,8d8d(kicker card) ]
+Pouswous balance 3640, lost 600 (folded)
+PrinceFreaca balance 2860, didn't bet (folded)
+DorianGray5 balance 0, lost 2480 [ 3d Ah ] [ a pair of Jacks -- Ah,Qh,Jd,Jh,6d ]
+
+***** Hand History for Game 5793109476 *****
+DorianGray5 finished in 4 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425107)  - Wed Mar 21 18:21:56 EDT 2007
+Table Speed 1331028 (Real Money) -- Seat 1 is the button
+Total number of players : 3
+Seat 1: alfaomega777 (13500)
+Seat 2: Pouswous (3640)
+Seat 6: PrinceFreaca (2860)
+Pouswous  posts small blind (300)
+PrinceFreaca  posts big blind (600)
+** Dealing down cards **
+alfaomega777 folds.
+Pouswous folds.
+** Summary **
+Main Pot: 600
+
+alfaomega777 balance 13500, didn't bet (folded)
+Pouswous balance 3340, lost 300 (folded)
+PrinceFreaca balance 3160, bet 600, collected 900, net +300
+
+***** Hand History for Game 5793109909 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425107)  - Wed Mar 21 18:22:02 EDT 2007
+Table Speed 1331028 (Real Money) -- Seat 2 is the button
+Total number of players : 3
+Seat 1: alfaomega777 (13500)
+Seat 2: Pouswous (3340)
+Seat 6: PrinceFreaca (3160)
+PrinceFreaca  posts small blind (300)
+alfaomega777  posts big blind (600)
+** Dealing down cards **
+Pouswous calls (600)
+PrinceFreaca calls (300)
+alfaomega777 checks.
+** Dealing Flop ** :  [ 8d, 2d, 6s ]
+PrinceFreaca checks.
+alfaomega777 bets (600)
+Pouswous folds.
+PrinceFreaca folds.
+** Summary **
+Main Pot: 1800
+Board: [ 8d 2d 6s  ]
+
+alfaomega777 balance 14700, bet 1200, collected 2400, net +1200
+Pouswous balance 2740, lost 600 (folded)
+PrinceFreaca balance 2560, lost 600 (folded)
+
+***** Hand History for Game 5793110833 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425107)  - Wed Mar 21 18:22:17 EDT 2007
+Table Speed 1331028 (Real Money) -- Seat 6 is the button
+Total number of players : 3
+Seat 1: alfaomega777 (14700)
+Seat 2: Pouswous (2740)
+Seat 6: PrinceFreaca (2560)
+alfaomega777  posts small blind (300)
+Pouswous  posts big blind (600)
+** Dealing down cards **
+PrinceFreaca raises (2560) to 2560
+PrinceFreaca is all-In.
+alfaomega777 folds.
+Pouswous folds.
+Creating Main Pot with $1500 with PrinceFreaca
+** Summary **
+Main Pot: 1500
+
+alfaomega777 balance 14400, lost 300 (folded)
+Pouswous balance 2140, lost 600 (folded)
+PrinceFreaca balance 3460, bet 2560, collected 3460, net +900 [ 7d 7c ] [ a pair of Sevens -- 7d,7c ]
+
+***** Hand History for Game 5793111534 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425107)  - Wed Mar 21 18:22:28 EDT 2007
+Table Speed 1331028 (Real Money) -- Seat 1 is the button
+Total number of players : 3
+Seat 1: alfaomega777 (14400)
+Seat 2: Pouswous (2140)
+Seat 6: PrinceFreaca (3460)
+Pouswous  posts small blind (300)
+PrinceFreaca  posts big blind (600)
+** Dealing down cards **
+alfaomega777 folds.
+Pouswous folds.
+** Summary **
+Main Pot: 600
+
+alfaomega777 balance 14400, didn't bet (folded)
+Pouswous balance 1840, lost 300 (folded)
+PrinceFreaca balance 3760, bet 600, collected 900, net +300 [ 7h 7s ] [ a pair of Sevens -- 7h,7s ]
+
+***** Hand History for Game 5793112096 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425107)  - Wed Mar 21 18:22:37 EDT 2007
+Table Speed 1331028 (Real Money) -- Seat 2 is the button
+Total number of players : 3
+Seat 1: alfaomega777 (14400)
+Seat 2: Pouswous (1840)
+Seat 6: PrinceFreaca (3760)
+PrinceFreaca  posts small blind (300)
+alfaomega777  posts big blind (600)
+** Dealing down cards **
+Pouswous folds.
+PrinceFreaca folds.
+** Summary **
+Main Pot: 600
+
+alfaomega777 balance 14700, bet 600, collected 900, net +300
+Pouswous balance 1840, didn't bet (folded)
+PrinceFreaca balance 3460, lost 300 (folded)
+
+***** Hand History for Game 5793112498 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425107)  - Wed Mar 21 18:22:43 EDT 2007
+Table Speed 1331028 (Real Money) -- Seat 6 is the button
+Total number of players : 3
+Seat 1: alfaomega777 (14700)
+Seat 2: Pouswous (1840)
+Seat 6: PrinceFreaca (3460)
+alfaomega777  posts small blind (300)
+Pouswous  posts big blind (600)
+** Dealing down cards **
+PrinceFreaca folds.
+alfaomega777 folds.
+** Summary **
+Main Pot: 600
+
+alfaomega777 balance 14400, lost 300 (folded)
+Pouswous balance 2140, bet 600, collected 900, net +300
+PrinceFreaca balance 3460, didn't bet (folded)
+
+***** Hand History for Game 5793112905 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425107)  - Wed Mar 21 18:22:49 EDT 2007
+Table Speed 1331028 (Real Money) -- Seat 1 is the button
+Total number of players : 3
+Seat 1: alfaomega777 (14400)
+Seat 2: Pouswous (2140)
+Seat 6: PrinceFreaca (3460)
+Pouswous  posts small blind (300)
+PrinceFreaca  posts big blind (600)
+** Dealing down cards **
+alfaomega777 folds.
+Pouswous folds.
+** Summary **
+Main Pot: 600
+
+alfaomega777 balance 14400, didn't bet (folded)
+Pouswous balance 1840, lost 300 (folded)
+PrinceFreaca balance 3760, bet 600, collected 900, net +300
+
+***** Hand History for Game 5793113347 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425107)  - Wed Mar 21 18:22:55 EDT 2007
+Table Speed 1331028 (Real Money) -- Seat 2 is the button
+Total number of players : 3
+Seat 1: alfaomega777 (14400)
+Seat 2: Pouswous (1840)
+Seat 6: PrinceFreaca (3760)
+PrinceFreaca  posts small blind (300)
+alfaomega777  posts big blind (600)
+** Dealing down cards **
+Pouswous raises (1840) to 1840
+Pouswous is all-In.
+PrinceFreaca folds.
+alfaomega777 calls (1240)
+** Dealing Flop ** :  [ 5c, Ts, Kc ]
+** Dealing Turn ** :  [ 6c ]
+** Dealing River ** :  [ 9c ]
+Creating Main Pot with $3980 with Pouswous
+** Summary **
+Main Pot: 3980
+Board: [ 5c Ts Kc 6c 9c  ]
+
+alfaomega777 balance 12560, lost 1840 [ Jh Ks ] [ a pair of Kings -- Ks,Kc,Jh,Ts,9c ]
+Pouswous balance 3980, bet 1840, collected 3980, net +2140 [ Ac 9d ] [ a flush, Ace high -- Ac,Kc,9c,6c,5c ]
+PrinceFreaca balance 3460, lost 300 (folded)
+
+***** Hand History for Game 5793114247 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425107)  - Wed Mar 21 18:23:10 EDT 2007
+Table Speed 1331028 (Real Money) -- Seat 6 is the button
+Total number of players : 3
+Seat 1: alfaomega777 (12560)
+Seat 2: Pouswous (3980)
+Seat 6: PrinceFreaca (3460)
+alfaomega777  posts small blind (300)
+Pouswous  posts big blind (600)
+** Dealing down cards **
+PrinceFreaca folds.
+alfaomega777 raises (900) to 1200
+Pouswous folds.
+** Summary **
+Main Pot: 1200
+
+alfaomega777 balance 13160, bet 1200, collected 1800, net +600
+Pouswous balance 3380, lost 600 (folded)
+PrinceFreaca balance 3460, didn't bet (folded)
+
+***** Hand History for Game 5793114722 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425107)  - Wed Mar 21 18:23:17 EDT 2007
+Table Speed 1331028 (Real Money) -- Seat 1 is the button
+Total number of players : 3
+Seat 1: alfaomega777 (13160)
+Seat 2: Pouswous (3380)
+Seat 6: PrinceFreaca (3460)
+Pouswous  posts small blind (300)
+PrinceFreaca  posts big blind (600)
+** Dealing down cards **
+alfaomega777 folds.
+Pouswous folds.
+** Summary **
+Main Pot: 600
+
+alfaomega777 balance 13160, didn't bet (folded)
+Pouswous balance 3080, lost 300 (folded)
+PrinceFreaca balance 3760, bet 600, collected 900, net +300
+
+***** Hand History for Game 5793115138 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425107)  - Wed Mar 21 18:23:23 EDT 2007
+Table Speed 1331028 (Real Money) -- Seat 2 is the button
+Total number of players : 3
+Seat 1: alfaomega777 (13160)
+Seat 2: Pouswous (3080)
+Seat 6: PrinceFreaca (3760)
+PrinceFreaca  posts small blind (300)
+alfaomega777  posts big blind (600)
+** Dealing down cards **
+Pouswous raises (3080) to 3080
+Pouswous is all-In.
+PrinceFreaca folds.
+alfaomega777 calls (2480)
+** Dealing Flop ** :  [ 3d, Jd, Td ]
+** Dealing Turn ** :  [ 6d ]
+** Dealing River ** :  [ 6c ]
+Creating Main Pot with $6460 with Pouswous
+** Summary **
+Main Pot: 6460
+Board: [ 3d Jd Td 6d 6c  ]
+
+alfaomega777 balance 16540, bet 3080, collected 6460, net +3380 [ Ad Qh ] [ a flush, Ace high -- Ad,Jd,Td,6d,3d ]
+Pouswous balance 0, lost 3080 [ 4s 4d ] [ a flush, Jack high -- Jd,Td,6d,4d,3d ]
+PrinceFreaca balance 3460, lost 300 (folded)
+
+***** Hand History for Game 5793116001 *****
+Pouswous finished in 3 place and won $4.80.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425107)  - Wed Mar 21 18:23:37 EDT 2007
+Table Speed 1331028 (Real Money) -- Seat 1 is the button
+Total number of players : 2
+Seat 1: alfaomega777 (16540)
+Seat 6: PrinceFreaca (3460)
+alfaomega777  posts small blind (300)
+PrinceFreaca  posts big blind (600)
+** Dealing down cards **
+alfaomega777 raises (900) to 1200
+PrinceFreaca folds.
+** Summary **
+Main Pot: 1200
+
+alfaomega777 balance 17140, bet 1200, collected 1800, net +600
+PrinceFreaca balance 2860, lost 600 (folded)
+
+***** Hand History for Game 5793116488 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425107)  - Wed Mar 21 18:23:46 EDT 2007
+Table Speed 1331028 (Real Money) -- Seat 6 is the button
+Total number of players : 2
+Seat 1: alfaomega777 (17140)
+Seat 6: PrinceFreaca (2860)
+PrinceFreaca  posts small blind (300)
+alfaomega777  posts big blind (600)
+** Dealing down cards **
+PrinceFreaca calls (300)
+alfaomega777 raises (600) to 1200
+PrinceFreaca raises (1200) to 1800
+alfaomega777 raises (1200) to 2400
+PrinceFreaca raises (1060) to 2860
+PrinceFreaca is all-In.
+alfaomega777 calls (460)
+** Dealing Flop ** :  [ 2c, Ah, 2d ]
+** Dealing Turn ** :  [ 4d ]
+** Dealing River ** :  [ Ts ]
+Creating Main Pot with $5720 with PrinceFreaca
+** Summary **
+Main Pot: 5720
+Board: [ 2c Ah 2d 4d Ts  ]
+
+alfaomega777 balance 20000, bet 2860, collected 5720, net +2860 [ Ac Td ] [ two pairs, Aces and Tens -- Ac,Ah,Td,Ts,4d ]
+PrinceFreaca balance 0, lost 2860 [ Ks Kc ] [ two pairs, Kings and Twos -- Ah,Ks,Kc,2c,2d ]
+
+
+

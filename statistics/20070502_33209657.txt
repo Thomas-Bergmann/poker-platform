@@ -1,0 +1,3332 @@
+
+Hello hatoka,
+These hand histories are provided to you as an aid for your training and development. You are not permitted to share them with anyone.  We reserve the right to cease providing them or apply further restrictions at any time.
+Complete hand histories are only available to players that participated in the hand.
+You requested a transcript of Tournament #33209657.
+
+Summary
+----------
+Played on    : 02 May 2007 08:10 AM
+On Table     : Table  126586
+Game Type    : Texas Holdem
+Buy-In       : $5
+Fee          : $1
+You finished in  position 7
+1st place - JohnLaza -  $25
+2nd place - fedmax555 -  $15
+3rd place - algirdass -  $10
+
+***** Hand History for Game 5930363941 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 08:10:37 EDT 2007
+Table Table  126586 (Real Money) -- Seat 7 is the button
+Total number of players : 10
+Seat 1: hatoka (2000)
+Seat 2: steeli111 (2000)
+Seat 3: algirdass (2000)
+Seat 4: Cloakroom (2000)
+Seat 5: hcraab (2000)
+Seat 6: sokoban1156 (2000)
+Seat 7: JohnLaza (2000)
+Seat 8: AA_Basti83 (2000)
+Seat 9: TheCourier11 (2000)
+Seat 10: fedmax555 (2000)
+AA_Basti83  posts small blind (20)
+TheCourier11  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 7d, 8c ]
+fedmax555 folds.
+hatoka folds.
+steeli111 folds.
+algirdass calls (40)
+Cloakroom folds.
+hcraab folds.
+sokoban1156 calls (40)
+JohnLaza folds.
+AA_Basti83 folds.
+TheCourier11 checks.
+** Dealing Flop ** :  [ Jh, 8h, 4d ]
+TheCourier11 checks.
+algirdass checks.
+sokoban1156 checks.
+** Dealing Turn ** :  [ 8s ]
+TheCourier11 checks.
+algirdass checks.
+sokoban1156 bets (80)
+TheCourier11 folds.
+algirdass calls (80)
+** Dealing River ** :  [ 9s ]
+algirdass checks.
+sokoban1156 bets (160)
+algirdass folds.
+** Summary **
+Main Pot: 300
+Board: [ Jh 8h 4d 8s 9s  ]
+
+hatoka balance 2000, didn't bet (folded)
+steeli111 balance 2000, didn't bet (folded)
+algirdass balance 1880, lost 120 (folded)
+Cloakroom balance 2000, didn't bet (folded)
+hcraab balance 2000, didn't bet (folded)
+sokoban1156 balance 2180, bet 280, collected 460, net +180
+JohnLaza balance 2000, didn't bet (folded)
+AA_Basti83 balance 1980, lost 20 (folded)
+TheCourier11 balance 1960, lost 40 (folded)
+fedmax555 balance 2000, didn't bet (folded)
+
+***** Hand History for Game 5930365650 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 08:11:32 EDT 2007
+Table Table  126586 (Real Money) -- Seat 8 is the button
+Total number of players : 10
+Seat 1: hatoka (2000)
+Seat 2: steeli111 (2000)
+Seat 3: algirdass (1880)
+Seat 4: Cloakroom (2000)
+Seat 5: hcraab (2000)
+Seat 6: sokoban1156 (2180)
+Seat 7: JohnLaza (2000)
+Seat 8: AA_Basti83 (1980)
+Seat 9: TheCourier11 (1960)
+Seat 10: fedmax555 (2000)
+TheCourier11  posts small blind (20)
+fedmax555  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 2d, Ks ]
+hatoka folds.
+steeli111 folds.
+algirdass folds.
+Cloakroom raises (160) to 160
+hcraab folds.
+sokoban1156 folds.
+JohnLaza folds.
+AA_Basti83 calls (160)
+TheCourier11 folds.
+fedmax555 folds.
+** Dealing Flop ** :  [ 6s, Ac, 4s ]
+Cloakroom bets (1840)
+Cloakroom is all-In.
+AA_Basti83 folds.
+Creating Main Pot with $380 with Cloakroom
+** Summary **
+Main Pot: 380
+Board: [ 6s Ac 4s  ]
+
+hatoka balance 2000, didn't bet (folded)
+steeli111 balance 2000, didn't bet (folded)
+algirdass balance 1880, didn't bet (folded)
+Cloakroom balance 2220, bet 2000, collected 2220, net +220
+hcraab balance 2000, didn't bet (folded)
+sokoban1156 balance 2180, didn't bet (folded)
+JohnLaza balance 2000, didn't bet (folded)
+AA_Basti83 balance 1820, lost 160 (folded)
+TheCourier11 balance 1940, lost 20 (folded)
+fedmax555 balance 1960, lost 40 (folded)
+
+***** Hand History for Game 5930367436 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 08:12:26 EDT 2007
+Table Table  126586 (Real Money) -- Seat 9 is the button
+Total number of players : 10
+Seat 1: hatoka (2000)
+Seat 2: steeli111 (2000)
+Seat 3: algirdass (1880)
+Seat 4: Cloakroom (2220)
+Seat 5: hcraab (2000)
+Seat 6: sokoban1156 (2180)
+Seat 7: JohnLaza (2000)
+Seat 8: AA_Basti83 (1820)
+Seat 9: TheCourier11 (1940)
+Seat 10: fedmax555 (1960)
+fedmax555  posts small blind (20)
+hatoka  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 7s, Ah ]
+steeli111 folds.
+algirdass folds.
+Cloakroom calls (40)
+hcraab calls (40)
+sokoban1156 folds.
+JohnLaza folds.
+AA_Basti83 folds.
+TheCourier11 folds.
+fedmax555 folds.
+hatoka raises (40) to 80
+Cloakroom calls (40)
+hcraab calls (40)
+** Dealing Flop ** :  [ 8s, Qc, Ks ]
+hatoka checks.
+Cloakroom checks.
+hcraab checks.
+** Dealing Turn ** :  [ 9h ]
+hatoka checks.
+Cloakroom checks.
+hcraab checks.
+** Dealing River ** :  [ 3s ]
+hatoka bets (300)
+Cloakroom folds.
+hcraab folds.
+** Summary **
+Main Pot: 260
+Board: [ 8s Qc Ks 9h 3s  ]
+
+hatoka balance 2180, bet 380, collected 560, net +180
+steeli111 balance 2000, didn't bet (folded)
+algirdass balance 1880, didn't bet (folded)
+Cloakroom balance 2140, lost 80 (folded)
+hcraab balance 1920, lost 80 (folded)
+sokoban1156 balance 2180, didn't bet (folded)
+JohnLaza balance 2000, didn't bet (folded)
+AA_Basti83 balance 1820, didn't bet (folded)
+TheCourier11 balance 1940, didn't bet (folded)
+fedmax555 balance 1940, lost 20 (folded)
+
+***** Hand History for Game 5930369473 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 08:13:26 EDT 2007
+Table Table  126586 (Real Money) -- Seat 10 is the button
+Total number of players : 10
+Seat 1: hatoka (2180)
+Seat 2: steeli111 (2000)
+Seat 3: algirdass (1880)
+Seat 4: Cloakroom (2140)
+Seat 5: hcraab (1920)
+Seat 6: sokoban1156 (2180)
+Seat 7: JohnLaza (2000)
+Seat 8: AA_Basti83 (1820)
+Seat 9: TheCourier11 (1940)
+Seat 10: fedmax555 (1940)
+hatoka  posts small blind (20)
+steeli111  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ Tc, 5d ]
+algirdass calls (40)
+Cloakroom folds.
+hcraab calls (40)
+sokoban1156 folds.
+JohnLaza folds.
+AA_Basti83 calls (40)
+TheCourier11 folds.
+fedmax555 folds.
+hatoka calls (20)
+steeli111 checks.
+** Dealing Flop ** :  [ Qc, Ah, Kh ]
+hatoka checks.
+steeli111 checks.
+algirdass bets (240)
+hcraab folds.
+AA_Basti83 raises (1780) to 1780
+AA_Basti83 is all-In.
+hatoka folds.
+steeli111 folds.
+algirdass folds.
+Creating Main Pot with $680 with AA_Basti83
+** Summary **
+Main Pot: 680
+Board: [ Qc Ah Kh  ]
+
+hatoka balance 2140, lost 40 (folded)
+steeli111 balance 1960, lost 40 (folded)
+algirdass balance 1600, lost 280 (folded)
+Cloakroom balance 2140, didn't bet (folded)
+hcraab balance 1880, lost 40 (folded)
+sokoban1156 balance 2180, didn't bet (folded)
+JohnLaza balance 2000, didn't bet (folded)
+AA_Basti83 balance 2220, bet 1820, collected 2220, net +400 [ Jh Ts ] [ a straight Ten to Ace -- Ah,Kh,Qc,Jh,Ts ]
+TheCourier11 balance 1940, didn't bet (folded)
+fedmax555 balance 1940, didn't bet (folded)
+
+***** Hand History for Game 5930371468 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 08:14:25 EDT 2007
+Table Table  126586 (Real Money) -- Seat 1 is the button
+Total number of players : 10
+Seat 1: hatoka (2140)
+Seat 2: steeli111 (1960)
+Seat 3: algirdass (1600)
+Seat 4: Cloakroom (2140)
+Seat 5: hcraab (1880)
+Seat 6: sokoban1156 (2180)
+Seat 7: JohnLaza (2000)
+Seat 8: AA_Basti83 (2220)
+Seat 9: TheCourier11 (1940)
+Seat 10: fedmax555 (1940)
+steeli111  posts small blind (20)
+algirdass  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 7d, Kc ]
+Cloakroom folds.
+hcraab folds.
+sokoban1156 folds.
+JohnLaza raises (120) to 120
+AA_Basti83 folds.
+TheCourier11 folds.
+fedmax555 folds.
+hatoka folds.
+steeli111 calls (100)
+algirdass calls (80)
+** Dealing Flop ** :  [ Kh, 7s, Ts ]
+steeli111 bets (180)
+algirdass calls (180)
+JohnLaza folds.
+** Dealing Turn ** :  [ Th ]
+steeli111 checks.
+algirdass checks.
+** Dealing River ** :  [ 9c ]
+steeli111 bets (360)
+algirdass calls (360)
+** Summary **
+Main Pot: 1440
+Board: [ Kh 7s Ts Th 9c  ]
+
+hatoka balance 2140, didn't bet (folded)
+steeli111 balance 2020, bet 660, collected 720, net +60 [ 6c Ks ] [ two pairs, Kings and Tens -- Ks,Kh,Ts,Th,9c ]
+algirdass balance 1660, bet 660, collected 720, net +60 [ Kd 9d ] [ two pairs, Kings and Tens -- Kd,Kh,Ts,Th,9d ]
+Cloakroom balance 2140, didn't bet (folded)
+hcraab balance 1880, didn't bet (folded)
+sokoban1156 balance 2180, didn't bet (folded)
+JohnLaza balance 1880, lost 120 (folded)
+AA_Basti83 balance 2220, didn't bet (folded)
+TheCourier11 balance 1940, didn't bet (folded)
+fedmax555 balance 1940, didn't bet (folded)
+
+***** Hand History for Game 5930373416 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 08:15:23 EDT 2007
+Table Table  126586 (Real Money) -- Seat 2 is the button
+Total number of players : 10
+Seat 1: hatoka (2140)
+Seat 2: steeli111 (2020)
+Seat 3: algirdass (1660)
+Seat 4: Cloakroom (2140)
+Seat 5: hcraab (1880)
+Seat 6: sokoban1156 (2180)
+Seat 7: JohnLaza (1880)
+Seat 8: AA_Basti83 (2220)
+Seat 9: TheCourier11 (1940)
+Seat 10: fedmax555 (1940)
+algirdass  posts small blind (20)
+Cloakroom  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 2h, 8s ]
+hcraab calls (40)
+sokoban1156 calls (40)
+JohnLaza folds.
+AA_Basti83 folds.
+TheCourier11 calls (40)
+fedmax555 folds.
+hatoka folds.
+steeli111 folds.
+algirdass calls (20)
+Cloakroom checks.
+** Dealing Flop ** :  [ Ac, 7c, As ]
+algirdass checks.
+Cloakroom checks.
+hcraab bets (160)
+sokoban1156 folds.
+TheCourier11 calls (160)
+algirdass folds.
+Cloakroom calls (160)
+** Dealing Turn ** :  [ 3c ]
+Cloakroom checks.
+hcraab bets (200)
+TheCourier11 raises (400) to 400
+Cloakroom calls (400)
+hcraab folds.
+** Dealing River ** :  [ Js ]
+Cloakroom checks.
+TheCourier11 bets (200)
+Cloakroom calls (200)
+** Summary **
+Main Pot: 2080
+Board: [ Ac 7c As 3c Js  ]
+
+hatoka balance 2140, didn't bet (folded)
+steeli111 balance 2020, didn't bet (folded)
+algirdass balance 1620, lost 40 (folded)
+Cloakroom balance 1340, lost 800 [ 5h Ah ] [ three of a kind, Aces -- Ah,Ac,As,Js,7c ]
+
+hcraab balance 1480, lost 400 (folded)
+sokoban1156 balance 2140, lost 40 (folded)
+JohnLaza balance 1880, didn't bet (folded)
+AA_Basti83 balance 2220, didn't bet (folded)
+TheCourier11 balance 3220, bet 800, collected 2080, net +1280 [ Kc 2c ] [ a flush, Ace high -- Ac,Kc,7c,3c,2c ]
+fedmax555 balance 1940, didn't bet (folded)
+
+***** Hand History for Game 5930377091 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 08:17:12 EDT 2007
+Table Table  126586 (Real Money) -- Seat 3 is the button
+Total number of players : 10
+Seat 1: hatoka (2140)
+Seat 2: steeli111 (2020)
+Seat 3: algirdass (1620)
+Seat 4: Cloakroom (1340)
+Seat 5: hcraab (1480)
+Seat 6: sokoban1156 (2140)
+Seat 7: JohnLaza (1880)
+Seat 8: AA_Basti83 (2220)
+Seat 9: TheCourier11 (3220)
+Seat 10: fedmax555 (1940)
+Cloakroom  posts small blind (20)
+hcraab  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ Qs, Js ]
+sokoban1156 folds.
+JohnLaza folds.
+AA_Basti83 calls (40)
+TheCourier11 calls (40)
+fedmax555 folds.
+hatoka raises (80) to 80
+steeli111 folds.
+algirdass calls (80)
+Cloakroom folds.
+hcraab folds.
+AA_Basti83 calls (40)
+TheCourier11 calls (40)
+** Dealing Flop ** :  [ 9c, 4s, Qc ]
+AA_Basti83 checks.
+TheCourier11 bets (40)
+hatoka raises (500) to 500
+algirdass folds.
+AA_Basti83 folds.
+TheCourier11 calls (460)
+** Dealing Turn ** :  [ 5c ]
+TheCourier11 checks.
+hatoka checks.
+** Dealing River ** :  [ 3h ]
+TheCourier11 bets (400)
+hatoka calls (400)
+** Summary **
+Main Pot: 2180
+Board: [ 9c 4s Qc 5c 3h  ]
+
+hatoka balance 1160, lost 980 [ Qs Js ] [ a pair of Queens -- Qs,Qc,Js,9c,5c ]
+
+steeli111 balance 2020, didn't bet (folded)
+algirdass balance 1540, lost 80 (folded)
+Cloakroom balance 1320, lost 20 (folded)
+hcraab balance 1440, lost 40 (folded)
+sokoban1156 balance 2140, didn't bet (folded)
+JohnLaza balance 1880, didn't bet (folded)
+AA_Basti83 balance 2140, lost 80 (folded)
+TheCourier11 balance 4420, bet 980, collected 2180, net +1200 [ Jc Kc ] [ a flush, King high -- Kc,Qc,Jc,9c,5c ]
+fedmax555 balance 1940, didn't bet (folded)
+
+***** Hand History for Game 5930379596 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 08:18:26 EDT 2007
+Table Table  126586 (Real Money) -- Seat 4 is the button
+Total number of players : 10
+Seat 1: hatoka (1160)
+Seat 2: steeli111 (2020)
+Seat 3: algirdass (1540)
+Seat 4: Cloakroom (1320)
+Seat 5: hcraab (1440)
+Seat 6: sokoban1156 (2140)
+Seat 7: JohnLaza (1880)
+Seat 8: AA_Basti83 (2140)
+Seat 9: TheCourier11 (4420)
+Seat 10: fedmax555 (1940)
+hcraab  posts small blind (20)
+sokoban1156  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 3d, 6d ]
+JohnLaza folds.
+AA_Basti83 raises (160) to 160
+TheCourier11 folds.
+fedmax555 folds.
+hatoka folds.
+steeli111 folds.
+algirdass folds.
+Cloakroom folds.
+hcraab folds.
+sokoban1156 folds.
+** Summary **
+Main Pot: 100
+
+hatoka balance 1160, didn't bet (folded)
+steeli111 balance 2020, didn't bet (folded)
+algirdass balance 1540, didn't bet (folded)
+Cloakroom balance 1320, didn't bet (folded)
+hcraab balance 1420, lost 20 (folded)
+sokoban1156 balance 2100, lost 40 (folded)
+JohnLaza balance 1880, didn't bet (folded)
+AA_Basti83 balance 2200, bet 160, collected 220, net +60 [ Jc Js ] [ a pair of Jacks -- Jc,Js ]
+TheCourier11 balance 4420, didn't bet (folded)
+fedmax555 balance 1940, didn't bet (folded)
+
+***** Hand History for Game 5930380349 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 08:18:49 EDT 2007
+Table Table  126586 (Real Money) -- Seat 5 is the button
+Total number of players : 10
+Seat 1: hatoka (1160)
+Seat 2: steeli111 (2020)
+Seat 3: algirdass (1540)
+Seat 4: Cloakroom (1320)
+Seat 5: hcraab (1420)
+Seat 6: sokoban1156 (2100)
+Seat 7: JohnLaza (1880)
+Seat 8: AA_Basti83 (2200)
+Seat 9: TheCourier11 (4420)
+Seat 10: fedmax555 (1940)
+sokoban1156  posts small blind (20)
+JohnLaza  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 9h, Kd ]
+AA_Basti83 calls (40)
+TheCourier11 folds.
+fedmax555 folds.
+hatoka calls (40)
+steeli111 folds.
+algirdass folds.
+Cloakroom folds.
+hcraab folds.
+sokoban1156 folds.
+JohnLaza checks.
+** Dealing Flop ** :  [ Ts, 2c, 7h ]
+JohnLaza checks.
+AA_Basti83 checks.
+hatoka checks.
+** Dealing Turn ** :  [ Js ]
+JohnLaza bets (100)
+AA_Basti83 calls (100)
+hatoka calls (100)
+** Dealing River ** :  [ 8d ]
+JohnLaza bets (200)
+AA_Basti83 folds.
+hatoka raises (400) to 400
+JohnLaza folds.
+** Summary **
+Main Pot: 840
+Board: [ Ts 2c 7h Js 8d  ]
+
+hatoka balance 1660, bet 540, collected 1040, net +500
+steeli111 balance 2020, didn't bet (folded)
+algirdass balance 1540, didn't bet (folded)
+Cloakroom balance 1320, didn't bet (folded)
+hcraab balance 1420, didn't bet (folded)
+sokoban1156 balance 2080, lost 20 (folded)
+JohnLaza balance 1540, lost 340 (folded)
+AA_Basti83 balance 2060, lost 140 (folded)
+TheCourier11 balance 4420, didn't bet (folded)
+fedmax555 balance 1940, didn't bet (folded)
+
+***** Hand History for Game 5930382477 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 08:19:54 EDT 2007
+Table Table  126586 (Real Money) -- Seat 6 is the button
+Total number of players : 10
+Seat 1: hatoka (1660)
+Seat 2: steeli111 (2020)
+Seat 3: algirdass (1540)
+Seat 4: Cloakroom (1320)
+Seat 5: hcraab (1420)
+Seat 6: sokoban1156 (2080)
+Seat 7: JohnLaza (1540)
+Seat 8: AA_Basti83 (2060)
+Seat 9: TheCourier11 (4420)
+Seat 10: fedmax555 (1940)
+JohnLaza  posts small blind (20)
+AA_Basti83  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ Qs, Kh ]
+TheCourier11 folds.
+fedmax555 folds.
+hatoka raises (120) to 120
+steeli111 calls (120)
+algirdass folds.
+Cloakroom folds.
+hcraab folds.
+sokoban1156 calls (120)
+JohnLaza folds.
+AA_Basti83 folds.
+** Dealing Flop ** :  [ Qh, 3h, 3s ]
+hatoka bets (500)
+steeli111 folds.
+sokoban1156 folds.
+** Summary **
+Main Pot: 420
+Board: [ Qh 3h 3s  ]
+
+hatoka balance 1960, bet 620, collected 920, net +300
+steeli111 balance 1900, lost 120 (folded)
+algirdass balance 1540, didn't bet (folded)
+Cloakroom balance 1320, didn't bet (folded)
+hcraab balance 1420, didn't bet (folded)
+sokoban1156 balance 1960, lost 120 (folded)
+JohnLaza balance 1520, lost 20 (folded)
+AA_Basti83 balance 2020, lost 40 (folded)
+TheCourier11 balance 4420, didn't bet (folded)
+fedmax555 balance 1940, didn't bet (folded)
+
+***** Hand History for Game 5930383986 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 08:20:40 EDT 2007
+Table Table  126586 (Real Money) -- Seat 7 is the button
+Total number of players : 10
+Seat 1: hatoka (1960)
+Seat 2: steeli111 (1900)
+Seat 3: algirdass (1540)
+Seat 4: Cloakroom (1320)
+Seat 5: hcraab (1420)
+Seat 6: sokoban1156 (1960)
+Seat 7: JohnLaza (1520)
+Seat 8: AA_Basti83 (2020)
+Seat 9: TheCourier11 (4420)
+Seat 10: fedmax555 (1940)
+AA_Basti83  posts small blind (30)
+TheCourier11  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Ks, 7d ]
+fedmax555 folds.
+hatoka folds.
+steeli111 folds.
+algirdass folds.
+Cloakroom folds.
+hcraab folds.
+sokoban1156 folds.
+JohnLaza folds.
+AA_Basti83 calls (30)
+TheCourier11 checks.
+** Dealing Flop ** :  [ 6s, 2c, 2s ]
+AA_Basti83 bets (60)
+TheCourier11 folds.
+** Summary **
+Main Pot: 120
+Board: [ 6s 2c 2s  ]
+
+hatoka balance 1960, didn't bet (folded)
+steeli111 balance 1900, didn't bet (folded)
+algirdass balance 1540, didn't bet (folded)
+Cloakroom balance 1320, didn't bet (folded)
+hcraab balance 1420, didn't bet (folded)
+sokoban1156 balance 1960, didn't bet (folded)
+JohnLaza balance 1520, didn't bet (folded)
+AA_Basti83 balance 2080, bet 120, collected 180, net +60
+TheCourier11 balance 4360, lost 60 (folded)
+fedmax555 balance 1940, didn't bet (folded)
+
+***** Hand History for Game 5930384956 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 08:21:08 EDT 2007
+Table Table  126586 (Real Money) -- Seat 8 is the button
+Total number of players : 10
+Seat 1: hatoka (1960)
+Seat 2: steeli111 (1900)
+Seat 3: algirdass (1540)
+Seat 4: Cloakroom (1320)
+Seat 5: hcraab (1420)
+Seat 6: sokoban1156 (1960)
+Seat 7: JohnLaza (1520)
+Seat 8: AA_Basti83 (2080)
+Seat 9: TheCourier11 (4360)
+Seat 10: fedmax555 (1940)
+TheCourier11  posts small blind (30)
+fedmax555  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Js, 2c ]
+hatoka folds.
+steeli111 folds.
+algirdass folds.
+Cloakroom folds.
+hcraab folds.
+sokoban1156 folds.
+JohnLaza raises (240) to 240
+AA_Basti83 folds.
+TheCourier11 calls (210)
+fedmax555 folds.
+** Dealing Flop ** :  [ 6d, 9c, Qc ]
+TheCourier11 checks.
+JohnLaza checks.
+** Dealing Turn ** :  [ Ah ]
+TheCourier11 bets (60)
+JohnLaza calls (60)
+** Dealing River ** :  [ 6c ]
+TheCourier11 bets (60)
+JohnLaza raises (200) to 200
+TheCourier11 calls (140)
+** Summary **
+Main Pot: 1060
+Board: [ 6d 9c Qc Ah 6c  ]
+
+hatoka balance 1960, didn't bet (folded)
+steeli111 balance 1900, didn't bet (folded)
+algirdass balance 1540, didn't bet (folded)
+Cloakroom balance 1320, didn't bet (folded)
+hcraab balance 1420, didn't bet (folded)
+sokoban1156 balance 1960, didn't bet (folded)
+JohnLaza balance 1550, bet 500, collected 530, net +30 [ Jh Ad ] [ two pairs, Aces and Sixes -- Ad,Ah,Qc,6d,6c ]
+AA_Basti83 balance 2080, didn't bet (folded)
+TheCourier11 balance 4390, bet 500, collected 530, net +30 [ 4h As ] [ two pairs, Aces and Sixes -- As,Ah,Qc,6d,6c ]
+fedmax555 balance 1880, lost 60 (folded)
+
+***** Hand History for Game 5930387100 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 08:22:13 EDT 2007
+Table Table  126586 (Real Money) -- Seat 9 is the button
+Total number of players : 10
+Seat 1: hatoka (1960)
+Seat 2: steeli111 (1900)
+Seat 3: algirdass (1540)
+Seat 4: Cloakroom (1320)
+Seat 5: hcraab (1420)
+Seat 6: sokoban1156 (1960)
+Seat 7: JohnLaza (1550)
+Seat 8: AA_Basti83 (2080)
+Seat 9: TheCourier11 (4390)
+Seat 10: fedmax555 (1880)
+fedmax555  posts small blind (30)
+hatoka  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 4h, 8h ]
+steeli111 folds.
+algirdass calls (60)
+Cloakroom calls (60)
+hcraab folds.
+sokoban1156 folds.
+JohnLaza calls (60)
+AA_Basti83 folds.
+TheCourier11 calls (60)
+fedmax555 folds.
+hatoka checks.
+** Dealing Flop ** :  [ Qh, 3c, Kc ]
+hatoka checks.
+algirdass bets (180)
+Cloakroom folds.
+JohnLaza folds.
+TheCourier11 folds.
+hatoka folds.
+** Summary **
+Main Pot: 330
+Board: [ Qh 3c Kc  ]
+
+hatoka balance 1900, lost 60 (folded)
+steeli111 balance 1900, didn't bet (folded)
+algirdass balance 1810, bet 240, collected 510, net +270
+Cloakroom balance 1260, lost 60 (folded)
+hcraab balance 1420, didn't bet (folded)
+sokoban1156 balance 1960, didn't bet (folded)
+JohnLaza balance 1490, lost 60 (folded)
+AA_Basti83 balance 2080, didn't bet (folded)
+TheCourier11 balance 4330, lost 60 (folded)
+fedmax555 balance 1850, lost 30 (folded)
+
+***** Hand History for Game 5930388962 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 08:23:08 EDT 2007
+Table Table  126586 (Real Money) -- Seat 10 is the button
+Total number of players : 10
+Seat 1: hatoka (1900)
+Seat 2: steeli111 (1900)
+Seat 3: algirdass (1810)
+Seat 4: Cloakroom (1260)
+Seat 5: hcraab (1420)
+Seat 6: sokoban1156 (1960)
+Seat 7: JohnLaza (1490)
+Seat 8: AA_Basti83 (2080)
+Seat 9: TheCourier11 (4330)
+Seat 10: fedmax555 (1850)
+hatoka  posts small blind (30)
+steeli111  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Kc, Ac ]
+algirdass folds.
+Cloakroom folds.
+hcraab folds.
+sokoban1156 calls (60)
+JohnLaza folds.
+AA_Basti83 folds.
+TheCourier11 calls (60)
+fedmax555 folds.
+hatoka raises (150) to 180
+steeli111 folds.
+sokoban1156 folds.
+TheCourier11 calls (120)
+** Dealing Flop ** :  [ Ts, 7s, 8c ]
+hatoka bets (300)
+TheCourier11 calls (300)
+** Dealing Turn ** :  [ 5c ]
+hatoka bets (400)
+TheCourier11 calls (400)
+** Dealing River ** :  [ 9c ]
+hatoka bets (300)
+TheCourier11 folds.
+** Summary **
+Main Pot: 1880
+Board: [ Ts 7s 8c 5c 9c  ]
+
+hatoka balance 2900, bet 1180, collected 2180, net +1000
+steeli111 balance 1840, lost 60 (folded)
+algirdass balance 1810, didn't bet (folded)
+Cloakroom balance 1260, didn't bet (folded)
+hcraab balance 1420, didn't bet (folded)
+sokoban1156 balance 1900, lost 60 (folded)
+JohnLaza balance 1490, didn't bet (folded)
+AA_Basti83 balance 2080, didn't bet (folded)
+TheCourier11 balance 3450, lost 880 (folded)
+fedmax555 balance 1850, didn't bet (folded)
+
+***** Hand History for Game 5930391499 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 08:24:24 EDT 2007
+Table Table  126586 (Real Money) -- Seat 1 is the button
+Total number of players : 10
+Seat 1: hatoka (2900)
+Seat 2: steeli111 (1840)
+Seat 3: algirdass (1810)
+Seat 4: Cloakroom (1260)
+Seat 5: hcraab (1420)
+Seat 6: sokoban1156 (1900)
+Seat 7: JohnLaza (1490)
+Seat 8: AA_Basti83 (2080)
+Seat 9: TheCourier11 (3450)
+Seat 10: fedmax555 (1850)
+steeli111  posts small blind (30)
+algirdass  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Tc, 2d ]
+Cloakroom folds.
+hcraab folds.
+sokoban1156 folds.
+JohnLaza folds.
+AA_Basti83 folds.
+TheCourier11 calls (60)
+fedmax555 calls (60)
+hatoka folds.
+steeli111 calls (30)
+algirdass checks.
+** Dealing Flop ** :  [ 4c, 3h, 3d ]
+steeli111 checks.
+algirdass checks.
+TheCourier11 checks.
+fedmax555 checks.
+** Dealing Turn ** :  [ 2s ]
+steeli111 checks.
+algirdass checks.
+TheCourier11 checks.
+fedmax555 bets (120)
+steeli111 calls (120)
+algirdass calls (120)
+TheCourier11 folds.
+** Dealing River ** :  [ 3s ]
+steeli111 checks.
+algirdass bets (180)
+fedmax555 folds.
+steeli111 calls (180)
+** Summary **
+Main Pot: 960
+Board: [ 4c 3h 3d 2s 3s  ]
+
+hatoka balance 2900, didn't bet (folded)
+steeli111 balance 1480, lost 360 [ Ad 5c ] [ a straight Ace to Five -- Ad,5c,4c,3h,2s ]
+
+algirdass balance 2410, bet 360, collected 960, net +600 [ 8h 4d ] [ a full house, Threes full of Fours -- 4d,4c,3h,3d,3s ]
+Cloakroom balance 1260, didn't bet (folded)
+hcraab balance 1420, didn't bet (folded)
+sokoban1156 balance 1900, didn't bet (folded)
+JohnLaza balance 1490, didn't bet (folded)
+AA_Basti83 balance 2080, didn't bet (folded)
+TheCourier11 balance 3390, lost 60 (folded)
+fedmax555 balance 1670, lost 180 (folded)
+
+***** Hand History for Game 5930394399 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 08:25:50 EDT 2007
+Table Table  126586 (Real Money) -- Seat 2 is the button
+Total number of players : 10
+Seat 1: hatoka (2900)
+Seat 2: steeli111 (1480)
+Seat 3: algirdass (2410)
+Seat 4: Cloakroom (1260)
+Seat 5: hcraab (1420)
+Seat 6: sokoban1156 (1900)
+Seat 7: JohnLaza (1490)
+Seat 8: AA_Basti83 (2080)
+Seat 9: TheCourier11 (3390)
+Seat 10: fedmax555 (1670)
+algirdass  posts small blind (30)
+Cloakroom  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 4s, 3c ]
+hcraab folds.
+sokoban1156 folds.
+JohnLaza raises (200) to 200
+AA_Basti83 folds.
+TheCourier11 folds.
+fedmax555 folds.
+hatoka folds.
+steeli111 raises (340) to 340
+algirdass folds.
+Cloakroom folds.
+JohnLaza calls (140)
+** Dealing Flop ** :  [ 4d, Qh, 6d ]
+JohnLaza bets (300)
+steeli111 folds.
+** Summary **
+Main Pot: 770
+Board: [ 4d Qh 6d  ]
+
+hatoka balance 2900, didn't bet (folded)
+steeli111 balance 1140, lost 340 (folded)
+algirdass balance 2380, lost 30 (folded)
+Cloakroom balance 1200, lost 60 (folded)
+hcraab balance 1420, didn't bet (folded)
+sokoban1156 balance 1900, didn't bet (folded)
+JohnLaza balance 1920, bet 640, collected 1070, net +430
+AA_Basti83 balance 2080, didn't bet (folded)
+TheCourier11 balance 3390, didn't bet (folded)
+fedmax555 balance 1670, didn't bet (folded)
+
+***** Hand History for Game 5930396132 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 08:26:41 EDT 2007
+Table Table  126586 (Real Money) -- Seat 3 is the button
+Total number of players : 10
+Seat 1: hatoka (2900)
+Seat 2: steeli111 (1140)
+Seat 3: algirdass (2380)
+Seat 4: Cloakroom (1200)
+Seat 5: hcraab (1420)
+Seat 6: sokoban1156 (1900)
+Seat 7: JohnLaza (1920)
+Seat 8: AA_Basti83 (2080)
+Seat 9: TheCourier11 (3390)
+Seat 10: fedmax555 (1670)
+Cloakroom  posts small blind (30)
+hcraab  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 4s, 3c ]
+sokoban1156 calls (60)
+JohnLaza calls (60)
+AA_Basti83 folds.
+TheCourier11 calls (60)
+fedmax555 folds.
+hatoka folds.
+steeli111 calls (60)
+algirdass calls (60)
+Cloakroom calls (30)
+hcraab checks.
+** Dealing Flop ** :  [ 9s, 7h, 6d ]
+Cloakroom checks.
+hcraab checks.
+sokoban1156 checks.
+JohnLaza bets (250)
+TheCourier11 folds.
+steeli111 folds.
+algirdass calls (250)
+Cloakroom folds.
+hcraab folds.
+sokoban1156 folds.
+** Dealing Turn ** :  [ 9h ]
+JohnLaza bets (600)
+algirdass folds.
+** Summary **
+Main Pot: 920
+Board: [ 9s 7h 6d 9h  ]
+
+hatoka balance 2900, didn't bet (folded)
+steeli111 balance 1080, lost 60 (folded)
+algirdass balance 2070, lost 310 (folded)
+Cloakroom balance 1140, lost 60 (folded)
+hcraab balance 1360, lost 60 (folded)
+sokoban1156 balance 1840, lost 60 (folded)
+JohnLaza balance 2530, bet 910, collected 1520, net +610
+AA_Basti83 balance 2080, didn't bet (folded)
+TheCourier11 balance 3330, lost 60 (folded)
+fedmax555 balance 1670, didn't bet (folded)
+
+***** Hand History for Game 5930399414 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 08:28:17 EDT 2007
+Table Table  126586 (Real Money) -- Seat 4 is the button
+Total number of players : 10
+Seat 1: hatoka (2900)
+Seat 2: steeli111 (1080)
+Seat 3: algirdass (2070)
+Seat 4: Cloakroom (1140)
+Seat 5: hcraab (1360)
+Seat 6: sokoban1156 (1840)
+Seat 7: JohnLaza (2530)
+Seat 8: AA_Basti83 (2080)
+Seat 9: TheCourier11 (3330)
+Seat 10: fedmax555 (1670)
+hcraab  posts small blind (30)
+sokoban1156  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 9h, 4h ]
+JohnLaza folds.
+AA_Basti83 folds.
+TheCourier11 folds.
+fedmax555 folds.
+hatoka folds.
+steeli111 calls (60)
+algirdass calls (60)
+Cloakroom calls (60)
+hcraab calls (30)
+sokoban1156 checks.
+** Dealing Flop ** :  [ Ks, Th, 2c ]
+hcraab checks.
+sokoban1156 checks.
+steeli111 checks.
+algirdass checks.
+Cloakroom checks.
+** Dealing Turn ** :  [ 5h ]
+hcraab checks.
+sokoban1156 checks.
+steeli111 checks.
+algirdass checks.
+Cloakroom checks.
+** Dealing River ** :  [ 7d ]
+hcraab checks.
+sokoban1156 checks.
+steeli111 bets (60)
+algirdass raises (240) to 240
+Cloakroom folds.
+hcraab folds.
+sokoban1156 folds.
+steeli111 folds.
+** Summary **
+Main Pot: 420
+Board: [ Ks Th 2c 5h 7d  ]
+
+hatoka balance 2900, didn't bet (folded)
+steeli111 balance 960, lost 120 (folded)
+algirdass balance 2370, bet 300, collected 600, net +300
+Cloakroom balance 1080, lost 60 (folded)
+hcraab balance 1300, lost 60 (folded)
+sokoban1156 balance 1780, lost 60 (folded)
+JohnLaza balance 2530, didn't bet (folded)
+AA_Basti83 balance 2080, didn't bet (folded)
+TheCourier11 balance 3330, didn't bet (folded)
+fedmax555 balance 1670, didn't bet (folded)
+
+***** Hand History for Game 5930403025 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 08:30:05 EDT 2007
+Table Table  126586 (Real Money) -- Seat 5 is the button
+Total number of players : 10
+Seat 1: hatoka (2900)
+Seat 2: steeli111 (960)
+Seat 3: algirdass (2370)
+Seat 4: Cloakroom (1080)
+Seat 5: hcraab (1300)
+Seat 6: sokoban1156 (1780)
+Seat 7: JohnLaza (2530)
+Seat 8: AA_Basti83 (2080)
+Seat 9: TheCourier11 (3330)
+Seat 10: fedmax555 (1670)
+sokoban1156  posts small blind (30)
+JohnLaza  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Ks, 3h ]
+AA_Basti83 calls (60)
+TheCourier11 calls (60)
+fedmax555 folds.
+hatoka folds.
+steeli111 calls (60)
+algirdass calls (60)
+Cloakroom calls (60)
+hcraab folds.
+sokoban1156 calls (30)
+JohnLaza checks.
+** Dealing Flop ** :  [ 2d, 4h, Jc ]
+sokoban1156 checks.
+JohnLaza checks.
+AA_Basti83 checks.
+TheCourier11 bets (60)
+steeli111 calls (60)
+algirdass folds.
+Cloakroom folds.
+sokoban1156 calls (60)
+JohnLaza folds.
+AA_Basti83 folds.
+** Dealing Turn ** :  [ Jh ]
+sokoban1156 bets (180)
+TheCourier11 folds.
+steeli111 folds.
+** Summary **
+Main Pot: 600
+Board: [ 2d 4h Jc Jh  ]
+
+hatoka balance 2900, didn't bet (folded)
+steeli111 balance 840, lost 120 (folded)
+algirdass balance 2310, lost 60 (folded)
+Cloakroom balance 1020, lost 60 (folded)
+hcraab balance 1300, didn't bet (folded)
+sokoban1156 balance 2260, bet 300, collected 780, net +480
+JohnLaza balance 2470, lost 60 (folded)
+AA_Basti83 balance 2020, lost 60 (folded)
+TheCourier11 balance 3210, lost 120 (folded)
+fedmax555 balance 1670, didn't bet (folded)
+
+***** Hand History for Game 5930406348 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 08:31:42 EDT 2007
+Table Table  126586 (Real Money) -- Seat 6 is the button
+Total number of players : 10
+Seat 1: hatoka (2900)
+Seat 2: steeli111 (840)
+Seat 3: algirdass (2310)
+Seat 4: Cloakroom (1020)
+Seat 5: hcraab (1300)
+Seat 6: sokoban1156 (2260)
+Seat 7: JohnLaza (2470)
+Seat 8: AA_Basti83 (2020)
+Seat 9: TheCourier11 (3210)
+Seat 10: fedmax555 (1670)
+JohnLaza  posts small blind (50)
+AA_Basti83  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Qh, 8c ]
+TheCourier11 calls (100)
+fedmax555 folds.
+hatoka folds.
+steeli111 folds.
+algirdass calls (100)
+Cloakroom raises (1020) to 1020
+Cloakroom is all-In.
+hcraab folds.
+sokoban1156 folds.
+JohnLaza folds.
+AA_Basti83 folds.
+TheCourier11 folds.
+algirdass calls (920)
+** Dealing Flop ** :  [ 2c, Jh, Tc ]
+** Dealing Turn ** :  [ Kd ]
+** Dealing River ** :  [ Qc ]
+Creating Main Pot with $2290 with Cloakroom
+** Summary **
+Main Pot: 2290
+Board: [ 2c Jh Tc Kd Qc  ]
+
+hatoka balance 2900, didn't bet (folded)
+steeli111 balance 840, didn't bet (folded)
+algirdass balance 1290, lost 1020 [ Jd Jc ] [ three of a kind, Jacks -- Kd,Qc,Jd,Jc,Jh ]
+Cloakroom balance 2290, bet 1020, collected 2290, net +1270 [ 9h As ] [ a straight Ten to Ace -- As,Kd,Qc,Jh,Tc ]
+hcraab balance 1300, didn't bet (folded)
+sokoban1156 balance 2260, didn't bet (folded)
+JohnLaza balance 2420, lost 50 (folded)
+AA_Basti83 balance 1920, lost 100 (folded)
+TheCourier11 balance 3110, lost 100 (folded)
+fedmax555 balance 1670, didn't bet (folded)
+
+***** Hand History for Game 5930407740 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 08:32:23 EDT 2007
+Table Table  126586 (Real Money) -- Seat 7 is the button
+Total number of players : 10
+Seat 1: hatoka (2900)
+Seat 2: steeli111 (840)
+Seat 3: algirdass (1290)
+Seat 4: Cloakroom (2290)
+Seat 5: hcraab (1300)
+Seat 6: sokoban1156 (2260)
+Seat 7: JohnLaza (2420)
+Seat 8: AA_Basti83 (1920)
+Seat 9: TheCourier11 (3110)
+Seat 10: fedmax555 (1670)
+AA_Basti83  posts small blind (50)
+TheCourier11  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Jh, 2d ]
+fedmax555 folds.
+hatoka folds.
+steeli111 folds.
+algirdass folds.
+Cloakroom folds.
+hcraab folds.
+sokoban1156 folds.
+JohnLaza folds.
+AA_Basti83 raises (150) to 200
+TheCourier11 calls (100)
+** Dealing Flop ** :  [ As, 6d, Ah ]
+AA_Basti83 bets (100)
+TheCourier11 calls (100)
+** Dealing Turn ** :  [ 6c ]
+AA_Basti83 bets (300)
+TheCourier11 folds.
+** Summary **
+Main Pot: 600
+Board: [ As 6d Ah 6c  ]
+
+hatoka balance 2900, didn't bet (folded)
+steeli111 balance 840, didn't bet (folded)
+algirdass balance 1290, didn't bet (folded)
+Cloakroom balance 2290, didn't bet (folded)
+hcraab balance 1300, didn't bet (folded)
+sokoban1156 balance 2260, didn't bet (folded)
+JohnLaza balance 2420, didn't bet (folded)
+AA_Basti83 balance 2220, bet 600, collected 900, net +300 [ Kh Ks ] [ two pairs, Aces and Kings -- As,Ah,Kh,Ks,6d ]
+TheCourier11 balance 2810, lost 300 (folded)
+fedmax555 balance 1670, didn't bet (folded)
+
+***** Hand History for Game 5930409208 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 08:33:07 EDT 2007
+Table Table  126586 (Real Money) -- Seat 8 is the button
+Total number of players : 10
+Seat 1: hatoka (2900)
+Seat 2: steeli111 (840)
+Seat 3: algirdass (1290)
+Seat 4: Cloakroom (2290)
+Seat 5: hcraab (1300)
+Seat 6: sokoban1156 (2260)
+Seat 7: JohnLaza (2420)
+Seat 8: AA_Basti83 (2220)
+Seat 9: TheCourier11 (2810)
+Seat 10: fedmax555 (1670)
+TheCourier11  posts small blind (50)
+fedmax555  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Qh, 4c ]
+hatoka folds.
+steeli111 folds.
+algirdass calls (100)
+Cloakroom folds.
+hcraab folds.
+sokoban1156 folds.
+JohnLaza folds.
+AA_Basti83 calls (100)
+TheCourier11 raises (150) to 200
+fedmax555 calls (100)
+algirdass calls (100)
+AA_Basti83 calls (100)
+** Dealing Flop ** :  [ 4h, 9h, Ah ]
+TheCourier11 bets (100)
+fedmax555 calls (100)
+algirdass calls (100)
+AA_Basti83 calls (100)
+** Dealing Turn ** :  [ Ks ]
+TheCourier11 checks.
+fedmax555 checks.
+algirdass bets (200)
+AA_Basti83 calls (200)
+TheCourier11 calls (200)
+fedmax555 calls (200)
+** Dealing River ** :  [ 7d ]
+TheCourier11 checks.
+fedmax555 checks.
+algirdass bets (300)
+AA_Basti83 calls (300)
+TheCourier11 folds.
+fedmax555 folds.
+** Summary **
+Main Pot: 2600
+Board: [ 4h 9h Ah Ks 7d  ]
+
+hatoka balance 2900, didn't bet (folded)
+steeli111 balance 840, didn't bet (folded)
+algirdass balance 3090, bet 800, collected 2600, net +1800 [ 2s As ] [ a pair of Aces -- As,Ah,Ks,9h,7d ]
+Cloakroom balance 2290, didn't bet (folded)
+hcraab balance 1300, didn't bet (folded)
+sokoban1156 balance 2260, didn't bet (folded)
+JohnLaza balance 2420, didn't bet (folded)
+AA_Basti83 balance 1420, lost 800 [ Kd Tc ] [ a pair of Kings -- Ah,Kd,Ks,Tc,9h ]
+
+TheCourier11 balance 2310, lost 500 (folded)
+fedmax555 balance 1170, lost 500 (folded)
+
+***** Hand History for Game 5930411937 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 08:34:27 EDT 2007
+Table Table  126586 (Real Money) -- Seat 9 is the button
+Total number of players : 10
+Seat 1: hatoka (2900)
+Seat 2: steeli111 (840)
+Seat 3: algirdass (3090)
+Seat 4: Cloakroom (2290)
+Seat 5: hcraab (1300)
+Seat 6: sokoban1156 (2260)
+Seat 7: JohnLaza (2420)
+Seat 8: AA_Basti83 (1420)
+Seat 9: TheCourier11 (2310)
+Seat 10: fedmax555 (1170)
+fedmax555  posts small blind (50)
+hatoka  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Qh, 7d ]
+steeli111 folds.
+algirdass folds.
+Cloakroom folds.
+hcraab folds.
+sokoban1156 folds.
+JohnLaza folds.
+AA_Basti83 calls (100)
+TheCourier11 calls (100)
+fedmax555 folds.
+hatoka checks.
+** Dealing Flop ** :  [ 5h, 9d, Kc ]
+hatoka checks.
+AA_Basti83 checks.
+TheCourier11 checks.
+** Dealing Turn ** :  [ Qs ]
+hatoka checks.
+AA_Basti83 checks.
+TheCourier11 checks.
+** Dealing River ** :  [ 9s ]
+hatoka checks.
+AA_Basti83 checks.
+TheCourier11 checks.
+** Summary **
+Main Pot: 350
+Board: [ 5h 9d Kc Qs 9s  ]
+
+hatoka balance 3150, bet 100, collected 350, net +250 [ Qh 7d ] [ two pairs, Queens and Nines -- Kc,Qh,Qs,9d,9s ]
+steeli111 balance 840, didn't bet (folded)
+algirdass balance 3090, didn't bet (folded)
+Cloakroom balance 2290, didn't bet (folded)
+hcraab balance 1300, didn't bet (folded)
+sokoban1156 balance 2260, didn't bet (folded)
+JohnLaza balance 2420, didn't bet (folded)
+AA_Basti83 balance 1320, lost 100 [ 2c 3h ] [ a pair of Nines -- Kc,Qs,9d,9s,5h ]
+
+TheCourier11 balance 2210, lost 100 [ 8c As ] [ a pair of Nines -- As,Kc,Qs,9d,9s ]
+
+fedmax555 balance 1120, lost 50 (folded)
+
+***** Hand History for Game 5930413663 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 08:35:18 EDT 2007
+Table Table  126586 (Real Money) -- Seat 10 is the button
+Total number of players : 10
+Seat 1: hatoka (3150)
+Seat 2: steeli111 (840)
+Seat 3: algirdass (3090)
+Seat 4: Cloakroom (2290)
+Seat 5: hcraab (1300)
+Seat 6: sokoban1156 (2260)
+Seat 7: JohnLaza (2420)
+Seat 8: AA_Basti83 (1320)
+Seat 9: TheCourier11 (2210)
+Seat 10: fedmax555 (1120)
+hatoka  posts small blind (50)
+steeli111  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 5s, 5c ]
+algirdass calls (100)
+Cloakroom folds.
+hcraab folds.
+sokoban1156 calls (100)
+JohnLaza folds.
+AA_Basti83 calls (100)
+TheCourier11 folds.
+fedmax555 folds.
+hatoka raises (150) to 200
+steeli111 folds.
+algirdass calls (100)
+sokoban1156 calls (100)
+AA_Basti83 folds.
+** Dealing Flop ** :  [ Qc, 3c, Ts ]
+hatoka bets (300)
+algirdass folds.
+sokoban1156 folds.
+** Summary **
+Main Pot: 800
+Board: [ Qc 3c Ts  ]
+
+hatoka balance 3750, bet 500, collected 1100, net +600
+steeli111 balance 740, lost 100 (folded)
+algirdass balance 2890, lost 200 (folded)
+Cloakroom balance 2290, didn't bet (folded)
+hcraab balance 1300, didn't bet (folded)
+sokoban1156 balance 2060, lost 200 (folded)
+JohnLaza balance 2420, didn't bet (folded)
+AA_Basti83 balance 1220, lost 100 (folded)
+TheCourier11 balance 2210, didn't bet (folded)
+fedmax555 balance 1120, didn't bet (folded)
+
+***** Hand History for Game 5930415585 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 08:36:12 EDT 2007
+Table Table  126586 (Real Money) -- Seat 1 is the button
+Total number of players : 10
+Seat 1: hatoka (3750)
+Seat 2: steeli111 (740)
+Seat 3: algirdass (2890)
+Seat 4: Cloakroom (2290)
+Seat 5: hcraab (1300)
+Seat 6: sokoban1156 (2060)
+Seat 7: JohnLaza (2420)
+Seat 8: AA_Basti83 (1220)
+Seat 9: TheCourier11 (2210)
+Seat 10: fedmax555 (1120)
+steeli111  posts small blind (50)
+algirdass  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ As, 8h ]
+Cloakroom folds.
+hcraab folds.
+sokoban1156 calls (100)
+JohnLaza folds.
+AA_Basti83 folds.
+TheCourier11 calls (100)
+fedmax555 folds.
+hatoka raises (300) to 300
+steeli111 folds.
+algirdass folds.
+sokoban1156 folds.
+TheCourier11 folds.
+** Summary **
+Main Pot: 450
+
+hatoka balance 4100, bet 300, collected 650, net +350
+steeli111 balance 690, lost 50 (folded)
+algirdass balance 2790, lost 100 (folded)
+Cloakroom balance 2290, didn't bet (folded)
+hcraab balance 1300, didn't bet (folded)
+sokoban1156 balance 1960, lost 100 (folded)
+JohnLaza balance 2420, didn't bet (folded)
+AA_Basti83 balance 1220, didn't bet (folded)
+TheCourier11 balance 2110, lost 100 (folded)
+fedmax555 balance 1120, didn't bet (folded)
+
+***** Hand History for Game 5930416860 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 08:36:48 EDT 2007
+Table Table  126586 (Real Money) -- Seat 2 is the button
+Total number of players : 10
+Seat 1: hatoka (4100)
+Seat 2: steeli111 (690)
+Seat 3: algirdass (2790)
+Seat 4: Cloakroom (2290)
+Seat 5: hcraab (1300)
+Seat 6: sokoban1156 (1960)
+Seat 7: JohnLaza (2420)
+Seat 8: AA_Basti83 (1220)
+Seat 9: TheCourier11 (2110)
+Seat 10: fedmax555 (1120)
+algirdass  posts small blind (50)
+Cloakroom  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Qc, 6c ]
+hcraab folds.
+sokoban1156 folds.
+JohnLaza folds.
+AA_Basti83 raises (350) to 350
+TheCourier11 folds.
+fedmax555 folds.
+hatoka folds.
+steeli111 folds.
+algirdass folds.
+Cloakroom raises (2190) to 2290
+Cloakroom is all-In.
+AA_Basti83 calls (870)
+AA_Basti83 is all-In.
+** Dealing Flop ** :  [ Qs, Kc, 8s ]
+** Dealing Turn ** :  [ Jh ]
+** Dealing River ** :  [ Js ]
+Creating Main Pot with $2490 with AA_Basti83
+** Summary **
+Main Pot: 2490
+Board: [ Qs Kc 8s Jh Js  ]
+
+hatoka balance 4100, didn't bet (folded)
+steeli111 balance 690, didn't bet (folded)
+algirdass balance 2740, lost 50 (folded)
+Cloakroom balance 1070, bet 2290, collected 1070, lost -1220 [ Td Ts ] [ two pairs, Jacks and Tens -- Kc,Jh,Js,Td,Ts ]
+hcraab balance 1300, didn't bet (folded)
+sokoban1156 balance 1960, didn't bet (folded)
+JohnLaza balance 2420, didn't bet (folded)
+AA_Basti83 balance 2490, bet 1220, collected 2490, net +1270 [ Ac Kd ] [ two pairs, Kings and Jacks -- Ac,Kd,Kc,Jh,Js ]
+TheCourier11 balance 2110, didn't bet (folded)
+fedmax555 balance 1120, didn't bet (folded)
+
+***** Hand History for Game 5930417926 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 08:37:18 EDT 2007
+Table Table  126586 (Real Money) -- Seat 3 is the button
+Total number of players : 10
+Seat 1: hatoka (4100)
+Seat 2: steeli111 (690)
+Seat 3: algirdass (2740)
+Seat 4: Cloakroom (1070)
+Seat 5: hcraab (1300)
+Seat 6: sokoban1156 (1960)
+Seat 7: JohnLaza (2420)
+Seat 8: AA_Basti83 (2490)
+Seat 9: TheCourier11 (2110)
+Seat 10: fedmax555 (1120)
+Cloakroom  posts small blind (50)
+hcraab  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Ac, Qc ]
+sokoban1156 folds.
+JohnLaza folds.
+AA_Basti83 calls (100)
+TheCourier11 calls (100)
+fedmax555 folds.
+hatoka raises (400) to 400
+steeli111 calls (400)
+algirdass folds.
+Cloakroom folds.
+hcraab folds.
+AA_Basti83 calls (300)
+TheCourier11 folds.
+** Dealing Flop ** :  [ As, 2d, 3s ]
+AA_Basti83 checks.
+hatoka bets (500)
+steeli111 calls (290)
+steeli111 is all-In.
+AA_Basti83 folds.
+** Dealing Turn ** :  [ 6h ]
+** Dealing River ** :  [ 6s ]
+Creating Main Pot with $2030 with steeli111
+** Summary **
+Main Pot: 2030
+Board: [ As 2d 3s 6h 6s  ]
+
+hatoka balance 5440, bet 900, collected 2240, net +1340 [ Ac Qc ] [ two pairs, Aces and Sixes -- Ac,As,Qc,6h,6s ]
+steeli111 balance 0, lost 690 [ Qh Kh ] [ a pair of Sixes -- As,Kh,Qh,6h,6s ]
+algirdass balance 2740, didn't bet (folded)
+Cloakroom balance 1020, lost 50 (folded)
+hcraab balance 1200, lost 100 (folded)
+sokoban1156 balance 1960, didn't bet (folded)
+JohnLaza balance 2420, didn't bet (folded)
+AA_Basti83 balance 2090, lost 400 (folded)
+TheCourier11 balance 2010, lost 100 (folded)
+fedmax555 balance 1120, didn't bet (folded)
+
+***** Hand History for Game 5930419818 *****
+steeli111 finished in 10 place.
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 08:38:12 EDT 2007
+Table Table  126586 (Real Money) -- Seat 4 is the button
+Total number of players : 9
+Seat 1: hatoka (5440)
+Seat 3: algirdass (2740)
+Seat 4: Cloakroom (1020)
+Seat 5: hcraab (1200)
+Seat 6: sokoban1156 (1960)
+Seat 7: JohnLaza (2420)
+Seat 8: AA_Basti83 (2090)
+Seat 9: TheCourier11 (2010)
+Seat 10: fedmax555 (1120)
+hcraab  posts small blind (50)
+sokoban1156  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 2d, 4s ]
+JohnLaza calls (100)
+AA_Basti83 calls (100)
+TheCourier11 raises (300) to 300
+fedmax555 calls (300)
+hatoka folds.
+algirdass folds.
+Cloakroom folds.
+hcraab folds.
+sokoban1156 folds.
+JohnLaza folds.
+AA_Basti83 calls (200)
+** Dealing Flop ** :  [ 3s, Tc, Jh ]
+AA_Basti83 checks.
+TheCourier11 bets (500)
+fedmax555 folds.
+AA_Basti83 calls (500)
+** Dealing Turn ** :  [ 4h ]
+AA_Basti83 checks.
+TheCourier11 bets (400)
+AA_Basti83 calls (400)
+** Dealing River ** :  [ 6s ]
+AA_Basti83 checks.
+TheCourier11 checks.
+** Summary **
+Main Pot: 2950
+Board: [ 3s Tc Jh 4h 6s  ]
+
+hatoka balance 5440, didn't bet (folded)
+algirdass balance 2740, didn't bet (folded)
+Cloakroom balance 1020, didn't bet (folded)
+hcraab balance 1150, lost 50 (folded)
+sokoban1156 balance 1860, lost 100 (folded)
+JohnLaza balance 2320, lost 100 (folded)
+AA_Basti83 balance 890, lost 1200 [ 8s 9s ] [ high card Jack -- Jh,Tc,9s,8s,6s ]
+TheCourier11 balance 3760, bet 1200, collected 2950, net +1750 [ Qs As ] [ high card Ace -- As,Qs,Jh,Tc,6s ]
+fedmax555 balance 820, lost 300 (folded)
+
+***** Hand History for Game 5930421863 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 08:39:10 EDT 2007
+Table Table  126586 (Real Money) -- Seat 5 is the button
+Total number of players : 9
+Seat 1: hatoka (5440)
+Seat 3: algirdass (2740)
+Seat 4: Cloakroom (1020)
+Seat 5: hcraab (1150)
+Seat 6: sokoban1156 (1860)
+Seat 7: JohnLaza (2320)
+Seat 8: AA_Basti83 (890)
+Seat 9: TheCourier11 (3760)
+Seat 10: fedmax555 (820)
+sokoban1156  posts small blind (50)
+JohnLaza  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Ks, 2s ]
+AA_Basti83 folds.
+TheCourier11 folds.
+fedmax555 raises (820) to 820
+fedmax555 is all-In.
+hatoka folds.
+algirdass folds.
+Cloakroom folds.
+hcraab folds.
+sokoban1156 folds.
+JohnLaza folds.
+Creating Main Pot with $250 with fedmax555
+** Summary **
+Main Pot: 250
+
+hatoka balance 5440, didn't bet (folded)
+algirdass balance 2740, didn't bet (folded)
+Cloakroom balance 1020, didn't bet (folded)
+hcraab balance 1150, didn't bet (folded)
+sokoban1156 balance 1810, lost 50 (folded)
+JohnLaza balance 2220, lost 100 (folded)
+AA_Basti83 balance 890, didn't bet (folded)
+TheCourier11 balance 3760, didn't bet (folded)
+fedmax555 balance 970, bet 820, collected 970, net +150
+
+***** Hand History for Game 5930422720 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 08:39:35 EDT 2007
+Table Table  126586 (Real Money) -- Seat 6 is the button
+Total number of players : 9
+Seat 1: hatoka (5440)
+Seat 3: algirdass (2740)
+Seat 4: Cloakroom (1020)
+Seat 5: hcraab (1150)
+Seat 6: sokoban1156 (1810)
+Seat 7: JohnLaza (2220)
+Seat 8: AA_Basti83 (890)
+Seat 9: TheCourier11 (3760)
+Seat 10: fedmax555 (970)
+JohnLaza  posts small blind (50)
+AA_Basti83  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 2h, Td ]
+TheCourier11 calls (100)
+fedmax555 folds.
+hatoka folds.
+algirdass calls (100)
+Cloakroom folds.
+hcraab folds.
+sokoban1156 folds.
+JohnLaza calls (50)
+AA_Basti83 checks.
+** Dealing Flop ** :  [ 2c, 8s, Ah ]
+JohnLaza checks.
+AA_Basti83 checks.
+TheCourier11 checks.
+algirdass checks.
+** Dealing Turn ** :  [ Qd ]
+JohnLaza checks.
+AA_Basti83 checks.
+TheCourier11 checks.
+algirdass bets (300)
+JohnLaza folds.
+AA_Basti83 folds.
+TheCourier11 folds.
+** Summary **
+Main Pot: 400
+Board: [ 2c 8s Ah Qd  ]
+
+hatoka balance 5440, didn't bet (folded)
+algirdass balance 3040, bet 400, collected 700, net +300
+Cloakroom balance 1020, didn't bet (folded)
+hcraab balance 1150, didn't bet (folded)
+sokoban1156 balance 1810, didn't bet (folded)
+JohnLaza balance 2120, lost 100 (folded)
+AA_Basti83 balance 790, lost 100 (folded)
+TheCourier11 balance 3660, lost 100 (folded)
+fedmax555 balance 970, didn't bet (folded)
+
+***** Hand History for Game 5930424503 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 08:40:26 EDT 2007
+Table Table  126586 (Real Money) -- Seat 7 is the button
+Total number of players : 9
+Seat 1: hatoka (5440)
+Seat 3: algirdass (3040)
+Seat 4: Cloakroom (1020)
+Seat 5: hcraab (1150)
+Seat 6: sokoban1156 (1810)
+Seat 7: JohnLaza (2120)
+Seat 8: AA_Basti83 (790)
+Seat 9: TheCourier11 (3660)
+Seat 10: fedmax555 (970)
+AA_Basti83  posts small blind (50)
+TheCourier11  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 6d, Kh ]
+fedmax555 raises (970) to 970
+fedmax555 is all-In.
+hatoka folds.
+algirdass folds.
+Cloakroom folds.
+hcraab raises (1150) to 1150
+hcraab is all-In.
+sokoban1156 folds.
+JohnLaza folds.
+AA_Basti83 calls (740)
+AA_Basti83 is all-In.
+TheCourier11 folds.
+** Dealing Flop ** :  [ Jd, Jc, 9h ]
+** Dealing Turn ** :  [ Qc ]
+** Dealing River ** :  [ 3h ]
+Creating Main Pot with $2470 with AA_Basti83
+Creating Side Pot 1 with $360 with fedmax555
+** Summary **
+Main Pot: 2470 | Side Pot 1: 360
+Board: [ Jd Jc 9h Qc 3h  ]
+
+hatoka balance 5440, didn't bet (folded)
+algirdass balance 3040, didn't bet (folded)
+Cloakroom balance 1020, didn't bet (folded)
+hcraab balance 180, bet 1150, collected 180, lost -970 [ 5d 5s ] [ two pairs, Jacks and Fives -- Qc,Jd,Jc,5d,5s ]
+sokoban1156 balance 1810, didn't bet (folded)
+JohnLaza balance 2120, didn't bet (folded)
+AA_Basti83 balance 0, lost 790 [ Qd 9d ] [ two pairs, Queens and Jacks -- Qd,Qc,Jd,Jc,9d ]
+TheCourier11 balance 3560, lost 100 (folded)
+fedmax555 balance 2830, bet 970, collected 2830, net +1860 [ Ah Ac ] [ two pairs, Aces and Jacks -- Ah,Ac,Qc,Jd,Jc ]
+
+***** Hand History for Game 5930425462 *****
+AA_Basti83 finished in 9 place.
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 08:40:53 EDT 2007
+Table Table  126586 (Real Money) -- Seat 7 is the button
+Total number of players : 8
+Seat 1: hatoka (5440)
+Seat 3: algirdass (3040)
+Seat 4: Cloakroom (1020)
+Seat 5: hcraab (180)
+Seat 6: sokoban1156 (1810)
+Seat 7: JohnLaza (2120)
+Seat 9: TheCourier11 (3560)
+Seat 10: fedmax555 (2830)
+TheCourier11  posts small blind (50)
+fedmax555  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 3d, 9s ]
+hatoka folds.
+algirdass raises (200) to 200
+Cloakroom folds.
+hcraab folds.
+sokoban1156 folds.
+JohnLaza folds.
+TheCourier11 folds.
+fedmax555 folds.
+** Summary **
+Main Pot: 250
+
+hatoka balance 5440, didn't bet (folded)
+algirdass balance 3190, bet 200, collected 350, net +150
+Cloakroom balance 1020, didn't bet (folded)
+hcraab balance 180, didn't bet (folded)
+sokoban1156 balance 1810, didn't bet (folded)
+JohnLaza balance 2120, didn't bet (folded)
+TheCourier11 balance 3510, lost 50 (folded)
+fedmax555 balance 2730, lost 100 (folded)
+
+***** Hand History for Game 5930426112 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 08:41:11 EDT 2007
+Table Table  126586 (Real Money) -- Seat 9 is the button
+Total number of players : 8
+Seat 1: hatoka (5440)
+Seat 3: algirdass (3190)
+Seat 4: Cloakroom (1020)
+Seat 5: hcraab (180)
+Seat 6: sokoban1156 (1810)
+Seat 7: JohnLaza (2120)
+Seat 9: TheCourier11 (3510)
+Seat 10: fedmax555 (2730)
+fedmax555  posts small blind (50)
+hatoka  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 9d, 3s ]
+algirdass calls (100)
+Cloakroom raises (1020) to 1020
+Cloakroom is all-In.
+hcraab folds.
+sokoban1156 folds.
+JohnLaza folds.
+TheCourier11 folds.
+fedmax555 folds.
+hatoka folds.
+algirdass folds.
+Creating Main Pot with $350 with Cloakroom
+** Summary **
+Main Pot: 350
+
+hatoka balance 5340, lost 100 (folded)
+algirdass balance 3090, lost 100 (folded)
+Cloakroom balance 1270, bet 1020, collected 1270, net +250
+hcraab balance 180, didn't bet (folded)
+sokoban1156 balance 1810, didn't bet (folded)
+JohnLaza balance 2120, didn't bet (folded)
+TheCourier11 balance 3510, didn't bet (folded)
+fedmax555 balance 2680, lost 50 (folded)
+
+***** Hand History for Game 5930426874 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 08:41:33 EDT 2007
+Table Table  126586 (Real Money) -- Seat 10 is the button
+Total number of players : 8
+Seat 1: hatoka (5340)
+Seat 3: algirdass (3090)
+Seat 4: Cloakroom (1270)
+Seat 5: hcraab (180)
+Seat 6: sokoban1156 (1810)
+Seat 7: JohnLaza (2120)
+Seat 9: TheCourier11 (3510)
+Seat 10: fedmax555 (2680)
+hatoka  posts small blind (50)
+algirdass  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 4s, As ]
+Cloakroom folds.
+hcraab folds.
+sokoban1156 calls (100)
+JohnLaza folds.
+TheCourier11 folds.
+fedmax555 folds.
+hatoka raises (150) to 200
+algirdass calls (100)
+sokoban1156 calls (100)
+** Dealing Flop ** :  [ Tc, Ts, 4h ]
+hatoka bets (300)
+algirdass calls (300)
+sokoban1156 calls (300)
+** Dealing Turn ** :  [ Kc ]
+hatoka checks.
+algirdass bets (600)
+sokoban1156 folds.
+hatoka folds.
+** Summary **
+Main Pot: 1500
+Board: [ Tc Ts 4h Kc  ]
+
+hatoka balance 4840, lost 500 (folded)
+algirdass balance 4090, bet 1100, collected 2100, net +1000
+Cloakroom balance 1270, didn't bet (folded)
+hcraab balance 180, didn't bet (folded)
+sokoban1156 balance 1310, lost 500 (folded)
+JohnLaza balance 2120, didn't bet (folded)
+TheCourier11 balance 3510, didn't bet (folded)
+fedmax555 balance 2680, didn't bet (folded)
+
+***** Hand History for Game 5930430271 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 08:43:08 EDT 2007
+Table Table  126586 (Real Money) -- Seat 1 is the button
+Total number of players : 8
+Seat 1: hatoka (4840)
+Seat 3: algirdass (4090)
+Seat 4: Cloakroom (1270)
+Seat 5: hcraab (180)
+Seat 6: sokoban1156 (1310)
+Seat 7: JohnLaza (2120)
+Seat 9: TheCourier11 (3510)
+Seat 10: fedmax555 (2680)
+algirdass  posts small blind (100)
+Cloakroom  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 9h, 5c ]
+hcraab folds.
+sokoban1156 folds.
+JohnLaza folds.
+TheCourier11 folds.
+fedmax555 folds.
+hatoka folds.
+algirdass calls (100)
+Cloakroom checks.
+** Dealing Flop ** :  [ 3c, 5s, 7c ]
+algirdass checks.
+Cloakroom bets (1070)
+Cloakroom is all-In.
+algirdass folds.
+Creating Main Pot with $400 with Cloakroom
+** Summary **
+Main Pot: 400
+Board: [ 3c 5s 7c  ]
+
+hatoka balance 4840, didn't bet (folded)
+algirdass balance 3890, lost 200 (folded)
+Cloakroom balance 1470, bet 1270, collected 1470, net +200
+hcraab balance 180, didn't bet (folded)
+sokoban1156 balance 1310, didn't bet (folded)
+JohnLaza balance 2120, didn't bet (folded)
+TheCourier11 balance 3510, didn't bet (folded)
+fedmax555 balance 2680, didn't bet (folded)
+
+***** Hand History for Game 5930431266 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 08:43:36 EDT 2007
+Table Table  126586 (Real Money) -- Seat 3 is the button
+Total number of players : 8
+Seat 1: hatoka (4840)
+Seat 3: algirdass (3890)
+Seat 4: Cloakroom (1470)
+Seat 5: hcraab (180)
+Seat 6: sokoban1156 (1310)
+Seat 7: JohnLaza (2120)
+Seat 9: TheCourier11 (3510)
+Seat 10: fedmax555 (2680)
+Cloakroom  posts small blind (100)
+hcraab  posts big blind (180)
+** Dealing down cards **
+Dealt to hatoka [ 6h, 3h ]
+sokoban1156 folds.
+JohnLaza folds.
+TheCourier11 calls (200)
+fedmax555 folds.
+hatoka folds.
+algirdass folds.
+Cloakroom calls (100)
+Creating Main Pot with $540 with hcraab
+** Dealing Flop ** :  [ 4s, 2d, 5c ]
+Cloakroom checks.
+TheCourier11 checks.
+** Dealing Turn ** :  [ Jc ]
+Cloakroom checks.
+TheCourier11 bets (200)
+Cloakroom folds.
+** Dealing River ** :  [ Qd ]
+** Summary **
+Main Pot: 540 | Side Pot 1: 40
+Board: [ 4s 2d 5c Jc Qd  ]
+
+hatoka balance 4840, didn't bet (folded)
+algirdass balance 3890, didn't bet (folded)
+Cloakroom balance 1270, lost 200 (folded)
+hcraab balance 540, bet 180, collected 540, net +360 [ Qs 3d ] [ a pair of Queens -- Qs,Qd,Jc,5c,4s ]
+sokoban1156 balance 1310, didn't bet (folded)
+JohnLaza balance 2120, didn't bet (folded)
+TheCourier11 balance 3350, bet 400, collected 240, lost -160 [ Td Js ] [ a pair of Jacks -- Qd,Js,Jc,Td,5c ]
+fedmax555 balance 2680, didn't bet (folded)
+
+***** Hand History for Game 5930432370 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 08:44:08 EDT 2007
+Table Table  126586 (Real Money) -- Seat 4 is the button
+Total number of players : 8
+Seat 1: hatoka (4840)
+Seat 3: algirdass (3890)
+Seat 4: Cloakroom (1270)
+Seat 5: hcraab (540)
+Seat 6: sokoban1156 (1310)
+Seat 7: JohnLaza (2120)
+Seat 9: TheCourier11 (3350)
+Seat 10: fedmax555 (2680)
+hcraab  posts small blind (100)
+sokoban1156  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 5c, Js ]
+JohnLaza folds.
+TheCourier11 calls (200)
+fedmax555 folds.
+hatoka folds.
+algirdass calls (200)
+Cloakroom folds.
+hcraab folds.
+sokoban1156 checks.
+** Dealing Flop ** :  [ Qs, 8h, 2s ]
+sokoban1156 checks.
+TheCourier11 checks.
+algirdass bets (600)
+sokoban1156 folds.
+TheCourier11 folds.
+** Summary **
+Main Pot: 700
+Board: [ Qs 8h 2s  ]
+
+hatoka balance 4840, didn't bet (folded)
+algirdass balance 4390, bet 800, collected 1300, net +500
+Cloakroom balance 1270, didn't bet (folded)
+hcraab balance 440, lost 100 (folded)
+sokoban1156 balance 1110, lost 200 (folded)
+JohnLaza balance 2120, didn't bet (folded)
+TheCourier11 balance 3150, lost 200 (folded)
+fedmax555 balance 2680, didn't bet (folded)
+
+***** Hand History for Game 5930434124 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 08:44:55 EDT 2007
+Table Table  126586 (Real Money) -- Seat 5 is the button
+Total number of players : 8
+Seat 1: hatoka (4840)
+Seat 3: algirdass (4390)
+Seat 4: Cloakroom (1270)
+Seat 5: hcraab (440)
+Seat 6: sokoban1156 (1110)
+Seat 7: JohnLaza (2120)
+Seat 9: TheCourier11 (3150)
+Seat 10: fedmax555 (2680)
+sokoban1156  posts small blind (100)
+JohnLaza  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 4h, 7c ]
+TheCourier11 raises (400) to 400
+fedmax555 folds.
+hatoka folds.
+algirdass folds.
+Cloakroom folds.
+hcraab folds.
+sokoban1156 folds.
+JohnLaza folds.
+** Summary **
+Main Pot: 500
+
+hatoka balance 4840, didn't bet (folded)
+algirdass balance 4390, didn't bet (folded)
+Cloakroom balance 1270, didn't bet (folded)
+hcraab balance 440, didn't bet (folded)
+sokoban1156 balance 1010, lost 100 (folded)
+JohnLaza balance 1920, lost 200 (folded)
+TheCourier11 balance 3450, bet 400, collected 700, net +300
+fedmax555 balance 2680, didn't bet (folded)
+
+***** Hand History for Game 5930434697 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 08:45:11 EDT 2007
+Table Table  126586 (Real Money) -- Seat 6 is the button
+Total number of players : 8
+Seat 1: hatoka (4840)
+Seat 3: algirdass (4390)
+Seat 4: Cloakroom (1270)
+Seat 5: hcraab (440)
+Seat 6: sokoban1156 (1010)
+Seat 7: JohnLaza (1920)
+Seat 9: TheCourier11 (3450)
+Seat 10: fedmax555 (2680)
+JohnLaza  posts small blind (100)
+TheCourier11  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 6d, Qh ]
+fedmax555 folds.
+hatoka folds.
+algirdass folds.
+Cloakroom raises (1270) to 1270
+Cloakroom is all-In.
+hcraab folds.
+sokoban1156 folds.
+JohnLaza folds.
+TheCourier11 folds.
+Creating Main Pot with $500 with Cloakroom
+** Summary **
+Main Pot: 500
+
+hatoka balance 4840, didn't bet (folded)
+algirdass balance 4390, didn't bet (folded)
+Cloakroom balance 1570, bet 1270, collected 1570, net +300
+hcraab balance 440, didn't bet (folded)
+sokoban1156 balance 1010, didn't bet (folded)
+JohnLaza balance 1820, lost 100 (folded)
+TheCourier11 balance 3250, lost 200 (folded)
+fedmax555 balance 2680, didn't bet (folded)
+
+***** Hand History for Game 5930435560 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 08:45:31 EDT 2007
+Table Table  126586 (Real Money) -- Seat 7 is the button
+Total number of players : 8
+Seat 1: hatoka (4840)
+Seat 3: algirdass (4390)
+Seat 4: Cloakroom (1570)
+Seat 5: hcraab (440)
+Seat 6: sokoban1156 (1010)
+Seat 7: JohnLaza (1820)
+Seat 9: TheCourier11 (3250)
+Seat 10: fedmax555 (2680)
+TheCourier11  posts small blind (100)
+fedmax555  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 7c, Kc ]
+hatoka raises (400) to 400
+algirdass folds.
+Cloakroom folds.
+hcraab folds.
+sokoban1156 folds.
+JohnLaza raises (800) to 800
+TheCourier11 folds.
+fedmax555 folds.
+hatoka calls (400)
+** Dealing Flop ** :  [ 8c, 7s, 5d ]
+hatoka bets (1200)
+JohnLaza calls (1020)
+JohnLaza is all-In.
+** Dealing Turn ** :  [ 2d ]
+** Dealing River ** :  [ Jd ]
+Creating Main Pot with $3940 with JohnLaza
+** Summary **
+Main Pot: 3940
+Board: [ 8c 7s 5d 2d Jd  ]
+
+hatoka balance 3020, bet 2000, collected 180, lost -1820 [ 7c Kc ] [ a pair of Sevens -- Kc,Jd,8c,7c,7s ]
+algirdass balance 4390, didn't bet (folded)
+Cloakroom balance 1570, didn't bet (folded)
+hcraab balance 440, didn't bet (folded)
+sokoban1156 balance 1010, didn't bet (folded)
+JohnLaza balance 3940, bet 1820, collected 3940, net +2120 [ Jc Ac ] [ a pair of Jacks -- Ac,Jc,Jd,8c,7s ]
+TheCourier11 balance 3150, lost 100 (folded)
+fedmax555 balance 2480, lost 200 (folded)
+
+***** Hand History for Game 5930436919 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 08:46:09 EDT 2007
+Table Table  126586 (Real Money) -- Seat 9 is the button
+Total number of players : 8
+Seat 1: hatoka (3020)
+Seat 3: algirdass (4390)
+Seat 4: Cloakroom (1570)
+Seat 5: hcraab (440)
+Seat 6: sokoban1156 (1010)
+Seat 7: JohnLaza (3940)
+Seat 9: TheCourier11 (3150)
+Seat 10: fedmax555 (2480)
+fedmax555  posts small blind (100)
+hatoka  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Kh, 2c ]
+algirdass calls (200)
+Cloakroom folds.
+hcraab folds.
+sokoban1156 folds.
+JohnLaza folds.
+TheCourier11 calls (200)
+hatoka: last card
+fedmax555 calls (100)
+hatoka checks.
+** Dealing Flop ** :  [ Qh, 2h, 5d ]
+fedmax555 checks.
+JohnLaza: you play like s h i t
+hatoka checks.
+algirdass bets (400)
+TheCourier11 raises (800) to 800
+fedmax555 folds.
+JohnLaza: K7 ????
+hatoka folds.
+JohnLaza: f u c king loser
+algirdass folds.
+** Summary **
+Main Pot: 1600
+Board: [ Qh 2h 5d  ]
+
+hatoka balance 2820, lost 200 (folded)
+algirdass balance 3790, lost 600 (folded)
+Cloakroom balance 1570, didn't bet (folded)
+hcraab balance 440, didn't bet (folded)
+sokoban1156 balance 1010, didn't bet (folded)
+JohnLaza balance 3940, didn't bet (folded)
+TheCourier11 balance 4150, bet 1000, collected 2000, net +1000
+fedmax555 balance 2280, lost 200 (folded)
+
+***** Hand History for Game 5930438639 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 08:46:55 EDT 2007
+Table Table  126586 (Real Money) -- Seat 10 is the button
+Total number of players : 8
+Seat 1: hatoka (2820)
+Seat 3: algirdass (3790)
+Seat 4: Cloakroom (1570)
+Seat 5: hcraab (440)
+Seat 6: sokoban1156 (1010)
+Seat 7: JohnLaza (3940)
+Seat 9: TheCourier11 (4150)
+Seat 10: fedmax555 (2280)
+hatoka  posts small blind (100)
+algirdass  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 9s, 5d ]
+Cloakroom folds.
+hcraab folds.
+sokoban1156 folds.
+JohnLaza folds.
+TheCourier11 raises (400) to 400
+fedmax555 folds.
+hatoka folds.
+algirdass calls (200)
+** Dealing Flop ** :  [ 2s, Ts, 6d ]
+algirdass checks.
+TheCourier11 bets (400)
+algirdass folds.
+** Summary **
+Main Pot: 900
+Board: [ 2s Ts 6d  ]
+
+hatoka balance 2720, lost 100 (folded)
+algirdass balance 3390, lost 400 (folded)
+Cloakroom balance 1570, didn't bet (folded)
+hcraab balance 440, didn't bet (folded)
+sokoban1156 balance 1010, didn't bet (folded)
+JohnLaza balance 3940, didn't bet (folded)
+TheCourier11 balance 4650, bet 800, collected 1300, net +500
+fedmax555 balance 2280, didn't bet (folded)
+
+***** Hand History for Game 5930439687 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 08:47:24 EDT 2007
+Table Table  126586 (Real Money) -- Seat 1 is the button
+Total number of players : 8
+Seat 1: hatoka (2720)
+Seat 3: algirdass (3390)
+Seat 4: Cloakroom (1570)
+Seat 5: hcraab (440)
+Seat 6: sokoban1156 (1010)
+Seat 7: JohnLaza (3940)
+Seat 9: TheCourier11 (4650)
+Seat 10: fedmax555 (2280)
+algirdass  posts small blind (100)
+Cloakroom  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 4d, 5s ]
+hcraab folds.
+sokoban1156 folds.
+JohnLaza folds.
+TheCourier11 folds.
+fedmax555 folds.
+hatoka folds.
+hatoka: :)
+algirdass calls (100)
+Cloakroom raises (1370) to 1570
+Cloakroom is all-In.
+algirdass folds.
+Creating Main Pot with $400 with Cloakroom
+** Summary **
+Main Pot: 400
+
+hatoka balance 2720, didn't bet (folded)
+algirdass balance 3190, lost 200 (folded)
+Cloakroom balance 1770, bet 1570, collected 1770, net +200
+hcraab balance 440, didn't bet (folded)
+sokoban1156 balance 1010, didn't bet (folded)
+JohnLaza balance 3940, didn't bet (folded)
+TheCourier11 balance 4650, didn't bet (folded)
+fedmax555 balance 2280, didn't bet (folded)
+
+***** Hand History for Game 5930440861 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 08:47:54 EDT 2007
+Table Table  126586 (Real Money) -- Seat 3 is the button
+Total number of players : 8
+Seat 1: hatoka (2720)
+Seat 3: algirdass (3190)
+Seat 4: Cloakroom (1770)
+Seat 5: hcraab (440)
+Seat 6: sokoban1156 (1010)
+Seat 7: JohnLaza (3940)
+Seat 9: TheCourier11 (4650)
+Seat 10: fedmax555 (2280)
+Cloakroom  posts small blind (100)
+hcraab  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Jh, 4h ]
+sokoban1156 folds.
+JohnLaza calls (200)
+TheCourier11 calls (200)
+fedmax555 folds.
+hatoka folds.
+algirdass folds.
+Cloakroom folds.
+hcraab folds.
+** Dealing Flop ** :  [ 2c, Ah, 7c ]
+JohnLaza checks.
+TheCourier11 bets (600)
+JohnLaza folds.
+** Summary **
+Main Pot: 700
+Board: [ 2c Ah 7c  ]
+
+hatoka balance 2720, didn't bet (folded)
+algirdass balance 3190, didn't bet (folded)
+Cloakroom balance 1670, lost 100 (folded)
+hcraab balance 240, lost 200 (folded)
+sokoban1156 balance 1010, didn't bet (folded)
+JohnLaza balance 3740, lost 200 (folded)
+TheCourier11 balance 5150, bet 800, collected 1300, net +500
+fedmax555 balance 2280, didn't bet (folded)
+
+***** Hand History for Game 5930442110 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 08:48:27 EDT 2007
+Table Table  126586 (Real Money) -- Seat 4 is the button
+Total number of players : 8
+Seat 1: hatoka (2720)
+Seat 3: algirdass (3190)
+Seat 4: Cloakroom (1670)
+Seat 5: hcraab (240)
+Seat 6: sokoban1156 (1010)
+Seat 7: JohnLaza (3740)
+Seat 9: TheCourier11 (5150)
+Seat 10: fedmax555 (2280)
+hcraab  posts small blind (100)
+sokoban1156  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 5h, Ad ]
+JohnLaza calls (200)
+TheCourier11 calls (200)
+fedmax555 folds.
+hatoka calls (200)
+algirdass calls (200)
+Cloakroom raises (1670) to 1670
+Cloakroom is all-In.
+hcraab folds.
+sokoban1156 folds.
+JohnLaza folds.
+TheCourier11 folds.
+hatoka folds.
+algirdass folds.
+Creating Main Pot with $1300 with Cloakroom
+** Summary **
+Main Pot: 1300
+
+hatoka balance 2520, lost 200 (folded)
+algirdass balance 2990, lost 200 (folded)
+Cloakroom balance 2770, bet 1670, collected 2770, net +1100
+hcraab balance 140, lost 100 (folded)
+sokoban1156 balance 810, lost 200 (folded)
+JohnLaza balance 3540, lost 200 (folded)
+TheCourier11 balance 4950, lost 200 (folded)
+fedmax555 balance 2280, didn't bet (folded)
+
+***** Hand History for Game 5930444217 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 08:49:21 EDT 2007
+Table Table  126586 (Real Money) -- Seat 5 is the button
+Total number of players : 8
+Seat 1: hatoka (2520)
+Seat 3: algirdass (2990)
+Seat 4: Cloakroom (2770)
+Seat 5: hcraab (140)
+Seat 6: sokoban1156 (810)
+Seat 7: JohnLaza (3540)
+Seat 9: TheCourier11 (4950)
+Seat 10: fedmax555 (2280)
+sokoban1156  posts small blind (100)
+JohnLaza  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Kc, 4d ]
+TheCourier11: i wish someone would knock him out
+TheCourier11 folds.
+fedmax555 folds.
+hatoka folds.
+algirdass calls (200)
+Cloakroom folds.
+hcraab folds.
+sokoban1156 folds.
+JohnLaza raises (400) to 600
+algirdass folds.
+** Summary **
+Main Pot: 500
+
+hatoka balance 2520, didn't bet (folded)
+algirdass balance 2790, lost 200 (folded)
+Cloakroom balance 2770, didn't bet (folded)
+hcraab balance 140, didn't bet (folded)
+sokoban1156 balance 710, lost 100 (folded)
+JohnLaza balance 3840, bet 600, collected 900, net +300
+TheCourier11 balance 4950, didn't bet (folded)
+fedmax555 balance 2280, didn't bet (folded)
+
+***** Hand History for Game 5930445491 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 08:49:55 EDT 2007
+Table Table  126586 (Real Money) -- Seat 6 is the button
+Total number of players : 8
+Seat 1: hatoka (2520)
+Seat 3: algirdass (2790)
+Seat 4: Cloakroom (2770)
+Seat 5: hcraab (140)
+Seat 6: sokoban1156 (710)
+Seat 7: JohnLaza (3840)
+Seat 9: TheCourier11 (4950)
+Seat 10: fedmax555 (2280)
+JohnLaza  posts small blind (100)
+TheCourier11  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Qs, Kh ]
+fedmax555 folds.
+hatoka raises (400) to 400
+algirdass folds.
+Cloakroom folds.
+hcraab folds.
+sokoban1156 folds.
+JohnLaza calls (300)
+TheCourier11 calls (200)
+** Dealing Flop ** :  [ Jh, 5c, 2s ]
+JohnLaza checks.
+TheCourier11 bets (200)
+hatoka calls (200)
+JohnLaza calls (200)
+** Dealing Turn ** :  [ As ]
+JohnLaza checks.
+TheCourier11 checks.
+hatoka checks.
+** Dealing River ** :  [ 3d ]
+JohnLaza bets (1000)
+TheCourier11 folds.
+hatoka folds.
+** Summary **
+Main Pot: 1800
+Board: [ Jh 5c 2s As 3d  ]
+
+hatoka balance 1920, lost 600 (folded)
+algirdass balance 2790, didn't bet (folded)
+Cloakroom balance 2770, didn't bet (folded)
+hcraab balance 140, didn't bet (folded)
+sokoban1156 balance 710, didn't bet (folded)
+JohnLaza balance 5040, bet 1600, collected 2800, net +1200
+TheCourier11 balance 4350, lost 600 (folded)
+fedmax555 balance 2280, didn't bet (folded)
+
+***** Hand History for Game 5930447447 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 08:50:45 EDT 2007
+Table Table  126586 (Real Money) -- Seat 7 is the button
+Total number of players : 8
+Seat 1: hatoka (1920)
+Seat 3: algirdass (2790)
+Seat 4: Cloakroom (2770)
+Seat 5: hcraab (140)
+Seat 6: sokoban1156 (710)
+Seat 7: JohnLaza (5040)
+Seat 9: TheCourier11 (4350)
+Seat 10: fedmax555 (2280)
+TheCourier11  posts small blind (100)
+fedmax555  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 5d, 3s ]
+hatoka folds.
+algirdass calls (200)
+Cloakroom folds.
+hcraab folds.
+sokoban1156 folds.
+JohnLaza folds.
+TheCourier11 calls (100)
+fedmax555 checks.
+** Dealing Flop ** :  [ 9h, 8s, As ]
+TheCourier11 bets (800)
+fedmax555 folds.
+algirdass folds.
+** Summary **
+Main Pot: 600
+Board: [ 9h 8s As  ]
+
+hatoka balance 1920, didn't bet (folded)
+algirdass balance 2590, lost 200 (folded)
+Cloakroom balance 2770, didn't bet (folded)
+hcraab balance 140, didn't bet (folded)
+sokoban1156 balance 710, didn't bet (folded)
+JohnLaza balance 5040, didn't bet (folded)
+TheCourier11 balance 4750, bet 1000, collected 1400, net +400
+fedmax555 balance 2080, lost 200 (folded)
+
+***** Hand History for Game 5930448255 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 08:51:06 EDT 2007
+Table Table  126586 (Real Money) -- Seat 9 is the button
+Total number of players : 8
+Seat 1: hatoka (1920)
+Seat 3: algirdass (2590)
+Seat 4: Cloakroom (2770)
+Seat 5: hcraab (140)
+Seat 6: sokoban1156 (710)
+Seat 7: JohnLaza (5040)
+Seat 9: TheCourier11 (4750)
+Seat 10: fedmax555 (2080)
+fedmax555  posts small blind (100)
+hatoka  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Jh, 5d ]
+algirdass folds.
+Cloakroom calls (200)
+hcraab folds.
+sokoban1156 folds.
+JohnLaza folds.
+TheCourier11 folds.
+fedmax555 folds.
+hatoka checks.
+** Dealing Flop ** :  [ As, Tc, Td ]
+hatoka bets (200)
+Cloakroom folds.
+** Summary **
+Main Pot: 500
+Board: [ As Tc Td  ]
+
+hatoka balance 2220, bet 400, collected 700, net +300
+algirdass balance 2590, didn't bet (folded)
+Cloakroom balance 2570, lost 200 (folded)
+hcraab balance 140, didn't bet (folded)
+sokoban1156 balance 710, didn't bet (folded)
+JohnLaza balance 5040, didn't bet (folded)
+TheCourier11 balance 4750, didn't bet (folded)
+fedmax555 balance 1980, lost 100 (folded)
+
+***** Hand History for Game 5930449227 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 08:51:31 EDT 2007
+Table Table  126586 (Real Money) -- Seat 10 is the button
+Total number of players : 8
+Seat 1: hatoka (2220)
+Seat 3: algirdass (2590)
+Seat 4: Cloakroom (2570)
+Seat 5: hcraab (140)
+Seat 6: sokoban1156 (710)
+Seat 7: JohnLaza (5040)
+Seat 9: TheCourier11 (4750)
+Seat 10: fedmax555 (1980)
+hatoka  posts small blind (100)
+algirdass  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Tc, Kc ]
+Cloakroom folds.
+hcraab folds.
+sokoban1156 folds.
+JohnLaza folds.
+TheCourier11 folds.
+fedmax555 folds.
+hatoka raises (300) to 400
+algirdass calls (200)
+** Dealing Flop ** :  [ 6h, 3h, Qh ]
+hatoka bets (200)
+algirdass calls (200)
+** Dealing Turn ** :  [ 4h ]
+hatoka checks.
+algirdass bets (800)
+hatoka folds.
+** Summary **
+Main Pot: 1200
+Board: [ 6h 3h Qh 4h  ]
+
+hatoka balance 1620, lost 600 (folded)
+algirdass balance 3190, bet 1400, collected 2000, net +600
+Cloakroom balance 2570, didn't bet (folded)
+hcraab balance 140, didn't bet (folded)
+sokoban1156 balance 710, didn't bet (folded)
+JohnLaza balance 5040, didn't bet (folded)
+TheCourier11 balance 4750, didn't bet (folded)
+fedmax555 balance 1980, didn't bet (folded)
+
+***** Hand History for Game 5930450832 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 08:52:14 EDT 2007
+Table Table  126586 (Real Money) -- Seat 1 is the button
+Total number of players : 8
+Seat 1: hatoka (1620)
+Seat 3: algirdass (3190)
+Seat 4: Cloakroom (2570)
+Seat 5: hcraab (140)
+Seat 6: sokoban1156 (710)
+Seat 7: JohnLaza (5040)
+Seat 9: TheCourier11 (4750)
+Seat 10: fedmax555 (1980)
+algirdass  posts small blind (100)
+Cloakroom  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Ac, 6s ]
+hcraab folds.
+sokoban1156 raises (710) to 710
+sokoban1156 is all-In.
+JohnLaza folds.
+TheCourier11 folds.
+fedmax555 folds.
+hatoka folds.
+algirdass calls (610)
+Cloakroom folds.
+** Dealing Flop ** :  [ 8s, Ts, Td ]
+** Dealing Turn ** :  [ 2c ]
+** Dealing River ** :  [ Qd ]
+Creating Main Pot with $1620 with sokoban1156
+** Summary **
+Main Pot: 1620
+Board: [ 8s Ts Td 2c Qd  ]
+
+hatoka balance 1620, didn't bet (folded)
+algirdass balance 2480, lost 710 [ As 7h ] [ a pair of Tens -- As,Qd,Ts,Td,8s ]
+Cloakroom balance 2370, lost 200 (folded)
+hcraab balance 140, didn't bet (folded)
+sokoban1156 balance 1620, bet 710, collected 1620, net +910 [ 7c 7d ] [ two pairs, Tens and Sevens -- Qd,Ts,Td,7c,7d ]
+JohnLaza balance 5040, didn't bet (folded)
+TheCourier11 balance 4750, didn't bet (folded)
+fedmax555 balance 1980, didn't bet (folded)
+
+***** Hand History for Game 5930451582 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 08:52:33 EDT 2007
+Table Table  126586 (Real Money) -- Seat 3 is the button
+Total number of players : 8
+Seat 1: hatoka (1620)
+Seat 3: algirdass (2480)
+Seat 4: Cloakroom (2370)
+Seat 5: hcraab (140)
+Seat 6: sokoban1156 (1620)
+Seat 7: JohnLaza (5040)
+Seat 9: TheCourier11 (4750)
+Seat 10: fedmax555 (1980)
+Cloakroom  posts small blind (100)
+hcraab  posts big blind (140)
+** Dealing down cards **
+Dealt to hatoka [ 5h, 3c ]
+sokoban1156 calls (200)
+JohnLaza folds.
+TheCourier11 folds.
+fedmax555 calls (200)
+hatoka folds.
+algirdass folds.
+Cloakroom calls (100)
+Creating Main Pot with $560 with hcraab
+** Dealing Flop ** :  [ 3s, Ac, 5d ]
+Cloakroom checks.
+sokoban1156 checks.
+fedmax555 bets (200)
+Cloakroom folds.
+sokoban1156 folds.
+** Dealing Turn ** :  [ 4s ]
+** Dealing River ** :  [ Qs ]
+** Summary **
+Main Pot: 560 | Side Pot 1: 180
+Board: [ 3s Ac 5d 4s Qs  ]
+
+hatoka balance 1620, didn't bet (folded)
+algirdass balance 2480, didn't bet (folded)
+Cloakroom balance 2170, lost 200 (folded)
+hcraab balance 0, lost 140 [ 9c Jc ] [ high card Ace -- Ac,Qs,Jc,9c,5d ]
+sokoban1156 balance 1420, lost 200 (folded)
+JohnLaza balance 5040, didn't bet (folded)
+TheCourier11 balance 4750, didn't bet (folded)
+fedmax555 balance 2520, bet 400, collected 940, net +540 [ 9s As ] [ a flush, Ace high -- As,Qs,9s,4s,3s ]
+
+***** Hand History for Game 5930452709 *****
+hcraab finished in 8 place.
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 08:53:03 EDT 2007
+Table Table  126586 (Real Money) -- Seat 4 is the button
+Total number of players : 7
+Seat 1: hatoka (1620)
+Seat 3: algirdass (2480)
+Seat 4: Cloakroom (2170)
+Seat 6: sokoban1156 (1420)
+Seat 7: JohnLaza (5040)
+Seat 9: TheCourier11 (4750)
+Seat 10: fedmax555 (2520)
+sokoban1156  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Th, Tc ]
+JohnLaza: finally f u c king nob
+JohnLaza folds.
+TheCourier11 folds.
+fedmax555 folds.
+hatoka raises (400) to 400
+algirdass folds.
+JohnLaza: noob
+Cloakroom folds.
+sokoban1156 calls (200)
+** Dealing Flop ** :  [ 8c, 4h, 8s ]
+sokoban1156 checks.
+hatoka bets (1220)
+hatoka is all-In.
+sokoban1156 folds.
+Creating Main Pot with $800 with hatoka
+** Summary **
+Main Pot: 800
+Board: [ 8c 4h 8s  ]
+
+hatoka balance 2020, bet 1620, collected 2020, net +400
+algirdass balance 2480, didn't bet (folded)
+Cloakroom balance 2170, didn't bet (folded)
+sokoban1156 balance 1020, lost 400 (folded)
+JohnLaza balance 5040, didn't bet (folded)
+TheCourier11 balance 4750, didn't bet (folded)
+fedmax555 balance 2520, didn't bet (folded)
+
+***** Hand History for Game 5930454102 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 08:53:40 EDT 2007
+Table Table  126586 (Real Money) -- Seat 4 is the button
+Total number of players : 7
+Seat 1: hatoka (2020)
+Seat 3: algirdass (2480)
+Seat 4: Cloakroom (2170)
+Seat 6: sokoban1156 (1020)
+Seat 7: JohnLaza (5040)
+Seat 9: TheCourier11 (4750)
+Seat 10: fedmax555 (2520)
+sokoban1156  posts small blind (200)
+JohnLaza  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 7d, Ah ]
+TheCourier11: thats not the guy who keeps going all in john
+TheCourier11 folds.
+fedmax555 folds.
+hatoka folds.
+algirdass calls (400)
+Cloakroom folds.
+sokoban1156 folds.
+JohnLaza checks.
+** Dealing Flop ** :  [ 2h, 9h, Ks ]
+JohnLaza checks.
+algirdass bets (800)
+JohnLaza raises (2080) to 2080
+algirdass folds.
+** Summary **
+Main Pot: 2600
+Board: [ 2h 9h Ks  ]
+
+hatoka balance 2020, didn't bet (folded)
+algirdass balance 1280, lost 1200 (folded)
+Cloakroom balance 2170, didn't bet (folded)
+sokoban1156 balance 820, lost 200 (folded)
+JohnLaza balance 6440, bet 2480, collected 3880, net +1400
+TheCourier11 balance 4750, didn't bet (folded)
+fedmax555 balance 2520, didn't bet (folded)
+
+***** Hand History for Game 5930457416 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 08:55:06 EDT 2007
+Table Table  126586 (Real Money) -- Seat 6 is the button
+Total number of players : 7
+Seat 1: hatoka (2020)
+Seat 3: algirdass (1280)
+Seat 4: Cloakroom (2170)
+Seat 6: sokoban1156 (820)
+Seat 7: JohnLaza (6440)
+Seat 9: TheCourier11 (4750)
+Seat 10: fedmax555 (2520)
+JohnLaza  posts small blind (200)
+TheCourier11  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 4s, 5c ]
+fedmax555 calls (400)
+hatoka folds.
+algirdass folds.
+Cloakroom folds.
+sokoban1156 folds.
+JohnLaza calls (200)
+TheCourier11 checks.
+** Dealing Flop ** :  [ 3c, 9d, 4h ]
+JohnLaza checks.
+TheCourier11 checks.
+fedmax555 bets (400)
+JohnLaza folds.
+TheCourier11 folds.
+** Summary **
+Main Pot: 1200
+Board: [ 3c 9d 4h  ]
+
+hatoka balance 2020, didn't bet (folded)
+algirdass balance 1280, didn't bet (folded)
+Cloakroom balance 2170, didn't bet (folded)
+sokoban1156 balance 820, didn't bet (folded)
+JohnLaza balance 6040, lost 400 (folded)
+TheCourier11 balance 4350, lost 400 (folded)
+fedmax555 balance 3320, bet 800, collected 1600, net +800
+
+***** Hand History for Game 5930458668 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 08:55:39 EDT 2007
+Table Table  126586 (Real Money) -- Seat 7 is the button
+Total number of players : 7
+Seat 1: hatoka (2020)
+Seat 3: algirdass (1280)
+Seat 4: Cloakroom (2170)
+Seat 6: sokoban1156 (820)
+Seat 7: JohnLaza (6040)
+Seat 9: TheCourier11 (4350)
+Seat 10: fedmax555 (3320)
+TheCourier11  posts small blind (200)
+fedmax555  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 4d, Ks ]
+hatoka folds.
+algirdass folds.
+Cloakroom folds.
+sokoban1156 folds.
+JohnLaza folds.
+TheCourier11 calls (200)
+fedmax555 checks.
+** Dealing Flop ** :  [ 9c, 8d, Ac ]
+TheCourier11 bets (400)
+fedmax555 folds.
+** Summary **
+Main Pot: 800
+Board: [ 9c 8d Ac  ]
+
+hatoka balance 2020, didn't bet (folded)
+algirdass balance 1280, didn't bet (folded)
+Cloakroom balance 2170, didn't bet (folded)
+sokoban1156 balance 820, didn't bet (folded)
+JohnLaza balance 6040, didn't bet (folded)
+TheCourier11 balance 4750, bet 800, collected 1200, net +400
+fedmax555 balance 2920, lost 400 (folded)
+
+***** Hand History for Game 5930459538 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 08:56:02 EDT 2007
+Table Table  126586 (Real Money) -- Seat 9 is the button
+Total number of players : 7
+Seat 1: hatoka (2020)
+Seat 3: algirdass (1280)
+Seat 4: Cloakroom (2170)
+Seat 6: sokoban1156 (820)
+Seat 7: JohnLaza (6040)
+Seat 9: TheCourier11 (4750)
+Seat 10: fedmax555 (2920)
+fedmax555  posts small blind (200)
+hatoka  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ Jh, Qc ]
+algirdass calls (400)
+Cloakroom folds.
+sokoban1156 folds.
+JohnLaza folds.
+TheCourier11 folds.
+fedmax555 folds.
+hatoka checks.
+** Dealing Flop ** :  [ 6h, 2s, 7d ]
+hatoka bets (1000)
+algirdass calls (880)
+algirdass is all-In.
+** Dealing Turn ** :  [ Kd ]
+** Dealing River ** :  [ 7h ]
+Creating Main Pot with $2760 with algirdass
+** Summary **
+Main Pot: 2760
+Board: [ 6h 2s 7d Kd 7h  ]
+
+hatoka balance 740, bet 1400, collected 120, lost -1280 [ Jh Qc ] [ a pair of Sevens -- Kd,Qc,Jh,7d,7h ]
+algirdass balance 2760, bet 1280, collected 2760, net +1480 [ 7s Qd ] [ three of a kind, Sevens -- Kd,Qd,7s,7d,7h ]
+Cloakroom balance 2170, didn't bet (folded)
+sokoban1156 balance 820, didn't bet (folded)
+JohnLaza balance 6040, didn't bet (folded)
+TheCourier11 balance 4750, didn't bet (folded)
+fedmax555 balance 2720, lost 200 (folded)
+
+***** Hand History for Game 5930460906 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 08:56:37 EDT 2007
+Table Table  126586 (Real Money) -- Seat 10 is the button
+Total number of players : 7
+Seat 1: hatoka (740)
+Seat 3: algirdass (2760)
+Seat 4: Cloakroom (2170)
+Seat 6: sokoban1156 (820)
+Seat 7: JohnLaza (6040)
+Seat 9: TheCourier11 (4750)
+Seat 10: fedmax555 (2720)
+hatoka  posts small blind (200)
+algirdass  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ Qs, Ac ]
+Cloakroom folds.
+sokoban1156 raises (820) to 820
+sokoban1156 is all-In.
+JohnLaza folds.
+TheCourier11 folds.
+fedmax555 folds.
+hatoka calls (540)
+hatoka is all-In.
+algirdass calls (420)
+** Dealing Flop ** :  [ Js, 9s, 8d ]
+** Dealing Turn ** :  [ 8c ]
+** Dealing River ** :  [ Kh ]
+Creating Main Pot with $2220 with hatoka
+Creating Side Pot 1 with $160 with sokoban1156
+** Summary **
+Main Pot: 2220 | Side Pot 1: 160
+Board: [ Js 9s 8d 8c Kh  ]
+
+hatoka balance 0, lost 740 [ Qs Ac ] [ a pair of Eights -- Ac,Kh,Qs,8d,8c ]
+algirdass balance 4320, bet 820, collected 2380, net +1560 [ Ks Qd ] [ two pairs, Kings and Eights -- Ks,Kh,Qd,8d,8c ]
+Cloakroom balance 2170, didn't bet (folded)
+sokoban1156 balance 0, lost 820 [ Jd Td ] [ two pairs, Jacks and Eights -- Kh,Jd,Js,8d,8c ]
+JohnLaza balance 6040, didn't bet (folded)
+TheCourier11 balance 4750, didn't bet (folded)
+fedmax555 balance 2720, didn't bet (folded)
+
+***** Hand History for Game 5930461819 *****
+hatoka finished in 7 place.
+sokoban1156 finished in 6 place.
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 08:57:00 EDT 2007
+Table Table  126586 (Real Money) -- Seat 10 is the button
+Total number of players : 5
+Seat 3: algirdass (4320)
+Seat 4: Cloakroom (2170)
+Seat 7: JohnLaza (6040)
+Seat 9: TheCourier11 (4750)
+Seat 10: fedmax555 (2720)
+algirdass  posts small blind (200)
+Cloakroom  posts big blind (400)
+** Dealing down cards **
+JohnLaza folds.
+TheCourier11 folds.
+fedmax555 folds.
+algirdass calls (200)
+Cloakroom checks.
+** Dealing Flop ** :  [ Jd, Qh, 2c ]
+algirdass checks.
+Cloakroom bets (1770)
+Cloakroom is all-In.
+algirdass folds.
+Creating Main Pot with $800 with Cloakroom
+** Summary **
+Main Pot: 800
+Board: [ Jd Qh 2c  ]
+
+algirdass balance 3920, lost 400 (folded)
+Cloakroom balance 2570, bet 2170, collected 2570, net +400
+JohnLaza balance 6040, didn't bet (folded)
+TheCourier11 balance 4750, didn't bet (folded)
+fedmax555 balance 2720, didn't bet (folded)
+
+***** Hand History for Game 5930462788 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 08:57:25 EDT 2007
+Table Table  126586 (Real Money) -- Seat 3 is the button
+Total number of players : 5
+Seat 3: algirdass (3920)
+Seat 4: Cloakroom (2570)
+Seat 7: JohnLaza (6040)
+Seat 9: TheCourier11 (4750)
+Seat 10: fedmax555 (2720)
+Cloakroom  posts small blind (200)
+JohnLaza  posts big blind (400)
+** Dealing down cards **
+TheCourier11 folds.
+fedmax555 folds.
+algirdass folds.
+Cloakroom folds.
+** Summary **
+Main Pot: 400
+
+algirdass balance 3920, didn't bet (folded)
+Cloakroom balance 2370, lost 200 (folded)
+JohnLaza balance 6240, bet 400, collected 600, net +200
+TheCourier11 balance 4750, didn't bet (folded)
+fedmax555 balance 2720, didn't bet (folded)
+
+***** Hand History for Game 5930463248 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 08:57:37 EDT 2007
+Table Table  126586 (Real Money) -- Seat 4 is the button
+Total number of players : 5
+Seat 3: algirdass (3920)
+Seat 4: Cloakroom (2370)
+Seat 7: JohnLaza (6240)
+Seat 9: TheCourier11 (4750)
+Seat 10: fedmax555 (2720)
+JohnLaza  posts small blind (200)
+TheCourier11  posts big blind (400)
+** Dealing down cards **
+fedmax555 folds.
+algirdass calls (400)
+Cloakroom folds.
+JohnLaza calls (200)
+TheCourier11 checks.
+** Dealing Flop ** :  [ 5h, Tc, 5d ]
+JohnLaza checks.
+TheCourier11 checks.
+algirdass bets (400)
+JohnLaza raises (1200) to 1200
+TheCourier11 folds.
+algirdass calls (800)
+** Dealing Turn ** :  [ Th ]
+JohnLaza bets (2320)
+algirdass calls (2320)
+algirdass is all-In.
+** Dealing River ** :  [ Js ]
+Creating Main Pot with $8240 with algirdass
+** Summary **
+Main Pot: 8240
+Board: [ 5h Tc 5d Th Js  ]
+
+algirdass balance 8240, bet 3920, collected 8240, net +4320 [ Ts Qd ] [ a full house, Tens full of Fives -- Ts,Tc,Th,5h,5d ]
+Cloakroom balance 2370, didn't bet (folded)
+JohnLaza balance 2320, lost 3920 [ Ks Jc ] [ two pairs, Jacks and Tens -- Ks,Jc,Js,Tc,Th ]
+TheCourier11 balance 4350, lost 400 (folded)
+fedmax555 balance 2720, didn't bet (folded)
+
+***** Hand History for Game 5930465164 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 08:58:29 EDT 2007
+Table Table  126586 (Real Money) -- Seat 7 is the button
+Total number of players : 5
+Seat 3: algirdass (8240)
+Seat 4: Cloakroom (2370)
+Seat 7: JohnLaza (2320)
+Seat 9: TheCourier11 (4350)
+Seat 10: fedmax555 (2720)
+TheCourier11  posts small blind (200)
+fedmax555  posts big blind (400)
+** Dealing down cards **
+algirdass folds.
+Cloakroom folds.
+JohnLaza raises (1000) to 1000
+TheCourier11 calls (800)
+fedmax555 folds.
+** Dealing Flop ** :  [ Kc, Th, 2c ]
+TheCourier11 bets (400)
+JohnLaza calls (400)
+** Dealing Turn ** :  [ 3s ]
+TheCourier11 checks.
+JohnLaza checks.
+** Dealing River ** :  [ Qs ]
+TheCourier11 checks.
+JohnLaza bets (920)
+JohnLaza is all-In.
+TheCourier11 folds.
+Creating Main Pot with $3200 with JohnLaza
+** Summary **
+Main Pot: 3200
+Board: [ Kc Th 2c 3s Qs  ]
+
+algirdass balance 8240, didn't bet (folded)
+Cloakroom balance 2370, didn't bet (folded)
+JohnLaza balance 4120, bet 2320, collected 4120, net +1800
+TheCourier11 balance 2950, lost 1400 (folded)
+fedmax555 balance 2320, lost 400 (folded)
+
+***** Hand History for Game 5930467061 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 08:59:18 EDT 2007
+Table Table  126586 (Real Money) -- Seat 9 is the button
+Total number of players : 5
+Seat 3: algirdass (8240)
+Seat 4: Cloakroom (2370)
+Seat 7: JohnLaza (4120)
+Seat 9: TheCourier11 (2950)
+Seat 10: fedmax555 (2320)
+fedmax555  posts small blind (200)
+algirdass  posts big blind (400)
+** Dealing down cards **
+Cloakroom raises (2370) to 2370
+Cloakroom is all-In.
+JohnLaza folds.
+TheCourier11 calls (2370)
+fedmax555 calls (2120)
+fedmax555 is all-In.
+algirdass folds.
+** Dealing Flop ** :  [ Tc, Qc, 8h ]
+** Dealing Turn ** :  [ 4c ]
+** Dealing River ** :  [ 3s ]
+Creating Main Pot with $7360 with fedmax555
+Creating Side Pot 1 with $100 with Cloakroom
+** Summary **
+Main Pot: 7360 | Side Pot 1: 100
+Board: [ Tc Qc 8h 4c 3s  ]
+
+algirdass balance 7840, lost 400 (folded)
+Cloakroom balance 100, bet 2370, collected 100, lost -2270 [ Ad 9c ] [ high card Ace -- Ad,Qc,Tc,9c,8h ]
+JohnLaza balance 4120, didn't bet (folded)
+TheCourier11 balance 580, lost 2370 [ Kh 6c ] [ high card King -- Kh,Qc,Tc,8h,6c ]
+fedmax555 balance 7360, bet 2320, collected 7360, net +5040 [ Kc Ks ] [ a pair of Kings -- Kc,Ks,Qc,Tc,8h ]
+
+***** Hand History for Game 5930467784 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 08:59:36 EDT 2007
+Table Table  126586 (Real Money) -- Seat 10 is the button
+Total number of players : 5
+Seat 3: algirdass (7840)
+Seat 4: Cloakroom (100)
+Seat 7: JohnLaza (4120)
+Seat 9: TheCourier11 (580)
+Seat 10: fedmax555 (7360)
+algirdass  posts small blind (200)
+Cloakroom  posts big blind (100)
+** Dealing down cards **
+JohnLaza folds.
+TheCourier11 folds.
+fedmax555 raises (1200) to 1200
+algirdass folds.
+** Dealing Flop ** :  [ 9c, 4d, 3c ]
+** Dealing Turn ** :  [ 9s ]
+** Dealing River ** :  [ Ks ]
+Creating Main Pot with $300 with Cloakroom
+** Summary **
+Main Pot: 300 | Side Pot 1: 200
+Board: [ 9c 4d 3c 9s Ks  ]
+
+algirdass balance 7640, lost 200 (folded)
+Cloakroom balance 0, lost 100 [ Th 3d ] [ two pairs, Nines and Threes -- Ks,9c,9s,3d,3c ]
+JohnLaza balance 4120, didn't bet (folded)
+TheCourier11 balance 580, didn't bet (folded)
+fedmax555 balance 7660, bet 1200, collected 1500, net +300 [ Qd Qs ] [ two pairs, Queens and Nines -- Ks,Qd,Qs,9c,9s ]
+
+***** Hand History for Game 5930468478 *****
+Cloakroom finished in 5 place.
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 08:59:55 EDT 2007
+Table Table  126586 (Real Money) -- Seat 3 is the button
+Total number of players : 4
+Seat 3: algirdass (7640)
+Seat 7: JohnLaza (4120)
+Seat 9: TheCourier11 (580)
+Seat 10: fedmax555 (7660)
+JohnLaza  posts big blind (400)
+** Dealing down cards **
+TheCourier11 folds.
+fedmax555 folds.
+algirdass calls (400)
+JohnLaza checks.
+** Dealing Flop ** :  [ 2h, Td, 2c ]
+JohnLaza checks.
+algirdass checks.
+** Dealing Turn ** :  [ 3d ]
+JohnLaza checks.
+algirdass bets (800)
+JohnLaza folds.
+** Summary **
+Main Pot: 800
+Board: [ 2h Td 2c 3d  ]
+
+algirdass balance 8040, bet 1200, collected 1600, net +400
+JohnLaza balance 3720, lost 400 (folded)
+TheCourier11 balance 580, didn't bet (folded)
+fedmax555 balance 7660, didn't bet (folded)
+
+***** Hand History for Game 5930469468 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 09:00:20 EDT 2007
+Table Table  126586 (Real Money) -- Seat 3 is the button
+Total number of players : 4
+Seat 3: algirdass (8040)
+Seat 7: JohnLaza (3720)
+Seat 9: TheCourier11 (580)
+Seat 10: fedmax555 (7660)
+JohnLaza  posts small blind (200)
+TheCourier11  posts big blind (400)
+** Dealing down cards **
+fedmax555 folds.
+algirdass calls (400)
+JohnLaza calls (200)
+TheCourier11 checks.
+** Dealing Flop ** :  [ 8h, 9s, 9h ]
+JohnLaza checks.
+TheCourier11 bets (180)
+TheCourier11 is all-In.
+algirdass calls (180)
+JohnLaza folds.
+** Dealing Turn ** :  [ 4c ]
+** Dealing River ** :  [ 8d ]
+Creating Main Pot with $1560 with TheCourier11
+** Summary **
+Main Pot: 1560
+Board: [ 8h 9s 9h 4c 8d  ]
+
+algirdass balance 9020, bet 580, collected 1560, net +980 [ Ac Th ] [ two pairs, Nines and Eights with Ace kicker -- Ac,9s,9h,8h,8d ]
+JohnLaza balance 3320, lost 400 (folded)
+TheCourier11 balance 0, lost 580 [ 5d Ts ] [ two pairs, Nines and Eights -- Ts,9s,9h,8h,8d ]
+fedmax555 balance 7660, didn't bet (folded)
+
+***** Hand History for Game 5930470658 *****
+TheCourier11 finished in 4 place.
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 09:00:52 EDT 2007
+Table Table  126586 (Real Money) -- Seat 7 is the button
+Total number of players : 3
+Seat 3: algirdass (9020)
+Seat 7: JohnLaza (3320)
+Seat 10: fedmax555 (7660)
+fedmax555  posts big blind (400)
+** Dealing down cards **
+algirdass calls (400)
+JohnLaza folds.
+fedmax555 checks.
+** Dealing Flop ** :  [ 3h, Qh, 2d ]
+fedmax555 checks.
+algirdass checks.
+** Dealing Turn ** :  [ Ah ]
+fedmax555 checks.
+algirdass checks.
+** Dealing River ** :  [ Kh ]
+fedmax555 checks.
+algirdass bets (1200)
+fedmax555 folds.
+** Summary **
+Main Pot: 800
+Board: [ 3h Qh 2d Ah Kh  ]
+
+algirdass balance 9420, bet 1600, collected 2000, net +400
+JohnLaza balance 3320, didn't bet (folded)
+fedmax555 balance 7260, lost 400 (folded)
+
+***** Hand History for Game 5930472092 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 09:01:30 EDT 2007
+Table Table  126586 (Real Money) -- Seat 7 is the button
+Total number of players : 3
+Seat 3: algirdass (9420)
+Seat 7: JohnLaza (3320)
+Seat 10: fedmax555 (7260)
+fedmax555  posts small blind (200)
+algirdass  posts big blind (400)
+** Dealing down cards **
+JohnLaza raises (1200) to 1200
+fedmax555 folds.
+algirdass calls (800)
+** Dealing Flop ** :  [ 8c, Qd, 2c ]
+algirdass checks.
+JohnLaza checks.
+** Dealing Turn ** :  [ Ks ]
+algirdass checks.
+JohnLaza checks.
+** Dealing River ** :  [ 7c ]
+algirdass bets (1200)
+JohnLaza raises (2120) to 2120
+JohnLaza is all-In.
+algirdass calls (920)
+Creating Main Pot with $6840 with JohnLaza
+** Summary **
+Main Pot: 6840
+Board: [ 8c Qd 2c Ks 7c  ]
+
+algirdass balance 6100, lost 3320 [ 4h 4c ] [ a pair of Fours -- Ks,Qd,8c,4h,4c ]
+JohnLaza balance 6840, bet 3320, collected 6840, net +3520 [ Qh Ts ] [ a pair of Queens -- Ks,Qh,Qd,Ts,8c ]
+fedmax555 balance 7060, lost 200 (folded)
+
+***** Hand History for Game 5930473821 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 09:02:14 EDT 2007
+Table Table  126586 (Real Money) -- Seat 10 is the button
+Total number of players : 3
+Seat 3: algirdass (6100)
+Seat 7: JohnLaza (6840)
+Seat 10: fedmax555 (7060)
+algirdass  posts small blind (200)
+JohnLaza  posts big blind (400)
+** Dealing down cards **
+fedmax555 folds.
+algirdass calls (200)
+JohnLaza checks.
+** Dealing Flop ** :  [ 6c, Qh, 9d ]
+algirdass checks.
+JohnLaza checks.
+** Dealing Turn ** :  [ Qs ]
+algirdass checks.
+JohnLaza bets (2000)
+algirdass folds.
+** Summary **
+Main Pot: 800
+Board: [ 6c Qh 9d Qs  ]
+
+algirdass balance 5700, lost 400 (folded)
+JohnLaza balance 7240, bet 2400, collected 2800, net +400
+fedmax555 balance 7060, didn't bet (folded)
+
+***** Hand History for Game 5930475190 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 09:02:49 EDT 2007
+Table Table  126586 (Real Money) -- Seat 3 is the button
+Total number of players : 3
+Seat 3: algirdass (5700)
+Seat 7: JohnLaza (7240)
+Seat 10: fedmax555 (7060)
+JohnLaza  posts small blind (200)
+fedmax555  posts big blind (400)
+** Dealing down cards **
+algirdass calls (400)
+JohnLaza calls (200)
+fedmax555 checks.
+** Dealing Flop ** :  [ Qs, 9s, 7s ]
+JohnLaza checks.
+fedmax555 checks.
+algirdass bets (400)
+JohnLaza folds.
+fedmax555 calls (400)
+** Dealing Turn ** :  [ 6d ]
+fedmax555 bets (400)
+algirdass calls (400)
+** Dealing River ** :  [ Ac ]
+fedmax555 bets (400)
+algirdass calls (400)
+** Summary **
+Main Pot: 3600
+Board: [ Qs 9s 7s 6d Ac  ]
+
+
+algirdass balance 4100, lost 1600 [Didn't Show]
+JohnLaza balance 6840, lost 400 (folded)
+fedmax555 balance 9060, bet 1600, collected 3600, net +2000 [ Ks 9c ] [ a pair of Nines with King kicker -- Ac,Ks,Qs,9c,9sKs(kicker card) ]
+
+***** Hand History for Game 5930476321 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 09:03:18 EDT 2007
+Table Table  126586 (Real Money) -- Seat 7 is the button
+Total number of players : 3
+Seat 3: algirdass (4100)
+Seat 7: JohnLaza (6840)
+Seat 10: fedmax555 (9060)
+fedmax555  posts small blind (200)
+algirdass  posts big blind (400)
+** Dealing down cards **
+JohnLaza folds.
+fedmax555 calls (200)
+algirdass checks.
+** Dealing Flop ** :  [ 7h, 6s, 6h ]
+fedmax555 checks.
+algirdass bets (3600)
+fedmax555 folds.
+** Summary **
+Main Pot: 800
+Board: [ 7h 6s 6h  ]
+
+algirdass balance 4500, bet 4000, collected 4400, net +400
+JohnLaza balance 6840, didn't bet (folded)
+fedmax555 balance 8660, lost 400 (folded)
+
+***** Hand History for Game 5930477489 *****
+600/1200 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 09:03:49 EDT 2007
+Table Table  126586 (Real Money) -- Seat 10 is the button
+Total number of players : 3
+Seat 3: algirdass (4500)
+Seat 7: JohnLaza (6840)
+Seat 10: fedmax555 (8660)
+algirdass  posts small blind (300)
+JohnLaza  posts big blind (600)
+** Dealing down cards **
+fedmax555 folds.
+algirdass calls (300)
+JohnLaza raises (1200) to 1800
+algirdass folds.
+** Summary **
+Main Pot: 1200
+
+algirdass balance 3900, lost 600 (folded)
+JohnLaza balance 7440, bet 1800, collected 2400, net +600
+fedmax555 balance 8660, didn't bet (folded)
+
+***** Hand History for Game 5930478067 *****
+600/1200 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 09:04:05 EDT 2007
+Table Table  126586 (Real Money) -- Seat 3 is the button
+Total number of players : 3
+Seat 3: algirdass (3900)
+Seat 7: JohnLaza (7440)
+Seat 10: fedmax555 (8660)
+JohnLaza  posts small blind (300)
+fedmax555  posts big blind (600)
+** Dealing down cards **
+algirdass calls (600)
+JohnLaza raises (2100) to 2400
+fedmax555 folds.
+algirdass folds.
+** Summary **
+Main Pot: 1800
+
+algirdass balance 3300, lost 600 (folded)
+JohnLaza balance 8640, bet 2400, collected 3600, net +1200
+fedmax555 balance 8060, lost 600 (folded)
+
+***** Hand History for Game 5930478987 *****
+600/1200 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 09:04:28 EDT 2007
+Table Table  126586 (Real Money) -- Seat 7 is the button
+Total number of players : 3
+Seat 3: algirdass (3300)
+Seat 7: JohnLaza (8640)
+Seat 10: fedmax555 (8060)
+fedmax555  posts small blind (300)
+algirdass  posts big blind (600)
+** Dealing down cards **
+JohnLaza folds.
+fedmax555 calls (300)
+algirdass checks.
+** Dealing Flop ** :  [ 2d, 3h, 2h ]
+fedmax555 checks.
+algirdass checks.
+** Dealing Turn ** :  [ Td ]
+fedmax555 checks.
+algirdass checks.
+** Dealing River ** :  [ 2c ]
+fedmax555 checks.
+algirdass checks.
+** Summary **
+Main Pot: 1200
+Board: [ 2d 3h 2h Td 2c  ]
+
+
+algirdass balance 2700, lost 600 [Didn't Show]
+JohnLaza balance 8640, didn't bet (folded)
+fedmax555 balance 8660, bet 600, collected 1200, net +600 [ Jc 9s ] [ three of a kind, Twos with Jack kicker -- Jc,Td,2d,2h,2c ]
+
+***** Hand History for Game 5930479869 *****
+600/1200 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 09:04:51 EDT 2007
+Table Table  126586 (Real Money) -- Seat 10 is the button
+Total number of players : 3
+Seat 3: algirdass (2700)
+Seat 7: JohnLaza (8640)
+Seat 10: fedmax555 (8660)
+algirdass  posts small blind (300)
+JohnLaza  posts big blind (600)
+** Dealing down cards **
+fedmax555 folds.
+algirdass calls (300)
+JohnLaza raises (2100) to 2700
+algirdass calls (2100)
+algirdass is all-In.
+** Dealing Flop ** :  [ 2c, 4h, 9h ]
+** Dealing Turn ** :  [ Jc ]
+** Dealing River ** :  [ 8s ]
+Creating Main Pot with $5400 with algirdass
+** Summary **
+Main Pot: 5400
+Board: [ 2c 4h 9h Jc 8s  ]
+
+algirdass balance 0, lost 2700 [ 8d Kd ] [ a pair of Eights -- Kd,Jc,9h,8d,8s ]
+JohnLaza balance 11340, bet 2700, collected 5400, net +2700 [ Ah 9s ] [ a pair of Nines -- Ah,Jc,9s,9h,8s ]
+fedmax555 balance 8660, didn't bet (folded)
+
+***** Hand History for Game 5930480637 *****
+algirdass finished in 3 place and won $10.
+600/1200 Tourney Texas Hold'em Game Table (NL) (Tournament 33209657)  - Wed May 02 09:05:12 EDT 2007
+Table Table  126586 (Real Money) -- Seat 7 is the button
+Total number of players : 2
+Seat 7: JohnLaza (11340)
+Seat 10: fedmax555 (8660)
+JohnLaza  posts small blind (300)
+fedmax555  posts big blind (600)
+** Dealing down cards **
+JohnLaza raises (1700) to 2000
+fedmax555 raises (8060) to 8660
+fedmax555 is all-In.
+JohnLaza calls (6660)
+** Dealing Flop ** :  [ Qs, 3s, 6c ]
+** Dealing Turn ** :  [ Ad ]
+** Dealing River ** :  [ 2s ]
+Creating Main Pot with $17320 with fedmax555
+** Summary **
+Main Pot: 17320
+Board: [ Qs 3s 6c Ad 2s  ]
+
+JohnLaza balance 20000, bet 8660, collected 17320, net +8660 [ Ac Th ] [ a pair of Aces -- Ac,Ad,Qs,Th,6c ]
+fedmax555 balance 0, lost 8660 [ 7c Kd ] [ high card Ace -- Ad,Kd,Qs,7c,6c ]
+
+
+

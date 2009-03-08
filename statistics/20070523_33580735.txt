@@ -1,0 +1,3230 @@
+
+Hello hatoka,
+These hand histories are provided to you as an aid for your training and development. You are not permitted to share them with anyone.  We reserve the right to cease providing them or apply further restrictions at any time.
+Complete hand histories are only available to players that participated in the hand.
+You requested a transcript of Tournament #33580735.
+
+Summary
+----------
+Played on    : 23 May 2007 03:04 PM
+On Table     : Table  126615
+Game Type    : Texas Holdem
+Buy-In       : $5
+Fee          : $1
+You finished in  position 3
+1st place - pauw7 -  $25
+2nd place - fooking111 -  $15
+3rd place - hatoka -  $10
+
+***** Hand History for Game 5996160295 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:04:24 EDT 2007
+Table Table  126615 (Real Money) -- Seat 10 is the button
+Total number of players : 10
+Seat 1: bg1999 (2000)
+Seat 2: Akallabo2 (2000)
+Seat 3: CaddyFFM (2000)
+Seat 4: A_Ateam (2000)
+Seat 5: pauw7 (2000)
+Seat 6: fooking111 (2000)
+Seat 7: gmp84 (2000)
+Seat 8: hatoka (2000)
+Seat 9: prawner (2000)
+Seat 10: nakedastronomer (2000)
+bg1999  posts small blind (20)
+Akallabo2  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 8c, 8h ]
+CaddyFFM folds.
+A_Ateam folds.
+pauw7 calls (40)
+fooking111 folds.
+gmp84 folds.
+hatoka raises (200) to 200
+prawner folds.
+nakedastronomer folds.
+bg1999 folds.
+Akallabo2 folds.
+pauw7 folds.
+** Summary **
+Main Pot: 140
+
+bg1999 balance 1980, lost 20 (folded)
+Akallabo2 balance 1960, lost 40 (folded)
+CaddyFFM balance 2000, didn't bet (folded)
+A_Ateam balance 2000, didn't bet (folded)
+pauw7 balance 1960, lost 40 (folded)
+fooking111 balance 2000, didn't bet (folded)
+gmp84 balance 2000, didn't bet (folded)
+hatoka balance 2100, bet 200, collected 300, net +100
+prawner balance 2000, didn't bet (folded)
+nakedastronomer balance 2000, didn't bet (folded)
+
+***** Hand History for Game 5996161704 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:04:58 EDT 2007
+Table Table  126615 (Real Money) -- Seat 1 is the button
+Total number of players : 10
+Seat 1: bg1999 (1980)
+Seat 2: Akallabo2 (1960)
+Seat 3: CaddyFFM (2000)
+Seat 4: A_Ateam (2000)
+Seat 5: pauw7 (1960)
+Seat 6: fooking111 (2000)
+Seat 7: gmp84 (2000)
+Seat 8: hatoka (2100)
+Seat 9: prawner (2000)
+Seat 10: nakedastronomer (2000)
+Akallabo2  posts small blind (20)
+CaddyFFM  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 3c, 8s ]
+A_Ateam folds.
+pauw7 calls (40)
+fooking111 folds.
+gmp84 folds.
+hatoka folds.
+prawner folds.
+nakedastronomer raises (400) to 400
+bg1999 folds.
+Akallabo2 folds.
+CaddyFFM raises (1960) to 2000
+CaddyFFM is all-In.
+pauw7 folds.
+nakedastronomer calls (1600)
+nakedastronomer is all-In.
+** Dealing Flop ** :  [ 4c, 7c, Qs ]
+** Dealing Turn ** :  [ 7h ]
+** Dealing River ** :  [ 5s ]
+Creating Main Pot with $4060 with CaddyFFM,nakedastronomer
+** Summary **
+Main Pot: 4060
+Board: [ 4c 7c Qs 7h 5s  ]
+
+bg1999 balance 1980, didn't bet (folded)
+Akallabo2 balance 1940, lost 20 (folded)
+CaddyFFM balance 4060, bet 2000, collected 4060, net +2060 [ 9s 9d ] [ two pairs, Nines and Sevens -- Qs,9s,9d,7c,7h ]
+A_Ateam balance 2000, didn't bet (folded)
+pauw7 balance 1920, lost 40 (folded)
+fooking111 balance 2000, didn't bet (folded)
+gmp84 balance 2000, didn't bet (folded)
+hatoka balance 2100, didn't bet (folded)
+prawner balance 2000, didn't bet (folded)
+nakedastronomer balance 0, lost 2000 [ 6c 6h ] [ two pairs, Sevens and Sixes -- Qs,7c,7h,6c,6h ]
+
+***** Hand History for Game 5996163573 *****
+nakedastronomer finished in 10 place.
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:05:35 EDT 2007
+Table Table  126615 (Real Money) -- Seat 2 is the button
+Total number of players : 9
+Seat 1: bg1999 (1980)
+Seat 2: Akallabo2 (1940)
+Seat 3: CaddyFFM (4060)
+Seat 4: A_Ateam (2000)
+Seat 5: pauw7 (1920)
+Seat 6: fooking111 (2000)
+Seat 7: gmp84 (2000)
+Seat 8: hatoka (2100)
+Seat 9: prawner (2000)
+CaddyFFM  posts small blind (20)
+A_Ateam  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 7d, 9s ]
+pauw7 folds.
+fooking111 folds.
+gmp84 folds.
+hatoka folds.
+prawner calls (40)
+bg1999 folds.
+Akallabo2 calls (40)
+CaddyFFM calls (20)
+A_Ateam checks.
+** Dealing Flop ** :  [ Ah, 4c, 4s ]
+CaddyFFM checks.
+A_Ateam checks.
+prawner bets (160)
+Akallabo2 folds.
+CaddyFFM folds.
+A_Ateam calls (160)
+** Dealing Turn ** :  [ Qs ]
+A_Ateam bets (200)
+prawner folds.
+** Summary **
+Main Pot: 480
+Board: [ Ah 4c 4s Qs  ]
+
+bg1999 balance 1980, didn't bet (folded)
+Akallabo2 balance 1900, lost 40 (folded)
+CaddyFFM balance 4020, lost 40 (folded)
+A_Ateam balance 2280, bet 400, collected 680, net +280
+pauw7 balance 1920, didn't bet (folded)
+fooking111 balance 2000, didn't bet (folded)
+gmp84 balance 2000, didn't bet (folded)
+hatoka balance 2100, didn't bet (folded)
+prawner balance 1800, lost 200 (folded)
+
+***** Hand History for Game 5996166786 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:06:43 EDT 2007
+Table Table  126615 (Real Money) -- Seat 3 is the button
+Total number of players : 9
+Seat 1: bg1999 (1980)
+Seat 2: Akallabo2 (1900)
+Seat 3: CaddyFFM (4020)
+Seat 4: A_Ateam (2280)
+Seat 5: pauw7 (1920)
+Seat 6: fooking111 (2000)
+Seat 7: gmp84 (2000)
+Seat 8: hatoka (2100)
+Seat 9: prawner (1800)
+A_Ateam  posts small blind (20)
+pauw7  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 8h, Kh ]
+fooking111 folds.
+gmp84 raises (240) to 240
+hatoka folds.
+prawner folds.
+bg1999 folds.
+Akallabo2 folds.
+CaddyFFM folds.
+A_Ateam folds.
+pauw7 folds.
+** Summary **
+Main Pot: 100
+
+bg1999 balance 1980, didn't bet (folded)
+Akallabo2 balance 1900, didn't bet (folded)
+CaddyFFM balance 4020, didn't bet (folded)
+A_Ateam balance 2260, lost 20 (folded)
+pauw7 balance 1880, lost 40 (folded)
+fooking111 balance 2000, didn't bet (folded)
+gmp84 balance 2060, bet 240, collected 300, net +60
+hatoka balance 2100, didn't bet (folded)
+prawner balance 1800, didn't bet (folded)
+
+***** Hand History for Game 5996167742 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:07:03 EDT 2007
+Table Table  126615 (Real Money) -- Seat 4 is the button
+Total number of players : 9
+Seat 1: bg1999 (1980)
+Seat 2: Akallabo2 (1900)
+Seat 3: CaddyFFM (4020)
+Seat 4: A_Ateam (2260)
+Seat 5: pauw7 (1880)
+Seat 6: fooking111 (2000)
+Seat 7: gmp84 (2060)
+Seat 8: hatoka (2100)
+Seat 9: prawner (1800)
+pauw7  posts small blind (20)
+fooking111  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ Kd, Tc ]
+gmp84 folds.
+hatoka folds.
+prawner folds.
+bg1999 raises (80) to 80
+Akallabo2 folds.
+CaddyFFM calls (80)
+A_Ateam folds.
+pauw7 calls (60)
+fooking111 calls (40)
+** Dealing Flop ** :  [ 6d, Kc, Js ]
+pauw7 checks.
+fooking111 checks.
+bg1999 bets (160)
+CaddyFFM folds.
+pauw7 calls (160)
+fooking111 raises (320) to 320
+bg1999 folds.
+pauw7 calls (160)
+** Dealing Turn ** :  [ Kh ]
+pauw7 checks.
+fooking111 bets (120)
+pauw7 calls (120)
+** Dealing River ** :  [ Ac ]
+pauw7 checks.
+fooking111 bets (200)
+pauw7 folds.
+** Summary **
+Main Pot: 1360
+Board: [ 6d Kc Js Kh Ac  ]
+
+bg1999 balance 1740, lost 240 (folded)
+Akallabo2 balance 1900, didn't bet (folded)
+CaddyFFM balance 3940, lost 80 (folded)
+A_Ateam balance 2260, didn't bet (folded)
+pauw7 balance 1360, lost 520 (folded)
+fooking111 balance 2840, bet 720, collected 1560, net +840 [ Ks 9d ] [ three of a kind, Kings -- Ac,Ks,Kc,Kh,Js ]
+gmp84 balance 2060, didn't bet (folded)
+hatoka balance 2100, didn't bet (folded)
+prawner balance 1800, didn't bet (folded)
+
+***** Hand History for Game 5996172194 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:08:38 EDT 2007
+Table Table  126615 (Real Money) -- Seat 5 is the button
+Total number of players : 9
+Seat 1: bg1999 (1740)
+Seat 2: Akallabo2 (1900)
+Seat 3: CaddyFFM (3940)
+Seat 4: A_Ateam (2260)
+Seat 5: pauw7 (1360)
+Seat 6: fooking111 (2840)
+Seat 7: gmp84 (2060)
+Seat 8: hatoka (2100)
+Seat 9: prawner (1800)
+fooking111  posts small blind (20)
+gmp84  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 6h, Th ]
+hatoka folds.
+prawner folds.
+bg1999 folds.
+Akallabo2 folds.
+CaddyFFM raises (80) to 80
+A_Ateam folds.
+pauw7 folds.
+fooking111 folds.
+gmp84 calls (40)
+** Dealing Flop ** :  [ Qh, 7d, Ah ]
+gmp84 checks.
+CaddyFFM bets (160)
+gmp84 folds.
+** Summary **
+Main Pot: 180
+Board: [ Qh 7d Ah  ]
+
+bg1999 balance 1740, didn't bet (folded)
+Akallabo2 balance 1900, didn't bet (folded)
+CaddyFFM balance 4040, bet 240, collected 340, net +100
+A_Ateam balance 2260, didn't bet (folded)
+pauw7 balance 1360, didn't bet (folded)
+fooking111 balance 2820, lost 20 (folded)
+gmp84 balance 1980, lost 80 (folded)
+hatoka balance 2100, didn't bet (folded)
+prawner balance 1800, didn't bet (folded)
+
+***** Hand History for Game 5996173603 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:09:07 EDT 2007
+Table Table  126615 (Real Money) -- Seat 6 is the button
+Total number of players : 9
+Seat 1: bg1999 (1740)
+Seat 2: Akallabo2 (1900)
+Seat 3: CaddyFFM (4040)
+Seat 4: A_Ateam (2260)
+Seat 5: pauw7 (1360)
+Seat 6: fooking111 (2820)
+Seat 7: gmp84 (1980)
+Seat 8: hatoka (2100)
+Seat 9: prawner (1800)
+gmp84  posts small blind (20)
+hatoka  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ Ac, 4h ]
+prawner calls (40)
+bg1999 folds.
+Akallabo2 calls (40)
+CaddyFFM folds.
+A_Ateam folds.
+pauw7 folds.
+fooking111 folds.
+gmp84 folds.
+hatoka checks.
+** Dealing Flop ** :  [ 6c, 5d, 7s ]
+hatoka bets (60)
+prawner calls (60)
+Akallabo2 folds.
+** Dealing Turn ** :  [ 6h ]
+hatoka checks.
+prawner checks.
+** Dealing River ** :  [ 2s ]
+hatoka bets (100)
+prawner calls (100)
+** Summary **
+Main Pot: 460
+Board: [ 6c 5d 7s 6h 2s  ]
+
+bg1999 balance 1740, didn't bet (folded)
+Akallabo2 balance 1860, lost 40 (folded)
+CaddyFFM balance 4040, didn't bet (folded)
+A_Ateam balance 2260, didn't bet (folded)
+pauw7 balance 1360, didn't bet (folded)
+fooking111 balance 2820, didn't bet (folded)
+gmp84 balance 1960, lost 20 (folded)
+hatoka balance 1900, lost 200 [ Ac 4h ] [ a pair of Sixes -- Ac,7s,6c,6h,5d ]
+prawner balance 2060, bet 200, collected 460, net +260 [ Ah Jc ] [ a pair of Sixes with Jack kicker -- Ah,Jc,7s,6c,6hJc(kicker card) ]
+
+***** Hand History for Game 5996177010 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:10:19 EDT 2007
+Table Table  126615 (Real Money) -- Seat 7 is the button
+Total number of players : 9
+Seat 1: bg1999 (1740)
+Seat 2: Akallabo2 (1860)
+Seat 3: CaddyFFM (4040)
+Seat 4: A_Ateam (2260)
+Seat 5: pauw7 (1360)
+Seat 6: fooking111 (2820)
+Seat 7: gmp84 (1960)
+Seat 8: hatoka (1900)
+Seat 9: prawner (2060)
+hatoka  posts small blind (20)
+prawner  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 8s, 9h ]
+bg1999 calls (40)
+Akallabo2 calls (40)
+CaddyFFM folds.
+A_Ateam folds.
+pauw7 folds.
+fooking111 folds.
+gmp84 folds.
+hatoka calls (20)
+prawner checks.
+** Dealing Flop ** :  [ 6s, 2s, 9d ]
+hatoka bets (100)
+prawner folds.
+bg1999 folds.
+Akallabo2 folds.
+** Summary **
+Main Pot: 160
+Board: [ 6s 2s 9d  ]
+
+bg1999 balance 1700, lost 40 (folded)
+Akallabo2 balance 1820, lost 40 (folded)
+CaddyFFM balance 4040, didn't bet (folded)
+A_Ateam balance 2260, didn't bet (folded)
+pauw7 balance 1360, didn't bet (folded)
+fooking111 balance 2820, didn't bet (folded)
+gmp84 balance 1960, didn't bet (folded)
+hatoka balance 2020, bet 140, collected 260, net +120
+prawner balance 2020, lost 40 (folded)
+
+***** Hand History for Game 5996180190 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:11:26 EDT 2007
+Table Table  126615 (Real Money) -- Seat 8 is the button
+Total number of players : 9
+Seat 1: bg1999 (1700)
+Seat 2: Akallabo2 (1820)
+Seat 3: CaddyFFM (4040)
+Seat 4: A_Ateam (2260)
+Seat 5: pauw7 (1360)
+Seat 6: fooking111 (2820)
+Seat 7: gmp84 (1960)
+Seat 8: hatoka (2020)
+Seat 9: prawner (2020)
+prawner  posts small blind (20)
+bg1999  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ Ks, 6d ]
+Akallabo2 folds.
+CaddyFFM folds.
+A_Ateam folds.
+pauw7 folds.
+fooking111 folds.
+gmp84 folds.
+hatoka folds.
+prawner folds.
+** Summary **
+Main Pot: 40
+
+bg1999 balance 1720, bet 40, collected 60, net +20
+Akallabo2 balance 1820, didn't bet (folded)
+CaddyFFM balance 4040, didn't bet (folded)
+A_Ateam balance 2260, didn't bet (folded)
+pauw7 balance 1360, didn't bet (folded)
+fooking111 balance 2820, didn't bet (folded)
+gmp84 balance 1960, didn't bet (folded)
+hatoka balance 2020, didn't bet (folded)
+prawner balance 2000, lost 20 (folded)
+
+***** Hand History for Game 5996180917 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:11:42 EDT 2007
+Table Table  126615 (Real Money) -- Seat 9 is the button
+Total number of players : 9
+Seat 1: bg1999 (1720)
+Seat 2: Akallabo2 (1820)
+Seat 3: CaddyFFM (4040)
+Seat 4: A_Ateam (2260)
+Seat 5: pauw7 (1360)
+Seat 6: fooking111 (2820)
+Seat 7: gmp84 (1960)
+Seat 8: hatoka (2020)
+Seat 9: prawner (2000)
+bg1999  posts small blind (20)
+Akallabo2  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 7s, Jh ]
+CaddyFFM calls (40)
+A_Ateam folds.
+pauw7 calls (40)
+fooking111 folds.
+gmp84 folds.
+hatoka folds.
+prawner calls (40)
+bg1999 calls (20)
+Akallabo2 checks.
+** Dealing Flop ** :  [ 9d, Ac, 4h ]
+bg1999 checks.
+Akallabo2 checks.
+CaddyFFM checks.
+pauw7 bets (120)
+prawner folds.
+bg1999 folds.
+Akallabo2 folds.
+CaddyFFM folds.
+** Summary **
+Main Pot: 200
+Board: [ 9d Ac 4h  ]
+
+bg1999 balance 1680, lost 40 (folded)
+Akallabo2 balance 1780, lost 40 (folded)
+CaddyFFM balance 4000, lost 40 (folded)
+A_Ateam balance 2260, didn't bet (folded)
+pauw7 balance 1520, bet 160, collected 320, net +160
+fooking111 balance 2820, didn't bet (folded)
+gmp84 balance 1960, didn't bet (folded)
+hatoka balance 2020, didn't bet (folded)
+prawner balance 1960, lost 40 (folded)
+
+***** Hand History for Game 5996182727 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:12:19 EDT 2007
+Table Table  126615 (Real Money) -- Seat 1 is the button
+Total number of players : 9
+Seat 1: bg1999 (1680)
+Seat 2: Akallabo2 (1780)
+Seat 3: CaddyFFM (4000)
+Seat 4: A_Ateam (2260)
+Seat 5: pauw7 (1520)
+Seat 6: fooking111 (2820)
+Seat 7: gmp84 (1960)
+Seat 8: hatoka (2020)
+Seat 9: prawner (1960)
+Akallabo2  posts small blind (20)
+CaddyFFM  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ Ah, 8d ]
+A_Ateam folds.
+pauw7 folds.
+fooking111 folds.
+gmp84 folds.
+hatoka raises (120) to 120
+prawner folds.
+bg1999 folds.
+Akallabo2 folds.
+CaddyFFM folds.
+** Summary **
+Main Pot: 100
+
+bg1999 balance 1680, didn't bet (folded)
+Akallabo2 balance 1760, lost 20 (folded)
+CaddyFFM balance 3960, lost 40 (folded)
+A_Ateam balance 2260, didn't bet (folded)
+pauw7 balance 1520, didn't bet (folded)
+fooking111 balance 2820, didn't bet (folded)
+gmp84 balance 1960, didn't bet (folded)
+hatoka balance 2080, bet 120, collected 180, net +60
+prawner balance 1960, didn't bet (folded)
+
+***** Hand History for Game 5996183566 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:12:36 EDT 2007
+Table Table  126615 (Real Money) -- Seat 2 is the button
+Total number of players : 9
+Seat 1: bg1999 (1680)
+Seat 2: Akallabo2 (1760)
+Seat 3: CaddyFFM (3960)
+Seat 4: A_Ateam (2260)
+Seat 5: pauw7 (1520)
+Seat 6: fooking111 (2820)
+Seat 7: gmp84 (1960)
+Seat 8: hatoka (2080)
+Seat 9: prawner (1960)
+CaddyFFM  posts small blind (20)
+A_Ateam  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 7s, Jh ]
+pauw7 folds.
+fooking111 folds.
+gmp84 folds.
+hatoka folds.
+prawner calls (40)
+bg1999 calls (40)
+Akallabo2 calls (40)
+CaddyFFM calls (20)
+A_Ateam folds.
+** Dealing Flop ** :  [ 2s, Qh, Qd ]
+CaddyFFM checks.
+prawner checks.
+bg1999 checks.
+Akallabo2 checks.
+** Dealing Turn ** :  [ 7c ]
+CaddyFFM checks.
+prawner checks.
+bg1999 bets (160)
+Akallabo2 folds.
+CaddyFFM folds.
+prawner folds.
+** Summary **
+Main Pot: 200
+Board: [ 2s Qh Qd 7c  ]
+
+bg1999 balance 1840, bet 200, collected 360, net +160
+Akallabo2 balance 1720, lost 40 (folded)
+CaddyFFM balance 3920, lost 40 (folded)
+A_Ateam balance 2220, lost 40 (folded)
+pauw7 balance 1520, didn't bet (folded)
+fooking111 balance 2820, didn't bet (folded)
+gmp84 balance 1960, didn't bet (folded)
+hatoka balance 2080, didn't bet (folded)
+prawner balance 1920, lost 40 (folded)
+
+***** Hand History for Game 5996186043 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:13:26 EDT 2007
+Table Table  126615 (Real Money) -- Seat 3 is the button
+Total number of players : 9
+Seat 1: bg1999 (1840)
+Seat 2: Akallabo2 (1720)
+Seat 3: CaddyFFM (3920)
+Seat 4: A_Ateam (2220)
+Seat 5: pauw7 (1520)
+Seat 6: fooking111 (2820)
+Seat 7: gmp84 (1960)
+Seat 8: hatoka (2080)
+Seat 9: prawner (1920)
+A_Ateam  posts small blind (20)
+pauw7  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 2h, 4d ]
+fooking111 folds.
+gmp84 folds.
+hatoka folds.
+prawner folds.
+bg1999 folds.
+Akallabo2 folds.
+CaddyFFM raises (120) to 120
+A_Ateam folds.
+pauw7 calls (80)
+** Dealing Flop ** :  [ Ad, 6s, 6h ]
+pauw7 bets (160)
+CaddyFFM folds.
+** Summary **
+Main Pot: 260
+Board: [ Ad 6s 6h  ]
+
+bg1999 balance 1840, didn't bet (folded)
+Akallabo2 balance 1720, didn't bet (folded)
+CaddyFFM balance 3800, lost 120 (folded)
+A_Ateam balance 2200, lost 20 (folded)
+pauw7 balance 1660, bet 280, collected 420, net +140
+fooking111 balance 2820, didn't bet (folded)
+gmp84 balance 1960, didn't bet (folded)
+hatoka balance 2080, didn't bet (folded)
+prawner balance 1920, didn't bet (folded)
+
+***** Hand History for Game 5996187525 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:13:58 EDT 2007
+Table Table  126615 (Real Money) -- Seat 4 is the button
+Total number of players : 9
+Seat 1: bg1999 (1840)
+Seat 2: Akallabo2 (1720)
+Seat 3: CaddyFFM (3800)
+Seat 4: A_Ateam (2200)
+Seat 5: pauw7 (1660)
+Seat 6: fooking111 (2820)
+Seat 7: gmp84 (1960)
+Seat 8: hatoka (2080)
+Seat 9: prawner (1920)
+pauw7  posts small blind (20)
+fooking111  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 6h, Qd ]
+gmp84 folds.
+hatoka folds.
+prawner folds.
+bg1999 raises (120) to 120
+Akallabo2 folds.
+CaddyFFM folds.
+A_Ateam folds.
+pauw7 folds.
+fooking111 calls (80)
+** Dealing Flop ** :  [ Js, 3d, Qh ]
+fooking111 checks.
+bg1999 bets (80)
+fooking111 calls (80)
+** Dealing Turn ** :  [ 7c ]
+fooking111 checks.
+bg1999 bets (120)
+fooking111 raises (240) to 240
+bg1999 raises (400) to 520
+fooking111 raises (560) to 800
+bg1999 raises (1120) to 1640
+bg1999 is all-In.
+fooking111 calls (840)
+** Dealing River ** :  [ Ac ]
+Creating Main Pot with $3700 with bg1999
+** Summary **
+Main Pot: 3700
+Board: [ Js 3d Qh 7c Ac  ]
+
+bg1999 balance 0, lost 1840 [ Ks Kd ] [ a pair of Kings -- Ac,Ks,Kd,Qh,Js ]
+Akallabo2 balance 1720, didn't bet (folded)
+CaddyFFM balance 3800, didn't bet (folded)
+A_Ateam balance 2200, didn't bet (folded)
+pauw7 balance 1640, lost 20 (folded)
+fooking111 balance 4680, bet 1840, collected 3700, net +1860 [ Qs Jh ] [ two pairs, Queens and Jacks -- Ac,Qs,Qh,Jh,Js ]
+gmp84 balance 1960, didn't bet (folded)
+hatoka balance 2080, didn't bet (folded)
+prawner balance 1920, didn't bet (folded)
+
+***** Hand History for Game 5996190885 *****
+bg1999 finished in 9 place.
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:15:09 EDT 2007
+Table Table  126615 (Real Money) -- Seat 5 is the button
+Total number of players : 8
+Seat 2: Akallabo2 (1720)
+Seat 3: CaddyFFM (3800)
+Seat 4: A_Ateam (2200)
+Seat 5: pauw7 (1640)
+Seat 6: fooking111 (4680)
+Seat 7: gmp84 (1960)
+Seat 8: hatoka (2080)
+Seat 9: prawner (1920)
+fooking111  posts small blind (30)
+gmp84  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 5d, 6h ]
+hatoka folds.
+prawner folds.
+Akallabo2 raises (120) to 120
+CaddyFFM folds.
+A_Ateam folds.
+pauw7 folds.
+fooking111 folds.
+gmp84 calls (60)
+** Dealing Flop ** :  [ 3h, Qc, 2s ]
+gmp84 checks.
+Akallabo2 bets (120)
+gmp84 folds.
+** Summary **
+Main Pot: 270
+Board: [ 3h Qc 2s  ]
+
+Akallabo2 balance 1870, bet 240, collected 390, net +150
+CaddyFFM balance 3800, didn't bet (folded)
+A_Ateam balance 2200, didn't bet (folded)
+pauw7 balance 1640, didn't bet (folded)
+fooking111 balance 4650, lost 30 (folded)
+gmp84 balance 1840, lost 120 (folded)
+hatoka balance 2080, didn't bet (folded)
+prawner balance 1920, didn't bet (folded)
+
+***** Hand History for Game 5996192368 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:15:40 EDT 2007
+Table Table  126615 (Real Money) -- Seat 6 is the button
+Total number of players : 8
+Seat 2: Akallabo2 (1870)
+Seat 3: CaddyFFM (3800)
+Seat 4: A_Ateam (2200)
+Seat 5: pauw7 (1640)
+Seat 6: fooking111 (4650)
+Seat 7: gmp84 (1840)
+Seat 8: hatoka (2080)
+Seat 9: prawner (1920)
+gmp84  posts small blind (30)
+hatoka  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 9c, Td ]
+prawner folds.
+Akallabo2 folds.
+CaddyFFM folds.
+A_Ateam folds.
+pauw7 raises (240) to 240
+fooking111 folds.
+gmp84 folds.
+hatoka folds.
+** Summary **
+Main Pot: 150
+
+Akallabo2 balance 1870, didn't bet (folded)
+CaddyFFM balance 3800, didn't bet (folded)
+A_Ateam balance 2200, didn't bet (folded)
+pauw7 balance 1730, bet 240, collected 330, net +90
+fooking111 balance 4650, didn't bet (folded)
+gmp84 balance 1810, lost 30 (folded)
+hatoka balance 2020, lost 60 (folded)
+prawner balance 1920, didn't bet (folded)
+
+***** Hand History for Game 5996193607 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:16:06 EDT 2007
+Table Table  126615 (Real Money) -- Seat 7 is the button
+Total number of players : 8
+Seat 2: Akallabo2 (1870)
+Seat 3: CaddyFFM (3800)
+Seat 4: A_Ateam (2200)
+Seat 5: pauw7 (1730)
+Seat 6: fooking111 (4650)
+Seat 7: gmp84 (1810)
+Seat 8: hatoka (2020)
+Seat 9: prawner (1920)
+hatoka  posts small blind (30)
+prawner  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Qc, Kc ]
+Akallabo2 folds.
+CaddyFFM folds.
+A_Ateam folds.
+pauw7 folds.
+fooking111 folds.
+gmp84 folds.
+hatoka raises (90) to 120
+prawner calls (60)
+** Dealing Flop ** :  [ Jh, 7c, 2s ]
+hatoka bets (200)
+prawner folds.
+** Summary **
+Main Pot: 240
+Board: [ Jh 7c 2s  ]
+
+Akallabo2 balance 1870, didn't bet (folded)
+CaddyFFM balance 3800, didn't bet (folded)
+A_Ateam balance 2200, didn't bet (folded)
+pauw7 balance 1730, didn't bet (folded)
+fooking111 balance 4650, didn't bet (folded)
+gmp84 balance 1810, didn't bet (folded)
+hatoka balance 2140, bet 320, collected 440, net +120
+prawner balance 1800, lost 120 (folded)
+
+***** Hand History for Game 5996195150 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:16:38 EDT 2007
+Table Table  126615 (Real Money) -- Seat 8 is the button
+Total number of players : 8
+Seat 2: Akallabo2 (1870)
+Seat 3: CaddyFFM (3800)
+Seat 4: A_Ateam (2200)
+Seat 5: pauw7 (1730)
+Seat 6: fooking111 (4650)
+Seat 7: gmp84 (1810)
+Seat 8: hatoka (2140)
+Seat 9: prawner (1800)
+prawner  posts small blind (30)
+Akallabo2  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 9h, Ac ]
+CaddyFFM folds.
+A_Ateam folds.
+pauw7 calls (60)
+fooking111 folds.
+gmp84 folds.
+hatoka raises (240) to 240
+prawner folds.
+Akallabo2 folds.
+pauw7 calls (180)
+** Dealing Flop ** :  [ 4c, Kd, 8h ]
+pauw7 bets (120)
+hatoka folds.
+** Summary **
+Main Pot: 570
+Board: [ 4c Kd 8h  ]
+
+Akallabo2 balance 1810, lost 60 (folded)
+CaddyFFM balance 3800, didn't bet (folded)
+A_Ateam balance 2200, didn't bet (folded)
+pauw7 balance 2060, bet 360, collected 690, net +330
+fooking111 balance 4650, didn't bet (folded)
+gmp84 balance 1810, didn't bet (folded)
+hatoka balance 1900, lost 240 (folded)
+prawner balance 1770, lost 30 (folded)
+
+***** Hand History for Game 5996197247 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:17:22 EDT 2007
+Table Table  126615 (Real Money) -- Seat 9 is the button
+Total number of players : 8
+Seat 2: Akallabo2 (1810)
+Seat 3: CaddyFFM (3800)
+Seat 4: A_Ateam (2200)
+Seat 5: pauw7 (2060)
+Seat 6: fooking111 (4650)
+Seat 7: gmp84 (1810)
+Seat 8: hatoka (1900)
+Seat 9: prawner (1770)
+Akallabo2  posts small blind (30)
+CaddyFFM  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 6s, 3d ]
+A_Ateam folds.
+pauw7 calls (60)
+fooking111 folds.
+gmp84 folds.
+hatoka folds.
+prawner calls (60)
+Akallabo2 calls (30)
+CaddyFFM checks.
+** Dealing Flop ** :  [ 5d, 6c, 3h ]
+Akallabo2 bets (120)
+CaddyFFM folds.
+pauw7 folds.
+prawner folds.
+** Summary **
+Main Pot: 240
+Board: [ 5d 6c 3h  ]
+
+Akallabo2 balance 1990, bet 180, collected 360, net +180
+CaddyFFM balance 3740, lost 60 (folded)
+A_Ateam balance 2200, didn't bet (folded)
+pauw7 balance 2000, lost 60 (folded)
+fooking111 balance 4650, didn't bet (folded)
+gmp84 balance 1810, didn't bet (folded)
+hatoka balance 1900, didn't bet (folded)
+prawner balance 1710, lost 60 (folded)
+
+***** Hand History for Game 5996198761 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:17:53 EDT 2007
+Table Table  126615 (Real Money) -- Seat 2 is the button
+Total number of players : 8
+Seat 2: Akallabo2 (1990)
+Seat 3: CaddyFFM (3740)
+Seat 4: A_Ateam (2200)
+Seat 5: pauw7 (2000)
+Seat 6: fooking111 (4650)
+Seat 7: gmp84 (1810)
+Seat 8: hatoka (1900)
+Seat 9: prawner (1710)
+CaddyFFM  posts small blind (30)
+A_Ateam  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 6s, 7s ]
+pauw7 calls (60)
+fooking111 folds.
+gmp84 folds.
+hatoka calls (60)
+prawner calls (60)
+Akallabo2 folds.
+CaddyFFM calls (30)
+A_Ateam checks.
+** Dealing Flop ** :  [ 4d, 6d, Ad ]
+CaddyFFM checks.
+A_Ateam checks.
+pauw7 bets (240)
+hatoka folds.
+prawner calls (240)
+CaddyFFM folds.
+A_Ateam folds.
+** Dealing Turn ** :  [ 2h ]
+pauw7 bets (240)
+prawner calls (240)
+** Dealing River ** :  [ 9c ]
+pauw7 bets (240)
+prawner folds.
+** Summary **
+Main Pot: 1260
+Board: [ 4d 6d Ad 2h 9c  ]
+
+Akallabo2 balance 1990, didn't bet (folded)
+CaddyFFM balance 3680, lost 60 (folded)
+A_Ateam balance 2140, lost 60 (folded)
+pauw7 balance 2720, bet 780, collected 1500, net +720
+fooking111 balance 4650, didn't bet (folded)
+gmp84 balance 1810, didn't bet (folded)
+hatoka balance 1840, lost 60 (folded)
+prawner balance 1170, lost 540 (folded)
+
+***** Hand History for Game 5996201352 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:18:47 EDT 2007
+Table Table  126615 (Real Money) -- Seat 3 is the button
+Total number of players : 8
+Seat 2: Akallabo2 (1990)
+Seat 3: CaddyFFM (3680)
+Seat 4: A_Ateam (2140)
+Seat 5: pauw7 (2720)
+Seat 6: fooking111 (4650)
+Seat 7: gmp84 (1810)
+Seat 8: hatoka (1840)
+Seat 9: prawner (1170)
+A_Ateam  posts small blind (30)
+pauw7  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 6h, Ah ]
+fooking111 raises (120) to 120
+gmp84 folds.
+hatoka calls (120)
+prawner folds.
+Akallabo2 calls (120)
+CaddyFFM folds.
+A_Ateam folds.
+pauw7 calls (60)
+** Dealing Flop ** :  [ 8s, As, 4c ]
+pauw7 checks.
+fooking111 bets (60)
+hatoka raises (200) to 200
+Akallabo2 raises (480) to 480
+pauw7 folds.
+fooking111 folds.
+hatoka calls (280)
+** Dealing Turn ** :  [ 8h ]
+hatoka checks.
+Akallabo2 bets (420)
+hatoka folds.
+** Summary **
+Main Pot: 1530
+Board: [ 8s As 4c 8h  ]
+
+Akallabo2 balance 2920, bet 1020, collected 1950, net +930
+CaddyFFM balance 3680, didn't bet (folded)
+A_Ateam balance 2110, lost 30 (folded)
+pauw7 balance 2600, lost 120 (folded)
+fooking111 balance 4470, lost 180 (folded)
+gmp84 balance 1810, didn't bet (folded)
+hatoka balance 1240, lost 600 (folded)
+prawner balance 1170, didn't bet (folded)
+
+***** Hand History for Game 5996204042 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:19:42 EDT 2007
+Table Table  126615 (Real Money) -- Seat 4 is the button
+Total number of players : 8
+Seat 2: Akallabo2 (2920)
+Seat 3: CaddyFFM (3680)
+Seat 4: A_Ateam (2110)
+Seat 5: pauw7 (2600)
+Seat 6: fooking111 (4470)
+Seat 7: gmp84 (1810)
+Seat 8: hatoka (1240)
+Seat 9: prawner (1170)
+pauw7  posts small blind (30)
+fooking111  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 4h, Qh ]
+gmp84 folds.
+hatoka folds.
+prawner folds.
+Akallabo2 folds.
+CaddyFFM folds.
+A_Ateam folds.
+pauw7 calls (30)
+fooking111 checks.
+** Dealing Flop ** :  [ 2d, Td, Tc ]
+pauw7 checks.
+fooking111 bets (180)
+pauw7 folds.
+** Summary **
+Main Pot: 120
+Board: [ 2d Td Tc  ]
+
+Akallabo2 balance 2920, didn't bet (folded)
+CaddyFFM balance 3680, didn't bet (folded)
+A_Ateam balance 2110, didn't bet (folded)
+pauw7 balance 2540, lost 60 (folded)
+fooking111 balance 4530, bet 240, collected 300, net +60
+gmp84 balance 1810, didn't bet (folded)
+hatoka balance 1240, didn't bet (folded)
+prawner balance 1170, didn't bet (folded)
+
+***** Hand History for Game 5996205290 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:20:08 EDT 2007
+Table Table  126615 (Real Money) -- Seat 5 is the button
+Total number of players : 8
+Seat 2: Akallabo2 (2920)
+Seat 3: CaddyFFM (3680)
+Seat 4: A_Ateam (2110)
+Seat 5: pauw7 (2540)
+Seat 6: fooking111 (4530)
+Seat 7: gmp84 (1810)
+Seat 8: hatoka (1240)
+Seat 9: prawner (1170)
+fooking111  posts small blind (30)
+gmp84  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Tc, 8h ]
+hatoka folds.
+prawner folds.
+Akallabo2 folds.
+CaddyFFM folds.
+A_Ateam folds.
+pauw7 calls (60)
+fooking111 calls (30)
+gmp84 checks.
+** Dealing Flop ** :  [ 7d, 7c, 4c ]
+fooking111 checks.
+gmp84 checks.
+pauw7 bets (180)
+fooking111 folds.
+gmp84 raises (360) to 360
+pauw7 folds.
+** Summary **
+Main Pot: 540
+Board: [ 7d 7c 4c  ]
+
+Akallabo2 balance 2920, didn't bet (folded)
+CaddyFFM balance 3680, didn't bet (folded)
+A_Ateam balance 2110, didn't bet (folded)
+pauw7 balance 2300, lost 240 (folded)
+fooking111 balance 4470, lost 60 (folded)
+gmp84 balance 2110, bet 420, collected 720, net +300
+hatoka balance 1240, didn't bet (folded)
+prawner balance 1170, didn't bet (folded)
+
+***** Hand History for Game 5996207700 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:20:59 EDT 2007
+Table Table  126615 (Real Money) -- Seat 6 is the button
+Total number of players : 8
+Seat 2: Akallabo2 (2920)
+Seat 3: CaddyFFM (3680)
+Seat 4: A_Ateam (2110)
+Seat 5: pauw7 (2300)
+Seat 6: fooking111 (4470)
+Seat 7: gmp84 (2110)
+Seat 8: hatoka (1240)
+Seat 9: prawner (1170)
+gmp84  posts small blind (30)
+hatoka  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 4s, 9c ]
+prawner folds.
+Akallabo2 folds.
+CaddyFFM folds.
+A_Ateam folds.
+pauw7 folds.
+fooking111 folds.
+gmp84 folds.
+** Summary **
+Main Pot: 60
+
+Akallabo2 balance 2920, didn't bet (folded)
+CaddyFFM balance 3680, didn't bet (folded)
+A_Ateam balance 2110, didn't bet (folded)
+pauw7 balance 2300, didn't bet (folded)
+fooking111 balance 4470, didn't bet (folded)
+gmp84 balance 2080, lost 30 (folded)
+hatoka balance 1270, bet 60, collected 90, net +30
+prawner balance 1170, didn't bet (folded)
+
+***** Hand History for Game 5996208100 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:21:07 EDT 2007
+Table Table  126615 (Real Money) -- Seat 7 is the button
+Total number of players : 8
+Seat 2: Akallabo2 (2920)
+Seat 3: CaddyFFM (3680)
+Seat 4: A_Ateam (2110)
+Seat 5: pauw7 (2300)
+Seat 6: fooking111 (4470)
+Seat 7: gmp84 (2080)
+Seat 8: hatoka (1270)
+Seat 9: prawner (1170)
+hatoka  posts small blind (30)
+prawner  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Ac, Td ]
+Akallabo2 folds.
+CaddyFFM folds.
+A_Ateam folds.
+pauw7 calls (60)
+fooking111 folds.
+gmp84 folds.
+hatoka raises (90) to 120
+prawner calls (60)
+pauw7 calls (60)
+** Dealing Flop ** :  [ 9c, 7d, 3h ]
+hatoka checks.
+prawner bets (1050)
+prawner is all-In.
+pauw7 folds.
+hatoka folds.
+Creating Main Pot with $360 with prawner
+** Summary **
+Main Pot: 360
+Board: [ 9c 7d 3h  ]
+
+Akallabo2 balance 2920, didn't bet (folded)
+CaddyFFM balance 3680, didn't bet (folded)
+A_Ateam balance 2110, didn't bet (folded)
+pauw7 balance 2180, lost 120 (folded)
+fooking111 balance 4470, didn't bet (folded)
+gmp84 balance 2080, didn't bet (folded)
+hatoka balance 1150, lost 120 (folded)
+prawner balance 1410, bet 1170, collected 1410, net +240
+
+***** Hand History for Game 5996210123 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:21:50 EDT 2007
+Table Table  126615 (Real Money) -- Seat 8 is the button
+Total number of players : 8
+Seat 2: Akallabo2 (2920)
+Seat 3: CaddyFFM (3680)
+Seat 4: A_Ateam (2110)
+Seat 5: pauw7 (2180)
+Seat 6: fooking111 (4470)
+Seat 7: gmp84 (2080)
+Seat 8: hatoka (1150)
+Seat 9: prawner (1410)
+prawner  posts small blind (30)
+Akallabo2  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 5h, 3s ]
+CaddyFFM raises (120) to 120
+A_Ateam folds.
+pauw7 folds.
+fooking111 folds.
+gmp84 folds.
+hatoka folds.
+prawner calls (90)
+Akallabo2 folds.
+** Dealing Flop ** :  [ 7s, 8h, 4h ]
+prawner checks.
+CaddyFFM checks.
+** Dealing Turn ** :  [ 8d ]
+prawner checks.
+CaddyFFM bets (180)
+prawner raises (1290) to 1290
+prawner is all-In.
+CaddyFFM folds.
+Creating Main Pot with $660 with prawner
+** Summary **
+Main Pot: 660
+Board: [ 7s 8h 4h 8d  ]
+
+Akallabo2 balance 2860, lost 60 (folded)
+CaddyFFM balance 3380, lost 300 (folded)
+A_Ateam balance 2110, didn't bet (folded)
+pauw7 balance 2180, didn't bet (folded)
+fooking111 balance 4470, didn't bet (folded)
+gmp84 balance 2080, didn't bet (folded)
+hatoka balance 1150, didn't bet (folded)
+prawner balance 1770, bet 1410, collected 1770, net +360
+
+***** Hand History for Game 5996211958 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:22:31 EDT 2007
+Table Table  126615 (Real Money) -- Seat 9 is the button
+Total number of players : 8
+Seat 2: Akallabo2 (2860)
+Seat 3: CaddyFFM (3380)
+Seat 4: A_Ateam (2110)
+Seat 5: pauw7 (2180)
+Seat 6: fooking111 (4470)
+Seat 7: gmp84 (2080)
+Seat 8: hatoka (1150)
+Seat 9: prawner (1770)
+Akallabo2  posts small blind (30)
+CaddyFFM  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 9c, 3c ]
+A_Ateam folds.
+pauw7 folds.
+fooking111 folds.
+gmp84 folds.
+hatoka folds.
+prawner folds.
+Akallabo2 raises (330) to 360
+CaddyFFM calls (300)
+** Dealing Flop ** :  [ 2s, 9d, 9s ]
+Akallabo2 checks.
+CaddyFFM checks.
+** Dealing Turn ** :  [ 3d ]
+Akallabo2 bets (360)
+CaddyFFM folds.
+** Summary **
+Main Pot: 720
+Board: [ 2s 9d 9s 3d  ]
+
+Akallabo2 balance 3220, bet 720, collected 1080, net +360
+CaddyFFM balance 3020, lost 360 (folded)
+A_Ateam balance 2110, didn't bet (folded)
+pauw7 balance 2180, didn't bet (folded)
+fooking111 balance 4470, didn't bet (folded)
+gmp84 balance 2080, didn't bet (folded)
+hatoka balance 1150, didn't bet (folded)
+prawner balance 1770, didn't bet (folded)
+
+***** Hand History for Game 5996213523 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:23:04 EDT 2007
+Table Table  126615 (Real Money) -- Seat 2 is the button
+Total number of players : 8
+Seat 2: Akallabo2 (3220)
+Seat 3: CaddyFFM (3020)
+Seat 4: A_Ateam (2110)
+Seat 5: pauw7 (2180)
+Seat 6: fooking111 (4470)
+Seat 7: gmp84 (2080)
+Seat 8: hatoka (1150)
+Seat 9: prawner (1770)
+CaddyFFM  posts small blind (30)
+A_Ateam  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Jh, 4d ]
+pauw7 folds.
+fooking111 folds.
+gmp84 folds.
+hatoka folds.
+prawner folds.
+Akallabo2 folds.
+CaddyFFM raises (90) to 120
+A_Ateam folds.
+** Summary **
+Main Pot: 120
+
+Akallabo2 balance 3220, didn't bet (folded)
+CaddyFFM balance 3080, bet 120, collected 180, net +60
+A_Ateam balance 2050, lost 60 (folded)
+pauw7 balance 2180, didn't bet (folded)
+fooking111 balance 4470, didn't bet (folded)
+gmp84 balance 2080, didn't bet (folded)
+hatoka balance 1150, didn't bet (folded)
+prawner balance 1770, didn't bet (folded)
+
+***** Hand History for Game 5996214310 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:23:20 EDT 2007
+Table Table  126615 (Real Money) -- Seat 3 is the button
+Total number of players : 8
+Seat 2: Akallabo2 (3220)
+Seat 3: CaddyFFM (3080)
+Seat 4: A_Ateam (2050)
+Seat 5: pauw7 (2180)
+Seat 6: fooking111 (4470)
+Seat 7: gmp84 (2080)
+Seat 8: hatoka (1150)
+Seat 9: prawner (1770)
+A_Ateam  posts small blind (30)
+pauw7  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 8h, 4h ]
+fooking111 folds.
+gmp84 folds.
+hatoka folds.
+prawner folds.
+Akallabo2 calls (60)
+CaddyFFM folds.
+A_Ateam raises (90) to 120
+pauw7 raises (120) to 180
+Akallabo2 folds.
+A_Ateam raises (1930) to 2050
+A_Ateam is all-In.
+pauw7 calls (1870)
+** Dealing Flop ** :  [ 8d, Jd, 2d ]
+** Dealing Turn ** :  [ 4s ]
+** Dealing River ** :  [ 3d ]
+Creating Main Pot with $4160 with A_Ateam
+** Summary **
+Main Pot: 4160
+Board: [ 8d Jd 2d 4s 3d  ]
+
+Akallabo2 balance 3160, lost 60 (folded)
+CaddyFFM balance 3080, didn't bet (folded)
+A_Ateam balance 0, lost 2050 [ As Ah ] [ a pair of Aces -- As,Ah,Jd,8d,4s ]
+pauw7 balance 4290, bet 2050, collected 4160, net +2110 [ 7d 7c ] [ a flush, Jack high -- Jd,8d,7d,3d,2d ]
+fooking111 balance 4470, didn't bet (folded)
+gmp84 balance 2080, didn't bet (folded)
+hatoka balance 1150, didn't bet (folded)
+prawner balance 1770, didn't bet (folded)
+
+***** Hand History for Game 5996216114 *****
+A_Ateam finished in 8 place.
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:23:59 EDT 2007
+Table Table  126615 (Real Money) -- Seat 3 is the button
+Total number of players : 7
+Seat 2: Akallabo2 (3160)
+Seat 3: CaddyFFM (3080)
+Seat 5: pauw7 (4290)
+Seat 6: fooking111 (4470)
+Seat 7: gmp84 (2080)
+Seat 8: hatoka (1150)
+Seat 9: prawner (1770)
+pauw7  posts small blind (30)
+fooking111  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Qh, 3s ]
+gmp84 folds.
+hatoka folds.
+Akallabo2: ouch...
+prawner calls (60)
+Akallabo2 folds.
+CaddyFFM folds.
+pauw7 folds.
+fooking111 checks.
+** Dealing Flop ** :  [ 3h, 8s, Kh ]
+fooking111 bets (60)
+prawner calls (60)
+** Dealing Turn ** :  [ 2s ]
+fooking111 bets (120)
+prawner calls (120)
+** Dealing River ** :  [ Kc ]
+fooking111 bets (180)
+prawner folds.
+** Summary **
+Main Pot: 510
+Board: [ 3h 8s Kh 2s Kc  ]
+
+Akallabo2 balance 3160, didn't bet (folded)
+CaddyFFM balance 3080, didn't bet (folded)
+pauw7 balance 4260, lost 30 (folded)
+fooking111 balance 4740, bet 420, collected 690, net +270
+gmp84 balance 2080, didn't bet (folded)
+hatoka balance 1150, didn't bet (folded)
+prawner balance 1530, lost 240 (folded)
+
+***** Hand History for Game 5996218393 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:24:48 EDT 2007
+Table Table  126615 (Real Money) -- Seat 5 is the button
+Total number of players : 7
+Seat 2: Akallabo2 (3160)
+Seat 3: CaddyFFM (3080)
+Seat 5: pauw7 (4260)
+Seat 6: fooking111 (4740)
+Seat 7: gmp84 (2080)
+Seat 8: hatoka (1150)
+Seat 9: prawner (1530)
+fooking111  posts small blind (30)
+gmp84  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Kh, Qc ]
+hatoka raises (120) to 120
+prawner folds.
+Akallabo2 calls (120)
+CaddyFFM folds.
+pauw7 folds.
+fooking111 folds.
+gmp84 calls (60)
+** Dealing Flop ** :  [ Kc, 9h, 9s ]
+gmp84 checks.
+hatoka bets (500)
+Akallabo2 folds.
+gmp84 folds.
+** Summary **
+Main Pot: 390
+Board: [ Kc 9h 9s  ]
+
+Akallabo2 balance 3040, lost 120 (folded)
+CaddyFFM balance 3080, didn't bet (folded)
+pauw7 balance 4260, didn't bet (folded)
+fooking111 balance 4710, lost 30 (folded)
+gmp84 balance 1960, lost 120 (folded)
+hatoka balance 1420, bet 620, collected 890, net +270
+prawner balance 1530, didn't bet (folded)
+
+***** Hand History for Game 5996220389 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:25:30 EDT 2007
+Table Table  126615 (Real Money) -- Seat 6 is the button
+Total number of players : 7
+Seat 2: Akallabo2 (3040)
+Seat 3: CaddyFFM (3080)
+Seat 5: pauw7 (4260)
+Seat 6: fooking111 (4710)
+Seat 7: gmp84 (1960)
+Seat 8: hatoka (1420)
+Seat 9: prawner (1530)
+gmp84  posts small blind (50)
+hatoka  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 2d, Js ]
+prawner folds.
+Akallabo2 folds.
+CaddyFFM folds.
+pauw7 raises (200) to 200
+fooking111 folds.
+gmp84 folds.
+hatoka folds.
+** Summary **
+Main Pot: 250
+
+Akallabo2 balance 3040, didn't bet (folded)
+CaddyFFM balance 3080, didn't bet (folded)
+pauw7 balance 4410, bet 200, collected 350, net +150
+fooking111 balance 4710, didn't bet (folded)
+gmp84 balance 1910, lost 50 (folded)
+hatoka balance 1320, lost 100 (folded)
+prawner balance 1530, didn't bet (folded)
+
+***** Hand History for Game 5996221037 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:25:44 EDT 2007
+Table Table  126615 (Real Money) -- Seat 7 is the button
+Total number of players : 7
+Seat 2: Akallabo2 (3040)
+Seat 3: CaddyFFM (3080)
+Seat 5: pauw7 (4410)
+Seat 6: fooking111 (4710)
+Seat 7: gmp84 (1910)
+Seat 8: hatoka (1320)
+Seat 9: prawner (1530)
+hatoka  posts small blind (50)
+prawner  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Th, 3d ]
+Akallabo2 folds.
+CaddyFFM folds.
+pauw7 folds.
+fooking111 folds.
+gmp84 folds.
+hatoka raises (150) to 200
+prawner raises (1430) to 1530
+prawner is all-In.
+hatoka folds.
+Creating Main Pot with $400 with prawner
+** Summary **
+Main Pot: 400
+
+Akallabo2 balance 3040, didn't bet (folded)
+CaddyFFM balance 3080, didn't bet (folded)
+pauw7 balance 4410, didn't bet (folded)
+fooking111 balance 4710, didn't bet (folded)
+gmp84 balance 1910, didn't bet (folded)
+hatoka balance 1120, lost 200 (folded)
+prawner balance 1730, bet 1530, collected 1730, net +200
+
+***** Hand History for Game 5996222044 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:26:04 EDT 2007
+Table Table  126615 (Real Money) -- Seat 8 is the button
+Total number of players : 7
+Seat 2: Akallabo2 (3040)
+Seat 3: CaddyFFM (3080)
+Seat 5: pauw7 (4410)
+Seat 6: fooking111 (4710)
+Seat 7: gmp84 (1910)
+Seat 8: hatoka (1120)
+Seat 9: prawner (1730)
+prawner  posts small blind (50)
+Akallabo2  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 3s, Kd ]
+CaddyFFM folds.
+pauw7 folds.
+fooking111 folds.
+gmp84 calls (100)
+hatoka folds.
+prawner calls (50)
+Akallabo2 checks.
+** Dealing Flop ** :  [ Kc, 4s, Qc ]
+prawner checks.
+Akallabo2 checks.
+gmp84 bets (300)
+prawner folds.
+Akallabo2 raises (700) to 700
+gmp84 calls (400)
+** Dealing Turn ** :  [ 4d ]
+Akallabo2 bets (700)
+gmp84 calls (700)
+** Dealing River ** :  [ 5s ]
+Akallabo2 checks.
+gmp84 checks.
+** Summary **
+Main Pot: 3100
+Board: [ Kc 4s Qc 4d 5s  ]
+
+Akallabo2 balance 4640, bet 1500, collected 3100, net +1600 [ Ks Ts ] [ two pairs, Kings and Fours -- Ks,Kc,Qc,4s,4d ]
+CaddyFFM balance 3080, didn't bet (folded)
+pauw7 balance 4410, didn't bet (folded)
+fooking111 balance 4710, didn't bet (folded)
+gmp84 balance 410, lost 1500 [ 3c Ac ] [ a pair of Fours -- Ac,Kc,Qc,4s,4d ]
+
+hatoka balance 1120, didn't bet (folded)
+prawner balance 1630, lost 100 (folded)
+
+***** Hand History for Game 5996224363 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:26:51 EDT 2007
+Table Table  126615 (Real Money) -- Seat 9 is the button
+Total number of players : 7
+Seat 2: Akallabo2 (4640)
+Seat 3: CaddyFFM (3080)
+Seat 5: pauw7 (4410)
+Seat 6: fooking111 (4710)
+Seat 7: gmp84 (410)
+Seat 8: hatoka (1120)
+Seat 9: prawner (1630)
+Akallabo2  posts small blind (50)
+CaddyFFM  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Kd, Ts ]
+pauw7 folds.
+fooking111 folds.
+gmp84 folds.
+hatoka raises (200) to 200
+prawner folds.
+Akallabo2 folds.
+CaddyFFM folds.
+** Summary **
+Main Pot: 250
+
+Akallabo2 balance 4590, lost 50 (folded)
+CaddyFFM balance 2980, lost 100 (folded)
+pauw7 balance 4410, didn't bet (folded)
+fooking111 balance 4710, didn't bet (folded)
+gmp84 balance 410, didn't bet (folded)
+hatoka balance 1270, bet 200, collected 350, net +150
+prawner balance 1630, didn't bet (folded)
+
+***** Hand History for Game 5996225131 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:27:08 EDT 2007
+Table Table  126615 (Real Money) -- Seat 2 is the button
+Total number of players : 7
+Seat 2: Akallabo2 (4590)
+Seat 3: CaddyFFM (2980)
+Seat 5: pauw7 (4410)
+Seat 6: fooking111 (4710)
+Seat 7: gmp84 (410)
+Seat 8: hatoka (1270)
+Seat 9: prawner (1630)
+CaddyFFM  posts small blind (50)
+pauw7  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Jc, Kc ]
+fooking111 folds.
+gmp84 raises (410) to 410
+gmp84 is all-In.
+hatoka calls (410)
+prawner folds.
+Akallabo2 folds.
+CaddyFFM raises (2930) to 2980
+CaddyFFM is all-In.
+pauw7 folds.
+hatoka calls (860)
+hatoka is all-In.
+** Dealing Flop ** :  [ 6d, 5s, Qc ]
+** Dealing Turn ** :  [ 3h ]
+** Dealing River ** :  [ Kh ]
+Creating Main Pot with $1330 with gmp84
+Creating Side Pot 1 with $1720 with hatoka
+** Summary **
+Main Pot: 1330 | Side Pot 1: 1720
+Board: [ 6d 5s Qc 3h Kh  ]
+
+Akallabo2 balance 4590, didn't bet (folded)
+CaddyFFM balance 1710, bet 2980, collected 1710, lost -1270 [ 8d 8h ] [ a pair of Eights -- Kh,Qc,8d,8h,6d ]
+pauw7 balance 4310, lost 100 (folded)
+fooking111 balance 4710, didn't bet (folded)
+gmp84 balance 0, lost 410 [ Tc Td ] [ a pair of Tens -- Kh,Qc,Tc,Td,6d ]
+hatoka balance 3050, bet 1270, collected 3050, net +1780 [ Jc Kc ] [ a pair of Kings -- Kc,Kh,Qc,Jc,6d ]
+prawner balance 1630, didn't bet (folded)
+
+***** Hand History for Game 5996226836 *****
+gmp84 finished in 7 place.
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:27:45 EDT 2007
+Table Table  126615 (Real Money) -- Seat 3 is the button
+Total number of players : 6
+Seat 2: Akallabo2 (4590)
+Seat 3: CaddyFFM (1710)
+Seat 5: pauw7 (4310)
+Seat 6: fooking111 (4710)
+Seat 8: hatoka (3050)
+Seat 9: prawner (1630)
+pauw7  posts small blind (50)
+fooking111  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Qc, Th ]
+hatoka folds.
+prawner folds.
+Akallabo2 raises (300) to 300
+CaddyFFM folds.
+pauw7 folds.
+fooking111 calls (200)
+** Dealing Flop ** :  [ 5c, 3c, Jh ]
+fooking111 bets (200)
+Akallabo2 calls (200)
+** Dealing Turn ** :  [ 3d ]
+fooking111 bets (300)
+Akallabo2 folds.
+** Summary **
+Main Pot: 1050
+Board: [ 5c 3c Jh 3d  ]
+
+Akallabo2 balance 4090, lost 500 (folded)
+CaddyFFM balance 1710, didn't bet (folded)
+pauw7 balance 4260, lost 50 (folded)
+fooking111 balance 5260, bet 800, collected 1350, net +550 [ Kc Jc ] [ two pairs, Jacks and Threes -- Kc,Jc,Jh,3c,3d ]
+hatoka balance 3050, didn't bet (folded)
+prawner balance 1630, didn't bet (folded)
+
+***** Hand History for Game 5996228891 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:28:27 EDT 2007
+Table Table  126615 (Real Money) -- Seat 5 is the button
+Total number of players : 6
+Seat 2: Akallabo2 (4090)
+Seat 3: CaddyFFM (1710)
+Seat 5: pauw7 (4260)
+Seat 6: fooking111 (5260)
+Seat 8: hatoka (3050)
+Seat 9: prawner (1630)
+fooking111  posts small blind (50)
+hatoka  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 3d, Td ]
+Akallabo2: nh
+prawner folds.
+Akallabo2 folds.
+CaddyFFM folds.
+pauw7 folds.
+fooking111 calls (50)
+hatoka checks.
+** Dealing Flop ** :  [ 9s, Kd, 3c ]
+fooking111 checks.
+hatoka bets (100)
+fooking111 folds.
+** Summary **
+Main Pot: 200
+Board: [ 9s Kd 3c  ]
+
+Akallabo2 balance 4090, didn't bet (folded)
+CaddyFFM balance 1710, didn't bet (folded)
+pauw7 balance 4260, didn't bet (folded)
+fooking111 balance 5160, lost 100 (folded)
+hatoka balance 3150, bet 200, collected 300, net +100
+prawner balance 1630, didn't bet (folded)
+
+***** Hand History for Game 5996230000 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:28:51 EDT 2007
+Table Table  126615 (Real Money) -- Seat 6 is the button
+Total number of players : 6
+Seat 2: Akallabo2 (4090)
+Seat 3: CaddyFFM (1710)
+Seat 5: pauw7 (4260)
+Seat 6: fooking111 (5160)
+Seat 8: hatoka (3150)
+Seat 9: prawner (1630)
+hatoka  posts small blind (50)
+prawner  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 3s, 2d ]
+Akallabo2 folds.
+CaddyFFM folds.
+pauw7 folds.
+fooking111 raises (300) to 300
+hatoka folds.
+prawner calls (200)
+** Dealing Flop ** :  [ 7d, 6c, Jd ]
+prawner checks.
+fooking111 bets (200)
+prawner raises (1330) to 1330
+prawner is all-In.
+fooking111 calls (1130)
+** Dealing Turn ** :  [ Ac ]
+** Dealing River ** :  [ Th ]
+Creating Main Pot with $3310 with prawner
+** Summary **
+Main Pot: 3310
+Board: [ 7d 6c Jd Ac Th  ]
+
+Akallabo2 balance 4090, didn't bet (folded)
+CaddyFFM balance 1710, didn't bet (folded)
+pauw7 balance 4260, didn't bet (folded)
+fooking111 balance 3530, lost 1630 [ Kc Ks ] [ a pair of Kings -- Ac,Kc,Ks,Jd,Th ]
+hatoka balance 3100, lost 50 (folded)
+prawner balance 3310, bet 1630, collected 3310, net +1680 [ Kd Qd ] [ a straight Ten to Ace -- Ac,Kd,Qd,Jd,Th ]
+
+***** Hand History for Game 5996231692 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:29:26 EDT 2007
+Table Table  126615 (Real Money) -- Seat 8 is the button
+Total number of players : 6
+Seat 2: Akallabo2 (4090)
+Seat 3: CaddyFFM (1710)
+Seat 5: pauw7 (4260)
+Seat 6: fooking111 (3530)
+Seat 8: hatoka (3100)
+Seat 9: prawner (3310)
+prawner  posts small blind (50)
+Akallabo2  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Js, 2d ]
+CaddyFFM raises (200) to 200
+pauw7 folds.
+fooking111 folds.
+hatoka folds.
+prawner folds.
+Akallabo2 calls (100)
+** Dealing Flop ** :  [ Ts, 3s, Jd ]
+Akallabo2 bets (200)
+CaddyFFM raises (1510) to 1510
+CaddyFFM is all-In.
+Akallabo2 calls (1310)
+** Dealing Turn ** :  [ 2c ]
+** Dealing River ** :  [ 3d ]
+Creating Main Pot with $3470 with CaddyFFM
+** Summary **
+Main Pot: 3470
+Board: [ Ts 3s Jd 2c 3d  ]
+
+Akallabo2 balance 5850, bet 1710, collected 3470, net +1760 [ Tc 7h ] [ two pairs, Tens and Threes -- Jd,Tc,Ts,3s,3d ]
+CaddyFFM balance 0, lost 1710 [ Kc Qs ] [ a pair of Threes -- Kc,Qs,Jd,3s,3d ]
+pauw7 balance 4260, didn't bet (folded)
+fooking111 balance 3530, didn't bet (folded)
+hatoka balance 3100, didn't bet (folded)
+prawner balance 3260, lost 50 (folded)
+
+***** Hand History for Game 5996233194 *****
+CaddyFFM finished in 6 place.
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:29:59 EDT 2007
+Table Table  126615 (Real Money) -- Seat 9 is the button
+Total number of players : 5
+Seat 2: Akallabo2 (5850)
+Seat 5: pauw7 (4260)
+Seat 6: fooking111 (3530)
+Seat 8: hatoka (3100)
+Seat 9: prawner (3260)
+Akallabo2  posts small blind (50)
+pauw7  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Ac, Jh ]
+fooking111 calls (100)
+hatoka raises (300) to 300
+prawner folds.
+Akallabo2 raises (450) to 500
+pauw7 folds.
+fooking111 calls (400)
+hatoka calls (200)
+** Dealing Flop ** :  [ As, 8s, Td ]
+Akallabo2 checks.
+fooking111 bets (500)
+hatoka calls (500)
+Akallabo2 folds.
+** Dealing Turn ** :  [ Th ]
+fooking111 bets (500)
+hatoka calls (500)
+** Dealing River ** :  [ Kh ]
+fooking111 bets (500)
+hatoka calls (500)
+** Summary **
+Main Pot: 4600
+Board: [ As 8s Td Th Kh  ]
+
+Akallabo2 balance 5350, lost 500 (folded)
+pauw7 balance 4160, lost 100 (folded)
+fooking111 balance 3830, bet 2000, collected 2300, net +300 [ Ah 5h ] [ two pairs, Aces and Tens -- Ah,As,Kh,Td,Th ]
+hatoka balance 3400, bet 2000, collected 2300, net +300 [ Ac Jh ] [ two pairs, Aces and Tens -- Ac,As,Kh,Td,Th ]
+prawner balance 3260, didn't bet (folded)
+
+***** Hand History for Game 5996235795 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:30:52 EDT 2007
+Table Table  126615 (Real Money) -- Seat 2 is the button
+Total number of players : 5
+Seat 2: Akallabo2 (5350)
+Seat 5: pauw7 (4160)
+Seat 6: fooking111 (3830)
+Seat 8: hatoka (3400)
+Seat 9: prawner (3260)
+pauw7  posts small blind (50)
+fooking111  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Jc, Qh ]
+hatoka raises (300) to 300
+prawner folds.
+Akallabo2 folds.
+pauw7 calls (250)
+fooking111 folds.
+** Dealing Flop ** :  [ 3h, 8d, As ]
+pauw7 checks.
+hatoka checks.
+** Dealing Turn ** :  [ 3s ]
+pauw7 bets (100)
+hatoka calls (100)
+** Dealing River ** :  [ Tc ]
+pauw7 checks.
+hatoka checks.
+** Summary **
+Main Pot: 900
+Board: [ 3h 8d As 3s Tc  ]
+
+Akallabo2 balance 5350, didn't bet (folded)
+pauw7 balance 4660, bet 400, collected 900, net +500 [ Jd Ks ] [ a pair of Threes with King kicker -- As,Ks,Jd,3h,3sKs(kicker card) ]
+fooking111 balance 3730, lost 100 (folded)
+hatoka balance 3000, lost 400 [ Jc Qh ] [ a pair of Threes -- As,Qh,Jc,3h,3s ]
+
+prawner balance 3260, didn't bet (folded)
+
+***** Hand History for Game 5996237474 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:31:27 EDT 2007
+Table Table  126615 (Real Money) -- Seat 5 is the button
+Total number of players : 5
+Seat 2: Akallabo2 (5350)
+Seat 5: pauw7 (4660)
+Seat 6: fooking111 (3730)
+Seat 8: hatoka (3000)
+Seat 9: prawner (3260)
+fooking111  posts small blind (50)
+hatoka  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Ks, 7c ]
+prawner folds.
+Akallabo2 folds.
+pauw7 raises (300) to 300
+fooking111 folds.
+hatoka folds.
+** Summary **
+Main Pot: 250
+
+Akallabo2 balance 5350, didn't bet (folded)
+pauw7 balance 4810, bet 300, collected 450, net +150
+fooking111 balance 3680, lost 50 (folded)
+hatoka balance 2900, lost 100 (folded)
+prawner balance 3260, didn't bet (folded)
+
+***** Hand History for Game 5996238148 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:31:42 EDT 2007
+Table Table  126615 (Real Money) -- Seat 6 is the button
+Total number of players : 5
+Seat 2: Akallabo2 (5350)
+Seat 5: pauw7 (4810)
+Seat 6: fooking111 (3680)
+Seat 8: hatoka (2900)
+Seat 9: prawner (3260)
+hatoka  posts small blind (50)
+prawner  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Kd, 5c ]
+Akallabo2 calls (100)
+pauw7 folds.
+fooking111 folds.
+hatoka calls (50)
+prawner checks.
+** Dealing Flop ** :  [ 9s, 7c, Js ]
+hatoka checks.
+prawner checks.
+Akallabo2 checks.
+** Dealing Turn ** :  [ 2h ]
+hatoka bets (300)
+prawner folds.
+Akallabo2 calls (300)
+** Dealing River ** :  [ Jc ]
+hatoka checks.
+Akallabo2 checks.
+** Summary **
+Main Pot: 900
+Board: [ 9s 7c Js 2h Jc  ]
+
+Akallabo2 balance 4950, lost 400 [ Td Qh ] [ a pair of Jacks -- Qh,Js,Jc,Td,9s ]
+
+pauw7 balance 4810, didn't bet (folded)
+fooking111 balance 3680, didn't bet (folded)
+hatoka balance 3400, bet 400, collected 900, net +500 [ Kd 5c ] [ a pair of Jacks with King kicker -- Kd,Js,Jc,9s,7cKd(kicker card) ]
+prawner balance 3160, lost 100 (folded)
+
+***** Hand History for Game 5996241272 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:32:48 EDT 2007
+Table Table  126615 (Real Money) -- Seat 8 is the button
+Total number of players : 5
+Seat 2: Akallabo2 (4950)
+Seat 5: pauw7 (4810)
+Seat 6: fooking111 (3680)
+Seat 8: hatoka (3400)
+Seat 9: prawner (3160)
+prawner  posts small blind (50)
+Akallabo2  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 8c, Jh ]
+pauw7 folds.
+fooking111 folds.
+hatoka folds.
+prawner folds.
+** Summary **
+Main Pot: 100
+
+Akallabo2 balance 5000, bet 100, collected 150, net +50
+pauw7 balance 4810, didn't bet (folded)
+fooking111 balance 3680, didn't bet (folded)
+hatoka balance 3400, didn't bet (folded)
+prawner balance 3110, lost 50 (folded)
+
+***** Hand History for Game 5996242038 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:33:03 EDT 2007
+Table Table  126615 (Real Money) -- Seat 9 is the button
+Total number of players : 5
+Seat 2: Akallabo2 (5000)
+Seat 5: pauw7 (4810)
+Seat 6: fooking111 (3680)
+Seat 8: hatoka (3400)
+Seat 9: prawner (3110)
+Akallabo2  posts small blind (50)
+pauw7  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Qs, Ad ]
+fooking111 folds.
+hatoka raises (400) to 400
+prawner folds.
+Akallabo2 folds.
+pauw7 folds.
+** Summary **
+Main Pot: 250
+
+Akallabo2 balance 4950, lost 50 (folded)
+pauw7 balance 4710, lost 100 (folded)
+fooking111 balance 3680, didn't bet (folded)
+hatoka balance 3550, bet 400, collected 550, net +150
+prawner balance 3110, didn't bet (folded)
+
+***** Hand History for Game 5996242797 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:33:18 EDT 2007
+Table Table  126615 (Real Money) -- Seat 2 is the button
+Total number of players : 5
+Seat 2: Akallabo2 (4950)
+Seat 5: pauw7 (4710)
+Seat 6: fooking111 (3680)
+Seat 8: hatoka (3550)
+Seat 9: prawner (3110)
+pauw7  posts small blind (50)
+fooking111  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 8h, Jd ]
+hatoka folds.
+prawner raises (400) to 400
+Akallabo2 folds.
+pauw7 folds.
+fooking111 folds.
+** Summary **
+Main Pot: 250
+
+Akallabo2 balance 4950, didn't bet (folded)
+pauw7 balance 4660, lost 50 (folded)
+fooking111 balance 3580, lost 100 (folded)
+hatoka balance 3550, didn't bet (folded)
+prawner balance 3260, bet 400, collected 550, net +150
+
+***** Hand History for Game 5996243500 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:33:33 EDT 2007
+Table Table  126615 (Real Money) -- Seat 5 is the button
+Total number of players : 5
+Seat 2: Akallabo2 (4950)
+Seat 5: pauw7 (4660)
+Seat 6: fooking111 (3580)
+Seat 8: hatoka (3550)
+Seat 9: prawner (3260)
+fooking111  posts small blind (50)
+hatoka  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Js, Qh ]
+prawner folds.
+Akallabo2 folds.
+pauw7 folds.
+fooking111 calls (50)
+hatoka raises (100) to 200
+fooking111 calls (100)
+** Dealing Flop ** :  [ 7d, Ks, 2d ]
+fooking111 checks.
+hatoka bets (200)
+fooking111 folds.
+** Summary **
+Main Pot: 400
+Board: [ 7d Ks 2d  ]
+
+Akallabo2 balance 4950, didn't bet (folded)
+pauw7 balance 4660, didn't bet (folded)
+fooking111 balance 3380, lost 200 (folded)
+hatoka balance 3750, bet 400, collected 600, net +200
+prawner balance 3260, didn't bet (folded)
+
+***** Hand History for Game 5996244785 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:34:00 EDT 2007
+Table Table  126615 (Real Money) -- Seat 6 is the button
+Total number of players : 5
+Seat 2: Akallabo2 (4950)
+Seat 5: pauw7 (4660)
+Seat 6: fooking111 (3380)
+Seat 8: hatoka (3750)
+Seat 9: prawner (3260)
+hatoka  posts small blind (50)
+prawner  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 2d, Qs ]
+Akallabo2 folds.
+pauw7 folds.
+fooking111 folds.
+hatoka calls (50)
+prawner checks.
+** Dealing Flop ** :  [ 4c, As, 9d ]
+hatoka bets (100)
+prawner calls (100)
+** Dealing Turn ** :  [ 3d ]
+hatoka checks.
+prawner checks.
+** Dealing River ** :  [ 6s ]
+hatoka checks.
+prawner bets (400)
+hatoka folds.
+** Summary **
+Main Pot: 400
+Board: [ 4c As 9d 3d 6s  ]
+
+Akallabo2 balance 4950, didn't bet (folded)
+pauw7 balance 4660, didn't bet (folded)
+fooking111 balance 3380, didn't bet (folded)
+hatoka balance 3550, lost 200 (folded)
+prawner balance 3460, bet 600, collected 800, net +200
+
+***** Hand History for Game 5996246938 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:34:46 EDT 2007
+Table Table  126615 (Real Money) -- Seat 8 is the button
+Total number of players : 5
+Seat 2: Akallabo2 (4950)
+Seat 5: pauw7 (4660)
+Seat 6: fooking111 (3380)
+Seat 8: hatoka (3550)
+Seat 9: prawner (3460)
+prawner  posts small blind (50)
+Akallabo2  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 4h, 3d ]
+pauw7 folds.
+fooking111 folds.
+hatoka folds.
+prawner calls (50)
+Akallabo2 raises (200) to 300
+prawner folds.
+** Summary **
+Main Pot: 200
+
+Akallabo2 balance 5050, bet 300, collected 400, net +100
+pauw7 balance 4660, didn't bet (folded)
+fooking111 balance 3380, didn't bet (folded)
+hatoka balance 3550, didn't bet (folded)
+prawner balance 3360, lost 100 (folded)
+
+***** Hand History for Game 5996248047 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:35:09 EDT 2007
+Table Table  126615 (Real Money) -- Seat 9 is the button
+Total number of players : 5
+Seat 2: Akallabo2 (5050)
+Seat 5: pauw7 (4660)
+Seat 6: fooking111 (3380)
+Seat 8: hatoka (3550)
+Seat 9: prawner (3360)
+Akallabo2  posts small blind (50)
+pauw7  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 4c, Tc ]
+fooking111 folds.
+hatoka calls (100)
+prawner folds.
+Akallabo2 calls (50)
+pauw7 checks.
+** Dealing Flop ** :  [ 8h, 6c, 9s ]
+Akallabo2 checks.
+pauw7 checks.
+hatoka bets (100)
+Akallabo2 folds.
+pauw7 folds.
+** Summary **
+Main Pot: 300
+Board: [ 8h 6c 9s  ]
+
+Akallabo2 balance 4950, lost 100 (folded)
+pauw7 balance 4560, lost 100 (folded)
+fooking111 balance 3380, didn't bet (folded)
+hatoka balance 3750, bet 200, collected 400, net +200
+prawner balance 3360, didn't bet (folded)
+
+***** Hand History for Game 5996249912 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:35:47 EDT 2007
+Table Table  126615 (Real Money) -- Seat 2 is the button
+Total number of players : 5
+Seat 2: Akallabo2 (4950)
+Seat 5: pauw7 (4560)
+Seat 6: fooking111 (3380)
+Seat 8: hatoka (3750)
+Seat 9: prawner (3360)
+pauw7  posts small blind (100)
+fooking111  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 5h, 9s ]
+hatoka folds.
+prawner folds.
+Akallabo2 raises (600) to 600
+pauw7 raises (900) to 1000
+fooking111 folds.
+Akallabo2 calls (400)
+** Dealing Flop ** :  [ 8c, Th, 2d ]
+pauw7 bets (600)
+Akallabo2 folds.
+** Summary **
+Main Pot: 2200
+Board: [ 8c Th 2d  ]
+
+Akallabo2 balance 3950, lost 1000 (folded)
+pauw7 balance 5760, bet 1600, collected 2800, net +1200
+fooking111 balance 3180, lost 200 (folded)
+hatoka balance 3750, didn't bet (folded)
+prawner balance 3360, didn't bet (folded)
+
+***** Hand History for Game 5996251267 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:36:16 EDT 2007
+Table Table  126615 (Real Money) -- Seat 5 is the button
+Total number of players : 5
+Seat 2: Akallabo2 (3950)
+Seat 5: pauw7 (5760)
+Seat 6: fooking111 (3180)
+Seat 8: hatoka (3750)
+Seat 9: prawner (3360)
+fooking111  posts small blind (100)
+hatoka  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ As, Js ]
+prawner folds.
+Akallabo2 raises (400) to 400
+pauw7 raises (600) to 600
+fooking111 folds.
+hatoka calls (400)
+Akallabo2 raises (1400) to 1800
+pauw7 folds.
+hatoka calls (1200)
+** Dealing Flop ** :  [ 5h, 5s, 6d ]
+hatoka checks.
+Akallabo2 bets (2150)
+Akallabo2 is all-In.
+hatoka folds.
+Creating Main Pot with $4300 with Akallabo2
+** Summary **
+Main Pot: 4300
+Board: [ 5h 5s 6d  ]
+
+Akallabo2 balance 6450, bet 3950, collected 6450, net +2500
+pauw7 balance 5160, lost 600 (folded)
+fooking111 balance 3080, lost 100 (folded)
+hatoka balance 1950, lost 1800 (folded)
+prawner balance 3360, didn't bet (folded)
+
+***** Hand History for Game 5996253607 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:37:05 EDT 2007
+Table Table  126615 (Real Money) -- Seat 6 is the button
+Total number of players : 5
+Seat 2: Akallabo2 (6450)
+Seat 5: pauw7 (5160)
+Seat 6: fooking111 (3080)
+Seat 8: hatoka (1950)
+Seat 9: prawner (3360)
+hatoka  posts small blind (100)
+prawner  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 9c, 5d ]
+Akallabo2 raises (400) to 400
+pauw7 folds.
+fooking111 calls (400)
+hatoka folds.
+prawner folds.
+** Dealing Flop ** :  [ 8d, Kd, 9s ]
+Akallabo2 bets (200)
+fooking111 calls (200)
+** Dealing Turn ** :  [ Jd ]
+Akallabo2 bets (1200)
+fooking111 calls (1200)
+** Dealing River ** :  [ Kc ]
+Akallabo2 checks.
+fooking111 bets (1280)
+fooking111 is all-In.
+Akallabo2 calls (1280)
+Creating Main Pot with $6460 with fooking111
+** Summary **
+Main Pot: 6460
+Board: [ 8d Kd 9s Jd Kc  ]
+
+Akallabo2 balance 3370, lost 3080 [ Ac Ah ] [ two pairs, Aces and Kings -- Ac,Ah,Kd,Kc,Jd ]
+pauw7 balance 5160, didn't bet (folded)
+fooking111 balance 6460, bet 3080, collected 6460, net +3380 [ Ad 4d ] [ a flush, Ace high -- Ad,Kd,Jd,8d,4d ]
+hatoka balance 1850, lost 100 (folded)
+prawner balance 3160, lost 200 (folded)
+
+***** Hand History for Game 5996255930 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:37:52 EDT 2007
+Table Table  126615 (Real Money) -- Seat 8 is the button
+Total number of players : 5
+Seat 2: Akallabo2 (3370)
+Seat 5: pauw7 (5160)
+Seat 6: fooking111 (6460)
+Seat 8: hatoka (1850)
+Seat 9: prawner (3160)
+prawner  posts small blind (100)
+Akallabo2  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 5h, Qc ]
+pauw7 folds.
+fooking111 folds.
+hatoka folds.
+prawner folds.
+** Summary **
+Main Pot: 200
+
+Akallabo2 balance 3470, bet 200, collected 300, net +100
+pauw7 balance 5160, didn't bet (folded)
+fooking111 balance 6460, didn't bet (folded)
+hatoka balance 1850, didn't bet (folded)
+prawner balance 3060, lost 100 (folded)
+
+***** Hand History for Game 5996256475 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:38:04 EDT 2007
+Table Table  126615 (Real Money) -- Seat 9 is the button
+Total number of players : 5
+Seat 2: Akallabo2 (3470)
+Seat 5: pauw7 (5160)
+Seat 6: fooking111 (6460)
+Seat 8: hatoka (1850)
+Seat 9: prawner (3060)
+Akallabo2  posts small blind (100)
+pauw7  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 8d, Ts ]
+fooking111 raises (600) to 600
+hatoka folds.
+prawner folds.
+Akallabo2 folds.
+pauw7 folds.
+** Summary **
+Main Pot: 500
+
+Akallabo2 balance 3370, lost 100 (folded)
+pauw7 balance 4960, lost 200 (folded)
+fooking111 balance 6760, bet 600, collected 900, net +300 [ Kc As ] [ high card Ace -- As,Kc ]
+hatoka balance 1850, didn't bet (folded)
+prawner balance 3060, didn't bet (folded)
+
+***** Hand History for Game 5996257212 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:38:20 EDT 2007
+Table Table  126615 (Real Money) -- Seat 2 is the button
+Total number of players : 5
+Seat 2: Akallabo2 (3370)
+Seat 5: pauw7 (4960)
+Seat 6: fooking111 (6760)
+Seat 8: hatoka (1850)
+Seat 9: prawner (3060)
+pauw7  posts small blind (100)
+fooking111  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 5h, 5d ]
+hatoka raises (600) to 600
+prawner folds.
+Akallabo2 folds.
+pauw7 folds.
+fooking111 folds.
+** Summary **
+Main Pot: 500
+
+Akallabo2 balance 3370, didn't bet (folded)
+pauw7 balance 4860, lost 100 (folded)
+fooking111 balance 6560, lost 200 (folded)
+hatoka balance 2150, bet 600, collected 900, net +300
+prawner balance 3060, didn't bet (folded)
+
+***** Hand History for Game 5996258278 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:38:41 EDT 2007
+Table Table  126615 (Real Money) -- Seat 5 is the button
+Total number of players : 5
+Seat 2: Akallabo2 (3370)
+Seat 5: pauw7 (4860)
+Seat 6: fooking111 (6560)
+Seat 8: hatoka (2150)
+Seat 9: prawner (3060)
+fooking111  posts small blind (100)
+hatoka  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Jh, Tc ]
+prawner raises (3060) to 3060
+prawner is all-In.
+Akallabo2 folds.
+pauw7 folds.
+fooking111 folds.
+hatoka folds.
+Creating Main Pot with $500 with prawner
+** Summary **
+Main Pot: 500
+
+Akallabo2 balance 3370, didn't bet (folded)
+pauw7 balance 4860, didn't bet (folded)
+fooking111 balance 6460, lost 100 (folded)
+hatoka balance 1950, lost 200 (folded)
+prawner balance 3360, bet 3060, collected 3360, net +300
+
+***** Hand History for Game 5996259071 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:38:58 EDT 2007
+Table Table  126615 (Real Money) -- Seat 6 is the button
+Total number of players : 5
+Seat 2: Akallabo2 (3370)
+Seat 5: pauw7 (4860)
+Seat 6: fooking111 (6460)
+Seat 8: hatoka (1950)
+Seat 9: prawner (3360)
+hatoka  posts small blind (100)
+prawner  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 6h, 4h ]
+Akallabo2 folds.
+pauw7 folds.
+fooking111 calls (200)
+hatoka folds.
+prawner raises (3160) to 3360
+prawner is all-In.
+fooking111 folds.
+Creating Main Pot with $500 with prawner
+** Summary **
+Main Pot: 500
+
+Akallabo2 balance 3370, didn't bet (folded)
+pauw7 balance 4860, didn't bet (folded)
+fooking111 balance 6260, lost 200 (folded)
+hatoka balance 1850, lost 100 (folded)
+prawner balance 3660, bet 3360, collected 3660, net +300
+
+***** Hand History for Game 5996260029 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:39:19 EDT 2007
+Table Table  126615 (Real Money) -- Seat 8 is the button
+Total number of players : 5
+Seat 2: Akallabo2 (3370)
+Seat 5: pauw7 (4860)
+Seat 6: fooking111 (6260)
+Seat 8: hatoka (1850)
+Seat 9: prawner (3660)
+prawner  posts small blind (100)
+Akallabo2  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Jd, Jc ]
+pauw7 folds.
+fooking111 folds.
+hatoka raises (500) to 500
+prawner raises (3560) to 3660
+prawner is all-In.
+Akallabo2 folds.
+hatoka calls (1350)
+hatoka is all-In.
+** Dealing Flop ** :  [ Ks, 8s, 7d ]
+** Dealing Turn ** :  [ 6d ]
+** Dealing River ** :  [ 8d ]
+Creating Main Pot with $3900 with hatoka
+** Summary **
+Main Pot: 3900
+Board: [ Ks 8s 7d 6d 8d  ]
+
+Akallabo2 balance 3170, lost 200 (folded)
+pauw7 balance 4860, didn't bet (folded)
+fooking111 balance 6260, didn't bet (folded)
+hatoka balance 3900, bet 1850, collected 3900, net +2050 [ Jd Jc ] [ two pairs, Jacks and Eights -- Ks,Jd,Jc,8s,8d ]
+prawner balance 1810, bet 3660, collected 1810, lost -1850 [ Ah Qd ] [ a pair of Eights -- Ah,Ks,Qd,8s,8d ]
+
+***** Hand History for Game 5996261438 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:39:49 EDT 2007
+Table Table  126615 (Real Money) -- Seat 9 is the button
+Total number of players : 5
+Seat 2: Akallabo2 (3170)
+Seat 5: pauw7 (4860)
+Seat 6: fooking111 (6260)
+Seat 8: hatoka (3900)
+Seat 9: prawner (1810)
+Akallabo2  posts small blind (100)
+pauw7  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Ts, Js ]
+fooking111 folds.
+hatoka calls (200)
+prawner folds.
+Akallabo2 calls (100)
+pauw7 checks.
+** Dealing Flop ** :  [ Jh, 4c, Ac ]
+Akallabo2 checks.
+pauw7 checks.
+hatoka bets (600)
+Akallabo2 folds.
+pauw7 folds.
+** Summary **
+Main Pot: 600
+Board: [ Jh 4c Ac  ]
+
+Akallabo2 balance 2970, lost 200 (folded)
+pauw7 balance 4660, lost 200 (folded)
+fooking111 balance 6260, didn't bet (folded)
+hatoka balance 4300, bet 800, collected 1200, net +400
+prawner balance 1810, didn't bet (folded)
+
+***** Hand History for Game 5996262727 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:40:14 EDT 2007
+Table Table  126615 (Real Money) -- Seat 2 is the button
+Total number of players : 5
+Seat 2: Akallabo2 (2970)
+Seat 5: pauw7 (4660)
+Seat 6: fooking111 (6260)
+Seat 8: hatoka (4300)
+Seat 9: prawner (1810)
+pauw7  posts small blind (100)
+fooking111  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Ad, 7s ]
+hatoka raises (400) to 400
+prawner folds.
+Akallabo2 raises (800) to 800
+pauw7 folds.
+fooking111 folds.
+hatoka calls (400)
+** Dealing Flop ** :  [ 8s, Jh, 5h ]
+hatoka checks.
+Akallabo2 bets (600)
+hatoka folds.
+** Summary **
+Main Pot: 1900
+Board: [ 8s Jh 5h  ]
+
+Akallabo2 balance 4070, bet 1400, collected 2500, net +1100
+pauw7 balance 4560, lost 100 (folded)
+fooking111 balance 6060, lost 200 (folded)
+hatoka balance 3500, lost 800 (folded)
+prawner balance 1810, didn't bet (folded)
+
+***** Hand History for Game 5996263903 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:40:40 EDT 2007
+Table Table  126615 (Real Money) -- Seat 5 is the button
+Total number of players : 5
+Seat 2: Akallabo2 (4070)
+Seat 5: pauw7 (4560)
+Seat 6: fooking111 (6060)
+Seat 8: hatoka (3500)
+Seat 9: prawner (1810)
+fooking111  posts small blind (100)
+hatoka  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 9c, 5c ]
+prawner folds.
+Akallabo2 folds.
+pauw7 folds.
+fooking111 raises (500) to 600
+hatoka folds.
+** Summary **
+Main Pot: 400
+
+Akallabo2 balance 4070, didn't bet (folded)
+pauw7 balance 4560, didn't bet (folded)
+fooking111 balance 6260, bet 600, collected 800, net +200
+hatoka balance 3300, lost 200 (folded)
+prawner balance 1810, didn't bet (folded)
+
+***** Hand History for Game 5996264661 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:40:55 EDT 2007
+Table Table  126615 (Real Money) -- Seat 6 is the button
+Total number of players : 5
+Seat 2: Akallabo2 (4070)
+Seat 5: pauw7 (4560)
+Seat 6: fooking111 (6260)
+Seat 8: hatoka (3300)
+Seat 9: prawner (1810)
+hatoka  posts small blind (100)
+prawner  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Qd, 2c ]
+Akallabo2 raises (1000) to 1000
+pauw7 folds.
+fooking111 folds.
+hatoka folds.
+prawner folds.
+** Summary **
+Main Pot: 500
+
+Akallabo2 balance 4370, bet 1000, collected 1300, net +300
+pauw7 balance 4560, didn't bet (folded)
+fooking111 balance 6260, didn't bet (folded)
+hatoka balance 3200, lost 100 (folded)
+prawner balance 1610, lost 200 (folded)
+
+***** Hand History for Game 5996265394 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:41:11 EDT 2007
+Table Table  126615 (Real Money) -- Seat 8 is the button
+Total number of players : 5
+Seat 2: Akallabo2 (4370)
+Seat 5: pauw7 (4560)
+Seat 6: fooking111 (6260)
+Seat 8: hatoka (3200)
+Seat 9: prawner (1610)
+prawner  posts small blind (100)
+Akallabo2  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 4h, Jd ]
+pauw7 folds.
+fooking111 folds.
+hatoka folds.
+prawner folds.
+** Summary **
+Main Pot: 200
+
+Akallabo2 balance 4470, bet 200, collected 300, net +100
+pauw7 balance 4560, didn't bet (folded)
+fooking111 balance 6260, didn't bet (folded)
+hatoka balance 3200, didn't bet (folded)
+prawner balance 1510, lost 100 (folded)
+
+***** Hand History for Game 5996265850 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:41:21 EDT 2007
+Table Table  126615 (Real Money) -- Seat 9 is the button
+Total number of players : 5
+Seat 2: Akallabo2 (4470)
+Seat 5: pauw7 (4560)
+Seat 6: fooking111 (6260)
+Seat 8: hatoka (3200)
+Seat 9: prawner (1510)
+Akallabo2  posts small blind (100)
+pauw7  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Js, 8d ]
+fooking111 folds.
+hatoka folds.
+prawner folds.
+Akallabo2 calls (100)
+pauw7 raises (200) to 400
+Akallabo2 folds.
+** Summary **
+Main Pot: 400
+
+Akallabo2 balance 4270, lost 200 (folded)
+pauw7 balance 4760, bet 400, collected 600, net +200
+fooking111 balance 6260, didn't bet (folded)
+hatoka balance 3200, didn't bet (folded)
+prawner balance 1510, didn't bet (folded)
+
+***** Hand History for Game 5996266934 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:41:44 EDT 2007
+Table Table  126615 (Real Money) -- Seat 2 is the button
+Total number of players : 5
+Seat 2: Akallabo2 (4270)
+Seat 5: pauw7 (4760)
+Seat 6: fooking111 (6260)
+Seat 8: hatoka (3200)
+Seat 9: prawner (1510)
+pauw7  posts small blind (100)
+fooking111  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 8d, 5h ]
+hatoka folds.
+prawner folds.
+Akallabo2 raises (600) to 600
+pauw7 folds.
+fooking111 calls (400)
+** Dealing Flop ** :  [ 6s, 6h, Th ]
+fooking111 bets (600)
+Akallabo2 raises (1200) to 1200
+fooking111 calls (600)
+** Dealing Turn ** :  [ Qc ]
+fooking111 bets (600)
+Akallabo2 folds.
+** Summary **
+Main Pot: 3700
+Board: [ 6s 6h Th Qc  ]
+
+Akallabo2 balance 2470, lost 1800 (folded)
+pauw7 balance 4660, lost 100 (folded)
+fooking111 balance 8160, bet 2400, collected 4300, net +1900
+hatoka balance 3200, didn't bet (folded)
+prawner balance 1510, didn't bet (folded)
+
+***** Hand History for Game 5996268417 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:42:15 EDT 2007
+Table Table  126615 (Real Money) -- Seat 5 is the button
+Total number of players : 5
+Seat 2: Akallabo2 (2470)
+Seat 5: pauw7 (4660)
+Seat 6: fooking111 (8160)
+Seat 8: hatoka (3200)
+Seat 9: prawner (1510)
+fooking111  posts small blind (100)
+hatoka  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 3h, 4s ]
+prawner folds.
+Akallabo2 folds.
+pauw7 folds.
+fooking111 folds.
+** Summary **
+Main Pot: 200
+
+Akallabo2 balance 2470, didn't bet (folded)
+pauw7 balance 4660, didn't bet (folded)
+fooking111 balance 8060, lost 100 (folded)
+hatoka balance 3300, bet 200, collected 300, net +100
+prawner balance 1510, didn't bet (folded)
+
+***** Hand History for Game 5996268785 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:42:23 EDT 2007
+Table Table  126615 (Real Money) -- Seat 6 is the button
+Total number of players : 5
+Seat 2: Akallabo2 (2470)
+Seat 5: pauw7 (4660)
+Seat 6: fooking111 (8060)
+Seat 8: hatoka (3300)
+Seat 9: prawner (1510)
+hatoka  posts small blind (100)
+prawner  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 7s, 2c ]
+Akallabo2 raises (2470) to 2470
+Akallabo2 is all-In.
+pauw7 folds.
+fooking111 folds.
+hatoka folds.
+prawner folds.
+Creating Main Pot with $500 with Akallabo2
+** Summary **
+Main Pot: 500
+
+Akallabo2 balance 2770, bet 2470, collected 2770, net +300
+pauw7 balance 4660, didn't bet (folded)
+fooking111 balance 8060, didn't bet (folded)
+hatoka balance 3200, lost 100 (folded)
+prawner balance 1310, lost 200 (folded)
+
+***** Hand History for Game 5996269531 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:42:38 EDT 2007
+Table Table  126615 (Real Money) -- Seat 8 is the button
+Total number of players : 5
+Seat 2: Akallabo2 (2770)
+Seat 5: pauw7 (4660)
+Seat 6: fooking111 (8060)
+Seat 8: hatoka (3200)
+Seat 9: prawner (1310)
+prawner  posts small blind (100)
+Akallabo2  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 5d, Qc ]
+pauw7 raises (600) to 600
+fooking111 folds.
+hatoka folds.
+prawner folds.
+Akallabo2 folds.
+** Summary **
+Main Pot: 500
+
+Akallabo2 balance 2570, lost 200 (folded)
+pauw7 balance 4960, bet 600, collected 900, net +300
+fooking111 balance 8060, didn't bet (folded)
+hatoka balance 3200, didn't bet (folded)
+prawner balance 1210, lost 100 (folded)
+
+***** Hand History for Game 5996270223 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:42:53 EDT 2007
+Table Table  126615 (Real Money) -- Seat 9 is the button
+Total number of players : 5
+Seat 2: Akallabo2 (2570)
+Seat 5: pauw7 (4960)
+Seat 6: fooking111 (8060)
+Seat 8: hatoka (3200)
+Seat 9: prawner (1210)
+Akallabo2  posts small blind (100)
+pauw7  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Kh, 2d ]
+fooking111 folds.
+hatoka folds.
+prawner folds.
+Akallabo2 raises (2470) to 2570
+Akallabo2 is all-In.
+pauw7 calls (2370)
+** Dealing Flop ** :  [ 9s, 8c, 6s ]
+** Dealing Turn ** :  [ 4c ]
+** Dealing River ** :  [ 5h ]
+Creating Main Pot with $5140 with Akallabo2
+** Summary **
+Main Pot: 5140
+Board: [ 9s 8c 6s 4c 5h  ]
+
+Akallabo2 balance 0, lost 2570 [ 6c 6d ] [ three of a kind, Sixes -- 9s,8c,6c,6d,6s ]
+pauw7 balance 7530, bet 2570, collected 5140, net +2570 [ 7s 7c ] [ a straight Five to Nine -- 9s,8c,7s,6s,5h ]
+fooking111 balance 8060, didn't bet (folded)
+hatoka balance 3200, didn't bet (folded)
+prawner balance 1210, didn't bet (folded)
+
+***** Hand History for Game 5996271268 *****
+Akallabo2 finished in 5 place.
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:43:14 EDT 2007
+Table Table  126615 (Real Money) -- Seat 9 is the button
+Total number of players : 4
+Seat 5: pauw7 (7530)
+Seat 6: fooking111 (8060)
+Seat 8: hatoka (3200)
+Seat 9: prawner (1210)
+pauw7  posts small blind (100)
+fooking111  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 5d, 9h ]
+hatoka folds.
+prawner raises (1210) to 1210
+prawner is all-In.
+pauw7 folds.
+fooking111 calls (1010)
+** Dealing Flop ** :  [ 5c, 8s, 8c ]
+** Dealing Turn ** :  [ 3c ]
+** Dealing River ** :  [ 3h ]
+Creating Main Pot with $2520 with prawner
+** Summary **
+Main Pot: 2520
+Board: [ 5c 8s 8c 3c 3h  ]
+
+pauw7 balance 7430, lost 100 (folded)
+fooking111 balance 9370, bet 1210, collected 2520, net +1310 [ Ks Kc ] [ two pairs, Kings and Eights -- Ks,Kc,8s,8c,5c ]
+hatoka balance 3200, didn't bet (folded)
+prawner balance 0, lost 1210 [ Jh Qs ] [ two pairs, Eights and Threes -- Qs,8s,8c,3c,3h ]
+
+***** Hand History for Game 5996272080 *****
+prawner finished in 4 place.
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:43:32 EDT 2007
+Table Table  126615 (Real Money) -- Seat 5 is the button
+Total number of players : 3
+Seat 5: pauw7 (7430)
+Seat 6: fooking111 (9370)
+Seat 8: hatoka (3200)
+fooking111  posts small blind (100)
+hatoka  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Kh, 7s ]
+pauw7 folds.
+fooking111 calls (100)
+hatoka raises (200) to 400
+fooking111 calls (200)
+** Dealing Flop ** :  [ 2s, 9c, Jh ]
+fooking111 checks.
+hatoka checks.
+** Dealing Turn ** :  [ 8c ]
+fooking111 checks.
+hatoka bets (200)
+fooking111 calls (200)
+** Dealing River ** :  [ Js ]
+fooking111 checks.
+hatoka checks.
+** Summary **
+Main Pot: 1200
+Board: [ 2s 9c Jh 8c Js  ]
+
+pauw7 balance 7430, didn't bet (folded)
+fooking111 balance 8770, lost 600 [ Qc 6c ] [ a pair of Jacks -- Qc,Jh,Js,9c,8c ]
+hatoka balance 3800, bet 600, collected 1200, net +600 [ Kh 7s ] [ a pair of Jacks with King kicker -- Kh,Jh,Js,9c,8cKh(kicker card) ]
+
+***** Hand History for Game 5996273718 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:44:06 EDT 2007
+Table Table  126615 (Real Money) -- Seat 6 is the button
+Total number of players : 3
+Seat 5: pauw7 (7430)
+Seat 6: fooking111 (8770)
+Seat 8: hatoka (3800)
+hatoka  posts small blind (100)
+pauw7  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Qc, 8s ]
+fooking111 folds.
+hatoka raises (300) to 400
+pauw7 calls (200)
+** Dealing Flop ** :  [ Tc, Kc, 7s ]
+hatoka bets (200)
+pauw7 raises (800) to 800
+hatoka folds.
+** Summary **
+Main Pot: 1200
+Board: [ Tc Kc 7s  ]
+
+pauw7 balance 8030, bet 1200, collected 1800, net +600
+fooking111 balance 8770, didn't bet (folded)
+hatoka balance 3200, lost 600 (folded)
+
+***** Hand History for Game 5996274834 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:44:29 EDT 2007
+Table Table  126615 (Real Money) -- Seat 8 is the button
+Total number of players : 3
+Seat 5: pauw7 (8030)
+Seat 6: fooking111 (8770)
+Seat 8: hatoka (3200)
+pauw7  posts small blind (100)
+fooking111  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 2s, Jh ]
+hatoka folds.
+pauw7 folds.
+** Summary **
+Main Pot: 200
+
+pauw7 balance 7930, lost 100 (folded)
+fooking111 balance 8870, bet 200, collected 300, net +100
+hatoka balance 3200, didn't bet (folded)
+
+***** Hand History for Game 5996275341 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:44:40 EDT 2007
+Table Table  126615 (Real Money) -- Seat 5 is the button
+Total number of players : 3
+Seat 5: pauw7 (7930)
+Seat 6: fooking111 (8870)
+Seat 8: hatoka (3200)
+fooking111  posts small blind (100)
+hatoka  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 2s, 4d ]
+pauw7 folds.
+fooking111 folds.
+** Summary **
+Main Pot: 200
+
+pauw7 balance 7930, didn't bet (folded)
+fooking111 balance 8770, lost 100 (folded)
+hatoka balance 3300, bet 200, collected 300, net +100
+
+***** Hand History for Game 5996275694 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:44:47 EDT 2007
+Table Table  126615 (Real Money) -- Seat 6 is the button
+Total number of players : 3
+Seat 5: pauw7 (7930)
+Seat 6: fooking111 (8770)
+Seat 8: hatoka (3300)
+hatoka  posts small blind (100)
+pauw7  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Qs, Ah ]
+fooking111 folds.
+hatoka raises (300) to 400
+pauw7 calls (200)
+** Dealing Flop ** :  [ Th, Ks, 7d ]
+hatoka bets (200)
+pauw7 raises (7530) to 7530
+pauw7 is all-In.
+hatoka folds.
+Creating Main Pot with $1200 with pauw7
+** Summary **
+Main Pot: 1200
+Board: [ Th Ks 7d  ]
+
+pauw7 balance 8530, bet 7930, collected 8530, net +600
+fooking111 balance 8770, didn't bet (folded)
+hatoka balance 2700, lost 600 (folded)
+
+***** Hand History for Game 5996277075 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:45:16 EDT 2007
+Table Table  126615 (Real Money) -- Seat 8 is the button
+Total number of players : 3
+Seat 5: pauw7 (8530)
+Seat 6: fooking111 (8770)
+Seat 8: hatoka (2700)
+pauw7  posts small blind (100)
+fooking111  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 8c, 7h ]
+hatoka folds.
+pauw7 folds.
+** Summary **
+Main Pot: 200
+
+pauw7 balance 8430, lost 100 (folded)
+fooking111 balance 8870, bet 200, collected 300, net +100
+hatoka balance 2700, didn't bet (folded)
+
+***** Hand History for Game 5996278717 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:45:27 EDT 2007
+Table Table  126615 (Real Money) -- Seat 5 is the button
+Total number of players : 3
+Seat 5: pauw7 (8430)
+Seat 6: fooking111 (8870)
+Seat 8: hatoka (2700)
+fooking111  posts small blind (100)
+hatoka  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Qc, 6d ]
+pauw7 folds.
+fooking111 raises (300) to 400
+hatoka folds.
+** Summary **
+Main Pot: 400
+
+pauw7 balance 8430, didn't bet (folded)
+fooking111 balance 9070, bet 400, collected 600, net +200 [ Kh Kd ] [ a pair of Kings -- Kh,Kd ]
+hatoka balance 2500, lost 200 (folded)
+
+***** Hand History for Game 5996279365 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:45:41 EDT 2007
+Table Table  126615 (Real Money) -- Seat 6 is the button
+Total number of players : 3
+Seat 5: pauw7 (8430)
+Seat 6: fooking111 (9070)
+Seat 8: hatoka (2500)
+hatoka  posts small blind (100)
+pauw7  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Td, Kd ]
+fooking111 raises (600) to 600
+hatoka calls (500)
+pauw7 folds.
+** Dealing Flop ** :  [ 5d, 4d, 4c ]
+hatoka bets (1000)
+fooking111 raises (2000) to 2000
+hatoka calls (900)
+hatoka is all-In.
+** Dealing Turn ** :  [ 8d ]
+** Dealing River ** :  [ 7h ]
+Creating Main Pot with $5200 with hatoka
+** Summary **
+Main Pot: 5200
+Board: [ 5d 4d 4c 8d 7h  ]
+
+pauw7 balance 8230, lost 200 (folded)
+fooking111 balance 6570, bet 2600, collected 100, lost -2500 [ 6d 6c ] [ a straight Four to Eight -- 8d,7h,6d,5d,4d ]
+hatoka balance 5200, bet 2500, collected 5200, net +2700 [ Td Kd ] [ a flush, King high -- Kd,Td,8d,5d,4d ]
+
+***** Hand History for Game 5996280651 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:46:07 EDT 2007
+Table Table  126615 (Real Money) -- Seat 8 is the button
+Total number of players : 3
+Seat 5: pauw7 (8230)
+Seat 6: fooking111 (6570)
+Seat 8: hatoka (5200)
+pauw7  posts small blind (200)
+fooking111  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 9d, Qd ]
+hatoka calls (400)
+pauw7 folds.
+fooking111 checks.
+** Dealing Flop ** :  [ Kh, 4c, 5s ]
+fooking111 checks.
+hatoka bets (400)
+fooking111 calls (400)
+** Dealing Turn ** :  [ As ]
+fooking111 checks.
+hatoka bets (400)
+fooking111 calls (400)
+** Dealing River ** :  [ 8c ]
+fooking111 checks.
+hatoka checks.
+** Summary **
+Main Pot: 2600
+Board: [ Kh 4c 5s As 8c  ]
+
+pauw7 balance 8030, lost 200 (folded)
+fooking111 balance 7970, bet 1200, collected 2600, net +1400 [ 5h Kc ] [ two pairs, Kings and Fives -- As,Kc,Kh,5h,5s ]
+hatoka balance 4000, lost 1200 [ 9d Qd ] [ high card Ace -- As,Kh,Qd,9d,8c ]
+
+
+***** Hand History for Game 5996282496 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:46:45 EDT 2007
+Table Table  126615 (Real Money) -- Seat 5 is the button
+Total number of players : 3
+Seat 5: pauw7 (8030)
+Seat 6: fooking111 (7970)
+Seat 8: hatoka (4000)
+fooking111  posts small blind (200)
+hatoka  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 5s, 9h ]
+pauw7 folds.
+fooking111 folds.
+** Summary **
+Main Pot: 400
+
+pauw7 balance 8030, didn't bet (folded)
+fooking111 balance 7770, lost 200 (folded)
+hatoka balance 4200, bet 400, collected 600, net +200
+
+***** Hand History for Game 5996282885 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:46:52 EDT 2007
+Table Table  126615 (Real Money) -- Seat 6 is the button
+Total number of players : 3
+Seat 5: pauw7 (8030)
+Seat 6: fooking111 (7770)
+Seat 8: hatoka (4200)
+hatoka  posts small blind (200)
+pauw7  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 9h, 4h ]
+fooking111 folds.
+hatoka raises (600) to 800
+pauw7 raises (7630) to 8030
+pauw7 is all-In.
+hatoka folds.
+Creating Main Pot with $1600 with pauw7
+** Summary **
+Main Pot: 1600
+
+pauw7 balance 8830, bet 8030, collected 8830, net +800
+fooking111 balance 7770, didn't bet (folded)
+hatoka balance 3400, lost 800 (folded)
+
+***** Hand History for Game 5996283607 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:47:07 EDT 2007
+Table Table  126615 (Real Money) -- Seat 8 is the button
+Total number of players : 3
+Seat 5: pauw7 (8830)
+Seat 6: fooking111 (7770)
+Seat 8: hatoka (3400)
+pauw7  posts small blind (200)
+fooking111  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ Qd, 4s ]
+hatoka folds.
+pauw7 raises (8630) to 8830
+pauw7 is all-In.
+fooking111 folds.
+Creating Main Pot with $800 with pauw7
+** Summary **
+Main Pot: 800
+
+pauw7 balance 9230, bet 8830, collected 9230, net +400
+fooking111 balance 7370, lost 400 (folded)
+hatoka balance 3400, didn't bet (folded)
+
+***** Hand History for Game 5996284212 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:47:19 EDT 2007
+Table Table  126615 (Real Money) -- Seat 5 is the button
+Total number of players : 3
+Seat 5: pauw7 (9230)
+Seat 6: fooking111 (7370)
+Seat 8: hatoka (3400)
+fooking111  posts small blind (200)
+hatoka  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 9s, 7h ]
+pauw7 folds.
+fooking111 calls (200)
+hatoka checks.
+** Dealing Flop ** :  [ 2s, 8d, 2d ]
+fooking111 bets (1200)
+hatoka folds.
+** Summary **
+Main Pot: 800
+Board: [ 2s 8d 2d  ]
+
+pauw7 balance 9230, didn't bet (folded)
+fooking111 balance 7770, bet 1600, collected 2000, net +400
+hatoka balance 3000, lost 400 (folded)
+
+***** Hand History for Game 5996285102 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:47:36 EDT 2007
+Table Table  126615 (Real Money) -- Seat 6 is the button
+Total number of players : 3
+Seat 5: pauw7 (9230)
+Seat 6: fooking111 (7770)
+Seat 8: hatoka (3000)
+hatoka  posts small blind (200)
+pauw7  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 4h, 8s ]
+fooking111 folds.
+hatoka raises (600) to 800
+pauw7 raises (8830) to 9230
+pauw7 is all-In.
+hatoka folds.
+Creating Main Pot with $1600 with pauw7
+** Summary **
+Main Pot: 1600
+
+pauw7 balance 10030, bet 9230, collected 10030, net +800
+fooking111 balance 7770, didn't bet (folded)
+hatoka balance 2200, lost 800 (folded)
+
+***** Hand History for Game 5996285863 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:47:49 EDT 2007
+Table Table  126615 (Real Money) -- Seat 8 is the button
+Total number of players : 3
+Seat 5: pauw7 (10030)
+Seat 6: fooking111 (7770)
+Seat 8: hatoka (2200)
+pauw7  posts small blind (200)
+fooking111  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 3c, 7h ]
+hatoka folds.
+pauw7 raises (1000) to 1200
+fooking111 folds.
+** Summary **
+Main Pot: 800
+
+pauw7 balance 10430, bet 1200, collected 1600, net +400
+fooking111 balance 7370, lost 400 (folded)
+hatoka balance 2200, didn't bet (folded)
+
+***** Hand History for Game 5996286579 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:48:01 EDT 2007
+Table Table  126615 (Real Money) -- Seat 5 is the button
+Total number of players : 3
+Seat 5: pauw7 (10430)
+Seat 6: fooking111 (7370)
+Seat 8: hatoka (2200)
+fooking111  posts small blind (200)
+hatoka  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 3d, 4s ]
+pauw7 folds.
+fooking111 raises (600) to 800
+hatoka folds.
+** Summary **
+Main Pot: 800
+
+pauw7 balance 10430, didn't bet (folded)
+fooking111 balance 7770, bet 800, collected 1200, net +400
+hatoka balance 1800, lost 400 (folded)
+
+***** Hand History for Game 5996287574 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:48:16 EDT 2007
+Table Table  126615 (Real Money) -- Seat 6 is the button
+Total number of players : 3
+Seat 5: pauw7 (10430)
+Seat 6: fooking111 (7770)
+Seat 8: hatoka (1800)
+hatoka  posts small blind (200)
+pauw7  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ Jc, Qh ]
+fooking111 folds.
+hatoka raises (600) to 800
+pauw7 raises (10030) to 10430
+pauw7 is all-In.
+hatoka calls (1000)
+hatoka is all-In.
+** Dealing Flop ** :  [ 5s, 7d, 9c ]
+** Dealing Turn ** :  [ 2h ]
+** Dealing River ** :  [ Th ]
+Creating Main Pot with $3600 with hatoka
+** Summary **
+Main Pot: 3600
+Board: [ 5s 7d 9c 2h Th  ]
+
+pauw7 balance 12230, bet 10430, collected 12230, net +1800 [ 3d 3c ] [ a pair of Threes -- Th,9c,7d,3d,3c ]
+fooking111 balance 7770, didn't bet (folded)
+hatoka balance 0, lost 1800 [ Jc Qh ] [ high card Queen -- Qh,Jc,Th,9c,7d ]
+
+***** Hand History for Game 5996288990 *****
+hatoka finished in 3 place and won $10.
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:48:34 EDT 2007
+Table Table  126615 (Real Money) -- Seat 5 is the button
+Total number of players : 2
+Seat 5: pauw7 (12230)
+Seat 6: fooking111 (7770)
+pauw7  posts small blind (200)
+fooking111  posts big blind (400)
+** Dealing down cards **
+pauw7 raises (600) to 800
+fooking111 raises (800) to 1200
+pauw7 folds.
+** Summary **
+Main Pot: 1600
+
+pauw7 balance 11430, lost 800 (folded)
+fooking111 balance 8570, bet 1200, collected 2000, net +800 [ 4c 4h ] [ a pair of Fours -- 4c,4h ]
+
+***** Hand History for Game 5996290088 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:48:47 EDT 2007
+Table Table  126615 (Real Money) -- Seat 6 is the button
+Total number of players : 2
+Seat 5: pauw7 (11430)
+Seat 6: fooking111 (8570)
+fooking111  posts small blind (200)
+pauw7  posts big blind (400)
+** Dealing down cards **
+fooking111 calls (200)
+pauw7 checks.
+** Dealing Flop ** :  [ 7h, 9s, Ah ]
+pauw7 bets (400)
+fooking111 folds.
+** Summary **
+Main Pot: 800
+Board: [ 7h 9s Ah  ]
+
+pauw7 balance 11830, bet 800, collected 1200, net +400
+fooking111 balance 8170, lost 400 (folded)
+
+***** Hand History for Game 5996291186 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33580735)  - Wed May 23 15:49:00 EDT 2007
+Table Table  126615 (Real Money) -- Seat 5 is the button
+Total number of players : 2
+Seat 5: pauw7 (11830)
+Seat 6: fooking111 (8170)
+pauw7  posts small blind (200)
+fooking111  posts big blind (400)
+** Dealing down cards **
+pauw7 raises (1400) to 1600
+fooking111 raises (2400) to 2800
+pauw7 calls (1200)
+** Dealing Flop ** :  [ 9s, 3s, 8s ]
+fooking111 bets (1600)
+pauw7 raises (9030) to 9030
+pauw7 is all-In.
+fooking111 calls (3770)
+fooking111 is all-In.
+** Dealing Turn ** :  [ Js ]
+** Dealing River ** :  [ Ks ]
+Creating Main Pot with $16340 with fooking111
+** Summary **
+Main Pot: 16340
+Board: [ 9s 3s 8s Js Ks  ]
+
+pauw7 balance 20000, bet 11830, collected 20000, net +8170 [ Ts 9d ] [ a flush, King high with Ten kicker -- Ks,Js,Ts,9s,8s ]
+fooking111 balance 0, lost 8170 [ 8c Ad ] [ a flush, King high -- Ks,Js,9s,8s,3s ]
+
+
+

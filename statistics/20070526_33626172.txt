@@ -1,0 +1,2764 @@
+
+Hello hatoka,
+These hand histories are provided to you as an aid for your training and development. You are not permitted to share them with anyone.  We reserve the right to cease providing them or apply further restrictions at any time.
+Complete hand histories are only available to players that participated in the hand.
+You requested a transcript of Tournament #33626172.
+
+Summary
+----------
+Played on    : 26 May 2007 08:31 AM
+On Table     : Table  126510
+Game Type    : Texas Holdem
+Buy-In       : $5
+Fee          : $1
+You finished in  position 5
+1st place - enjoy444 -  $25
+2nd place - Kranich82 -  $15
+3rd place - benjiman1 -  $10
+
+***** Hand History for Game 6004046506 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 08:31:49 EDT 2007
+Table Table  126510 (Real Money) -- Seat 6 is the button
+Total number of players : 10
+Seat 1: enjoy444 (2000)
+Seat 2: DJDiaper (2000)
+Seat 3: TheBigBoss77 (2000)
+Seat 4: benjiman1 (2000)
+Seat 5: Ricardo_Ferrari79 (2000)
+Seat 6: hatoka (2000)
+Seat 7: Hashnail (2000)
+Seat 8: FredLocks (2000)
+Seat 9: Kranich82 (2000)
+Seat 10: Rva20 (2000)
+Hashnail  posts small blind (20)
+FredLocks  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ Ts, 3d ]
+Kranich82 folds.
+Rva20 raises (80) to 80
+enjoy444 folds.
+DJDiaper folds.
+TheBigBoss77 folds.
+benjiman1 calls (80)
+Ricardo_Ferrari79 folds.
+hatoka folds.
+Hashnail calls (60)
+FredLocks calls (40)
+** Dealing Flop ** :  [ Jh, Kc, 5c ]
+Hashnail checks.
+FredLocks checks.
+Rva20 bets (100)
+benjiman1 calls (100)
+Hashnail folds.
+FredLocks folds.
+** Dealing Turn ** :  [ 3s ]
+Rva20 bets (100)
+benjiman1 calls (100)
+** Dealing River ** :  [ 9h ]
+Rva20 bets (100)
+benjiman1 raises (200) to 200
+Rva20 calls (100)
+** Summary **
+Main Pot: 1120
+Board: [ Jh Kc 5c 3s 9h  ]
+
+enjoy444 balance 2000, didn't bet (folded)
+DJDiaper balance 2000, didn't bet (folded)
+TheBigBoss77 balance 2000, didn't bet (folded)
+benjiman1 balance 1520, lost 480 [ 8c 4c ] [ high card King -- Kc,Jh,9h,8c,5c ]
+Ricardo_Ferrari79 balance 2000, didn't bet (folded)
+hatoka balance 2000, didn't bet (folded)
+Hashnail balance 1920, lost 80 (folded)
+FredLocks balance 1920, lost 80 (folded)
+Kranich82 balance 2000, didn't bet (folded)
+Rva20 balance 2640, bet 480, collected 1120, net +640 [ Qh Qs ] [ a pair of Queens -- Kc,Qh,Qs,Jh,9h ]
+
+***** Hand History for Game 6004049078 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 08:33:04 EDT 2007
+Table Table  126510 (Real Money) -- Seat 7 is the button
+Total number of players : 10
+Seat 1: enjoy444 (2000)
+Seat 2: DJDiaper (2000)
+Seat 3: TheBigBoss77 (2000)
+Seat 4: benjiman1 (1520)
+Seat 5: Ricardo_Ferrari79 (2000)
+Seat 6: hatoka (2000)
+Seat 7: Hashnail (1920)
+Seat 8: FredLocks (1920)
+Seat 9: Kranich82 (2000)
+Seat 10: Rva20 (2640)
+FredLocks  posts small blind (20)
+Kranich82  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 2c, As ]
+Rva20 raises (80) to 80
+enjoy444 calls (80)
+DJDiaper folds.
+TheBigBoss77 calls (80)
+benjiman1 folds.
+Ricardo_Ferrari79 folds.
+hatoka folds.
+Hashnail folds.
+FredLocks folds.
+Kranich82 folds.
+** Dealing Flop ** :  [ 8c, 5h, Qd ]
+Rva20 checks.
+enjoy444 bets (40)
+TheBigBoss77 raises (300) to 300
+Rva20 folds.
+enjoy444 calls (260)
+** Dealing Turn ** :  [ Kd ]
+enjoy444 checks.
+TheBigBoss77 bets (840)
+enjoy444 calls (840)
+** Dealing River ** :  [ 4d ]
+enjoy444 checks.
+TheBigBoss77 bets (780)
+TheBigBoss77 is all-In.
+enjoy444 calls (780)
+enjoy444 is all-In.
+Creating Main Pot with $4140 with enjoy444,TheBigBoss77
+** Summary **
+Main Pot: 4140
+Board: [ 8c 5h Qd Kd 4d  ]
+
+enjoy444 balance 4140, bet 2000, collected 4140, net +2140 [ Jd 8d ] [ a flush, King high -- Kd,Qd,Jd,8d,4d ]
+DJDiaper balance 2000, didn't bet (folded)
+TheBigBoss77 balance 0, lost 2000 [ 2d 2s ] [ a pair of Twos -- Kd,Qd,8c,2d,2s ]
+benjiman1 balance 1520, didn't bet (folded)
+Ricardo_Ferrari79 balance 2000, didn't bet (folded)
+hatoka balance 2000, didn't bet (folded)
+Hashnail balance 1920, didn't bet (folded)
+FredLocks balance 1900, lost 20 (folded)
+Kranich82 balance 1960, lost 40 (folded)
+Rva20 balance 2560, lost 80 (folded)
+
+***** Hand History for Game 6004050726 *****
+TheBigBoss77 finished in 10 place.
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 08:33:49 EDT 2007
+Table Table  126510 (Real Money) -- Seat 8 is the button
+Total number of players : 9
+Seat 1: enjoy444 (4140)
+Seat 2: DJDiaper (2000)
+Seat 4: benjiman1 (1520)
+Seat 5: Ricardo_Ferrari79 (2000)
+Seat 6: hatoka (2000)
+Seat 7: Hashnail (1920)
+Seat 8: FredLocks (1900)
+Seat 9: Kranich82 (1960)
+Seat 10: Rva20 (2560)
+Kranich82  posts small blind (20)
+Rva20  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 8d, Qd ]
+enjoy444 folds.
+DJDiaper folds.
+benjiman1 folds.
+Ricardo_Ferrari79 folds.
+hatoka calls (40)
+Hashnail calls (40)
+FredLocks calls (40)
+Kranich82 calls (20)
+Rva20 checks.
+** Dealing Flop ** :  [ Th, 7d, Kc ]
+Kranich82 checks.
+Rva20 checks.
+hatoka bets (80)
+Hashnail calls (80)
+FredLocks folds.
+Kranich82 calls (80)
+Rva20 folds.
+** Dealing Turn ** :  [ Ts ]
+Kranich82 checks.
+hatoka checks.
+Hashnail checks.
+** Dealing River ** :  [ 7c ]
+Kranich82 checks.
+hatoka checks.
+Hashnail checks.
+** Summary **
+Main Pot: 440
+Board: [ Th 7d Kc Ts 7c  ]
+
+enjoy444 balance 4140, didn't bet (folded)
+DJDiaper balance 2000, didn't bet (folded)
+benjiman1 balance 1520, didn't bet (folded)
+Ricardo_Ferrari79 balance 2000, didn't bet (folded)
+hatoka balance 2027, bet 120, collected 147, net +27 [ 8d Qd ] [ two pairs, Tens and Sevens -- Kc,Th,Ts,7d,7c ]
+Hashnail balance 1946, bet 120, collected 146, net +26 [ 8h 9c ] [ two pairs, Tens and Sevens -- Kc,Th,Ts,7d,7c ]
+FredLocks balance 1860, lost 40 (folded)
+Kranich82 balance 1987, bet 120, collected 147, net +27 [ 9d Qs ] [ two pairs, Tens and Sevens -- Kc,Th,Ts,7d,7c ]
+Rva20 balance 2520, lost 40 (folded)
+
+***** Hand History for Game 6004052744 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 08:34:44 EDT 2007
+Table Table  126510 (Real Money) -- Seat 9 is the button
+Total number of players : 9
+Seat 1: enjoy444 (4140)
+Seat 2: DJDiaper (2000)
+Seat 4: benjiman1 (1520)
+Seat 5: Ricardo_Ferrari79 (2000)
+Seat 6: hatoka (2027)
+Seat 7: Hashnail (1946)
+Seat 8: FredLocks (1860)
+Seat 9: Kranich82 (1987)
+Seat 10: Rva20 (2520)
+Rva20  posts small blind (20)
+enjoy444  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ Kd, 7c ]
+DJDiaper folds.
+benjiman1 calls (40)
+Ricardo_Ferrari79 folds.
+hatoka folds.
+Hashnail folds.
+FredLocks folds.
+Kranich82 folds.
+Rva20 calls (20)
+enjoy444 checks.
+** Dealing Flop ** :  [ 3s, 7d, Qc ]
+Rva20 checks.
+enjoy444 bets (40)
+benjiman1 folds.
+Rva20 calls (40)
+** Dealing Turn ** :  [ Kh ]
+Rva20 checks.
+enjoy444 checks.
+** Dealing River ** :  [ Jd ]
+Rva20 checks.
+enjoy444 checks.
+** Summary **
+Main Pot: 200
+Board: [ 3s 7d Qc Kh Jd  ]
+
+enjoy444 balance 4060, lost 80 [ 3d 6s ] [ a pair of Threes -- Kh,Qc,Jd,3d,3s ]
+
+DJDiaper balance 2000, didn't bet (folded)
+benjiman1 balance 1480, lost 40 (folded)
+Ricardo_Ferrari79 balance 2000, didn't bet (folded)
+hatoka balance 2027, didn't bet (folded)
+Hashnail balance 1946, didn't bet (folded)
+FredLocks balance 1860, didn't bet (folded)
+Kranich82 balance 1987, didn't bet (folded)
+Rva20 balance 2640, bet 80, collected 200, net +120 [ 7h 8h ] [ a pair of Sevens -- Kh,Qc,Jd,7h,7d ]
+
+***** Hand History for Game 6004054290 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 08:35:27 EDT 2007
+Table Table  126510 (Real Money) -- Seat 10 is the button
+Total number of players : 9
+Seat 1: enjoy444 (4060)
+Seat 2: DJDiaper (2000)
+Seat 4: benjiman1 (1480)
+Seat 5: Ricardo_Ferrari79 (2000)
+Seat 6: hatoka (2027)
+Seat 7: Hashnail (1946)
+Seat 8: FredLocks (1860)
+Seat 9: Kranich82 (1987)
+Seat 10: Rva20 (2640)
+enjoy444  posts small blind (20)
+DJDiaper  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ Jc, 9d ]
+benjiman1 folds.
+Ricardo_Ferrari79 folds.
+hatoka folds.
+Hashnail folds.
+FredLocks folds.
+Kranich82 folds.
+Rva20 folds.
+enjoy444 calls (20)
+DJDiaper checks.
+** Dealing Flop ** :  [ 3c, Qs, Th ]
+enjoy444 checks.
+DJDiaper bets (80)
+enjoy444 folds.
+** Summary **
+Main Pot: 80
+Board: [ 3c Qs Th  ]
+
+enjoy444 balance 4020, lost 40 (folded)
+DJDiaper balance 2040, bet 120, collected 160, net +40
+benjiman1 balance 1480, didn't bet (folded)
+Ricardo_Ferrari79 balance 2000, didn't bet (folded)
+hatoka balance 2027, didn't bet (folded)
+Hashnail balance 1946, didn't bet (folded)
+FredLocks balance 1860, didn't bet (folded)
+Kranich82 balance 1987, didn't bet (folded)
+Rva20 balance 2640, didn't bet (folded)
+
+***** Hand History for Game 6004055172 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 08:35:52 EDT 2007
+Table Table  126510 (Real Money) -- Seat 1 is the button
+Total number of players : 9
+Seat 1: enjoy444 (4020)
+Seat 2: DJDiaper (2040)
+Seat 4: benjiman1 (1480)
+Seat 5: Ricardo_Ferrari79 (2000)
+Seat 6: hatoka (2027)
+Seat 7: Hashnail (1946)
+Seat 8: FredLocks (1860)
+Seat 9: Kranich82 (1987)
+Seat 10: Rva20 (2640)
+DJDiaper  posts small blind (20)
+benjiman1  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 7c, 4c ]
+Ricardo_Ferrari79 folds.
+hatoka folds.
+Hashnail raises (80) to 80
+FredLocks calls (80)
+Kranich82 calls (80)
+Rva20 folds.
+enjoy444 calls (80)
+DJDiaper folds.
+benjiman1 calls (40)
+** Dealing Flop ** :  [ 8d, 4h, 4d ]
+benjiman1 checks.
+Hashnail bets (120)
+FredLocks folds.
+Kranich82 folds.
+enjoy444 calls (120)
+benjiman1 folds.
+** Dealing Turn ** :  [ 9h ]
+Hashnail bets (240)
+enjoy444 calls (240)
+** Dealing River ** :  [ 5d ]
+Hashnail bets (520)
+enjoy444 calls (520)
+** Summary **
+Main Pot: 2180
+Board: [ 8d 4h 4d 9h 5d  ]
+
+enjoy444 balance 5240, bet 960, collected 2180, net +1220 [ 6c 7d ] [ a straight Five to Nine -- 9h,8d,7d,6c,5d ]
+DJDiaper balance 2020, lost 20 (folded)
+benjiman1 balance 1400, lost 80 (folded)
+Ricardo_Ferrari79 balance 2000, didn't bet (folded)
+hatoka balance 2027, didn't bet (folded)
+Hashnail balance 986, lost 960 [ Qh Qc ] [ two pairs, Queens and Fours -- Qh,Qc,9h,4h,4d ]
+FredLocks balance 1780, lost 80 (folded)
+Kranich82 balance 1907, lost 80 (folded)
+Rva20 balance 2640, didn't bet (folded)
+
+***** Hand History for Game 6004057376 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 08:36:52 EDT 2007
+Table Table  126510 (Real Money) -- Seat 2 is the button
+Total number of players : 9
+Seat 1: enjoy444 (5240)
+Seat 2: DJDiaper (2020)
+Seat 4: benjiman1 (1400)
+Seat 5: Ricardo_Ferrari79 (2000)
+Seat 6: hatoka (2027)
+Seat 7: Hashnail (986)
+Seat 8: FredLocks (1780)
+Seat 9: Kranich82 (1907)
+Seat 10: Rva20 (2640)
+benjiman1  posts small blind (20)
+Ricardo_Ferrari79  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 6s, 5d ]
+hatoka folds.
+Hashnail folds.
+FredLocks folds.
+Kranich82 folds.
+Rva20 folds.
+enjoy444 calls (40)
+DJDiaper folds.
+benjiman1 calls (20)
+Ricardo_Ferrari79 checks.
+** Dealing Flop ** :  [ 3c, Tc, 3s ]
+benjiman1 checks.
+Ricardo_Ferrari79 checks.
+enjoy444 checks.
+** Dealing Turn ** :  [ 2s ]
+benjiman1 checks.
+Ricardo_Ferrari79 checks.
+enjoy444 checks.
+** Dealing River ** :  [ 4d ]
+benjiman1 bets (40)
+Ricardo_Ferrari79 folds.
+enjoy444 folds.
+** Summary **
+Main Pot: 120
+Board: [ 3c Tc 3s 2s 4d  ]
+
+enjoy444 balance 5200, lost 40 (folded)
+DJDiaper balance 2020, didn't bet (folded)
+benjiman1 balance 1480, bet 80, collected 160, net +80
+Ricardo_Ferrari79 balance 1960, lost 40 (folded)
+hatoka balance 2027, didn't bet (folded)
+Hashnail balance 986, didn't bet (folded)
+FredLocks balance 1780, didn't bet (folded)
+Kranich82 balance 1907, didn't bet (folded)
+Rva20 balance 2640, didn't bet (folded)
+
+***** Hand History for Game 6004059369 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 08:37:46 EDT 2007
+Table Table  126510 (Real Money) -- Seat 4 is the button
+Total number of players : 9
+Seat 1: enjoy444 (5200)
+Seat 2: DJDiaper (2020)
+Seat 4: benjiman1 (1480)
+Seat 5: Ricardo_Ferrari79 (1960)
+Seat 6: hatoka (2027)
+Seat 7: Hashnail (986)
+Seat 8: FredLocks (1780)
+Seat 9: Kranich82 (1907)
+Seat 10: Rva20 (2640)
+Ricardo_Ferrari79  posts small blind (20)
+hatoka  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 8d, 4c ]
+Hashnail folds.
+FredLocks folds.
+Kranich82 folds.
+Rva20 folds.
+enjoy444 calls (40)
+DJDiaper calls (40)
+benjiman1 folds.
+Ricardo_Ferrari79 raises (180) to 200
+hatoka folds.
+enjoy444 folds.
+DJDiaper calls (160)
+** Dealing Flop ** :  [ 6d, 3c, Jc ]
+Ricardo_Ferrari79 bets (440)
+DJDiaper raises (880) to 880
+Ricardo_Ferrari79 raises (880) to 1320
+DJDiaper raises (880) to 1760
+Ricardo_Ferrari79 calls (440)
+Ricardo_Ferrari79 is all-In.
+** Dealing Turn ** :  [ As ]
+** Dealing River ** :  [ Kc ]
+Creating Main Pot with $4000 with Ricardo_Ferrari79
+** Summary **
+Main Pot: 4000
+Board: [ 6d 3c Jc As Kc  ]
+
+enjoy444 balance 5160, lost 40 (folded)
+DJDiaper balance 60, lost 1960 [ Jh Tc ] [ a pair of Jacks -- As,Kc,Jh,Jc,Tc ]
+benjiman1 balance 1480, didn't bet (folded)
+Ricardo_Ferrari79 balance 4000, bet 1960, collected 4000, net +2040 [ Ks Ad ] [ two pairs, Aces and Kings -- Ad,As,Ks,Kc,Jc ]
+hatoka balance 1987, lost 40 (folded)
+Hashnail balance 986, didn't bet (folded)
+FredLocks balance 1780, didn't bet (folded)
+Kranich82 balance 1907, didn't bet (folded)
+Rva20 balance 2640, didn't bet (folded)
+
+***** Hand History for Game 6004061290 *****
+DJDiaper: wtf?
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 08:38:38 EDT 2007
+Table Table  126510 (Real Money) -- Seat 5 is the button
+Total number of players : 9
+Seat 1: enjoy444 (5160)
+Seat 2: DJDiaper (60)
+Seat 4: benjiman1 (1480)
+Seat 5: Ricardo_Ferrari79 (4000)
+Seat 6: hatoka (1987)
+Seat 7: Hashnail (986)
+Seat 8: FredLocks (1780)
+Seat 9: Kranich82 (1907)
+Seat 10: Rva20 (2640)
+hatoka  posts small blind (20)
+Hashnail  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ Ah, 9h ]
+FredLocks calls (40)
+DJDiaper: hahahahaha
+Kranich82 folds.
+Rva20 folds.
+enjoy444 calls (40)
+DJDiaper folds.
+benjiman1 folds.
+Ricardo_Ferrari79 folds.
+hatoka raises (100) to 120
+Hashnail calls (80)
+FredLocks folds.
+enjoy444 calls (80)
+** Dealing Flop ** :  [ 8h, 9s, 8s ]
+hatoka bets (400)
+Hashnail folds.
+enjoy444 folds.
+** Summary **
+Main Pot: 400
+Board: [ 8h 9s 8s  ]
+
+enjoy444 balance 5040, lost 120 (folded)
+DJDiaper balance 60, didn't bet (folded)
+benjiman1 balance 1480, didn't bet (folded)
+Ricardo_Ferrari79 balance 4000, didn't bet (folded)
+hatoka balance 2267, bet 520, collected 800, net +280
+Hashnail balance 866, lost 120 (folded)
+FredLocks balance 1740, lost 40 (folded)
+Kranich82 balance 1907, didn't bet (folded)
+Rva20 balance 2640, didn't bet (folded)
+
+***** Hand History for Game 6004064156 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 08:39:54 EDT 2007
+Table Table  126510 (Real Money) -- Seat 6 is the button
+Total number of players : 9
+Seat 1: enjoy444 (5040)
+Seat 2: DJDiaper (60)
+Seat 4: benjiman1 (1480)
+Seat 5: Ricardo_Ferrari79 (4000)
+Seat 6: hatoka (2267)
+Seat 7: Hashnail (866)
+Seat 8: FredLocks (1740)
+Seat 9: Kranich82 (1907)
+Seat 10: Rva20 (2640)
+Hashnail  posts small blind (20)
+FredLocks  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ Qd, Kc ]
+Kranich82 folds.
+Rva20 calls (40)
+enjoy444 calls (40)
+DJDiaper raises (60) to 60
+DJDiaper is all-In.
+benjiman1 calls (60)
+Ricardo_Ferrari79 folds.
+hatoka raises (150) to 150
+Hashnail folds.
+FredLocks folds.
+Rva20 calls (110)
+enjoy444 calls (110)
+benjiman1 calls (90)
+Creating Main Pot with $360 with DJDiaper
+** Dealing Flop ** :  [ Ts, 4h, 3c ]
+Rva20 checks.
+enjoy444 checks.
+benjiman1 bets (1330)
+benjiman1 is all-In.
+hatoka folds.
+Rva20 folds.
+enjoy444 folds.
+** Dealing Turn ** :  [ Ah ]
+** Dealing River ** :  [ Td ]
+Creating Side Pot 1 with $360 with benjiman1
+** Summary **
+Main Pot: 360 | Side Pot 1: 360
+Board: [ Ts 4h 3c Ah Td  ]
+
+enjoy444 balance 4890, lost 150 (folded)
+DJDiaper balance 0, lost 60 [ Jh Ks ] [ a pair of Tens -- Ah,Ks,Jh,Ts,Td ]
+benjiman1 balance 2050, bet 1480, collected 2050, net +570 [ Jc 4c ] [ two pairs, Tens and Fours -- Ah,Ts,Td,4c,4h ]
+Ricardo_Ferrari79 balance 4000, didn't bet (folded)
+hatoka balance 2117, lost 150 (folded)
+Hashnail balance 846, lost 20 (folded)
+FredLocks balance 1700, lost 40 (folded)
+Kranich82 balance 1907, didn't bet (folded)
+Rva20 balance 2490, lost 150 (folded)
+
+***** Hand History for Game 6004067055 *****
+DJDiaper finished in 9 place.
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 08:41:13 EDT 2007
+Table Table  126510 (Real Money) -- Seat 7 is the button
+Total number of players : 8
+Seat 1: enjoy444 (4890)
+Seat 4: benjiman1 (2050)
+Seat 5: Ricardo_Ferrari79 (4000)
+Seat 6: hatoka (2117)
+Seat 7: Hashnail (846)
+Seat 8: FredLocks (1700)
+Seat 9: Kranich82 (1907)
+Seat 10: Rva20 (2490)
+FredLocks  posts small blind (20)
+Kranich82  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 6c, 2d ]
+Rva20 calls (40)
+enjoy444 calls (40)
+benjiman1 calls (40)
+Ricardo_Ferrari79 folds.
+hatoka folds.
+Hashnail folds.
+FredLocks calls (20)
+Kranich82 checks.
+** Dealing Flop ** :  [ 7d, Qd, Th ]
+FredLocks checks.
+Kranich82 checks.
+Rva20 bets (100)
+enjoy444 calls (100)
+benjiman1 folds.
+FredLocks folds.
+Kranich82 folds.
+** Dealing Turn ** :  [ 6s ]
+Rva20 bets (100)
+enjoy444 calls (100)
+** Dealing River ** :  [ 7h ]
+Rva20 bets (100)
+enjoy444 calls (100)
+** Summary **
+Main Pot: 800
+Board: [ 7d Qd Th 6s 7h  ]
+
+enjoy444 balance 4550, lost 340 [ Ks Tc ] [ two pairs, Tens and Sevens -- Ks,Tc,Th,7d,7h ]
+
+benjiman1 balance 2010, lost 40 (folded)
+Ricardo_Ferrari79 balance 4000, didn't bet (folded)
+hatoka balance 2117, didn't bet (folded)
+Hashnail balance 846, didn't bet (folded)
+FredLocks balance 1660, lost 40 (folded)
+Kranich82 balance 1867, lost 40 (folded)
+Rva20 balance 2950, bet 340, collected 800, net +460 [ 8c Qc ] [ two pairs, Queens and Sevens -- Qc,Qd,Th,7d,7h ]
+
+***** Hand History for Game 6004069388 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 08:42:14 EDT 2007
+Table Table  126510 (Real Money) -- Seat 8 is the button
+Total number of players : 8
+Seat 1: enjoy444 (4550)
+Seat 4: benjiman1 (2010)
+Seat 5: Ricardo_Ferrari79 (4000)
+Seat 6: hatoka (2117)
+Seat 7: Hashnail (846)
+Seat 8: FredLocks (1660)
+Seat 9: Kranich82 (1867)
+Seat 10: Rva20 (2950)
+Kranich82  posts small blind (30)
+Rva20  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 4c, As ]
+enjoy444 raises (120) to 120
+benjiman1 calls (120)
+Ricardo_Ferrari79 folds.
+hatoka folds.
+Hashnail calls (120)
+FredLocks folds.
+Kranich82 folds.
+Rva20 folds.
+** Dealing Flop ** :  [ 8d, 6d, Ts ]
+enjoy444 checks.
+benjiman1 checks.
+Hashnail checks.
+** Dealing Turn ** :  [ 9c ]
+enjoy444 bets (120)
+benjiman1 folds.
+Hashnail raises (240) to 240
+enjoy444 calls (120)
+** Dealing River ** :  [ 7d ]
+enjoy444 checks.
+Hashnail bets (486)
+Hashnail is all-In.
+enjoy444 calls (486)
+Creating Main Pot with $1902 with Hashnail
+** Summary **
+Main Pot: 1902
+Board: [ 8d 6d Ts 9c 7d  ]
+
+enjoy444 balance 3704, lost 846 [ 8h 8c ] [ a straight Six to Ten -- Ts,9c,8h,7d,6d ]
+benjiman1 balance 1890, lost 120 (folded)
+Ricardo_Ferrari79 balance 4000, didn't bet (folded)
+hatoka balance 2117, didn't bet (folded)
+Hashnail balance 1902, bet 846, collected 1902, net +1056 [ Js 7s ] [ a straight Seven to Jack -- Js,Ts,9c,8d,7s ]
+FredLocks balance 1660, didn't bet (folded)
+Kranich82 balance 1837, lost 30 (folded)
+Rva20 balance 2890, lost 60 (folded)
+
+***** Hand History for Game 6004071587 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 08:43:13 EDT 2007
+Table Table  126510 (Real Money) -- Seat 9 is the button
+Total number of players : 8
+Seat 1: enjoy444 (3704)
+Seat 4: benjiman1 (1890)
+Seat 5: Ricardo_Ferrari79 (4000)
+Seat 6: hatoka (2117)
+Seat 7: Hashnail (1902)
+Seat 8: FredLocks (1660)
+Seat 9: Kranich82 (1837)
+Seat 10: Rva20 (2890)
+Rva20  posts small blind (30)
+enjoy444  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Jd, 8c ]
+benjiman1 folds.
+Ricardo_Ferrari79 folds.
+hatoka folds.
+Hashnail raises (120) to 120
+FredLocks calls (120)
+Kranich82 folds.
+Rva20 raises (150) to 180
+enjoy444 calls (120)
+Hashnail raises (120) to 240
+FredLocks calls (120)
+Rva20 calls (60)
+enjoy444 calls (60)
+** Dealing Flop ** :  [ 3s, 7h, 4c ]
+Rva20 checks.
+enjoy444 checks.
+Hashnail bets (600)
+FredLocks folds.
+Rva20 calls (600)
+enjoy444 folds.
+** Dealing Turn ** :  [ 9c ]
+Rva20 checks.
+Hashnail bets (1020)
+Rva20 calls (1020)
+** Dealing River ** :  [ 2d ]
+Rva20 checks.
+Hashnail bets (42)
+Hashnail is all-In.
+Rva20 calls (42)
+Creating Main Pot with $4284 with Hashnail
+** Summary **
+Main Pot: 4284
+Board: [ 3s 7h 4c 9c 2d  ]
+
+enjoy444 balance 3464, lost 240 (folded)
+benjiman1 balance 1890, didn't bet (folded)
+Ricardo_Ferrari79 balance 4000, didn't bet (folded)
+hatoka balance 2117, didn't bet (folded)
+Hashnail balance 4284, bet 1902, collected 4284, net +2382 [ Kd Kc ] [ a pair of Kings -- Kd,Kc,9c,7h,4c ]
+FredLocks balance 1420, lost 240 (folded)
+Kranich82 balance 1837, didn't bet (folded)
+Rva20 balance 988, lost 1902 [ Td Th ] [ a pair of Tens -- Td,Th,9c,7h,4c ]
+
+***** Hand History for Game 6004074263 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 08:44:24 EDT 2007
+Table Table  126510 (Real Money) -- Seat 10 is the button
+Total number of players : 8
+Seat 1: enjoy444 (3464)
+Seat 4: benjiman1 (1890)
+Seat 5: Ricardo_Ferrari79 (4000)
+Seat 6: hatoka (2117)
+Seat 7: Hashnail (4284)
+Seat 8: FredLocks (1420)
+Seat 9: Kranich82 (1837)
+Seat 10: Rva20 (988)
+enjoy444  posts small blind (30)
+benjiman1  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Kc, 3s ]
+Ricardo_Ferrari79 folds.
+hatoka folds.
+Hashnail folds.
+FredLocks folds.
+Kranich82 folds.
+Rva20 folds.
+enjoy444 calls (30)
+benjiman1 checks.
+** Dealing Flop ** :  [ 9h, Jh, 5s ]
+enjoy444 checks.
+benjiman1 checks.
+** Dealing Turn ** :  [ 7h ]
+enjoy444 checks.
+benjiman1 checks.
+** Dealing River ** :  [ 4c ]
+enjoy444 checks.
+benjiman1 bets (360)
+enjoy444 folds.
+** Summary **
+Main Pot: 120
+Board: [ 9h Jh 5s 7h 4c  ]
+
+enjoy444 balance 3404, lost 60 (folded)
+benjiman1 balance 1950, bet 420, collected 480, net +60
+Ricardo_Ferrari79 balance 4000, didn't bet (folded)
+hatoka balance 2117, didn't bet (folded)
+Hashnail balance 4284, didn't bet (folded)
+FredLocks balance 1420, didn't bet (folded)
+Kranich82 balance 1837, didn't bet (folded)
+Rva20 balance 988, didn't bet (folded)
+
+***** Hand History for Game 6004076671 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 08:45:24 EDT 2007
+Table Table  126510 (Real Money) -- Seat 1 is the button
+Total number of players : 8
+Seat 1: enjoy444 (3404)
+Seat 4: benjiman1 (1950)
+Seat 5: Ricardo_Ferrari79 (4000)
+Seat 6: hatoka (2117)
+Seat 7: Hashnail (4284)
+Seat 8: FredLocks (1420)
+Seat 9: Kranich82 (1837)
+Seat 10: Rva20 (988)
+benjiman1  posts small blind (30)
+Ricardo_Ferrari79  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Qc, 4d ]
+hatoka folds.
+Hashnail folds.
+FredLocks folds.
+Kranich82 calls (60)
+Rva20 folds.
+enjoy444 calls (60)
+benjiman1 folds.
+Ricardo_Ferrari79 checks.
+** Dealing Flop ** :  [ 5h, Jc, 8h ]
+Ricardo_Ferrari79 checks.
+Kranich82 bets (60)
+enjoy444 raises (240) to 240
+Ricardo_Ferrari79 folds.
+Kranich82 folds.
+** Summary **
+Main Pot: 330
+Board: [ 5h Jc 8h  ]
+
+enjoy444 balance 3614, bet 300, collected 510, net +210
+benjiman1 balance 1920, lost 30 (folded)
+Ricardo_Ferrari79 balance 3940, lost 60 (folded)
+hatoka balance 2117, didn't bet (folded)
+Hashnail balance 4284, didn't bet (folded)
+FredLocks balance 1420, didn't bet (folded)
+Kranich82 balance 1717, lost 120 (folded)
+Rva20 balance 988, didn't bet (folded)
+
+***** Hand History for Game 6004078031 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 08:45:59 EDT 2007
+Table Table  126510 (Real Money) -- Seat 4 is the button
+Total number of players : 8
+Seat 1: enjoy444 (3614)
+Seat 4: benjiman1 (1920)
+Seat 5: Ricardo_Ferrari79 (3940)
+Seat 6: hatoka (2117)
+Seat 7: Hashnail (4284)
+Seat 8: FredLocks (1420)
+Seat 9: Kranich82 (1717)
+Seat 10: Rva20 (988)
+Ricardo_Ferrari79  posts small blind (30)
+hatoka  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Ad, Td ]
+Hashnail folds.
+FredLocks folds.
+Kranich82 calls (60)
+Rva20 folds.
+enjoy444 calls (60)
+benjiman1 calls (60)
+Ricardo_Ferrari79 calls (30)
+hatoka raises (120) to 180
+Kranich82 calls (120)
+enjoy444 calls (120)
+benjiman1 calls (120)
+Ricardo_Ferrari79 folds.
+** Dealing Flop ** :  [ 7h, 7c, 7s ]
+hatoka checks.
+Kranich82 checks.
+enjoy444 checks.
+benjiman1 bets (180)
+hatoka calls (180)
+Kranich82 calls (180)
+enjoy444 folds.
+** Dealing Turn ** :  [ Kc ]
+hatoka bets (500)
+Kranich82 folds.
+benjiman1 folds.
+** Summary **
+Main Pot: 1320
+Board: [ 7h 7c 7s Kc  ]
+
+enjoy444 balance 3434, lost 180 (folded)
+benjiman1 balance 1560, lost 360 (folded)
+Ricardo_Ferrari79 balance 3880, lost 60 (folded)
+hatoka balance 3077, bet 860, collected 1820, net +960
+Hashnail balance 4284, didn't bet (folded)
+FredLocks balance 1420, didn't bet (folded)
+Kranich82 balance 1357, lost 360 (folded)
+Rva20 balance 988, didn't bet (folded)
+
+***** Hand History for Game 6004081093 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 08:47:19 EDT 2007
+Table Table  126510 (Real Money) -- Seat 5 is the button
+Total number of players : 8
+Seat 1: enjoy444 (3434)
+Seat 4: benjiman1 (1560)
+Seat 5: Ricardo_Ferrari79 (3880)
+Seat 6: hatoka (3077)
+Seat 7: Hashnail (4284)
+Seat 8: FredLocks (1420)
+Seat 9: Kranich82 (1357)
+Seat 10: Rva20 (988)
+hatoka  posts small blind (30)
+Hashnail  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 8c, Kd ]
+FredLocks folds.
+Kranich82 folds.
+Rva20 folds.
+enjoy444 folds.
+benjiman1 calls (60)
+Ricardo_Ferrari79 calls (60)
+hatoka calls (30)
+Hashnail checks.
+** Dealing Flop ** :  [ 7d, 9d, 5s ]
+hatoka checks.
+Hashnail bets (60)
+benjiman1 calls (60)
+Ricardo_Ferrari79 calls (60)
+hatoka calls (60)
+** Dealing Turn ** :  [ 9c ]
+hatoka checks.
+Hashnail bets (180)
+benjiman1 calls (180)
+Ricardo_Ferrari79 folds.
+hatoka folds.
+** Dealing River ** :  [ 6h ]
+Hashnail bets (360)
+benjiman1 raises (1260) to 1260
+benjiman1 is all-In.
+Hashnail folds.
+Creating Main Pot with $1560 with benjiman1
+** Summary **
+Main Pot: 1560
+Board: [ 7d 9d 5s 9c 6h  ]
+
+enjoy444 balance 3434, didn't bet (folded)
+benjiman1 balance 2460, bet 1560, collected 2460, net +900
+Ricardo_Ferrari79 balance 3760, lost 120 (folded)
+hatoka balance 2957, lost 120 (folded)
+Hashnail balance 3624, lost 660 (folded)
+FredLocks balance 1420, didn't bet (folded)
+Kranich82 balance 1357, didn't bet (folded)
+Rva20 balance 988, didn't bet (folded)
+
+***** Hand History for Game 6004084314 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 08:48:40 EDT 2007
+Table Table  126510 (Real Money) -- Seat 6 is the button
+Total number of players : 8
+Seat 1: enjoy444 (3434)
+Seat 4: benjiman1 (2460)
+Seat 5: Ricardo_Ferrari79 (3760)
+Seat 6: hatoka (2957)
+Seat 7: Hashnail (3624)
+Seat 8: FredLocks (1420)
+Seat 9: Kranich82 (1357)
+Seat 10: Rva20 (988)
+Hashnail  posts small blind (30)
+FredLocks  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 4h, 4s ]
+Kranich82 folds.
+Rva20 folds.
+enjoy444 folds.
+benjiman1 folds.
+Ricardo_Ferrari79 folds.
+hatoka raises (120) to 120
+Hashnail calls (90)
+FredLocks calls (60)
+** Dealing Flop ** :  [ 6h, 7h, Jh ]
+Hashnail checks.
+FredLocks checks.
+hatoka bets (120)
+Hashnail folds.
+FredLocks folds.
+** Summary **
+Main Pot: 360
+Board: [ 6h 7h Jh  ]
+
+enjoy444 balance 3434, didn't bet (folded)
+benjiman1 balance 2460, didn't bet (folded)
+Ricardo_Ferrari79 balance 3760, didn't bet (folded)
+hatoka balance 3197, bet 240, collected 480, net +240
+Hashnail balance 3504, lost 120 (folded)
+FredLocks balance 1300, lost 120 (folded)
+Kranich82 balance 1357, didn't bet (folded)
+Rva20 balance 988, didn't bet (folded)
+
+***** Hand History for Game 6004085909 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 08:49:19 EDT 2007
+Table Table  126510 (Real Money) -- Seat 7 is the button
+Total number of players : 8
+Seat 1: enjoy444 (3434)
+Seat 4: benjiman1 (2460)
+Seat 5: Ricardo_Ferrari79 (3760)
+Seat 6: hatoka (3197)
+Seat 7: Hashnail (3504)
+Seat 8: FredLocks (1300)
+Seat 9: Kranich82 (1357)
+Seat 10: Rva20 (988)
+FredLocks  posts small blind (30)
+Kranich82  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 9s, 5h ]
+Rva20 folds.
+enjoy444 folds.
+benjiman1 calls (60)
+Ricardo_Ferrari79 folds.
+hatoka folds.
+Hashnail calls (60)
+FredLocks calls (30)
+Kranich82 checks.
+** Dealing Flop ** :  [ 3d, Ad, Jd ]
+FredLocks checks.
+Kranich82 bets (60)
+benjiman1 calls (60)
+Hashnail folds.
+FredLocks folds.
+** Dealing Turn ** :  [ Tc ]
+Kranich82 bets (60)
+benjiman1 calls (60)
+** Dealing River ** :  [ 5c ]
+Kranich82 bets (60)
+benjiman1 calls (60)
+** Summary **
+Main Pot: 600
+Board: [ 3d Ad Jd Tc 5c  ]
+
+enjoy444 balance 3434, didn't bet (folded)
+benjiman1 balance 2820, bet 240, collected 600, net +360 [ Td 9h ] [ a pair of Tens -- Ad,Jd,Td,Tc,9h ]
+Ricardo_Ferrari79 balance 3760, didn't bet (folded)
+hatoka balance 3197, didn't bet (folded)
+Hashnail balance 3444, lost 60 (folded)
+FredLocks balance 1240, lost 60 (folded)
+Kranich82 balance 1117, lost 240 [ 6d 3c ] [ a pair of Threes -- Ad,Jd,Tc,3c,3d ]
+Rva20 balance 988, didn't bet (folded)
+
+***** Hand History for Game 6004087729 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 08:50:05 EDT 2007
+Table Table  126510 (Real Money) -- Seat 8 is the button
+Total number of players : 8
+Seat 1: enjoy444 (3434)
+Seat 4: benjiman1 (2820)
+Seat 5: Ricardo_Ferrari79 (3760)
+Seat 6: hatoka (3197)
+Seat 7: Hashnail (3444)
+Seat 8: FredLocks (1240)
+Seat 9: Kranich82 (1117)
+Seat 10: Rva20 (988)
+Kranich82  posts small blind (30)
+Rva20  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 9s, Th ]
+enjoy444 calls (60)
+benjiman1 calls (60)
+Ricardo_Ferrari79 folds.
+hatoka folds.
+Hashnail calls (60)
+FredLocks calls (60)
+Kranich82 folds.
+Rva20 checks.
+** Dealing Flop ** :  [ As, 7s, Kc ]
+Rva20 checks.
+enjoy444 checks.
+benjiman1 checks.
+Hashnail checks.
+FredLocks bets (120)
+Rva20 folds.
+enjoy444 calls (120)
+benjiman1 folds.
+Hashnail calls (120)
+** Dealing Turn ** :  [ 7h ]
+enjoy444 checks.
+Hashnail checks.
+FredLocks bets (120)
+enjoy444 raises (480) to 480
+Hashnail folds.
+FredLocks folds.
+** Summary **
+Main Pot: 930
+Board: [ As 7s Kc 7h  ]
+
+enjoy444 balance 4064, bet 660, collected 1290, net +630
+benjiman1 balance 2760, lost 60 (folded)
+Ricardo_Ferrari79 balance 3760, didn't bet (folded)
+hatoka balance 3197, didn't bet (folded)
+Hashnail balance 3264, lost 180 (folded)
+FredLocks balance 940, lost 300 (folded)
+Kranich82 balance 1087, lost 30 (folded)
+Rva20 balance 928, lost 60 (folded)
+
+***** Hand History for Game 6004091290 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 08:51:36 EDT 2007
+Table Table  126510 (Real Money) -- Seat 9 is the button
+Total number of players : 8
+Seat 1: enjoy444 (4064)
+Seat 4: benjiman1 (2760)
+Seat 5: Ricardo_Ferrari79 (3760)
+Seat 6: hatoka (3197)
+Seat 7: Hashnail (3264)
+Seat 8: FredLocks (940)
+Seat 9: Kranich82 (1087)
+Seat 10: Rva20 (928)
+Rva20  posts small blind (30)
+enjoy444  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Qd, Tc ]
+benjiman1 folds.
+Ricardo_Ferrari79 folds.
+hatoka raises (120) to 120
+Hashnail calls (120)
+FredLocks calls (120)
+Kranich82 folds.
+Rva20 folds.
+enjoy444 calls (60)
+** Dealing Flop ** :  [ 9h, 3h, Td ]
+enjoy444 checks.
+hatoka bets (500)
+Hashnail calls (500)
+FredLocks folds.
+enjoy444 folds.
+** Dealing Turn ** :  [ Kc ]
+hatoka checks.
+Hashnail bets (360)
+hatoka calls (360)
+** Dealing River ** :  [ 7d ]
+hatoka checks.
+Hashnail bets (2284)
+Hashnail is all-In.
+hatoka folds.
+Creating Main Pot with $2230 with Hashnail
+** Summary **
+Main Pot: 2230
+Board: [ 9h 3h Td Kc 7d  ]
+
+enjoy444 balance 3944, lost 120 (folded)
+benjiman1 balance 2760, didn't bet (folded)
+Ricardo_Ferrari79 balance 3760, didn't bet (folded)
+hatoka balance 2217, lost 980 (folded)
+Hashnail balance 4514, bet 3264, collected 4514, net +1250
+FredLocks balance 820, lost 120 (folded)
+Kranich82 balance 1087, didn't bet (folded)
+Rva20 balance 898, lost 30 (folded)
+
+***** Hand History for Game 6004093884 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 08:52:42 EDT 2007
+Table Table  126510 (Real Money) -- Seat 10 is the button
+Total number of players : 8
+Seat 1: enjoy444 (3944)
+Seat 4: benjiman1 (2760)
+Seat 5: Ricardo_Ferrari79 (3760)
+Seat 6: hatoka (2217)
+Seat 7: Hashnail (4514)
+Seat 8: FredLocks (820)
+Seat 9: Kranich82 (1087)
+Seat 10: Rva20 (898)
+enjoy444  posts small blind (50)
+benjiman1  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 6s, Ah ]
+Ricardo_Ferrari79 folds.
+hatoka folds.
+Hashnail folds.
+FredLocks raises (300) to 300
+Kranich82 folds.
+Rva20 folds.
+enjoy444 folds.
+benjiman1 calls (200)
+** Dealing Flop ** :  [ 6d, Kd, 6c ]
+benjiman1 checks.
+FredLocks bets (520)
+FredLocks is all-In.
+benjiman1 folds.
+Creating Main Pot with $650 with FredLocks
+** Summary **
+Main Pot: 650
+Board: [ 6d Kd 6c  ]
+
+enjoy444 balance 3894, lost 50 (folded)
+benjiman1 balance 2460, lost 300 (folded)
+Ricardo_Ferrari79 balance 3760, didn't bet (folded)
+hatoka balance 2217, didn't bet (folded)
+Hashnail balance 4514, didn't bet (folded)
+FredLocks balance 1170, bet 820, collected 1170, net +350
+Kranich82 balance 1087, didn't bet (folded)
+Rva20 balance 898, didn't bet (folded)
+
+***** Hand History for Game 6004095246 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 08:53:17 EDT 2007
+Table Table  126510 (Real Money) -- Seat 1 is the button
+Total number of players : 8
+Seat 1: enjoy444 (3894)
+Seat 4: benjiman1 (2460)
+Seat 5: Ricardo_Ferrari79 (3760)
+Seat 6: hatoka (2217)
+Seat 7: Hashnail (4514)
+Seat 8: FredLocks (1170)
+Seat 9: Kranich82 (1087)
+Seat 10: Rva20 (898)
+benjiman1  posts small blind (50)
+Ricardo_Ferrari79  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 6s, 8c ]
+hatoka folds.
+Hashnail folds.
+FredLocks calls (100)
+Kranich82 raises (400) to 400
+Rva20 folds.
+enjoy444 folds.
+benjiman1 calls (350)
+Ricardo_Ferrari79 folds.
+FredLocks calls (300)
+** Dealing Flop ** :  [ 9h, 5c, Qs ]
+benjiman1 bets (2060)
+benjiman1 is all-In.
+FredLocks calls (770)
+FredLocks is all-In.
+Kranich82 calls (687)
+Kranich82 is all-In.
+** Dealing Turn ** :  [ 6d ]
+** Dealing River ** :  [ Ts ]
+Creating Main Pot with $3361 with Kranich82
+Creating Side Pot 1 with $166 with FredLocks
+** Summary **
+Main Pot: 3361 | Side Pot 1: 166
+Board: [ 9h 5c Qs 6d Ts  ]
+
+enjoy444 balance 3894, didn't bet (folded)
+benjiman1 balance 1290, bet 2460, collected 1290, lost -1170 [ 7d 9d ] [ a pair of Nines -- Qs,Ts,9d,9h,7d ]
+Ricardo_Ferrari79 balance 3660, lost 100 (folded)
+hatoka balance 2217, didn't bet (folded)
+Hashnail balance 4514, didn't bet (folded)
+FredLocks balance 166, bet 1170, collected 166, lost -1004 [ Qc Kh ] [ a pair of Queens -- Kh,Qc,Qs,Ts,9h ]
+Kranich82 balance 3361, bet 1087, collected 3361, net +2274 [ Qh Qd ] [ three of a kind, Queens -- Qh,Qd,Qs,Ts,9h ]
+Rva20 balance 898, didn't bet (folded)
+
+***** Hand History for Game 6004097049 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 08:54:03 EDT 2007
+Table Table  126510 (Real Money) -- Seat 4 is the button
+Total number of players : 8
+Seat 1: enjoy444 (3894)
+Seat 4: benjiman1 (1290)
+Seat 5: Ricardo_Ferrari79 (3660)
+Seat 6: hatoka (2217)
+Seat 7: Hashnail (4514)
+Seat 8: FredLocks (166)
+Seat 9: Kranich82 (3361)
+Seat 10: Rva20 (898)
+Ricardo_Ferrari79  posts small blind (50)
+hatoka  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Ts, Qh ]
+Hashnail calls (100)
+FredLocks folds.
+Kranich82 folds.
+Rva20 folds.
+enjoy444 calls (100)
+benjiman1 folds.
+Ricardo_Ferrari79 calls (50)
+hatoka checks.
+** Dealing Flop ** :  [ Qs, 8d, 2c ]
+Ricardo_Ferrari79 checks.
+hatoka bets (400)
+Hashnail calls (400)
+enjoy444 folds.
+Ricardo_Ferrari79 folds.
+** Dealing Turn ** :  [ Jd ]
+hatoka bets (500)
+Hashnail calls (500)
+** Dealing River ** :  [ Ac ]
+hatoka bets (300)
+Hashnail folds.
+** Summary **
+Main Pot: 2200
+Board: [ Qs 8d 2c Jd Ac  ]
+
+enjoy444 balance 3794, lost 100 (folded)
+benjiman1 balance 1290, didn't bet (folded)
+Ricardo_Ferrari79 balance 3560, lost 100 (folded)
+hatoka balance 3417, bet 1300, collected 2500, net +1200
+Hashnail balance 3514, lost 1000 (folded)
+FredLocks balance 166, didn't bet (folded)
+Kranich82 balance 3361, didn't bet (folded)
+Rva20 balance 898, didn't bet (folded)
+
+***** Hand History for Game 6004099722 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 08:55:13 EDT 2007
+Table Table  126510 (Real Money) -- Seat 5 is the button
+Total number of players : 8
+Seat 1: enjoy444 (3794)
+Seat 4: benjiman1 (1290)
+Seat 5: Ricardo_Ferrari79 (3560)
+Seat 6: hatoka (3417)
+Seat 7: Hashnail (3514)
+Seat 8: FredLocks (166)
+Seat 9: Kranich82 (3361)
+Seat 10: Rva20 (898)
+hatoka  posts small blind (50)
+Hashnail  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 8c, 5h ]
+FredLocks folds.
+Kranich82 raises (361) to 361
+Rva20 folds.
+enjoy444 folds.
+benjiman1 calls (361)
+Ricardo_Ferrari79 folds.
+hatoka folds.
+Hashnail calls (261)
+** Dealing Flop ** :  [ 9h, 7d, Ah ]
+Hashnail checks.
+Kranich82 checks.
+benjiman1 checks.
+** Dealing Turn ** :  [ 5c ]
+Hashnail checks.
+Kranich82 bets (300)
+benjiman1 calls (300)
+Hashnail folds.
+** Dealing River ** :  [ Jh ]
+Kranich82 bets (2700)
+Kranich82 is all-In.
+benjiman1 folds.
+Creating Main Pot with $1733 with Kranich82
+** Summary **
+Main Pot: 1733
+Board: [ 9h 7d Ah 5c Jh  ]
+
+enjoy444 balance 3794, didn't bet (folded)
+benjiman1 balance 629, lost 661 (folded)
+Ricardo_Ferrari79 balance 3560, didn't bet (folded)
+hatoka balance 3367, lost 50 (folded)
+Hashnail balance 3153, lost 361 (folded)
+FredLocks balance 166, didn't bet (folded)
+Kranich82 balance 4433, bet 3361, collected 4433, net +1072 [ 9d 9s ] [ three of a kind, Nines -- Ah,Jh,9d,9s,9h ]
+Rva20 balance 898, didn't bet (folded)
+
+***** Hand History for Game 6004101376 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 08:55:56 EDT 2007
+Table Table  126510 (Real Money) -- Seat 6 is the button
+Total number of players : 8
+Seat 1: enjoy444 (3794)
+Seat 4: benjiman1 (629)
+Seat 5: Ricardo_Ferrari79 (3560)
+Seat 6: hatoka (3367)
+Seat 7: Hashnail (3153)
+Seat 8: FredLocks (166)
+Seat 9: Kranich82 (4433)
+Seat 10: Rva20 (898)
+Hashnail  posts small blind (50)
+FredLocks  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Jh, Ah ]
+Kranich82 folds.
+Rva20 folds.
+enjoy444 folds.
+benjiman1 folds.
+Ricardo_Ferrari79 folds.
+hatoka raises (300) to 300
+Hashnail calls (250)
+FredLocks calls (66)
+FredLocks is all-In.
+Creating Main Pot with $498 with FredLocks
+** Dealing Flop ** :  [ Ad, 2h, Qc ]
+Hashnail checks.
+hatoka bets (600)
+Hashnail folds.
+** Dealing Turn ** :  [ Ac ]
+** Dealing River ** :  [ 3d ]
+** Summary **
+Main Pot: 498 | Side Pot 1: 268
+Board: [ Ad 2h Qc Ac 3d  ]
+
+enjoy444 balance 3794, didn't bet (folded)
+benjiman1 balance 629, didn't bet (folded)
+Ricardo_Ferrari79 balance 3560, didn't bet (folded)
+hatoka balance 3833, bet 900, collected 1366, net +466 [ Jh Ah ] [ three of a kind, Aces -- Ah,Ad,Ac,Qc,Jh ]
+Hashnail balance 2853, lost 300 (folded)
+FredLocks balance 0, lost 166 [ 4h 9s ] [ a pair of Aces -- Ad,Ac,Qc,9s,4h ]
+Kranich82 balance 4433, didn't bet (folded)
+Rva20 balance 898, didn't bet (folded)
+
+***** Hand History for Game 6004103168 *****
+FredLocks finished in 8 place.
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 08:56:42 EDT 2007
+Table Table  126510 (Real Money) -- Seat 7 is the button
+Total number of players : 7
+Seat 1: enjoy444 (3794)
+Seat 4: benjiman1 (629)
+Seat 5: Ricardo_Ferrari79 (3560)
+Seat 6: hatoka (3833)
+Seat 7: Hashnail (2853)
+Seat 9: Kranich82 (4433)
+Seat 10: Rva20 (898)
+Kranich82  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Ac, Ks ]
+Rva20 folds.
+enjoy444 folds.
+benjiman1 folds.
+Ricardo_Ferrari79 folds.
+hatoka raises (300) to 300
+Hashnail folds.
+Kranich82 folds.
+** Summary **
+Main Pot: 200
+
+enjoy444 balance 3794, didn't bet (folded)
+benjiman1 balance 629, didn't bet (folded)
+Ricardo_Ferrari79 balance 3560, didn't bet (folded)
+hatoka balance 3933, bet 300, collected 400, net +100
+Hashnail balance 2853, didn't bet (folded)
+Kranich82 balance 4333, lost 100 (folded)
+Rva20 balance 898, didn't bet (folded)
+
+***** Hand History for Game 6004103854 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 08:57:00 EDT 2007
+Table Table  126510 (Real Money) -- Seat 7 is the button
+Total number of players : 7
+Seat 1: enjoy444 (3794)
+Seat 4: benjiman1 (629)
+Seat 5: Ricardo_Ferrari79 (3560)
+Seat 6: hatoka (3933)
+Seat 7: Hashnail (2853)
+Seat 9: Kranich82 (4333)
+Seat 10: Rva20 (898)
+Kranich82  posts small blind (50)
+Rva20  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 3c, Jc ]
+enjoy444 folds.
+benjiman1 raises (629) to 629
+benjiman1 is all-In.
+Ricardo_Ferrari79 folds.
+hatoka folds.
+Hashnail folds.
+Kranich82 folds.
+Rva20 calls (529)
+** Dealing Flop ** :  [ Qs, Kc, Kh ]
+** Dealing Turn ** :  [ As ]
+** Dealing River ** :  [ 9s ]
+Creating Main Pot with $1308 with benjiman1
+** Summary **
+Main Pot: 1308
+Board: [ Qs Kc Kh As 9s  ]
+
+enjoy444 balance 3794, didn't bet (folded)
+benjiman1 balance 1308, bet 629, collected 1308, net +679 [ 7s 5s ] [ a flush, Ace high -- As,Qs,9s,7s,5s ]
+Ricardo_Ferrari79 balance 3560, didn't bet (folded)
+hatoka balance 3933, didn't bet (folded)
+Hashnail balance 2853, didn't bet (folded)
+Kranich82 balance 4283, lost 50 (folded)
+Rva20 balance 269, lost 629 [ Ah 9d ] [ two pairs, Aces and Kings -- Ah,As,Kc,Kh,Qs ]
+
+***** Hand History for Game 6004104760 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 08:57:23 EDT 2007
+Table Table  126510 (Real Money) -- Seat 9 is the button
+Total number of players : 7
+Seat 1: enjoy444 (3794)
+Seat 4: benjiman1 (1308)
+Seat 5: Ricardo_Ferrari79 (3560)
+Seat 6: hatoka (3933)
+Seat 7: Hashnail (2853)
+Seat 9: Kranich82 (4283)
+Seat 10: Rva20 (269)
+Rva20  posts small blind (50)
+enjoy444  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Td, Ks ]
+benjiman1 raises (1308) to 1308
+benjiman1 is all-In.
+Ricardo_Ferrari79 folds.
+Kranich82: autsch
+hatoka folds.
+Hashnail folds.
+Kranich82 folds.
+Rva20 calls (219)
+Rva20 is all-In.
+enjoy444 folds.
+** Dealing Flop ** :  [ Ts, 7d, 7c ]
+** Dealing Turn ** :  [ 6c ]
+** Dealing River ** :  [ 3c ]
+Creating Main Pot with $638 with Rva20
+** Summary **
+Main Pot: 638
+Board: [ Ts 7d 7c 6c 3c  ]
+
+enjoy444 balance 3694, lost 100 (folded)
+benjiman1 balance 1677, bet 1308, collected 1677, net +369 [ 8h 8c ] [ two pairs, Eights and Sevens -- Ts,8h,8c,7d,7c ]
+Ricardo_Ferrari79 balance 3560, didn't bet (folded)
+hatoka balance 3933, didn't bet (folded)
+Hashnail balance 2853, didn't bet (folded)
+Kranich82 balance 4283, didn't bet (folded)
+Rva20 balance 0, lost 269 [ Kh 6s ] [ two pairs, Sevens and Sixes -- Kh,7d,7c,6s,6c ]
+
+***** Hand History for Game 6004105710 *****
+Rva20 finished in 7 place.
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 08:57:48 EDT 2007
+Table Table  126510 (Real Money) -- Seat 9 is the button
+Total number of players : 6
+Seat 1: enjoy444 (3694)
+Seat 4: benjiman1 (1677)
+Seat 5: Ricardo_Ferrari79 (3560)
+Seat 6: hatoka (3933)
+Seat 7: Hashnail (2853)
+Seat 9: Kranich82 (4283)
+enjoy444  posts small blind (50)
+benjiman1  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Ah, Tc ]
+Ricardo_Ferrari79 folds.
+hatoka raises (300) to 300
+Hashnail calls (300)
+Kranich82 folds.
+enjoy444 folds.
+benjiman1 raises (1577) to 1677
+benjiman1 is all-In.
+hatoka calls (1377)
+Hashnail folds.
+** Dealing Flop ** :  [ 3s, Qd, 9h ]
+** Dealing Turn ** :  [ 9s ]
+** Dealing River ** :  [ 4s ]
+Creating Main Pot with $3704 with benjiman1
+** Summary **
+Main Pot: 3704
+Board: [ 3s Qd 9h 9s 4s  ]
+
+enjoy444 balance 3644, lost 50 (folded)
+benjiman1 balance 3704, bet 1677, collected 3704, net +2027 [ As Js ] [ a flush, Ace high -- As,Js,9s,4s,3s ]
+Ricardo_Ferrari79 balance 3560, didn't bet (folded)
+hatoka balance 2256, lost 1677 [ Ah Tc ] [ a pair of Nines -- Ah,Qd,Tc,9h,9s ]
+Hashnail balance 2553, lost 300 (folded)
+Kranich82 balance 4283, didn't bet (folded)
+
+***** Hand History for Game 6004106927 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 08:58:19 EDT 2007
+Table Table  126510 (Real Money) -- Seat 1 is the button
+Total number of players : 6
+Seat 1: enjoy444 (3644)
+Seat 4: benjiman1 (3704)
+Seat 5: Ricardo_Ferrari79 (3560)
+Seat 6: hatoka (2256)
+Seat 7: Hashnail (2553)
+Seat 9: Kranich82 (4283)
+benjiman1  posts small blind (50)
+Ricardo_Ferrari79  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 6s, 6d ]
+hatoka raises (200) to 200
+Hashnail folds.
+Kranich82 folds.
+enjoy444 calls (200)
+benjiman1 folds.
+Ricardo_Ferrari79 calls (100)
+** Dealing Flop ** :  [ 4d, 2s, Th ]
+Ricardo_Ferrari79 checks.
+hatoka bets (650)
+enjoy444 calls (650)
+Ricardo_Ferrari79 folds.
+** Dealing Turn ** :  [ 3h ]
+hatoka checks.
+enjoy444 checks.
+** Dealing River ** :  [ Jc ]
+hatoka bets (200)
+enjoy444 calls (200)
+** Summary **
+Main Pot: 2350
+Board: [ 4d 2s Th 3h Jc  ]
+
+enjoy444 balance 4944, bet 1050, collected 2350, net +1300 [ Tc Qc ] [ a pair of Tens -- Qc,Jc,Tc,Th,4d ]
+benjiman1 balance 3654, lost 50 (folded)
+Ricardo_Ferrari79 balance 3360, lost 200 (folded)
+hatoka balance 1206, lost 1050 [ 6s 6d ] [ a pair of Sixes -- Jc,Th,6s,6d,4d ]
+Hashnail balance 2553, didn't bet (folded)
+Kranich82 balance 4283, didn't bet (folded)
+
+***** Hand History for Game 6004108729 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 08:59:05 EDT 2007
+Table Table  126510 (Real Money) -- Seat 4 is the button
+Total number of players : 6
+Seat 1: enjoy444 (4944)
+Seat 4: benjiman1 (3654)
+Seat 5: Ricardo_Ferrari79 (3360)
+Seat 6: hatoka (1206)
+Seat 7: Hashnail (2553)
+Seat 9: Kranich82 (4283)
+Ricardo_Ferrari79  posts small blind (50)
+hatoka  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Kh, 5h ]
+Hashnail folds.
+Kranich82 calls (100)
+enjoy444 folds.
+benjiman1 calls (100)
+Ricardo_Ferrari79 calls (50)
+hatoka checks.
+** Dealing Flop ** :  [ 5c, As, 3c ]
+Ricardo_Ferrari79 checks.
+hatoka checks.
+Kranich82 bets (283)
+benjiman1 calls (283)
+Ricardo_Ferrari79 folds.
+hatoka folds.
+** Dealing Turn ** :  [ Qh ]
+Kranich82 checks.
+benjiman1 checks.
+** Dealing River ** :  [ Td ]
+Kranich82 checks.
+benjiman1 bets (500)
+Kranich82 calls (500)
+** Summary **
+Main Pot: 1966
+Board: [ 5c As 3c Qh Td  ]
+
+enjoy444 balance 4944, didn't bet (folded)
+benjiman1 balance 2771, lost 883 [ Kc 4c ] [ high card Ace -- As,Kc,Qh,Td,5c ]
+Ricardo_Ferrari79 balance 3260, lost 100 (folded)
+hatoka balance 1106, lost 100 (folded)
+Hashnail balance 2553, didn't bet (folded)
+Kranich82 balance 5366, bet 883, collected 1966, net +1083 [ 6c Ah ] [ a pair of Aces -- Ah,As,Qh,Td,6c ]
+
+***** Hand History for Game 6004111042 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 09:00:05 EDT 2007
+Table Table  126510 (Real Money) -- Seat 5 is the button
+Total number of players : 6
+Seat 1: enjoy444 (4944)
+Seat 4: benjiman1 (2771)
+Seat 5: Ricardo_Ferrari79 (3260)
+Seat 6: hatoka (1106)
+Seat 7: Hashnail (2553)
+Seat 9: Kranich82 (5366)
+hatoka  posts small blind (50)
+Hashnail  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Tc, 5d ]
+Kranich82 raises (200) to 200
+enjoy444 folds.
+benjiman1 folds.
+Ricardo_Ferrari79 folds.
+hatoka folds.
+Hashnail raises (200) to 300
+benjiman1: nh
+Kranich82: thx
+Kranich82 raises (600) to 800
+Hashnail calls (500)
+** Dealing Flop ** :  [ 7h, Ts, 6c ]
+Hashnail checks.
+Kranich82 bets (4566)
+Kranich82 is all-In.
+Hashnail calls (1753)
+Hashnail is all-In.
+** Dealing Turn ** :  [ 2s ]
+** Dealing River ** :  [ 5s ]
+Creating Main Pot with $5156 with Hashnail
+** Summary **
+Main Pot: 5156
+Board: [ 7h Ts 6c 2s 5s  ]
+
+enjoy444 balance 4944, didn't bet (folded)
+benjiman1 balance 2771, didn't bet (folded)
+Ricardo_Ferrari79 balance 3260, didn't bet (folded)
+hatoka balance 1056, lost 50 (folded)
+Hashnail balance 0, lost 2553 [ Kh 9h ] [ high card King -- Kh,Ts,9h,7h,6c ]
+Kranich82 balance 7969, bet 5366, collected 7969, net +2603 [ Ac Ah ] [ a pair of Aces -- Ac,Ah,Ts,7h,6c ]
+
+***** Hand History for Game 6004112688 *****
+Hashnail finished in 6 place.
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 09:00:46 EDT 2007
+Table Table  126510 (Real Money) -- Seat 6 is the button
+Total number of players : 5
+Seat 1: enjoy444 (4944)
+Seat 4: benjiman1 (2771)
+Seat 5: Ricardo_Ferrari79 (3260)
+Seat 6: hatoka (1056)
+Seat 9: Kranich82 (7969)
+Kranich82  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 3c, 6c ]
+enjoy444 calls (100)
+benjiman1 calls (100)
+Ricardo_Ferrari79 folds.
+hatoka folds.
+Kranich82 checks.
+** Dealing Flop ** :  [ Js, 8s, 5c ]
+Kranich82 checks.
+enjoy444 bets (200)
+benjiman1 raises (2671) to 2671
+benjiman1 is all-In.
+Kranich82 folds.
+enjoy444 calls (2471)
+** Dealing Turn ** :  [ 9s ]
+** Dealing River ** :  [ Ts ]
+Creating Main Pot with $5642 with benjiman1
+** Summary **
+Main Pot: 5642
+Board: [ Js 8s 5c 9s Ts  ]
+
+enjoy444 balance 2173, lost 2771 [ Kd Jc ] [ a pair of Jacks -- Kd,Jc,Js,Ts,9s ]
+benjiman1 balance 5642, bet 2771, collected 5642, net +2871 [ Kc Kh ] [ a pair of Kings -- Kc,Kh,Js,Ts,9s ]
+Ricardo_Ferrari79 balance 3260, didn't bet (folded)
+hatoka balance 1056, didn't bet (folded)
+Kranich82 balance 7869, lost 100 (folded)
+
+***** Hand History for Game 6004113755 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 09:01:13 EDT 2007
+Table Table  126510 (Real Money) -- Seat 6 is the button
+Total number of players : 5
+Seat 1: enjoy444 (2173)
+Seat 4: benjiman1 (5642)
+Seat 5: Ricardo_Ferrari79 (3260)
+Seat 6: hatoka (1056)
+Seat 9: Kranich82 (7869)
+Kranich82  posts small blind (50)
+enjoy444  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Qc, 2c ]
+benjiman1 calls (100)
+Ricardo_Ferrari79 folds.
+Kranich82: fold the straight flush :(
+hatoka calls (100)
+Kranich82 folds.
+enjoy444 checks.
+** Dealing Flop ** :  [ 3d, Ts, 6d ]
+enjoy444 checks.
+benjiman1 checks.
+hatoka checks.
+** Dealing Turn ** :  [ 4d ]
+enjoy444 bets (400)
+benjiman1 folds.
+hatoka folds.
+** Summary **
+Main Pot: 350
+Board: [ 3d Ts 6d 4d  ]
+
+enjoy444 balance 2423, bet 500, collected 750, net +250
+benjiman1 balance 5542, lost 100 (folded)
+Ricardo_Ferrari79 balance 3260, didn't bet (folded)
+hatoka balance 956, lost 100 (folded)
+Kranich82 balance 7819, lost 50 (folded)
+
+***** Hand History for Game 6004115264 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 09:01:51 EDT 2007
+Table Table  126510 (Real Money) -- Seat 9 is the button
+Total number of players : 5
+Seat 1: enjoy444 (2423)
+Seat 4: benjiman1 (5542)
+Seat 5: Ricardo_Ferrari79 (3260)
+Seat 6: hatoka (956)
+Seat 9: Kranich82 (7819)
+enjoy444  posts small blind (50)
+benjiman1  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 8s, 8c ]
+Ricardo_Ferrari79 folds.
+hatoka raises (956) to 956
+hatoka is all-In.
+Kranich82 calls (956)
+enjoy444 folds.
+benjiman1 calls (856)
+Creating Main Pot with $2918 with hatoka
+** Dealing Flop ** :  [ Kc, Th, Qs ]
+benjiman1 checks.
+Kranich82 checks.
+** Dealing Turn ** :  [ 7d ]
+benjiman1 checks.
+Kranich82 checks.
+** Dealing River ** :  [ 4d ]
+benjiman1 checks.
+Kranich82 checks.
+** Summary **
+Main Pot: 2918
+Board: [ Kc Th Qs 7d 4d  ]
+
+enjoy444 balance 2373, lost 50 (folded)
+benjiman1 balance 7504, bet 956, collected 2918, net +1962 [ 2h Qd ] [ a pair of Queens -- Kc,Qd,Qs,Th,7d ]
+Ricardo_Ferrari79 balance 3260, didn't bet (folded)
+hatoka balance 0, lost 956 [ 8s 8c ] [ a pair of Eights -- Kc,Qs,Th,8s,8c ]
+
+Kranich82 balance 6863, lost 956 [ Ac 9s ] [ high card Ace -- Ac,Kc,Qs,Th,9s ]
+
+
+***** Hand History for Game 6004116907 *****
+hatoka finished in 5 place.
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 09:02:32 EDT 2007
+Table Table  126510 (Real Money) -- Seat 1 is the button
+Total number of players : 4
+Seat 1: enjoy444 (2373)
+Seat 4: benjiman1 (7504)
+Seat 5: Ricardo_Ferrari79 (3260)
+Seat 9: Kranich82 (6863)
+benjiman1  posts small blind (50)
+Ricardo_Ferrari79  posts big blind (100)
+** Dealing down cards **
+Kranich82 folds.
+enjoy444 folds.
+Kranich82: nh
+benjiman1: nice play kra
+benjiman1 calls (50)
+Ricardo_Ferrari79 checks.
+** Dealing Flop ** :  [ 2c, 6c, Ks ]
+benjiman1 checks.
+Kranich82: must ;)
+Ricardo_Ferrari79 bets (100)
+benjiman1: hehe
+benjiman1 calls (100)
+** Dealing Turn ** :  [ 7d ]
+benjiman1 checks.
+Ricardo_Ferrari79 bets (100)
+benjiman1 calls (100)
+** Dealing River ** :  [ 8h ]
+benjiman1 bets (300)
+Ricardo_Ferrari79 calls (300)
+** Summary **
+Main Pot: 1200
+Board: [ 2c 6c Ks 7d 8h  ]
+
+enjoy444 balance 2373, didn't bet (folded)
+benjiman1 balance 6904, lost 600 [ 6d Tc ] [ a pair of Sixes -- Ks,Tc,8h,6d,6c ]
+Ricardo_Ferrari79 balance 3860, bet 600, collected 1200, net +600 [ 2s 7s ] [ two pairs, Sevens and Twos -- Ks,7s,7d,2s,2c ]
+Kranich82 balance 6863, didn't bet (folded)
+
+***** Hand History for Game 6004119225 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 09:03:30 EDT 2007
+Table Table  126510 (Real Money) -- Seat 4 is the button
+Total number of players : 4
+Seat 1: enjoy444 (2373)
+Seat 4: benjiman1 (6904)
+Seat 5: Ricardo_Ferrari79 (3860)
+Seat 9: Kranich82 (6863)
+Ricardo_Ferrari79  posts small blind (100)
+Kranich82  posts big blind (200)
+** Dealing down cards **
+enjoy444 calls (200)
+benjiman1 calls (200)
+Ricardo_Ferrari79 calls (100)
+Kranich82 checks.
+** Dealing Flop ** :  [ 8s, 7d, Ts ]
+Ricardo_Ferrari79 checks.
+Kranich82 checks.
+enjoy444 checks.
+benjiman1 checks.
+** Dealing Turn ** :  [ 9c ]
+Ricardo_Ferrari79 bets (400)
+Kranich82 raises (6663) to 6663
+Kranich82 is all-In.
+enjoy444 folds.
+benjiman1 folds.
+Ricardo_Ferrari79 folds.
+Creating Main Pot with $1600 with Kranich82
+** Summary **
+Main Pot: 1600
+Board: [ 8s 7d Ts 9c  ]
+
+enjoy444 balance 2173, lost 200 (folded)
+benjiman1 balance 6704, lost 200 (folded)
+Ricardo_Ferrari79 balance 3260, lost 600 (folded)
+Kranich82 balance 7863, bet 6863, collected 7863, net +1000
+
+***** Hand History for Game 6004122072 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 09:04:42 EDT 2007
+Table Table  126510 (Real Money) -- Seat 5 is the button
+Total number of players : 4
+Seat 1: enjoy444 (2173)
+Seat 4: benjiman1 (6704)
+Seat 5: Ricardo_Ferrari79 (3260)
+Seat 9: Kranich82 (7863)
+Kranich82  posts small blind (100)
+enjoy444  posts big blind (200)
+** Dealing down cards **
+benjiman1: np kr..
+benjiman1 calls (200)
+Ricardo_Ferrari79 raises (600) to 600
+Kranich82 folds.
+enjoy444 calls (400)
+benjiman1 raises (6504) to 6704
+benjiman1 is all-In.
+Ricardo_Ferrari79 calls (2660)
+Ricardo_Ferrari79 is all-In.
+enjoy444 folds.
+** Dealing Flop ** :  [ 8h, Qs, Td ]
+** Dealing Turn ** :  [ Js ]
+** Dealing River ** :  [ 6c ]
+Creating Main Pot with $7220 with Ricardo_Ferrari79
+** Summary **
+Main Pot: 7220
+Board: [ 8h Qs Td Js 6c  ]
+
+enjoy444 balance 1573, lost 600 (folded)
+benjiman1 balance 10664, bet 6704, collected 10664, net +3960 [ Jh Qh ] [ two pairs, Queens and Jacks -- Qh,Qs,Jh,Js,Td ]
+Ricardo_Ferrari79 balance 0, lost 3260 [ Ac Qd ] [ a pair of Queens -- Ac,Qd,Qs,Js,Td ]
+Kranich82 balance 7763, lost 100 (folded)
+
+***** Hand History for Game 6004123981 *****
+Ricardo_Ferrari79 finished in 4 place.
+Kranich82: huh
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 09:05:31 EDT 2007
+Table Table  126510 (Real Money) -- Seat 9 is the button
+Total number of players : 3
+Seat 1: enjoy444 (1573)
+Seat 4: benjiman1 (10664)
+Seat 9: Kranich82 (7763)
+enjoy444  posts small blind (100)
+benjiman1  posts big blind (200)
+** Dealing down cards **
+benjiman1: oops
+Kranich82 folds.
+enjoy444 raises (300) to 400
+benjiman1 calls (200)
+** Dealing Flop ** :  [ 5s, Ah, Th ]
+Kranich82: little lucky but nice
+enjoy444 bets (400)
+benjiman1 folds.
+** Summary **
+Main Pot: 800
+Board: [ 5s Ah Th  ]
+
+enjoy444 balance 1973, bet 800, collected 1200, net +400
+benjiman1 balance 10264, lost 400 (folded)
+Kranich82 balance 7763, didn't bet (folded)
+
+***** Hand History for Game 6004124754 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 09:05:50 EDT 2007
+Table Table  126510 (Real Money) -- Seat 1 is the button
+Total number of players : 3
+Seat 1: enjoy444 (1973)
+Seat 4: benjiman1 (10264)
+Seat 9: Kranich82 (7763)
+benjiman1  posts small blind (100)
+Kranich82  posts big blind (200)
+** Dealing down cards **
+enjoy444 folds.
+benjiman1 calls (100)
+Kranich82 checks.
+** Dealing Flop ** :  [ Qc, 2c, Jh ]
+benjiman1 checks.
+Kranich82 bets (200)
+benjiman1 calls (200)
+** Dealing Turn ** :  [ 7s ]
+benjiman1 checks.
+Kranich82 bets (200)
+benjiman1 calls (200)
+** Dealing River ** :  [ 3h ]
+benjiman1 checks.
+Kranich82 bets (1200)
+benjiman1 folds.
+** Summary **
+Main Pot: 1200
+Board: [ Qc 2c Jh 7s 3h  ]
+
+enjoy444 balance 1973, didn't bet (folded)
+benjiman1 balance 9664, lost 600 (folded)
+Kranich82 balance 8363, bet 1800, collected 2400, net +600
+
+***** Hand History for Game 6004126425 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 09:06:32 EDT 2007
+Table Table  126510 (Real Money) -- Seat 4 is the button
+Total number of players : 3
+Seat 1: enjoy444 (1973)
+Seat 4: benjiman1 (9664)
+Seat 9: Kranich82 (8363)
+Kranich82  posts small blind (100)
+enjoy444  posts big blind (200)
+** Dealing down cards **
+benjiman1 folds.
+Kranich82 folds.
+** Summary **
+Main Pot: 200
+
+enjoy444 balance 2073, bet 200, collected 300, net +100
+benjiman1 balance 9664, didn't bet (folded)
+Kranich82 balance 8263, lost 100 (folded)
+
+***** Hand History for Game 6004127638 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 09:07:03 EDT 2007
+Table Table  126510 (Real Money) -- Seat 9 is the button
+Total number of players : 3
+Seat 1: enjoy444 (2073)
+Seat 4: benjiman1 (9664)
+Seat 9: Kranich82 (8263)
+enjoy444  posts small blind (100)
+benjiman1  posts big blind (200)
+** Dealing down cards **
+Kranich82 folds.
+enjoy444 calls (100)
+benjiman1 folds.
+** Summary **
+Main Pot: 400
+
+enjoy444 balance 2273, bet 200, collected 400, net +200
+benjiman1 balance 9464, lost 200 (folded)
+Kranich82 balance 8263, didn't bet (folded)
+
+***** Hand History for Game 6004128026 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 09:07:12 EDT 2007
+Table Table  126510 (Real Money) -- Seat 1 is the button
+Total number of players : 3
+Seat 1: enjoy444 (2273)
+Seat 4: benjiman1 (9464)
+Seat 9: Kranich82 (8263)
+benjiman1  posts small blind (100)
+Kranich82  posts big blind (200)
+** Dealing down cards **
+enjoy444 folds.
+benjiman1 folds.
+** Summary **
+Main Pot: 200
+
+enjoy444 balance 2273, didn't bet (folded)
+benjiman1 balance 9364, lost 100 (folded)
+Kranich82 balance 8363, bet 200, collected 300, net +100
+
+***** Hand History for Game 6004128376 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 09:07:21 EDT 2007
+Table Table  126510 (Real Money) -- Seat 4 is the button
+Total number of players : 3
+Seat 1: enjoy444 (2273)
+Seat 4: benjiman1 (9364)
+Seat 9: Kranich82 (8363)
+Kranich82  posts small blind (100)
+enjoy444  posts big blind (200)
+** Dealing down cards **
+benjiman1 folds.
+Kranich82 folds.
+** Summary **
+Main Pot: 200
+
+enjoy444 balance 2373, bet 200, collected 300, net +100
+benjiman1 balance 9364, didn't bet (folded)
+Kranich82 balance 8263, lost 100 (folded)
+
+***** Hand History for Game 6004128670 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 09:07:28 EDT 2007
+Table Table  126510 (Real Money) -- Seat 9 is the button
+Total number of players : 3
+Seat 1: enjoy444 (2373)
+Seat 4: benjiman1 (9364)
+Seat 9: Kranich82 (8263)
+enjoy444  posts small blind (100)
+benjiman1  posts big blind (200)
+** Dealing down cards **
+Kranich82 calls (200)
+enjoy444 calls (100)
+benjiman1 folds.
+** Dealing Flop ** :  [ 8c, 7d, 2s ]
+enjoy444 bets (200)
+Kranich82 folds.
+** Summary **
+Main Pot: 600
+Board: [ 8c 7d 2s  ]
+
+enjoy444 balance 2773, bet 400, collected 800, net +400
+benjiman1 balance 9164, lost 200 (folded)
+Kranich82 balance 8063, lost 200 (folded)
+
+***** Hand History for Game 6004129342 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 09:07:45 EDT 2007
+Table Table  126510 (Real Money) -- Seat 1 is the button
+Total number of players : 3
+Seat 1: enjoy444 (2773)
+Seat 4: benjiman1 (9164)
+Seat 9: Kranich82 (8063)
+benjiman1  posts small blind (100)
+Kranich82  posts big blind (200)
+** Dealing down cards **
+enjoy444 folds.
+benjiman1 calls (100)
+Kranich82 checks.
+** Dealing Flop ** :  [ 7s, Kd, 2s ]
+benjiman1 checks.
+Kranich82 checks.
+** Dealing Turn ** :  [ Qh ]
+benjiman1 checks.
+Kranich82 checks.
+** Dealing River ** :  [ 2h ]
+benjiman1 checks.
+Kranich82 checks.
+** Summary **
+Main Pot: 400
+Board: [ 7s Kd 2s Qh 2h  ]
+
+enjoy444 balance 2773, didn't bet (folded)
+benjiman1 balance 9364, bet 200, collected 400, net +200 [ Ts Qs ] [ two pairs, Queens and Twos -- Kd,Qs,Qh,2s,2h ]
+
+Kranich82 balance 7863, lost 200 [Didn't Show]
+
+***** Hand History for Game 6004130099 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 09:08:04 EDT 2007
+Table Table  126510 (Real Money) -- Seat 4 is the button
+Total number of players : 3
+Seat 1: enjoy444 (2773)
+Seat 4: benjiman1 (9364)
+Seat 9: Kranich82 (7863)
+Kranich82  posts small blind (100)
+enjoy444  posts big blind (200)
+** Dealing down cards **
+benjiman1 calls (200)
+Kranich82 folds.
+enjoy444 checks.
+** Dealing Flop ** :  [ 8c, 6d, Td ]
+enjoy444 bets (400)
+benjiman1 folds.
+** Summary **
+Main Pot: 500
+Board: [ 8c 6d Td  ]
+
+enjoy444 balance 3073, bet 600, collected 900, net +300
+benjiman1 balance 9164, lost 200 (folded)
+Kranich82 balance 7763, lost 100 (folded)
+
+***** Hand History for Game 6004131207 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 09:08:31 EDT 2007
+Table Table  126510 (Real Money) -- Seat 9 is the button
+Total number of players : 3
+Seat 1: enjoy444 (3073)
+Seat 4: benjiman1 (9164)
+Seat 9: Kranich82 (7763)
+enjoy444  posts small blind (100)
+benjiman1  posts big blind (200)
+** Dealing down cards **
+Kranich82 calls (200)
+enjoy444 calls (100)
+benjiman1 checks.
+** Dealing Flop ** :  [ 7h, 6c, 7s ]
+enjoy444 checks.
+benjiman1 checks.
+Kranich82 checks.
+** Dealing Turn ** :  [ Th ]
+enjoy444 bets (200)
+benjiman1 calls (200)
+Kranich82 folds.
+** Dealing River ** :  [ Ah ]
+Kranich82: ah
+enjoy444 bets (1000)
+benjiman1 calls (1000)
+** Summary **
+Main Pot: 3000
+Board: [ 7h 6c 7s Th Ah  ]
+
+enjoy444 balance 4673, bet 1400, collected 3000, net +1600 [ Kh Jh ] [ a flush, Ace high -- Ah,Kh,Jh,Th,7h ]
+
+benjiman1 balance 7764, lost 1400 [Didn't Show]
+Kranich82 balance 7563, lost 200 (folded)
+
+***** Hand History for Game 6004132814 *****
+Kranich82: ok n1
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 09:09:12 EDT 2007
+Table Table  126510 (Real Money) -- Seat 1 is the button
+Total number of players : 3
+Seat 1: enjoy444 (4673)
+Seat 4: benjiman1 (7764)
+Seat 9: Kranich82 (7563)
+benjiman1  posts small blind (100)
+Kranich82  posts big blind (200)
+** Dealing down cards **
+benjiman1: nh dude
+enjoy444 calls (200)
+benjiman1 calls (100)
+Kranich82 checks.
+** Dealing Flop ** :  [ 5h, 2h, 7s ]
+benjiman1 checks.
+Kranich82 bets (600)
+enjoy444 folds.
+benjiman1 folds.
+** Summary **
+Main Pot: 600
+Board: [ 5h 2h 7s  ]
+
+enjoy444 balance 4473, lost 200 (folded)
+benjiman1 balance 7564, lost 200 (folded)
+Kranich82 balance 7963, bet 800, collected 1200, net +400
+
+***** Hand History for Game 6004133842 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 09:09:38 EDT 2007
+Table Table  126510 (Real Money) -- Seat 4 is the button
+Total number of players : 3
+Seat 1: enjoy444 (4473)
+Seat 4: benjiman1 (7564)
+Seat 9: Kranich82 (7963)
+Kranich82  posts small blind (100)
+enjoy444  posts big blind (200)
+** Dealing down cards **
+benjiman1 folds.
+Kranich82 calls (100)
+enjoy444 checks.
+** Dealing Flop ** :  [ Th, 2h, As ]
+Kranich82 bets (200)
+enjoy444 calls (200)
+** Dealing Turn ** :  [ Ks ]
+Kranich82 bets (200)
+enjoy444 calls (200)
+** Dealing River ** :  [ 8s ]
+Kranich82 bets (200)
+enjoy444 calls (200)
+** Summary **
+Main Pot: 1600
+Board: [ Th 2h As Ks 8s  ]
+
+
+enjoy444 balance 3673, lost 800 [Didn't Show]
+benjiman1 balance 7564, didn't bet (folded)
+Kranich82 balance 8763, bet 800, collected 1600, net +800 [ Ad 9s ] [ a pair of Aces -- Ad,As,Ks,Th,9s ]
+
+***** Hand History for Game 6004134761 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 09:10:01 EDT 2007
+Table Table  126510 (Real Money) -- Seat 9 is the button
+Total number of players : 3
+Seat 1: enjoy444 (3673)
+Seat 4: benjiman1 (7564)
+Seat 9: Kranich82 (8763)
+enjoy444  posts small blind (100)
+benjiman1  posts big blind (200)
+** Dealing down cards **
+Kranich82 folds.
+enjoy444 raises (300) to 400
+benjiman1 raises (7364) to 7564
+benjiman1 is all-In.
+enjoy444 calls (3273)
+enjoy444 is all-In.
+** Dealing Flop ** :  [ Qh, 2c, 6d ]
+** Dealing Turn ** :  [ 3c ]
+** Dealing River ** :  [ Jh ]
+Creating Main Pot with $7346 with enjoy444
+** Summary **
+Main Pot: 7346
+Board: [ Qh 2c 6d 3c Jh  ]
+
+enjoy444 balance 7346, bet 3673, collected 7346, net +3673 [ Ks Kc ] [ a pair of Kings -- Ks,Kc,Qh,Jh,6d ]
+benjiman1 balance 3891, bet 7564, collected 3891, lost -3673 [ 8h 4h ] [ high card Queen -- Qh,Jh,8h,6d,4h ]
+Kranich82 balance 8763, didn't bet (folded)
+
+***** Hand History for Game 6004135395 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 09:10:18 EDT 2007
+Table Table  126510 (Real Money) -- Seat 1 is the button
+Total number of players : 3
+Seat 1: enjoy444 (7346)
+Seat 4: benjiman1 (3891)
+Seat 9: Kranich82 (8763)
+benjiman1  posts small blind (100)
+Kranich82  posts big blind (200)
+** Dealing down cards **
+enjoy444 folds.
+benjiman1: hum...
+benjiman1 folds.
+** Summary **
+Main Pot: 200
+
+enjoy444 balance 7346, didn't bet (folded)
+benjiman1 balance 3791, lost 100 (folded)
+Kranich82 balance 8863, bet 200, collected 300, net +100
+
+***** Hand History for Game 6004135933 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 09:10:31 EDT 2007
+Table Table  126510 (Real Money) -- Seat 4 is the button
+Total number of players : 3
+Seat 1: enjoy444 (7346)
+Seat 4: benjiman1 (3791)
+Seat 9: Kranich82 (8863)
+Kranich82  posts small blind (100)
+enjoy444  posts big blind (200)
+** Dealing down cards **
+benjiman1: tired
+benjiman1 raises (3791) to 3791
+benjiman1 is all-In.
+Kranich82 folds.
+enjoy444 folds.
+Creating Main Pot with $500 with benjiman1
+** Summary **
+Main Pot: 500
+
+enjoy444 balance 7146, lost 200 (folded)
+benjiman1 balance 4091, bet 3791, collected 4091, net +300 [ Kd Ad ] [ high card Ace -- Ad,Kd ]
+Kranich82 balance 8763, lost 100 (folded)
+
+***** Hand History for Game 6004136689 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 09:10:50 EDT 2007
+Table Table  126510 (Real Money) -- Seat 9 is the button
+Total number of players : 3
+Seat 1: enjoy444 (7146)
+Seat 4: benjiman1 (4091)
+Seat 9: Kranich82 (8763)
+enjoy444  posts small blind (100)
+benjiman1  posts big blind (200)
+** Dealing down cards **
+benjiman1: hehe
+Kranich82 folds.
+enjoy444 calls (100)
+benjiman1 raises (3891) to 4091
+benjiman1 is all-In.
+enjoy444 folds.
+Creating Main Pot with $400 with benjiman1
+** Summary **
+Main Pot: 400
+
+enjoy444 balance 6946, lost 200 (folded)
+benjiman1 balance 4291, bet 4091, collected 4291, net +200 [ Js 9c ] [ high card Jack -- Js,9c ]
+Kranich82 balance 8763, didn't bet (folded)
+
+***** Hand History for Game 6004137286 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 09:11:06 EDT 2007
+Table Table  126510 (Real Money) -- Seat 1 is the button
+Total number of players : 3
+Seat 1: enjoy444 (6946)
+Seat 4: benjiman1 (4291)
+Seat 9: Kranich82 (8763)
+benjiman1  posts small blind (100)
+Kranich82  posts big blind (200)
+** Dealing down cards **
+enjoy444 folds.
+benjiman1 folds.
+** Summary **
+Main Pot: 200
+
+enjoy444 balance 6946, didn't bet (folded)
+benjiman1 balance 4191, lost 100 (folded)
+Kranich82 balance 8863, bet 200, collected 300, net +100
+
+***** Hand History for Game 6004137766 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 09:11:17 EDT 2007
+Table Table  126510 (Real Money) -- Seat 4 is the button
+Total number of players : 3
+Seat 1: enjoy444 (6946)
+Seat 4: benjiman1 (4191)
+Seat 9: Kranich82 (8863)
+Kranich82  posts small blind (100)
+enjoy444  posts big blind (200)
+** Dealing down cards **
+benjiman1 folds.
+Kranich82 folds.
+** Summary **
+Main Pot: 200
+
+enjoy444 balance 7046, bet 200, collected 300, net +100
+benjiman1 balance 4191, didn't bet (folded)
+Kranich82 balance 8763, lost 100 (folded)
+
+***** Hand History for Game 6004138062 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 09:11:25 EDT 2007
+Table Table  126510 (Real Money) -- Seat 9 is the button
+Total number of players : 3
+Seat 1: enjoy444 (7046)
+Seat 4: benjiman1 (4191)
+Seat 9: Kranich82 (8763)
+enjoy444  posts small blind (100)
+benjiman1  posts big blind (200)
+** Dealing down cards **
+Kranich82 calls (200)
+enjoy444 calls (100)
+benjiman1 checks.
+** Dealing Flop ** :  [ Td, Qs, 2d ]
+enjoy444 bets (200)
+benjiman1 folds.
+Kranich82 folds.
+** Summary **
+Main Pot: 600
+Board: [ Td Qs 2d  ]
+
+enjoy444 balance 7446, bet 400, collected 800, net +400
+benjiman1 balance 3991, lost 200 (folded)
+Kranich82 balance 8563, lost 200 (folded)
+
+***** Hand History for Game 6004138661 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 09:11:40 EDT 2007
+Table Table  126510 (Real Money) -- Seat 1 is the button
+Total number of players : 3
+Seat 1: enjoy444 (7446)
+Seat 4: benjiman1 (3991)
+Seat 9: Kranich82 (8563)
+benjiman1  posts small blind (100)
+Kranich82  posts big blind (200)
+** Dealing down cards **
+enjoy444 folds.
+benjiman1 folds.
+** Summary **
+Main Pot: 200
+
+enjoy444 balance 7446, didn't bet (folded)
+benjiman1 balance 3891, lost 100 (folded)
+Kranich82 balance 8663, bet 200, collected 300, net +100 [ 8s 4c ] [ high card Eight -- 8s,4c ]
+
+***** Hand History for Game 6004139193 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 09:11:54 EDT 2007
+Table Table  126510 (Real Money) -- Seat 4 is the button
+Total number of players : 3
+Seat 1: enjoy444 (7446)
+Seat 4: benjiman1 (3891)
+Seat 9: Kranich82 (8663)
+Kranich82  posts small blind (100)
+enjoy444  posts big blind (200)
+** Dealing down cards **
+benjiman1: 5 7 off
+benjiman1 raises (3891) to 3891
+benjiman1 is all-In.
+Kranich82 folds.
+enjoy444 folds.
+Creating Main Pot with $500 with benjiman1
+** Summary **
+Main Pot: 500
+
+enjoy444 balance 7246, lost 200 (folded)
+benjiman1 balance 4191, bet 3891, collected 4191, net +300 [ As Kh ] [ high card Ace -- As,Kh ]
+Kranich82 balance 8563, lost 100 (folded)
+
+***** Hand History for Game 6004139994 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 09:12:14 EDT 2007
+Table Table  126510 (Real Money) -- Seat 9 is the button
+Total number of players : 3
+Seat 1: enjoy444 (7246)
+Seat 4: benjiman1 (4191)
+Seat 9: Kranich82 (8563)
+enjoy444  posts small blind (100)
+benjiman1  posts big blind (200)
+** Dealing down cards **
+Kranich82 folds.
+enjoy444 calls (100)
+benjiman1 checks.
+** Dealing Flop ** :  [ Ks, Td, Jd ]
+enjoy444 checks.
+benjiman1 bets (200)
+enjoy444 calls (200)
+** Dealing Turn ** :  [ Kd ]
+enjoy444 checks.
+benjiman1 bets (400)
+enjoy444 calls (400)
+** Dealing River ** :  [ 9h ]
+enjoy444 bets (200)
+benjiman1 raises (1000) to 1000
+enjoy444 calls (800)
+** Summary **
+Main Pot: 3600
+Board: [ Ks Td Jd Kd 9h  ]
+
+enjoy444 balance 9046, bet 1800, collected 3600, net +1800 [ 5d Qc ] [ a straight Nine to King -- Ks,Qc,Jd,Td,9h ]
+benjiman1 balance 2391, lost 1800 [ 2h 8c ] [ a pair of Kings -- Ks,Kd,Jd,Td,9h ]
+Kranich82 balance 8563, didn't bet (folded)
+
+***** Hand History for Game 6004141508 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 09:12:52 EDT 2007
+Table Table  126510 (Real Money) -- Seat 1 is the button
+Total number of players : 3
+Seat 1: enjoy444 (9046)
+Seat 4: benjiman1 (2391)
+Seat 9: Kranich82 (8563)
+benjiman1  posts small blind (100)
+Kranich82  posts big blind (200)
+** Dealing down cards **
+enjoy444 folds.
+Kranich82: why u call?
+benjiman1 folds.
+** Summary **
+Main Pot: 200
+
+enjoy444 balance 9046, didn't bet (folded)
+benjiman1 balance 2291, lost 100 (folded)
+Kranich82 balance 8663, bet 200, collected 300, net +100 [ 9h 3s ] [ high card Nine -- 9h,3s ]
+
+***** Hand History for Game 6004142351 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 09:13:13 EDT 2007
+Table Table  126510 (Real Money) -- Seat 4 is the button
+Total number of players : 3
+Seat 1: enjoy444 (9046)
+Seat 4: benjiman1 (2291)
+Seat 9: Kranich82 (8663)
+Kranich82  posts small blind (100)
+enjoy444  posts big blind (200)
+** Dealing down cards **
+benjiman1: 8 2 off
+benjiman1 folds.
+Kranich82 folds.
+** Summary **
+Main Pot: 200
+
+enjoy444 balance 9146, bet 200, collected 300, net +100
+benjiman1 balance 2291, didn't bet (folded)
+Kranich82 balance 8563, lost 100 (folded)
+
+***** Hand History for Game 6004142860 *****
+Kranich82: last hand
+benjiman1: lol
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 09:13:27 EDT 2007
+Table Table  126510 (Real Money) -- Seat 9 is the button
+Total number of players : 3
+Seat 1: enjoy444 (9146)
+Seat 4: benjiman1 (2291)
+Seat 9: Kranich82 (8563)
+enjoy444  posts small blind (100)
+benjiman1  posts big blind (200)
+** Dealing down cards **
+Kranich82 folds.
+enjoy444 calls (100)
+benjiman1 checks.
+** Dealing Flop ** :  [ Jh, 7s, 5c ]
+enjoy444 checks.
+benjiman1 checks.
+** Dealing Turn ** :  [ Jd ]
+enjoy444 checks.
+benjiman1 checks.
+** Dealing River ** :  [ Ad ]
+enjoy444 bets (200)
+benjiman1 folds.
+** Summary **
+Main Pot: 400
+Board: [ Jh 7s 5c Jd Ad  ]
+
+enjoy444 balance 9346, bet 400, collected 600, net +200
+benjiman1 balance 2091, lost 200 (folded)
+Kranich82 balance 8563, didn't bet (folded)
+
+***** Hand History for Game 6004144165 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 09:13:59 EDT 2007
+Table Table  126510 (Real Money) -- Seat 1 is the button
+Total number of players : 3
+Seat 1: enjoy444 (9346)
+Seat 4: benjiman1 (2091)
+Seat 9: Kranich82 (8563)
+benjiman1  posts small blind (200)
+Kranich82  posts big blind (400)
+** Dealing down cards **
+enjoy444 calls (400)
+benjiman1 folds.
+Kranich82 checks.
+** Dealing Flop ** :  [ 3h, 3s, 5s ]
+Kranich82 checks.
+enjoy444 checks.
+** Dealing Turn ** :  [ Ah ]
+Kranich82 checks.
+enjoy444 checks.
+** Dealing River ** :  [ Kh ]
+Kranich82 checks.
+enjoy444 checks.
+** Summary **
+Main Pot: 1000
+Board: [ 3h 3s 5s Ah Kh  ]
+
+enjoy444 balance 9946, bet 400, collected 1000, net +600 [ 8h Ks ] [ two pairs, Kings and Threes -- Ah,Ks,Kh,3h,3s ]
+benjiman1 balance 1891, lost 200 (folded)
+Kranich82 balance 8163, lost 400 [ 2d Qh ] [ a pair of Threes -- Ah,Kh,Qh,3h,3s ]
+
+***** Hand History for Game 6004144938 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 09:14:20 EDT 2007
+Table Table  126510 (Real Money) -- Seat 4 is the button
+Total number of players : 3
+Seat 1: enjoy444 (9946)
+Seat 4: benjiman1 (1891)
+Seat 9: Kranich82 (8163)
+Kranich82  posts small blind (200)
+enjoy444  posts big blind (400)
+** Dealing down cards **
+benjiman1 raises (1891) to 1891
+benjiman1 is all-In.
+Kranich82 folds.
+enjoy444 calls (1491)
+** Dealing Flop ** :  [ Ah, Qh, As ]
+** Dealing Turn ** :  [ 7d ]
+** Dealing River ** :  [ 5d ]
+Creating Main Pot with $3982 with benjiman1
+** Summary **
+Main Pot: 3982
+Board: [ Ah Qh As 7d 5d  ]
+
+enjoy444 balance 12037, bet 1891, collected 3982, net +2091 [ Ac 4s ] [ three of a kind, Aces -- Ac,Ah,As,Qh,7d ]
+benjiman1 balance 0, lost 1891 [ 8c Td ] [ a pair of Aces -- Ah,As,Qh,Td,8c ]
+Kranich82 balance 7963, lost 200 (folded)
+
+***** Hand History for Game 6004145682 *****
+benjiman1 finished in 3 place and won $10.
+Kranich82: nh
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 09:14:37 EDT 2007
+Table Table  126510 (Real Money) -- Seat 1 is the button
+Total number of players : 2
+Seat 1: enjoy444 (12037)
+Seat 9: Kranich82 (7963)
+enjoy444  posts small blind (200)
+Kranich82  posts big blind (400)
+** Dealing down cards **
+enjoy444 raises (600) to 800
+Kranich82 calls (400)
+** Dealing Flop ** :  [ 4s, 7h, 7d ]
+Kranich82 bets (7163)
+Kranich82 is all-In.
+enjoy444 folds.
+Creating Main Pot with $1600 with Kranich82
+** Summary **
+Main Pot: 1600
+Board: [ 4s 7h 7d  ]
+
+enjoy444 balance 11237, lost 800 (folded)
+Kranich82 balance 8763, bet 7963, collected 8763, net +800
+
+***** Hand History for Game 6004146380 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 09:14:55 EDT 2007
+Table Table  126510 (Real Money) -- Seat 9 is the button
+Total number of players : 2
+Seat 1: enjoy444 (11237)
+Seat 9: Kranich82 (8763)
+Kranich82  posts small blind (200)
+enjoy444  posts big blind (400)
+** Dealing down cards **
+Kranich82 folds.
+** Summary **
+Main Pot: 400
+
+enjoy444 balance 11437, bet 400, collected 600, net +200
+Kranich82 balance 8563, lost 200 (folded)
+
+***** Hand History for Game 6004146675 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 09:15:03 EDT 2007
+Table Table  126510 (Real Money) -- Seat 1 is the button
+Total number of players : 2
+Seat 1: enjoy444 (11437)
+Seat 9: Kranich82 (8563)
+enjoy444  posts small blind (200)
+Kranich82  posts big blind (400)
+** Dealing down cards **
+enjoy444 calls (200)
+Kranich82 checks.
+** Dealing Flop ** :  [ 3h, Ks, 4d ]
+Kranich82 checks.
+enjoy444 bets (400)
+Kranich82 folds.
+** Summary **
+Main Pot: 800
+Board: [ 3h Ks 4d  ]
+
+enjoy444 balance 11837, bet 800, collected 1200, net +400
+Kranich82 balance 8163, lost 400 (folded)
+
+***** Hand History for Game 6004147188 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 09:15:15 EDT 2007
+Table Table  126510 (Real Money) -- Seat 9 is the button
+Total number of players : 2
+Seat 1: enjoy444 (11837)
+Seat 9: Kranich82 (8163)
+Kranich82  posts small blind (200)
+enjoy444  posts big blind (400)
+** Dealing down cards **
+Kranich82 folds.
+** Summary **
+Main Pot: 400
+
+enjoy444 balance 12037, bet 400, collected 600, net +200
+Kranich82 balance 7963, lost 200 (folded)
+
+***** Hand History for Game 6004147786 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 09:15:30 EDT 2007
+Table Table  126510 (Real Money) -- Seat 1 is the button
+Total number of players : 2
+Seat 1: enjoy444 (12037)
+Seat 9: Kranich82 (7963)
+enjoy444  posts small blind (200)
+Kranich82  posts big blind (400)
+** Dealing down cards **
+enjoy444 calls (200)
+Kranich82 checks.
+** Dealing Flop ** :  [ Kh, 4s, Tc ]
+Kranich82 bets (400)
+enjoy444 raises (800) to 800
+Kranich82 calls (400)
+** Dealing Turn ** :  [ 3c ]
+Kranich82 checks.
+enjoy444 bets (2000)
+Kranich82 folds.
+** Summary **
+Main Pot: 2400
+Board: [ Kh 4s Tc 3c  ]
+
+enjoy444 balance 13237, bet 3200, collected 4400, net +1200
+Kranich82 balance 6763, lost 1200 (folded)
+
+***** Hand History for Game 6004148759 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 09:15:55 EDT 2007
+Table Table  126510 (Real Money) -- Seat 9 is the button
+Total number of players : 2
+Seat 1: enjoy444 (13237)
+Seat 9: Kranich82 (6763)
+Kranich82  posts small blind (200)
+enjoy444  posts big blind (400)
+** Dealing down cards **
+Kranich82 folds.
+** Summary **
+Main Pot: 400
+
+enjoy444 balance 13437, bet 400, collected 600, net +200
+Kranich82 balance 6563, lost 200 (folded)
+
+***** Hand History for Game 6004149068 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 09:16:02 EDT 2007
+Table Table  126510 (Real Money) -- Seat 1 is the button
+Total number of players : 2
+Seat 1: enjoy444 (13437)
+Seat 9: Kranich82 (6563)
+enjoy444  posts small blind (200)
+Kranich82  posts big blind (400)
+** Dealing down cards **
+enjoy444 raises (600) to 800
+Kranich82 folds.
+** Summary **
+Main Pot: 800
+
+enjoy444 balance 13837, bet 800, collected 1200, net +400
+Kranich82 balance 6163, lost 400 (folded)
+
+***** Hand History for Game 6004149362 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 09:16:09 EDT 2007
+Table Table  126510 (Real Money) -- Seat 9 is the button
+Total number of players : 2
+Seat 1: enjoy444 (13837)
+Seat 9: Kranich82 (6163)
+Kranich82  posts small blind (200)
+enjoy444  posts big blind (400)
+** Dealing down cards **
+Kranich82 folds.
+** Summary **
+Main Pot: 400
+
+enjoy444 balance 14037, bet 400, collected 600, net +200
+Kranich82 balance 5963, lost 200 (folded)
+
+***** Hand History for Game 6004149667 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 09:16:17 EDT 2007
+Table Table  126510 (Real Money) -- Seat 1 is the button
+Total number of players : 2
+Seat 1: enjoy444 (14037)
+Seat 9: Kranich82 (5963)
+enjoy444  posts small blind (200)
+Kranich82  posts big blind (400)
+** Dealing down cards **
+enjoy444 calls (200)
+Kranich82 checks.
+** Dealing Flop ** :  [ As, 2d, 4h ]
+Kranich82 bets (400)
+enjoy444 calls (400)
+** Dealing Turn ** :  [ 9d ]
+Kranich82 bets (400)
+enjoy444 folds.
+** Summary **
+Main Pot: 1600
+Board: [ As 2d 4h 9d  ]
+
+enjoy444 balance 13237, lost 800 (folded)
+Kranich82 balance 6763, bet 1200, collected 2000, net +800
+
+***** Hand History for Game 6004150388 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 09:16:34 EDT 2007
+Table Table  126510 (Real Money) -- Seat 9 is the button
+Total number of players : 2
+Seat 1: enjoy444 (13237)
+Seat 9: Kranich82 (6763)
+Kranich82  posts small blind (200)
+enjoy444  posts big blind (400)
+** Dealing down cards **
+Kranich82 calls (200)
+enjoy444 checks.
+** Dealing Flop ** :  [ Ts, Ks, Qh ]
+enjoy444 checks.
+Kranich82 bets (400)
+enjoy444 calls (400)
+** Dealing Turn ** :  [ Kd ]
+enjoy444 checks.
+Kranich82 bets (5963)
+Kranich82 is all-In.
+enjoy444 folds.
+Creating Main Pot with $1600 with Kranich82
+** Summary **
+Main Pot: 1600
+Board: [ Ts Ks Qh Kd  ]
+
+enjoy444 balance 12437, lost 800 (folded)
+Kranich82 balance 7563, bet 6763, collected 7563, net +800
+
+***** Hand History for Game 6004151154 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33626172)  - Sat May 26 09:16:53 EDT 2007
+Table Table  126510 (Real Money) -- Seat 1 is the button
+Total number of players : 2
+Seat 1: enjoy444 (12437)
+Seat 9: Kranich82 (7563)
+enjoy444  posts small blind (200)
+Kranich82  posts big blind (400)
+** Dealing down cards **
+enjoy444 calls (200)
+Kranich82 checks.
+** Dealing Flop ** :  [ 5c, 9s, 4h ]
+Kranich82 checks.
+enjoy444 bets (400)
+Kranich82 raises (800) to 800
+enjoy444 calls (400)
+** Dealing Turn ** :  [ 8h ]
+Kranich82 bets (6363)
+Kranich82 is all-In.
+enjoy444 calls (6363)
+** Dealing River ** :  [ Jc ]
+Creating Main Pot with $15126 with Kranich82
+** Summary **
+Main Pot: 15126
+Board: [ 5c 9s 4h 8h Jc  ]
+
+enjoy444 balance 20000, bet 7563, collected 15126, net +7563 [ Kh 5h ] [ a pair of Fives -- Kh,Jc,9s,5h,5c ]
+Kranich82 balance 0, lost 7563 [ 4c 3d ] [ a pair of Fours -- Jc,9s,8h,4c,4h ]
+
+
+

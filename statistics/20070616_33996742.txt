@@ -1,0 +1,2890 @@
+
+Hello hatoka,
+These hand histories are provided to you as an aid for your training and development. You are not permitted to share them with anyone.  We reserve the right to cease providing them or apply further restrictions at any time.
+Complete hand histories are only available to players that participated in the hand.
+You requested a transcript of Tournament #33996742.
+
+Summary
+----------
+Played on    : 16 June 2007 06:03 PM
+On Table     : Speed #1330107
+Game Type    : Texas Holdem
+Buy-In       : $5
+Fee          : $1
+You finished in  position 7
+1st place - Jimmy_Cards -  $25
+2nd place - Colwins -  $15
+3rd place - xxEarlgreyxx -  $10
+
+***** Hand History for Game 6068761564 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:03:42 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 9 is the button
+Total number of players : 10
+Seat 1: FiaMaria (2000)
+Seat 2: GaryNoether (2000)
+Seat 3: siwhiteguy (2000)
+Seat 4: Mikpt (2000)
+Seat 5: hatoka (2000)
+Seat 6: bluefly707 (2000)
+Seat 7: Jimmy_Cards (2000)
+Seat 8: Colwins (2000)
+Seat 9: redoxmole (2000)
+Seat 10: xxEarlgreyxx (2000)
+xxEarlgreyxx  posts small blind (20)
+FiaMaria  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 3d, 9s ]
+GaryNoether folds.
+siwhiteguy folds.
+Mikpt folds.
+hatoka folds.
+bluefly707 calls (40)
+Jimmy_Cards calls (40)
+Colwins folds.
+redoxmole calls (40)
+xxEarlgreyxx folds.
+FiaMaria checks.
+** Dealing Flop ** :  [ Kh, 6h, 5s ]
+FiaMaria bets (40)
+bluefly707 calls (40)
+Jimmy_Cards calls (40)
+redoxmole raises (120) to 120
+FiaMaria calls (80)
+bluefly707 folds.
+Jimmy_Cards calls (80)
+** Dealing Turn ** :  [ 8c ]
+FiaMaria bets (40)
+Jimmy_Cards calls (40)
+redoxmole calls (40)
+** Dealing River ** :  [ Qs ]
+FiaMaria bets (40)
+Jimmy_Cards calls (40)
+redoxmole calls (40)
+** Summary **
+Main Pot: 820
+Board: [ Kh 6h 5s 8c Qs  ]
+
+FiaMaria balance 2170, bet 240, collected 410, net +170 [ 2c Ks ] [ a pair of Kings -- Ks,Kh,Qs,8c,6h ]
+GaryNoether balance 2000, didn't bet (folded)
+siwhiteguy balance 2000, didn't bet (folded)
+Mikpt balance 2000, didn't bet (folded)
+hatoka balance 2000, didn't bet (folded)
+bluefly707 balance 1920, lost 80 (folded)
+Jimmy_Cards balance 1760, lost 240 [ 2s 5c ] [ a pair of Fives -- Kh,Qs,8c,5c,5s ]
+
+Colwins balance 2000, didn't bet (folded)
+redoxmole balance 2170, bet 240, collected 410, net +170 [ Kc 3c ] [ a pair of Kings -- Kc,Kh,Qs,8c,6h ]
+xxEarlgreyxx balance 1980, lost 20 (folded)
+
+***** Hand History for Game 6068763637 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:04:34 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 10 is the button
+Total number of players : 10
+Seat 1: FiaMaria (2170)
+Seat 2: GaryNoether (2000)
+Seat 3: siwhiteguy (2000)
+Seat 4: Mikpt (2000)
+Seat 5: hatoka (2000)
+Seat 6: bluefly707 (1920)
+Seat 7: Jimmy_Cards (1760)
+Seat 8: Colwins (2000)
+Seat 9: redoxmole (2170)
+Seat 10: xxEarlgreyxx (1980)
+FiaMaria  posts small blind (20)
+GaryNoether  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ Ac, Th ]
+siwhiteguy folds.
+Mikpt calls (40)
+hatoka raises (120) to 120
+bluefly707 folds.
+Jimmy_Cards folds.
+Colwins calls (120)
+redoxmole calls (120)
+xxEarlgreyxx folds.
+FiaMaria calls (100)
+GaryNoether folds.
+Mikpt calls (80)
+** Dealing Flop ** :  [ 4d, 3c, 2c ]
+FiaMaria bets (40)
+Mikpt folds.
+hatoka calls (40)
+Colwins calls (40)
+redoxmole calls (40)
+** Dealing Turn ** :  [ 2d ]
+FiaMaria bets (40)
+hatoka calls (40)
+Colwins folds.
+redoxmole calls (40)
+** Dealing River ** :  [ 7c ]
+FiaMaria bets (40)
+hatoka calls (40)
+redoxmole raises (400) to 400
+FiaMaria calls (360)
+hatoka folds.
+** Summary **
+Main Pot: 1760
+Board: [ 4d 3c 2c 2d 7c  ]
+
+FiaMaria balance 1570, lost 600 [ Ah 7h ] [ two pairs, Sevens and Twos -- Ah,7h,7c,2c,2d ]
+
+GaryNoether balance 1960, lost 40 (folded)
+siwhiteguy balance 2000, didn't bet (folded)
+Mikpt balance 1880, lost 120 (folded)
+hatoka balance 1760, lost 240 (folded)
+bluefly707 balance 1920, didn't bet (folded)
+Jimmy_Cards balance 1760, didn't bet (folded)
+Colwins balance 1840, lost 160 (folded)
+redoxmole balance 3330, bet 600, collected 1760, net +1160 [ 4c 6c ] [ a flush, Seven high -- 7c,6c,4c,3c,2c ]
+xxEarlgreyxx balance 1980, didn't bet (folded)
+
+***** Hand History for Game 6068766935 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:05:52 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 1 is the button
+Total number of players : 10
+Seat 1: FiaMaria (1570)
+Seat 2: GaryNoether (1960)
+Seat 3: siwhiteguy (2000)
+Seat 4: Mikpt (1880)
+Seat 5: hatoka (1760)
+Seat 6: bluefly707 (1920)
+Seat 7: Jimmy_Cards (1760)
+Seat 8: Colwins (1840)
+Seat 9: redoxmole (3330)
+Seat 10: xxEarlgreyxx (1980)
+GaryNoether  posts small blind (20)
+siwhiteguy  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 5d, Ac ]
+Mikpt folds.
+hatoka folds.
+bluefly707 could not respond in time.(disconnected)
+bluefly707 folds.
+Jimmy_Cards raises (160) to 160
+Colwins folds.
+redoxmole folds.
+xxEarlgreyxx folds.
+FiaMaria calls (160)
+GaryNoether folds.
+siwhiteguy folds.
+** Dealing Flop ** :  [ 9d, Jd, 9c ]
+Jimmy_Cards bets (160)
+FiaMaria folds.
+** Summary **
+Main Pot: 380
+Board: [ 9d Jd 9c  ]
+
+FiaMaria balance 1410, lost 160 (folded)
+GaryNoether balance 1940, lost 20 (folded)
+siwhiteguy balance 1960, lost 40 (folded)
+Mikpt balance 1880, didn't bet (folded)
+hatoka balance 1760, didn't bet (folded)
+bluefly707 balance 1920, didn't bet (folded)
+Jimmy_Cards balance 1980, bet 320, collected 540, net +220
+Colwins balance 1840, didn't bet (folded)
+redoxmole balance 3330, didn't bet (folded)
+xxEarlgreyxx balance 1980, didn't bet (folded)
+
+***** Hand History for Game 6068769218 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:06:45 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 2 is the button
+Total number of players : 10
+Seat 1: FiaMaria (1410)
+Seat 2: GaryNoether (1940)
+Seat 3: siwhiteguy (1960)
+Seat 4: Mikpt (1880)
+Seat 5: hatoka (1760)
+Seat 6: bluefly707 (1920)
+Seat 7: Jimmy_Cards (1980)
+Seat 8: Colwins (1840)
+Seat 9: redoxmole (3330)
+Seat 10: xxEarlgreyxx (1980)
+siwhiteguy  posts small blind (20)
+Mikpt  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 3d, Kc ]
+hatoka folds.
+bluefly707 folds.
+Jimmy_Cards calls (40)
+Colwins raises (80) to 80
+redoxmole calls (80)
+xxEarlgreyxx folds.
+FiaMaria folds.
+GaryNoether folds.
+siwhiteguy calls (60)
+Mikpt calls (40)
+Jimmy_Cards calls (40)
+** Dealing Flop ** :  [ 2h, 6d, 2c ]
+siwhiteguy checks.
+Mikpt checks.
+Jimmy_Cards checks.
+Colwins checks.
+redoxmole checks.
+** Dealing Turn ** :  [ 5h ]
+siwhiteguy checks.
+Mikpt bets (40)
+Jimmy_Cards folds.
+Colwins calls (40)
+redoxmole calls (40)
+siwhiteguy folds.
+** Dealing River ** :  [ Th ]
+Mikpt bets (40)
+Colwins raises (320) to 320
+redoxmole folds.
+Mikpt calls (280)
+** Summary **
+Main Pot: 1160
+Board: [ 2h 6d 2c 5h Th  ]
+
+FiaMaria balance 1410, didn't bet (folded)
+GaryNoether balance 1940, didn't bet (folded)
+siwhiteguy balance 1880, lost 80 (folded)
+Mikpt balance 1440, lost 440 [ Ks 6s ] [ two pairs, Sixes and Twos -- Ks,6s,6d,2h,2c ]
+
+hatoka balance 1760, didn't bet (folded)
+bluefly707 balance 1920, didn't bet (folded)
+Jimmy_Cards balance 1900, lost 80 (folded)
+Colwins balance 2560, bet 440, collected 1160, net +720 [ 8h Ah ] [ a flush, Ace high -- Ah,Th,8h,5h,2h ]
+redoxmole balance 3210, lost 120 (folded)
+xxEarlgreyxx balance 1980, didn't bet (folded)
+
+***** Hand History for Game 6068771570 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:07:41 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 3 is the button
+Total number of players : 10
+Seat 1: FiaMaria (1410)
+Seat 2: GaryNoether (1940)
+Seat 3: siwhiteguy (1880)
+Seat 4: Mikpt (1440)
+Seat 5: hatoka (1760)
+Seat 6: bluefly707 (1920)
+Seat 7: Jimmy_Cards (1900)
+Seat 8: Colwins (2560)
+Seat 9: redoxmole (3210)
+Seat 10: xxEarlgreyxx (1980)
+Mikpt  posts small blind (20)
+hatoka  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ Qc, 7s ]
+bluefly707 folds.
+Jimmy_Cards calls (40)
+Colwins calls (40)
+redoxmole folds.
+xxEarlgreyxx folds.
+FiaMaria calls (40)
+GaryNoether folds.
+siwhiteguy folds.
+Mikpt calls (20)
+hatoka checks.
+** Dealing Flop ** :  [ As, 8c, 3c ]
+Mikpt checks.
+hatoka checks.
+Jimmy_Cards bets (200)
+Colwins calls (200)
+FiaMaria calls (200)
+Mikpt folds.
+hatoka folds.
+** Dealing Turn ** :  [ 9c ]
+Jimmy_Cards checks.
+Colwins checks.
+FiaMaria checks.
+** Dealing River ** :  [ 7c ]
+Jimmy_Cards checks.
+Colwins bets (800)
+FiaMaria folds.
+Jimmy_Cards folds.
+** Summary **
+Main Pot: 800
+Board: [ As 8c 3c 9c 7c  ]
+
+FiaMaria balance 1170, lost 240 (folded)
+GaryNoether balance 1940, didn't bet (folded)
+siwhiteguy balance 1880, didn't bet (folded)
+Mikpt balance 1400, lost 40 (folded)
+hatoka balance 1720, lost 40 (folded)
+bluefly707 balance 1920, didn't bet (folded)
+Jimmy_Cards balance 1660, lost 240 (folded)
+Colwins balance 3120, bet 1040, collected 1600, net +560
+redoxmole balance 3210, didn't bet (folded)
+xxEarlgreyxx balance 1980, didn't bet (folded)
+
+***** Hand History for Game 6068774283 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:08:43 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 4 is the button
+Total number of players : 10
+Seat 1: FiaMaria (1170)
+Seat 2: GaryNoether (1940)
+Seat 3: siwhiteguy (1880)
+Seat 4: Mikpt (1400)
+Seat 5: hatoka (1720)
+Seat 6: bluefly707 (1920)
+Seat 7: Jimmy_Cards (1660)
+Seat 8: Colwins (3120)
+Seat 9: redoxmole (3210)
+Seat 10: xxEarlgreyxx (1980)
+hatoka  posts small blind (30)
+bluefly707  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 3c, Ad ]
+Jimmy_Cards folds.
+Colwins calls (60)
+redoxmole calls (60)
+xxEarlgreyxx calls (60)
+FiaMaria calls (60)
+GaryNoether folds.
+siwhiteguy folds.
+Mikpt folds.
+hatoka folds.
+bluefly707 folds.
+** Dealing Flop ** :  [ 3s, 5h, 6c ]
+Colwins checks.
+redoxmole bets (180)
+xxEarlgreyxx folds.
+FiaMaria folds.
+Colwins calls (180)
+** Dealing Turn ** :  [ As ]
+Colwins checks.
+redoxmole checks.
+** Dealing River ** :  [ Kc ]
+Colwins checks.
+redoxmole bets (240)
+Colwins folds.
+** Summary **
+Main Pot: 690
+Board: [ 3s 5h 6c As Kc  ]
+
+FiaMaria balance 1110, lost 60 (folded)
+GaryNoether balance 1940, didn't bet (folded)
+siwhiteguy balance 1880, didn't bet (folded)
+Mikpt balance 1400, didn't bet (folded)
+hatoka balance 1690, lost 30 (folded)
+bluefly707 balance 1860, lost 60 (folded)
+Jimmy_Cards balance 1660, didn't bet (folded)
+Colwins balance 2880, lost 240 (folded)
+redoxmole balance 3660, bet 480, collected 930, net +450
+xxEarlgreyxx balance 1920, lost 60 (folded)
+
+***** Hand History for Game 6068776807 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:09:44 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 5 is the button
+Total number of players : 10
+Seat 1: FiaMaria (1110)
+Seat 2: GaryNoether (1940)
+Seat 3: siwhiteguy (1880)
+Seat 4: Mikpt (1400)
+Seat 5: hatoka (1690)
+Seat 6: bluefly707 (1860)
+Seat 7: Jimmy_Cards (1660)
+Seat 8: Colwins (2880)
+Seat 9: redoxmole (3660)
+Seat 10: xxEarlgreyxx (1920)
+bluefly707  posts small blind (30)
+Jimmy_Cards  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Ts, 9d ]
+Colwins raises (120) to 120
+redoxmole calls (120)
+xxEarlgreyxx folds.
+FiaMaria folds.
+GaryNoether folds.
+siwhiteguy folds.
+Mikpt calls (120)
+hatoka folds.
+bluefly707 folds.
+Jimmy_Cards calls (60)
+** Dealing Flop ** :  [ Ks, Js, Qh ]
+Jimmy_Cards checks.
+Colwins bets (60)
+redoxmole folds.
+Mikpt raises (120) to 120
+Jimmy_Cards folds.
+Colwins calls (60)
+** Dealing Turn ** :  [ Jh ]
+Colwins checks.
+Mikpt bets (60)
+Colwins calls (60)
+** Dealing River ** :  [ 2s ]
+Colwins checks.
+Mikpt bets (60)
+Colwins calls (60)
+** Summary **
+Main Pot: 990
+Board: [ Ks Js Qh Jh 2s  ]
+
+FiaMaria balance 1110, didn't bet (folded)
+GaryNoether balance 1940, didn't bet (folded)
+siwhiteguy balance 1880, didn't bet (folded)
+Mikpt balance 2030, bet 360, collected 990, net +630 [ Kc Ad ] [ two pairs, Kings and Jacks with Ace kicker -- Ad,Kc,Ks,Js,Jh ]
+hatoka balance 1690, didn't bet (folded)
+bluefly707 balance 1830, lost 30 (folded)
+Jimmy_Cards balance 1540, lost 120 (folded)
+Colwins balance 2520, lost 360 [ Th Kh ] [ two pairs, Kings and Jacks -- Kh,Ks,Qh,Js,Jh ]
+
+redoxmole balance 3540, lost 120 (folded)
+xxEarlgreyxx balance 1920, didn't bet (folded)
+
+***** Hand History for Game 6068778169 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:10:17 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 6 is the button
+Total number of players : 10
+Seat 1: FiaMaria (1110)
+Seat 2: GaryNoether (1940)
+Seat 3: siwhiteguy (1880)
+Seat 4: Mikpt (2030)
+Seat 5: hatoka (1690)
+Seat 6: bluefly707 (1830)
+Seat 7: Jimmy_Cards (1540)
+Seat 8: Colwins (2520)
+Seat 9: redoxmole (3540)
+Seat 10: xxEarlgreyxx (1920)
+Jimmy_Cards  posts small blind (30)
+Colwins  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 2c, Kd ]
+redoxmole folds.
+xxEarlgreyxx calls (60)
+FiaMaria calls (60)
+GaryNoether folds.
+siwhiteguy folds.
+Mikpt folds.
+hatoka folds.
+bluefly707 folds.
+Jimmy_Cards calls (30)
+Colwins checks.
+** Dealing Flop ** :  [ 2d, As, Js ]
+Jimmy_Cards checks.
+Colwins checks.
+xxEarlgreyxx checks.
+FiaMaria bets (60)
+Jimmy_Cards folds.
+Colwins folds.
+xxEarlgreyxx calls (60)
+** Dealing Turn ** :  [ 2h ]
+xxEarlgreyxx checks.
+FiaMaria bets (60)
+xxEarlgreyxx calls (60)
+** Dealing River ** :  [ Th ]
+xxEarlgreyxx checks.
+FiaMaria bets (60)
+xxEarlgreyxx calls (60)
+** Summary **
+Main Pot: 600
+Board: [ 2d As Js 2h Th  ]
+
+FiaMaria balance 1470, bet 240, collected 600, net +360 [ Jc 6s ] [ two pairs, Jacks and Twos -- As,Jc,Js,2d,2h ]
+GaryNoether balance 1940, didn't bet (folded)
+siwhiteguy balance 1880, didn't bet (folded)
+Mikpt balance 2030, didn't bet (folded)
+hatoka balance 1690, didn't bet (folded)
+bluefly707 balance 1830, didn't bet (folded)
+Jimmy_Cards balance 1480, lost 60 (folded)
+Colwins balance 2460, lost 60 (folded)
+redoxmole balance 3540, didn't bet (folded)
+xxEarlgreyxx balance 1680, lost 240 [ Ts 4s ] [ two pairs, Tens and Twos -- As,Ts,Th,2d,2h ]
+
+
+***** Hand History for Game 6068780689 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:11:17 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 7 is the button
+Total number of players : 10
+Seat 1: FiaMaria (1470)
+Seat 2: GaryNoether (1940)
+Seat 3: siwhiteguy (1880)
+Seat 4: Mikpt (2030)
+Seat 5: hatoka (1690)
+Seat 6: bluefly707 (1830)
+Seat 7: Jimmy_Cards (1480)
+Seat 8: Colwins (2460)
+Seat 9: redoxmole (3540)
+Seat 10: xxEarlgreyxx (1680)
+Colwins  posts small blind (30)
+redoxmole  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 8d, Qd ]
+xxEarlgreyxx calls (60)
+FiaMaria calls (60)
+GaryNoether folds.
+siwhiteguy calls (60)
+Mikpt folds.
+hatoka calls (60)
+bluefly707 folds.
+Jimmy_Cards folds.
+Colwins calls (30)
+redoxmole checks.
+** Dealing Flop ** :  [ Ts, 9c, 7d ]
+Colwins checks.
+redoxmole checks.
+xxEarlgreyxx checks.
+FiaMaria bets (300)
+siwhiteguy calls (300)
+hatoka calls (300)
+Colwins calls (300)
+redoxmole folds.
+xxEarlgreyxx folds.
+** Dealing Turn ** :  [ 4c ]
+Colwins checks.
+FiaMaria bets (60)
+siwhiteguy calls (60)
+hatoka calls (60)
+Colwins raises (420) to 420
+FiaMaria calls (360)
+siwhiteguy calls (360)
+hatoka folds.
+** Dealing River ** :  [ Qs ]
+Colwins bets (1680)
+Colwins is all-In.
+siwhiteguy: crap lol
+FiaMaria calls (690)
+FiaMaria is all-In.
+siwhiteguy calls (1100)
+siwhiteguy is all-In.
+Creating Main Pot with $4950 with FiaMaria
+Creating Side Pot 1 with $820 with siwhiteguy
+** Summary **
+Main Pot: 4950 | Side Pot 1: 820
+Board: [ Ts 9c 7d 4c Qs  ]
+
+FiaMaria balance 0, lost 1470 [ 9h Tc ] [ two pairs, Tens and Nines -- Qs,Tc,Ts,9h,9c ]
+GaryNoether balance 1940, didn't bet (folded)
+siwhiteguy balance 0, lost 1880 [ Ah Ac ] [ a pair of Aces -- Ah,Ac,Qs,Ts,9c ]
+Mikpt balance 2030, didn't bet (folded)
+hatoka balance 1270, lost 420 (folded)
+bluefly707 balance 1830, didn't bet (folded)
+Jimmy_Cards balance 1480, didn't bet (folded)
+Colwins balance 6350, bet 2460, collected 6350, net +3890 [ 7c 7h ] [ three of a kind, Sevens -- Qs,Ts,7c,7h,7d ]
+redoxmole balance 3480, lost 60 (folded)
+xxEarlgreyxx balance 1620, lost 60 (folded)
+
+***** Hand History for Game 6068784087 *****
+FiaMaria finished in 10 place.
+siwhiteguy finished in 9 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:12:39 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 8 is the button
+Total number of players : 8
+Seat 2: GaryNoether (1940)
+Seat 4: Mikpt (2030)
+Seat 5: hatoka (1270)
+Seat 6: bluefly707 (1830)
+Seat 7: Jimmy_Cards (1480)
+Seat 8: Colwins (6350)
+Seat 9: redoxmole (3480)
+Seat 10: xxEarlgreyxx (1620)
+redoxmole  posts small blind (30)
+xxEarlgreyxx  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Qh, 9s ]
+GaryNoether folds.
+Mikpt folds.
+hatoka folds.
+bluefly707 folds.
+Jimmy_Cards folds.
+Colwins calls (60)
+redoxmole calls (30)
+xxEarlgreyxx checks.
+** Dealing Flop ** :  [ 5c, Td, 3h ]
+redoxmole checks.
+xxEarlgreyxx checks.
+Colwins checks.
+** Dealing Turn ** :  [ Kd ]
+redoxmole bets (120)
+xxEarlgreyxx folds.
+Colwins folds.
+** Summary **
+Main Pot: 180
+Board: [ 5c Td 3h Kd  ]
+
+GaryNoether balance 1940, didn't bet (folded)
+Mikpt balance 2030, didn't bet (folded)
+hatoka balance 1270, didn't bet (folded)
+bluefly707 balance 1830, didn't bet (folded)
+Jimmy_Cards balance 1480, didn't bet (folded)
+Colwins balance 6290, lost 60 (folded)
+redoxmole balance 3600, bet 180, collected 300, net +120
+xxEarlgreyxx balance 1560, lost 60 (folded)
+
+***** Hand History for Game 6068786035 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:13:25 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 9 is the button
+Total number of players : 8
+Seat 2: GaryNoether (1940)
+Seat 4: Mikpt (2030)
+Seat 5: hatoka (1270)
+Seat 6: bluefly707 (1830)
+Seat 7: Jimmy_Cards (1480)
+Seat 8: Colwins (6290)
+Seat 9: redoxmole (3600)
+Seat 10: xxEarlgreyxx (1560)
+xxEarlgreyxx  posts small blind (30)
+GaryNoether  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 9d, 5s ]
+Mikpt folds.
+hatoka folds.
+bluefly707 folds.
+Jimmy_Cards calls (60)
+Colwins calls (60)
+redoxmole folds.
+xxEarlgreyxx calls (30)
+GaryNoether checks.
+** Dealing Flop ** :  [ Th, 2h, 3c ]
+xxEarlgreyxx checks.
+GaryNoether checks.
+Jimmy_Cards checks.
+Colwins checks.
+** Dealing Turn ** :  [ 7s ]
+xxEarlgreyxx checks.
+GaryNoether checks.
+Jimmy_Cards checks.
+Colwins checks.
+** Dealing River ** :  [ Qs ]
+xxEarlgreyxx checks.
+GaryNoether bets (80)
+Jimmy_Cards folds.
+Colwins folds.
+xxEarlgreyxx folds.
+** Summary **
+Main Pot: 240
+Board: [ Th 2h 3c 7s Qs  ]
+
+GaryNoether balance 2120, bet 140, collected 320, net +180
+Mikpt balance 2030, didn't bet (folded)
+hatoka balance 1270, didn't bet (folded)
+bluefly707 balance 1830, didn't bet (folded)
+Jimmy_Cards balance 1420, lost 60 (folded)
+Colwins balance 6230, lost 60 (folded)
+redoxmole balance 3600, didn't bet (folded)
+xxEarlgreyxx balance 1500, lost 60 (folded)
+
+***** Hand History for Game 6068788062 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:14:13 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 10 is the button
+Total number of players : 8
+Seat 2: GaryNoether (2120)
+Seat 4: Mikpt (2030)
+Seat 5: hatoka (1270)
+Seat 6: bluefly707 (1830)
+Seat 7: Jimmy_Cards (1420)
+Seat 8: Colwins (6230)
+Seat 9: redoxmole (3600)
+Seat 10: xxEarlgreyxx (1500)
+GaryNoether  posts small blind (50)
+Mikpt  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Qd, 2h ]
+hatoka folds.
+bluefly707 folds.
+Jimmy_Cards folds.
+Colwins calls (100)
+redoxmole calls (100)
+xxEarlgreyxx calls (100)
+GaryNoether calls (50)
+Mikpt checks.
+** Dealing Flop ** :  [ 9c, Jc, 8d ]
+GaryNoether checks.
+Mikpt checks.
+Colwins checks.
+redoxmole bets (200)
+xxEarlgreyxx calls (200)
+GaryNoether folds.
+Mikpt calls (200)
+Colwins folds.
+** Dealing Turn ** :  [ 7s ]
+Mikpt checks.
+redoxmole checks.
+xxEarlgreyxx bets (200)
+Mikpt calls (200)
+redoxmole folds.
+** Dealing River ** :  [ 3c ]
+Mikpt checks.
+xxEarlgreyxx bets (1000)
+xxEarlgreyxx is all-In.
+Mikpt folds.
+Creating Main Pot with $1500 with xxEarlgreyxx
+** Summary **
+Main Pot: 1500
+Board: [ 9c Jc 8d 7s 3c  ]
+
+GaryNoether balance 2020, lost 100 (folded)
+Mikpt balance 1530, lost 500 (folded)
+hatoka balance 1270, didn't bet (folded)
+bluefly707 balance 1830, didn't bet (folded)
+Jimmy_Cards balance 1420, didn't bet (folded)
+Colwins balance 6130, lost 100 (folded)
+redoxmole balance 3300, lost 300 (folded)
+xxEarlgreyxx balance 2500, bet 1500, collected 2500, net +1000 [ Td Qc ] [ a straight Eight to Queen -- Qc,Jc,Td,9c,8d ]
+
+***** Hand History for Game 6068790924 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:15:21 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 2 is the button
+Total number of players : 8
+Seat 2: GaryNoether (2020)
+Seat 4: Mikpt (1530)
+Seat 5: hatoka (1270)
+Seat 6: bluefly707 (1830)
+Seat 7: Jimmy_Cards (1420)
+Seat 8: Colwins (6130)
+Seat 9: redoxmole (3300)
+Seat 10: xxEarlgreyxx (2500)
+Mikpt  posts small blind (50)
+hatoka  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 3s, 6s ]
+bluefly707 folds.
+Jimmy_Cards calls (100)
+Colwins folds.
+redoxmole folds.
+xxEarlgreyxx calls (100)
+GaryNoether folds.
+Mikpt calls (50)
+hatoka checks.
+** Dealing Flop ** :  [ 5h, 2h, Ts ]
+Mikpt checks.
+hatoka checks.
+Jimmy_Cards bets (300)
+xxEarlgreyxx folds.
+Mikpt folds.
+hatoka folds.
+** Summary **
+Main Pot: 400
+Board: [ 5h 2h Ts  ]
+
+GaryNoether balance 2020, didn't bet (folded)
+Mikpt balance 1430, lost 100 (folded)
+hatoka balance 1170, lost 100 (folded)
+bluefly707 balance 1830, didn't bet (folded)
+Jimmy_Cards balance 1720, bet 400, collected 700, net +300
+Colwins balance 6130, didn't bet (folded)
+redoxmole balance 3300, didn't bet (folded)
+xxEarlgreyxx balance 2400, lost 100 (folded)
+
+***** Hand History for Game 6068792084 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:15:48 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 4 is the button
+Total number of players : 8
+Seat 2: GaryNoether (2020)
+Seat 4: Mikpt (1430)
+Seat 5: hatoka (1170)
+Seat 6: bluefly707 (1830)
+Seat 7: Jimmy_Cards (1720)
+Seat 8: Colwins (6130)
+Seat 9: redoxmole (3300)
+Seat 10: xxEarlgreyxx (2400)
+hatoka  posts small blind (50)
+bluefly707  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 7h, 9d ]
+Jimmy_Cards folds.
+Colwins calls (100)
+redoxmole folds.
+xxEarlgreyxx calls (100)
+GaryNoether folds.
+Mikpt folds.
+hatoka folds.
+bluefly707 folds.
+** Dealing Flop ** :  [ 5h, 2c, As ]
+Colwins checks.
+xxEarlgreyxx bets (100)
+Colwins folds.
+** Summary **
+Main Pot: 350
+Board: [ 5h 2c As  ]
+
+GaryNoether balance 2020, didn't bet (folded)
+Mikpt balance 1430, didn't bet (folded)
+hatoka balance 1120, lost 50 (folded)
+bluefly707 balance 1730, lost 100 (folded)
+Jimmy_Cards balance 1720, didn't bet (folded)
+Colwins balance 6030, lost 100 (folded)
+redoxmole balance 3300, didn't bet (folded)
+xxEarlgreyxx balance 2650, bet 200, collected 450, net +250
+
+***** Hand History for Game 6068793411 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:16:19 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 5 is the button
+Total number of players : 8
+Seat 2: GaryNoether (2020)
+Seat 4: Mikpt (1430)
+Seat 5: hatoka (1120)
+Seat 6: bluefly707 (1730)
+Seat 7: Jimmy_Cards (1720)
+Seat 8: Colwins (6030)
+Seat 9: redoxmole (3300)
+Seat 10: xxEarlgreyxx (2650)
+bluefly707  posts small blind (50)
+Jimmy_Cards  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 6s, 7c ]
+Colwins folds.
+redoxmole calls (100)
+xxEarlgreyxx folds.
+GaryNoether folds.
+Mikpt folds.
+hatoka folds.
+bluefly707 folds.
+Jimmy_Cards checks.
+** Dealing Flop ** :  [ 9c, Qs, Ks ]
+Jimmy_Cards bets (200)
+redoxmole calls (200)
+** Dealing Turn ** :  [ 3c ]
+Jimmy_Cards bets (1420)
+Jimmy_Cards is all-In.
+redoxmole calls (1420)
+** Dealing River ** :  [ 8s ]
+Creating Main Pot with $3490 with Jimmy_Cards
+** Summary **
+Main Pot: 3490
+Board: [ 9c Qs Ks 3c 8s  ]
+
+GaryNoether balance 2020, didn't bet (folded)
+Mikpt balance 1430, didn't bet (folded)
+hatoka balance 1120, didn't bet (folded)
+bluefly707 balance 1680, lost 50 (folded)
+Jimmy_Cards balance 3490, bet 1720, collected 3490, net +1770 [ Jd Tc ] [ a straight Nine to King -- Ks,Qs,Jd,Tc,9c ]
+Colwins balance 6030, didn't bet (folded)
+redoxmole balance 1580, lost 1720 [ Qh Kd ] [ two pairs, Kings and Queens -- Kd,Ks,Qh,Qs,9c ]
+xxEarlgreyxx balance 2650, didn't bet (folded)
+
+***** Hand History for Game 6068794650 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:16:48 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 6 is the button
+Total number of players : 8
+Seat 2: GaryNoether (2020)
+Seat 4: Mikpt (1430)
+Seat 5: hatoka (1120)
+Seat 6: bluefly707 (1680)
+Seat 7: Jimmy_Cards (3490)
+Seat 8: Colwins (6030)
+Seat 9: redoxmole (1580)
+Seat 10: xxEarlgreyxx (2650)
+Jimmy_Cards  posts small blind (50)
+Colwins  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 8h, 3h ]
+redoxmole raises (300) to 300
+xxEarlgreyxx calls (300)
+GaryNoether folds.
+Mikpt folds.
+hatoka folds.
+bluefly707 folds.
+Jimmy_Cards calls (250)
+Colwins folds.
+** Dealing Flop ** :  [ Js, Qd, 6h ]
+Jimmy_Cards checks.
+redoxmole bets (200)
+xxEarlgreyxx calls (200)
+Jimmy_Cards raises (900) to 900
+redoxmole folds.
+xxEarlgreyxx: pffffft.... AK
+xxEarlgreyxx folds.
+** Summary **
+Main Pot: 1600
+Board: [ Js Qd 6h  ]
+
+GaryNoether balance 2020, didn't bet (folded)
+Mikpt balance 1430, didn't bet (folded)
+hatoka balance 1120, didn't bet (folded)
+bluefly707 balance 1680, didn't bet (folded)
+Jimmy_Cards balance 4590, bet 1200, collected 2300, net +1100
+Colwins balance 5930, lost 100 (folded)
+redoxmole balance 1080, lost 500 (folded)
+xxEarlgreyxx balance 2150, lost 500 (folded)
+
+***** Hand History for Game 6068797229 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:17:49 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 7 is the button
+Total number of players : 8
+Seat 2: GaryNoether (2020)
+Seat 4: Mikpt (1430)
+Seat 5: hatoka (1120)
+Seat 6: bluefly707 (1680)
+Seat 7: Jimmy_Cards (4590)
+Seat 8: Colwins (5930)
+Seat 9: redoxmole (1080)
+Seat 10: xxEarlgreyxx (2150)
+Colwins  posts small blind (50)
+redoxmole  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 8s, 6d ]
+xxEarlgreyxx calls (100)
+GaryNoether folds.
+Mikpt folds.
+hatoka folds.
+bluefly707 folds.
+Jimmy_Cards folds.
+Colwins calls (50)
+redoxmole checks.
+** Dealing Flop ** :  [ Qc, 6s, Ks ]
+Colwins bets (100)
+redoxmole raises (300) to 300
+xxEarlgreyxx raises (500) to 500
+Colwins folds.
+redoxmole folds.
+** Summary **
+Main Pot: 1000
+Board: [ Qc 6s Ks  ]
+
+GaryNoether balance 2020, didn't bet (folded)
+Mikpt balance 1430, didn't bet (folded)
+hatoka balance 1120, didn't bet (folded)
+bluefly707 balance 1680, didn't bet (folded)
+Jimmy_Cards balance 4590, didn't bet (folded)
+Colwins balance 5730, lost 200 (folded)
+redoxmole balance 680, lost 400 (folded)
+xxEarlgreyxx balance 2750, bet 600, collected 1200, net +600 [ Ah Ac ] [ a pair of Aces -- Ah,Ac,Ks,Qc,6s ]
+
+***** Hand History for Game 6068798697 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:18:25 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 8 is the button
+Total number of players : 8
+Seat 2: GaryNoether (2020)
+Seat 4: Mikpt (1430)
+Seat 5: hatoka (1120)
+Seat 6: bluefly707 (1680)
+Seat 7: Jimmy_Cards (4590)
+Seat 8: Colwins (5730)
+Seat 9: redoxmole (680)
+Seat 10: xxEarlgreyxx (2750)
+redoxmole  posts small blind (50)
+xxEarlgreyxx  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 2s, 3h ]
+GaryNoether folds.
+Mikpt folds.
+hatoka folds.
+bluefly707 folds.
+Jimmy_Cards folds.
+Colwins calls (100)
+redoxmole raises (630) to 680
+redoxmole is all-In.
+xxEarlgreyxx folds.
+Colwins folds.
+Creating Main Pot with $300 with redoxmole
+** Summary **
+Main Pot: 300
+
+GaryNoether balance 2020, didn't bet (folded)
+Mikpt balance 1430, didn't bet (folded)
+hatoka balance 1120, didn't bet (folded)
+bluefly707 balance 1680, didn't bet (folded)
+Jimmy_Cards balance 4590, didn't bet (folded)
+Colwins balance 5630, lost 100 (folded)
+redoxmole balance 880, bet 680, collected 880, net +200
+xxEarlgreyxx balance 2650, lost 100 (folded)
+
+***** Hand History for Game 6068799554 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:18:45 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 9 is the button
+Total number of players : 8
+Seat 2: GaryNoether (2020)
+Seat 4: Mikpt (1430)
+Seat 5: hatoka (1120)
+Seat 6: bluefly707 (1680)
+Seat 7: Jimmy_Cards (4590)
+Seat 8: Colwins (5630)
+Seat 9: redoxmole (880)
+Seat 10: xxEarlgreyxx (2650)
+xxEarlgreyxx  posts small blind (50)
+GaryNoether  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Th, 4d ]
+Mikpt folds.
+hatoka folds.
+bluefly707 folds.
+Jimmy_Cards folds.
+Colwins folds.
+redoxmole folds.
+xxEarlgreyxx folds.
+** Summary **
+Main Pot: 100
+
+GaryNoether balance 2070, bet 100, collected 150, net +50
+Mikpt balance 1430, didn't bet (folded)
+hatoka balance 1120, didn't bet (folded)
+bluefly707 balance 1680, didn't bet (folded)
+Jimmy_Cards balance 4590, didn't bet (folded)
+Colwins balance 5630, didn't bet (folded)
+redoxmole balance 880, didn't bet (folded)
+xxEarlgreyxx balance 2600, lost 50 (folded)
+
+***** Hand History for Game 6068800188 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:18:59 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 10 is the button
+Total number of players : 8
+Seat 2: GaryNoether (2070)
+Seat 4: Mikpt (1430)
+Seat 5: hatoka (1120)
+Seat 6: bluefly707 (1680)
+Seat 7: Jimmy_Cards (4590)
+Seat 8: Colwins (5630)
+Seat 9: redoxmole (880)
+Seat 10: xxEarlgreyxx (2600)
+GaryNoether  posts small blind (50)
+Mikpt  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 3s, 4s ]
+hatoka folds.
+bluefly707 folds.
+Jimmy_Cards folds.
+Colwins folds.
+redoxmole raises (880) to 880
+redoxmole is all-In.
+xxEarlgreyxx folds.
+GaryNoether folds.
+Mikpt folds.
+Creating Main Pot with $250 with redoxmole
+** Summary **
+Main Pot: 250
+
+GaryNoether balance 2020, lost 50 (folded)
+Mikpt balance 1330, lost 100 (folded)
+hatoka balance 1120, didn't bet (folded)
+bluefly707 balance 1680, didn't bet (folded)
+Jimmy_Cards balance 4590, didn't bet (folded)
+Colwins balance 5630, didn't bet (folded)
+redoxmole balance 1030, bet 880, collected 1030, net +150
+xxEarlgreyxx balance 2600, didn't bet (folded)
+
+***** Hand History for Game 6068801025 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:19:20 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 2 is the button
+Total number of players : 8
+Seat 2: GaryNoether (2020)
+Seat 4: Mikpt (1330)
+Seat 5: hatoka (1120)
+Seat 6: bluefly707 (1680)
+Seat 7: Jimmy_Cards (4590)
+Seat 8: Colwins (5630)
+Seat 9: redoxmole (1030)
+Seat 10: xxEarlgreyxx (2600)
+Mikpt  posts small blind (100)
+hatoka  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Js, 6s ]
+bluefly707 folds.
+Jimmy_Cards raises (600) to 600
+Colwins folds.
+redoxmole raises (1030) to 1030
+redoxmole is all-In.
+xxEarlgreyxx folds.
+GaryNoether folds.
+Mikpt folds.
+hatoka folds.
+Jimmy_Cards calls (430)
+** Dealing Flop ** :  [ Td, Jh, Qs ]
+** Dealing Turn ** :  [ Qc ]
+** Dealing River ** :  [ Jc ]
+Creating Main Pot with $2360 with redoxmole
+** Summary **
+Main Pot: 2360
+Board: [ Td Jh Qs Qc Jc  ]
+
+GaryNoether balance 2020, didn't bet (folded)
+Mikpt balance 1230, lost 100 (folded)
+hatoka balance 920, lost 200 (folded)
+bluefly707 balance 1680, didn't bet (folded)
+Jimmy_Cards balance 5920, bet 1030, collected 2360, net +1330 [ Ks Kc ] [ two pairs, Kings and Queens -- Ks,Kc,Qs,Qc,Jh ]
+Colwins balance 5630, didn't bet (folded)
+redoxmole balance 0, lost 1030 [ 9d 9h ] [ two pairs, Queens and Jacks -- Qs,Qc,Jh,Jc,Td ]
+xxEarlgreyxx balance 2600, didn't bet (folded)
+
+***** Hand History for Game 6068801903 *****
+redoxmole finished in 8 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:19:41 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 4 is the button
+Total number of players : 7
+Seat 2: GaryNoether (2020)
+Seat 4: Mikpt (1230)
+Seat 5: hatoka (920)
+Seat 6: bluefly707 (1680)
+Seat 7: Jimmy_Cards (5920)
+Seat 8: Colwins (5630)
+Seat 10: xxEarlgreyxx (2600)
+hatoka  posts small blind (100)
+bluefly707  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 4s, 5h ]
+Jimmy_Cards calls (200)
+Colwins folds.
+xxEarlgreyxx folds.
+GaryNoether folds.
+Mikpt folds.
+hatoka folds.
+bluefly707 folds.
+** Summary **
+Main Pot: 500
+
+GaryNoether balance 2020, didn't bet (folded)
+Mikpt balance 1230, didn't bet (folded)
+hatoka balance 820, lost 100 (folded)
+bluefly707 balance 1480, lost 200 (folded)
+Jimmy_Cards balance 6220, bet 200, collected 500, net +300
+Colwins balance 5630, didn't bet (folded)
+xxEarlgreyxx balance 2600, didn't bet (folded)
+
+***** Hand History for Game 6068802308 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:19:50 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 5 is the button
+Total number of players : 7
+Seat 2: GaryNoether (2020)
+Seat 4: Mikpt (1230)
+Seat 5: hatoka (820)
+Seat 6: bluefly707 (1480)
+Seat 7: Jimmy_Cards (6220)
+Seat 8: Colwins (5630)
+Seat 10: xxEarlgreyxx (2600)
+bluefly707  posts small blind (100)
+Jimmy_Cards  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 8c, Ah ]
+Colwins folds.
+xxEarlgreyxx calls (200)
+GaryNoether folds.
+Mikpt folds.
+hatoka raises (820) to 820
+hatoka is all-In.
+bluefly707 folds.
+Jimmy_Cards folds.
+xxEarlgreyxx calls (620)
+** Dealing Flop ** :  [ Qc, As, Kh ]
+** Dealing Turn ** :  [ Tc ]
+** Dealing River ** :  [ Th ]
+Creating Main Pot with $1940 with hatoka
+** Summary **
+Main Pot: 1940
+Board: [ Qc As Kh Tc Th  ]
+
+GaryNoether balance 2020, didn't bet (folded)
+Mikpt balance 1230, didn't bet (folded)
+hatoka balance 970, bet 820, collected 970, net +150 [ 8c Ah ] [ two pairs, Aces and Tens -- Ah,As,Kh,Tc,Th ]
+bluefly707 balance 1380, lost 100 (folded)
+Jimmy_Cards balance 6020, lost 200 (folded)
+Colwins balance 5630, didn't bet (folded)
+xxEarlgreyxx balance 2750, bet 820, collected 970, net +150 [ Ac 2c ] [ two pairs, Aces and Tens -- Ac,As,Kh,Tc,Th ]
+
+***** Hand History for Game 6068804298 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:20:38 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 6 is the button
+Total number of players : 7
+Seat 2: GaryNoether (2020)
+Seat 4: Mikpt (1230)
+Seat 5: hatoka (970)
+Seat 6: bluefly707 (1380)
+Seat 7: Jimmy_Cards (6020)
+Seat 8: Colwins (5630)
+Seat 10: xxEarlgreyxx (2750)
+Jimmy_Cards  posts small blind (100)
+Colwins  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 8s, 9c ]
+xxEarlgreyxx folds.
+GaryNoether folds.
+Mikpt folds.
+hatoka folds.
+bluefly707 folds.
+Jimmy_Cards folds.
+** Summary **
+Main Pot: 200
+
+GaryNoether balance 2020, didn't bet (folded)
+Mikpt balance 1230, didn't bet (folded)
+hatoka balance 970, didn't bet (folded)
+bluefly707 balance 1380, didn't bet (folded)
+Jimmy_Cards balance 5920, lost 100 (folded)
+Colwins balance 5730, bet 200, collected 300, net +100
+xxEarlgreyxx balance 2750, didn't bet (folded)
+
+***** Hand History for Game 6068804736 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:20:49 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 7 is the button
+Total number of players : 7
+Seat 2: GaryNoether (2020)
+Seat 4: Mikpt (1230)
+Seat 5: hatoka (970)
+Seat 6: bluefly707 (1380)
+Seat 7: Jimmy_Cards (5920)
+Seat 8: Colwins (5730)
+Seat 10: xxEarlgreyxx (2750)
+Colwins  posts small blind (100)
+xxEarlgreyxx  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Js, Th ]
+GaryNoether folds.
+Mikpt folds.
+hatoka raises (600) to 600
+bluefly707 folds.
+Jimmy_Cards folds.
+Colwins folds.
+xxEarlgreyxx folds.
+** Summary **
+Main Pot: 500
+
+GaryNoether balance 2020, didn't bet (folded)
+Mikpt balance 1230, didn't bet (folded)
+hatoka balance 1270, bet 600, collected 900, net +300
+bluefly707 balance 1380, didn't bet (folded)
+Jimmy_Cards balance 5920, didn't bet (folded)
+Colwins balance 5630, lost 100 (folded)
+xxEarlgreyxx balance 2550, lost 200 (folded)
+
+***** Hand History for Game 6068805380 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:21:04 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 8 is the button
+Total number of players : 7
+Seat 2: GaryNoether (2020)
+Seat 4: Mikpt (1230)
+Seat 5: hatoka (1270)
+Seat 6: bluefly707 (1380)
+Seat 7: Jimmy_Cards (5920)
+Seat 8: Colwins (5630)
+Seat 10: xxEarlgreyxx (2550)
+xxEarlgreyxx  posts small blind (100)
+GaryNoether  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 8c, 7s ]
+Mikpt calls (200)
+hatoka folds.
+bluefly707 folds.
+Jimmy_Cards folds.
+Colwins folds.
+xxEarlgreyxx calls (100)
+GaryNoether checks.
+** Dealing Flop ** :  [ 2h, 9c, Th ]
+xxEarlgreyxx checks.
+GaryNoether bets (500)
+Mikpt raises (1000) to 1000
+xxEarlgreyxx folds.
+GaryNoether raises (1320) to 1820
+GaryNoether is all-In.
+Mikpt calls (30)
+Mikpt is all-In.
+** Dealing Turn ** :  [ 4h ]
+** Dealing River ** :  [ As ]
+Creating Main Pot with $2660 with Mikpt
+** Summary **
+Main Pot: 2660
+Board: [ 2h 9c Th 4h As  ]
+
+GaryNoether balance 790, bet 2020, collected 790, lost -1230 [ 6s Tc ] [ a pair of Tens -- As,Tc,Th,9c,6s ]
+Mikpt balance 2660, bet 1230, collected 2660, net +1430 [ Kd Kh ] [ a pair of Kings -- As,Kd,Kh,Th,9c ]
+hatoka balance 1270, didn't bet (folded)
+bluefly707 balance 1380, didn't bet (folded)
+Jimmy_Cards balance 5920, didn't bet (folded)
+Colwins balance 5630, didn't bet (folded)
+xxEarlgreyxx balance 2350, lost 200 (folded)
+
+***** Hand History for Game 6068807251 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:21:50 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 10 is the button
+Total number of players : 7
+Seat 2: GaryNoether (790)
+Seat 4: Mikpt (2660)
+Seat 5: hatoka (1270)
+Seat 6: bluefly707 (1380)
+Seat 7: Jimmy_Cards (5920)
+Seat 8: Colwins (5630)
+Seat 10: xxEarlgreyxx (2350)
+GaryNoether  posts small blind (100)
+Mikpt  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 7c, 2s ]
+hatoka folds.
+bluefly707 folds.
+Jimmy_Cards calls (200)
+Colwins folds.
+xxEarlgreyxx folds.
+GaryNoether folds.
+Mikpt checks.
+** Dealing Flop ** :  [ Th, 5s, Kh ]
+Mikpt checks.
+Jimmy_Cards bets (400)
+Mikpt folds.
+** Summary **
+Main Pot: 500
+Board: [ Th 5s Kh  ]
+
+GaryNoether balance 690, lost 100 (folded)
+Mikpt balance 2460, lost 200 (folded)
+hatoka balance 1270, didn't bet (folded)
+bluefly707 balance 1380, didn't bet (folded)
+Jimmy_Cards balance 6220, bet 600, collected 900, net +300
+Colwins balance 5630, didn't bet (folded)
+xxEarlgreyxx balance 2350, didn't bet (folded)
+
+***** Hand History for Game 6068808306 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:22:15 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 2 is the button
+Total number of players : 7
+Seat 2: GaryNoether (690)
+Seat 4: Mikpt (2460)
+Seat 5: hatoka (1270)
+Seat 6: bluefly707 (1380)
+Seat 7: Jimmy_Cards (6220)
+Seat 8: Colwins (5630)
+Seat 10: xxEarlgreyxx (2350)
+Mikpt  posts small blind (100)
+hatoka  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 6c, 5d ]
+bluefly707 folds.
+Jimmy_Cards folds.
+Colwins folds.
+xxEarlgreyxx folds.
+GaryNoether raises (690) to 690
+GaryNoether is all-In.
+Mikpt folds.
+hatoka folds.
+Creating Main Pot with $500 with GaryNoether
+** Summary **
+Main Pot: 500
+
+GaryNoether balance 990, bet 690, collected 990, net +300
+Mikpt balance 2360, lost 100 (folded)
+hatoka balance 1070, lost 200 (folded)
+bluefly707 balance 1380, didn't bet (folded)
+Jimmy_Cards balance 6220, didn't bet (folded)
+Colwins balance 5630, didn't bet (folded)
+xxEarlgreyxx balance 2350, didn't bet (folded)
+
+***** Hand History for Game 6068808947 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:22:31 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 4 is the button
+Total number of players : 7
+Seat 2: GaryNoether (990)
+Seat 4: Mikpt (2360)
+Seat 5: hatoka (1070)
+Seat 6: bluefly707 (1380)
+Seat 7: Jimmy_Cards (6220)
+Seat 8: Colwins (5630)
+Seat 10: xxEarlgreyxx (2350)
+hatoka  posts small blind (100)
+bluefly707  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 4c, Js ]
+Jimmy_Cards folds.
+Colwins folds.
+xxEarlgreyxx folds.
+GaryNoether raises (990) to 990
+GaryNoether is all-In.
+Mikpt folds.
+hatoka folds.
+bluefly707 folds.
+Creating Main Pot with $500 with GaryNoether
+** Summary **
+Main Pot: 500
+
+GaryNoether balance 1290, bet 990, collected 1290, net +300
+Mikpt balance 2360, didn't bet (folded)
+hatoka balance 970, lost 100 (folded)
+bluefly707 balance 1180, lost 200 (folded)
+Jimmy_Cards balance 6220, didn't bet (folded)
+Colwins balance 5630, didn't bet (folded)
+xxEarlgreyxx balance 2350, didn't bet (folded)
+
+***** Hand History for Game 6068809481 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:22:43 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 5 is the button
+Total number of players : 7
+Seat 2: GaryNoether (1290)
+Seat 4: Mikpt (2360)
+Seat 5: hatoka (970)
+Seat 6: bluefly707 (1180)
+Seat 7: Jimmy_Cards (6220)
+Seat 8: Colwins (5630)
+Seat 10: xxEarlgreyxx (2350)
+bluefly707  posts small blind (100)
+Jimmy_Cards  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 3d, 9d ]
+Colwins folds.
+xxEarlgreyxx calls (200)
+GaryNoether folds.
+Mikpt folds.
+hatoka folds.
+bluefly707 folds.
+Jimmy_Cards checks.
+** Dealing Flop ** :  [ Ac, Qd, Jh ]
+Jimmy_Cards checks.
+xxEarlgreyxx checks.
+** Dealing Turn ** :  [ 7s ]
+Jimmy_Cards checks.
+xxEarlgreyxx bets (200)
+Jimmy_Cards folds.
+** Summary **
+Main Pot: 500
+Board: [ Ac Qd Jh 7s  ]
+
+GaryNoether balance 1290, didn't bet (folded)
+Mikpt balance 2360, didn't bet (folded)
+hatoka balance 970, didn't bet (folded)
+bluefly707 balance 1080, lost 100 (folded)
+Jimmy_Cards balance 6020, lost 200 (folded)
+Colwins balance 5630, didn't bet (folded)
+xxEarlgreyxx balance 2650, bet 400, collected 700, net +300
+
+***** Hand History for Game 6068810333 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:23:07 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 6 is the button
+Total number of players : 7
+Seat 2: GaryNoether (1290)
+Seat 4: Mikpt (2360)
+Seat 5: hatoka (970)
+Seat 6: bluefly707 (1080)
+Seat 7: Jimmy_Cards (6020)
+Seat 8: Colwins (5630)
+Seat 10: xxEarlgreyxx (2650)
+Jimmy_Cards  posts small blind (100)
+Colwins  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 5h, Tc ]
+xxEarlgreyxx folds.
+GaryNoether folds.
+Mikpt folds.
+hatoka folds.
+bluefly707 folds.
+Jimmy_Cards calls (100)
+Colwins checks.
+** Dealing Flop ** :  [ Qc, Ad, 4h ]
+Jimmy_Cards bets (200)
+Colwins folds.
+** Summary **
+Main Pot: 400
+Board: [ Qc Ad 4h  ]
+
+GaryNoether balance 1290, didn't bet (folded)
+Mikpt balance 2360, didn't bet (folded)
+hatoka balance 970, didn't bet (folded)
+bluefly707 balance 1080, didn't bet (folded)
+Jimmy_Cards balance 6220, bet 400, collected 600, net +200
+Colwins balance 5430, lost 200 (folded)
+xxEarlgreyxx balance 2650, didn't bet (folded)
+
+***** Hand History for Game 6068811249 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:23:25 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 7 is the button
+Total number of players : 7
+Seat 2: GaryNoether (1290)
+Seat 4: Mikpt (2360)
+Seat 5: hatoka (970)
+Seat 6: bluefly707 (1080)
+Seat 7: Jimmy_Cards (6220)
+Seat 8: Colwins (5430)
+Seat 10: xxEarlgreyxx (2650)
+Colwins  posts small blind (100)
+xxEarlgreyxx  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 5h, 3h ]
+GaryNoether folds.
+Mikpt folds.
+hatoka folds.
+bluefly707 folds.
+Jimmy_Cards folds.
+Colwins calls (100)
+xxEarlgreyxx checks.
+** Dealing Flop ** :  [ 8h, 7c, Ts ]
+Colwins checks.
+xxEarlgreyxx checks.
+** Dealing Turn ** :  [ 5s ]
+Colwins checks.
+xxEarlgreyxx checks.
+** Dealing River ** :  [ As ]
+Colwins bets (200)
+xxEarlgreyxx folds.
+** Summary **
+Main Pot: 400
+Board: [ 8h 7c Ts 5s As  ]
+
+GaryNoether balance 1290, didn't bet (folded)
+Mikpt balance 2360, didn't bet (folded)
+hatoka balance 970, didn't bet (folded)
+bluefly707 balance 1080, didn't bet (folded)
+Jimmy_Cards balance 6220, didn't bet (folded)
+Colwins balance 5630, bet 400, collected 600, net +200
+xxEarlgreyxx balance 2450, lost 200 (folded)
+
+***** Hand History for Game 6068812602 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:23:59 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 8 is the button
+Total number of players : 7
+Seat 2: GaryNoether (1290)
+Seat 4: Mikpt (2360)
+Seat 5: hatoka (970)
+Seat 6: bluefly707 (1080)
+Seat 7: Jimmy_Cards (6220)
+Seat 8: Colwins (5630)
+Seat 10: xxEarlgreyxx (2450)
+xxEarlgreyxx  posts small blind (100)
+GaryNoether  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 9s, Kc ]
+Mikpt folds.
+hatoka raises (400) to 400
+bluefly707 folds.
+Jimmy_Cards folds.
+Colwins folds.
+xxEarlgreyxx folds.
+GaryNoether folds.
+** Summary **
+Main Pot: 500
+
+GaryNoether balance 1090, lost 200 (folded)
+Mikpt balance 2360, didn't bet (folded)
+hatoka balance 1270, bet 400, collected 700, net +300
+bluefly707 balance 1080, didn't bet (folded)
+Jimmy_Cards balance 6220, didn't bet (folded)
+Colwins balance 5630, didn't bet (folded)
+xxEarlgreyxx balance 2350, lost 100 (folded)
+
+***** Hand History for Game 6068813247 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:24:14 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 10 is the button
+Total number of players : 7
+Seat 2: GaryNoether (1090)
+Seat 4: Mikpt (2360)
+Seat 5: hatoka (1270)
+Seat 6: bluefly707 (1080)
+Seat 7: Jimmy_Cards (6220)
+Seat 8: Colwins (5630)
+Seat 10: xxEarlgreyxx (2350)
+GaryNoether  posts small blind (100)
+Mikpt  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Jd, 4c ]
+hatoka folds.
+bluefly707 folds.
+Jimmy_Cards folds.
+Colwins folds.
+xxEarlgreyxx folds.
+GaryNoether raises (990) to 1090
+GaryNoether is all-In.
+Mikpt folds.
+Creating Main Pot with $400 with GaryNoether
+** Summary **
+Main Pot: 400
+
+GaryNoether balance 1290, bet 1090, collected 1290, net +200
+Mikpt balance 2160, lost 200 (folded)
+hatoka balance 1270, didn't bet (folded)
+bluefly707 balance 1080, didn't bet (folded)
+Jimmy_Cards balance 6220, didn't bet (folded)
+Colwins balance 5630, didn't bet (folded)
+xxEarlgreyxx balance 2350, didn't bet (folded)
+
+***** Hand History for Game 6068813858 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:24:29 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 2 is the button
+Total number of players : 7
+Seat 2: GaryNoether (1290)
+Seat 4: Mikpt (2160)
+Seat 5: hatoka (1270)
+Seat 6: bluefly707 (1080)
+Seat 7: Jimmy_Cards (6220)
+Seat 8: Colwins (5630)
+Seat 10: xxEarlgreyxx (2350)
+Mikpt  posts small blind (200)
+hatoka  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 7c, Jh ]
+bluefly707 folds.
+Jimmy_Cards folds.
+Colwins calls (400)
+xxEarlgreyxx folds.
+GaryNoether folds.
+Mikpt calls (200)
+hatoka checks.
+** Dealing Flop ** :  [ 9s, Ts, 4d ]
+Mikpt checks.
+hatoka checks.
+Colwins checks.
+** Dealing Turn ** :  [ Js ]
+Mikpt checks.
+hatoka bets (400)
+Colwins raises (800) to 800
+Mikpt folds.
+hatoka raises (470) to 870
+hatoka is all-In.
+Colwins calls (70)
+** Dealing River ** :  [ 2s ]
+Creating Main Pot with $2940 with hatoka
+** Summary **
+Main Pot: 2940
+Board: [ 9s Ts 4d Js 2s  ]
+
+GaryNoether balance 1290, didn't bet (folded)
+Mikpt balance 1760, lost 400 (folded)
+hatoka balance 0, lost 1270 [ 7c Jh ] [ a pair of Jacks -- Jh,Js,Ts,9s,7c ]
+bluefly707 balance 1080, didn't bet (folded)
+Jimmy_Cards balance 6220, didn't bet (folded)
+Colwins balance 7300, bet 1270, collected 2940, net +1670 [ Ad Jc ] [ a pair of Jacks with Ace kicker -- Ad,Jc,Js,Ts,9sAd(kicker card) ]
+xxEarlgreyxx balance 2350, didn't bet (folded)
+
+***** Hand History for Game 6068815427 *****
+hatoka finished in 7 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:25:07 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 4 is the button
+Total number of players : 6
+Seat 2: GaryNoether (1290)
+Seat 4: Mikpt (1760)
+Seat 6: bluefly707 (1080)
+Seat 7: Jimmy_Cards (6220)
+Seat 8: Colwins (7300)
+Seat 10: xxEarlgreyxx (2350)
+bluefly707  posts big blind (400)
+** Dealing down cards **
+Jimmy_Cards raises (1600) to 1600
+Colwins folds.
+xxEarlgreyxx folds.
+GaryNoether folds.
+Mikpt folds.
+bluefly707 folds.
+** Summary **
+Main Pot: 800
+
+GaryNoether balance 1290, didn't bet (folded)
+Mikpt balance 1760, didn't bet (folded)
+bluefly707 balance 680, lost 400 (folded)
+Jimmy_Cards balance 6620, bet 1600, collected 2000, net +400
+Colwins balance 7300, didn't bet (folded)
+xxEarlgreyxx balance 2350, didn't bet (folded)
+
+***** Hand History for Game 6068815851 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:25:17 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 4 is the button
+Total number of players : 6
+Seat 2: GaryNoether (1290)
+Seat 4: Mikpt (1760)
+Seat 6: bluefly707 (680)
+Seat 7: Jimmy_Cards (6620)
+Seat 8: Colwins (7300)
+Seat 10: xxEarlgreyxx (2350)
+bluefly707  posts small blind (200)
+Jimmy_Cards  posts big blind (400)
+** Dealing down cards **
+Colwins folds.
+xxEarlgreyxx folds.
+GaryNoether folds.
+Mikpt folds.
+bluefly707 folds.
+** Summary **
+Main Pot: 400
+
+GaryNoether balance 1290, didn't bet (folded)
+Mikpt balance 1760, didn't bet (folded)
+bluefly707 balance 480, lost 200 (folded)
+Jimmy_Cards balance 6820, bet 400, collected 600, net +200
+Colwins balance 7300, didn't bet (folded)
+xxEarlgreyxx balance 2350, didn't bet (folded)
+
+***** Hand History for Game 6068816372 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:25:30 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 6 is the button
+Total number of players : 6
+Seat 2: GaryNoether (1290)
+Seat 4: Mikpt (1760)
+Seat 6: bluefly707 (480)
+Seat 7: Jimmy_Cards (6820)
+Seat 8: Colwins (7300)
+Seat 10: xxEarlgreyxx (2350)
+Jimmy_Cards  posts small blind (200)
+Colwins  posts big blind (400)
+** Dealing down cards **
+xxEarlgreyxx folds.
+GaryNoether raises (1290) to 1290
+GaryNoether is all-In.
+Mikpt folds.
+bluefly707 folds.
+Jimmy_Cards folds.
+Colwins folds.
+Creating Main Pot with $1000 with GaryNoether
+** Summary **
+Main Pot: 1000
+
+GaryNoether balance 1890, bet 1290, collected 1890, net +600
+Mikpt balance 1760, didn't bet (folded)
+bluefly707 balance 480, didn't bet (folded)
+Jimmy_Cards balance 6620, lost 200 (folded)
+Colwins balance 6900, lost 400 (folded)
+xxEarlgreyxx balance 2350, didn't bet (folded)
+
+***** Hand History for Game 6068816794 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:25:41 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 7 is the button
+Total number of players : 6
+Seat 2: GaryNoether (1890)
+Seat 4: Mikpt (1760)
+Seat 6: bluefly707 (480)
+Seat 7: Jimmy_Cards (6620)
+Seat 8: Colwins (6900)
+Seat 10: xxEarlgreyxx (2350)
+Colwins  posts small blind (200)
+xxEarlgreyxx  posts big blind (400)
+** Dealing down cards **
+GaryNoether folds.
+Mikpt folds.
+bluefly707 folds.
+Jimmy_Cards folds.
+Colwins folds.
+** Summary **
+Main Pot: 400
+
+GaryNoether balance 1890, didn't bet (folded)
+Mikpt balance 1760, didn't bet (folded)
+bluefly707 balance 480, didn't bet (folded)
+Jimmy_Cards balance 6620, didn't bet (folded)
+Colwins balance 6700, lost 200 (folded)
+xxEarlgreyxx balance 2550, bet 400, collected 600, net +200
+
+***** Hand History for Game 6068817245 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:25:51 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 8 is the button
+Total number of players : 6
+Seat 2: GaryNoether (1890)
+Seat 4: Mikpt (1760)
+Seat 6: bluefly707 (480)
+Seat 7: Jimmy_Cards (6620)
+Seat 8: Colwins (6700)
+Seat 10: xxEarlgreyxx (2550)
+xxEarlgreyxx  posts small blind (200)
+GaryNoether  posts big blind (400)
+** Dealing down cards **
+Mikpt folds.
+bluefly707 folds.
+Jimmy_Cards folds.
+Colwins folds.
+xxEarlgreyxx folds.
+** Summary **
+Main Pot: 400
+
+GaryNoether balance 2090, bet 400, collected 600, net +200
+Mikpt balance 1760, didn't bet (folded)
+bluefly707 balance 480, didn't bet (folded)
+Jimmy_Cards balance 6620, didn't bet (folded)
+Colwins balance 6700, didn't bet (folded)
+xxEarlgreyxx balance 2350, lost 200 (folded)
+
+***** Hand History for Game 6068817749 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:26:04 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 10 is the button
+Total number of players : 6
+Seat 2: GaryNoether (2090)
+Seat 4: Mikpt (1760)
+Seat 6: bluefly707 (480)
+Seat 7: Jimmy_Cards (6620)
+Seat 8: Colwins (6700)
+Seat 10: xxEarlgreyxx (2350)
+GaryNoether  posts small blind (200)
+Mikpt  posts big blind (400)
+** Dealing down cards **
+bluefly707 folds.
+Jimmy_Cards folds.
+Colwins folds.
+xxEarlgreyxx folds.
+GaryNoether raises (1890) to 2090
+GaryNoether is all-In.
+Mikpt folds.
+Creating Main Pot with $800 with GaryNoether
+** Summary **
+Main Pot: 800
+
+GaryNoether balance 2490, bet 2090, collected 2490, net +400
+Mikpt balance 1360, lost 400 (folded)
+bluefly707 balance 480, didn't bet (folded)
+Jimmy_Cards balance 6620, didn't bet (folded)
+Colwins balance 6700, didn't bet (folded)
+xxEarlgreyxx balance 2350, didn't bet (folded)
+
+***** Hand History for Game 6068818265 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:26:16 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 2 is the button
+Total number of players : 6
+Seat 2: GaryNoether (2490)
+Seat 4: Mikpt (1360)
+Seat 6: bluefly707 (480)
+Seat 7: Jimmy_Cards (6620)
+Seat 8: Colwins (6700)
+Seat 10: xxEarlgreyxx (2350)
+Mikpt  posts small blind (200)
+bluefly707  posts big blind (400)
+** Dealing down cards **
+Jimmy_Cards raises (1200) to 1200
+Colwins folds.
+xxEarlgreyxx folds.
+GaryNoether folds.
+Mikpt calls (1000)
+bluefly707 folds.
+** Dealing Flop ** :  [ Kh, 6d, 6c ]
+Mikpt bets (160)
+Mikpt is all-In.
+Jimmy_Cards calls (160)
+** Dealing Turn ** :  [ 8h ]
+** Dealing River ** :  [ Ks ]
+Creating Main Pot with $3120 with Mikpt
+** Summary **
+Main Pot: 3120
+Board: [ Kh 6d 6c 8h Ks  ]
+
+GaryNoether balance 2490, didn't bet (folded)
+Mikpt balance 0, lost 1360 [ Qh Ac ] [ two pairs, Kings and Sixes -- Ac,Kh,Ks,6d,6c ]
+bluefly707 balance 80, lost 400 (folded)
+Jimmy_Cards balance 8380, bet 1360, collected 3120, net +1760 [ 9c 9d ] [ two pairs, Kings and Nines -- Kh,Ks,9c,9d,8h ]
+Colwins balance 6700, didn't bet (folded)
+xxEarlgreyxx balance 2350, didn't bet (folded)
+
+***** Hand History for Game 6068819355 *****
+Mikpt finished in 6 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:26:42 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 2 is the button
+Total number of players : 5
+Seat 2: GaryNoether (2490)
+Seat 6: bluefly707 (80)
+Seat 7: Jimmy_Cards (8380)
+Seat 8: Colwins (6700)
+Seat 10: xxEarlgreyxx (2350)
+bluefly707  posts small blind (80)
+Jimmy_Cards  posts big blind (400)
+** Dealing down cards **
+Colwins folds.
+xxEarlgreyxx calls (400)
+GaryNoether folds.
+bluefly707 is all-In.
+Jimmy_Cards checks.
+Creating Main Pot with $240 with bluefly707
+** Dealing Flop ** :  [ 6s, 2c, Ts ]
+Jimmy_Cards bets (400)
+xxEarlgreyxx folds.
+** Dealing Turn ** :  [ 8h ]
+** Dealing River ** :  [ Kc ]
+** Summary **
+Main Pot: 240 | Side Pot 1: 640
+Board: [ 6s 2c Ts 8h Kc  ]
+
+GaryNoether balance 2490, didn't bet (folded)
+bluefly707 balance 0, lost 80 [ 3d 3h ] [ a pair of Threes -- Kc,Ts,8h,3d,3h ]
+Jimmy_Cards balance 8860, bet 800, collected 1280, net +480 [ 6d Ad ] [ a pair of Sixes -- Ad,Kc,Ts,6d,6s ]
+Colwins balance 6700, didn't bet (folded)
+xxEarlgreyxx balance 1950, lost 400 (folded)
+
+***** Hand History for Game 6068821026 *****
+bluefly707 finished in 5 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:27:22 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 2 is the button
+Total number of players : 4
+Seat 2: GaryNoether (2490)
+Seat 7: Jimmy_Cards (8860)
+Seat 8: Colwins (6700)
+Seat 10: xxEarlgreyxx (1950)
+Jimmy_Cards  posts small blind (200)
+Colwins  posts big blind (400)
+** Dealing down cards **
+xxEarlgreyxx raises (800) to 800
+GaryNoether folds.
+Jimmy_Cards folds.
+Colwins calls (400)
+** Dealing Flop ** :  [ Td, 3d, 3s ]
+Colwins bets (5900)
+Colwins is all-In.
+xxEarlgreyxx calls (1150)
+xxEarlgreyxx is all-In.
+** Dealing Turn ** :  [ Qs ]
+** Dealing River ** :  [ Ad ]
+Creating Main Pot with $4100 with xxEarlgreyxx
+** Summary **
+Main Pot: 4100
+Board: [ Td 3d 3s Qs Ad  ]
+
+GaryNoether balance 2490, didn't bet (folded)
+Jimmy_Cards balance 8660, lost 200 (folded)
+Colwins balance 4750, bet 6700, collected 4750, lost -1950 [ 8h 7c ] [ a pair of Threes -- Ad,Qs,Td,3d,3s ]
+xxEarlgreyxx balance 4100, bet 1950, collected 4100, net +2150 [ Jd Jh ] [ two pairs, Jacks and Threes -- Ad,Jd,Jh,3d,3s ]
+
+***** Hand History for Game 6068822228 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:27:52 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 7 is the button
+Total number of players : 4
+Seat 2: GaryNoether (2490)
+Seat 7: Jimmy_Cards (8660)
+Seat 8: Colwins (4750)
+Seat 10: xxEarlgreyxx (4100)
+Colwins  posts small blind (200)
+xxEarlgreyxx  posts big blind (400)
+** Dealing down cards **
+GaryNoether folds.
+Jimmy_Cards calls (400)
+Colwins calls (200)
+xxEarlgreyxx checks.
+** Dealing Flop ** :  [ Kc, 6c, 6s ]
+Colwins checks.
+xxEarlgreyxx checks.
+Jimmy_Cards bets (1200)
+Colwins folds.
+xxEarlgreyxx folds.
+** Summary **
+Main Pot: 1200
+Board: [ Kc 6c 6s  ]
+
+GaryNoether balance 2490, didn't bet (folded)
+Jimmy_Cards balance 9460, bet 1600, collected 2400, net +800
+Colwins balance 4350, lost 400 (folded)
+xxEarlgreyxx balance 3700, lost 400 (folded)
+
+***** Hand History for Game 6068823076 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:28:12 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 8 is the button
+Total number of players : 4
+Seat 2: GaryNoether (2490)
+Seat 7: Jimmy_Cards (9460)
+Seat 8: Colwins (4350)
+Seat 10: xxEarlgreyxx (3700)
+xxEarlgreyxx  posts small blind (200)
+GaryNoether  posts big blind (400)
+** Dealing down cards **
+Jimmy_Cards folds.
+Colwins calls (400)
+xxEarlgreyxx folds.
+GaryNoether raises (2090) to 2490
+GaryNoether is all-In.
+Colwins calls (2090)
+** Dealing Flop ** :  [ 7s, 8h, Ac ]
+** Dealing Turn ** :  [ 6d ]
+** Dealing River ** :  [ 4s ]
+Creating Main Pot with $5180 with GaryNoether
+** Summary **
+Main Pot: 5180
+Board: [ 7s 8h Ac 6d 4s  ]
+
+GaryNoether balance 0, lost 2490 [ Tc Td ] [ a pair of Tens -- Ac,Tc,Td,8h,7s ]
+Jimmy_Cards balance 9460, didn't bet (folded)
+Colwins balance 7040, bet 2490, collected 5180, net +2690 [ As Ad ] [ three of a kind, Aces -- As,Ad,Ac,8h,7s ]
+xxEarlgreyxx balance 3500, lost 200 (folded)
+
+***** Hand History for Game 6068823885 *****
+GaryNoether finished in 4 place.
+Jimmy_Cards: GG's
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:28:32 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 10 is the button
+Total number of players : 3
+Seat 7: Jimmy_Cards (9460)
+Seat 8: Colwins (7040)
+Seat 10: xxEarlgreyxx (3500)
+Jimmy_Cards  posts big blind (400)
+** Dealing down cards **
+Colwins raises (1200) to 1200
+xxEarlgreyxx folds.
+Jimmy_Cards calls (800)
+** Dealing Flop ** :  [ 4h, 2d, 5s ]
+xxEarlgreyxx: YO
+Jimmy_Cards checks.
+Colwins checks.
+** Dealing Turn ** :  [ 3c ]
+Jimmy_Cards checks.
+Colwins checks.
+** Dealing River ** :  [ 4d ]
+Jimmy_Cards checks.
+Colwins bets (2400)
+Jimmy_Cards folds.
+** Summary **
+Main Pot: 2400
+Board: [ 4h 2d 5s 3c 4d  ]
+
+Jimmy_Cards balance 8260, lost 1200 (folded)
+Colwins balance 8240, bet 3600, collected 4800, net +1200
+xxEarlgreyxx balance 3500, didn't bet (folded)
+
+***** Hand History for Game 6068824792 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:28:54 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 10 is the button
+Total number of players : 3
+Seat 7: Jimmy_Cards (8260)
+Seat 8: Colwins (8240)
+Seat 10: xxEarlgreyxx (3500)
+Jimmy_Cards  posts small blind (200)
+Colwins  posts big blind (400)
+** Dealing down cards **
+xxEarlgreyxx calls (400)
+Jimmy_Cards calls (200)
+Colwins raises (400) to 800
+xxEarlgreyxx calls (400)
+Jimmy_Cards calls (400)
+** Dealing Flop ** :  [ 3c, 9d, 2s ]
+Jimmy_Cards checks.
+Colwins bets (2400)
+xxEarlgreyxx folds.
+Jimmy_Cards calls (2400)
+** Dealing Turn ** :  [ Jc ]
+Jimmy_Cards checks.
+Colwins bets (5040)
+Colwins is all-In.
+Jimmy_Cards folds.
+Creating Main Pot with $7200 with Colwins
+** Summary **
+Main Pot: 7200
+Board: [ 3c 9d 2s Jc  ]
+
+Jimmy_Cards balance 5060, lost 3200 (folded)
+Colwins balance 12240, bet 8240, collected 12240, net +4000
+xxEarlgreyxx balance 2700, lost 800 (folded)
+
+***** Hand History for Game 6068826365 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:29:33 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 7 is the button
+Total number of players : 3
+Seat 7: Jimmy_Cards (5060)
+Seat 8: Colwins (12240)
+Seat 10: xxEarlgreyxx (2700)
+Colwins  posts small blind (300)
+xxEarlgreyxx  posts big blind (600)
+** Dealing down cards **
+Jimmy_Cards raises (1800) to 1800
+Colwins folds.
+xxEarlgreyxx folds.
+** Summary **
+Main Pot: 1500
+
+Jimmy_Cards balance 5960, bet 1800, collected 2700, net +900
+Colwins balance 11940, lost 300 (folded)
+xxEarlgreyxx balance 2100, lost 600 (folded)
+
+***** Hand History for Game 6068826758 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:29:43 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 8 is the button
+Total number of players : 3
+Seat 7: Jimmy_Cards (5960)
+Seat 8: Colwins (11940)
+Seat 10: xxEarlgreyxx (2100)
+xxEarlgreyxx  posts small blind (300)
+Jimmy_Cards  posts big blind (600)
+** Dealing down cards **
+Colwins raises (1200) to 1200
+xxEarlgreyxx folds.
+Jimmy_Cards folds.
+** Summary **
+Main Pot: 1500
+
+Jimmy_Cards balance 5360, lost 600 (folded)
+Colwins balance 12840, bet 1200, collected 2100, net +900
+xxEarlgreyxx balance 1800, lost 300 (folded)
+
+***** Hand History for Game 6068827118 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:29:52 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 10 is the button
+Total number of players : 3
+Seat 7: Jimmy_Cards (5360)
+Seat 8: Colwins (12840)
+Seat 10: xxEarlgreyxx (1800)
+Jimmy_Cards  posts small blind (300)
+Colwins  posts big blind (600)
+** Dealing down cards **
+xxEarlgreyxx folds.
+Jimmy_Cards calls (300)
+Colwins checks.
+** Dealing Flop ** :  [ 2s, 2c, Ah ]
+Jimmy_Cards checks.
+Colwins bets (1200)
+Jimmy_Cards folds.
+** Summary **
+Main Pot: 1200
+Board: [ 2s 2c Ah  ]
+
+Jimmy_Cards balance 4760, lost 600 (folded)
+Colwins balance 13440, bet 1800, collected 2400, net +600
+xxEarlgreyxx balance 1800, didn't bet (folded)
+
+***** Hand History for Game 6068827709 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:30:06 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 7 is the button
+Total number of players : 3
+Seat 7: Jimmy_Cards (4760)
+Seat 8: Colwins (13440)
+Seat 10: xxEarlgreyxx (1800)
+Colwins  posts small blind (300)
+xxEarlgreyxx  posts big blind (600)
+** Dealing down cards **
+Jimmy_Cards folds.
+Colwins folds.
+** Summary **
+Main Pot: 600
+
+Jimmy_Cards balance 4760, didn't bet (folded)
+Colwins balance 13140, lost 300 (folded)
+xxEarlgreyxx balance 2100, bet 600, collected 900, net +300
+
+***** Hand History for Game 6068828071 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:30:15 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 8 is the button
+Total number of players : 3
+Seat 7: Jimmy_Cards (4760)
+Seat 8: Colwins (13140)
+Seat 10: xxEarlgreyxx (2100)
+xxEarlgreyxx  posts small blind (300)
+Jimmy_Cards  posts big blind (600)
+** Dealing down cards **
+Colwins folds.
+xxEarlgreyxx calls (300)
+Jimmy_Cards checks.
+** Dealing Flop ** :  [ 6d, Kh, 8c ]
+xxEarlgreyxx checks.
+Jimmy_Cards checks.
+** Dealing Turn ** :  [ Th ]
+xxEarlgreyxx checks.
+Jimmy_Cards checks.
+** Dealing River ** :  [ 4c ]
+xxEarlgreyxx checks.
+Jimmy_Cards checks.
+** Summary **
+Main Pot: 1200
+Board: [ 6d Kh 8c Th 4c  ]
+
+Jimmy_Cards balance 5360, bet 600, collected 1200, net +600 [ 2h Td ] [ a pair of Tens -- Kh,Td,Th,8c,6d ]
+Colwins balance 13140, didn't bet (folded)
+xxEarlgreyxx balance 1500, lost 600 [ Jc Qd ] [ high card King -- Kh,Qd,Jc,Th,8c ]
+
+***** Hand History for Game 6068829034 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:30:36 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 10 is the button
+Total number of players : 3
+Seat 7: Jimmy_Cards (5360)
+Seat 8: Colwins (13140)
+Seat 10: xxEarlgreyxx (1500)
+Jimmy_Cards  posts small blind (300)
+Colwins  posts big blind (600)
+** Dealing down cards **
+xxEarlgreyxx raises (1500) to 1500
+xxEarlgreyxx is all-In.
+Jimmy_Cards raises (2100) to 2400
+Colwins folds.
+** Dealing Flop ** :  [ Qh, 9h, 4c ]
+** Dealing Turn ** :  [ 3s ]
+** Dealing River ** :  [ Th ]
+Creating Main Pot with $3600 with xxEarlgreyxx
+** Summary **
+Main Pot: 3600
+Board: [ Qh 9h 4c 3s Th  ]
+
+Jimmy_Cards balance 7460, bet 2400, collected 4500, net +2100 [ 9d 9s ] [ three of a kind, Nines -- Qh,Th,9d,9s,9h ]
+Colwins balance 12540, lost 600 (folded)
+xxEarlgreyxx balance 0, lost 1500 [ 2h Ad ] [ high card Ace -- Ad,Qh,Th,9h,4c ]
+
+***** Hand History for Game 6068829711 *****
+xxEarlgreyxx finished in 3 place and won $10.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:30:53 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 8 is the button
+Total number of players : 2
+Seat 7: Jimmy_Cards (7460)
+Seat 8: Colwins (12540)
+Colwins  posts small blind (300)
+Jimmy_Cards  posts big blind (600)
+** Dealing down cards **
+Colwins calls (300)
+Jimmy_Cards checks.
+** Dealing Flop ** :  [ 2s, 3h, 5c ]
+Jimmy_Cards checks.
+Colwins checks.
+** Dealing Turn ** :  [ 4s ]
+Jimmy_Cards bets (1200)
+Colwins folds.
+** Summary **
+Main Pot: 1200
+Board: [ 2s 3h 5c 4s  ]
+
+Jimmy_Cards balance 8060, bet 1800, collected 2400, net +600
+Colwins balance 11940, lost 600 (folded)
+
+***** Hand History for Game 6068830762 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:31:19 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 7 is the button
+Total number of players : 2
+Seat 7: Jimmy_Cards (8060)
+Seat 8: Colwins (11940)
+Jimmy_Cards  posts small blind (300)
+Colwins  posts big blind (600)
+** Dealing down cards **
+Jimmy_Cards raises (1500) to 1800
+Colwins calls (1200)
+** Dealing Flop ** :  [ Td, 8d, 8c ]
+Colwins bets (600)
+Jimmy_Cards raises (2400) to 2400
+Colwins folds.
+** Summary **
+Main Pot: 4800
+Board: [ Td 8d 8c  ]
+
+Jimmy_Cards balance 10460, bet 4200, collected 6600, net +2400
+Colwins balance 9540, lost 2400 (folded)
+
+***** Hand History for Game 6068832323 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:31:56 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 8 is the button
+Total number of players : 2
+Seat 7: Jimmy_Cards (10460)
+Seat 8: Colwins (9540)
+Colwins  posts small blind (300)
+Jimmy_Cards  posts big blind (600)
+** Dealing down cards **
+Colwins raises (900) to 1200
+Jimmy_Cards folds.
+** Summary **
+Main Pot: 1200
+
+Jimmy_Cards balance 9860, lost 600 (folded)
+Colwins balance 10140, bet 1200, collected 1800, net +600
+
+***** Hand History for Game 6068832598 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:32:04 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 7 is the button
+Total number of players : 2
+Seat 7: Jimmy_Cards (9860)
+Seat 8: Colwins (10140)
+Jimmy_Cards  posts small blind (300)
+Colwins  posts big blind (600)
+** Dealing down cards **
+Jimmy_Cards folds.
+** Summary **
+Main Pot: 600
+
+Jimmy_Cards balance 9560, lost 300 (folded)
+Colwins balance 10440, bet 600, collected 900, net +300
+
+***** Hand History for Game 6068832856 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:32:10 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 8 is the button
+Total number of players : 2
+Seat 7: Jimmy_Cards (9560)
+Seat 8: Colwins (10440)
+Colwins  posts small blind (300)
+Jimmy_Cards  posts big blind (600)
+** Dealing down cards **
+Colwins folds.
+** Summary **
+Main Pot: 600
+
+Jimmy_Cards balance 9860, bet 600, collected 900, net +300
+Colwins balance 10140, lost 300 (folded)
+
+***** Hand History for Game 6068833283 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:32:20 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 7 is the button
+Total number of players : 2
+Seat 7: Jimmy_Cards (9860)
+Seat 8: Colwins (10140)
+Jimmy_Cards  posts small blind (300)
+Colwins  posts big blind (600)
+** Dealing down cards **
+Jimmy_Cards folds.
+** Summary **
+Main Pot: 600
+
+Jimmy_Cards balance 9560, lost 300 (folded)
+Colwins balance 10440, bet 600, collected 900, net +300
+
+***** Hand History for Game 6068833550 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:32:26 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 8 is the button
+Total number of players : 2
+Seat 7: Jimmy_Cards (9560)
+Seat 8: Colwins (10440)
+Colwins  posts small blind (300)
+Jimmy_Cards  posts big blind (600)
+** Dealing down cards **
+Colwins calls (300)
+Jimmy_Cards checks.
+** Dealing Flop ** :  [ Jh, 7d, 7c ]
+Jimmy_Cards checks.
+Colwins checks.
+** Dealing Turn ** :  [ 4h ]
+Jimmy_Cards checks.
+Colwins checks.
+** Dealing River ** :  [ Qs ]
+Jimmy_Cards checks.
+Colwins checks.
+** Summary **
+Main Pot: 1200
+Board: [ Jh 7d 7c 4h Qs  ]
+
+Jimmy_Cards balance 9560, bet 600, collected 600, net +0 [ 5h Kd ] [ a pair of Sevens -- Kd,Qs,Jh,7d,7c ]
+Colwins balance 10440, bet 600, collected 600, net +0 [ 9h Kc ] [ a pair of Sevens -- Kc,Qs,Jh,7d,7c ]
+
+***** Hand History for Game 6068834092 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:32:40 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 7 is the button
+Total number of players : 2
+Seat 7: Jimmy_Cards (9560)
+Seat 8: Colwins (10440)
+Jimmy_Cards  posts small blind (300)
+Colwins  posts big blind (600)
+** Dealing down cards **
+Jimmy_Cards raises (1500) to 1800
+Colwins calls (1200)
+** Dealing Flop ** :  [ 8s, 5d, 3c ]
+Colwins bets (600)
+Jimmy_Cards calls (600)
+** Dealing Turn ** :  [ Th ]
+Colwins checks.
+Jimmy_Cards checks.
+** Dealing River ** :  [ 4c ]
+Colwins checks.
+Jimmy_Cards checks.
+** Summary **
+Main Pot: 4800
+Board: [ 8s 5d 3c Th 4c  ]
+
+
+Jimmy_Cards balance 7160, lost 2400 [Didn't Show]
+Colwins balance 12840, bet 2400, collected 4800, net +2400 [ 9h Ad ] [ high card Ace -- Ad,Th,9h,8s,5d ]
+
+***** Hand History for Game 6068835272 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:33:08 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 8 is the button
+Total number of players : 2
+Seat 7: Jimmy_Cards (7160)
+Seat 8: Colwins (12840)
+Colwins  posts small blind (300)
+Jimmy_Cards  posts big blind (600)
+** Dealing down cards **
+Colwins calls (300)
+Jimmy_Cards checks.
+** Dealing Flop ** :  [ 4d, Ks, Ac ]
+Jimmy_Cards bets (600)
+Colwins folds.
+** Summary **
+Main Pot: 1200
+Board: [ 4d Ks Ac  ]
+
+Jimmy_Cards balance 7760, bet 1200, collected 1800, net +600
+Colwins balance 12240, lost 600 (folded)
+
+***** Hand History for Game 6068835728 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:33:19 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 7 is the button
+Total number of players : 2
+Seat 7: Jimmy_Cards (7760)
+Seat 8: Colwins (12240)
+Jimmy_Cards  posts small blind (300)
+Colwins  posts big blind (600)
+** Dealing down cards **
+Jimmy_Cards raises (1500) to 1800
+Colwins calls (1200)
+** Dealing Flop ** :  [ 4d, Qs, 5h ]
+Colwins checks.
+Jimmy_Cards bets (1800)
+Colwins folds.
+** Summary **
+Main Pot: 3600
+Board: [ 4d Qs 5h  ]
+
+Jimmy_Cards balance 9560, bet 3600, collected 5400, net +1800
+Colwins balance 10440, lost 1800 (folded)
+
+***** Hand History for Game 6068836309 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:33:33 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 8 is the button
+Total number of players : 2
+Seat 7: Jimmy_Cards (9560)
+Seat 8: Colwins (10440)
+Colwins  posts small blind (300)
+Jimmy_Cards  posts big blind (600)
+** Dealing down cards **
+Colwins folds.
+** Summary **
+Main Pot: 600
+
+Jimmy_Cards balance 9860, bet 600, collected 900, net +300
+Colwins balance 10140, lost 300 (folded)
+
+***** Hand History for Game 6068836574 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:33:39 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 7 is the button
+Total number of players : 2
+Seat 7: Jimmy_Cards (9860)
+Seat 8: Colwins (10140)
+Jimmy_Cards  posts small blind (300)
+Colwins  posts big blind (600)
+** Dealing down cards **
+Jimmy_Cards raises (2100) to 2400
+Colwins folds.
+** Summary **
+Main Pot: 1200
+
+Jimmy_Cards balance 10460, bet 2400, collected 3000, net +600
+Colwins balance 9540, lost 600 (folded)
+
+***** Hand History for Game 6068836905 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:33:47 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 8 is the button
+Total number of players : 2
+Seat 7: Jimmy_Cards (10460)
+Seat 8: Colwins (9540)
+Colwins  posts small blind (300)
+Jimmy_Cards  posts big blind (600)
+** Dealing down cards **
+Colwins folds.
+** Summary **
+Main Pot: 600
+
+Jimmy_Cards balance 10760, bet 600, collected 900, net +300
+Colwins balance 9240, lost 300 (folded)
+
+***** Hand History for Game 6068837175 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:33:54 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 7 is the button
+Total number of players : 2
+Seat 7: Jimmy_Cards (10760)
+Seat 8: Colwins (9240)
+Jimmy_Cards  posts small blind (300)
+Colwins  posts big blind (600)
+** Dealing down cards **
+Jimmy_Cards folds.
+** Summary **
+Main Pot: 600
+
+Jimmy_Cards balance 10460, lost 300 (folded)
+Colwins balance 9540, bet 600, collected 900, net +300
+
+***** Hand History for Game 6068837437 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:34:00 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 8 is the button
+Total number of players : 2
+Seat 7: Jimmy_Cards (10460)
+Seat 8: Colwins (9540)
+Colwins  posts small blind (300)
+Jimmy_Cards  posts big blind (600)
+** Dealing down cards **
+Colwins folds.
+** Summary **
+Main Pot: 600
+
+Jimmy_Cards balance 10760, bet 600, collected 900, net +300
+Colwins balance 9240, lost 300 (folded)
+
+***** Hand History for Game 6068838095 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:34:16 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 7 is the button
+Total number of players : 2
+Seat 7: Jimmy_Cards (10760)
+Seat 8: Colwins (9240)
+Jimmy_Cards  posts small blind (300)
+Colwins  posts big blind (600)
+** Dealing down cards **
+Jimmy_Cards folds.
+** Summary **
+Main Pot: 600
+
+Jimmy_Cards balance 10460, lost 300 (folded)
+Colwins balance 9540, bet 600, collected 900, net +300
+
+***** Hand History for Game 6068838345 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:34:22 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 8 is the button
+Total number of players : 2
+Seat 7: Jimmy_Cards (10460)
+Seat 8: Colwins (9540)
+Colwins  posts small blind (300)
+Jimmy_Cards  posts big blind (600)
+** Dealing down cards **
+Colwins folds.
+** Summary **
+Main Pot: 600
+
+Jimmy_Cards balance 10760, bet 600, collected 900, net +300
+Colwins balance 9240, lost 300 (folded)
+
+***** Hand History for Game 6068838632 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:34:29 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 7 is the button
+Total number of players : 2
+Seat 7: Jimmy_Cards (10760)
+Seat 8: Colwins (9240)
+Jimmy_Cards  posts small blind (300)
+Colwins  posts big blind (600)
+** Dealing down cards **
+Jimmy_Cards calls (300)
+Colwins checks.
+** Dealing Flop ** :  [ 8c, Qc, 6d ]
+Colwins checks.
+Jimmy_Cards bets (600)
+Colwins folds.
+** Summary **
+Main Pot: 1200
+Board: [ 8c Qc 6d  ]
+
+Jimmy_Cards balance 11360, bet 1200, collected 1800, net +600
+Colwins balance 8640, lost 600 (folded)
+
+***** Hand History for Game 6068839179 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:34:42 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 8 is the button
+Total number of players : 2
+Seat 7: Jimmy_Cards (11360)
+Seat 8: Colwins (8640)
+Jimmy_Cards  posts ante (25)
+Colwins  posts ante (25)
+Colwins  posts small blind (400)
+Jimmy_Cards  posts big blind (800)
+** Dealing down cards **
+Colwins calls (400)
+Jimmy_Cards checks.
+** Dealing Flop ** :  [ 9c, Qc, 6c ]
+Jimmy_Cards checks.
+Colwins checks.
+** Dealing Turn ** :  [ 8c ]
+Jimmy_Cards checks.
+Colwins bets (1650)
+Jimmy_Cards folds.
+** Summary **
+Main Pot: 1650
+Board: [ 9c Qc 6c 8c  ]
+
+Jimmy_Cards balance 10535, lost 825 (folded)
+Colwins balance 9465, bet 2475, collected 3300, net +825
+
+***** Hand History for Game 6068839800 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:34:57 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 7 is the button
+Total number of players : 2
+Seat 7: Jimmy_Cards (10535)
+Seat 8: Colwins (9465)
+Jimmy_Cards  posts ante (25)
+Colwins  posts ante (25)
+Jimmy_Cards  posts small blind (400)
+Colwins  posts big blind (800)
+** Dealing down cards **
+Jimmy_Cards folds.
+** Summary **
+Main Pot: 850
+
+Jimmy_Cards balance 10110, lost 425 (folded)
+Colwins balance 9890, bet 825, collected 1250, net +425
+
+***** Hand History for Game 6068840114 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:35:04 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 8 is the button
+Total number of players : 2
+Seat 7: Jimmy_Cards (10110)
+Seat 8: Colwins (9890)
+Jimmy_Cards  posts ante (25)
+Colwins  posts ante (25)
+Colwins  posts small blind (400)
+Jimmy_Cards  posts big blind (800)
+** Dealing down cards **
+Colwins folds.
+** Summary **
+Main Pot: 850
+
+Jimmy_Cards balance 10535, bet 825, collected 1250, net +425
+Colwins balance 9465, lost 425 (folded)
+
+***** Hand History for Game 6068840464 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:35:12 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 7 is the button
+Total number of players : 2
+Seat 7: Jimmy_Cards (10535)
+Seat 8: Colwins (9465)
+Jimmy_Cards  posts ante (25)
+Colwins  posts ante (25)
+Jimmy_Cards  posts small blind (400)
+Colwins  posts big blind (800)
+** Dealing down cards **
+Jimmy_Cards raises (2000) to 2400
+Colwins calls (1600)
+** Dealing Flop ** :  [ 4h, 3h, 7h ]
+Colwins bets (800)
+Jimmy_Cards raises (3200) to 3200
+Colwins folds.
+** Summary **
+Main Pot: 6450
+Board: [ 4h 3h 7h  ]
+
+Jimmy_Cards balance 13760, bet 5625, collected 8850, net +3225
+Colwins balance 6240, lost 3225 (folded)
+
+***** Hand History for Game 6068841132 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:35:28 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 8 is the button
+Total number of players : 2
+Seat 7: Jimmy_Cards (13760)
+Seat 8: Colwins (6240)
+Jimmy_Cards  posts ante (25)
+Colwins  posts ante (25)
+Colwins  posts small blind (400)
+Jimmy_Cards  posts big blind (800)
+** Dealing down cards **
+Colwins raises (1200) to 1600
+Jimmy_Cards raises (12935) to 13735
+Jimmy_Cards is all-In.
+Colwins calls (4615)
+Colwins is all-In.
+** Dealing Flop ** :  [ Td, Kc, 5h ]
+** Dealing Turn ** :  [ 9h ]
+** Dealing River ** :  [ 7d ]
+Creating Main Pot with $12480 with Colwins
+** Summary **
+Main Pot: 12480
+Board: [ Td Kc 5h 9h 7d  ]
+
+Jimmy_Cards balance 7520, bet 13760, collected 7520, lost -6240 [ Ad 7s ] [ a pair of Sevens -- Ad,Kc,Td,7s,7d ]
+Colwins balance 12480, bet 6240, collected 12480, net +6240 [ 8s 9s ] [ a pair of Nines -- Kc,Td,9s,9h,8s ]
+
+***** Hand History for Game 6068841773 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:35:44 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 7 is the button
+Total number of players : 2
+Seat 7: Jimmy_Cards (7520)
+Seat 8: Colwins (12480)
+Jimmy_Cards  posts ante (25)
+Colwins  posts ante (25)
+Jimmy_Cards  posts small blind (400)
+Colwins  posts big blind (800)
+** Dealing down cards **
+Jimmy_Cards calls (400)
+Colwins checks.
+** Dealing Flop ** :  [ Qd, 7s, Jd ]
+Colwins checks.
+Jimmy_Cards bets (1600)
+Colwins calls (1600)
+** Dealing Turn ** :  [ Ts ]
+Colwins checks.
+Jimmy_Cards bets (5095)
+Jimmy_Cards is all-In.
+Colwins calls (5095)
+** Dealing River ** :  [ Jh ]
+Creating Main Pot with $15040 with Jimmy_Cards
+** Summary **
+Main Pot: 15040
+Board: [ Qd 7s Jd Ts Jh  ]
+
+Jimmy_Cards balance 15040, bet 7520, collected 15040, net +7520 [ Qc Th ] [ two pairs, Queens and Jacks -- Qc,Qd,Jd,Jh,Th ]
+Colwins balance 4960, lost 7520 [ 7d Td ] [ two pairs, Jacks and Tens -- Qd,Jd,Jh,Td,Ts ]
+
+***** Hand History for Game 6068842682 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:36:05 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 8 is the button
+Total number of players : 2
+Seat 7: Jimmy_Cards (15040)
+Seat 8: Colwins (4960)
+Jimmy_Cards  posts ante (25)
+Colwins  posts ante (25)
+Colwins  posts small blind (400)
+Jimmy_Cards  posts big blind (800)
+** Dealing down cards **
+Colwins raises (1200) to 1600
+Jimmy_Cards calls (800)
+** Dealing Flop ** :  [ 9c, 3s, Ah ]
+Jimmy_Cards checks.
+Colwins checks.
+** Dealing Turn ** :  [ Kc ]
+Jimmy_Cards bets (3200)
+Colwins folds.
+** Summary **
+Main Pot: 3250
+Board: [ 9c 3s Ah Kc  ]
+
+Jimmy_Cards balance 16665, bet 4825, collected 6450, net +1625
+Colwins balance 3335, lost 1625 (folded)
+
+***** Hand History for Game 6068843296 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:36:19 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 7 is the button
+Total number of players : 2
+Seat 7: Jimmy_Cards (16665)
+Seat 8: Colwins (3335)
+Jimmy_Cards  posts ante (25)
+Colwins  posts ante (25)
+Jimmy_Cards  posts small blind (400)
+Colwins  posts big blind (800)
+** Dealing down cards **
+Jimmy_Cards folds.
+** Summary **
+Main Pot: 850
+
+Jimmy_Cards balance 16240, lost 425 (folded)
+Colwins balance 3760, bet 825, collected 1250, net +425
+
+***** Hand History for Game 6068843596 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:36:26 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 8 is the button
+Total number of players : 2
+Seat 7: Jimmy_Cards (16240)
+Seat 8: Colwins (3760)
+Jimmy_Cards  posts ante (25)
+Colwins  posts ante (25)
+Colwins  posts small blind (400)
+Jimmy_Cards  posts big blind (800)
+** Dealing down cards **
+Colwins folds.
+** Summary **
+Main Pot: 850
+
+Jimmy_Cards balance 16665, bet 825, collected 1250, net +425
+Colwins balance 3335, lost 425 (folded)
+
+***** Hand History for Game 6068843899 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:36:34 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 7 is the button
+Total number of players : 2
+Seat 7: Jimmy_Cards (16665)
+Seat 8: Colwins (3335)
+Jimmy_Cards  posts ante (25)
+Colwins  posts ante (25)
+Jimmy_Cards  posts small blind (400)
+Colwins  posts big blind (800)
+** Dealing down cards **
+Jimmy_Cards folds.
+** Summary **
+Main Pot: 850
+
+Jimmy_Cards balance 16240, lost 425 (folded)
+Colwins balance 3760, bet 825, collected 1250, net +425
+
+***** Hand History for Game 6068844217 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:36:41 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 8 is the button
+Total number of players : 2
+Seat 7: Jimmy_Cards (16240)
+Seat 8: Colwins (3760)
+Jimmy_Cards  posts ante (25)
+Colwins  posts ante (25)
+Colwins  posts small blind (400)
+Jimmy_Cards  posts big blind (800)
+** Dealing down cards **
+Colwins raises (3335) to 3735
+Colwins is all-In.
+Jimmy_Cards folds.
+Creating Main Pot with $1650 with Colwins
+** Summary **
+Main Pot: 1650
+
+Jimmy_Cards balance 15415, lost 825 (folded)
+Colwins balance 4585, bet 3760, collected 4585, net +825
+
+***** Hand History for Game 6068844695 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:36:53 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 7 is the button
+Total number of players : 2
+Seat 7: Jimmy_Cards (15415)
+Seat 8: Colwins (4585)
+Jimmy_Cards  posts ante (25)
+Colwins  posts ante (25)
+Jimmy_Cards  posts small blind (400)
+Colwins  posts big blind (800)
+** Dealing down cards **
+Jimmy_Cards folds.
+** Summary **
+Main Pot: 850
+
+Jimmy_Cards balance 14990, lost 425 (folded)
+Colwins balance 5010, bet 825, collected 1250, net +425
+
+***** Hand History for Game 6068845008 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:37:00 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 8 is the button
+Total number of players : 2
+Seat 7: Jimmy_Cards (14990)
+Seat 8: Colwins (5010)
+Jimmy_Cards  posts ante (25)
+Colwins  posts ante (25)
+Colwins  posts small blind (400)
+Jimmy_Cards  posts big blind (800)
+** Dealing down cards **
+Colwins folds.
+** Summary **
+Main Pot: 850
+
+Jimmy_Cards balance 15415, bet 825, collected 1250, net +425
+Colwins balance 4585, lost 425 (folded)
+
+***** Hand History for Game 6068845315 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:37:08 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 7 is the button
+Total number of players : 2
+Seat 7: Jimmy_Cards (15415)
+Seat 8: Colwins (4585)
+Jimmy_Cards  posts ante (25)
+Colwins  posts ante (25)
+Jimmy_Cards  posts small blind (400)
+Colwins  posts big blind (800)
+** Dealing down cards **
+Jimmy_Cards folds.
+** Summary **
+Main Pot: 850
+
+Jimmy_Cards balance 14990, lost 425 (folded)
+Colwins balance 5010, bet 825, collected 1250, net +425
+
+***** Hand History for Game 6068845638 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:37:15 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 8 is the button
+Total number of players : 2
+Seat 7: Jimmy_Cards (14990)
+Seat 8: Colwins (5010)
+Jimmy_Cards  posts ante (25)
+Colwins  posts ante (25)
+Colwins  posts small blind (400)
+Jimmy_Cards  posts big blind (800)
+** Dealing down cards **
+Colwins raises (4585) to 4985
+Colwins is all-In.
+Jimmy_Cards calls (4185)
+** Dealing Flop ** :  [ Tc, 8h, Qc ]
+** Dealing Turn ** :  [ 9c ]
+** Dealing River ** :  [ 4c ]
+Creating Main Pot with $10020 with Colwins
+** Summary **
+Main Pot: 10020
+Board: [ Tc 8h Qc 9c 4c  ]
+
+Jimmy_Cards balance 9980, lost 5010 [ 9s Kd ] [ a pair of Nines -- Kd,Qc,Tc,9s,9c ]
+Colwins balance 10020, bet 5010, collected 10020, net +5010 [ 8s 8c ] [ a flush, Queen high -- Qc,Tc,9c,8c,4c ]
+
+***** Hand History for Game 6068846274 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:37:31 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 7 is the button
+Total number of players : 2
+Seat 7: Jimmy_Cards (9980)
+Seat 8: Colwins (10020)
+Jimmy_Cards  posts ante (25)
+Colwins  posts ante (25)
+Jimmy_Cards  posts small blind (400)
+Colwins  posts big blind (800)
+** Dealing down cards **
+Jimmy_Cards calls (400)
+Colwins checks.
+** Dealing Flop ** :  [ 8c, Tc, 3s ]
+Colwins bets (800)
+Jimmy_Cards raises (3200) to 3200
+Colwins raises (8395) to 9195
+Colwins is all-In.
+Jimmy_Cards calls (5955)
+Jimmy_Cards is all-In.
+** Dealing Turn ** :  [ 7d ]
+** Dealing River ** :  [ Jd ]
+Creating Main Pot with $19960 with Jimmy_Cards
+** Summary **
+Main Pot: 19960
+Board: [ 8c Tc 3s 7d Jd  ]
+
+Jimmy_Cards balance 19960, bet 9980, collected 19960, net +9980 [ Jh Th ] [ two pairs, Jacks and Tens -- Jh,Jd,Th,Tc,8c ]
+Colwins balance 40, bet 10020, collected 40, lost -9980 [ 7c 8d ] [ two pairs, Eights and Sevens -- Jd,8d,8c,7c,7d ]
+
+***** Hand History for Game 6068847221 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33996742)  - Sat Jun 16 18:37:52 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 8 is the button
+Total number of players : 2
+Seat 7: Jimmy_Cards (19960)
+Seat 8: Colwins (40)
+Jimmy_Cards  posts ante (25)
+Colwins  posts ante (25)
+Colwins  posts small blind (15)
+Jimmy_Cards  posts big blind (800)
+** Dealing down cards **
+Colwins is all-In.
+** Dealing Flop ** :  [ 6c, Qs, 5s ]
+** Dealing Turn ** :  [ Ad ]
+** Dealing River ** :  [ 3c ]
+Creating Main Pot with $80 with Colwins
+** Summary **
+Main Pot: 80
+Board: [ 6c Qs 5s Ad 3c  ]
+
+Jimmy_Cards balance 20000, bet 825, collected 865, net +40 [ 8h 6h ] [ a pair of Sixes -- Ad,Qs,8h,6h,6c ]
+Colwins balance 0, lost 40 [ 2h 8d ] [ high card Ace -- Ad,Qs,8d,6c,5s ]
+
+
+

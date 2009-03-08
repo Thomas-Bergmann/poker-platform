@@ -1,0 +1,2322 @@
+
+Hello hatoka,
+These hand histories are provided to you as an aid for your training and development. You are not permitted to share them with anyone.  We reserve the right to cease providing them or apply further restrictions at any time.
+Complete hand histories are only available to players that participated in the hand.
+You requested a transcript of Tournament #35974068.
+
+Summary
+----------
+Played on    : 08 October 2007 02:48 PM
+On Table     : Speed #1330111
+Game Type    : Texas Holdem
+Buy-In       : $10
+Fee          : $1
+You finished in  position 8
+1st place - Bungals111 -  $50
+2nd place - maksu111 -  $30
+3rd place - Yacht555 -  $20
+
+***** Hand History for Game 6394241352 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 14:48:43 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 4 is the button
+Total number of players : 10
+Seat 1: Bungals111 (2000)
+Seat 2: Yacht555 (2000)
+Seat 3: MC_06 (2000)
+Seat 4: casinospil (2000)
+Seat 5: maksu111 (2000)
+Seat 6: t3p0s3 (2000)
+Seat 7: hatoka (2000)
+Seat 8: burro87 (2000)
+Seat 9: Skeva84 (2000)
+Seat 10: Sajator (2000)
+maksu111  posts small blind (20)
+t3p0s3  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 9s, 7d ]
+hatoka folds
+burro87 folds
+Skeva84 folds
+Sajator calls (40)
+Bungals111 folds
+Yacht555 folds
+MC_06 calls (40)
+casinospil folds
+maksu111 raises (140) to 160
+t3p0s3 folds
+Sajator calls (120)
+MC_06 calls (120)
+** Dealing Flop ** :  [ 2d, 6c, 9c ]
+maksu111 checks
+Sajator bets (240)
+MC_06 calls (240)
+maksu111 calls (240)
+** Dealing Turn ** :  [ Ah ]
+maksu111 checks
+Sajator checks
+MC_06 bets (320)
+maksu111 raises (640) to 640
+Sajator folds
+MC_06 folds
+** Summary **
+Main Pot: 1880
+Board: [ 2d 6c 9c Ah  ]
+Bungals111 balance 2000, didn't bet (folded)
+Yacht555 balance 2000, didn't bet (folded)
+MC_06 balance 1280, lost 720 (folded)
+casinospil balance 2000, didn't bet (folded)
+maksu111 balance 3160, bet 1040, collected 2200, net +1160
+t3p0s3 balance 1960, lost 40 (folded)
+hatoka balance 2000, didn't bet (folded)
+burro87 balance 2000, didn't bet (folded)
+Skeva84 balance 2000, didn't bet (folded)
+Sajator balance 1600, lost 400 (folded)
+
+***** Hand History for Game 6394247521 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 14:50:40 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 5 is the button
+Total number of players : 10
+Seat 1: Bungals111 (2000)
+Seat 2: Yacht555 (2000)
+Seat 3: MC_06 (1280)
+Seat 4: casinospil (2000)
+Seat 5: maksu111 (3160)
+Seat 6: t3p0s3 (1960)
+Seat 7: hatoka (2000)
+Seat 8: burro87 (2000)
+Seat 9: Skeva84 (2000)
+Seat 10: Sajator (1600)
+t3p0s3  posts small blind (20)
+hatoka  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ Qh, 2c ]
+burro87 folds
+Skeva84 folds
+Sajator folds
+Bungals111 raises (120) to 120
+Yacht555 calls (120)
+MC_06 folds
+casinospil calls (120)
+maksu111 folds
+t3p0s3 folds
+hatoka folds
+** Dealing Flop ** :  [ Js, 4d, 2s ]
+Bungals111 checks
+Yacht555 checks
+casinospil bets (200)
+Bungals111 calls (200)
+Yacht555 folds
+** Dealing Turn ** :  [ 8d ]
+Bungals111 bets (320)
+casinospil raises (640) to 640
+Bungals111 calls (320)
+** Dealing River ** :  [ 6c ]
+Bungals111 checks
+casinospil bets (1040)
+casinospil is all-In.
+Bungals111 calls (1040)
+Bungals111 is all-In.
+Creating Main Pot with $4180 with Bungals111,casinospil
+** Summary **
+Main Pot: 4180
+Board: [ Js 4d 2s 8d 6c  ]
+Bungals111 balance 4180, bet 2000, collected 4180, net +2180 [ As Jc ] [ a pair of Jacks -- As,Jc,Js,8d,6c ]
+Yacht555 balance 1880, lost 120 (folded)
+MC_06 balance 1280, didn't bet (folded)
+casinospil balance 0, lost 2000 [ 7h 7c ] [ a pair of Sevens -- Js,8d,7h,7c,6c ]
+maksu111 balance 3160, didn't bet (folded)
+t3p0s3 balance 1940, lost 20 (folded)
+hatoka balance 1960, lost 40 (folded)
+burro87 balance 2000, didn't bet (folded)
+Skeva84 balance 2000, didn't bet (folded)
+Sajator balance 1600, didn't bet (folded)
+
+***** Hand History for Game 6394253723 *****
+casinospil finished in 10 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 14:52:32 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 6 is the button
+Total number of players : 9
+Seat 1: Bungals111 (4180)
+Seat 2: Yacht555 (1880)
+Seat 3: MC_06 (1280)
+Seat 5: maksu111 (3160)
+Seat 6: t3p0s3 (1940)
+Seat 7: hatoka (1960)
+Seat 8: burro87 (2000)
+Seat 9: Skeva84 (2000)
+Seat 10: Sajator (1600)
+hatoka  posts small blind (20)
+burro87  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 9d, Kd ]
+Skeva84 folds
+Sajator folds
+Bungals111 folds
+Yacht555 folds
+MC_06 folds
+maksu111 raises (120) to 120
+t3p0s3 folds
+hatoka calls (100)
+burro87 folds
+** Dealing Flop ** :  [ Tc, 2s, 2d ]
+hatoka checks
+maksu111 checks
+** Dealing Turn ** :  [ 7d ]
+hatoka bets (120)
+maksu111 calls (120)
+** Dealing River ** :  [ 6c ]
+hatoka bets (150)
+maksu111 raises (300) to 300
+hatoka calls (150)
+** Summary **
+Main Pot: 1120
+Board: [ Tc 2s 2d 7d 6c  ]
+Bungals111 balance 4180, didn't bet (folded)
+Yacht555 balance 1880, didn't bet (folded)
+MC_06 balance 1280, didn't bet (folded)
+maksu111 balance 3740, bet 540, collected 1120, net +580 [ Ad 6d ] [ two pairs, Sixes and Twos -- Ad,6d,6c,2s,2d ]
+t3p0s3 balance 1940, didn't bet (folded)
+hatoka balance 1420, lost 540 [ 9d Kd ] [ a pair of Twos -- Kd,Tc,9d,2s,2d ]
+burro87 balance 1960, lost 40 (folded)
+Skeva84 balance 2000, didn't bet (folded)
+Sajator balance 1600, didn't bet (folded)
+
+***** Hand History for Game 6394258569 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 14:54:00 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 7 is the button
+Total number of players : 9
+Seat 1: Bungals111 (4180)
+Seat 2: Yacht555 (1880)
+Seat 3: MC_06 (1280)
+Seat 5: maksu111 (3740)
+Seat 6: t3p0s3 (1940)
+Seat 7: hatoka (1420)
+Seat 8: burro87 (1960)
+Seat 9: Skeva84 (2000)
+Seat 10: Sajator (1600)
+burro87  posts small blind (30)
+Skeva84  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Qd, 5h ]
+Sajator folds
+Bungals111 folds
+Yacht555 calls (60)
+MC_06 calls (60)
+maksu111 folds
+t3p0s3 folds
+hatoka folds
+burro87 calls (30)
+Skeva84 checks
+** Dealing Flop ** :  [ Js, 6s, Kc ]
+burro87 checks
+Skeva84 checks
+Yacht555 checks
+MC_06 bets (420)
+burro87 folds
+Skeva84 folds
+Yacht555 folds
+** Summary **
+Main Pot: 240
+Board: [ Js 6s Kc  ]
+Bungals111 balance 4180, didn't bet (folded)
+Yacht555 balance 1820, lost 60 (folded)
+MC_06 balance 1460, bet 480, collected 660, net +180
+maksu111 balance 3740, didn't bet (folded)
+t3p0s3 balance 1940, didn't bet (folded)
+hatoka balance 1420, didn't bet (folded)
+burro87 balance 1900, lost 60 (folded)
+Skeva84 balance 1940, lost 60 (folded)
+Sajator balance 1600, didn't bet (folded)
+
+***** Hand History for Game 6394261771 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 14:54:57 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 8 is the button
+Total number of players : 9
+Seat 1: Bungals111 (4180)
+Seat 2: Yacht555 (1820)
+Seat 3: MC_06 (1460)
+Seat 5: maksu111 (3740)
+Seat 6: t3p0s3 (1940)
+Seat 7: hatoka (1420)
+Seat 8: burro87 (1900)
+Seat 9: Skeva84 (1940)
+Seat 10: Sajator (1600)
+Skeva84  posts small blind (30)
+Sajator  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 6s, Qc ]
+Bungals111 calls (60)
+Yacht555 folds
+MC_06 folds
+maksu111 folds
+t3p0s3 folds
+hatoka folds
+burro87 folds
+Skeva84 folds
+Sajator checks
+** Dealing Flop ** :  [ Qs, Ts, 4h ]
+Sajator bets (120)
+Bungals111 folds
+** Summary **
+Main Pot: 150
+Board: [ Qs Ts 4h  ]
+Bungals111 balance 4120, lost 60 (folded)
+Yacht555 balance 1820, didn't bet (folded)
+MC_06 balance 1460, didn't bet (folded)
+maksu111 balance 3740, didn't bet (folded)
+t3p0s3 balance 1940, didn't bet (folded)
+hatoka balance 1420, didn't bet (folded)
+burro87 balance 1900, didn't bet (folded)
+Skeva84 balance 1910, lost 30 (folded)
+Sajator balance 1690, bet 180, collected 270, net +90
+
+***** Hand History for Game 6394264121 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 14:55:39 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 9 is the button
+Total number of players : 9
+Seat 1: Bungals111 (4120)
+Seat 2: Yacht555 (1820)
+Seat 3: MC_06 (1460)
+Seat 5: maksu111 (3740)
+Seat 6: t3p0s3 (1940)
+Seat 7: hatoka (1420)
+Seat 8: burro87 (1900)
+Seat 9: Skeva84 (1910)
+Seat 10: Sajator (1690)
+Sajator  posts small blind (30)
+Bungals111  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Jh, Ah ]
+Yacht555 folds
+MC_06 raises (180) to 180
+maksu111 folds
+t3p0s3 folds
+hatoka calls (180)
+burro87 raises (1900) to 1900
+burro87 is all-In.
+Skeva84 folds
+Sajator folds
+Bungals111 folds
+MC_06 calls (1280)
+MC_06 is all-In.
+hatoka folds
+** Dealing Flop ** :  [ 4d, 3s, Qh ]
+** Dealing Turn ** :  [ Qd ]
+** Dealing River ** :  [ 8h ]
+Creating Main Pot with $3190 with MC_06
+** Summary **
+Main Pot: 3190
+Board: [ 4d 3s Qh Qd 8h  ]
+Bungals111 balance 4060, lost 60 (folded)
+Yacht555 balance 1820, didn't bet (folded)
+MC_06 balance 3190, bet 1460, collected 3190, net +1730 [ Kc Qc ] [ three of a kind, Queens -- Kc,Qc,Qh,Qd,8h ]
+maksu111 balance 3740, didn't bet (folded)
+t3p0s3 balance 1940, didn't bet (folded)
+hatoka balance 1240, lost 180 (folded)
+burro87 balance 440, bet 1900, collected 440, lost -1460 [ Kh Ac ] [ a pair of Queens -- Ac,Kh,Qh,Qd,8h ]
+Skeva84 balance 1910, didn't bet (folded)
+Sajator balance 1660, lost 30 (folded)
+
+***** Hand History for Game 6394266184 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 14:56:16 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 10 is the button
+Total number of players : 9
+Seat 1: Bungals111 (4060)
+Seat 2: Yacht555 (1820)
+Seat 3: MC_06 (3190)
+Seat 5: maksu111 (3740)
+Seat 6: t3p0s3 (1940)
+Seat 7: hatoka (1240)
+Seat 8: burro87 (440)
+Seat 9: Skeva84 (1910)
+Seat 10: Sajator (1660)
+Bungals111  posts small blind (30)
+Yacht555  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Qd, 2d ]
+MC_06 calls (60)
+maksu111 calls (60)
+t3p0s3 folds
+hatoka folds
+burro87 folds
+Skeva84 calls (60)
+Sajator folds
+Bungals111 raises (210) to 240
+Yacht555 folds
+MC_06 folds
+maksu111 calls (180)
+Skeva84 calls (180)
+** Dealing Flop ** :  [ 8s, 7c, 9d ]
+Bungals111 bets (300)
+maksu111 calls (300)
+Skeva84 folds
+** Dealing Turn ** :  [ Qh ]
+Bungals111 checks
+maksu111 checks
+** Dealing River ** :  [ 7s ]
+Bungals111 checks
+maksu111 bets (1020)
+Bungals111 folds
+** Summary **
+Main Pot: 1440
+Board: [ 8s 7c 9d Qh 7s  ]
+Bungals111 balance 3520, lost 540 (folded)
+Yacht555 balance 1760, lost 60 (folded)
+MC_06 balance 3130, lost 60 (folded)
+maksu111 balance 4640, bet 1560, collected 2460, net +900
+t3p0s3 balance 1940, didn't bet (folded)
+hatoka balance 1240, didn't bet (folded)
+burro87 balance 440, didn't bet (folded)
+Skeva84 balance 1670, lost 240 (folded)
+Sajator balance 1660, didn't bet (folded)
+
+***** Hand History for Game 6394270257 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 14:57:30 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 1 is the button
+Total number of players : 9
+Seat 1: Bungals111 (3520)
+Seat 2: Yacht555 (1760)
+Seat 3: MC_06 (3130)
+Seat 5: maksu111 (4640)
+Seat 6: t3p0s3 (1940)
+Seat 7: hatoka (1240)
+Seat 8: burro87 (440)
+Seat 9: Skeva84 (1670)
+Seat 10: Sajator (1660)
+Yacht555  posts small blind (30)
+MC_06  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 2c, Jc ]
+maksu111 calls (60)
+t3p0s3 calls (60)
+hatoka folds
+burro87 folds
+Skeva84 folds
+Sajator folds
+Bungals111 folds
+Yacht555 calls (30)
+MC_06 checks
+** Dealing Flop ** :  [ Qd, Kc, 7h ]
+Yacht555 checks
+MC_06 bets (60)
+maksu111 calls (60)
+t3p0s3 calls (60)
+Yacht555 folds
+** Dealing Turn ** :  [ 3c ]
+MC_06 bets (180)
+maksu111 folds
+t3p0s3 folds
+** Summary **
+Main Pot: 420
+Board: [ Qd Kc 7h 3c  ]
+Bungals111 balance 3520, didn't bet (folded)
+Yacht555 balance 1700, lost 60 (folded)
+MC_06 balance 3430, bet 300, collected 600, net +300
+maksu111 balance 4520, lost 120 (folded)
+t3p0s3 balance 1820, lost 120 (folded)
+hatoka balance 1240, didn't bet (folded)
+burro87 balance 440, didn't bet (folded)
+Skeva84 balance 1670, didn't bet (folded)
+Sajator balance 1660, didn't bet (folded)
+
+***** Hand History for Game 6394273836 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 14:58:34 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 2 is the button
+Total number of players : 9
+Seat 1: Bungals111 (3520)
+Seat 2: Yacht555 (1700)
+Seat 3: MC_06 (3430)
+Seat 5: maksu111 (4520)
+Seat 6: t3p0s3 (1820)
+Seat 7: hatoka (1240)
+Seat 8: burro87 (440)
+Seat 9: Skeva84 (1670)
+Seat 10: Sajator (1660)
+MC_06  posts small blind (30)
+maksu111  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Jd, Qd ]
+t3p0s3 folds
+hatoka raises (120) to 120
+burro87 folds
+Skeva84 folds
+Sajator folds
+Bungals111 folds
+Yacht555 folds
+MC_06 folds
+maksu111 calls (60)
+** Dealing Flop ** :  [ 7s, Kh, Kd ]
+maksu111 checks
+hatoka bets (100)
+maksu111 calls (100)
+** Dealing Turn ** :  [ 8s ]
+maksu111 checks
+hatoka checks
+** Dealing River ** :  [ 8c ]
+maksu111 bets (1140)
+hatoka folds
+** Summary **
+Main Pot: 470
+Board: [ 7s Kh Kd 8s 8c  ]
+Bungals111 balance 3520, didn't bet (folded)
+Yacht555 balance 1700, didn't bet (folded)
+MC_06 balance 3400, lost 30 (folded)
+maksu111 balance 4770, bet 1360, collected 1610, net +250
+t3p0s3 balance 1820, didn't bet (folded)
+hatoka balance 1020, lost 220 (folded)
+burro87 balance 440, didn't bet (folded)
+Skeva84 balance 1670, didn't bet (folded)
+Sajator balance 1660, didn't bet (folded)
+
+***** Hand History for Game 6394277378 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 14:59:38 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 3 is the button
+Total number of players : 9
+Seat 1: Bungals111 (3520)
+Seat 2: Yacht555 (1700)
+Seat 3: MC_06 (3400)
+Seat 5: maksu111 (4770)
+Seat 6: t3p0s3 (1820)
+Seat 7: hatoka (1020)
+Seat 8: burro87 (440)
+Seat 9: Skeva84 (1670)
+Seat 10: Sajator (1660)
+maksu111  posts small blind (50)
+t3p0s3  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 2d, 3h ]
+hatoka folds
+burro87 folds
+Skeva84 folds
+Sajator raises (500) to 500
+Bungals111 folds
+Yacht555 folds
+MC_06 raises (1700) to 1700
+maksu111 folds
+t3p0s3 folds
+Sajator calls (1160)
+Sajator is all-In.
+** Dealing Flop ** :  [ Ac, 6h, Td ]
+** Dealing Turn ** :  [ 4h ]
+** Dealing River ** :  [ 7s ]
+Creating Main Pot with $3470 with Sajator
+** Summary **
+Main Pot: 3470
+Board: [ Ac 6h Td 4h 7s  ]
+Bungals111 balance 3520, didn't bet (folded)
+Yacht555 balance 1700, didn't bet (folded)
+MC_06 balance 5210, bet 1700, collected 3510, net +1810 [ Kd Kh ] [ a pair of Kings -- Ac,Kd,Kh,Td,7s ]
+maksu111 balance 4720, lost 50 (folded)
+t3p0s3 balance 1720, lost 100 (folded)
+hatoka balance 1020, didn't bet (folded)
+burro87 balance 440, didn't bet (folded)
+Skeva84 balance 1670, didn't bet (folded)
+Sajator balance 0, lost 1660 [ Qd Qc ] [ a pair of Queens -- Ac,Qd,Qc,Td,7s ]
+
+***** Hand History for Game 6394279300 *****
+Sajator finished in 9 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 15:00:14 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 5 is the button
+Total number of players : 8
+Seat 1: Bungals111 (3520)
+Seat 2: Yacht555 (1700)
+Seat 3: MC_06 (5210)
+Seat 5: maksu111 (4720)
+Seat 6: t3p0s3 (1720)
+Seat 7: hatoka (1020)
+Seat 8: burro87 (440)
+Seat 9: Skeva84 (1670)
+t3p0s3  posts small blind (50)
+hatoka  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ As, 8c ]
+burro87 folds
+Skeva84 folds
+Bungals111 folds
+Yacht555 folds
+MC_06 folds
+maksu111 raises (200) to 200
+t3p0s3 calls (150)
+hatoka calls (100)
+** Dealing Flop ** :  [ 7d, Ah, 9d ]
+t3p0s3 checks
+hatoka bets (200)
+maksu111 raises (400) to 400
+t3p0s3 folds
+hatoka raises (620) to 820
+hatoka is all-In.
+maksu111 calls (420)
+** Dealing Turn ** :  [ Qh ]
+** Dealing River ** :  [ 3d ]
+Creating Main Pot with $2240 with hatoka
+** Summary **
+Main Pot: 2240
+Board: [ 7d Ah 9d Qh 3d  ]
+Bungals111 balance 3520, didn't bet (folded)
+Yacht555 balance 1700, didn't bet (folded)
+MC_06 balance 5210, didn't bet (folded)
+maksu111 balance 5940, bet 1020, collected 2240, net +1220 [ Kd Jd ] [ a flush, King high -- Kd,Jd,9d,7d,3d ]
+t3p0s3 balance 1520, lost 200 (folded)
+hatoka balance 0, lost 1020 [ As 8c ] [ a pair of Aces -- As,Ah,Qh,9d,8c ]
+burro87 balance 440, didn't bet (folded)
+Skeva84 balance 1670, didn't bet (folded)
+
+***** Hand History for Game 6394282279 *****
+hatoka finished in 8 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 15:01:08 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 6 is the button
+Total number of players : 7
+Seat 1: Bungals111 (3520)
+Seat 2: Yacht555 (1700)
+Seat 3: MC_06 (5210)
+Seat 5: maksu111 (5940)
+Seat 6: t3p0s3 (1520)
+Seat 8: burro87 (440)
+Seat 9: Skeva84 (1670)
+burro87  posts big blind (100)
+** Dealing down cards **
+Skeva84 folds
+Bungals111 folds
+Yacht555 folds
+MC_06 could not respond in time.(disconnected)
+MC_06 folds
+maksu111 calls (100)
+t3p0s3 calls (100)
+burro87 checks
+** Dealing Flop ** :  [ 4d, Ac, Kh ]
+burro87 checks
+maksu111 bets (400)
+t3p0s3 raises (1420) to 1420
+t3p0s3 is all-In.
+burro87 folds
+maksu111 folds
+Creating Main Pot with $1100 with t3p0s3
+** Summary **
+Main Pot: 1100
+Board: [ 4d Ac Kh  ]
+Bungals111 balance 3520, didn't bet (folded)
+Yacht555 balance 1700, didn't bet (folded)
+MC_06 balance 5210, didn't bet (folded)
+maksu111 balance 5440, lost 500 (folded)
+t3p0s3 balance 2120, bet 1520, collected 2120, net +600
+burro87 balance 340, lost 100 (folded)
+Skeva84 balance 1670, didn't bet (folded)
+
+***** Hand History for Game 6394286266 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 15:02:20 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 6 is the button
+Total number of players : 7
+Seat 1: Bungals111 (3520)
+Seat 2: Yacht555 (1700)
+Seat 3: MC_06 (5210)
+Seat 5: maksu111 (5440)
+Seat 6: t3p0s3 (2120)
+Seat 8: burro87 (340)
+Seat 9: Skeva84 (1670)
+burro87  posts small blind (50)
+Skeva84  posts big blind (100)
+** Dealing down cards **
+Bungals111 folds
+Yacht555 folds
+MC_06 folds
+maksu111 folds
+t3p0s3 raises (300) to 300
+burro87 folds
+Skeva84 folds
+** Summary **
+Main Pot: 250
+Bungals111 balance 3520, didn't bet (folded)
+Yacht555 balance 1700, didn't bet (folded)
+MC_06 balance 5210, didn't bet (folded)
+maksu111 balance 5440, didn't bet (folded)
+t3p0s3 balance 2270, bet 300, collected 450, net +150
+burro87 balance 290, lost 50 (folded)
+Skeva84 balance 1570, lost 100 (folded)
+
+***** Hand History for Game 6394288061 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 15:02:52 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 8 is the button
+Total number of players : 7
+Seat 1: Bungals111 (3520)
+Seat 2: Yacht555 (1700)
+Seat 3: MC_06 (5210)
+Seat 5: maksu111 (5440)
+Seat 6: t3p0s3 (2270)
+Seat 8: burro87 (290)
+Seat 9: Skeva84 (1570)
+Skeva84  posts small blind (50)
+Bungals111  posts big blind (100)
+** Dealing down cards **
+Yacht555 folds
+MC_06 folds
+maksu111 folds
+t3p0s3 folds
+burro87 raises (290) to 290
+burro87 is all-In.
+Skeva84 folds
+Bungals111 calls (190)
+** Dealing Flop ** :  [ 8s, 6d, 9s ]
+** Dealing Turn ** :  [ Jc ]
+** Dealing River ** :  [ 5h ]
+Creating Main Pot with $630 with burro87
+** Summary **
+Main Pot: 630
+Board: [ 8s 6d 9s Jc 5h  ]
+Bungals111 balance 3860, bet 290, collected 630, net +340 [ 4h 7d ] [ a straight Five to Nine -- 9s,8s,7d,6d,5h ]
+Yacht555 balance 1700, didn't bet (folded)
+MC_06 balance 5210, didn't bet (folded)
+maksu111 balance 5440, didn't bet (folded)
+t3p0s3 balance 2270, didn't bet (folded)
+burro87 balance 0, lost 290 [ Qs Kd ] [ high card King -- Kd,Qs,Jc,9s,8s ]
+Skeva84 balance 1520, lost 50 (folded)
+
+***** Hand History for Game 6394289590 *****
+burro87 finished in 7 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 15:03:20 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 9 is the button
+Total number of players : 6
+Seat 1: Bungals111 (3860)
+Seat 2: Yacht555 (1700)
+Seat 3: MC_06 (5210)
+Seat 5: maksu111 (5440)
+Seat 6: t3p0s3 (2270)
+Seat 9: Skeva84 (1520)
+Bungals111  posts small blind (50)
+Yacht555  posts big blind (100)
+** Dealing down cards **
+MC_06 folds
+maksu111 calls (100)
+t3p0s3 folds
+Skeva84 folds
+Bungals111 calls (50)
+Yacht555 checks
+** Dealing Flop ** :  [ Tc, 3c, Qs ]
+Bungals111 bets (100)
+Yacht555 folds
+maksu111 raises (200) to 200
+Bungals111 calls (100)
+** Dealing Turn ** :  [ 6d ]
+Bungals111 checks
+maksu111 bets (500)
+Bungals111 folds
+** Summary **
+Main Pot: 700
+Board: [ Tc 3c Qs 6d  ]
+Bungals111 balance 3560, lost 300 (folded)
+Yacht555 balance 1600, lost 100 (folded)
+MC_06 balance 5210, didn't bet (folded)
+maksu111 balance 5840, bet 800, collected 1200, net +400
+t3p0s3 balance 2270, didn't bet (folded)
+Skeva84 balance 1520, didn't bet (folded)
+
+***** Hand History for Game 6394292480 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 15:04:14 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 1 is the button
+Total number of players : 6
+Seat 1: Bungals111 (3560)
+Seat 2: Yacht555 (1600)
+Seat 3: MC_06 (5210)
+Seat 5: maksu111 (5840)
+Seat 6: t3p0s3 (2270)
+Seat 9: Skeva84 (1520)
+Yacht555  posts small blind (50)
+MC_06  posts big blind (100)
+** Dealing down cards **
+maksu111 folds
+t3p0s3 folds
+Skeva84 raises (300) to 300
+Bungals111 folds
+Yacht555 folds
+MC_06 calls (200)
+** Dealing Flop ** :  [ 8s, Ac, 8c ]
+MC_06 checks
+Skeva84 bets (400)
+MC_06 folds
+** Summary **
+Main Pot: 650
+Board: [ 8s Ac 8c  ]
+Bungals111 balance 3560, didn't bet (folded)
+Yacht555 balance 1550, lost 50 (folded)
+MC_06 balance 4910, lost 300 (folded)
+maksu111 balance 5840, didn't bet (folded)
+t3p0s3 balance 2270, didn't bet (folded)
+Skeva84 balance 1870, bet 700, collected 1050, net +350
+
+***** Hand History for Game 6394294403 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 15:04:48 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 2 is the button
+Total number of players : 6
+Seat 1: Bungals111 (3560)
+Seat 2: Yacht555 (1550)
+Seat 3: MC_06 (4910)
+Seat 5: maksu111 (5840)
+Seat 6: t3p0s3 (2270)
+Seat 9: Skeva84 (1870)
+MC_06  posts small blind (100)
+maksu111  posts big blind (200)
+** Dealing down cards **
+t3p0s3 folds
+Skeva84 folds
+Bungals111 folds
+Yacht555 raises (1550) to 1550
+Yacht555 is all-In.
+MC_06 folds
+maksu111 folds
+Creating Main Pot with $500 with Yacht555
+** Summary **
+Main Pot: 500
+Bungals111 balance 3560, didn't bet (folded)
+Yacht555 balance 1850, bet 1550, collected 1850, net +300
+MC_06 balance 4810, lost 100 (folded)
+maksu111 balance 5640, lost 200 (folded)
+t3p0s3 balance 2270, didn't bet (folded)
+Skeva84 balance 1870, didn't bet (folded)
+
+***** Hand History for Game 6394295984 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 15:05:17 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 3 is the button
+Total number of players : 6
+Seat 1: Bungals111 (3560)
+Seat 2: Yacht555 (1850)
+Seat 3: MC_06 (4810)
+Seat 5: maksu111 (5640)
+Seat 6: t3p0s3 (2270)
+Seat 9: Skeva84 (1870)
+maksu111  posts small blind (100)
+t3p0s3  posts big blind (200)
+** Dealing down cards **
+Skeva84 folds
+Bungals111 folds
+Yacht555 folds
+MC_06 folds
+maksu111 raises (300) to 400
+t3p0s3 calls (200)
+** Dealing Flop ** :  [ 7s, Ah, Kc ]
+maksu111 bets (400)
+t3p0s3 folds
+** Summary **
+Main Pot: 800
+Board: [ 7s Ah Kc  ]
+Bungals111 balance 3560, didn't bet (folded)
+Yacht555 balance 1850, didn't bet (folded)
+MC_06 balance 4810, didn't bet (folded)
+maksu111 balance 6040, bet 800, collected 1200, net +400
+t3p0s3 balance 1870, lost 400 (folded)
+Skeva84 balance 1870, didn't bet (folded)
+
+***** Hand History for Game 6394298878 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 15:06:06 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 5 is the button
+Total number of players : 6
+Seat 1: Bungals111 (3560)
+Seat 2: Yacht555 (1850)
+Seat 3: MC_06 (4810)
+Seat 5: maksu111 (6040)
+Seat 6: t3p0s3 (1870)
+Seat 9: Skeva84 (1870)
+t3p0s3  posts small blind (100)
+Skeva84  posts big blind (200)
+** Dealing down cards **
+Bungals111 folds
+Yacht555 folds
+MC_06 folds
+maksu111 folds
+t3p0s3 calls (100)
+Skeva84 checks
+** Dealing Flop ** :  [ 3d, 7h, Kc ]
+t3p0s3 bets (200)
+Skeva84 folds
+** Summary **
+Main Pot: 400
+Board: [ 3d 7h Kc  ]
+Bungals111 balance 3560, didn't bet (folded)
+Yacht555 balance 1850, didn't bet (folded)
+MC_06 balance 4810, didn't bet (folded)
+maksu111 balance 6040, didn't bet (folded)
+t3p0s3 balance 2070, bet 400, collected 600, net +200
+Skeva84 balance 1670, lost 200 (folded)
+
+***** Hand History for Game 6394300665 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 15:06:37 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 6 is the button
+Total number of players : 6
+Seat 1: Bungals111 (3560)
+Seat 2: Yacht555 (1850)
+Seat 3: MC_06 (4810)
+Seat 5: maksu111 (6040)
+Seat 6: t3p0s3 (2070)
+Seat 9: Skeva84 (1670)
+Skeva84  posts small blind (100)
+Bungals111  posts big blind (200)
+** Dealing down cards **
+Yacht555 raises (1850) to 1850
+Yacht555 is all-In.
+MC_06 folds
+maksu111 folds
+t3p0s3 folds
+Skeva84 folds
+Bungals111 folds
+Creating Main Pot with $500 with Yacht555
+** Summary **
+Main Pot: 500
+Bungals111 balance 3360, lost 200 (folded)
+Yacht555 balance 2150, bet 1850, collected 2150, net +300
+MC_06 balance 4810, didn't bet (folded)
+maksu111 balance 6040, didn't bet (folded)
+t3p0s3 balance 2070, didn't bet (folded)
+Skeva84 balance 1570, lost 100 (folded)
+
+***** Hand History for Game 6394302142 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 15:07:04 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 9 is the button
+Total number of players : 6
+Seat 1: Bungals111 (3360)
+Seat 2: Yacht555 (2150)
+Seat 3: MC_06 (4810)
+Seat 5: maksu111 (6040)
+Seat 6: t3p0s3 (2070)
+Seat 9: Skeva84 (1570)
+Bungals111  posts small blind (100)
+Yacht555  posts big blind (200)
+** Dealing down cards **
+MC_06 folds
+maksu111 folds
+t3p0s3 folds
+Skeva84 raises (1570) to 1570
+Skeva84 is all-In.
+Bungals111 folds
+Yacht555 folds
+Creating Main Pot with $500 with Skeva84
+** Summary **
+Main Pot: 500
+Bungals111 balance 3260, lost 100 (folded)
+Yacht555 balance 1950, lost 200 (folded)
+MC_06 balance 4810, didn't bet (folded)
+maksu111 balance 6040, didn't bet (folded)
+t3p0s3 balance 2070, didn't bet (folded)
+Skeva84 balance 1870, bet 1570, collected 1870, net +300
+
+***** Hand History for Game 6394303287 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 15:07:23 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 1 is the button
+Total number of players : 6
+Seat 1: Bungals111 (3260)
+Seat 2: Yacht555 (1950)
+Seat 3: MC_06 (4810)
+Seat 5: maksu111 (6040)
+Seat 6: t3p0s3 (2070)
+Seat 9: Skeva84 (1870)
+Yacht555  posts small blind (100)
+MC_06  posts big blind (200)
+** Dealing down cards **
+maksu111 calls (200)
+t3p0s3 folds
+Skeva84 folds
+Bungals111 folds
+Yacht555 folds
+MC_06 checks
+** Dealing Flop ** :  [ 5c, 5s, 6d ]
+MC_06 checks
+maksu111 bets (400)
+MC_06 folds
+** Summary **
+Main Pot: 500
+Board: [ 5c 5s 6d  ]
+Bungals111 balance 3260, didn't bet (folded)
+Yacht555 balance 1850, lost 100 (folded)
+MC_06 balance 4610, lost 200 (folded)
+maksu111 balance 6340, bet 600, collected 900, net +300
+t3p0s3 balance 2070, didn't bet (folded)
+Skeva84 balance 1870, didn't bet (folded)
+
+***** Hand History for Game 6394304994 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 15:07:51 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 2 is the button
+Total number of players : 6
+Seat 1: Bungals111 (3260)
+Seat 2: Yacht555 (1850)
+Seat 3: MC_06 (4610)
+Seat 5: maksu111 (6340)
+Seat 6: t3p0s3 (2070)
+Seat 9: Skeva84 (1870)
+MC_06  posts small blind (100)
+maksu111  posts big blind (200)
+** Dealing down cards **
+t3p0s3 raises (600) to 600
+Skeva84 folds
+Bungals111 folds
+Yacht555 folds
+MC_06 folds
+maksu111 folds
+** Summary **
+Main Pot: 500
+Bungals111 balance 3260, didn't bet (folded)
+Yacht555 balance 1850, didn't bet (folded)
+MC_06 balance 4510, lost 100 (folded)
+maksu111 balance 6140, lost 200 (folded)
+t3p0s3 balance 2370, bet 600, collected 900, net +300
+Skeva84 balance 1870, didn't bet (folded)
+
+***** Hand History for Game 6394305963 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 15:08:08 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 3 is the button
+Total number of players : 6
+Seat 1: Bungals111 (3260)
+Seat 2: Yacht555 (1850)
+Seat 3: MC_06 (4510)
+Seat 5: maksu111 (6140)
+Seat 6: t3p0s3 (2370)
+Seat 9: Skeva84 (1870)
+maksu111  posts small blind (100)
+t3p0s3  posts big blind (200)
+** Dealing down cards **
+Skeva84 folds
+Bungals111 folds
+Yacht555 folds
+MC_06 folds
+maksu111 raises (300) to 400
+t3p0s3 folds
+** Summary **
+Main Pot: 400
+Bungals111 balance 3260, didn't bet (folded)
+Yacht555 balance 1850, didn't bet (folded)
+MC_06 balance 4510, didn't bet (folded)
+maksu111 balance 6340, bet 400, collected 600, net +200
+t3p0s3 balance 2170, lost 200 (folded)
+Skeva84 balance 1870, didn't bet (folded)
+
+***** Hand History for Game 6394307284 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 15:08:31 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 5 is the button
+Total number of players : 6
+Seat 1: Bungals111 (3260)
+Seat 2: Yacht555 (1850)
+Seat 3: MC_06 (4510)
+Seat 5: maksu111 (6340)
+Seat 6: t3p0s3 (2170)
+Seat 9: Skeva84 (1870)
+t3p0s3  posts small blind (100)
+Skeva84  posts big blind (200)
+** Dealing down cards **
+Bungals111 folds
+Yacht555 raises (1850) to 1850
+Yacht555 is all-In.
+MC_06 folds
+maksu111 folds
+t3p0s3 folds
+Skeva84 folds
+Creating Main Pot with $500 with Yacht555
+** Summary **
+Main Pot: 500
+Bungals111 balance 3260, didn't bet (folded)
+Yacht555 balance 2150, bet 1850, collected 2150, net +300
+MC_06 balance 4510, didn't bet (folded)
+maksu111 balance 6340, didn't bet (folded)
+t3p0s3 balance 2070, lost 100 (folded)
+Skeva84 balance 1670, lost 200 (folded)
+
+***** Hand History for Game 6394308827 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 15:08:57 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 6 is the button
+Total number of players : 6
+Seat 1: Bungals111 (3260)
+Seat 2: Yacht555 (2150)
+Seat 3: MC_06 (4510)
+Seat 5: maksu111 (6340)
+Seat 6: t3p0s3 (2070)
+Seat 9: Skeva84 (1670)
+Skeva84  posts small blind (100)
+Bungals111  posts big blind (200)
+** Dealing down cards **
+Yacht555 folds
+MC_06 folds
+maksu111 folds
+t3p0s3 raises (600) to 600
+Skeva84 raises (1570) to 1670
+Skeva84 is all-In.
+Bungals111 folds
+t3p0s3 folds
+Creating Main Pot with $1400 with Skeva84
+** Summary **
+Main Pot: 1400
+Bungals111 balance 3060, lost 200 (folded)
+Yacht555 balance 2150, didn't bet (folded)
+MC_06 balance 4510, didn't bet (folded)
+maksu111 balance 6340, didn't bet (folded)
+t3p0s3 balance 1470, lost 600 (folded)
+Skeva84 balance 2470, bet 1670, collected 2470, net +800
+
+***** Hand History for Game 6394310434 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 15:09:23 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 9 is the button
+Total number of players : 6
+Seat 1: Bungals111 (3060)
+Seat 2: Yacht555 (2150)
+Seat 3: MC_06 (4510)
+Seat 5: maksu111 (6340)
+Seat 6: t3p0s3 (1470)
+Seat 9: Skeva84 (2470)
+Bungals111  posts small blind (100)
+Yacht555  posts big blind (200)
+** Dealing down cards **
+MC_06 folds
+maksu111 calls (200)
+t3p0s3 folds
+Skeva84 raises (2470) to 2470
+Skeva84 is all-In.
+Bungals111 folds
+Yacht555 folds
+maksu111 folds
+Creating Main Pot with $700 with Skeva84
+** Summary **
+Main Pot: 700
+Bungals111 balance 2960, lost 100 (folded)
+Yacht555 balance 1950, lost 200 (folded)
+MC_06 balance 4510, didn't bet (folded)
+maksu111 balance 6140, lost 200 (folded)
+t3p0s3 balance 1470, didn't bet (folded)
+Skeva84 balance 2970, bet 2470, collected 2970, net +500
+
+***** Hand History for Game 6394311811 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 15:09:46 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 1 is the button
+Total number of players : 6
+Seat 1: Bungals111 (2960)
+Seat 2: Yacht555 (1950)
+Seat 3: MC_06 (4510)
+Seat 5: maksu111 (6140)
+Seat 6: t3p0s3 (1470)
+Seat 9: Skeva84 (2970)
+Yacht555  posts small blind (100)
+MC_06  posts big blind (200)
+** Dealing down cards **
+maksu111 folds
+t3p0s3 folds
+Skeva84 folds
+Bungals111 folds
+Yacht555 raises (1700) to 1800
+MC_06 folds
+** Summary **
+Main Pot: 400
+Bungals111 balance 2960, didn't bet (folded)
+Yacht555 balance 2150, bet 1800, collected 2000, net +200
+MC_06 balance 4310, lost 200 (folded)
+maksu111 balance 6140, didn't bet (folded)
+t3p0s3 balance 1470, didn't bet (folded)
+Skeva84 balance 2970, didn't bet (folded)
+
+***** Hand History for Game 6394313126 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 15:10:09 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 2 is the button
+Total number of players : 6
+Seat 1: Bungals111 (2960)
+Seat 2: Yacht555 (2150)
+Seat 3: MC_06 (4310)
+Seat 5: maksu111 (6140)
+Seat 6: t3p0s3 (1470)
+Seat 9: Skeva84 (2970)
+MC_06  posts small blind (200)
+maksu111  posts big blind (400)
+** Dealing down cards **
+t3p0s3 folds
+Skeva84 folds
+Bungals111 folds
+Yacht555 folds
+MC_06 calls (200)
+maksu111 raises (400) to 800
+MC_06 calls (400)
+** Dealing Flop ** :  [ 6c, 6s, Th ]
+MC_06 bets (800)
+maksu111 raises (1600) to 1600
+MC_06 raises (2710) to 3510
+MC_06 is all-In.
+maksu111 calls (1910)
+** Dealing Turn ** :  [ 4s ]
+** Dealing River ** :  [ Qd ]
+Creating Main Pot with $8620 with MC_06
+** Summary **
+Main Pot: 8620
+Board: [ 6c 6s Th 4s Qd  ]
+Bungals111 balance 2960, didn't bet (folded)
+Yacht555 balance 2150, didn't bet (folded)
+MC_06 balance 0, lost 4310 [ Tc Ks ] [ two pairs, Tens and Sixes -- Ks,Tc,Th,6c,6s ]
+maksu111 balance 10450, bet 4310, collected 8620, net +4310 [ Ac 6d ] [ three of a kind, Sixes -- Ac,Qd,6d,6c,6s ]
+t3p0s3 balance 1470, didn't bet (folded)
+Skeva84 balance 2970, didn't bet (folded)
+
+***** Hand History for Game 6394315832 *****
+MC_06 finished in 6 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 15:10:54 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 2 is the button
+Total number of players : 5
+Seat 1: Bungals111 (2960)
+Seat 2: Yacht555 (2150)
+Seat 5: maksu111 (10450)
+Seat 6: t3p0s3 (1470)
+Seat 9: Skeva84 (2970)
+maksu111  posts small blind (200)
+t3p0s3  posts big blind (400)
+** Dealing down cards **
+Skeva84 folds
+Bungals111 folds
+Yacht555 raises (2150) to 2150
+Yacht555 is all-In.
+maksu111 folds
+t3p0s3 folds
+Creating Main Pot with $1000 with Yacht555
+** Summary **
+Main Pot: 1000
+Bungals111 balance 2960, didn't bet (folded)
+Yacht555 balance 2750, bet 2150, collected 2750, net +600
+maksu111 balance 10250, lost 200 (folded)
+t3p0s3 balance 1070, lost 400 (folded)
+Skeva84 balance 2970, didn't bet (folded)
+
+***** Hand History for Game 6394316725 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 15:11:09 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 5 is the button
+Total number of players : 5
+Seat 1: Bungals111 (2960)
+Seat 2: Yacht555 (2750)
+Seat 5: maksu111 (10250)
+Seat 6: t3p0s3 (1070)
+Seat 9: Skeva84 (2970)
+t3p0s3  posts small blind (200)
+Skeva84  posts big blind (400)
+** Dealing down cards **
+Bungals111 folds
+Yacht555 folds
+maksu111 folds
+t3p0s3 raises (870) to 1070
+t3p0s3 is all-In.
+Skeva84 calls (670)
+** Dealing Flop ** :  [ 9h, 2h, 3s ]
+** Dealing Turn ** :  [ 2s ]
+** Dealing River ** :  [ 3d ]
+Creating Main Pot with $2140 with t3p0s3
+** Summary **
+Main Pot: 2140
+Board: [ 9h 2h 3s 2s 3d  ]
+Bungals111 balance 2960, didn't bet (folded)
+Yacht555 balance 2750, didn't bet (folded)
+maksu111 balance 10250, didn't bet (folded)
+t3p0s3 balance 2140, bet 1070, collected 2140, net +1070 [ Jc 3h ] [ a full house, Threes full of Twos -- 3h,3s,3d,2h,2s ]
+Skeva84 balance 1900, lost 1070 [ Ks Ah ] [ two pairs, Threes and Twos -- Ah,3s,3d,2h,2s ]
+
+***** Hand History for Game 6394317700 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 15:11:25 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 6 is the button
+Total number of players : 5
+Seat 1: Bungals111 (2960)
+Seat 2: Yacht555 (2750)
+Seat 5: maksu111 (10250)
+Seat 6: t3p0s3 (2140)
+Seat 9: Skeva84 (1900)
+Skeva84  posts small blind (200)
+Bungals111  posts big blind (400)
+** Dealing down cards **
+Yacht555 folds
+maksu111 calls (400)
+t3p0s3 folds
+Skeva84 folds
+Bungals111 checks
+** Dealing Flop ** :  [ 7d, Ah, 4c ]
+Bungals111 checks
+maksu111 bets (400)
+Bungals111 calls (400)
+** Dealing Turn ** :  [ 2h ]
+Bungals111 bets (1200)
+maksu111 folds
+** Summary **
+Main Pot: 1800
+Board: [ 7d Ah 4c 2h  ]
+Bungals111 balance 3960, bet 2000, collected 3000, net +1000
+Yacht555 balance 2750, didn't bet (folded)
+maksu111 balance 9450, lost 800 (folded)
+t3p0s3 balance 2140, didn't bet (folded)
+Skeva84 balance 1700, lost 200 (folded)
+
+***** Hand History for Game 6394320225 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 15:12:07 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 9 is the button
+Total number of players : 5
+Seat 1: Bungals111 (3960)
+Seat 2: Yacht555 (2750)
+Seat 5: maksu111 (9450)
+Seat 6: t3p0s3 (2140)
+Seat 9: Skeva84 (1700)
+Bungals111  posts small blind (200)
+Yacht555  posts big blind (400)
+** Dealing down cards **
+maksu111 folds
+t3p0s3 raises (2140) to 2140
+t3p0s3 is all-In.
+Skeva84 folds
+Bungals111 folds
+Yacht555 folds
+Creating Main Pot with $1000 with t3p0s3
+** Summary **
+Main Pot: 1000
+Bungals111 balance 3760, lost 200 (folded)
+Yacht555 balance 2350, lost 400 (folded)
+maksu111 balance 9450, didn't bet (folded)
+t3p0s3 balance 2740, bet 2140, collected 2740, net +600
+Skeva84 balance 1700, didn't bet (folded)
+
+***** Hand History for Game 6394321188 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 15:12:24 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 1 is the button
+Total number of players : 5
+Seat 1: Bungals111 (3760)
+Seat 2: Yacht555 (2350)
+Seat 5: maksu111 (9450)
+Seat 6: t3p0s3 (2740)
+Seat 9: Skeva84 (1700)
+Yacht555  posts small blind (200)
+maksu111  posts big blind (400)
+** Dealing down cards **
+t3p0s3 folds
+Skeva84 folds
+Bungals111 folds
+Yacht555 folds
+** Summary **
+Main Pot: 400
+Bungals111 balance 3760, didn't bet (folded)
+Yacht555 balance 2150, lost 200 (folded)
+maksu111 balance 9650, bet 400, collected 600, net +200
+t3p0s3 balance 2740, didn't bet (folded)
+Skeva84 balance 1700, didn't bet (folded)
+
+***** Hand History for Game 6394321719 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 15:12:32 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 2 is the button
+Total number of players : 5
+Seat 1: Bungals111 (3760)
+Seat 2: Yacht555 (2150)
+Seat 5: maksu111 (9650)
+Seat 6: t3p0s3 (2740)
+Seat 9: Skeva84 (1700)
+maksu111  posts small blind (200)
+t3p0s3  posts big blind (400)
+** Dealing down cards **
+Skeva84 folds
+Bungals111 raises (1200) to 1200
+Yacht555 folds
+maksu111 folds
+t3p0s3 folds
+** Summary **
+Main Pot: 1000
+Bungals111 balance 4360, bet 1200, collected 1800, net +600
+Yacht555 balance 2150, didn't bet (folded)
+maksu111 balance 9450, lost 200 (folded)
+t3p0s3 balance 2340, lost 400 (folded)
+Skeva84 balance 1700, didn't bet (folded)
+
+***** Hand History for Game 6394322712 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 15:12:49 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 5 is the button
+Total number of players : 5
+Seat 1: Bungals111 (4360)
+Seat 2: Yacht555 (2150)
+Seat 5: maksu111 (9450)
+Seat 6: t3p0s3 (2340)
+Seat 9: Skeva84 (1700)
+t3p0s3  posts small blind (200)
+Skeva84  posts big blind (400)
+** Dealing down cards **
+Bungals111 folds
+Yacht555 raises (2150) to 2150
+Yacht555 is all-In.
+maksu111 folds
+t3p0s3 folds
+Skeva84 folds
+Creating Main Pot with $1000 with Yacht555
+** Summary **
+Main Pot: 1000
+Bungals111 balance 4360, didn't bet (folded)
+Yacht555 balance 2750, bet 2150, collected 2750, net +600
+maksu111 balance 9450, didn't bet (folded)
+t3p0s3 balance 2140, lost 200 (folded)
+Skeva84 balance 1300, lost 400 (folded)
+
+***** Hand History for Game 6394323552 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 15:13:03 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 6 is the button
+Total number of players : 5
+Seat 1: Bungals111 (4360)
+Seat 2: Yacht555 (2750)
+Seat 5: maksu111 (9450)
+Seat 6: t3p0s3 (2140)
+Seat 9: Skeva84 (1300)
+Skeva84  posts small blind (200)
+Bungals111  posts big blind (400)
+** Dealing down cards **
+Yacht555 raises (2750) to 2750
+Yacht555 is all-In.
+maksu111 folds
+t3p0s3 folds
+Skeva84 folds
+Bungals111 folds
+Creating Main Pot with $1000 with Yacht555
+** Summary **
+Main Pot: 1000
+Bungals111 balance 3960, lost 400 (folded)
+Yacht555 balance 3350, bet 2750, collected 3350, net +600
+maksu111 balance 9450, didn't bet (folded)
+t3p0s3 balance 2140, didn't bet (folded)
+Skeva84 balance 1100, lost 200 (folded)
+
+***** Hand History for Game 6394324277 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 15:13:15 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 9 is the button
+Total number of players : 5
+Seat 1: Bungals111 (3960)
+Seat 2: Yacht555 (3350)
+Seat 5: maksu111 (9450)
+Seat 6: t3p0s3 (2140)
+Seat 9: Skeva84 (1100)
+Bungals111  posts small blind (200)
+Yacht555  posts big blind (400)
+** Dealing down cards **
+maksu111 calls (400)
+t3p0s3 folds
+Skeva84 folds
+Bungals111 calls (200)
+Yacht555 checks
+** Dealing Flop ** :  [ 3h, 8s, 4h ]
+Bungals111 checks
+Yacht555 checks
+maksu111 checks
+** Dealing Turn ** :  [ Td ]
+Bungals111 checks
+Yacht555 checks
+maksu111 checks
+** Dealing River ** :  [ 2h ]
+Bungals111 checks
+Yacht555 checks
+maksu111 checks
+** Summary **
+Main Pot: 1200
+Board: [ 3h 8s 4h Td 2h  ]
+Bungals111 balance 3560, lost 400 [ 6c Jd ] [ high card Jack -- Jd,Td,8s,6c,4h ]
+Yacht555 balance 2950, lost 400 [ Jh 7s ] [ high card Jack with Seven kicker -- Jh,Td,8s,7s,4h ]
+maksu111 balance 10250, bet 400, collected 1200, net +800 [ 6s As ] [ high card Ace -- As,Td,8s,6s,4h ]
+t3p0s3 balance 2140, didn't bet (folded)
+Skeva84 balance 1100, didn't bet (folded)
+
+***** Hand History for Game 6394326663 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 15:13:55 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 1 is the button
+Total number of players : 5
+Seat 1: Bungals111 (3560)
+Seat 2: Yacht555 (2950)
+Seat 5: maksu111 (10250)
+Seat 6: t3p0s3 (2140)
+Seat 9: Skeva84 (1100)
+Yacht555  posts small blind (200)
+maksu111  posts big blind (400)
+** Dealing down cards **
+t3p0s3 folds
+Skeva84 raises (1100) to 1100
+Skeva84 is all-In.
+Bungals111 folds
+Yacht555 calls (900)
+maksu111 calls (700)
+Creating Main Pot with $3300 with Skeva84
+** Dealing Flop ** :  [ 6d, Qs, 4s ]
+Yacht555 checks
+maksu111 checks
+** Dealing Turn ** :  [ 3s ]
+Yacht555 checks
+maksu111 bets (1200)
+Yacht555 folds
+** Dealing River ** :  [ Th ]
+** Summary **
+Main Pot: 3300
+Board: [ 6d Qs 4s 3s Th  ]
+Bungals111 balance 3560, didn't bet (folded)
+Yacht555 balance 1850, lost 1100 (folded)
+maksu111 balance 12450, bet 2300, collected 4500, net +2200 [ Jh Jc ] [ a pair of Jacks -- Qs,Jh,Jc,Th,6d ]
+t3p0s3 balance 2140, didn't bet (folded)
+Skeva84 balance 0, lost 1100 [ 8d 9d ] [ high card Queen -- Qs,Th,9d,8d,6d ]
+
+***** Hand History for Game 6394328190 *****
+Skeva84 finished in 5 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 15:14:20 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 2 is the button
+Total number of players : 4
+Seat 1: Bungals111 (3560)
+Seat 2: Yacht555 (1850)
+Seat 5: maksu111 (12450)
+Seat 6: t3p0s3 (2140)
+maksu111  posts small blind (200)
+t3p0s3  posts big blind (400)
+** Dealing down cards **
+Bungals111 folds
+Yacht555 raises (1850) to 1850
+Yacht555 is all-In.
+maksu111 folds
+t3p0s3 folds
+Creating Main Pot with $1000 with Yacht555
+** Summary **
+Main Pot: 1000
+Bungals111 balance 3560, didn't bet (folded)
+Yacht555 balance 2450, bet 1850, collected 2450, net +600
+maksu111 balance 12250, lost 200 (folded)
+t3p0s3 balance 1740, lost 400 (folded)
+
+***** Hand History for Game 6394329053 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 15:14:34 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 5 is the button
+Total number of players : 4
+Seat 1: Bungals111 (3560)
+Seat 2: Yacht555 (2450)
+Seat 5: maksu111 (12250)
+Seat 6: t3p0s3 (1740)
+t3p0s3  posts small blind (200)
+Bungals111  posts big blind (400)
+** Dealing down cards **
+Yacht555 folds
+maksu111 calls (400)
+t3p0s3 calls (200)
+Bungals111 checks
+** Dealing Flop ** :  [ 7s, 8s, Qh ]
+t3p0s3 checks
+Bungals111 checks
+maksu111 checks
+** Dealing Turn ** :  [ 7c ]
+t3p0s3 bets (400)
+Bungals111 folds
+maksu111 folds
+** Summary **
+Main Pot: 1200
+Board: [ 7s 8s Qh 7c  ]
+Bungals111 balance 3160, lost 400 (folded)
+Yacht555 balance 2450, didn't bet (folded)
+maksu111 balance 11850, lost 400 (folded)
+t3p0s3 balance 2540, bet 800, collected 1600, net +800
+
+***** Hand History for Game 6394330863 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 15:15:04 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 6 is the button
+Total number of players : 4
+Seat 1: Bungals111 (3160)
+Seat 2: Yacht555 (2450)
+Seat 5: maksu111 (11850)
+Seat 6: t3p0s3 (2540)
+Bungals111  posts small blind (200)
+Yacht555  posts big blind (400)
+** Dealing down cards **
+maksu111 folds
+t3p0s3 folds
+Bungals111 folds
+** Summary **
+Main Pot: 400
+Bungals111 balance 2960, lost 200 (folded)
+Yacht555 balance 2650, bet 400, collected 600, net +200
+maksu111 balance 11850, didn't bet (folded)
+t3p0s3 balance 2540, didn't bet (folded)
+
+***** Hand History for Game 6394331640 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 15:15:17 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 1 is the button
+Total number of players : 4
+Seat 1: Bungals111 (2960)
+Seat 2: Yacht555 (2650)
+Seat 5: maksu111 (11850)
+Seat 6: t3p0s3 (2540)
+Yacht555  posts small blind (300)
+maksu111  posts big blind (600)
+** Dealing down cards **
+t3p0s3 folds
+Bungals111 folds
+Yacht555 folds
+** Summary **
+Main Pot: 600
+Bungals111 balance 2960, didn't bet (folded)
+Yacht555 balance 2350, lost 300 (folded)
+maksu111 balance 12150, bet 600, collected 900, net +300
+t3p0s3 balance 2540, didn't bet (folded)
+
+***** Hand History for Game 6394332165 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 15:15:26 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 2 is the button
+Total number of players : 4
+Seat 1: Bungals111 (2960)
+Seat 2: Yacht555 (2350)
+Seat 5: maksu111 (12150)
+Seat 6: t3p0s3 (2540)
+maksu111  posts small blind (300)
+t3p0s3  posts big blind (600)
+** Dealing down cards **
+Bungals111 folds
+Yacht555 folds
+maksu111 folds
+** Summary **
+Main Pot: 600
+Bungals111 balance 2960, didn't bet (folded)
+Yacht555 balance 2350, didn't bet (folded)
+maksu111 balance 11850, lost 300 (folded)
+t3p0s3 balance 2840, bet 600, collected 900, net +300
+
+***** Hand History for Game 6394332970 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 15:15:39 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 5 is the button
+Total number of players : 4
+Seat 1: Bungals111 (2960)
+Seat 2: Yacht555 (2350)
+Seat 5: maksu111 (11850)
+Seat 6: t3p0s3 (2840)
+t3p0s3  posts small blind (300)
+Bungals111  posts big blind (600)
+** Dealing down cards **
+Yacht555 folds
+maksu111 folds
+t3p0s3 folds
+** Summary **
+Main Pot: 600
+Bungals111 balance 3260, bet 600, collected 900, net +300
+Yacht555 balance 2350, didn't bet (folded)
+maksu111 balance 11850, didn't bet (folded)
+t3p0s3 balance 2540, lost 300 (folded)
+
+***** Hand History for Game 6394333555 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 15:15:50 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 6 is the button
+Total number of players : 4
+Seat 1: Bungals111 (3260)
+Seat 2: Yacht555 (2350)
+Seat 5: maksu111 (11850)
+Seat 6: t3p0s3 (2540)
+Bungals111  posts small blind (300)
+Yacht555  posts big blind (600)
+** Dealing down cards **
+maksu111 folds
+t3p0s3 raises (2540) to 2540
+t3p0s3 is all-In.
+Bungals111 folds
+Yacht555 calls (1750)
+Yacht555 is all-In.
+** Dealing Flop ** :  [ 9h, 8c, 7d ]
+** Dealing Turn ** :  [ 3d ]
+** Dealing River ** :  [ 2d ]
+Creating Main Pot with $5000 with Yacht555
+** Summary **
+Main Pot: 5000
+Board: [ 9h 8c 7d 3d 2d  ]
+Bungals111 balance 2960, lost 300 (folded)
+Yacht555 balance 5000, bet 2350, collected 5000, net +2650 [ Td Jc ] [ a straight Seven to Jack -- Jc,Td,9h,8c,7d ]
+maksu111 balance 11850, didn't bet (folded)
+t3p0s3 balance 190, bet 2540, collected 190, lost -2350 [ Ac Ts ] [ high card Ace -- Ac,Ts,9h,8c,7d ]
+
+***** Hand History for Game 6394334735 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 15:16:08 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 1 is the button
+Total number of players : 4
+Seat 1: Bungals111 (2960)
+Seat 2: Yacht555 (5000)
+Seat 5: maksu111 (11850)
+Seat 6: t3p0s3 (190)
+Yacht555  posts small blind (300)
+maksu111  posts big blind (600)
+** Dealing down cards **
+t3p0s3 calls (190)
+t3p0s3 is all-In.
+Bungals111 folds
+Yacht555 calls (300)
+maksu111 raises (600) to 1200
+Yacht555 folds
+** Dealing Flop ** :  [ Ac, Ts, Td ]
+** Dealing Turn ** :  [ As ]
+** Dealing River ** :  [ 8s ]
+Creating Main Pot with $570 with t3p0s3
+** Summary **
+Main Pot: 570 | Side Pot 1: 820
+Board: [ Ac Ts Td As 8s  ]
+Bungals111 balance 2960, didn't bet (folded)
+Yacht555 balance 4400, lost 600 (folded)
+maksu111 balance 12640, bet 1200, collected 1990, net +790 [ Ah Qc ] [ a full house, Aces full of Tens -- Ah,Ac,As,Ts,Td ]
+t3p0s3 balance 0, lost 190 [ 8d Kc ] [ two pairs, Aces and Tens -- Ac,As,Kc,Ts,Td ]
+
+***** Hand History for Game 6394335657 *****
+t3p0s3 finished in 4 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 15:16:25 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 2 is the button
+Total number of players : 3
+Seat 1: Bungals111 (2960)
+Seat 2: Yacht555 (4400)
+Seat 5: maksu111 (12640)
+maksu111  posts small blind (300)
+Bungals111  posts big blind (600)
+** Dealing down cards **
+Yacht555 folds
+maksu111 folds
+** Summary **
+Main Pot: 600
+Bungals111 balance 3260, bet 600, collected 900, net +300
+Yacht555 balance 4400, didn't bet (folded)
+maksu111 balance 12340, lost 300 (folded)
+
+***** Hand History for Game 6394336334 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 15:16:35 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 5 is the button
+Total number of players : 3
+Seat 1: Bungals111 (3260)
+Seat 2: Yacht555 (4400)
+Seat 5: maksu111 (12340)
+Bungals111  posts small blind (300)
+Yacht555  posts big blind (600)
+** Dealing down cards **
+maksu111 folds
+Bungals111 calls (300)
+Yacht555 checks
+** Dealing Flop ** :  [ 5d, As, 2s ]
+Bungals111 bets (600)
+Yacht555 calls (600)
+** Dealing Turn ** :  [ 5s ]
+Bungals111 bets (1200)
+Yacht555 folds
+** Summary **
+Main Pot: 2400
+Board: [ 5d As 2s 5s  ]
+Bungals111 balance 4460, bet 2400, collected 3600, net +1200
+Yacht555 balance 3200, lost 1200 (folded)
+maksu111 balance 12340, didn't bet (folded)
+
+***** Hand History for Game 6394337912 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 15:17:02 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 1 is the button
+Total number of players : 3
+Seat 1: Bungals111 (4460)
+Seat 2: Yacht555 (3200)
+Seat 5: maksu111 (12340)
+Yacht555  posts small blind (300)
+maksu111  posts big blind (600)
+** Dealing down cards **
+Bungals111 raises (1800) to 1800
+Yacht555 folds
+maksu111 folds
+** Summary **
+Main Pot: 1500
+Bungals111 balance 5360, bet 1800, collected 2700, net +900
+Yacht555 balance 2900, lost 300 (folded)
+maksu111 balance 11740, lost 600 (folded)
+
+***** Hand History for Game 6394338713 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 15:17:15 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 2 is the button
+Total number of players : 3
+Seat 1: Bungals111 (5360)
+Seat 2: Yacht555 (2900)
+Seat 5: maksu111 (11740)
+maksu111  posts small blind (300)
+Bungals111  posts big blind (600)
+** Dealing down cards **
+Yacht555 raises (2900) to 2900
+Yacht555 is all-In.
+maksu111 folds
+Bungals111 folds
+Creating Main Pot with $1500 with Yacht555
+** Summary **
+Main Pot: 1500
+Bungals111 balance 4760, lost 600 (folded)
+Yacht555 balance 3800, bet 2900, collected 3800, net +900
+maksu111 balance 11440, lost 300 (folded)
+
+***** Hand History for Game 6394339482 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 15:17:27 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 5 is the button
+Total number of players : 3
+Seat 1: Bungals111 (4760)
+Seat 2: Yacht555 (3800)
+Seat 5: maksu111 (11440)
+Bungals111  posts small blind (300)
+Yacht555  posts big blind (600)
+** Dealing down cards **
+maksu111 folds
+Bungals111 folds
+** Summary **
+Main Pot: 600
+Bungals111 balance 4460, lost 300 (folded)
+Yacht555 balance 4100, bet 600, collected 900, net +300
+maksu111 balance 11440, didn't bet (folded)
+
+***** Hand History for Game 6394340149 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 15:17:39 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 1 is the button
+Total number of players : 3
+Seat 1: Bungals111 (4460)
+Seat 2: Yacht555 (4100)
+Seat 5: maksu111 (11440)
+Yacht555  posts small blind (300)
+maksu111  posts big blind (600)
+** Dealing down cards **
+Bungals111 folds
+Yacht555 raises (3800) to 4100
+Yacht555 is all-In.
+maksu111 calls (3500)
+** Dealing Flop ** :  [ 8h, 8d, 3h ]
+** Dealing Turn ** :  [ 6s ]
+** Dealing River ** :  [ Ac ]
+Creating Main Pot with $8200 with Yacht555
+** Summary **
+Main Pot: 8200
+Board: [ 8h 8d 3h 6s Ac  ]
+Bungals111 balance 4460, didn't bet (folded)
+Yacht555 balance 0, lost 4100 [ 9s 5s ] [ a pair of Eights -- Ac,9s,8h,8d,6s ]
+maksu111 balance 15540, bet 4100, collected 8200, net +4100 [ Ad 3d ] [ two pairs, Aces and Eights -- Ad,Ac,8h,8d,6s ]
+
+***** Hand History for Game 6394341993 *****
+Yacht555 finished in 3 place and won $20.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 15:18:09 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 5 is the button
+Total number of players : 2
+Seat 1: Bungals111 (4460)
+Seat 5: maksu111 (15540)
+maksu111  posts small blind (300)
+Bungals111  posts big blind (600)
+** Dealing down cards **
+maksu111 calls (300)
+Bungals111 checks
+** Dealing Flop ** :  [ Qh, 8c, Kh ]
+Bungals111 checks
+maksu111 bets (1800)
+Bungals111 folds
+** Summary **
+Main Pot: 1200
+Board: [ Qh 8c Kh  ]
+Bungals111 balance 3860, lost 600 (folded)
+maksu111 balance 16140, bet 2400, collected 3000, net +600
+
+***** Hand History for Game 6394343446 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 15:18:33 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 1 is the button
+Total number of players : 2
+Seat 1: Bungals111 (3860)
+Seat 5: maksu111 (16140)
+Bungals111  posts small blind (300)
+maksu111  posts big blind (600)
+** Dealing down cards **
+Bungals111 folds
+** Summary **
+Main Pot: 600
+Bungals111 balance 3560, lost 300 (folded)
+maksu111 balance 16440, bet 600, collected 900, net +300
+
+***** Hand History for Game 6394344633 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 15:18:52 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 5 is the button
+Total number of players : 2
+Seat 1: Bungals111 (3560)
+Seat 5: maksu111 (16440)
+maksu111  posts small blind (300)
+Bungals111  posts big blind (600)
+** Dealing down cards **
+maksu111 calls (300)
+Bungals111 checks
+** Dealing Flop ** :  [ Qc, Ts, Th ]
+Bungals111 checks
+maksu111 bets (1200)
+Bungals111 calls (1200)
+** Dealing Turn ** :  [ Qd ]
+Bungals111 checks
+maksu111 checks
+** Dealing River ** :  [ Kc ]
+Bungals111 bets (1760)
+Bungals111 is all-In.
+maksu111 folds
+Creating Main Pot with $3600 with Bungals111
+** Summary **
+Main Pot: 3600
+Board: [ Qc Ts Th Qd Kc  ]
+Bungals111 balance 5360, bet 3560, collected 5360, net +1800
+maksu111 balance 14640, lost 1800 (folded)
+
+***** Hand History for Game 6394347271 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 15:19:36 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 1 is the button
+Total number of players : 2
+Seat 1: Bungals111 (5360)
+Seat 5: maksu111 (14640)
+Bungals111  posts small blind (300)
+maksu111  posts big blind (600)
+** Dealing down cards **
+Bungals111 calls (300)
+maksu111 checks
+** Dealing Flop ** :  [ 2c, Jh, 8c ]
+maksu111 checks
+Bungals111 checks
+** Dealing Turn ** :  [ 5c ]
+maksu111 checks
+Bungals111 checks
+** Dealing River ** :  [ Qs ]
+maksu111 bets (1800)
+Bungals111 folds
+** Summary **
+Main Pot: 1200
+Board: [ 2c Jh 8c 5c Qs  ]
+Bungals111 balance 4760, lost 600 (folded)
+maksu111 balance 15240, bet 2400, collected 3000, net +600
+
+***** Hand History for Game 6394348892 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 15:20:02 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 5 is the button
+Total number of players : 2
+Seat 1: Bungals111 (4760)
+Seat 5: maksu111 (15240)
+maksu111  posts small blind (300)
+Bungals111  posts big blind (600)
+** Dealing down cards **
+maksu111 folds
+** Summary **
+Main Pot: 600
+Bungals111 balance 5060, bet 600, collected 900, net +300
+maksu111 balance 14940, lost 300 (folded)
+
+***** Hand History for Game 6394349282 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 15:20:09 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 1 is the button
+Total number of players : 2
+Seat 1: Bungals111 (5060)
+Seat 5: maksu111 (14940)
+Bungals111  posts small blind (300)
+maksu111  posts big blind (600)
+** Dealing down cards **
+Bungals111 calls (300)
+maksu111 raises (600) to 1200
+Bungals111 calls (600)
+** Dealing Flop ** :  [ 3c, 7d, Ad ]
+maksu111 bets (1200)
+Bungals111 folds
+** Summary **
+Main Pot: 2400
+Board: [ 3c 7d Ad  ]
+Bungals111 balance 3860, lost 1200 (folded)
+maksu111 balance 16140, bet 2400, collected 3600, net +1200
+
+***** Hand History for Game 6394351305 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 15:20:42 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 5 is the button
+Total number of players : 2
+Seat 1: Bungals111 (3860)
+Seat 5: maksu111 (16140)
+Bungals111  posts ante (25)
+maksu111  posts ante (25)
+maksu111  posts small blind (400)
+Bungals111  posts big blind (800)
+** Dealing down cards **
+maksu111 folds
+** Summary **
+Main Pot: 850
+Bungals111 balance 4285, bet 825, collected 1250, net +425
+maksu111 balance 15715, lost 425 (folded)
+
+***** Hand History for Game 6394351920 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 15:20:52 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 1 is the button
+Total number of players : 2
+Seat 1: Bungals111 (4285)
+Seat 5: maksu111 (15715)
+Bungals111  posts ante (25)
+maksu111  posts ante (25)
+Bungals111  posts small blind (400)
+maksu111  posts big blind (800)
+** Dealing down cards **
+Bungals111 calls (400)
+maksu111 checks
+** Dealing Flop ** :  [ Kh, 2s, 9c ]
+maksu111 bets (800)
+Bungals111 calls (800)
+** Dealing Turn ** :  [ 3s ]
+maksu111 bets (800)
+Bungals111 calls (800)
+** Dealing River ** :  [ Ks ]
+maksu111 bets (800)
+Bungals111 raises (1860) to 1860
+Bungals111 is all-In.
+maksu111 calls (1060)
+Creating Main Pot with $8570 with Bungals111
+** Summary **
+Main Pot: 8570
+Board: [ Kh 2s 9c 3s Ks  ]
+Bungals111 balance 8570, bet 4285, collected 8570, net +4285 [ 9h Kd ] [ a full house, Kings full of Nines -- Kd,Kh,Ks,9h,9c ]
+maksu111 balance 11430, lost 4285 [ 2h 7d ] [ two pairs, Kings and Twos -- Kh,Ks,9c,2h,2s ]
+
+***** Hand History for Game 6394354115 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 15:21:28 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 5 is the button
+Total number of players : 2
+Seat 1: Bungals111 (8570)
+Seat 5: maksu111 (11430)
+Bungals111  posts ante (25)
+maksu111  posts ante (25)
+maksu111  posts small blind (400)
+Bungals111  posts big blind (800)
+** Dealing down cards **
+maksu111 calls (400)
+Bungals111 checks
+** Dealing Flop ** :  [ 6s, 3s, Tc ]
+Bungals111 checks
+maksu111 checks
+** Dealing Turn ** :  [ 2d ]
+Bungals111 bets (800)
+maksu111 folds
+** Summary **
+Main Pot: 1650
+Board: [ 6s 3s Tc 2d  ]
+Bungals111 balance 9395, bet 1625, collected 2450, net +825
+maksu111 balance 10605, lost 825 (folded)
+
+***** Hand History for Game 6394355829 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 15:21:55 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 1 is the button
+Total number of players : 2
+Seat 1: Bungals111 (9395)
+Seat 5: maksu111 (10605)
+Bungals111  posts ante (25)
+maksu111  posts ante (25)
+Bungals111  posts small blind (400)
+maksu111  posts big blind (800)
+** Dealing down cards **
+Bungals111 calls (400)
+maksu111 checks
+** Dealing Flop ** :  [ Jc, 8c, 5c ]
+maksu111 checks
+Bungals111 bets (1600)
+maksu111 calls (1600)
+** Dealing Turn ** :  [ 2d ]
+maksu111 checks
+Bungals111 bets (4000)
+maksu111 folds
+** Summary **
+Main Pot: 4850
+Board: [ Jc 8c 5c 2d  ]
+Bungals111 balance 11820, bet 6425, collected 8850, net +2425
+maksu111 balance 8180, lost 2425 (folded)
+
+***** Hand History for Game 6394358064 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 15:22:32 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 5 is the button
+Total number of players : 2
+Seat 1: Bungals111 (11820)
+Seat 5: maksu111 (8180)
+Bungals111  posts ante (25)
+maksu111  posts ante (25)
+maksu111  posts small blind (400)
+Bungals111  posts big blind (800)
+** Dealing down cards **
+maksu111 raises (1200) to 1600
+Bungals111 calls (800)
+** Dealing Flop ** :  [ 5c, 5d, Qc ]
+Bungals111 checks
+maksu111 bets (3250)
+Bungals111 folds
+** Summary **
+Main Pot: 3250
+Board: [ 5c 5d Qc  ]
+Bungals111 balance 10195, lost 1625 (folded)
+maksu111 balance 9805, bet 4875, collected 6500, net +1625
+
+***** Hand History for Game 6394360627 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 15:23:14 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 1 is the button
+Total number of players : 2
+Seat 1: Bungals111 (10195)
+Seat 5: maksu111 (9805)
+Bungals111  posts ante (25)
+maksu111  posts ante (25)
+Bungals111  posts small blind (400)
+maksu111  posts big blind (800)
+** Dealing down cards **
+Bungals111 calls (400)
+maksu111 checks
+** Dealing Flop ** :  [ Td, Qc, Th ]
+maksu111 checks
+Bungals111 bets (800)
+maksu111 folds
+** Summary **
+Main Pot: 1650
+Board: [ Td Qc Th  ]
+Bungals111 balance 11020, bet 1625, collected 2450, net +825
+maksu111 balance 8980, lost 825 (folded)
+
+***** Hand History for Game 6394361897 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 15:23:34 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 5 is the button
+Total number of players : 2
+Seat 1: Bungals111 (11020)
+Seat 5: maksu111 (8980)
+Bungals111  posts ante (25)
+maksu111  posts ante (25)
+maksu111  posts small blind (400)
+Bungals111  posts big blind (800)
+** Dealing down cards **
+maksu111 calls (400)
+Bungals111 checks
+** Dealing Flop ** :  [ 6c, Kh, Th ]
+Bungals111 bets (800)
+maksu111 folds
+** Summary **
+Main Pot: 1650
+Board: [ 6c Kh Th  ]
+Bungals111 balance 11845, bet 1625, collected 2450, net +825
+maksu111 balance 8155, lost 825 (folded)
+
+***** Hand History for Game 6394362822 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 15:23:50 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 1 is the button
+Total number of players : 2
+Seat 1: Bungals111 (11845)
+Seat 5: maksu111 (8155)
+Bungals111  posts ante (25)
+maksu111  posts ante (25)
+Bungals111  posts small blind (400)
+maksu111  posts big blind (800)
+** Dealing down cards **
+Bungals111 calls (400)
+maksu111 checks
+** Dealing Flop ** :  [ 4c, 5s, 3c ]
+maksu111 checks
+Bungals111 checks
+** Dealing Turn ** :  [ Ac ]
+maksu111 checks
+Bungals111 checks
+** Dealing River ** :  [ 7d ]
+maksu111 checks
+Bungals111 checks
+** Summary **
+Main Pot: 1650
+Board: [ 4c 5s 3c Ac 7d  ]
+Bungals111 balance 12670, bet 825, collected 1650, net +825 [ Jh Th ] [ high card Ace with Jack kicker -- Ac,Jh,Th,7d,5s ]
+maksu111 balance 7330, lost 825 [ Ts 8h ] [ high card Ace -- Ac,Ts,8h,7d,5s ]
+
+***** Hand History for Game 6394364054 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 15:24:11 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 5 is the button
+Total number of players : 2
+Seat 1: Bungals111 (12670)
+Seat 5: maksu111 (7330)
+Bungals111  posts ante (25)
+maksu111  posts ante (25)
+maksu111  posts small blind (400)
+Bungals111  posts big blind (800)
+** Dealing down cards **
+maksu111 folds
+** Summary **
+Main Pot: 850
+Bungals111 balance 13095, bet 825, collected 1250, net +425
+maksu111 balance 6905, lost 425 (folded)
+
+***** Hand History for Game 6394364533 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 15:24:18 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 1 is the button
+Total number of players : 2
+Seat 1: Bungals111 (13095)
+Seat 5: maksu111 (6905)
+Bungals111  posts ante (25)
+maksu111  posts ante (25)
+Bungals111  posts small blind (400)
+maksu111  posts big blind (800)
+** Dealing down cards **
+Bungals111 calls (400)
+maksu111 checks
+** Dealing Flop ** :  [ Kd, Qd, 8h ]
+maksu111 checks
+Bungals111 checks
+** Dealing Turn ** :  [ 3d ]
+maksu111 checks
+Bungals111 bets (800)
+maksu111 calls (800)
+** Dealing River ** :  [ Jd ]
+maksu111 checks
+Bungals111 bets (2400)
+maksu111 calls (2400)
+** Summary **
+Main Pot: 8050
+Board: [ Kd Qd 8h 3d Jd  ]
+Bungals111 balance 9070, lost 4025 [ 6h Jh ] [ a pair of Jacks -- Kd,Qd,Jh,Jd,8h ]
+maksu111 balance 10930, bet 4025, collected 8050, net +4025 [ 5d Ah ] [ a flush, King high -- Kd,Qd,Jd,5d,3d ]
+
+***** Hand History for Game 6394366379 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 15:24:49 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 5 is the button
+Total number of players : 2
+Seat 1: Bungals111 (9070)
+Seat 5: maksu111 (10930)
+Bungals111  posts ante (25)
+maksu111  posts ante (25)
+maksu111  posts small blind (400)
+Bungals111  posts big blind (800)
+** Dealing down cards **
+maksu111 folds
+** Summary **
+Main Pot: 850
+Bungals111 balance 9495, bet 825, collected 1250, net +425
+maksu111 balance 10505, lost 425 (folded)
+
+***** Hand History for Game 6394366864 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 15:24:57 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 1 is the button
+Total number of players : 2
+Seat 1: Bungals111 (9495)
+Seat 5: maksu111 (10505)
+Bungals111  posts ante (25)
+maksu111  posts ante (25)
+Bungals111  posts small blind (400)
+maksu111  posts big blind (800)
+** Dealing down cards **
+Bungals111 raises (2000) to 2400
+maksu111 calls (1600)
+** Dealing Flop ** :  [ 3s, 8h, 2d ]
+maksu111 bets (4800)
+Bungals111 raises (7070) to 7070
+Bungals111 is all-In.
+maksu111 calls (2270)
+** Dealing Turn ** :  [ Qd ]
+** Dealing River ** :  [ 6c ]
+Creating Main Pot with $18990 with Bungals111
+** Summary **
+Main Pot: 18990
+Board: [ 3s 8h 2d Qd 6c  ]
+Bungals111 balance 18990, bet 9495, collected 18990, net +9495 [ 7h 7s ] [ a pair of Sevens -- Qd,8h,7h,7s,6c ]
+maksu111 balance 1010, lost 9495 [ 3d Ad ] [ a pair of Threes -- Ad,Qd,8h,3d,3s ]
+
+***** Hand History for Game 6394369010 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 15:25:31 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 5 is the button
+Total number of players : 2
+Seat 1: Bungals111 (18990)
+Seat 5: maksu111 (1010)
+Bungals111  posts ante (25)
+maksu111  posts ante (25)
+maksu111  posts small blind (400)
+Bungals111  posts big blind (800)
+** Dealing down cards **
+maksu111 raises (585) to 985
+maksu111 is all-In.
+Bungals111 calls (185)
+** Dealing Flop ** :  [ Ah, Kc, 8c ]
+** Dealing Turn ** :  [ 2c ]
+** Dealing River ** :  [ 3h ]
+Creating Main Pot with $2020 with maksu111
+** Summary **
+Main Pot: 2020
+Board: [ Ah Kc 8c 2c 3h  ]
+Bungals111 balance 17980, lost 1010 [ Jd 5d ] [ high card Ace -- Ah,Kc,Jd,8c,5d ]
+maksu111 balance 2020, bet 1010, collected 2020, net +1010 [ 7h Ac ] [ a pair of Aces -- Ac,Ah,Kc,8c,7h ]
+
+***** Hand History for Game 6394369844 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 15:25:45 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 1 is the button
+Total number of players : 2
+Seat 1: Bungals111 (17980)
+Seat 5: maksu111 (2020)
+Bungals111  posts ante (50)
+maksu111  posts ante (50)
+Bungals111  posts small blind (600)
+maksu111  posts big blind (1200)
+** Dealing down cards **
+Bungals111 raises (1800) to 2400
+maksu111 calls (770)
+maksu111 is all-In.
+** Dealing Flop ** :  [ 3d, Qh, Ts ]
+** Dealing Turn ** :  [ Th ]
+** Dealing River ** :  [ 5d ]
+Creating Main Pot with $4040 with maksu111
+** Summary **
+Main Pot: 4040
+Board: [ 3d Qh Ts Th 5d  ]
+Bungals111 balance 15960, bet 2450, collected 430, lost -2020 [ Ac Ks ] [ a pair of Tens -- Ac,Ks,Qh,Ts,Th ]
+maksu111 balance 4040, bet 2020, collected 4040, net +2020 [ 7c 7s ] [ two pairs, Tens and Sevens -- Qh,Ts,Th,7c,7s ]
+
+***** Hand History for Game 6394370698 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 15:26:00 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 5 is the button
+Total number of players : 2
+Seat 1: Bungals111 (15960)
+Seat 5: maksu111 (4040)
+Bungals111  posts ante (50)
+maksu111  posts ante (50)
+maksu111  posts small blind (600)
+Bungals111  posts big blind (1200)
+** Dealing down cards **
+maksu111 folds
+** Summary **
+Main Pot: 1300
+Bungals111 balance 16610, bet 1250, collected 1900, net +650
+maksu111 balance 3390, lost 650 (folded)
+
+***** Hand History for Game 6394371386 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 15:26:11 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 1 is the button
+Total number of players : 2
+Seat 1: Bungals111 (16610)
+Seat 5: maksu111 (3390)
+Bungals111  posts ante (50)
+maksu111  posts ante (50)
+Bungals111  posts small blind (600)
+maksu111  posts big blind (1200)
+** Dealing down cards **
+Bungals111 calls (600)
+maksu111 checks
+** Dealing Flop ** :  [ Jd, 6s, Ks ]
+maksu111 checks
+Bungals111 bets (1200)
+maksu111 folds
+** Summary **
+Main Pot: 2500
+Board: [ Jd 6s Ks  ]
+Bungals111 balance 17860, bet 2450, collected 3700, net +1250
+maksu111 balance 2140, lost 1250 (folded)
+
+***** Hand History for Game 6394372412 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 15:26:28 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 5 is the button
+Total number of players : 2
+Seat 1: Bungals111 (17860)
+Seat 5: maksu111 (2140)
+Bungals111  posts ante (50)
+maksu111  posts ante (50)
+maksu111  posts small blind (600)
+Bungals111  posts big blind (1200)
+** Dealing down cards **
+maksu111 raises (1490) to 2090
+maksu111 is all-In.
+Bungals111 calls (890)
+** Dealing Flop ** :  [ Ad, 2d, Ks ]
+** Dealing Turn ** :  [ Ac ]
+** Dealing River ** :  [ Qd ]
+Creating Main Pot with $4280 with maksu111
+** Summary **
+Main Pot: 4280
+Board: [ Ad 2d Ks Ac Qd  ]
+Bungals111 balance 15720, lost 2140 [ Jh 6s ] [ a pair of Aces -- Ad,Ac,Ks,Qd,Jh ]
+maksu111 balance 4280, bet 2140, collected 4280, net +2140 [ Kh 4c ] [ two pairs, Aces and Kings -- Ad,Ac,Kh,Ks,Qd ]
+
+***** Hand History for Game 6394373272 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 35974068)  -  Mon Oct 08 15:26:42 EDT 2007
+Table Speed 1330111 (Real Money) -- Seat 1 is the button
+Total number of players : 2
+Seat 1: Bungals111 (15720)
+Seat 5: maksu111 (4280)
+Bungals111  posts ante (50)
+maksu111  posts ante (50)
+Bungals111  posts small blind (600)
+maksu111  posts big blind (1200)
+** Dealing down cards **
+Bungals111 raises (3000) to 3600
+maksu111 raises (3030) to 4230
+maksu111 is all-In.
+Bungals111 calls (630)
+** Dealing Flop ** :  [ 9s, 3c, Qc ]
+** Dealing Turn ** :  [ 5h ]
+** Dealing River ** :  [ Th ]
+Creating Main Pot with $8560 with maksu111
+** Summary **
+Main Pot: 8560
+Board: [ 9s 3c Qc 5h Th  ]
+Bungals111 balance 20000, bet 4280, collected 8560, net +4280 [ Jd Kh ] [ a straight Nine to King -- Kh,Qc,Jd,Th,9s ]
+maksu111 balance 0, lost 4280 [ Jc Jh ] [ a pair of Jacks -- Qc,Jc,Jh,Th,9s ]
+
+
+

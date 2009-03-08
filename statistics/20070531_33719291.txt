@@ -1,0 +1,2458 @@
+
+Hello hatoka,
+These hand histories are provided to you as an aid for your training and development. You are not permitted to share them with anyone.  We reserve the right to cease providing them or apply further restrictions at any time.
+Complete hand histories are only available to players that participated in the hand.
+You requested a transcript of Tournament #33719291.
+
+Summary
+----------
+Played on    : 31 May 2007 02:43 PM
+On Table     : Speed #1329983
+Game Type    : Texas Holdem
+Buy-In       : $5
+Fee          : $1
+You finished in  position 5
+1st place - Lets_Gamble_TAG -  $25
+2nd place - Sular75 -  $15
+3rd place - ClubS0da -  $10
+
+***** Hand History for Game 6020407541 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719291)  - Thu May 31 14:44:01 EDT 2007
+Table Speed 1329983 (Real Money) -- Seat 4 is the button
+Total number of players : 10
+Seat 1: Basti___239 (2000)
+Seat 2: Lewkem (2000)
+Seat 3: Riolomaldo (2000)
+Seat 4: antonduck (2000)
+Seat 5: ClubS0da (2000)
+Seat 6: JackHeizer (2000)
+Seat 7: hatoka (2000)
+Seat 8: Sular75 (2000)
+Seat 9: sub_luca (2000)
+Seat 10: Lets_Gamble_TAG (2000)
+ClubS0da  posts small blind (20)
+JackHeizer  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 2s, Jd ]
+hatoka folds.
+Sular75 calls (40)
+sub_luca folds.
+Lets_Gamble_TAG folds.
+Basti___239 folds.
+Lewkem calls (40)
+Riolomaldo calls (40)
+antonduck folds.
+ClubS0da calls (20)
+JackHeizer checks.
+** Dealing Flop ** :  [ 9s, 8h, As ]
+ClubS0da checks.
+JackHeizer checks.
+Sular75 checks.
+Lewkem bets (40)
+Riolomaldo calls (40)
+ClubS0da folds.
+JackHeizer folds.
+Sular75 calls (40)
+** Dealing Turn ** :  [ Qd ]
+Sular75 checks.
+Lewkem bets (120)
+Riolomaldo calls (120)
+Sular75 folds.
+** Dealing River ** :  [ Tc ]
+Lewkem checks.
+Riolomaldo checks.
+** Summary **
+Main Pot: 560
+Board: [ 9s 8h As Qd Tc  ]
+
+Basti___239 balance 2000, didn't bet (folded)
+Lewkem balance 2360, bet 200, collected 560, net +360 [ Ah 9d ] [ two pairs, Aces and Nines -- Ah,As,Qd,9d,9s ]
+Riolomaldo balance 1800, lost 200 [ 2d Ad ] [ a pair of Aces -- Ad,As,Qd,Tc,9s ]
+
+antonduck balance 2000, didn't bet (folded)
+ClubS0da balance 1960, lost 40 (folded)
+JackHeizer balance 1960, lost 40 (folded)
+hatoka balance 2000, didn't bet (folded)
+Sular75 balance 1920, lost 80 (folded)
+sub_luca balance 2000, didn't bet (folded)
+Lets_Gamble_TAG balance 2000, didn't bet (folded)
+
+***** Hand History for Game 6020412508 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719291)  - Thu May 31 14:45:26 EDT 2007
+Table Speed 1329983 (Real Money) -- Seat 5 is the button
+Total number of players : 10
+Seat 1: Basti___239 (2000)
+Seat 2: Lewkem (2360)
+Seat 3: Riolomaldo (1800)
+Seat 4: antonduck (2000)
+Seat 5: ClubS0da (1960)
+Seat 6: JackHeizer (1960)
+Seat 7: hatoka (2000)
+Seat 8: Sular75 (1920)
+Seat 9: sub_luca (2000)
+Seat 10: Lets_Gamble_TAG (2000)
+JackHeizer  posts small blind (20)
+hatoka  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ Kh, Jc ]
+Sular75 calls (40)
+sub_luca folds.
+Lets_Gamble_TAG folds.
+Basti___239 could not respond in time.(disconnected)
+Basti___239 folds.
+Lewkem calls (40)
+Riolomaldo folds.
+antonduck calls (40)
+ClubS0da folds.
+JackHeizer calls (20)
+hatoka checks.
+** Dealing Flop ** :  [ 3d, 7h, Qh ]
+JackHeizer checks.
+hatoka checks.
+Sular75 bets (80)
+Lewkem calls (80)
+antonduck calls (80)
+JackHeizer folds.
+hatoka folds.
+** Dealing Turn ** :  [ 4h ]
+Sular75 bets (120)
+Lewkem calls (120)
+antonduck calls (120)
+** Dealing River ** :  [ 9d ]
+Sular75 checks.
+Lewkem bets (480)
+antonduck calls (480)
+Sular75 folds.
+** Summary **
+Main Pot: 1760
+Board: [ 3d 7h Qh 4h 9d  ]
+
+Basti___239 balance 2000, didn't bet (folded)
+Lewkem balance 3400, bet 720, collected 1760, net +1040 [ Jh Th ] [ a flush, Queen high -- Qh,Jh,Th,7h,4h ]
+Riolomaldo balance 1800, didn't bet (folded)
+antonduck balance 1280, lost 720 [ Qc 9c ] [ two pairs, Queens and Nines -- Qc,Qh,9c,9d,7h ]
+
+ClubS0da balance 1960, didn't bet (folded)
+JackHeizer balance 1920, lost 40 (folded)
+hatoka balance 1960, lost 40 (folded)
+Sular75 balance 1680, lost 240 (folded)
+sub_luca balance 2000, didn't bet (folded)
+Lets_Gamble_TAG balance 2000, didn't bet (folded)
+
+***** Hand History for Game 6020418496 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719291)  - Thu May 31 14:47:10 EDT 2007
+Table Speed 1329983 (Real Money) -- Seat 6 is the button
+Total number of players : 10
+Seat 1: Basti___239 (2000)
+Seat 2: Lewkem (3400)
+Seat 3: Riolomaldo (1800)
+Seat 4: antonduck (1280)
+Seat 5: ClubS0da (1960)
+Seat 6: JackHeizer (1920)
+Seat 7: hatoka (1960)
+Seat 8: Sular75 (1680)
+Seat 9: sub_luca (2000)
+Seat 10: Lets_Gamble_TAG (2000)
+hatoka  posts small blind (20)
+Sular75  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ Td, 3d ]
+sub_luca folds.
+Lets_Gamble_TAG folds.
+Basti___239 folds.
+Lewkem folds.
+Riolomaldo folds.
+antonduck raises (80) to 80
+ClubS0da calls (80)
+JackHeizer calls (80)
+hatoka folds.
+Sular75 folds.
+** Dealing Flop ** :  [ 9h, 8d, Jh ]
+antonduck bets (80)
+ClubS0da raises (240) to 240
+JackHeizer calls (240)
+antonduck folds.
+** Dealing Turn ** :  [ Jc ]
+ClubS0da bets (400)
+JackHeizer raises (800) to 800
+ClubS0da raises (1200) to 1600
+JackHeizer calls (800)
+JackHeizer is all-In.
+** Dealing River ** :  [ 6s ]
+Creating Main Pot with $4060 with JackHeizer
+** Summary **
+Main Pot: 4060
+Board: [ 9h 8d Jh Jc 6s  ]
+
+Basti___239 balance 2000, didn't bet (folded)
+Lewkem balance 3400, didn't bet (folded)
+Riolomaldo balance 1800, didn't bet (folded)
+antonduck balance 1120, lost 160 (folded)
+ClubS0da balance 4100, bet 1920, collected 4060, net +2140 [ Ac Js ] [ three of a kind, Jacks with Ace kicker -- Ac,Js,Jh,Jc,9h ]
+JackHeizer balance 0, lost 1920 [ Kh Jd ] [ three of a kind, Jacks -- Kh,Jd,Jh,Jc,9h ]
+hatoka balance 1940, lost 20 (folded)
+Sular75 balance 1640, lost 40 (folded)
+sub_luca balance 2000, didn't bet (folded)
+Lets_Gamble_TAG balance 2000, didn't bet (folded)
+
+***** Hand History for Game 6020422218 *****
+JackHeizer finished in 10 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719291)  - Thu May 31 14:48:13 EDT 2007
+Table Speed 1329983 (Real Money) -- Seat 7 is the button
+Total number of players : 9
+Seat 1: Basti___239 (2000)
+Seat 2: Lewkem (3400)
+Seat 3: Riolomaldo (1800)
+Seat 4: antonduck (1120)
+Seat 5: ClubS0da (4100)
+Seat 7: hatoka (1940)
+Seat 8: Sular75 (1640)
+Seat 9: sub_luca (2000)
+Seat 10: Lets_Gamble_TAG (2000)
+Sular75  posts small blind (20)
+sub_luca  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ Qc, 7h ]
+Lets_Gamble_TAG folds.
+Basti___239 folds.
+Lewkem folds.
+Riolomaldo folds.
+antonduck calls (40)
+ClubS0da folds.
+hatoka folds.
+Sular75 calls (20)
+sub_luca checks.
+** Dealing Flop ** :  [ 8h, Ks, Td ]
+Sular75 checks.
+sub_luca checks.
+antonduck bets (120)
+Sular75 calls (120)
+sub_luca folds.
+** Dealing Turn ** :  [ 2h ]
+Sular75 checks.
+antonduck bets (120)
+Sular75 folds.
+** Summary **
+Main Pot: 360
+Board: [ 8h Ks Td 2h  ]
+
+Basti___239 balance 2000, didn't bet (folded)
+Lewkem balance 3400, didn't bet (folded)
+Riolomaldo balance 1800, didn't bet (folded)
+antonduck balance 1320, bet 280, collected 480, net +200
+ClubS0da balance 4100, didn't bet (folded)
+hatoka balance 1940, didn't bet (folded)
+Sular75 balance 1480, lost 160 (folded)
+sub_luca balance 1960, lost 40 (folded)
+Lets_Gamble_TAG balance 2000, didn't bet (folded)
+
+***** Hand History for Game 6020426219 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719291)  - Thu May 31 14:49:20 EDT 2007
+Table Speed 1329983 (Real Money) -- Seat 8 is the button
+Total number of players : 9
+Seat 1: Basti___239 (2000)
+Seat 2: Lewkem (3400)
+Seat 3: Riolomaldo (1800)
+Seat 4: antonduck (1320)
+Seat 5: ClubS0da (4100)
+Seat 7: hatoka (1940)
+Seat 8: Sular75 (1480)
+Seat 9: sub_luca (1960)
+Seat 10: Lets_Gamble_TAG (2000)
+sub_luca  posts small blind (30)
+Lets_Gamble_TAG  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Ts, 6c ]
+Basti___239 folds.
+Lewkem folds.
+Riolomaldo folds.
+antonduck folds.
+ClubS0da raises (180) to 180
+hatoka folds.
+Sular75 folds.
+sub_luca calls (150)
+Lets_Gamble_TAG folds.
+** Dealing Flop ** :  [ Qs, 7s, 6d ]
+sub_luca checks.
+ClubS0da bets (300)
+sub_luca folds.
+** Summary **
+Main Pot: 420
+Board: [ Qs 7s 6d  ]
+
+Basti___239 balance 2000, didn't bet (folded)
+Lewkem balance 3400, didn't bet (folded)
+Riolomaldo balance 1800, didn't bet (folded)
+antonduck balance 1320, didn't bet (folded)
+ClubS0da balance 4340, bet 480, collected 720, net +240
+hatoka balance 1940, didn't bet (folded)
+Sular75 balance 1480, didn't bet (folded)
+sub_luca balance 1780, lost 180 (folded)
+Lets_Gamble_TAG balance 1940, lost 60 (folded)
+
+***** Hand History for Game 6020428220 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719291)  - Thu May 31 14:49:54 EDT 2007
+Table Speed 1329983 (Real Money) -- Seat 9 is the button
+Total number of players : 9
+Seat 1: Basti___239 (2000)
+Seat 2: Lewkem (3400)
+Seat 3: Riolomaldo (1800)
+Seat 4: antonduck (1320)
+Seat 5: ClubS0da (4340)
+Seat 7: hatoka (1940)
+Seat 8: Sular75 (1480)
+Seat 9: sub_luca (1780)
+Seat 10: Lets_Gamble_TAG (1940)
+Lets_Gamble_TAG  posts small blind (30)
+Basti___239  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Jh, 5d ]
+Lewkem folds.
+Riolomaldo calls (60)
+antonduck folds.
+ClubS0da folds.
+hatoka folds.
+Sular75 folds.
+sub_luca folds.
+Lets_Gamble_TAG folds.
+Basti___239 checks.
+** Dealing Flop ** :  [ 4c, Ac, As ]
+Basti___239 bets (60)
+Riolomaldo folds.
+** Summary **
+Main Pot: 150
+Board: [ 4c Ac As  ]
+
+Basti___239 balance 2090, bet 120, collected 210, net +90
+Lewkem balance 3400, didn't bet (folded)
+Riolomaldo balance 1740, lost 60 (folded)
+antonduck balance 1320, didn't bet (folded)
+ClubS0da balance 4340, didn't bet (folded)
+hatoka balance 1940, didn't bet (folded)
+Sular75 balance 1480, didn't bet (folded)
+sub_luca balance 1780, didn't bet (folded)
+Lets_Gamble_TAG balance 1910, lost 30 (folded)
+
+***** Hand History for Game 6020429776 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719291)  - Thu May 31 14:50:21 EDT 2007
+Table Speed 1329983 (Real Money) -- Seat 10 is the button
+Total number of players : 9
+Seat 1: Basti___239 (2090)
+Seat 2: Lewkem (3400)
+Seat 3: Riolomaldo (1740)
+Seat 4: antonduck (1320)
+Seat 5: ClubS0da (4340)
+Seat 7: hatoka (1940)
+Seat 8: Sular75 (1480)
+Seat 9: sub_luca (1780)
+Seat 10: Lets_Gamble_TAG (1910)
+Basti___239  posts small blind (30)
+Lewkem  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 8s, 2h ]
+Riolomaldo raises (180) to 180
+antonduck folds.
+ClubS0da folds.
+hatoka folds.
+Sular75 folds.
+sub_luca calls (180)
+Lets_Gamble_TAG folds.
+Basti___239 folds.
+Lewkem calls (120)
+** Dealing Flop ** :  [ 6s, Ks, 6c ]
+Lewkem checks.
+Riolomaldo bets (570)
+sub_luca folds.
+Lewkem folds.
+** Summary **
+Main Pot: 570
+Board: [ 6s Ks 6c  ]
+
+Basti___239 balance 2060, lost 30 (folded)
+Lewkem balance 3220, lost 180 (folded)
+Riolomaldo balance 2130, bet 750, collected 1140, net +390
+antonduck balance 1320, didn't bet (folded)
+ClubS0da balance 4340, didn't bet (folded)
+hatoka balance 1940, didn't bet (folded)
+Sular75 balance 1480, didn't bet (folded)
+sub_luca balance 1600, lost 180 (folded)
+Lets_Gamble_TAG balance 1910, didn't bet (folded)
+
+***** Hand History for Game 6020431685 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719291)  - Thu May 31 14:50:53 EDT 2007
+Table Speed 1329983 (Real Money) -- Seat 1 is the button
+Total number of players : 9
+Seat 1: Basti___239 (2060)
+Seat 2: Lewkem (3220)
+Seat 3: Riolomaldo (2130)
+Seat 4: antonduck (1320)
+Seat 5: ClubS0da (4340)
+Seat 7: hatoka (1940)
+Seat 8: Sular75 (1480)
+Seat 9: sub_luca (1600)
+Seat 10: Lets_Gamble_TAG (1910)
+Lewkem  posts small blind (30)
+Riolomaldo  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 7s, 6d ]
+antonduck folds.
+ClubS0da calls (60)
+hatoka folds.
+Sular75 folds.
+sub_luca raises (240) to 240
+Lets_Gamble_TAG folds.
+Basti___239 folds.
+Lewkem folds.
+Riolomaldo folds.
+ClubS0da folds.
+** Summary **
+Main Pot: 210
+
+Basti___239 balance 2060, didn't bet (folded)
+Lewkem balance 3190, lost 30 (folded)
+Riolomaldo balance 2070, lost 60 (folded)
+antonduck balance 1320, didn't bet (folded)
+ClubS0da balance 4280, lost 60 (folded)
+hatoka balance 1940, didn't bet (folded)
+Sular75 balance 1480, didn't bet (folded)
+sub_luca balance 1750, bet 240, collected 390, net +150
+Lets_Gamble_TAG balance 1910, didn't bet (folded)
+
+***** Hand History for Game 6020433202 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719291)  - Thu May 31 14:51:19 EDT 2007
+Table Speed 1329983 (Real Money) -- Seat 2 is the button
+Total number of players : 9
+Seat 1: Basti___239 (2060)
+Seat 2: Lewkem (3190)
+Seat 3: Riolomaldo (2070)
+Seat 4: antonduck (1320)
+Seat 5: ClubS0da (4280)
+Seat 7: hatoka (1940)
+Seat 8: Sular75 (1480)
+Seat 9: sub_luca (1750)
+Seat 10: Lets_Gamble_TAG (1910)
+Riolomaldo  posts small blind (30)
+antonduck  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Ts, Jd ]
+ClubS0da folds.
+hatoka raises (180) to 180
+Sular75 folds.
+sub_luca folds.
+Lets_Gamble_TAG folds.
+Basti___239 folds.
+Lewkem folds.
+Riolomaldo folds.
+antonduck calls (120)
+** Dealing Flop ** :  [ Js, Qd, 6c ]
+antonduck bets (180)
+hatoka raises (360) to 360
+antonduck calls (180)
+** Dealing Turn ** :  [ 8c ]
+antonduck checks.
+hatoka bets (1110)
+antonduck folds.
+** Summary **
+Main Pot: 1110
+Board: [ Js Qd 6c 8c  ]
+
+Basti___239 balance 2060, didn't bet (folded)
+Lewkem balance 3190, didn't bet (folded)
+Riolomaldo balance 2040, lost 30 (folded)
+antonduck balance 780, lost 540 (folded)
+ClubS0da balance 4280, didn't bet (folded)
+hatoka balance 2510, bet 1650, collected 2220, net +570
+Sular75 balance 1480, didn't bet (folded)
+sub_luca balance 1750, didn't bet (folded)
+Lets_Gamble_TAG balance 1910, didn't bet (folded)
+
+***** Hand History for Game 6020436871 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719291)  - Thu May 31 14:52:19 EDT 2007
+Table Speed 1329983 (Real Money) -- Seat 3 is the button
+Total number of players : 9
+Seat 1: Basti___239 (2060)
+Seat 2: Lewkem (3190)
+Seat 3: Riolomaldo (2040)
+Seat 4: antonduck (780)
+Seat 5: ClubS0da (4280)
+Seat 7: hatoka (2510)
+Seat 8: Sular75 (1480)
+Seat 9: sub_luca (1750)
+Seat 10: Lets_Gamble_TAG (1910)
+antonduck  posts small blind (30)
+ClubS0da  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 5h, 2d ]
+hatoka folds.
+Sular75 calls (60)
+sub_luca folds.
+Lets_Gamble_TAG folds.
+Basti___239 folds.
+Lewkem calls (60)
+Riolomaldo calls (60)
+antonduck calls (30)
+ClubS0da checks.
+** Dealing Flop ** :  [ 3h, 5s, 7c ]
+antonduck checks.
+ClubS0da checks.
+Sular75 checks.
+Lewkem bets (180)
+Riolomaldo raises (480) to 480
+antonduck folds.
+ClubS0da folds.
+Sular75 folds.
+Lewkem folds.
+** Summary **
+Main Pot: 660
+Board: [ 3h 5s 7c  ]
+
+Basti___239 balance 2060, didn't bet (folded)
+Lewkem balance 2950, lost 240 (folded)
+Riolomaldo balance 2460, bet 540, collected 960, net +420
+antonduck balance 720, lost 60 (folded)
+ClubS0da balance 4220, lost 60 (folded)
+hatoka balance 2510, didn't bet (folded)
+Sular75 balance 1420, lost 60 (folded)
+sub_luca balance 1750, didn't bet (folded)
+Lets_Gamble_TAG balance 1910, didn't bet (folded)
+
+***** Hand History for Game 6020440514 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719291)  - Thu May 31 14:53:20 EDT 2007
+Table Speed 1329983 (Real Money) -- Seat 4 is the button
+Total number of players : 9
+Seat 1: Basti___239 (2060)
+Seat 2: Lewkem (2950)
+Seat 3: Riolomaldo (2460)
+Seat 4: antonduck (720)
+Seat 5: ClubS0da (4220)
+Seat 7: hatoka (2510)
+Seat 8: Sular75 (1420)
+Seat 9: sub_luca (1750)
+Seat 10: Lets_Gamble_TAG (1910)
+ClubS0da  posts small blind (30)
+hatoka  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 4s, 3s ]
+Sular75 calls (60)
+sub_luca folds.
+Lets_Gamble_TAG raises (240) to 240
+Basti___239 folds.
+Lewkem calls (240)
+Riolomaldo folds.
+antonduck folds.
+ClubS0da folds.
+hatoka folds.
+Sular75 calls (180)
+** Dealing Flop ** :  [ Qs, Qh, Ac ]
+Sular75 checks.
+Lets_Gamble_TAG bets (420)
+Lewkem calls (420)
+Sular75 calls (420)
+** Dealing Turn ** :  [ 9s ]
+Sular75 checks.
+Lets_Gamble_TAG checks.
+Lewkem bets (780)
+Sular75 calls (760)
+Sular75 is all-In.
+Lets_Gamble_TAG calls (780)
+Creating Main Pot with $4350 with Sular75
+** Dealing River ** :  [ Ah ]
+Lets_Gamble_TAG bets (470)
+Lets_Gamble_TAG is all-In.
+Lewkem calls (470)
+Creating Side Pot 1 with $980 with Lets_Gamble_TAG
+** Summary **
+Main Pot: 4350 | Side Pot 1: 980
+Board: [ Qs Qh Ac 9s Ah  ]
+
+Basti___239 balance 2060, didn't bet (folded)
+Lewkem balance 1040, lost 1910 [ Jh Js ] [ two pairs, Aces and Queens -- Ac,Ah,Qs,Qh,Jh ]
+Riolomaldo balance 2460, didn't bet (folded)
+antonduck balance 720, didn't bet (folded)
+ClubS0da balance 4190, lost 30 (folded)
+hatoka balance 2450, lost 60 (folded)
+Sular75 balance 2175, bet 1420, collected 2175, net +755 [ Ad 2d ] [ a full house, Aces full of Queens -- Ad,Ac,Ah,Qs,Qh ]
+sub_luca balance 1750, didn't bet (folded)
+Lets_Gamble_TAG balance 3155, bet 1910, collected 3155, net +1245 [ As Kh ] [ a full house, Aces full of Queens -- As,Ac,Ah,Qs,Qh ]
+
+***** Hand History for Game 6020444761 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719291)  - Thu May 31 14:54:30 EDT 2007
+Table Speed 1329983 (Real Money) -- Seat 5 is the button
+Total number of players : 9
+Seat 1: Basti___239 (2060)
+Seat 2: Lewkem (1040)
+Seat 3: Riolomaldo (2460)
+Seat 4: antonduck (720)
+Seat 5: ClubS0da (4190)
+Seat 7: hatoka (2450)
+Seat 8: Sular75 (2175)
+Seat 9: sub_luca (1750)
+Seat 10: Lets_Gamble_TAG (3155)
+hatoka  posts small blind (50)
+Sular75  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 8c, Qh ]
+sub_luca folds.
+Lets_Gamble_TAG folds.
+Basti___239 folds.
+Lewkem raises (200) to 200
+Riolomaldo folds.
+antonduck folds.
+ClubS0da folds.
+hatoka folds.
+Sular75 folds.
+** Summary **
+Main Pot: 250
+
+Basti___239 balance 2060, didn't bet (folded)
+Lewkem balance 1190, bet 200, collected 350, net +150
+Riolomaldo balance 2460, didn't bet (folded)
+antonduck balance 720, didn't bet (folded)
+ClubS0da balance 4190, didn't bet (folded)
+hatoka balance 2400, lost 50 (folded)
+Sular75 balance 2075, lost 100 (folded)
+sub_luca balance 1750, didn't bet (folded)
+Lets_Gamble_TAG balance 3155, didn't bet (folded)
+
+***** Hand History for Game 6020446725 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719291)  - Thu May 31 14:55:02 EDT 2007
+Table Speed 1329983 (Real Money) -- Seat 7 is the button
+Total number of players : 9
+Seat 1: Basti___239 (2060)
+Seat 2: Lewkem (1190)
+Seat 3: Riolomaldo (2460)
+Seat 4: antonduck (720)
+Seat 5: ClubS0da (4190)
+Seat 7: hatoka (2400)
+Seat 8: Sular75 (2075)
+Seat 9: sub_luca (1750)
+Seat 10: Lets_Gamble_TAG (3155)
+Sular75  posts small blind (50)
+sub_luca  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 7s, 9s ]
+Lets_Gamble_TAG folds.
+Basti___239 folds.
+Lewkem folds.
+Riolomaldo folds.
+antonduck folds.
+ClubS0da folds.
+hatoka folds.
+Sular75 folds.
+** Summary **
+Main Pot: 100
+
+Basti___239 balance 2060, didn't bet (folded)
+Lewkem balance 1190, didn't bet (folded)
+Riolomaldo balance 2460, didn't bet (folded)
+antonduck balance 720, didn't bet (folded)
+ClubS0da balance 4190, didn't bet (folded)
+hatoka balance 2400, didn't bet (folded)
+Sular75 balance 2025, lost 50 (folded)
+sub_luca balance 1800, bet 100, collected 150, net +50
+Lets_Gamble_TAG balance 3155, didn't bet (folded)
+
+***** Hand History for Game 6020447993 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719291)  - Thu May 31 14:55:23 EDT 2007
+Table Speed 1329983 (Real Money) -- Seat 8 is the button
+Total number of players : 9
+Seat 1: Basti___239 (2060)
+Seat 2: Lewkem (1190)
+Seat 3: Riolomaldo (2460)
+Seat 4: antonduck (720)
+Seat 5: ClubS0da (4190)
+Seat 7: hatoka (2400)
+Seat 8: Sular75 (2025)
+Seat 9: sub_luca (1800)
+Seat 10: Lets_Gamble_TAG (3155)
+sub_luca  posts small blind (50)
+Lets_Gamble_TAG  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 8d, 9s ]
+Basti___239 folds.
+Lewkem folds.
+Riolomaldo folds.
+antonduck folds.
+ClubS0da folds.
+hatoka folds.
+Sular75 folds.
+sub_luca calls (50)
+Lets_Gamble_TAG raises (300) to 400
+sub_luca calls (300)
+** Dealing Flop ** :  [ 5d, 5h, 3s ]
+sub_luca checks.
+Lets_Gamble_TAG bets (600)
+sub_luca calls (600)
+** Dealing Turn ** :  [ 6c ]
+sub_luca checks.
+Lets_Gamble_TAG checks.
+** Dealing River ** :  [ Qc ]
+sub_luca bets (800)
+sub_luca is all-In.
+Lets_Gamble_TAG calls (800)
+Creating Main Pot with $3600 with sub_luca
+** Summary **
+Main Pot: 3600
+Board: [ 5d 5h 3s 6c Qc  ]
+
+Basti___239 balance 2060, didn't bet (folded)
+Lewkem balance 1190, didn't bet (folded)
+Riolomaldo balance 2460, didn't bet (folded)
+antonduck balance 720, didn't bet (folded)
+ClubS0da balance 4190, didn't bet (folded)
+hatoka balance 2400, didn't bet (folded)
+Sular75 balance 2025, didn't bet (folded)
+sub_luca balance 0, lost 1800 [ Ts Jc ] [ a pair of Fives -- Qc,Jc,Ts,5d,5h ]
+Lets_Gamble_TAG balance 4955, bet 1800, collected 3600, net +1800 [ Qs As ] [ two pairs, Queens and Fives -- As,Qs,Qc,5d,5h ]
+
+***** Hand History for Game 6020451099 *****
+sub_luca finished in 9 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719291)  - Thu May 31 14:56:14 EDT 2007
+Table Speed 1329983 (Real Money) -- Seat 8 is the button
+Total number of players : 8
+Seat 1: Basti___239 (2060)
+Seat 2: Lewkem (1190)
+Seat 3: Riolomaldo (2460)
+Seat 4: antonduck (720)
+Seat 5: ClubS0da (4190)
+Seat 7: hatoka (2400)
+Seat 8: Sular75 (2025)
+Seat 10: Lets_Gamble_TAG (4955)
+Lets_Gamble_TAG  posts small blind (50)
+Basti___239  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 3h, 2d ]
+Lewkem folds.
+Riolomaldo calls (100)
+antonduck folds.
+ClubS0da calls (100)
+hatoka folds.
+Sular75 folds.
+Lets_Gamble_TAG calls (50)
+Basti___239 checks.
+** Dealing Flop ** :  [ Kc, Th, Qs ]
+Lets_Gamble_TAG checks.
+Basti___239 bets (500)
+Riolomaldo folds.
+ClubS0da folds.
+Lets_Gamble_TAG folds.
+** Summary **
+Main Pot: 400
+Board: [ Kc Th Qs  ]
+
+Basti___239 balance 2360, bet 600, collected 900, net +300 [ Qd Ks ] [ two pairs, Kings and Queens -- Ks,Kc,Qd,Qs,Th ]
+Lewkem balance 1190, didn't bet (folded)
+Riolomaldo balance 2360, lost 100 (folded)
+antonduck balance 720, didn't bet (folded)
+ClubS0da balance 4090, lost 100 (folded)
+hatoka balance 2400, didn't bet (folded)
+Sular75 balance 2025, didn't bet (folded)
+Lets_Gamble_TAG balance 4855, lost 100 (folded)
+
+***** Hand History for Game 6020452918 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719291)  - Thu May 31 14:56:44 EDT 2007
+Table Speed 1329983 (Real Money) -- Seat 10 is the button
+Total number of players : 8
+Seat 1: Basti___239 (2360)
+Seat 2: Lewkem (1190)
+Seat 3: Riolomaldo (2360)
+Seat 4: antonduck (720)
+Seat 5: ClubS0da (4090)
+Seat 7: hatoka (2400)
+Seat 8: Sular75 (2025)
+Seat 10: Lets_Gamble_TAG (4855)
+Basti___239  posts small blind (50)
+Lewkem  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Ad, Jd ]
+Riolomaldo folds.
+antonduck calls (100)
+ClubS0da calls (100)
+hatoka raises (500) to 500
+Sular75 folds.
+Lets_Gamble_TAG folds.
+Basti___239 folds.
+Lewkem calls (400)
+antonduck calls (400)
+ClubS0da folds.
+** Dealing Flop ** :  [ Qh, 8c, 8h ]
+Lewkem bets (690)
+Lewkem is all-In.
+antonduck calls (220)
+antonduck is all-In.
+hatoka calls (690)
+** Dealing Turn ** :  [ 5h ]
+** Dealing River ** :  [ 5s ]
+Creating Main Pot with $2310 with antonduck
+Creating Side Pot 1 with $940 with Lewkem
+** Summary **
+Main Pot: 2310 | Side Pot 1: 940
+Board: [ Qh 8c 8h 5h 5s  ]
+
+Basti___239 balance 2310, lost 50 (folded)
+Lewkem balance 940, bet 1190, collected 940, lost -250 [ Td Qd ] [ two pairs, Queens and Eights -- Qd,Qh,Td,8c,8h ]
+Riolomaldo balance 2360, didn't bet (folded)
+antonduck balance 2310, bet 720, collected 2310, net +1590 [ 8d Qc ] [ a full house, Eights full of Queens -- Qc,Qh,8d,8c,8h ]
+ClubS0da balance 3990, lost 100 (folded)
+hatoka balance 1210, lost 1190 [ Ad Jd ] [ two pairs, Eights and Fives -- Ad,8c,8h,5h,5s ]
+Sular75 balance 2025, didn't bet (folded)
+Lets_Gamble_TAG balance 4855, didn't bet (folded)
+
+***** Hand History for Game 6020455773 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719291)  - Thu May 31 14:57:31 EDT 2007
+Table Speed 1329983 (Real Money) -- Seat 1 is the button
+Total number of players : 8
+Seat 1: Basti___239 (2310)
+Seat 2: Lewkem (940)
+Seat 3: Riolomaldo (2360)
+Seat 4: antonduck (2310)
+Seat 5: ClubS0da (3990)
+Seat 7: hatoka (1210)
+Seat 8: Sular75 (2025)
+Seat 10: Lets_Gamble_TAG (4855)
+Lewkem  posts small blind (50)
+Riolomaldo  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Kd, Qh ]
+antonduck folds.
+ClubS0da folds.
+hatoka raises (200) to 200
+Sular75 folds.
+Lets_Gamble_TAG folds.
+Basti___239 folds.
+Lewkem folds.
+Riolomaldo calls (100)
+** Dealing Flop ** :  [ 5h, Td, 6d ]
+Riolomaldo bets (400)
+hatoka folds.
+** Summary **
+Main Pot: 450
+Board: [ 5h Td 6d  ]
+
+Basti___239 balance 2310, didn't bet (folded)
+Lewkem balance 890, lost 50 (folded)
+Riolomaldo balance 2610, bet 600, collected 850, net +250
+antonduck balance 2310, didn't bet (folded)
+ClubS0da balance 3990, didn't bet (folded)
+hatoka balance 1010, lost 200 (folded)
+Sular75 balance 2025, didn't bet (folded)
+Lets_Gamble_TAG balance 4855, didn't bet (folded)
+
+***** Hand History for Game 6020457630 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719291)  - Thu May 31 14:58:03 EDT 2007
+Table Speed 1329983 (Real Money) -- Seat 2 is the button
+Total number of players : 8
+Seat 1: Basti___239 (2310)
+Seat 2: Lewkem (890)
+Seat 3: Riolomaldo (2610)
+Seat 4: antonduck (2310)
+Seat 5: ClubS0da (3990)
+Seat 7: hatoka (1010)
+Seat 8: Sular75 (2025)
+Seat 10: Lets_Gamble_TAG (4855)
+Riolomaldo  posts small blind (50)
+antonduck  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 5c, 8h ]
+ClubS0da raises (300) to 300
+hatoka folds.
+Sular75 folds.
+Lets_Gamble_TAG folds.
+Basti___239 folds.
+Lewkem folds.
+Riolomaldo folds.
+antonduck folds.
+** Summary **
+Main Pot: 250
+
+Basti___239 balance 2310, didn't bet (folded)
+Lewkem balance 890, didn't bet (folded)
+Riolomaldo balance 2560, lost 50 (folded)
+antonduck balance 2210, lost 100 (folded)
+ClubS0da balance 4140, bet 300, collected 450, net +150
+hatoka balance 1010, didn't bet (folded)
+Sular75 balance 2025, didn't bet (folded)
+Lets_Gamble_TAG balance 4855, didn't bet (folded)
+
+***** Hand History for Game 6020458791 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719291)  - Thu May 31 14:58:22 EDT 2007
+Table Speed 1329983 (Real Money) -- Seat 3 is the button
+Total number of players : 8
+Seat 1: Basti___239 (2310)
+Seat 2: Lewkem (890)
+Seat 3: Riolomaldo (2560)
+Seat 4: antonduck (2210)
+Seat 5: ClubS0da (4140)
+Seat 7: hatoka (1010)
+Seat 8: Sular75 (2025)
+Seat 10: Lets_Gamble_TAG (4855)
+antonduck  posts small blind (50)
+ClubS0da  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Kc, Ac ]
+hatoka raises (300) to 300
+Sular75 folds.
+Lets_Gamble_TAG folds.
+Basti___239 folds.
+Lewkem folds.
+Riolomaldo folds.
+antonduck folds.
+ClubS0da folds.
+** Summary **
+Main Pot: 250
+
+Basti___239 balance 2310, didn't bet (folded)
+Lewkem balance 890, didn't bet (folded)
+Riolomaldo balance 2560, didn't bet (folded)
+antonduck balance 2160, lost 50 (folded)
+ClubS0da balance 4040, lost 100 (folded)
+hatoka balance 1160, bet 300, collected 450, net +150
+Sular75 balance 2025, didn't bet (folded)
+Lets_Gamble_TAG balance 4855, didn't bet (folded)
+
+***** Hand History for Game 6020459931 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719291)  - Thu May 31 14:58:41 EDT 2007
+Table Speed 1329983 (Real Money) -- Seat 4 is the button
+Total number of players : 8
+Seat 1: Basti___239 (2310)
+Seat 2: Lewkem (890)
+Seat 3: Riolomaldo (2560)
+Seat 4: antonduck (2160)
+Seat 5: ClubS0da (4040)
+Seat 7: hatoka (1160)
+Seat 8: Sular75 (2025)
+Seat 10: Lets_Gamble_TAG (4855)
+ClubS0da  posts small blind (50)
+hatoka  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 7d, Js ]
+Sular75 folds.
+Lets_Gamble_TAG raises (300) to 300
+Basti___239 folds.
+Lewkem folds.
+Riolomaldo folds.
+antonduck folds.
+ClubS0da folds.
+hatoka folds.
+** Summary **
+Main Pot: 250
+
+Basti___239 balance 2310, didn't bet (folded)
+Lewkem balance 890, didn't bet (folded)
+Riolomaldo balance 2560, didn't bet (folded)
+antonduck balance 2160, didn't bet (folded)
+ClubS0da balance 3990, lost 50 (folded)
+hatoka balance 1060, lost 100 (folded)
+Sular75 balance 2025, didn't bet (folded)
+Lets_Gamble_TAG balance 5005, bet 300, collected 450, net +150
+
+***** Hand History for Game 6020461520 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719291)  - Thu May 31 14:59:08 EDT 2007
+Table Speed 1329983 (Real Money) -- Seat 5 is the button
+Total number of players : 8
+Seat 1: Basti___239 (2310)
+Seat 2: Lewkem (890)
+Seat 3: Riolomaldo (2560)
+Seat 4: antonduck (2160)
+Seat 5: ClubS0da (3990)
+Seat 7: hatoka (1060)
+Seat 8: Sular75 (2025)
+Seat 10: Lets_Gamble_TAG (5005)
+hatoka  posts small blind (50)
+Sular75  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 4d, 2c ]
+Lets_Gamble_TAG folds.
+Basti___239 folds.
+Lewkem folds.
+Riolomaldo calls (100)
+antonduck calls (100)
+ClubS0da folds.
+hatoka folds.
+Sular75 checks.
+** Dealing Flop ** :  [ 4h, 7c, Qs ]
+Sular75 checks.
+Riolomaldo checks.
+antonduck bets (200)
+Sular75 folds.
+Riolomaldo raises (400) to 400
+antonduck calls (200)
+** Dealing Turn ** :  [ As ]
+Riolomaldo bets (1000)
+antonduck raises (1660) to 1660
+antonduck is all-In.
+Riolomaldo folds.
+Creating Main Pot with $3150 with antonduck
+** Summary **
+Main Pot: 3150
+Board: [ 4h 7c Qs As  ]
+
+Basti___239 balance 2310, didn't bet (folded)
+Lewkem balance 890, didn't bet (folded)
+Riolomaldo balance 1060, lost 1500 (folded)
+antonduck balance 3810, bet 2160, collected 3810, net +1650
+ClubS0da balance 3990, didn't bet (folded)
+hatoka balance 1010, lost 50 (folded)
+Sular75 balance 1925, lost 100 (folded)
+Lets_Gamble_TAG balance 5005, didn't bet (folded)
+
+***** Hand History for Game 6020466005 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719291)  - Thu May 31 15:00:24 EDT 2007
+Table Speed 1329983 (Real Money) -- Seat 7 is the button
+Total number of players : 8
+Seat 1: Basti___239 (2310)
+Seat 2: Lewkem (890)
+Seat 3: Riolomaldo (1060)
+Seat 4: antonduck (3810)
+Seat 5: ClubS0da (3990)
+Seat 7: hatoka (1010)
+Seat 8: Sular75 (1925)
+Seat 10: Lets_Gamble_TAG (5005)
+Sular75  posts small blind (100)
+Lets_Gamble_TAG  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 8h, 4h ]
+Basti___239 folds.
+Lewkem raises (890) to 890
+Lewkem is all-In.
+Riolomaldo folds.
+antonduck folds.
+ClubS0da folds.
+hatoka folds.
+Sular75 folds.
+Lets_Gamble_TAG folds.
+Creating Main Pot with $500 with Lewkem
+** Summary **
+Main Pot: 500
+
+Basti___239 balance 2310, didn't bet (folded)
+Lewkem balance 1190, bet 890, collected 1190, net +300
+Riolomaldo balance 1060, didn't bet (folded)
+antonduck balance 3810, didn't bet (folded)
+ClubS0da balance 3990, didn't bet (folded)
+hatoka balance 1010, didn't bet (folded)
+Sular75 balance 1825, lost 100 (folded)
+Lets_Gamble_TAG balance 4805, lost 200 (folded)
+
+***** Hand History for Game 6020467690 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719291)  - Thu May 31 15:00:52 EDT 2007
+Table Speed 1329983 (Real Money) -- Seat 8 is the button
+Total number of players : 8
+Seat 1: Basti___239 (2310)
+Seat 2: Lewkem (1190)
+Seat 3: Riolomaldo (1060)
+Seat 4: antonduck (3810)
+Seat 5: ClubS0da (3990)
+Seat 7: hatoka (1010)
+Seat 8: Sular75 (1825)
+Seat 10: Lets_Gamble_TAG (4805)
+Lets_Gamble_TAG  posts small blind (100)
+Basti___239  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 4s, 6c ]
+Lewkem folds.
+Riolomaldo folds.
+antonduck folds.
+ClubS0da folds.
+hatoka folds.
+Sular75 folds.
+Lets_Gamble_TAG raises (4705) to 4805
+Lets_Gamble_TAG is all-In.
+Basti___239 calls (2110)
+Basti___239 is all-In.
+** Dealing Flop ** :  [ 4d, Ts, Qh ]
+** Dealing Turn ** :  [ 9c ]
+** Dealing River ** :  [ Ks ]
+Creating Main Pot with $4620 with Basti___239
+** Summary **
+Main Pot: 4620
+Board: [ 4d Ts Qh 9c Ks  ]
+
+Basti___239 balance 0, lost 2310 [ Ah Kd ] [ a pair of Kings -- Ah,Kd,Ks,Qh,Ts ]
+Lewkem balance 1190, didn't bet (folded)
+Riolomaldo balance 1060, didn't bet (folded)
+antonduck balance 3810, didn't bet (folded)
+ClubS0da balance 3990, didn't bet (folded)
+hatoka balance 1010, didn't bet (folded)
+Sular75 balance 1825, didn't bet (folded)
+Lets_Gamble_TAG balance 7115, bet 4805, collected 7115, net +2310 [ 9d Tc ] [ two pairs, Tens and Nines -- Ks,Tc,Ts,9d,9c ]
+
+***** Hand History for Game 6020469154 *****
+Basti___239 finished in 8 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719291)  - Thu May 31 15:01:17 EDT 2007
+Table Speed 1329983 (Real Money) -- Seat 10 is the button
+Total number of players : 7
+Seat 2: Lewkem (1190)
+Seat 3: Riolomaldo (1060)
+Seat 4: antonduck (3810)
+Seat 5: ClubS0da (3990)
+Seat 7: hatoka (1010)
+Seat 8: Sular75 (1825)
+Seat 10: Lets_Gamble_TAG (7115)
+Lewkem  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 4h, 9c ]
+Riolomaldo folds.
+antonduck calls (200)
+ClubS0da folds.
+hatoka folds.
+Sular75 calls (200)
+Lets_Gamble_TAG folds.
+Lewkem checks.
+** Dealing Flop ** :  [ Ts, 6s, 3c ]
+Lewkem checks.
+antonduck bets (600)
+Sular75 calls (600)
+Lewkem folds.
+** Dealing Turn ** :  [ 5d ]
+antonduck bets (600)
+Sular75 calls (600)
+** Dealing River ** :  [ 9h ]
+antonduck checks.
+Sular75 bets (425)
+Sular75 is all-In.
+antonduck folds.
+Creating Main Pot with $3000 with Sular75
+** Summary **
+Main Pot: 3000
+Board: [ Ts 6s 3c 5d 9h  ]
+
+Lewkem balance 990, lost 200 (folded)
+Riolomaldo balance 1060, didn't bet (folded)
+antonduck balance 2410, lost 1400 (folded)
+ClubS0da balance 3990, didn't bet (folded)
+hatoka balance 1010, didn't bet (folded)
+Sular75 balance 3425, bet 1825, collected 3425, net +1600
+Lets_Gamble_TAG balance 7115, didn't bet (folded)
+
+***** Hand History for Game 6020472863 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719291)  - Thu May 31 15:02:18 EDT 2007
+Table Speed 1329983 (Real Money) -- Seat 10 is the button
+Total number of players : 7
+Seat 2: Lewkem (990)
+Seat 3: Riolomaldo (1060)
+Seat 4: antonduck (2410)
+Seat 5: ClubS0da (3990)
+Seat 7: hatoka (1010)
+Seat 8: Sular75 (3425)
+Seat 10: Lets_Gamble_TAG (7115)
+Lewkem  posts small blind (100)
+Riolomaldo  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Qs, Qh ]
+antonduck raises (400) to 400
+ClubS0da folds.
+hatoka raises (1010) to 1010
+hatoka is all-In.
+Sular75 folds.
+Lets_Gamble_TAG folds.
+Lewkem folds.
+Riolomaldo folds.
+antonduck calls (610)
+** Dealing Flop ** :  [ 5d, 8s, Tc ]
+** Dealing Turn ** :  [ 2s ]
+** Dealing River ** :  [ 6h ]
+Creating Main Pot with $2320 with hatoka
+** Summary **
+Main Pot: 2320
+Board: [ 5d 8s Tc 2s 6h  ]
+
+Lewkem balance 890, lost 100 (folded)
+Riolomaldo balance 860, lost 200 (folded)
+antonduck balance 1400, lost 1010 [ Ad 9h ] [ high card Ace -- Ad,Tc,9h,8s,6h ]
+ClubS0da balance 3990, didn't bet (folded)
+hatoka balance 2320, bet 1010, collected 2320, net +1310 [ Qs Qh ] [ a pair of Queens -- Qs,Qh,Tc,8s,6h ]
+Sular75 balance 3425, didn't bet (folded)
+Lets_Gamble_TAG balance 7115, didn't bet (folded)
+
+***** Hand History for Game 6020474681 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719291)  - Thu May 31 15:02:48 EDT 2007
+Table Speed 1329983 (Real Money) -- Seat 2 is the button
+Total number of players : 7
+Seat 2: Lewkem (890)
+Seat 3: Riolomaldo (860)
+Seat 4: antonduck (1400)
+Seat 5: ClubS0da (3990)
+Seat 7: hatoka (2320)
+Seat 8: Sular75 (3425)
+Seat 10: Lets_Gamble_TAG (7115)
+Riolomaldo  posts small blind (100)
+antonduck  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 6c, 8d ]
+ClubS0da raises (600) to 600
+hatoka folds.
+Sular75 folds.
+Lets_Gamble_TAG folds.
+Lewkem raises (890) to 890
+Lewkem is all-In.
+Riolomaldo folds.
+antonduck folds.
+ClubS0da calls (290)
+** Dealing Flop ** :  [ Ad, 8h, 2s ]
+** Dealing Turn ** :  [ 3s ]
+** Dealing River ** :  [ 7c ]
+Creating Main Pot with $2080 with Lewkem
+** Summary **
+Main Pot: 2080
+Board: [ Ad 8h 2s 3s 7c  ]
+
+Lewkem balance 0, lost 890 [ Ks Qc ] [ high card Ace -- Ad,Ks,Qc,8h,7c ]
+Riolomaldo balance 760, lost 100 (folded)
+antonduck balance 1200, lost 200 (folded)
+ClubS0da balance 5180, bet 890, collected 2080, net +1190 [ Ah Kc ] [ a pair of Aces -- Ah,Ad,Kc,8h,7c ]
+hatoka balance 2320, didn't bet (folded)
+Sular75 balance 3425, didn't bet (folded)
+Lets_Gamble_TAG balance 7115, didn't bet (folded)
+
+***** Hand History for Game 6020477092 *****
+Lewkem finished in 7 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719291)  - Thu May 31 15:03:29 EDT 2007
+Table Speed 1329983 (Real Money) -- Seat 3 is the button
+Total number of players : 6
+Seat 3: Riolomaldo (760)
+Seat 4: antonduck (1200)
+Seat 5: ClubS0da (5180)
+Seat 7: hatoka (2320)
+Seat 8: Sular75 (3425)
+Seat 10: Lets_Gamble_TAG (7115)
+antonduck  posts small blind (100)
+ClubS0da  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 9d, As ]
+hatoka calls (200)
+Sular75 calls (200)
+Lets_Gamble_TAG folds.
+Riolomaldo folds.
+antonduck calls (100)
+ClubS0da checks.
+** Dealing Flop ** :  [ 7s, 7d, 8c ]
+antonduck checks.
+ClubS0da checks.
+hatoka checks.
+Sular75 bets (400)
+antonduck folds.
+ClubS0da folds.
+hatoka folds.
+** Summary **
+Main Pot: 800
+Board: [ 7s 7d 8c  ]
+
+Riolomaldo balance 760, didn't bet (folded)
+antonduck balance 1000, lost 200 (folded)
+ClubS0da balance 4980, lost 200 (folded)
+hatoka balance 2120, lost 200 (folded)
+Sular75 balance 4025, bet 600, collected 1200, net +600
+Lets_Gamble_TAG balance 7115, didn't bet (folded)
+
+***** Hand History for Game 6020480497 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719291)  - Thu May 31 15:04:25 EDT 2007
+Table Speed 1329983 (Real Money) -- Seat 4 is the button
+Total number of players : 6
+Seat 3: Riolomaldo (760)
+Seat 4: antonduck (1000)
+Seat 5: ClubS0da (4980)
+Seat 7: hatoka (2120)
+Seat 8: Sular75 (4025)
+Seat 10: Lets_Gamble_TAG (7115)
+ClubS0da  posts small blind (100)
+hatoka  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 6c, 2h ]
+Sular75 folds.
+Lets_Gamble_TAG folds.
+Riolomaldo folds.
+antonduck folds.
+ClubS0da raises (4880) to 4980
+ClubS0da is all-In.
+hatoka folds.
+Creating Main Pot with $400 with ClubS0da
+** Summary **
+Main Pot: 400
+
+Riolomaldo balance 760, didn't bet (folded)
+antonduck balance 1000, didn't bet (folded)
+ClubS0da balance 5180, bet 4980, collected 5180, net +200
+hatoka balance 1920, lost 200 (folded)
+Sular75 balance 4025, didn't bet (folded)
+Lets_Gamble_TAG balance 7115, didn't bet (folded)
+
+***** Hand History for Game 6020481839 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719291)  - Thu May 31 15:04:47 EDT 2007
+Table Speed 1329983 (Real Money) -- Seat 5 is the button
+Total number of players : 6
+Seat 3: Riolomaldo (760)
+Seat 4: antonduck (1000)
+Seat 5: ClubS0da (5180)
+Seat 7: hatoka (1920)
+Seat 8: Sular75 (4025)
+Seat 10: Lets_Gamble_TAG (7115)
+hatoka  posts small blind (100)
+Sular75  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 2c, 7h ]
+Lets_Gamble_TAG folds.
+Riolomaldo folds.
+antonduck folds.
+ClubS0da folds.
+hatoka folds.
+** Summary **
+Main Pot: 200
+
+Riolomaldo balance 760, didn't bet (folded)
+antonduck balance 1000, didn't bet (folded)
+ClubS0da balance 5180, didn't bet (folded)
+hatoka balance 1820, lost 100 (folded)
+Sular75 balance 4125, bet 200, collected 300, net +100
+Lets_Gamble_TAG balance 7115, didn't bet (folded)
+
+***** Hand History for Game 6020482617 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719291)  - Thu May 31 15:05:00 EDT 2007
+Table Speed 1329983 (Real Money) -- Seat 7 is the button
+Total number of players : 6
+Seat 3: Riolomaldo (760)
+Seat 4: antonduck (1000)
+Seat 5: ClubS0da (5180)
+Seat 7: hatoka (1820)
+Seat 8: Sular75 (4125)
+Seat 10: Lets_Gamble_TAG (7115)
+Sular75  posts small blind (100)
+Lets_Gamble_TAG  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 2c, Ah ]
+Riolomaldo raises (760) to 760
+Riolomaldo is all-In.
+antonduck folds.
+ClubS0da folds.
+hatoka folds.
+Sular75 folds.
+Lets_Gamble_TAG calls (560)
+** Dealing Flop ** :  [ As, 4h, 2s ]
+** Dealing Turn ** :  [ 9s ]
+** Dealing River ** :  [ 9c ]
+Creating Main Pot with $1620 with Riolomaldo
+** Summary **
+Main Pot: 1620
+Board: [ As 4h 2s 9s 9c  ]
+
+Riolomaldo balance 0, lost 760 [ Kh 8c ] [ a pair of Nines -- As,Kh,9s,9c,8c ]
+antonduck balance 1000, didn't bet (folded)
+ClubS0da balance 5180, didn't bet (folded)
+hatoka balance 1820, didn't bet (folded)
+Sular75 balance 4025, lost 100 (folded)
+Lets_Gamble_TAG balance 7975, bet 760, collected 1620, net +860 [ 9h 8s ] [ three of a kind, Nines -- As,9h,9s,9c,8s ]
+
+***** Hand History for Game 6020484225 *****
+Riolomaldo finished in 6 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719291)  - Thu May 31 15:05:27 EDT 2007
+Table Speed 1329983 (Real Money) -- Seat 8 is the button
+Total number of players : 5
+Seat 4: antonduck (1000)
+Seat 5: ClubS0da (5180)
+Seat 7: hatoka (1820)
+Seat 8: Sular75 (4025)
+Seat 10: Lets_Gamble_TAG (7975)
+Lets_Gamble_TAG  posts small blind (200)
+antonduck  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 9s, Kd ]
+ClubS0da folds.
+hatoka folds.
+Sular75 folds.
+Lets_Gamble_TAG raises (600) to 800
+antonduck folds.
+** Summary **
+Main Pot: 800
+
+antonduck balance 600, lost 400 (folded)
+ClubS0da balance 5180, didn't bet (folded)
+hatoka balance 1820, didn't bet (folded)
+Sular75 balance 4025, didn't bet (folded)
+Lets_Gamble_TAG balance 8375, bet 800, collected 1200, net +400
+
+***** Hand History for Game 6020485514 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719291)  - Thu May 31 15:05:48 EDT 2007
+Table Speed 1329983 (Real Money) -- Seat 10 is the button
+Total number of players : 5
+Seat 4: antonduck (600)
+Seat 5: ClubS0da (5180)
+Seat 7: hatoka (1820)
+Seat 8: Sular75 (4025)
+Seat 10: Lets_Gamble_TAG (8375)
+antonduck  posts small blind (200)
+ClubS0da  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 4h, Th ]
+hatoka folds.
+Sular75 calls (400)
+Lets_Gamble_TAG folds.
+antonduck calls (200)
+ClubS0da checks.
+** Dealing Flop ** :  [ 5h, 7d, 9c ]
+antonduck bets (200)
+antonduck is all-In.
+ClubS0da calls (200)
+Sular75 calls (200)
+Creating Main Pot with $1800 with antonduck
+** Dealing Turn ** :  [ 2s ]
+ClubS0da checks.
+Sular75 checks.
+** Dealing River ** :  [ 3h ]
+ClubS0da checks.
+Sular75 checks.
+** Summary **
+Main Pot: 1800
+Board: [ 5h 7d 9c 2s 3h  ]
+
+antonduck balance 1800, bet 600, collected 1800, net +1200 [ 5c 7c ] [ two pairs, Sevens and Fives -- 9c,7c,7d,5c,5h ]
+ClubS0da balance 4580, lost 600 [ 8d 5s ] [ a pair of Fives -- 9c,8d,7d,5s,5h ]
+hatoka balance 1820, didn't bet (folded)
+Sular75 balance 3425, lost 600 [ Kd Td ] [ high card King -- Kd,Td,9c,7d,5h ]
+
+Lets_Gamble_TAG balance 8375, didn't bet (folded)
+
+***** Hand History for Game 6020487896 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719291)  - Thu May 31 15:06:29 EDT 2007
+Table Speed 1329983 (Real Money) -- Seat 4 is the button
+Total number of players : 5
+Seat 4: antonduck (1800)
+Seat 5: ClubS0da (4580)
+Seat 7: hatoka (1820)
+Seat 8: Sular75 (3425)
+Seat 10: Lets_Gamble_TAG (8375)
+ClubS0da  posts small blind (200)
+hatoka  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 6s, 2c ]
+Sular75 folds.
+Lets_Gamble_TAG folds.
+antonduck calls (400)
+ClubS0da folds.
+hatoka checks.
+** Dealing Flop ** :  [ Jh, 9c, 8s ]
+hatoka checks.
+antonduck bets (1400)
+antonduck is all-In.
+hatoka folds.
+Creating Main Pot with $1000 with antonduck
+** Summary **
+Main Pot: 1000
+Board: [ Jh 9c 8s  ]
+
+antonduck balance 2400, bet 1800, collected 2400, net +600
+ClubS0da balance 4380, lost 200 (folded)
+hatoka balance 1420, lost 400 (folded)
+Sular75 balance 3425, didn't bet (folded)
+Lets_Gamble_TAG balance 8375, didn't bet (folded)
+
+***** Hand History for Game 6020489987 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719291)  - Thu May 31 15:07:04 EDT 2007
+Table Speed 1329983 (Real Money) -- Seat 5 is the button
+Total number of players : 5
+Seat 4: antonduck (2400)
+Seat 5: ClubS0da (4380)
+Seat 7: hatoka (1420)
+Seat 8: Sular75 (3425)
+Seat 10: Lets_Gamble_TAG (8375)
+hatoka  posts small blind (200)
+Sular75  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 7s, 8s ]
+Lets_Gamble_TAG folds.
+antonduck folds.
+ClubS0da raises (3200) to 3200
+hatoka folds.
+Sular75 folds.
+** Summary **
+Main Pot: 1000
+
+antonduck balance 2400, didn't bet (folded)
+ClubS0da balance 4980, bet 3200, collected 3800, net +600
+hatoka balance 1220, lost 200 (folded)
+Sular75 balance 3025, lost 400 (folded)
+Lets_Gamble_TAG balance 8375, didn't bet (folded)
+
+***** Hand History for Game 6020491180 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719291)  - Thu May 31 15:07:23 EDT 2007
+Table Speed 1329983 (Real Money) -- Seat 7 is the button
+Total number of players : 5
+Seat 4: antonduck (2400)
+Seat 5: ClubS0da (4980)
+Seat 7: hatoka (1220)
+Seat 8: Sular75 (3025)
+Seat 10: Lets_Gamble_TAG (8375)
+Sular75  posts small blind (200)
+Lets_Gamble_TAG  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 6d, Jc ]
+antonduck folds.
+ClubS0da folds.
+hatoka folds.
+Sular75 folds.
+** Summary **
+Main Pot: 400
+
+antonduck balance 2400, didn't bet (folded)
+ClubS0da balance 4980, didn't bet (folded)
+hatoka balance 1220, didn't bet (folded)
+Sular75 balance 2825, lost 200 (folded)
+Lets_Gamble_TAG balance 8575, bet 400, collected 600, net +200
+
+***** Hand History for Game 6020491896 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719291)  - Thu May 31 15:07:35 EDT 2007
+Table Speed 1329983 (Real Money) -- Seat 8 is the button
+Total number of players : 5
+Seat 4: antonduck (2400)
+Seat 5: ClubS0da (4980)
+Seat 7: hatoka (1220)
+Seat 8: Sular75 (2825)
+Seat 10: Lets_Gamble_TAG (8575)
+Lets_Gamble_TAG  posts small blind (200)
+antonduck  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ Kd, Td ]
+ClubS0da folds.
+hatoka raises (1200) to 1200
+Sular75 folds.
+Lets_Gamble_TAG folds.
+antonduck folds.
+** Summary **
+Main Pot: 1000
+
+antonduck balance 2000, lost 400 (folded)
+ClubS0da balance 4980, didn't bet (folded)
+hatoka balance 1820, bet 1200, collected 1800, net +600
+Sular75 balance 2825, didn't bet (folded)
+Lets_Gamble_TAG balance 8375, lost 200 (folded)
+
+***** Hand History for Game 6020492918 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719291)  - Thu May 31 15:07:53 EDT 2007
+Table Speed 1329983 (Real Money) -- Seat 10 is the button
+Total number of players : 5
+Seat 4: antonduck (2000)
+Seat 5: ClubS0da (4980)
+Seat 7: hatoka (1820)
+Seat 8: Sular75 (2825)
+Seat 10: Lets_Gamble_TAG (8375)
+antonduck  posts small blind (200)
+ClubS0da  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ Qd, 4c ]
+hatoka folds.
+Sular75 folds.
+Lets_Gamble_TAG folds.
+antonduck calls (200)
+ClubS0da checks.
+** Dealing Flop ** :  [ 9h, 4h, Qs ]
+antonduck bets (1600)
+antonduck is all-In.
+ClubS0da folds.
+Creating Main Pot with $800 with antonduck
+** Summary **
+Main Pot: 800
+Board: [ 9h 4h Qs  ]
+
+antonduck balance 2400, bet 2000, collected 2400, net +400
+ClubS0da balance 4580, lost 400 (folded)
+hatoka balance 1820, didn't bet (folded)
+Sular75 balance 2825, didn't bet (folded)
+Lets_Gamble_TAG balance 8375, didn't bet (folded)
+
+***** Hand History for Game 6020494361 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719291)  - Thu May 31 15:08:17 EDT 2007
+Table Speed 1329983 (Real Money) -- Seat 4 is the button
+Total number of players : 5
+Seat 4: antonduck (2400)
+Seat 5: ClubS0da (4580)
+Seat 7: hatoka (1820)
+Seat 8: Sular75 (2825)
+Seat 10: Lets_Gamble_TAG (8375)
+ClubS0da  posts small blind (200)
+hatoka  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 8d, 8h ]
+Sular75 folds.
+Lets_Gamble_TAG raises (8375) to 8375
+Lets_Gamble_TAG is all-In.
+antonduck folds.
+ClubS0da folds.
+hatoka calls (1420)
+hatoka is all-In.
+** Dealing Flop ** :  [ 7s, 6s, Qd ]
+** Dealing Turn ** :  [ Ac ]
+** Dealing River ** :  [ As ]
+Creating Main Pot with $3840 with hatoka
+** Summary **
+Main Pot: 3840
+Board: [ 7s 6s Qd Ac As  ]
+
+antonduck balance 2400, didn't bet (folded)
+ClubS0da balance 4380, lost 200 (folded)
+hatoka balance 0, lost 1820 [ 8d 8h ] [ two pairs, Aces and Eights -- Ac,As,Qd,8d,8h ]
+Sular75 balance 2825, didn't bet (folded)
+Lets_Gamble_TAG balance 10395, bet 8375, collected 10395, net +2020 [ Ad 3s ] [ three of a kind, Aces -- Ad,Ac,As,Qd,7s ]
+
+***** Hand History for Game 6020496136 *****
+hatoka finished in 5 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719291)  - Thu May 31 15:08:47 EDT 2007
+Table Speed 1329983 (Real Money) -- Seat 5 is the button
+Total number of players : 4
+Seat 4: antonduck (2400)
+Seat 5: ClubS0da (4380)
+Seat 8: Sular75 (2825)
+Seat 10: Lets_Gamble_TAG (10395)
+Sular75  posts big blind (400)
+** Dealing down cards **
+Lets_Gamble_TAG folds.
+antonduck folds.
+ClubS0da folds.
+** Summary **
+Main Pot: 400
+
+antonduck balance 2400, didn't bet (folded)
+ClubS0da balance 4380, didn't bet (folded)
+Sular75 balance 2825, bet 400, collected 400, net +0
+Lets_Gamble_TAG balance 10395, didn't bet (folded)
+
+***** Hand History for Game 6020496665 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719291)  - Thu May 31 15:08:56 EDT 2007
+Table Speed 1329983 (Real Money) -- Seat 5 is the button
+Total number of players : 4
+Seat 4: antonduck (2400)
+Seat 5: ClubS0da (4380)
+Seat 8: Sular75 (2825)
+Seat 10: Lets_Gamble_TAG (10395)
+Sular75  posts small blind (200)
+Lets_Gamble_TAG  posts big blind (400)
+** Dealing down cards **
+antonduck folds.
+ClubS0da folds.
+Sular75 calls (200)
+Lets_Gamble_TAG raises (9995) to 10395
+Lets_Gamble_TAG is all-In.
+Sular75 folds.
+Creating Main Pot with $800 with Lets_Gamble_TAG
+** Summary **
+Main Pot: 800
+
+antonduck balance 2400, didn't bet (folded)
+ClubS0da balance 4380, didn't bet (folded)
+Sular75 balance 2425, lost 400 (folded)
+Lets_Gamble_TAG balance 10795, bet 10395, collected 10795, net +400
+
+***** Hand History for Game 6020498081 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719291)  - Thu May 31 15:09:20 EDT 2007
+Table Speed 1329983 (Real Money) -- Seat 8 is the button
+Total number of players : 4
+Seat 4: antonduck (2400)
+Seat 5: ClubS0da (4380)
+Seat 8: Sular75 (2425)
+Seat 10: Lets_Gamble_TAG (10795)
+Lets_Gamble_TAG  posts small blind (200)
+antonduck  posts big blind (400)
+** Dealing down cards **
+ClubS0da folds.
+Sular75 folds.
+Lets_Gamble_TAG raises (10595) to 10795
+Lets_Gamble_TAG is all-In.
+antonduck folds.
+Creating Main Pot with $800 with Lets_Gamble_TAG
+** Summary **
+Main Pot: 800
+
+antonduck balance 2000, lost 400 (folded)
+ClubS0da balance 4380, didn't bet (folded)
+Sular75 balance 2425, didn't bet (folded)
+Lets_Gamble_TAG balance 11195, bet 10795, collected 11195, net +400
+
+***** Hand History for Game 6020499206 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719291)  - Thu May 31 15:09:40 EDT 2007
+Table Speed 1329983 (Real Money) -- Seat 10 is the button
+Total number of players : 4
+Seat 4: antonduck (2000)
+Seat 5: ClubS0da (4380)
+Seat 8: Sular75 (2425)
+Seat 10: Lets_Gamble_TAG (11195)
+antonduck  posts small blind (200)
+ClubS0da  posts big blind (400)
+** Dealing down cards **
+Sular75 folds.
+Lets_Gamble_TAG folds.
+antonduck folds.
+** Summary **
+Main Pot: 400
+
+antonduck balance 1800, lost 200 (folded)
+ClubS0da balance 4580, bet 400, collected 600, net +200
+Sular75 balance 2425, didn't bet (folded)
+Lets_Gamble_TAG balance 11195, didn't bet (folded)
+
+***** Hand History for Game 6020500111 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719291)  - Thu May 31 15:09:55 EDT 2007
+Table Speed 1329983 (Real Money) -- Seat 4 is the button
+Total number of players : 4
+Seat 4: antonduck (1800)
+Seat 5: ClubS0da (4580)
+Seat 8: Sular75 (2425)
+Seat 10: Lets_Gamble_TAG (11195)
+ClubS0da  posts small blind (200)
+Sular75  posts big blind (400)
+** Dealing down cards **
+Lets_Gamble_TAG folds.
+antonduck folds.
+ClubS0da raises (4200) to 4400
+Sular75 folds.
+** Summary **
+Main Pot: 800
+
+antonduck balance 1800, didn't bet (folded)
+ClubS0da balance 4980, bet 4400, collected 4800, net +400
+Sular75 balance 2025, lost 400 (folded)
+Lets_Gamble_TAG balance 11195, didn't bet (folded)
+
+***** Hand History for Game 6020501158 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719291)  - Thu May 31 15:10:12 EDT 2007
+Table Speed 1329983 (Real Money) -- Seat 5 is the button
+Total number of players : 4
+Seat 4: antonduck (1800)
+Seat 5: ClubS0da (4980)
+Seat 8: Sular75 (2025)
+Seat 10: Lets_Gamble_TAG (11195)
+Sular75  posts small blind (200)
+Lets_Gamble_TAG  posts big blind (400)
+** Dealing down cards **
+antonduck folds.
+ClubS0da calls (400)
+Sular75 folds.
+Lets_Gamble_TAG raises (10795) to 11195
+Lets_Gamble_TAG is all-In.
+ClubS0da folds.
+Creating Main Pot with $1000 with Lets_Gamble_TAG
+** Summary **
+Main Pot: 1000
+
+antonduck balance 1800, didn't bet (folded)
+ClubS0da balance 4580, lost 400 (folded)
+Sular75 balance 1825, lost 200 (folded)
+Lets_Gamble_TAG balance 11795, bet 11195, collected 11795, net +600
+
+***** Hand History for Game 6020502280 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719291)  - Thu May 31 15:10:31 EDT 2007
+Table Speed 1329983 (Real Money) -- Seat 8 is the button
+Total number of players : 4
+Seat 4: antonduck (1800)
+Seat 5: ClubS0da (4580)
+Seat 8: Sular75 (1825)
+Seat 10: Lets_Gamble_TAG (11795)
+Lets_Gamble_TAG  posts small blind (300)
+antonduck  posts big blind (600)
+** Dealing down cards **
+ClubS0da folds.
+Sular75 folds.
+Lets_Gamble_TAG folds.
+** Summary **
+Main Pot: 600
+
+antonduck balance 2100, bet 600, collected 900, net +300
+ClubS0da balance 4580, didn't bet (folded)
+Sular75 balance 1825, didn't bet (folded)
+Lets_Gamble_TAG balance 11495, lost 300 (folded)
+
+***** Hand History for Game 6020502979 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719291)  - Thu May 31 15:10:43 EDT 2007
+Table Speed 1329983 (Real Money) -- Seat 10 is the button
+Total number of players : 4
+Seat 4: antonduck (2100)
+Seat 5: ClubS0da (4580)
+Seat 8: Sular75 (1825)
+Seat 10: Lets_Gamble_TAG (11495)
+antonduck  posts small blind (300)
+ClubS0da  posts big blind (600)
+** Dealing down cards **
+Sular75 folds.
+Lets_Gamble_TAG raises (11495) to 11495
+Lets_Gamble_TAG is all-In.
+antonduck folds.
+ClubS0da calls (3980)
+ClubS0da is all-In.
+** Dealing Flop ** :  [ Kc, 8d, 8s ]
+** Dealing Turn ** :  [ 2h ]
+** Dealing River ** :  [ 3h ]
+Creating Main Pot with $9460 with ClubS0da
+** Summary **
+Main Pot: 9460
+Board: [ Kc 8d 8s 2h 3h  ]
+
+antonduck balance 1800, lost 300 (folded)
+ClubS0da balance 9460, bet 4580, collected 9460, net +4880 [ Qs As ] [ a pair of Eights with Queen kicker -- As,Kc,Qs,8d,8sQs(kicker card) ]
+Sular75 balance 1825, didn't bet (folded)
+Lets_Gamble_TAG balance 6915, bet 11495, collected 6915, lost -4580 [ 9c Ad ] [ a pair of Eights -- Ad,Kc,9c,8d,8s ]
+
+***** Hand History for Game 6020504298 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719291)  - Thu May 31 15:11:04 EDT 2007
+Table Speed 1329983 (Real Money) -- Seat 4 is the button
+Total number of players : 4
+Seat 4: antonduck (1800)
+Seat 5: ClubS0da (9460)
+Seat 8: Sular75 (1825)
+Seat 10: Lets_Gamble_TAG (6915)
+ClubS0da  posts small blind (300)
+Sular75  posts big blind (600)
+** Dealing down cards **
+Lets_Gamble_TAG folds.
+antonduck raises (1800) to 1800
+antonduck is all-In.
+ClubS0da folds.
+Sular75 folds.
+Creating Main Pot with $1500 with antonduck
+** Summary **
+Main Pot: 1500
+
+antonduck balance 2700, bet 1800, collected 2700, net +900
+ClubS0da balance 9160, lost 300 (folded)
+Sular75 balance 1225, lost 600 (folded)
+Lets_Gamble_TAG balance 6915, didn't bet (folded)
+
+***** Hand History for Game 6020505475 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719291)  - Thu May 31 15:11:23 EDT 2007
+Table Speed 1329983 (Real Money) -- Seat 5 is the button
+Total number of players : 4
+Seat 4: antonduck (2700)
+Seat 5: ClubS0da (9160)
+Seat 8: Sular75 (1225)
+Seat 10: Lets_Gamble_TAG (6915)
+Sular75  posts small blind (300)
+Lets_Gamble_TAG  posts big blind (600)
+** Dealing down cards **
+antonduck folds.
+ClubS0da folds.
+Sular75 folds.
+** Summary **
+Main Pot: 600
+
+antonduck balance 2700, didn't bet (folded)
+ClubS0da balance 9160, didn't bet (folded)
+Sular75 balance 925, lost 300 (folded)
+Lets_Gamble_TAG balance 7215, bet 600, collected 900, net +300
+
+***** Hand History for Game 6020506028 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719291)  - Thu May 31 15:11:33 EDT 2007
+Table Speed 1329983 (Real Money) -- Seat 8 is the button
+Total number of players : 4
+Seat 4: antonduck (2700)
+Seat 5: ClubS0da (9160)
+Seat 8: Sular75 (925)
+Seat 10: Lets_Gamble_TAG (7215)
+Lets_Gamble_TAG  posts small blind (300)
+antonduck  posts big blind (600)
+** Dealing down cards **
+ClubS0da folds.
+Sular75 raises (925) to 925
+Sular75 is all-In.
+Lets_Gamble_TAG folds.
+antonduck calls (325)
+** Dealing Flop ** :  [ As, 2h, Ks ]
+** Dealing Turn ** :  [ 9d ]
+** Dealing River ** :  [ 6s ]
+Creating Main Pot with $2150 with Sular75
+** Summary **
+Main Pot: 2150
+Board: [ As 2h Ks 9d 6s  ]
+
+antonduck balance 1775, lost 925 [ Kh 5s ] [ a pair of Kings -- As,Kh,Ks,9d,6s ]
+ClubS0da balance 9160, didn't bet (folded)
+Sular75 balance 2150, bet 925, collected 2150, net +1225 [ 3s Ad ] [ a pair of Aces -- Ad,As,Ks,9d,6s ]
+Lets_Gamble_TAG balance 6915, lost 300 (folded)
+
+***** Hand History for Game 6020507111 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719291)  - Thu May 31 15:11:50 EDT 2007
+Table Speed 1329983 (Real Money) -- Seat 10 is the button
+Total number of players : 4
+Seat 4: antonduck (1775)
+Seat 5: ClubS0da (9160)
+Seat 8: Sular75 (2150)
+Seat 10: Lets_Gamble_TAG (6915)
+antonduck  posts small blind (300)
+ClubS0da  posts big blind (600)
+** Dealing down cards **
+Sular75 folds.
+Lets_Gamble_TAG raises (6915) to 6915
+Lets_Gamble_TAG is all-In.
+antonduck folds.
+ClubS0da folds.
+Creating Main Pot with $1500 with Lets_Gamble_TAG
+** Summary **
+Main Pot: 1500
+
+antonduck balance 1475, lost 300 (folded)
+ClubS0da balance 8560, lost 600 (folded)
+Sular75 balance 2150, didn't bet (folded)
+Lets_Gamble_TAG balance 7815, bet 6915, collected 7815, net +900
+
+***** Hand History for Game 6020507943 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719291)  - Thu May 31 15:12:04 EDT 2007
+Table Speed 1329983 (Real Money) -- Seat 4 is the button
+Total number of players : 4
+Seat 4: antonduck (1475)
+Seat 5: ClubS0da (8560)
+Seat 8: Sular75 (2150)
+Seat 10: Lets_Gamble_TAG (7815)
+ClubS0da  posts small blind (300)
+Sular75  posts big blind (600)
+** Dealing down cards **
+Lets_Gamble_TAG folds.
+antonduck raises (1475) to 1475
+antonduck is all-In.
+ClubS0da folds.
+Sular75 folds.
+Creating Main Pot with $1500 with antonduck
+** Summary **
+Main Pot: 1500
+
+antonduck balance 2375, bet 1475, collected 2375, net +900
+ClubS0da balance 8260, lost 300 (folded)
+Sular75 balance 1550, lost 600 (folded)
+Lets_Gamble_TAG balance 7815, didn't bet (folded)
+
+***** Hand History for Game 6020508673 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719291)  - Thu May 31 15:12:18 EDT 2007
+Table Speed 1329983 (Real Money) -- Seat 5 is the button
+Total number of players : 4
+Seat 4: antonduck (2375)
+Seat 5: ClubS0da (8260)
+Seat 8: Sular75 (1550)
+Seat 10: Lets_Gamble_TAG (7815)
+Sular75  posts small blind (300)
+Lets_Gamble_TAG  posts big blind (600)
+** Dealing down cards **
+antonduck raises (2375) to 2375
+antonduck is all-In.
+ClubS0da folds.
+Sular75 folds.
+Lets_Gamble_TAG calls (1775)
+** Dealing Flop ** :  [ Ah, Ts, 7d ]
+** Dealing Turn ** :  [ 7c ]
+** Dealing River ** :  [ Tc ]
+Creating Main Pot with $5050 with antonduck
+** Summary **
+Main Pot: 5050
+Board: [ Ah Ts 7d 7c Tc  ]
+
+antonduck balance 0, lost 2375 [ Ks Jd ] [ two pairs, Tens and Sevens -- Ah,Ts,Tc,7d,7c ]
+ClubS0da balance 8260, didn't bet (folded)
+Sular75 balance 1250, lost 300 (folded)
+Lets_Gamble_TAG balance 10490, bet 2375, collected 5050, net +2675 [ 4c Ad ] [ two pairs, Aces and Tens -- Ad,Ah,Ts,Tc,7d ]
+
+***** Hand History for Game 6020510045 *****
+antonduck finished in 4 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719291)  - Thu May 31 15:12:41 EDT 2007
+Table Speed 1329983 (Real Money) -- Seat 8 is the button
+Total number of players : 3
+Seat 5: ClubS0da (8260)
+Seat 8: Sular75 (1250)
+Seat 10: Lets_Gamble_TAG (10490)
+Lets_Gamble_TAG  posts small blind (300)
+ClubS0da  posts big blind (600)
+** Dealing down cards **
+Sular75 raises (1200) to 1200
+Lets_Gamble_TAG folds.
+ClubS0da folds.
+** Summary **
+Main Pot: 1500
+
+ClubS0da balance 7660, lost 600 (folded)
+Sular75 balance 2150, bet 1200, collected 2100, net +900
+Lets_Gamble_TAG balance 10190, lost 300 (folded)
+
+***** Hand History for Game 6020510879 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719291)  - Thu May 31 15:12:54 EDT 2007
+Table Speed 1329983 (Real Money) -- Seat 10 is the button
+Total number of players : 3
+Seat 5: ClubS0da (7660)
+Seat 8: Sular75 (2150)
+Seat 10: Lets_Gamble_TAG (10190)
+ClubS0da  posts small blind (300)
+Sular75  posts big blind (600)
+** Dealing down cards **
+Lets_Gamble_TAG folds.
+ClubS0da folds.
+** Summary **
+Main Pot: 600
+
+ClubS0da balance 7360, lost 300 (folded)
+Sular75 balance 2450, bet 600, collected 900, net +300
+Lets_Gamble_TAG balance 10190, didn't bet (folded)
+
+***** Hand History for Game 6020511523 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719291)  - Thu May 31 15:13:06 EDT 2007
+Table Speed 1329983 (Real Money) -- Seat 5 is the button
+Total number of players : 3
+Seat 5: ClubS0da (7360)
+Seat 8: Sular75 (2450)
+Seat 10: Lets_Gamble_TAG (10190)
+Sular75  posts small blind (300)
+Lets_Gamble_TAG  posts big blind (600)
+** Dealing down cards **
+ClubS0da folds.
+Sular75 folds.
+** Summary **
+Main Pot: 600
+
+ClubS0da balance 7360, didn't bet (folded)
+Sular75 balance 2150, lost 300 (folded)
+Lets_Gamble_TAG balance 10490, bet 600, collected 900, net +300
+
+***** Hand History for Game 6020512050 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719291)  - Thu May 31 15:13:15 EDT 2007
+Table Speed 1329983 (Real Money) -- Seat 8 is the button
+Total number of players : 3
+Seat 5: ClubS0da (7360)
+Seat 8: Sular75 (2150)
+Seat 10: Lets_Gamble_TAG (10490)
+Lets_Gamble_TAG  posts small blind (300)
+ClubS0da  posts big blind (600)
+** Dealing down cards **
+Sular75 folds.
+Lets_Gamble_TAG folds.
+** Summary **
+Main Pot: 600
+
+ClubS0da balance 7660, bet 600, collected 900, net +300
+Sular75 balance 2150, didn't bet (folded)
+Lets_Gamble_TAG balance 10190, lost 300 (folded)
+
+***** Hand History for Game 6020512817 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719291)  - Thu May 31 15:13:28 EDT 2007
+Table Speed 1329983 (Real Money) -- Seat 10 is the button
+Total number of players : 3
+Seat 5: ClubS0da (7660)
+Seat 8: Sular75 (2150)
+Seat 10: Lets_Gamble_TAG (10190)
+ClubS0da  posts small blind (300)
+Sular75  posts big blind (600)
+** Dealing down cards **
+Lets_Gamble_TAG raises (10190) to 10190
+Lets_Gamble_TAG is all-In.
+ClubS0da folds.
+Sular75 folds.
+Creating Main Pot with $1500 with Lets_Gamble_TAG
+** Summary **
+Main Pot: 1500
+
+ClubS0da balance 7360, lost 300 (folded)
+Sular75 balance 1550, lost 600 (folded)
+Lets_Gamble_TAG balance 11090, bet 10190, collected 11090, net +900
+
+***** Hand History for Game 6020513627 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719291)  - Thu May 31 15:13:41 EDT 2007
+Table Speed 1329983 (Real Money) -- Seat 5 is the button
+Total number of players : 3
+Seat 5: ClubS0da (7360)
+Seat 8: Sular75 (1550)
+Seat 10: Lets_Gamble_TAG (11090)
+Sular75  posts small blind (300)
+Lets_Gamble_TAG  posts big blind (600)
+** Dealing down cards **
+ClubS0da raises (7200) to 7200
+Sular75 calls (1250)
+Sular75 is all-In.
+Lets_Gamble_TAG folds.
+** Dealing Flop ** :  [ 8h, Td, 4d ]
+** Dealing Turn ** :  [ 9d ]
+** Dealing River ** :  [ 9h ]
+Creating Main Pot with $3700 with Sular75
+** Summary **
+Main Pot: 3700
+Board: [ 8h Td 4d 9d 9h  ]
+
+ClubS0da balance 5810, bet 7200, collected 5650, lost -1550 [ Jd As ] [ a pair of Nines -- As,Jd,Td,9d,9h ]
+Sular75 balance 3700, bet 1550, collected 3700, net +2150 [ 6d 6h ] [ two pairs, Nines and Sixes -- Td,9d,9h,6d,6h ]
+Lets_Gamble_TAG balance 10490, lost 600 (folded)
+
+***** Hand History for Game 6020514837 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719291)  - Thu May 31 15:14:03 EDT 2007
+Table Speed 1329983 (Real Money) -- Seat 8 is the button
+Total number of players : 3
+Seat 5: ClubS0da (5810)
+Seat 8: Sular75 (3700)
+Seat 10: Lets_Gamble_TAG (10490)
+Lets_Gamble_TAG  posts small blind (300)
+ClubS0da  posts big blind (600)
+** Dealing down cards **
+Sular75 folds.
+Lets_Gamble_TAG folds.
+** Summary **
+Main Pot: 600
+
+ClubS0da balance 6110, bet 600, collected 900, net +300
+Sular75 balance 3700, didn't bet (folded)
+Lets_Gamble_TAG balance 10190, lost 300 (folded)
+
+***** Hand History for Game 6020515467 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719291)  - Thu May 31 15:14:13 EDT 2007
+Table Speed 1329983 (Real Money) -- Seat 10 is the button
+Total number of players : 3
+Seat 5: ClubS0da (6110)
+Seat 8: Sular75 (3700)
+Seat 10: Lets_Gamble_TAG (10190)
+ClubS0da  posts small blind (300)
+Sular75  posts big blind (600)
+** Dealing down cards **
+Lets_Gamble_TAG raises (10190) to 10190
+Lets_Gamble_TAG is all-In.
+ClubS0da folds.
+Sular75 folds.
+Creating Main Pot with $1500 with Lets_Gamble_TAG
+** Summary **
+Main Pot: 1500
+
+ClubS0da balance 5810, lost 300 (folded)
+Sular75 balance 3100, lost 600 (folded)
+Lets_Gamble_TAG balance 11090, bet 10190, collected 11090, net +900
+
+***** Hand History for Game 6020516362 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719291)  - Thu May 31 15:14:28 EDT 2007
+Table Speed 1329983 (Real Money) -- Seat 5 is the button
+Total number of players : 3
+Seat 5: ClubS0da (5810)
+Seat 8: Sular75 (3100)
+Seat 10: Lets_Gamble_TAG (11090)
+Sular75  posts small blind (300)
+Lets_Gamble_TAG  posts big blind (600)
+** Dealing down cards **
+ClubS0da folds.
+Sular75 folds.
+** Summary **
+Main Pot: 600
+
+ClubS0da balance 5810, didn't bet (folded)
+Sular75 balance 2800, lost 300 (folded)
+Lets_Gamble_TAG balance 11390, bet 600, collected 900, net +300
+
+***** Hand History for Game 6020516823 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719291)  - Thu May 31 15:14:35 EDT 2007
+Table Speed 1329983 (Real Money) -- Seat 8 is the button
+Total number of players : 3
+Seat 5: ClubS0da (5810)
+Seat 8: Sular75 (2800)
+Seat 10: Lets_Gamble_TAG (11390)
+Lets_Gamble_TAG  posts small blind (300)
+ClubS0da  posts big blind (600)
+** Dealing down cards **
+Sular75 folds.
+Lets_Gamble_TAG folds.
+** Summary **
+Main Pot: 600
+
+ClubS0da balance 6110, bet 600, collected 900, net +300
+Sular75 balance 2800, didn't bet (folded)
+Lets_Gamble_TAG balance 11090, lost 300 (folded)
+
+***** Hand History for Game 6020517410 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719291)  - Thu May 31 15:14:45 EDT 2007
+Table Speed 1329983 (Real Money) -- Seat 10 is the button
+Total number of players : 3
+Seat 5: ClubS0da (6110)
+Seat 8: Sular75 (2800)
+Seat 10: Lets_Gamble_TAG (11090)
+ClubS0da  posts small blind (300)
+Sular75  posts big blind (600)
+** Dealing down cards **
+Lets_Gamble_TAG folds.
+ClubS0da folds.
+** Summary **
+Main Pot: 600
+
+ClubS0da balance 5810, lost 300 (folded)
+Sular75 balance 3100, bet 600, collected 900, net +300
+Lets_Gamble_TAG balance 11090, didn't bet (folded)
+
+***** Hand History for Game 6020517767 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719291)  - Thu May 31 15:14:52 EDT 2007
+Table Speed 1329983 (Real Money) -- Seat 5 is the button
+Total number of players : 3
+Seat 5: ClubS0da (5810)
+Seat 8: Sular75 (3100)
+Seat 10: Lets_Gamble_TAG (11090)
+Sular75  posts small blind (300)
+Lets_Gamble_TAG  posts big blind (600)
+** Dealing down cards **
+ClubS0da folds.
+Sular75 calls (300)
+Lets_Gamble_TAG checks.
+** Dealing Flop ** :  [ 8s, 7d, 2h ]
+Sular75 checks.
+Lets_Gamble_TAG bets (4800)
+Sular75 folds.
+** Summary **
+Main Pot: 1200
+Board: [ 8s 7d 2h  ]
+
+ClubS0da balance 5810, didn't bet (folded)
+Sular75 balance 2500, lost 600 (folded)
+Lets_Gamble_TAG balance 11690, bet 5400, collected 6000, net +600
+
+***** Hand History for Game 6020519624 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719291)  - Thu May 31 15:15:23 EDT 2007
+Table Speed 1329983 (Real Money) -- Seat 8 is the button
+Total number of players : 3
+Seat 5: ClubS0da (5810)
+Seat 8: Sular75 (2500)
+Seat 10: Lets_Gamble_TAG (11690)
+Lets_Gamble_TAG  posts small blind (300)
+ClubS0da  posts big blind (600)
+** Dealing down cards **
+Sular75 folds.
+Lets_Gamble_TAG folds.
+** Summary **
+Main Pot: 600
+
+ClubS0da balance 6110, bet 600, collected 900, net +300
+Sular75 balance 2500, didn't bet (folded)
+Lets_Gamble_TAG balance 11390, lost 300 (folded)
+
+***** Hand History for Game 6020520218 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719291)  - Thu May 31 15:15:33 EDT 2007
+Table Speed 1329983 (Real Money) -- Seat 10 is the button
+Total number of players : 3
+Seat 5: ClubS0da (6110)
+Seat 8: Sular75 (2500)
+Seat 10: Lets_Gamble_TAG (11390)
+ClubS0da  posts ante (25)
+Sular75  posts ante (25)
+Lets_Gamble_TAG  posts ante (25)
+ClubS0da  posts small blind (400)
+Sular75  posts big blind (800)
+** Dealing down cards **
+Lets_Gamble_TAG folds.
+ClubS0da folds.
+** Summary **
+Main Pot: 875
+
+ClubS0da balance 5685, lost 425 (folded)
+Sular75 balance 2950, bet 825, collected 1275, net +450
+Lets_Gamble_TAG balance 11365, lost 25 (folded)
+
+***** Hand History for Game 6020520695 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719291)  - Thu May 31 15:15:41 EDT 2007
+Table Speed 1329983 (Real Money) -- Seat 5 is the button
+Total number of players : 3
+Seat 5: ClubS0da (5685)
+Seat 8: Sular75 (2950)
+Seat 10: Lets_Gamble_TAG (11365)
+ClubS0da  posts ante (25)
+Sular75  posts ante (25)
+Lets_Gamble_TAG  posts ante (25)
+Sular75  posts small blind (400)
+Lets_Gamble_TAG  posts big blind (800)
+** Dealing down cards **
+ClubS0da raises (5660) to 5660
+ClubS0da is all-In.
+Sular75 folds.
+Lets_Gamble_TAG folds.
+Creating Main Pot with $2075 with ClubS0da
+** Summary **
+Main Pot: 2075
+
+ClubS0da balance 6935, bet 5685, collected 6935, net +1250
+Sular75 balance 2525, lost 425 (folded)
+Lets_Gamble_TAG balance 10540, lost 825 (folded)
+
+***** Hand History for Game 6020521575 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719291)  - Thu May 31 15:15:56 EDT 2007
+Table Speed 1329983 (Real Money) -- Seat 8 is the button
+Total number of players : 3
+Seat 5: ClubS0da (6935)
+Seat 8: Sular75 (2525)
+Seat 10: Lets_Gamble_TAG (10540)
+ClubS0da  posts ante (25)
+Sular75  posts ante (25)
+Lets_Gamble_TAG  posts ante (25)
+Lets_Gamble_TAG  posts small blind (400)
+ClubS0da  posts big blind (800)
+** Dealing down cards **
+Sular75 folds.
+Lets_Gamble_TAG raises (10115) to 10515
+Lets_Gamble_TAG is all-In.
+ClubS0da folds.
+Creating Main Pot with $1675 with Lets_Gamble_TAG
+** Summary **
+Main Pot: 1675
+
+ClubS0da balance 6110, lost 825 (folded)
+Sular75 balance 2500, lost 25 (folded)
+Lets_Gamble_TAG balance 11390, bet 10540, collected 11390, net +850
+
+***** Hand History for Game 6020522629 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719291)  - Thu May 31 15:16:14 EDT 2007
+Table Speed 1329983 (Real Money) -- Seat 10 is the button
+Total number of players : 3
+Seat 5: ClubS0da (6110)
+Seat 8: Sular75 (2500)
+Seat 10: Lets_Gamble_TAG (11390)
+ClubS0da  posts ante (25)
+Sular75  posts ante (25)
+Lets_Gamble_TAG  posts ante (25)
+ClubS0da  posts small blind (400)
+Sular75  posts big blind (800)
+** Dealing down cards **
+Lets_Gamble_TAG folds.
+ClubS0da folds.
+** Summary **
+Main Pot: 875
+
+ClubS0da balance 5685, lost 425 (folded)
+Sular75 balance 2950, bet 825, collected 1275, net +450
+Lets_Gamble_TAG balance 11365, lost 25 (folded)
+
+***** Hand History for Game 6020523211 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719291)  - Thu May 31 15:16:23 EDT 2007
+Table Speed 1329983 (Real Money) -- Seat 5 is the button
+Total number of players : 3
+Seat 5: ClubS0da (5685)
+Seat 8: Sular75 (2950)
+Seat 10: Lets_Gamble_TAG (11365)
+ClubS0da  posts ante (25)
+Sular75  posts ante (25)
+Lets_Gamble_TAG  posts ante (25)
+Sular75  posts small blind (400)
+Lets_Gamble_TAG  posts big blind (800)
+** Dealing down cards **
+ClubS0da raises (5660) to 5660
+ClubS0da is all-In.
+Sular75 calls (2525)
+Sular75 is all-In.
+Lets_Gamble_TAG folds.
+** Dealing Flop ** :  [ Ks, Th, Ah ]
+** Dealing Turn ** :  [ 4s ]
+** Dealing River ** :  [ Ts ]
+Creating Main Pot with $6725 with Sular75
+** Summary **
+Main Pot: 6725
+Board: [ Ks Th Ah 4s Ts  ]
+
+ClubS0da balance 2735, bet 5685, collected 2735, lost -2950 [ 7d Kc ] [ two pairs, Kings and Tens -- Ah,Kc,Ks,Th,Ts ]
+Sular75 balance 6725, bet 2950, collected 6725, net +3775 [ Ad Jh ] [ two pairs, Aces and Tens -- Ad,Ah,Ks,Th,Ts ]
+Lets_Gamble_TAG balance 10540, lost 825 (folded)
+
+***** Hand History for Game 6020524492 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719291)  - Thu May 31 15:16:44 EDT 2007
+Table Speed 1329983 (Real Money) -- Seat 8 is the button
+Total number of players : 3
+Seat 5: ClubS0da (2735)
+Seat 8: Sular75 (6725)
+Seat 10: Lets_Gamble_TAG (10540)
+ClubS0da  posts ante (25)
+Sular75  posts ante (25)
+Lets_Gamble_TAG  posts ante (25)
+Lets_Gamble_TAG  posts small blind (400)
+ClubS0da  posts big blind (800)
+** Dealing down cards **
+Sular75 folds.
+Lets_Gamble_TAG raises (8400) to 8800
+ClubS0da calls (1910)
+ClubS0da is all-In.
+** Dealing Flop ** :  [ 2c, 2s, 9d ]
+** Dealing Turn ** :  [ 4s ]
+** Dealing River ** :  [ 5s ]
+Creating Main Pot with $5495 with ClubS0da
+** Summary **
+Main Pot: 5495
+Board: [ 2c 2s 9d 4s 5s  ]
+
+ClubS0da balance 0, lost 2735 [ Tc 6c ] [ a pair of Twos -- Tc,9d,6c,2c,2s ]
+Sular75 balance 6700, lost 25 (folded)
+Lets_Gamble_TAG balance 13300, bet 8825, collected 11585, net +2760 [ 9h Kh ] [ two pairs, Nines and Twos -- Kh,9h,9d,2c,2s ]
+
+***** Hand History for Game 6020525502 *****
+ClubS0da finished in 3 place and won $10.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719291)  - Thu May 31 15:17:02 EDT 2007
+Table Speed 1329983 (Real Money) -- Seat 10 is the button
+Total number of players : 2
+Seat 8: Sular75 (6700)
+Seat 10: Lets_Gamble_TAG (13300)
+Sular75  posts ante (25)
+Lets_Gamble_TAG  posts ante (25)
+Lets_Gamble_TAG  posts small blind (400)
+Sular75  posts big blind (800)
+** Dealing down cards **
+Lets_Gamble_TAG folds.
+** Summary **
+Main Pot: 850
+
+Sular75 balance 7125, bet 825, collected 1250, net +425
+Lets_Gamble_TAG balance 12875, lost 425 (folded)
+
+***** Hand History for Game 6020526013 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719291)  - Thu May 31 15:17:11 EDT 2007
+Table Speed 1329983 (Real Money) -- Seat 8 is the button
+Total number of players : 2
+Seat 8: Sular75 (7125)
+Seat 10: Lets_Gamble_TAG (12875)
+Sular75  posts ante (25)
+Lets_Gamble_TAG  posts ante (25)
+Sular75  posts small blind (400)
+Lets_Gamble_TAG  posts big blind (800)
+** Dealing down cards **
+Sular75 folds.
+** Summary **
+Main Pot: 850
+
+Sular75 balance 6700, lost 425 (folded)
+Lets_Gamble_TAG balance 13300, bet 825, collected 1250, net +425
+
+***** Hand History for Game 6020526497 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719291)  - Thu May 31 15:17:19 EDT 2007
+Table Speed 1329983 (Real Money) -- Seat 10 is the button
+Total number of players : 2
+Seat 8: Sular75 (6700)
+Seat 10: Lets_Gamble_TAG (13300)
+Sular75  posts ante (25)
+Lets_Gamble_TAG  posts ante (25)
+Lets_Gamble_TAG  posts small blind (400)
+Sular75  posts big blind (800)
+** Dealing down cards **
+Lets_Gamble_TAG raises (12875) to 13275
+Lets_Gamble_TAG is all-In.
+Sular75 folds.
+Creating Main Pot with $1650 with Lets_Gamble_TAG
+** Summary **
+Main Pot: 1650
+
+Sular75 balance 5875, lost 825 (folded)
+Lets_Gamble_TAG balance 14125, bet 13300, collected 14125, net +825
+
+***** Hand History for Game 6020527266 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719291)  - Thu May 31 15:17:31 EDT 2007
+Table Speed 1329983 (Real Money) -- Seat 8 is the button
+Total number of players : 2
+Seat 8: Sular75 (5875)
+Seat 10: Lets_Gamble_TAG (14125)
+Sular75  posts ante (25)
+Lets_Gamble_TAG  posts ante (25)
+Sular75  posts small blind (400)
+Lets_Gamble_TAG  posts big blind (800)
+** Dealing down cards **
+Sular75 raises (1200) to 1600
+Lets_Gamble_TAG calls (800)
+** Dealing Flop ** :  [ 8h, Jh, 2h ]
+Lets_Gamble_TAG checks.
+Sular75 bets (1600)
+Lets_Gamble_TAG calls (1600)
+** Dealing Turn ** :  [ 2s ]
+Lets_Gamble_TAG checks.
+Sular75 bets (2400)
+Lets_Gamble_TAG raises (4800) to 4800
+Sular75 calls (250)
+Sular75 is all-In.
+** Dealing River ** :  [ 9c ]
+Creating Main Pot with $11750 with Sular75
+** Summary **
+Main Pot: 11750
+Board: [ 8h Jh 2h 2s 9c  ]
+
+Sular75 balance 0, lost 5875 [ 9d Jc ] [ two pairs, Jacks and Nines -- Jc,Jh,9d,9c,8h ]
+Lets_Gamble_TAG balance 20000, bet 8025, collected 13900, net +5875 [ 7h 9h ] [ a flush, Jack high -- Jh,9h,8h,7h,2h ]
+
+
+

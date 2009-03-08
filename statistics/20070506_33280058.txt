@@ -1,0 +1,1985 @@
+
+Hello hatoka,
+These hand histories are provided to you as an aid for your training and development. You are not permitted to share them with anyone.  We reserve the right to cease providing them or apply further restrictions at any time.
+Complete hand histories are only available to players that participated in the hand.
+You requested a transcript of Tournament #33280058.
+
+Summary
+----------
+Played on    : 06 May 2007 08:31 AM
+On Table     : Speed #1329957
+Game Type    : Texas Holdem
+Buy-In       : $5
+Fee          : $1
+You finished in  position 6
+1st place - Smartoil -  $25
+2nd place - holymama -  $15
+3rd place - buetzu -  $10
+
+***** Hand History for Game 5942732001 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33280058)  - Sun May 06 08:31:42 EDT 2007
+Table Speed 1329957 (Real Money) -- Seat 3 is the button
+Total number of players : 10
+Seat 1: DBOSSIE1 (2000)
+Seat 2: buetzu (2000)
+Seat 3: holymama (2000)
+Seat 4: Smartoil (2000)
+Seat 5: box66 (2000)
+Seat 6: y545nsk (2000)
+Seat 7: HMAli (2000)
+Seat 8: PokerReima (2000)
+Seat 9: SubvertC (2000)
+Seat 10: hatoka (2000)
+Smartoil  posts small blind (20)
+box66  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 2h, 9c ]
+y545nsk calls (40)
+HMAli calls (40)
+PokerReima calls (40)
+SubvertC folds.
+hatoka folds.
+DBOSSIE1 folds.
+buetzu calls (40)
+holymama folds.
+Smartoil calls (20)
+box66 checks.
+** Dealing Flop ** :  [ 6s, 4s, Qh ]
+Smartoil checks.
+box66 bets (40)
+y545nsk calls (40)
+HMAli folds.
+PokerReima folds.
+buetzu calls (40)
+Smartoil folds.
+** Dealing Turn ** :  [ 8h ]
+box66 bets (40)
+y545nsk calls (40)
+buetzu calls (40)
+** Dealing River ** :  [ 6h ]
+box66 bets (40)
+y545nsk calls (40)
+buetzu raises (200) to 200
+box66 folds.
+y545nsk folds.
+** Summary **
+Main Pot: 600
+Board: [ 6s 4s Qh 8h 6h  ]
+
+DBOSSIE1 balance 2000, didn't bet (folded)
+buetzu balance 2440, bet 320, collected 760, net +440
+holymama balance 2000, didn't bet (folded)
+Smartoil balance 1960, lost 40 (folded)
+box66 balance 1840, lost 160 (folded)
+y545nsk balance 1840, lost 160 (folded)
+HMAli balance 1960, lost 40 (folded)
+PokerReima balance 1960, lost 40 (folded)
+SubvertC balance 2000, didn't bet (folded)
+hatoka balance 2000, didn't bet (folded)
+
+***** Hand History for Game 5942735181 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33280058)  - Sun May 06 08:33:08 EDT 2007
+Table Speed 1329957 (Real Money) -- Seat 4 is the button
+Total number of players : 10
+Seat 1: DBOSSIE1 (2000)
+Seat 2: buetzu (2440)
+Seat 3: holymama (2000)
+Seat 4: Smartoil (1960)
+Seat 5: box66 (1840)
+Seat 6: y545nsk (1840)
+Seat 7: HMAli (1960)
+Seat 8: PokerReima (1960)
+Seat 9: SubvertC (2000)
+Seat 10: hatoka (2000)
+box66  posts small blind (20)
+y545nsk  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 3c, 8h ]
+HMAli folds.
+PokerReima folds.
+SubvertC folds.
+hatoka folds.
+DBOSSIE1 folds.
+buetzu raises (80) to 80
+holymama folds.
+Smartoil folds.
+box66 calls (60)
+y545nsk calls (40)
+** Dealing Flop ** :  [ 3s, 9s, Ac ]
+box66 checks.
+y545nsk checks.
+buetzu bets (120)
+box66 raises (240) to 240
+y545nsk folds.
+buetzu calls (120)
+** Dealing Turn ** :  [ Ad ]
+box66 bets (240)
+buetzu calls (240)
+** Dealing River ** :  [ 2h ]
+box66 checks.
+buetzu checks.
+** Summary **
+Main Pot: 1200
+Board: [ 3s 9s Ac Ad 2h  ]
+
+DBOSSIE1 balance 2000, didn't bet (folded)
+buetzu balance 3080, bet 560, collected 1200, net +640 [ Kh Ks ] [ two pairs, Aces and Kings -- Ac,Ad,Kh,Ks,9s ]
+holymama balance 2000, didn't bet (folded)
+Smartoil balance 1960, didn't bet (folded)
+box66 balance 1280, lost 560 [ Td Jh ] [ a pair of Aces -- Ac,Ad,Jh,Td,9s ]
+y545nsk balance 1760, lost 80 (folded)
+HMAli balance 1960, didn't bet (folded)
+PokerReima balance 1960, didn't bet (folded)
+SubvertC balance 2000, didn't bet (folded)
+hatoka balance 2000, didn't bet (folded)
+
+***** Hand History for Game 5942737353 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33280058)  - Sun May 06 08:34:05 EDT 2007
+Table Speed 1329957 (Real Money) -- Seat 5 is the button
+Total number of players : 10
+Seat 1: DBOSSIE1 (2000)
+Seat 2: buetzu (3080)
+Seat 3: holymama (2000)
+Seat 4: Smartoil (1960)
+Seat 5: box66 (1280)
+Seat 6: y545nsk (1760)
+Seat 7: HMAli (1960)
+Seat 8: PokerReima (1960)
+Seat 9: SubvertC (2000)
+Seat 10: hatoka (2000)
+y545nsk  posts small blind (20)
+HMAli  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 6s, As ]
+PokerReima folds.
+SubvertC folds.
+hatoka raises (80) to 80
+DBOSSIE1 folds.
+buetzu folds.
+holymama folds.
+Smartoil folds.
+box66 folds.
+y545nsk calls (60)
+HMAli calls (40)
+** Dealing Flop ** :  [ 9s, Kd, Qc ]
+y545nsk checks.
+HMAli bets (80)
+hatoka folds.
+y545nsk calls (80)
+** Dealing Turn ** :  [ 2c ]
+y545nsk checks.
+HMAli checks.
+** Dealing River ** :  [ 3c ]
+y545nsk checks.
+HMAli checks.
+** Summary **
+Main Pot: 400
+Board: [ 9s Kd Qc 2c 3c  ]
+
+DBOSSIE1 balance 2000, didn't bet (folded)
+buetzu balance 3080, didn't bet (folded)
+holymama balance 2000, didn't bet (folded)
+Smartoil balance 1960, didn't bet (folded)
+box66 balance 1280, didn't bet (folded)
+y545nsk balance 2000, bet 160, collected 400, net +240 [ 8h Ad ] [ high card Ace -- Ad,Kd,Qc,9s,8h ]
+HMAli balance 1800, lost 160 [ Ts 5s ] [ high card King -- Kd,Qc,Ts,9s,5s ]
+
+PokerReima balance 1960, didn't bet (folded)
+SubvertC balance 2000, didn't bet (folded)
+hatoka balance 1920, lost 80 (folded)
+
+***** Hand History for Game 5942739735 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33280058)  - Sun May 06 08:35:04 EDT 2007
+Table Speed 1329957 (Real Money) -- Seat 6 is the button
+Total number of players : 10
+Seat 1: DBOSSIE1 (2000)
+Seat 2: buetzu (3080)
+Seat 3: holymama (2000)
+Seat 4: Smartoil (1960)
+Seat 5: box66 (1280)
+Seat 6: y545nsk (2000)
+Seat 7: HMAli (1800)
+Seat 8: PokerReima (1960)
+Seat 9: SubvertC (2000)
+Seat 10: hatoka (1920)
+HMAli  posts small blind (20)
+PokerReima  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 4h, 7c ]
+SubvertC calls (40)
+hatoka folds.
+DBOSSIE1 folds.
+buetzu folds.
+holymama calls (40)
+Smartoil raises (120) to 120
+box66 folds.
+y545nsk folds.
+HMAli folds.
+PokerReima folds.
+SubvertC folds.
+holymama calls (80)
+** Dealing Flop ** :  [ 9d, 8c, Jc ]
+holymama checks.
+Smartoil bets (150)
+holymama folds.
+** Summary **
+Main Pot: 340
+Board: [ 9d 8c Jc  ]
+
+DBOSSIE1 balance 2000, didn't bet (folded)
+buetzu balance 3080, didn't bet (folded)
+holymama balance 1880, lost 120 (folded)
+Smartoil balance 2180, bet 270, collected 490, net +220
+box66 balance 1280, didn't bet (folded)
+y545nsk balance 2000, didn't bet (folded)
+HMAli balance 1780, lost 20 (folded)
+PokerReima balance 1920, lost 40 (folded)
+SubvertC balance 1960, lost 40 (folded)
+hatoka balance 1920, didn't bet (folded)
+
+***** Hand History for Game 5942741601 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33280058)  - Sun May 06 08:35:52 EDT 2007
+Table Speed 1329957 (Real Money) -- Seat 7 is the button
+Total number of players : 10
+Seat 1: DBOSSIE1 (2000)
+Seat 2: buetzu (3080)
+Seat 3: holymama (1880)
+Seat 4: Smartoil (2180)
+Seat 5: box66 (1280)
+Seat 6: y545nsk (2000)
+Seat 7: HMAli (1780)
+Seat 8: PokerReima (1920)
+Seat 9: SubvertC (1960)
+Seat 10: hatoka (1920)
+PokerReima  posts small blind (20)
+SubvertC  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ Kd, 2s ]
+hatoka folds.
+DBOSSIE1 folds.
+buetzu calls (40)
+holymama folds.
+Smartoil folds.
+box66 folds.
+y545nsk folds.
+HMAli folds.
+PokerReima calls (20)
+SubvertC checks.
+** Dealing Flop ** :  [ Jc, 4c, 9d ]
+PokerReima bets (120)
+SubvertC calls (120)
+buetzu folds.
+** Dealing Turn ** :  [ 7h ]
+PokerReima bets (200)
+SubvertC folds.
+** Summary **
+Main Pot: 360
+Board: [ Jc 4c 9d 7h  ]
+
+DBOSSIE1 balance 2000, didn't bet (folded)
+buetzu balance 3040, lost 40 (folded)
+holymama balance 1880, didn't bet (folded)
+Smartoil balance 2180, didn't bet (folded)
+box66 balance 1280, didn't bet (folded)
+y545nsk balance 2000, didn't bet (folded)
+HMAli balance 1780, didn't bet (folded)
+PokerReima balance 2120, bet 360, collected 560, net +200
+SubvertC balance 1800, lost 160 (folded)
+hatoka balance 1920, didn't bet (folded)
+
+***** Hand History for Game 5942744301 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33280058)  - Sun May 06 08:37:00 EDT 2007
+Table Speed 1329957 (Real Money) -- Seat 8 is the button
+Total number of players : 10
+Seat 1: DBOSSIE1 (2000)
+Seat 2: buetzu (3040)
+Seat 3: holymama (1880)
+Seat 4: Smartoil (2180)
+Seat 5: box66 (1280)
+Seat 6: y545nsk (2000)
+Seat 7: HMAli (1780)
+Seat 8: PokerReima (2120)
+Seat 9: SubvertC (1800)
+Seat 10: hatoka (1920)
+SubvertC  posts small blind (30)
+hatoka  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 7s, Qs ]
+DBOSSIE1 folds.
+buetzu calls (60)
+holymama folds.
+Smartoil folds.
+box66 calls (60)
+y545nsk folds.
+HMAli folds.
+PokerReima folds.
+SubvertC folds.
+hatoka checks.
+** Dealing Flop ** :  [ Ks, Td, 9d ]
+hatoka checks.
+buetzu checks.
+box66 bets (180)
+hatoka folds.
+buetzu raises (360) to 360
+box66 calls (180)
+** Dealing Turn ** :  [ 4d ]
+buetzu checks.
+box66 checks.
+** Dealing River ** :  [ 4h ]
+buetzu bets (240)
+box66 calls (240)
+** Summary **
+Main Pot: 1410
+Board: [ Ks Td 9d 4d 4h  ]
+
+DBOSSIE1 balance 2000, didn't bet (folded)
+buetzu balance 3790, bet 660, collected 1410, net +750 [ Tc Kh ] [ two pairs, Kings and Tens -- Kh,Ks,Tc,Td,9d ]
+holymama balance 1880, didn't bet (folded)
+Smartoil balance 2180, didn't bet (folded)
+box66 balance 620, lost 660 [ Jc Jh ] [ two pairs, Jacks and Fours -- Ks,Jc,Jh,4d,4h ]
+
+y545nsk balance 2000, didn't bet (folded)
+HMAli balance 1780, didn't bet (folded)
+PokerReima balance 2120, didn't bet (folded)
+SubvertC balance 1770, lost 30 (folded)
+hatoka balance 1860, lost 60 (folded)
+
+***** Hand History for Game 5942747922 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33280058)  - Sun May 06 08:38:31 EDT 2007
+Table Speed 1329957 (Real Money) -- Seat 9 is the button
+Total number of players : 10
+Seat 1: DBOSSIE1 (2000)
+Seat 2: buetzu (3790)
+Seat 3: holymama (1880)
+Seat 4: Smartoil (2180)
+Seat 5: box66 (620)
+Seat 6: y545nsk (2000)
+Seat 7: HMAli (1780)
+Seat 8: PokerReima (2120)
+Seat 9: SubvertC (1770)
+Seat 10: hatoka (1860)
+hatoka  posts small blind (30)
+DBOSSIE1  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Kc, Td ]
+buetzu calls (60)
+holymama calls (60)
+Smartoil folds.
+box66 calls (60)
+y545nsk folds.
+HMAli calls (60)
+PokerReima calls (60)
+SubvertC calls (60)
+hatoka calls (30)
+DBOSSIE1 checks.
+** Dealing Flop ** :  [ 3c, As, 6s ]
+hatoka checks.
+DBOSSIE1 checks.
+buetzu checks.
+holymama checks.
+box66 bets (240)
+HMAli raises (600) to 600
+PokerReima folds.
+SubvertC folds.
+hatoka folds.
+DBOSSIE1 folds.
+buetzu folds.
+holymama folds.
+box66 calls (320)
+box66 is all-In.
+** Dealing Turn ** :  [ 4c ]
+** Dealing River ** :  [ 6c ]
+Creating Main Pot with $1600 with box66
+** Summary **
+Main Pot: 1600
+Board: [ 3c As 6s 4c 6c  ]
+
+DBOSSIE1 balance 1940, lost 60 (folded)
+buetzu balance 3730, lost 60 (folded)
+holymama balance 1820, lost 60 (folded)
+Smartoil balance 2180, didn't bet (folded)
+box66 balance 0, lost 620 [ 9c Ah ] [ two pairs, Aces and Sixes -- Ah,As,9c,6s,6c ]
+y545nsk balance 2000, didn't bet (folded)
+HMAli balance 2760, bet 660, collected 1640, net +980 [ 3d 3h ] [ a full house, Threes full of Sixes -- 6s,6c,3d,3h,3c ]
+PokerReima balance 2060, lost 60 (folded)
+SubvertC balance 1710, lost 60 (folded)
+hatoka balance 1800, lost 60 (folded)
+
+***** Hand History for Game 5942750361 *****
+box66 finished in 10 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33280058)  - Sun May 06 08:39:32 EDT 2007
+Table Speed 1329957 (Real Money) -- Seat 10 is the button
+Total number of players : 9
+Seat 1: DBOSSIE1 (1940)
+Seat 2: buetzu (3730)
+Seat 3: holymama (1820)
+Seat 4: Smartoil (2180)
+Seat 6: y545nsk (2000)
+Seat 7: HMAli (2760)
+Seat 8: PokerReima (2060)
+Seat 9: SubvertC (1710)
+Seat 10: hatoka (1800)
+DBOSSIE1  posts small blind (30)
+buetzu  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Td, Qc ]
+holymama folds.
+Smartoil folds.
+y545nsk folds.
+HMAli folds.
+PokerReima folds.
+SubvertC calls (60)
+hatoka calls (60)
+DBOSSIE1 raises (210) to 240
+buetzu folds.
+SubvertC folds.
+hatoka folds.
+** Summary **
+Main Pot: 240
+
+DBOSSIE1 balance 2120, bet 240, collected 420, net +180
+buetzu balance 3670, lost 60 (folded)
+holymama balance 1820, didn't bet (folded)
+Smartoil balance 2180, didn't bet (folded)
+y545nsk balance 2000, didn't bet (folded)
+HMAli balance 2760, didn't bet (folded)
+PokerReima balance 2060, didn't bet (folded)
+SubvertC balance 1650, lost 60 (folded)
+hatoka balance 1740, lost 60 (folded)
+
+***** Hand History for Game 5942752082 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33280058)  - Sun May 06 08:40:15 EDT 2007
+Table Speed 1329957 (Real Money) -- Seat 1 is the button
+Total number of players : 9
+Seat 1: DBOSSIE1 (2120)
+Seat 2: buetzu (3670)
+Seat 3: holymama (1820)
+Seat 4: Smartoil (2180)
+Seat 6: y545nsk (2000)
+Seat 7: HMAli (2760)
+Seat 8: PokerReima (2060)
+Seat 9: SubvertC (1650)
+Seat 10: hatoka (1740)
+buetzu  posts small blind (30)
+holymama  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 8d, Ad ]
+Smartoil folds.
+y545nsk calls (60)
+HMAli calls (60)
+PokerReima calls (60)
+SubvertC folds.
+hatoka raises (120) to 120
+DBOSSIE1 calls (120)
+buetzu folds.
+holymama folds.
+y545nsk calls (60)
+HMAli calls (60)
+PokerReima calls (60)
+** Dealing Flop ** :  [ 7h, Ks, 6d ]
+y545nsk checks.
+HMAli bets (120)
+PokerReima folds.
+hatoka folds.
+DBOSSIE1 calls (120)
+y545nsk calls (120)
+** Dealing Turn ** :  [ Kc ]
+y545nsk checks.
+HMAli checks.
+DBOSSIE1 checks.
+** Dealing River ** :  [ 5d ]
+y545nsk bets (60)
+HMAli folds.
+DBOSSIE1 folds.
+** Summary **
+Main Pot: 1050
+Board: [ 7h Ks 6d Kc 5d  ]
+
+DBOSSIE1 balance 1880, lost 240 (folded)
+buetzu balance 3640, lost 30 (folded)
+holymama balance 1760, lost 60 (folded)
+Smartoil balance 2180, didn't bet (folded)
+y545nsk balance 2810, bet 300, collected 1110, net +810
+HMAli balance 2520, lost 240 (folded)
+PokerReima balance 1940, lost 120 (folded)
+SubvertC balance 1650, didn't bet (folded)
+hatoka balance 1620, lost 120 (folded)
+
+***** Hand History for Game 5942755653 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33280058)  - Sun May 06 08:41:44 EDT 2007
+Table Speed 1329957 (Real Money) -- Seat 2 is the button
+Total number of players : 9
+Seat 1: DBOSSIE1 (1880)
+Seat 2: buetzu (3640)
+Seat 3: holymama (1760)
+Seat 4: Smartoil (2180)
+Seat 6: y545nsk (2810)
+Seat 7: HMAli (2520)
+Seat 8: PokerReima (1940)
+Seat 9: SubvertC (1650)
+Seat 10: hatoka (1620)
+holymama  posts small blind (30)
+Smartoil  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Th, 3s ]
+y545nsk folds.
+HMAli calls (60)
+PokerReima folds.
+SubvertC folds.
+hatoka folds.
+DBOSSIE1 folds.
+buetzu calls (60)
+holymama raises (90) to 120
+Smartoil calls (60)
+HMAli calls (60)
+buetzu calls (60)
+** Dealing Flop ** :  [ Qs, 5d, 5s ]
+holymama bets (120)
+Smartoil folds.
+HMAli folds.
+buetzu folds.
+** Summary **
+Main Pot: 480
+Board: [ Qs 5d 5s  ]
+
+DBOSSIE1 balance 1880, didn't bet (folded)
+buetzu balance 3520, lost 120 (folded)
+holymama balance 2120, bet 240, collected 600, net +360
+Smartoil balance 2060, lost 120 (folded)
+y545nsk balance 2810, didn't bet (folded)
+HMAli balance 2400, lost 120 (folded)
+PokerReima balance 1940, didn't bet (folded)
+SubvertC balance 1650, didn't bet (folded)
+hatoka balance 1620, didn't bet (folded)
+
+***** Hand History for Game 5942757781 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33280058)  - Sun May 06 08:42:37 EDT 2007
+Table Speed 1329957 (Real Money) -- Seat 3 is the button
+Total number of players : 9
+Seat 1: DBOSSIE1 (1880)
+Seat 2: buetzu (3520)
+Seat 3: holymama (2120)
+Seat 4: Smartoil (2060)
+Seat 6: y545nsk (2810)
+Seat 7: HMAli (2400)
+Seat 8: PokerReima (1940)
+Seat 9: SubvertC (1650)
+Seat 10: hatoka (1620)
+Smartoil  posts small blind (50)
+y545nsk  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 8d, Th ]
+HMAli folds.
+PokerReima folds.
+SubvertC folds.
+hatoka folds.
+DBOSSIE1 folds.
+buetzu calls (100)
+holymama raises (200) to 200
+Smartoil folds.
+y545nsk folds.
+buetzu calls (100)
+** Dealing Flop ** :  [ 2h, 7h, 2s ]
+buetzu checks.
+holymama bets (200)
+buetzu folds.
+** Summary **
+Main Pot: 550
+Board: [ 2h 7h 2s  ]
+
+DBOSSIE1 balance 1880, didn't bet (folded)
+buetzu balance 3320, lost 200 (folded)
+holymama balance 2470, bet 400, collected 750, net +350
+Smartoil balance 2010, lost 50 (folded)
+y545nsk balance 2710, lost 100 (folded)
+HMAli balance 2400, didn't bet (folded)
+PokerReima balance 1940, didn't bet (folded)
+SubvertC balance 1650, didn't bet (folded)
+hatoka balance 1620, didn't bet (folded)
+
+***** Hand History for Game 5942760189 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33280058)  - Sun May 06 08:43:39 EDT 2007
+Table Speed 1329957 (Real Money) -- Seat 4 is the button
+Total number of players : 9
+Seat 1: DBOSSIE1 (1880)
+Seat 2: buetzu (3320)
+Seat 3: holymama (2470)
+Seat 4: Smartoil (2010)
+Seat 6: y545nsk (2710)
+Seat 7: HMAli (2400)
+Seat 8: PokerReima (1940)
+Seat 9: SubvertC (1650)
+Seat 10: hatoka (1620)
+y545nsk  posts small blind (50)
+HMAli  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Ts, 9d ]
+PokerReima folds.
+SubvertC folds.
+hatoka folds.
+DBOSSIE1 folds.
+buetzu folds.
+holymama raises (300) to 300
+Smartoil folds.
+y545nsk folds.
+HMAli folds.
+** Summary **
+Main Pot: 250
+
+DBOSSIE1 balance 1880, didn't bet (folded)
+buetzu balance 3320, didn't bet (folded)
+holymama balance 2620, bet 300, collected 450, net +150
+Smartoil balance 2010, didn't bet (folded)
+y545nsk balance 2660, lost 50 (folded)
+HMAli balance 2300, lost 100 (folded)
+PokerReima balance 1940, didn't bet (folded)
+SubvertC balance 1650, didn't bet (folded)
+hatoka balance 1620, didn't bet (folded)
+
+***** Hand History for Game 5942761479 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33280058)  - Sun May 06 08:44:10 EDT 2007
+Table Speed 1329957 (Real Money) -- Seat 6 is the button
+Total number of players : 9
+Seat 1: DBOSSIE1 (1880)
+Seat 2: buetzu (3320)
+Seat 3: holymama (2620)
+Seat 4: Smartoil (2010)
+Seat 6: y545nsk (2660)
+Seat 7: HMAli (2300)
+Seat 8: PokerReima (1940)
+Seat 9: SubvertC (1650)
+Seat 10: hatoka (1620)
+HMAli  posts small blind (50)
+PokerReima  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 3h, 2h ]
+SubvertC folds.
+hatoka folds.
+DBOSSIE1 folds.
+buetzu calls (100)
+holymama folds.
+Smartoil folds.
+y545nsk calls (100)
+HMAli folds.
+PokerReima checks.
+** Dealing Flop ** :  [ Jd, 7s, Js ]
+PokerReima checks.
+buetzu checks.
+y545nsk checks.
+** Dealing Turn ** :  [ 9d ]
+PokerReima bets (200)
+buetzu folds.
+y545nsk calls (200)
+** Dealing River ** :  [ 5c ]
+PokerReima checks.
+y545nsk bets (600)
+PokerReima folds.
+** Summary **
+Main Pot: 750
+Board: [ Jd 7s Js 9d 5c  ]
+
+DBOSSIE1 balance 1880, didn't bet (folded)
+buetzu balance 3220, lost 100 (folded)
+holymama balance 2620, didn't bet (folded)
+Smartoil balance 2010, didn't bet (folded)
+y545nsk balance 3110, bet 900, collected 1350, net +450
+HMAli balance 2250, lost 50 (folded)
+PokerReima balance 1640, lost 300 (folded)
+SubvertC balance 1650, didn't bet (folded)
+hatoka balance 1620, didn't bet (folded)
+
+***** Hand History for Game 5942763928 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33280058)  - Sun May 06 08:45:13 EDT 2007
+Table Speed 1329957 (Real Money) -- Seat 7 is the button
+Total number of players : 9
+Seat 1: DBOSSIE1 (1880)
+Seat 2: buetzu (3220)
+Seat 3: holymama (2620)
+Seat 4: Smartoil (2010)
+Seat 6: y545nsk (3110)
+Seat 7: HMAli (2250)
+Seat 8: PokerReima (1640)
+Seat 9: SubvertC (1650)
+Seat 10: hatoka (1620)
+PokerReima  posts small blind (50)
+SubvertC  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 7d, 9h ]
+hatoka folds.
+DBOSSIE1 folds.
+buetzu folds.
+holymama folds.
+Smartoil raises (250) to 250
+y545nsk folds.
+HMAli folds.
+PokerReima folds.
+SubvertC folds.
+** Summary **
+Main Pot: 250
+
+DBOSSIE1 balance 1880, didn't bet (folded)
+buetzu balance 3220, didn't bet (folded)
+holymama balance 2620, didn't bet (folded)
+Smartoil balance 2160, bet 250, collected 400, net +150
+y545nsk balance 3110, didn't bet (folded)
+HMAli balance 2250, didn't bet (folded)
+PokerReima balance 1590, lost 50 (folded)
+SubvertC balance 1550, lost 100 (folded)
+hatoka balance 1620, didn't bet (folded)
+
+***** Hand History for Game 5942765644 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33280058)  - Sun May 06 08:45:50 EDT 2007
+Table Speed 1329957 (Real Money) -- Seat 8 is the button
+Total number of players : 9
+Seat 1: DBOSSIE1 (1880)
+Seat 2: buetzu (3220)
+Seat 3: holymama (2620)
+Seat 4: Smartoil (2160)
+Seat 6: y545nsk (3110)
+Seat 7: HMAli (2250)
+Seat 8: PokerReima (1590)
+Seat 9: SubvertC (1550)
+Seat 10: hatoka (1620)
+SubvertC  posts small blind (50)
+hatoka  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Td, 7s ]
+DBOSSIE1 calls (100)
+buetzu folds.
+holymama calls (100)
+Smartoil folds.
+y545nsk raises (3110) to 3110
+y545nsk is all-In.
+HMAli folds.
+PokerReima folds.
+SubvertC folds.
+hatoka folds.
+DBOSSIE1 folds.
+holymama folds.
+Creating Main Pot with $450 with y545nsk
+** Summary **
+Main Pot: 450
+
+DBOSSIE1 balance 1780, lost 100 (folded)
+buetzu balance 3220, didn't bet (folded)
+holymama balance 2520, lost 100 (folded)
+Smartoil balance 2160, didn't bet (folded)
+y545nsk balance 3460, bet 3110, collected 3460, net +350
+HMAli balance 2250, didn't bet (folded)
+PokerReima balance 1590, didn't bet (folded)
+SubvertC balance 1500, lost 50 (folded)
+hatoka balance 1520, lost 100 (folded)
+
+***** Hand History for Game 5942767370 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33280058)  - Sun May 06 08:46:32 EDT 2007
+Table Speed 1329957 (Real Money) -- Seat 9 is the button
+Total number of players : 9
+Seat 1: DBOSSIE1 (1780)
+Seat 2: buetzu (3220)
+Seat 3: holymama (2520)
+Seat 4: Smartoil (2160)
+Seat 6: y545nsk (3460)
+Seat 7: HMAli (2250)
+Seat 8: PokerReima (1590)
+Seat 9: SubvertC (1500)
+Seat 10: hatoka (1520)
+hatoka  posts small blind (50)
+DBOSSIE1  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 9d, Ah ]
+buetzu folds.
+holymama raises (300) to 300
+Smartoil folds.
+y545nsk folds.
+HMAli folds.
+PokerReima folds.
+SubvertC folds.
+hatoka calls (250)
+DBOSSIE1 folds.
+** Dealing Flop ** :  [ 4d, 4h, 9s ]
+hatoka bets (500)
+holymama raises (1000) to 1000
+hatoka raises (720) to 1220
+hatoka is all-In.
+holymama calls (220)
+** Dealing Turn ** :  [ Kh ]
+** Dealing River ** :  [ 8s ]
+Creating Main Pot with $3140 with hatoka
+** Summary **
+Main Pot: 3140
+Board: [ 4d 4h 9s Kh 8s  ]
+
+DBOSSIE1 balance 1680, lost 100 (folded)
+buetzu balance 3220, didn't bet (folded)
+holymama balance 1000, lost 1520 [ Qs As ] [ a pair of Fours -- As,Kh,Qs,4d,4h ]
+Smartoil balance 2160, didn't bet (folded)
+y545nsk balance 3460, didn't bet (folded)
+HMAli balance 2250, didn't bet (folded)
+PokerReima balance 1590, didn't bet (folded)
+SubvertC balance 1500, didn't bet (folded)
+hatoka balance 3140, bet 1520, collected 3140, net +1620 [ 9d Ah ] [ two pairs, Nines and Fours -- Ah,9d,9s,4d,4h ]
+
+***** Hand History for Game 5942769743 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33280058)  - Sun May 06 08:47:30 EDT 2007
+Table Speed 1329957 (Real Money) -- Seat 10 is the button
+Total number of players : 9
+Seat 1: DBOSSIE1 (1680)
+Seat 2: buetzu (3220)
+Seat 3: holymama (1000)
+Seat 4: Smartoil (2160)
+Seat 6: y545nsk (3460)
+Seat 7: HMAli (2250)
+Seat 8: PokerReima (1590)
+Seat 9: SubvertC (1500)
+Seat 10: hatoka (3140)
+DBOSSIE1  posts small blind (50)
+buetzu  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 3h, 8s ]
+holymama folds.
+Smartoil folds.
+y545nsk folds.
+HMAli folds.
+PokerReima folds.
+SubvertC folds.
+hatoka folds.
+DBOSSIE1 raises (250) to 300
+buetzu folds.
+** Summary **
+Main Pot: 200
+
+DBOSSIE1 balance 1780, bet 300, collected 400, net +100
+buetzu balance 3120, lost 100 (folded)
+holymama balance 1000, didn't bet (folded)
+Smartoil balance 2160, didn't bet (folded)
+y545nsk balance 3460, didn't bet (folded)
+HMAli balance 2250, didn't bet (folded)
+PokerReima balance 1590, didn't bet (folded)
+SubvertC balance 1500, didn't bet (folded)
+hatoka balance 3140, didn't bet (folded)
+
+***** Hand History for Game 5942770728 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33280058)  - Sun May 06 08:47:53 EDT 2007
+Table Speed 1329957 (Real Money) -- Seat 1 is the button
+Total number of players : 9
+Seat 1: DBOSSIE1 (1780)
+Seat 2: buetzu (3120)
+Seat 3: holymama (1000)
+Seat 4: Smartoil (2160)
+Seat 6: y545nsk (3460)
+Seat 7: HMAli (2250)
+Seat 8: PokerReima (1590)
+Seat 9: SubvertC (1500)
+Seat 10: hatoka (3140)
+buetzu  posts small blind (100)
+holymama  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Ts, Jd ]
+Smartoil folds.
+y545nsk folds.
+HMAli calls (200)
+PokerReima folds.
+SubvertC folds.
+hatoka raises (600) to 600
+DBOSSIE1 folds.
+buetzu folds.
+holymama folds.
+HMAli calls (400)
+** Dealing Flop ** :  [ 9h, 8d, Td ]
+HMAli bets (1650)
+HMAli is all-In.
+hatoka calls (1650)
+** Dealing Turn ** :  [ 5c ]
+** Dealing River ** :  [ 7s ]
+Creating Main Pot with $4800 with HMAli
+** Summary **
+Main Pot: 4800
+Board: [ 9h 8d Td 5c 7s  ]
+
+DBOSSIE1 balance 1780, didn't bet (folded)
+buetzu balance 3020, lost 100 (folded)
+holymama balance 800, lost 200 (folded)
+Smartoil balance 2160, didn't bet (folded)
+y545nsk balance 3460, didn't bet (folded)
+HMAli balance 0, lost 2250 [ Ac 8h ] [ a pair of Eights -- Ac,Td,9h,8h,8d ]
+PokerReima balance 1590, didn't bet (folded)
+SubvertC balance 1500, didn't bet (folded)
+hatoka balance 5690, bet 2250, collected 4800, net +2550 [ Ts Jd ] [ a straight Seven to Jack -- Jd,Ts,9h,8d,7s ]
+
+***** Hand History for Game 5942773208 *****
+HMAli finished in 9 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33280058)  - Sun May 06 08:48:49 EDT 2007
+Table Speed 1329957 (Real Money) -- Seat 2 is the button
+Total number of players : 8
+Seat 1: DBOSSIE1 (1780)
+Seat 2: buetzu (3020)
+Seat 3: holymama (800)
+Seat 4: Smartoil (2160)
+Seat 6: y545nsk (3460)
+Seat 8: PokerReima (1590)
+Seat 9: SubvertC (1500)
+Seat 10: hatoka (5690)
+holymama  posts small blind (100)
+Smartoil  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 9h, Kc ]
+y545nsk folds.
+PokerReima folds.
+SubvertC folds.
+hatoka raises (500) to 500
+DBOSSIE1 folds.
+buetzu folds.
+holymama folds.
+Smartoil raises (1960) to 2160
+Smartoil is all-In.
+hatoka folds.
+Creating Main Pot with $1100 with Smartoil
+** Summary **
+Main Pot: 1100
+
+DBOSSIE1 balance 1780, didn't bet (folded)
+buetzu balance 3020, didn't bet (folded)
+holymama balance 700, lost 100 (folded)
+Smartoil balance 2760, bet 2160, collected 2760, net +600
+y545nsk balance 3460, didn't bet (folded)
+PokerReima balance 1590, didn't bet (folded)
+SubvertC balance 1500, didn't bet (folded)
+hatoka balance 5190, lost 500 (folded)
+
+***** Hand History for Game 5942776396 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33280058)  - Sun May 06 08:50:03 EDT 2007
+Table Speed 1329957 (Real Money) -- Seat 3 is the button
+Total number of players : 8
+Seat 1: DBOSSIE1 (1780)
+Seat 2: buetzu (3020)
+Seat 3: holymama (700)
+Seat 4: Smartoil (2760)
+Seat 6: y545nsk (3460)
+Seat 8: PokerReima (1590)
+Seat 9: SubvertC (1500)
+Seat 10: hatoka (5190)
+Smartoil  posts small blind (100)
+y545nsk  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Ah, 3d ]
+PokerReima folds.
+SubvertC folds.
+hatoka folds.
+DBOSSIE1 folds.
+buetzu folds.
+holymama folds.
+Smartoil folds.
+** Summary **
+Main Pot: 200
+
+DBOSSIE1 balance 1780, didn't bet (folded)
+buetzu balance 3020, didn't bet (folded)
+holymama balance 700, didn't bet (folded)
+Smartoil balance 2660, lost 100 (folded)
+y545nsk balance 3560, bet 200, collected 300, net +100
+PokerReima balance 1590, didn't bet (folded)
+SubvertC balance 1500, didn't bet (folded)
+hatoka balance 5190, didn't bet (folded)
+
+***** Hand History for Game 5942777455 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33280058)  - Sun May 06 08:50:29 EDT 2007
+Table Speed 1329957 (Real Money) -- Seat 4 is the button
+Total number of players : 8
+Seat 1: DBOSSIE1 (1780)
+Seat 2: buetzu (3020)
+Seat 3: holymama (700)
+Seat 4: Smartoil (2660)
+Seat 6: y545nsk (3560)
+Seat 8: PokerReima (1590)
+Seat 9: SubvertC (1500)
+Seat 10: hatoka (5190)
+y545nsk  posts small blind (100)
+PokerReima  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 8h, Kd ]
+SubvertC folds.
+hatoka folds.
+DBOSSIE1 folds.
+buetzu calls (200)
+holymama folds.
+Smartoil raises (600) to 600
+y545nsk folds.
+PokerReima folds.
+buetzu calls (400)
+** Dealing Flop ** :  [ Kc, As, 7h ]
+buetzu checks.
+Smartoil checks.
+** Dealing Turn ** :  [ 3h ]
+buetzu bets (200)
+Smartoil folds.
+** Summary **
+Main Pot: 1500
+Board: [ Kc As 7h 3h  ]
+
+DBOSSIE1 balance 1780, didn't bet (folded)
+buetzu balance 3920, bet 800, collected 1700, net +900
+holymama balance 700, didn't bet (folded)
+Smartoil balance 2060, lost 600 (folded)
+y545nsk balance 3460, lost 100 (folded)
+PokerReima balance 1390, lost 200 (folded)
+SubvertC balance 1500, didn't bet (folded)
+hatoka balance 5190, didn't bet (folded)
+
+***** Hand History for Game 5942779521 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33280058)  - Sun May 06 08:51:18 EDT 2007
+Table Speed 1329957 (Real Money) -- Seat 6 is the button
+Total number of players : 8
+Seat 1: DBOSSIE1 (1780)
+Seat 2: buetzu (3920)
+Seat 3: holymama (700)
+Seat 4: Smartoil (2060)
+Seat 6: y545nsk (3460)
+Seat 8: PokerReima (1390)
+Seat 9: SubvertC (1500)
+Seat 10: hatoka (5190)
+PokerReima  posts small blind (100)
+SubvertC  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 4s, 8d ]
+hatoka folds.
+DBOSSIE1 folds.
+buetzu folds.
+holymama folds.
+Smartoil raises (500) to 500
+y545nsk folds.
+PokerReima folds.
+SubvertC folds.
+** Summary **
+Main Pot: 500
+
+DBOSSIE1 balance 1780, didn't bet (folded)
+buetzu balance 3920, didn't bet (folded)
+holymama balance 700, didn't bet (folded)
+Smartoil balance 2360, bet 500, collected 800, net +300
+y545nsk balance 3460, didn't bet (folded)
+PokerReima balance 1290, lost 100 (folded)
+SubvertC balance 1300, lost 200 (folded)
+hatoka balance 5190, didn't bet (folded)
+
+***** Hand History for Game 5942781016 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33280058)  - Sun May 06 08:51:52 EDT 2007
+Table Speed 1329957 (Real Money) -- Seat 8 is the button
+Total number of players : 8
+Seat 1: DBOSSIE1 (1780)
+Seat 2: buetzu (3920)
+Seat 3: holymama (700)
+Seat 4: Smartoil (2360)
+Seat 6: y545nsk (3460)
+Seat 8: PokerReima (1290)
+Seat 9: SubvertC (1300)
+Seat 10: hatoka (5190)
+SubvertC  posts small blind (100)
+hatoka  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Ks, 4c ]
+DBOSSIE1 folds.
+buetzu folds.
+holymama folds.
+Smartoil folds.
+y545nsk folds.
+PokerReima raises (1290) to 1290
+PokerReima is all-In.
+SubvertC folds.
+hatoka folds.
+Creating Main Pot with $500 with PokerReima
+** Summary **
+Main Pot: 500
+
+DBOSSIE1 balance 1780, didn't bet (folded)
+buetzu balance 3920, didn't bet (folded)
+holymama balance 700, didn't bet (folded)
+Smartoil balance 2360, didn't bet (folded)
+y545nsk balance 3460, didn't bet (folded)
+PokerReima balance 1590, bet 1290, collected 1590, net +300
+SubvertC balance 1200, lost 100 (folded)
+hatoka balance 4990, lost 200 (folded)
+
+***** Hand History for Game 5942782242 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33280058)  - Sun May 06 08:52:21 EDT 2007
+Table Speed 1329957 (Real Money) -- Seat 9 is the button
+Total number of players : 8
+Seat 1: DBOSSIE1 (1780)
+Seat 2: buetzu (3920)
+Seat 3: holymama (700)
+Seat 4: Smartoil (2360)
+Seat 6: y545nsk (3460)
+Seat 8: PokerReima (1590)
+Seat 9: SubvertC (1200)
+Seat 10: hatoka (4990)
+hatoka  posts small blind (100)
+DBOSSIE1  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 8d, 4c ]
+buetzu folds.
+holymama folds.
+Smartoil calls (200)
+y545nsk folds.
+PokerReima folds.
+SubvertC folds.
+hatoka folds.
+DBOSSIE1 raises (400) to 600
+Smartoil calls (400)
+** Dealing Flop ** :  [ 5d, Jd, 3d ]
+DBOSSIE1 bets (1180)
+DBOSSIE1 is all-In.
+Smartoil calls (1180)
+** Dealing Turn ** :  [ Qc ]
+** Dealing River ** :  [ Qs ]
+Creating Main Pot with $3660 with DBOSSIE1
+** Summary **
+Main Pot: 3660
+Board: [ 5d Jd 3d Qc Qs  ]
+
+DBOSSIE1 balance 0, lost 1780 [ Kc Kd ] [ two pairs, Kings and Queens -- Kc,Kd,Qc,Qs,Jd ]
+buetzu balance 3920, didn't bet (folded)
+holymama balance 700, didn't bet (folded)
+Smartoil balance 4240, bet 1780, collected 3660, net +1880 [ Qh Jh ] [ a full house, Queens full of Jacks -- Qh,Qc,Qs,Jh,Jd ]
+y545nsk balance 3460, didn't bet (folded)
+PokerReima balance 1590, didn't bet (folded)
+SubvertC balance 1200, didn't bet (folded)
+hatoka balance 4890, lost 100 (folded)
+
+***** Hand History for Game 5942785135 *****
+DBOSSIE1 finished in 8 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33280058)  - Sun May 06 08:53:29 EDT 2007
+Table Speed 1329957 (Real Money) -- Seat 10 is the button
+Total number of players : 7
+Seat 2: buetzu (3920)
+Seat 3: holymama (700)
+Seat 4: Smartoil (4240)
+Seat 6: y545nsk (3460)
+Seat 8: PokerReima (1590)
+Seat 9: SubvertC (1200)
+Seat 10: hatoka (4890)
+buetzu  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ Ac, Th ]
+holymama raises (700) to 700
+holymama is all-In.
+Smartoil folds.
+y545nsk folds.
+PokerReima folds.
+SubvertC raises (1200) to 1200
+SubvertC is all-In.
+hatoka folds.
+buetzu calls (800)
+** Dealing Flop ** :  [ 9d, 6c, Jc ]
+** Dealing Turn ** :  [ 3d ]
+** Dealing River ** :  [ Ah ]
+Creating Main Pot with $2100 with holymama
+Creating Side Pot 1 with $1000 with SubvertC
+** Summary **
+Main Pot: 2100 | Side Pot 1: 1000
+Board: [ 9d 6c Jc 3d Ah  ]
+
+buetzu balance 3720, bet 1200, collected 1000, lost -200 [ 4h 4s ] [ a pair of Fours -- Ah,Jc,9d,4h,4s ]
+holymama balance 2100, bet 700, collected 2100, net +1400 [ 7c 7d ] [ a pair of Sevens -- Ah,Jc,9d,7c,7d ]
+Smartoil balance 4240, didn't bet (folded)
+y545nsk balance 3460, didn't bet (folded)
+PokerReima balance 1590, didn't bet (folded)
+SubvertC balance 0, lost 1200 [ Qd Kd ] [ high card Ace -- Ah,Kd,Qd,Jc,9d ]
+hatoka balance 4890, didn't bet (folded)
+
+***** Hand History for Game 5942786517 *****
+SubvertC finished in 7 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33280058)  - Sun May 06 08:54:01 EDT 2007
+Table Speed 1329957 (Real Money) -- Seat 10 is the button
+Total number of players : 6
+Seat 2: buetzu (3720)
+Seat 3: holymama (2100)
+Seat 4: Smartoil (4240)
+Seat 6: y545nsk (3460)
+Seat 8: PokerReima (1590)
+Seat 10: hatoka (4890)
+buetzu  posts small blind (200)
+holymama  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 3h, Ac ]
+Smartoil raises (1000) to 1000
+y545nsk folds.
+PokerReima folds.
+hatoka folds.
+buetzu folds.
+holymama folds.
+** Summary **
+Main Pot: 1000
+
+buetzu balance 3520, lost 200 (folded)
+holymama balance 1700, lost 400 (folded)
+Smartoil balance 4840, bet 1000, collected 1600, net +600
+y545nsk balance 3460, didn't bet (folded)
+PokerReima balance 1590, didn't bet (folded)
+hatoka balance 4890, didn't bet (folded)
+
+***** Hand History for Game 5942787675 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33280058)  - Sun May 06 08:54:29 EDT 2007
+Table Speed 1329957 (Real Money) -- Seat 2 is the button
+Total number of players : 6
+Seat 2: buetzu (3520)
+Seat 3: holymama (1700)
+Seat 4: Smartoil (4840)
+Seat 6: y545nsk (3460)
+Seat 8: PokerReima (1590)
+Seat 10: hatoka (4890)
+holymama  posts small blind (200)
+Smartoil  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 8h, 4c ]
+y545nsk folds.
+PokerReima folds.
+hatoka folds.
+buetzu calls (400)
+holymama calls (200)
+Smartoil checks.
+** Dealing Flop ** :  [ 6h, Tc, 6s ]
+holymama bets (400)
+Smartoil folds.
+buetzu folds.
+** Summary **
+Main Pot: 1200
+Board: [ 6h Tc 6s  ]
+
+buetzu balance 3120, lost 400 (folded)
+holymama balance 2500, bet 800, collected 1600, net +800
+Smartoil balance 4440, lost 400 (folded)
+y545nsk balance 3460, didn't bet (folded)
+PokerReima balance 1590, didn't bet (folded)
+hatoka balance 4890, didn't bet (folded)
+
+***** Hand History for Game 5942789525 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33280058)  - Sun May 06 08:55:13 EDT 2007
+Table Speed 1329957 (Real Money) -- Seat 3 is the button
+Total number of players : 6
+Seat 2: buetzu (3120)
+Seat 3: holymama (2500)
+Seat 4: Smartoil (4440)
+Seat 6: y545nsk (3460)
+Seat 8: PokerReima (1590)
+Seat 10: hatoka (4890)
+Smartoil  posts small blind (200)
+y545nsk  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 3d, Kd ]
+PokerReima folds.
+hatoka raises (800) to 800
+buetzu calls (800)
+holymama folds.
+Smartoil folds.
+y545nsk folds.
+** Dealing Flop ** :  [ 8d, 9d, Ts ]
+hatoka bets (500)
+buetzu raises (2320) to 2320
+buetzu is all-In.
+hatoka folds.
+Creating Main Pot with $3200 with buetzu
+** Summary **
+Main Pot: 3200
+Board: [ 8d 9d Ts  ]
+
+buetzu balance 5020, bet 3120, collected 5020, net +1900
+holymama balance 2500, didn't bet (folded)
+Smartoil balance 4240, lost 200 (folded)
+y545nsk balance 3060, lost 400 (folded)
+PokerReima balance 1590, didn't bet (folded)
+hatoka balance 3590, lost 1300 (folded)
+
+***** Hand History for Game 5942793077 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33280058)  - Sun May 06 08:56:37 EDT 2007
+Table Speed 1329957 (Real Money) -- Seat 4 is the button
+Total number of players : 6
+Seat 2: buetzu (5020)
+Seat 3: holymama (2500)
+Seat 4: Smartoil (4240)
+Seat 6: y545nsk (3060)
+Seat 8: PokerReima (1590)
+Seat 10: hatoka (3590)
+y545nsk  posts small blind (200)
+PokerReima  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 8h, 5d ]
+hatoka folds.
+buetzu folds.
+holymama calls (400)
+Smartoil folds.
+y545nsk folds.
+PokerReima checks.
+** Dealing Flop ** :  [ 8c, 3c, Qs ]
+PokerReima checks.
+holymama bets (400)
+PokerReima folds.
+** Summary **
+Main Pot: 1000
+Board: [ 8c 3c Qs  ]
+
+buetzu balance 5020, didn't bet (folded)
+holymama balance 3100, bet 800, collected 1400, net +600
+Smartoil balance 4240, didn't bet (folded)
+y545nsk balance 2860, lost 200 (folded)
+PokerReima balance 1190, lost 400 (folded)
+hatoka balance 3590, didn't bet (folded)
+
+***** Hand History for Game 5942794961 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33280058)  - Sun May 06 08:57:21 EDT 2007
+Table Speed 1329957 (Real Money) -- Seat 6 is the button
+Total number of players : 6
+Seat 2: buetzu (5020)
+Seat 3: holymama (3100)
+Seat 4: Smartoil (4240)
+Seat 6: y545nsk (2860)
+Seat 8: PokerReima (1190)
+Seat 10: hatoka (3590)
+PokerReima  posts small blind (200)
+hatoka  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 2d, 5c ]
+buetzu folds.
+holymama raises (800) to 800
+Smartoil folds.
+y545nsk folds.
+PokerReima folds.
+hatoka folds.
+** Summary **
+Main Pot: 1000
+
+buetzu balance 5020, didn't bet (folded)
+holymama balance 3700, bet 800, collected 1400, net +600
+Smartoil balance 4240, didn't bet (folded)
+y545nsk balance 2860, didn't bet (folded)
+PokerReima balance 990, lost 200 (folded)
+hatoka balance 3190, lost 400 (folded)
+
+***** Hand History for Game 5942796639 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33280058)  - Sun May 06 08:58:02 EDT 2007
+Table Speed 1329957 (Real Money) -- Seat 8 is the button
+Total number of players : 6
+Seat 2: buetzu (5020)
+Seat 3: holymama (3700)
+Seat 4: Smartoil (4240)
+Seat 6: y545nsk (2860)
+Seat 8: PokerReima (990)
+Seat 10: hatoka (3190)
+hatoka  posts small blind (200)
+buetzu  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 9d, Qd ]
+holymama raises (800) to 800
+Smartoil folds.
+y545nsk folds.
+PokerReima folds.
+hatoka folds.
+buetzu folds.
+** Summary **
+Main Pot: 1000
+
+buetzu balance 4620, lost 400 (folded)
+holymama balance 4300, bet 800, collected 1400, net +600
+Smartoil balance 4240, didn't bet (folded)
+y545nsk balance 2860, didn't bet (folded)
+PokerReima balance 990, didn't bet (folded)
+hatoka balance 2990, lost 200 (folded)
+
+***** Hand History for Game 5942797487 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33280058)  - Sun May 06 08:58:21 EDT 2007
+Table Speed 1329957 (Real Money) -- Seat 10 is the button
+Total number of players : 6
+Seat 2: buetzu (4620)
+Seat 3: holymama (4300)
+Seat 4: Smartoil (4240)
+Seat 6: y545nsk (2860)
+Seat 8: PokerReima (990)
+Seat 10: hatoka (2990)
+buetzu  posts small blind (200)
+holymama  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ Ks, Qs ]
+Smartoil folds.
+y545nsk folds.
+PokerReima folds.
+hatoka raises (1200) to 1200
+buetzu folds.
+holymama folds.
+** Summary **
+Main Pot: 1000
+
+buetzu balance 4420, lost 200 (folded)
+holymama balance 3900, lost 400 (folded)
+Smartoil balance 4240, didn't bet (folded)
+y545nsk balance 2860, didn't bet (folded)
+PokerReima balance 990, didn't bet (folded)
+hatoka balance 3590, bet 1200, collected 1800, net +600
+
+***** Hand History for Game 5942798254 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33280058)  - Sun May 06 08:58:40 EDT 2007
+Table Speed 1329957 (Real Money) -- Seat 2 is the button
+Total number of players : 6
+Seat 2: buetzu (4420)
+Seat 3: holymama (3900)
+Seat 4: Smartoil (4240)
+Seat 6: y545nsk (2860)
+Seat 8: PokerReima (990)
+Seat 10: hatoka (3590)
+holymama  posts small blind (300)
+Smartoil  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ 2h, Kc ]
+y545nsk folds.
+PokerReima raises (990) to 990
+PokerReima is all-In.
+hatoka folds.
+buetzu folds.
+holymama calls (690)
+Smartoil raises (3640) to 4240
+Smartoil is all-In.
+holymama folds.
+** Dealing Flop ** :  [ Js, 6c, Tc ]
+** Dealing Turn ** :  [ 7s ]
+** Dealing River ** :  [ 3h ]
+Creating Main Pot with $2970 with PokerReima
+** Summary **
+Main Pot: 2970
+Board: [ Js 6c Tc 7s 3h  ]
+
+buetzu balance 4420, didn't bet (folded)
+holymama balance 2910, lost 990 (folded)
+Smartoil balance 3250, bet 4240, collected 3250, lost -990 [ Qh 7c ] [ a pair of Sevens -- Qh,Js,Tc,7c,7s ]
+y545nsk balance 2860, didn't bet (folded)
+PokerReima balance 2970, bet 990, collected 2970, net +1980 [ Jd Kh ] [ a pair of Jacks -- Kh,Jd,Js,Tc,7s ]
+hatoka balance 3590, didn't bet (folded)
+
+***** Hand History for Game 5942799950 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33280058)  - Sun May 06 08:59:21 EDT 2007
+Table Speed 1329957 (Real Money) -- Seat 3 is the button
+Total number of players : 6
+Seat 2: buetzu (4420)
+Seat 3: holymama (2910)
+Seat 4: Smartoil (3250)
+Seat 6: y545nsk (2860)
+Seat 8: PokerReima (2970)
+Seat 10: hatoka (3590)
+Smartoil  posts small blind (300)
+y545nsk  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ 4d, 5h ]
+PokerReima folds.
+hatoka folds.
+buetzu calls (600)
+holymama raises (1200) to 1200
+Smartoil folds.
+y545nsk calls (600)
+buetzu folds.
+** Dealing Flop ** :  [ 7c, 4s, 6s ]
+y545nsk checks.
+holymama bets (1710)
+holymama is all-In.
+y545nsk folds.
+Creating Main Pot with $3300 with holymama
+** Summary **
+Main Pot: 3300
+Board: [ 7c 4s 6s  ]
+
+buetzu balance 3820, lost 600 (folded)
+holymama balance 5010, bet 2910, collected 5010, net +2100
+Smartoil balance 2950, lost 300 (folded)
+y545nsk balance 1660, lost 1200 (folded)
+PokerReima balance 2970, didn't bet (folded)
+hatoka balance 3590, didn't bet (folded)
+
+***** Hand History for Game 5942802760 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33280058)  - Sun May 06 09:00:28 EDT 2007
+Table Speed 1329957 (Real Money) -- Seat 4 is the button
+Total number of players : 6
+Seat 2: buetzu (3820)
+Seat 3: holymama (5010)
+Seat 4: Smartoil (2950)
+Seat 6: y545nsk (1660)
+Seat 8: PokerReima (2970)
+Seat 10: hatoka (3590)
+y545nsk  posts small blind (300)
+PokerReima  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ 5s, 3h ]
+hatoka folds.
+buetzu folds.
+holymama raises (1200) to 1200
+Smartoil folds.
+y545nsk folds.
+PokerReima folds.
+** Summary **
+Main Pot: 1500
+
+buetzu balance 3820, didn't bet (folded)
+holymama balance 5910, bet 1200, collected 2100, net +900
+Smartoil balance 2950, didn't bet (folded)
+y545nsk balance 1360, lost 300 (folded)
+PokerReima balance 2370, lost 600 (folded)
+hatoka balance 3590, didn't bet (folded)
+
+***** Hand History for Game 5942803814 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33280058)  - Sun May 06 09:00:54 EDT 2007
+Table Speed 1329957 (Real Money) -- Seat 6 is the button
+Total number of players : 6
+Seat 2: buetzu (3820)
+Seat 3: holymama (5910)
+Seat 4: Smartoil (2950)
+Seat 6: y545nsk (1360)
+Seat 8: PokerReima (2370)
+Seat 10: hatoka (3590)
+PokerReima  posts small blind (300)
+hatoka  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ 5c, Jh ]
+buetzu calls (600)
+holymama calls (600)
+Smartoil folds.
+y545nsk folds.
+PokerReima folds.
+hatoka checks.
+** Dealing Flop ** :  [ 7h, 7s, 6h ]
+hatoka checks.
+buetzu checks.
+holymama bets (600)
+hatoka folds.
+buetzu folds.
+** Summary **
+Main Pot: 2100
+Board: [ 7h 7s 6h  ]
+
+buetzu balance 3220, lost 600 (folded)
+holymama balance 7410, bet 1200, collected 2700, net +1500
+Smartoil balance 2950, didn't bet (folded)
+y545nsk balance 1360, didn't bet (folded)
+PokerReima balance 2070, lost 300 (folded)
+hatoka balance 2990, lost 600 (folded)
+
+***** Hand History for Game 5942805875 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33280058)  - Sun May 06 09:01:43 EDT 2007
+Table Speed 1329957 (Real Money) -- Seat 8 is the button
+Total number of players : 6
+Seat 2: buetzu (3220)
+Seat 3: holymama (7410)
+Seat 4: Smartoil (2950)
+Seat 6: y545nsk (1360)
+Seat 8: PokerReima (2070)
+Seat 10: hatoka (2990)
+hatoka  posts small blind (300)
+buetzu  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ 4h, 5s ]
+holymama folds.
+Smartoil raises (1400) to 1400
+y545nsk folds.
+PokerReima folds.
+hatoka folds.
+buetzu folds.
+** Summary **
+Main Pot: 1500
+
+buetzu balance 2620, lost 600 (folded)
+holymama balance 7410, didn't bet (folded)
+Smartoil balance 3850, bet 1400, collected 2300, net +900
+y545nsk balance 1360, didn't bet (folded)
+PokerReima balance 2070, didn't bet (folded)
+hatoka balance 2690, lost 300 (folded)
+
+***** Hand History for Game 5942807048 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33280058)  - Sun May 06 09:02:11 EDT 2007
+Table Speed 1329957 (Real Money) -- Seat 10 is the button
+Total number of players : 6
+Seat 2: buetzu (2620)
+Seat 3: holymama (7410)
+Seat 4: Smartoil (3850)
+Seat 6: y545nsk (1360)
+Seat 8: PokerReima (2070)
+Seat 10: hatoka (2690)
+buetzu  posts small blind (300)
+holymama  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ 3s, Js ]
+Smartoil folds.
+y545nsk folds.
+PokerReima folds.
+hatoka folds.
+buetzu raises (900) to 1200
+holymama calls (600)
+** Dealing Flop ** :  [ Jh, Qs, 3d ]
+buetzu checks.
+holymama checks.
+** Dealing Turn ** :  [ 6d ]
+buetzu checks.
+holymama bets (1500)
+buetzu calls (1420)
+buetzu is all-In.
+** Dealing River ** :  [ Td ]
+Creating Main Pot with $5240 with buetzu
+** Summary **
+Main Pot: 5240
+Board: [ Jh Qs 3d 6d Td  ]
+
+buetzu balance 5240, bet 2620, collected 5240, net +2620 [ Ah Kh ] [ a straight Ten to Ace -- Ah,Kh,Qs,Jh,Td ]
+holymama balance 4790, bet 2700, collected 80, lost -2620 [ 7c Ac ] [ high card Ace -- Ac,Qs,Jh,Td,7c ]
+Smartoil balance 3850, didn't bet (folded)
+y545nsk balance 1360, didn't bet (folded)
+PokerReima balance 2070, didn't bet (folded)
+hatoka balance 2690, didn't bet (folded)
+
+***** Hand History for Game 5942808543 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33280058)  - Sun May 06 09:02:46 EDT 2007
+Table Speed 1329957 (Real Money) -- Seat 2 is the button
+Total number of players : 6
+Seat 2: buetzu (5240)
+Seat 3: holymama (4790)
+Seat 4: Smartoil (3850)
+Seat 6: y545nsk (1360)
+Seat 8: PokerReima (2070)
+Seat 10: hatoka (2690)
+holymama  posts small blind (300)
+Smartoil  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ Jh, 8c ]
+y545nsk raises (1360) to 1360
+y545nsk is all-In.
+PokerReima folds.
+hatoka folds.
+buetzu folds.
+holymama folds.
+Smartoil calls (760)
+** Dealing Flop ** :  [ 9s, 9d, Kh ]
+** Dealing Turn ** :  [ 2d ]
+** Dealing River ** :  [ Ad ]
+Creating Main Pot with $3020 with y545nsk
+** Summary **
+Main Pot: 3020
+Board: [ 9s 9d Kh 2d Ad  ]
+
+buetzu balance 5240, didn't bet (folded)
+holymama balance 4490, lost 300 (folded)
+Smartoil balance 2490, lost 1360 [ 6h 6c ] [ two pairs, Nines and Sixes -- Ad,9s,9d,6h,6c ]
+y545nsk balance 3020, bet 1360, collected 3020, net +1660 [ Ah 8s ] [ two pairs, Aces and Nines -- Ah,Ad,Kh,9s,9d ]
+PokerReima balance 2070, didn't bet (folded)
+hatoka balance 2690, didn't bet (folded)
+
+***** Hand History for Game 5942809706 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33280058)  - Sun May 06 09:03:15 EDT 2007
+Table Speed 1329957 (Real Money) -- Seat 3 is the button
+Total number of players : 6
+Seat 2: buetzu (5240)
+Seat 3: holymama (4490)
+Seat 4: Smartoil (2490)
+Seat 6: y545nsk (3020)
+Seat 8: PokerReima (2070)
+Seat 10: hatoka (2690)
+Smartoil  posts small blind (300)
+y545nsk  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ Ad, 9d ]
+PokerReima folds.
+hatoka raises (1200) to 1200
+buetzu folds.
+holymama folds.
+Smartoil raises (2190) to 2490
+Smartoil is all-In.
+y545nsk folds.
+hatoka calls (1290)
+** Dealing Flop ** :  [ 6c, 7c, Kc ]
+** Dealing Turn ** :  [ 5h ]
+** Dealing River ** :  [ 6h ]
+Creating Main Pot with $5580 with Smartoil
+** Summary **
+Main Pot: 5580
+Board: [ 6c 7c Kc 5h 6h  ]
+
+buetzu balance 5240, didn't bet (folded)
+holymama balance 4490, didn't bet (folded)
+Smartoil balance 5580, bet 2490, collected 5580, net +3090 [ Kh Ah ] [ two pairs, Kings and Sixes -- Ah,Kh,Kc,6c,6h ]
+y545nsk balance 2420, lost 600 (folded)
+PokerReima balance 2070, didn't bet (folded)
+hatoka balance 200, lost 2490 [ Ad 9d ] [ a pair of Sixes -- Ad,Kc,9d,6c,6h ]
+
+***** Hand History for Game 5942810967 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33280058)  - Sun May 06 09:03:44 EDT 2007
+Table Speed 1329957 (Real Money) -- Seat 4 is the button
+Total number of players : 6
+Seat 2: buetzu (5240)
+Seat 3: holymama (4490)
+Seat 4: Smartoil (5580)
+Seat 6: y545nsk (2420)
+Seat 8: PokerReima (2070)
+Seat 10: hatoka (200)
+buetzu  posts ante (25)
+holymama  posts ante (25)
+Smartoil  posts ante (25)
+y545nsk  posts ante (25)
+PokerReima  posts ante (25)
+hatoka  posts ante (25)
+y545nsk  posts small blind (400)
+PokerReima  posts big blind (800)
+** Dealing down cards **
+Dealt to hatoka [ 9c, As ]
+hatoka calls (175)
+hatoka is all-In.
+buetzu folds.
+holymama folds.
+Smartoil raises (2000) to 2000
+y545nsk folds.
+PokerReima raises (1245) to 2045
+PokerReima is all-In.
+Smartoil calls (45)
+** Dealing Flop ** :  [ 8d, Js, 6s ]
+** Dealing Turn ** :  [ Ts ]
+** Dealing River ** :  [ 3c ]
+Creating Main Pot with $850 with hatoka
+Creating Side Pot 1 with $3965 with PokerReima
+** Summary **
+Main Pot: 850 | Side Pot 1: 3965
+Board: [ 8d Js 6s Ts 3c  ]
+
+buetzu balance 5215, lost 25 (folded)
+holymama balance 4465, lost 25 (folded)
+Smartoil balance 8325, bet 2070, collected 4815, net +2745 [ 9h 9s ] [ a pair of Nines -- Js,Ts,9h,9s,8d ]
+y545nsk balance 1995, lost 425 (folded)
+PokerReima balance 0, lost 2070 [ Ad 2d ] [ high card Ace -- Ad,Js,Ts,8d,6s ]
+hatoka balance 0, lost 200 [ 9c As ] [ high card Ace with Nine kicker -- As,Js,Ts,9c,8d ]
+
+***** Hand History for Game 5942812472 *****
+hatoka finished in 6 place.
+PokerReima finished in 5 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33280058)  - Sun May 06 09:04:21 EDT 2007
+Table Speed 1329957 (Real Money) -- Seat 6 is the button
+Total number of players : 4
+Seat 2: buetzu (5215)
+Seat 3: holymama (4465)
+Seat 4: Smartoil (8325)
+Seat 6: y545nsk (1995)
+buetzu  posts ante (25)
+holymama  posts ante (25)
+Smartoil  posts ante (25)
+y545nsk  posts ante (25)
+buetzu  posts big blind (800)
+** Dealing down cards **
+holymama folds.
+Smartoil raises (1600) to 1600
+y545nsk folds.
+buetzu folds.
+** Summary **
+Main Pot: 1700
+
+buetzu balance 4390, lost 825 (folded)
+holymama balance 4440, lost 25 (folded)
+Smartoil balance 9200, bet 1625, collected 2500, net +875
+y545nsk balance 1970, lost 25 (folded)
+
+***** Hand History for Game 5942813483 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33280058)  - Sun May 06 09:04:45 EDT 2007
+Table Speed 1329957 (Real Money) -- Seat 6 is the button
+Total number of players : 4
+Seat 2: buetzu (4390)
+Seat 3: holymama (4440)
+Seat 4: Smartoil (9200)
+Seat 6: y545nsk (1970)
+buetzu  posts ante (25)
+holymama  posts ante (25)
+Smartoil  posts ante (25)
+y545nsk  posts ante (25)
+buetzu  posts small blind (400)
+holymama  posts big blind (800)
+** Dealing down cards **
+Smartoil folds.
+y545nsk raises (1945) to 1945
+y545nsk is all-In.
+buetzu folds.
+holymama calls (1145)
+** Dealing Flop ** :  [ 3s, 5d, 4s ]
+** Dealing Turn ** :  [ 5c ]
+** Dealing River ** :  [ 6s ]
+Creating Main Pot with $4390 with y545nsk
+** Summary **
+Main Pot: 4390
+Board: [ 3s 5d 4s 5c 6s  ]
+
+buetzu balance 3965, lost 425 (folded)
+holymama balance 6860, bet 1970, collected 4390, net +2420 [ 6c 7s ] [ a straight Three to Seven -- 7s,6c,5d,4s,3s ]
+Smartoil balance 9175, lost 25 (folded)
+y545nsk balance 0, lost 1970 [ Kh Td ] [ a pair of Fives -- Kh,Td,6s,5d,5c ]
+
+***** Hand History for Game 5942814502 *****
+y545nsk finished in 4 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33280058)  - Sun May 06 09:05:09 EDT 2007
+Table Speed 1329957 (Real Money) -- Seat 2 is the button
+Total number of players : 3
+Seat 2: buetzu (3965)
+Seat 3: holymama (6860)
+Seat 4: Smartoil (9175)
+buetzu  posts ante (25)
+holymama  posts ante (25)
+Smartoil  posts ante (25)
+holymama  posts small blind (400)
+Smartoil  posts big blind (800)
+** Dealing down cards **
+buetzu folds.
+holymama folds.
+** Summary **
+Main Pot: 875
+
+buetzu balance 3940, lost 25 (folded)
+holymama balance 6435, lost 425 (folded)
+Smartoil balance 9625, bet 825, collected 1275, net +450
+
+***** Hand History for Game 5942814923 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33280058)  - Sun May 06 09:05:19 EDT 2007
+Table Speed 1329957 (Real Money) -- Seat 3 is the button
+Total number of players : 3
+Seat 2: buetzu (3940)
+Seat 3: holymama (6435)
+Seat 4: Smartoil (9625)
+buetzu  posts ante (25)
+holymama  posts ante (25)
+Smartoil  posts ante (25)
+Smartoil  posts small blind (400)
+buetzu  posts big blind (800)
+** Dealing down cards **
+holymama folds.
+Smartoil calls (400)
+buetzu checks.
+** Dealing Flop ** :  [ Kd, 4d, Jc ]
+Smartoil checks.
+buetzu checks.
+** Dealing Turn ** :  [ Kc ]
+Smartoil checks.
+buetzu checks.
+** Dealing River ** :  [ Qs ]
+Smartoil checks.
+buetzu checks.
+** Summary **
+Main Pot: 1675
+Board: [ Kd 4d Jc Kc Qs  ]
+
+
+buetzu balance 3115, lost 825 [Didn't Show]
+holymama balance 6410, lost 25 (folded)
+Smartoil balance 10475, bet 825, collected 1675, net +850 [ 4s 9h ] [ two pairs, Kings and Fours -- Kd,Kc,Qs,4s,4d ]
+
+***** Hand History for Game 5942816174 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33280058)  - Sun May 06 09:05:49 EDT 2007
+Table Speed 1329957 (Real Money) -- Seat 4 is the button
+Total number of players : 3
+Seat 2: buetzu (3115)
+Seat 3: holymama (6410)
+Seat 4: Smartoil (10475)
+buetzu  posts ante (25)
+holymama  posts ante (25)
+Smartoil  posts ante (25)
+buetzu  posts small blind (400)
+holymama  posts big blind (800)
+** Dealing down cards **
+Smartoil raises (1600) to 1600
+buetzu folds.
+holymama folds.
+** Summary **
+Main Pot: 2075
+
+buetzu balance 2690, lost 425 (folded)
+holymama balance 5585, lost 825 (folded)
+Smartoil balance 11725, bet 1625, collected 2875, net +1250
+
+***** Hand History for Game 5942816811 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33280058)  - Sun May 06 09:06:04 EDT 2007
+Table Speed 1329957 (Real Money) -- Seat 2 is the button
+Total number of players : 3
+Seat 2: buetzu (2690)
+Seat 3: holymama (5585)
+Seat 4: Smartoil (11725)
+buetzu  posts ante (25)
+holymama  posts ante (25)
+Smartoil  posts ante (25)
+holymama  posts small blind (400)
+Smartoil  posts big blind (800)
+** Dealing down cards **
+buetzu raises (2665) to 2665
+buetzu is all-In.
+holymama folds.
+Smartoil folds.
+Creating Main Pot with $2075 with buetzu
+** Summary **
+Main Pot: 2075
+
+buetzu balance 3940, bet 2690, collected 3940, net +1250
+holymama balance 5160, lost 425 (folded)
+Smartoil balance 10900, lost 825 (folded)
+
+***** Hand History for Game 5942817732 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33280058)  - Sun May 06 09:06:25 EDT 2007
+Table Speed 1329957 (Real Money) -- Seat 3 is the button
+Total number of players : 3
+Seat 2: buetzu (3940)
+Seat 3: holymama (5160)
+Seat 4: Smartoil (10900)
+buetzu  posts ante (25)
+holymama  posts ante (25)
+Smartoil  posts ante (25)
+Smartoil  posts small blind (400)
+buetzu  posts big blind (800)
+** Dealing down cards **
+holymama folds.
+Smartoil raises (1200) to 1600
+buetzu calls (800)
+** Dealing Flop ** :  [ Qc, Ad, 3h ]
+Smartoil checks.
+buetzu checks.
+** Dealing Turn ** :  [ Jd ]
+Smartoil checks.
+buetzu checks.
+** Dealing River ** :  [ 6c ]
+Smartoil checks.
+buetzu checks.
+** Summary **
+Main Pot: 3275
+Board: [ Qc Ad 3h Jd 6c  ]
+
+
+buetzu balance 2315, lost 1625 [Didn't Show]
+holymama balance 5135, lost 25 (folded)
+Smartoil balance 12550, bet 1625, collected 3275, net +1650 [ 2s 2d ] [ a pair of Twos -- Ad,Qc,Jd,2s,2d ]
+
+***** Hand History for Game 5942818979 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33280058)  - Sun May 06 09:06:55 EDT 2007
+Table Speed 1329957 (Real Money) -- Seat 4 is the button
+Total number of players : 3
+Seat 2: buetzu (2315)
+Seat 3: holymama (5135)
+Seat 4: Smartoil (12550)
+buetzu  posts ante (25)
+holymama  posts ante (25)
+Smartoil  posts ante (25)
+buetzu  posts small blind (400)
+holymama  posts big blind (800)
+** Dealing down cards **
+Smartoil raises (1600) to 1600
+buetzu raises (1890) to 2290
+buetzu is all-In.
+holymama calls (1490)
+Smartoil calls (690)
+Creating Main Pot with $6945 with buetzu
+** Dealing Flop ** :  [ 7h, 6d, Kd ]
+holymama bets (800)
+Smartoil raises (10235) to 10235
+Smartoil is all-In.
+holymama calls (2020)
+holymama is all-In.
+** Dealing Turn ** :  [ 3h ]
+** Dealing River ** :  [ 2c ]
+Creating Side Pot 1 with $5640 with holymama
+** Summary **
+Main Pot: 6945 | Side Pot 1: 5640
+Board: [ 7h 6d Kd 3h 2c  ]
+
+buetzu balance 0, lost 2315 [ Ah Qs ] [ high card Ace -- Ah,Kd,Qs,7h,6d ]
+holymama balance 0, lost 5135 [ 8h Kh ] [ a pair of Kings -- Kh,Kd,8h,7h,6d ]
+Smartoil balance 20000, bet 12550, collected 20000, net +7450 [ Ks 9d ] [ a pair of Kings with Nine kicker -- Ks,Kd,9d,7h,6d9d(kicker card) ]
+
+
+

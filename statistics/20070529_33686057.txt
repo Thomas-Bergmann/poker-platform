@@ -1,0 +1,1524 @@
+
+Hello hatoka,
+These hand histories are provided to you as an aid for your training and development. You are not permitted to share them with anyone.  We reserve the right to cease providing them or apply further restrictions at any time.
+Complete hand histories are only available to players that participated in the hand.
+You requested a transcript of Tournament #33686057.
+
+Summary
+----------
+Played on    : 29 May 2007 04:27 PM
+On Table     : Speed #1331672
+Game Type    : Texas Holdem
+Buy-In       : $5
+Fee          : $1
+You finished in  position 2
+1st place - RAMON__ -  $25
+2nd place - hatoka -  $15
+3rd place - luckylady254 -  $10
+
+***** Hand History for Game 6014611224 *****
+badassjohnny: what up ramo
+hatoka: hi all
+luckylady254: hi
+badassjohnny: hi
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686057)  - Tue May 29 16:27:52 EDT 2007
+Table Speed 1331672 (Real Money) -- Seat 9 is the button
+Total number of players : 10
+Seat 1: oulala777 (2000)
+Seat 2: badassjohnny (2000)
+Seat 3: profileu (2000)
+Seat 4: riorio666 (2000)
+Seat 5: phonebox333 (2000)
+Seat 6: twohat (2000)
+Seat 7: luckylady254 (2000)
+Seat 8: RAMON__ (2000)
+Seat 9: corsicaforza (2000)
+Seat 10: hatoka (2000)
+hatoka  posts small blind (20)
+oulala777  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 5c, 6h ]
+badassjohnny calls (40)
+profileu folds.
+riorio666 calls (40)
+phonebox333 folds.
+twohat calls (40)
+luckylady254 calls (40)
+RAMON__ calls (40)
+corsicaforza folds.
+hatoka folds.
+oulala777 checks.
+** Dealing Flop ** :  [ Kc, Jc, Qc ]
+oulala777 checks.
+badassjohnny bets (160)
+riorio666 folds.
+twohat calls (160)
+luckylady254 folds.
+RAMON__ folds.
+oulala777 folds.
+** Dealing Turn ** :  [ 2s ]
+badassjohnny checks.
+twohat bets (200)
+badassjohnny calls (200)
+** Dealing River ** :  [ Ad ]
+badassjohnny checks.
+twohat checks.
+** Summary **
+Main Pot: 980
+Board: [ Kc Jc Qc 2s Ad  ]
+
+oulala777 balance 1960, lost 40 (folded)
+badassjohnny balance 1600, lost 400 [ 9c 4d ] [ high card Ace -- Ad,Kc,Qc,Jc,9c ]
+profileu balance 2000, didn't bet (folded)
+riorio666 balance 1960, lost 40 (folded)
+phonebox333 balance 2000, didn't bet (folded)
+twohat balance 2580, bet 400, collected 980, net +580 [ Jd Js ] [ three of a kind, Jacks -- Ad,Kc,Jd,Js,Jc ]
+luckylady254 balance 1960, lost 40 (folded)
+RAMON__ balance 1960, lost 40 (folded)
+corsicaforza balance 2000, didn't bet (folded)
+hatoka balance 1980, lost 20 (folded)
+
+***** Hand History for Game 6014618262 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686057)  - Tue May 29 16:29:27 EDT 2007
+Table Speed 1331672 (Real Money) -- Seat 10 is the button
+Total number of players : 10
+Seat 1: oulala777 (1960)
+Seat 2: badassjohnny (1600)
+Seat 3: profileu (2000)
+Seat 4: riorio666 (1960)
+Seat 5: phonebox333 (2000)
+Seat 6: twohat (2580)
+Seat 7: luckylady254 (1960)
+Seat 8: RAMON__ (1960)
+Seat 9: corsicaforza (2000)
+Seat 10: hatoka (1980)
+oulala777  posts small blind (20)
+badassjohnny  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 2c, Ts ]
+profileu folds.
+riorio666 calls (40)
+phonebox333 calls (40)
+twohat folds.
+luckylady254 calls (40)
+RAMON__ calls (40)
+corsicaforza calls (40)
+hatoka folds.
+oulala777 calls (20)
+badassjohnny checks.
+** Dealing Flop ** :  [ Kc, 4h, 9d ]
+oulala777 checks.
+badassjohnny checks.
+riorio666 checks.
+phonebox333 checks.
+luckylady254 bets (80)
+RAMON__ calls (80)
+corsicaforza raises (160) to 160
+oulala777 folds.
+badassjohnny folds.
+riorio666 folds.
+phonebox333 folds.
+luckylady254 calls (80)
+RAMON__ calls (80)
+** Dealing Turn ** :  [ 4c ]
+luckylady254 checks.
+RAMON__ checks.
+corsicaforza bets (480)
+luckylady254 folds.
+RAMON__ folds.
+** Summary **
+Main Pot: 760
+Board: [ Kc 4h 9d 4c  ]
+
+oulala777 balance 1920, lost 40 (folded)
+badassjohnny balance 1560, lost 40 (folded)
+profileu balance 2000, didn't bet (folded)
+riorio666 balance 1920, lost 40 (folded)
+phonebox333 balance 1960, lost 40 (folded)
+twohat balance 2580, didn't bet (folded)
+luckylady254 balance 1760, lost 200 (folded)
+RAMON__ balance 1760, lost 200 (folded)
+corsicaforza balance 2560, bet 680, collected 1240, net +560
+hatoka balance 1980, didn't bet (folded)
+
+***** Hand History for Game 6014624935 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686057)  - Tue May 29 16:30:52 EDT 2007
+Table Speed 1331672 (Real Money) -- Seat 1 is the button
+Total number of players : 10
+Seat 1: oulala777 (1920)
+Seat 2: badassjohnny (1560)
+Seat 3: profileu (2000)
+Seat 4: riorio666 (1920)
+Seat 5: phonebox333 (1960)
+Seat 6: twohat (2580)
+Seat 7: luckylady254 (1760)
+Seat 8: RAMON__ (1760)
+Seat 9: corsicaforza (2560)
+Seat 10: hatoka (1980)
+badassjohnny  posts small blind (20)
+profileu  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ Kd, Kc ]
+riorio666 calls (40)
+phonebox333 calls (40)
+twohat folds.
+luckylady254 calls (40)
+RAMON__ folds.
+corsicaforza calls (40)
+hatoka raises (300) to 300
+oulala777 folds.
+badassjohnny folds.
+profileu folds.
+riorio666 folds.
+phonebox333 folds.
+luckylady254 folds.
+corsicaforza calls (260)
+** Dealing Flop ** :  [ 9c, Tc, 5d ]
+corsicaforza checks.
+hatoka bets (400)
+corsicaforza calls (400)
+** Dealing Turn ** :  [ Jh ]
+corsicaforza checks.
+hatoka bets (600)
+corsicaforza folds.
+** Summary **
+Main Pot: 1580
+Board: [ 9c Tc 5d Jh  ]
+
+oulala777 balance 1920, didn't bet (folded)
+badassjohnny balance 1540, lost 20 (folded)
+profileu balance 1960, lost 40 (folded)
+riorio666 balance 1880, lost 40 (folded)
+phonebox333 balance 1920, lost 40 (folded)
+twohat balance 2580, didn't bet (folded)
+luckylady254 balance 1720, lost 40 (folded)
+RAMON__ balance 1760, didn't bet (folded)
+corsicaforza balance 1860, lost 700 (folded)
+hatoka balance 2860, bet 1300, collected 2180, net +880
+
+***** Hand History for Game 6014629339 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686057)  - Tue May 29 16:31:49 EDT 2007
+Table Speed 1331672 (Real Money) -- Seat 2 is the button
+Total number of players : 10
+Seat 1: oulala777 (1920)
+Seat 2: badassjohnny (1540)
+Seat 3: profileu (1960)
+Seat 4: riorio666 (1880)
+Seat 5: phonebox333 (1920)
+Seat 6: twohat (2580)
+Seat 7: luckylady254 (1720)
+Seat 8: RAMON__ (1760)
+Seat 9: corsicaforza (1860)
+Seat 10: hatoka (2860)
+profileu  posts small blind (20)
+riorio666  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 2d, Tc ]
+phonebox333 raises (80) to 80
+twohat folds.
+luckylady254 folds.
+RAMON__ raises (120) to 120
+corsicaforza folds.
+hatoka folds.
+oulala777 calls (120)
+badassjohnny calls (120)
+profileu folds.
+riorio666 folds.
+phonebox333 raises (1840) to 1920
+phonebox333 is all-In.
+RAMON__ calls (1640)
+RAMON__ is all-In.
+oulala777 folds.
+badassjohnny calls (1420)
+badassjohnny is all-In.
+** Dealing Flop ** :  [ 3s, Kc, Ts ]
+** Dealing Turn ** :  [ 6h ]
+** Dealing River ** :  [ Kd ]
+Creating Main Pot with $4800 with badassjohnny
+Creating Side Pot 1 with $440 with RAMON__
+** Summary **
+Main Pot: 4800 | Side Pot 1: 440
+Board: [ 3s Kc Ts 6h Kd  ]
+
+oulala777 balance 1800, lost 120 (folded)
+badassjohnny balance 0, lost 1540 [ 9d Js ] [ a pair of Kings -- Kc,Kd,Js,Ts,9d ]
+profileu balance 1940, lost 20 (folded)
+riorio666 balance 1840, lost 40 (folded)
+phonebox333 balance 160, bet 1920, collected 160, lost -1760 [ 8c 8h ] [ two pairs, Kings and Eights -- Kc,Kd,Ts,8c,8h ]
+twohat balance 2580, didn't bet (folded)
+luckylady254 balance 1720, didn't bet (folded)
+RAMON__ balance 5240, bet 1760, collected 5240, net +3480 [ Kh Ad ] [ three of a kind, Kings -- Ad,Kh,Kc,Kd,Ts ]
+corsicaforza balance 1860, didn't bet (folded)
+hatoka balance 2860, didn't bet (folded)
+
+***** Hand History for Game 6014633708 *****
+badassjohnny finished in 10 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686057)  - Tue May 29 16:32:45 EDT 2007
+Table Speed 1331672 (Real Money) -- Seat 3 is the button
+Total number of players : 9
+Seat 1: oulala777 (1800)
+Seat 3: profileu (1940)
+Seat 4: riorio666 (1840)
+Seat 5: phonebox333 (160)
+Seat 6: twohat (2580)
+Seat 7: luckylady254 (1720)
+Seat 8: RAMON__ (5240)
+Seat 9: corsicaforza (1860)
+Seat 10: hatoka (2860)
+riorio666  posts small blind (30)
+phonebox333  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Qh, 8c ]
+twohat folds.
+luckylady254 calls (60)
+RAMON__ folds.
+corsicaforza folds.
+hatoka folds.
+oulala777 folds.
+profileu folds.
+riorio666 calls (30)
+phonebox333 raises (100) to 160
+phonebox333 is all-In.
+luckylady254 calls (100)
+riorio666 calls (100)
+Creating Main Pot with $480 with phonebox333
+** Dealing Flop ** :  [ Qc, 5s, 3s ]
+phonebox333: ace ace
+riorio666 checks.
+luckylady254 checks.
+** Dealing Turn ** :  [ 6d ]
+riorio666 checks.
+luckylady254 bets (240)
+riorio666 folds.
+** Dealing River ** :  [ Jc ]
+** Summary **
+Main Pot: 480
+Board: [ Qc 5s 3s 6d Jc  ]
+
+oulala777 balance 1800, didn't bet (folded)
+profileu balance 1940, didn't bet (folded)
+riorio666 balance 1680, lost 160 (folded)
+phonebox333 balance 0, lost 160 [ As Ad ] [ a pair of Aces -- As,Ad,Qc,Jc,6d ]
+twohat balance 2580, didn't bet (folded)
+luckylady254 balance 2040, bet 400, collected 720, net +320 [ 2d 4c ] [ a straight Two to Six -- 6d,5s,4c,3s,2d ]
+RAMON__ balance 5240, didn't bet (folded)
+corsicaforza balance 1860, didn't bet (folded)
+hatoka balance 2860, didn't bet (folded)
+
+***** Hand History for Game 6014637202 *****
+phonebox333 finished in 9 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686057)  - Tue May 29 16:33:30 EDT 2007
+Table Speed 1331672 (Real Money) -- Seat 4 is the button
+Total number of players : 8
+Seat 1: oulala777 (1800)
+Seat 3: profileu (1940)
+Seat 4: riorio666 (1680)
+Seat 6: twohat (2580)
+Seat 7: luckylady254 (2040)
+Seat 8: RAMON__ (5240)
+Seat 9: corsicaforza (1860)
+Seat 10: hatoka (2860)
+twohat  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Qh, Ts ]
+luckylady254 calls (60)
+RAMON__ folds.
+corsicaforza folds.
+hatoka folds.
+oulala777 calls (60)
+profileu folds.
+riorio666 calls (60)
+twohat checks.
+** Dealing Flop ** :  [ 2c, 5h, Jc ]
+twohat checks.
+luckylady254 checks.
+oulala777 checks.
+riorio666 checks.
+** Dealing Turn ** :  [ 9h ]
+twohat checks.
+luckylady254 bets (60)
+oulala777 calls (60)
+riorio666 calls (60)
+twohat calls (60)
+** Dealing River ** :  [ 6d ]
+twohat checks.
+luckylady254 bets (60)
+oulala777 folds.
+riorio666 calls (60)
+twohat calls (60)
+** Summary **
+Main Pot: 660
+Board: [ 2c 5h Jc 9h 6d  ]
+
+oulala777 balance 1680, lost 120 (folded)
+profileu balance 1940, didn't bet (folded)
+riorio666 balance 1500, lost 180 [ 9d 3d ] [ a pair of Nines -- Jc,9d,9h,6d,5h ]
+twohat balance 3060, bet 180, collected 660, net +480 [ 7c Jd ] [ a pair of Jacks -- Jd,Jc,9h,7c,6d ]
+luckylady254 balance 1860, lost 180 [ 7h 6c ] [ a pair of Sixes -- Jc,9h,7h,6c,6d ]
+RAMON__ balance 5240, didn't bet (folded)
+corsicaforza balance 1860, didn't bet (folded)
+hatoka balance 2860, didn't bet (folded)
+
+***** Hand History for Game 6014641652 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686057)  - Tue May 29 16:34:28 EDT 2007
+Table Speed 1331672 (Real Money) -- Seat 4 is the button
+Total number of players : 8
+Seat 1: oulala777 (1680)
+Seat 3: profileu (1940)
+Seat 4: riorio666 (1500)
+Seat 6: twohat (3060)
+Seat 7: luckylady254 (1860)
+Seat 8: RAMON__ (5240)
+Seat 9: corsicaforza (1860)
+Seat 10: hatoka (2860)
+twohat  posts small blind (30)
+luckylady254  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 8c, 7h ]
+RAMON__ calls (60)
+corsicaforza folds.
+hatoka folds.
+oulala777 folds.
+profileu raises (270) to 270
+riorio666 folds.
+twohat folds.
+luckylady254 folds.
+RAMON__ folds.
+** Summary **
+Main Pot: 210
+
+oulala777 balance 1680, didn't bet (folded)
+profileu balance 2090, bet 270, collected 420, net +150
+riorio666 balance 1500, didn't bet (folded)
+twohat balance 3030, lost 30 (folded)
+luckylady254 balance 1800, lost 60 (folded)
+RAMON__ balance 5180, lost 60 (folded)
+corsicaforza balance 1860, didn't bet (folded)
+hatoka balance 2860, didn't bet (folded)
+
+***** Hand History for Game 6014643045 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686057)  - Tue May 29 16:34:47 EDT 2007
+Table Speed 1331672 (Real Money) -- Seat 6 is the button
+Total number of players : 8
+Seat 1: oulala777 (1680)
+Seat 3: profileu (2090)
+Seat 4: riorio666 (1500)
+Seat 6: twohat (3030)
+Seat 7: luckylady254 (1800)
+Seat 8: RAMON__ (5180)
+Seat 9: corsicaforza (1860)
+Seat 10: hatoka (2860)
+luckylady254  posts small blind (30)
+RAMON__  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Kd, Jd ]
+corsicaforza folds.
+hatoka raises (150) to 150
+oulala777 folds.
+profileu folds.
+riorio666 folds.
+twohat calls (150)
+luckylady254 calls (120)
+RAMON__ folds.
+** Dealing Flop ** :  [ Qc, 6s, 7h ]
+luckylady254 checks.
+hatoka bets (60)
+twohat calls (60)
+luckylady254 calls (60)
+** Dealing Turn ** :  [ 6d ]
+luckylady254 checks.
+hatoka bets (60)
+twohat calls (60)
+luckylady254 calls (60)
+** Dealing River ** :  [ 8d ]
+luckylady254 checks.
+hatoka checks.
+twohat bets (180)
+luckylady254 calls (180)
+hatoka folds.
+** Summary **
+Main Pot: 1230
+Board: [ Qc 6s 7h 6d 8d  ]
+
+oulala777 balance 1680, didn't bet (folded)
+profileu balance 2090, didn't bet (folded)
+riorio666 balance 1500, didn't bet (folded)
+twohat balance 3810, bet 450, collected 1230, net +780 [ Ac 6c ] [ three of a kind, Sixes -- Ac,Qc,6c,6s,6d ]
+luckylady254 balance 1350, lost 450 [ 8h Kh ] [ two pairs, Eights and Sixes -- Kh,8h,8d,6s,6d ]
+
+RAMON__ balance 5120, lost 60 (folded)
+corsicaforza balance 1860, didn't bet (folded)
+hatoka balance 2590, lost 270 (folded)
+
+***** Hand History for Game 6014648234 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686057)  - Tue May 29 16:35:54 EDT 2007
+Table Speed 1331672 (Real Money) -- Seat 7 is the button
+Total number of players : 8
+Seat 1: oulala777 (1680)
+Seat 3: profileu (2090)
+Seat 4: riorio666 (1500)
+Seat 6: twohat (3810)
+Seat 7: luckylady254 (1350)
+Seat 8: RAMON__ (5120)
+Seat 9: corsicaforza (1860)
+Seat 10: hatoka (2590)
+RAMON__  posts small blind (30)
+corsicaforza  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Jh, Kh ]
+hatoka raises (120) to 120
+oulala777 folds.
+profileu folds.
+riorio666 folds.
+twohat folds.
+luckylady254 folds.
+RAMON__ calls (90)
+corsicaforza calls (60)
+** Dealing Flop ** :  [ As, Jc, Js ]
+RAMON__ checks.
+corsicaforza checks.
+hatoka bets (300)
+RAMON__ could not respond in time.(disconnected)
+RAMON__ folds.
+corsicaforza folds.
+** Summary **
+Main Pot: 360
+Board: [ As Jc Js  ]
+
+oulala777 balance 1680, didn't bet (folded)
+profileu balance 2090, didn't bet (folded)
+riorio666 balance 1500, didn't bet (folded)
+twohat balance 3810, didn't bet (folded)
+luckylady254 balance 1350, didn't bet (folded)
+RAMON__ balance 5000, lost 120 (folded)
+corsicaforza balance 1740, lost 120 (folded)
+hatoka balance 2830, bet 420, collected 660, net +240
+
+***** Hand History for Game 6014653995 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686057)  - Tue May 29 16:37:08 EDT 2007
+Table Speed 1331672 (Real Money) -- Seat 8 is the button
+Total number of players : 8
+Seat 1: oulala777 (1680)
+Seat 3: profileu (2090)
+Seat 4: riorio666 (1500)
+Seat 6: twohat (3810)
+Seat 7: luckylady254 (1350)
+Seat 8: RAMON__ (5000)
+Seat 9: corsicaforza (1740)
+Seat 10: hatoka (2830)
+corsicaforza  posts small blind (30)
+hatoka  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 3c, 2h ]
+oulala777 folds.
+profileu folds.
+riorio666 folds.
+twohat folds.
+luckylady254 calls (60)
+RAMON__ folds.
+corsicaforza raises (150) to 180
+hatoka folds.
+luckylady254 calls (120)
+** Dealing Flop ** :  [ 7s, 3s, Kh ]
+corsicaforza bets (120)
+luckylady254 calls (120)
+** Dealing Turn ** :  [ Jh ]
+corsicaforza bets (180)
+luckylady254 calls (180)
+** Dealing River ** :  [ Qd ]
+corsicaforza bets (180)
+luckylady254 calls (180)
+** Summary **
+Main Pot: 1380
+Board: [ 7s 3s Kh Jh Qd  ]
+
+oulala777 balance 1680, didn't bet (folded)
+profileu balance 2090, didn't bet (folded)
+riorio666 balance 1500, didn't bet (folded)
+twohat balance 3810, didn't bet (folded)
+luckylady254 balance 2070, bet 660, collected 1380, net +720 [ Qh Js ] [ two pairs, Queens and Jacks -- Kh,Qh,Qd,Js,Jh ]
+RAMON__ balance 5000, didn't bet (folded)
+corsicaforza balance 1080, lost 660 [ Ac Jd ] [ a pair of Jacks -- Ac,Kh,Qd,Jd,Jh ]
+hatoka balance 2770, lost 60 (folded)
+
+***** Hand History for Game 6014657633 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686057)  - Tue May 29 16:37:55 EDT 2007
+Table Speed 1331672 (Real Money) -- Seat 9 is the button
+Total number of players : 8
+Seat 1: oulala777 (1680)
+Seat 3: profileu (2090)
+Seat 4: riorio666 (1500)
+Seat 6: twohat (3810)
+Seat 7: luckylady254 (2070)
+Seat 8: RAMON__ (5000)
+Seat 9: corsicaforza (1080)
+Seat 10: hatoka (2770)
+hatoka  posts small blind (50)
+oulala777  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Qd, 8h ]
+profileu folds.
+riorio666 folds.
+twohat folds.
+luckylady254 calls (100)
+RAMON__ calls (100)
+corsicaforza folds.
+hatoka folds.
+oulala777 checks.
+** Dealing Flop ** :  [ 6c, 9d, Qh ]
+oulala777 checks.
+luckylady254 bets (100)
+RAMON__ folds.
+oulala777 calls (100)
+** Dealing Turn ** :  [ 3c ]
+oulala777 checks.
+luckylady254 bets (100)
+oulala777 folds.
+** Summary **
+Main Pot: 550
+Board: [ 6c 9d Qh 3c  ]
+
+oulala777 balance 1480, lost 200 (folded)
+profileu balance 2090, didn't bet (folded)
+riorio666 balance 1500, didn't bet (folded)
+twohat balance 3810, didn't bet (folded)
+luckylady254 balance 2420, bet 300, collected 650, net +350
+RAMON__ balance 4900, lost 100 (folded)
+corsicaforza balance 1080, didn't bet (folded)
+hatoka balance 2720, lost 50 (folded)
+
+***** Hand History for Game 6014660761 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686057)  - Tue May 29 16:38:37 EDT 2007
+Table Speed 1331672 (Real Money) -- Seat 10 is the button
+Total number of players : 8
+Seat 1: oulala777 (1480)
+Seat 3: profileu (2090)
+Seat 4: riorio666 (1500)
+Seat 6: twohat (3810)
+Seat 7: luckylady254 (2420)
+Seat 8: RAMON__ (4900)
+Seat 9: corsicaforza (1080)
+Seat 10: hatoka (2720)
+oulala777  posts small blind (50)
+profileu  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 5h, 4h ]
+riorio666 folds.
+twohat folds.
+luckylady254 folds.
+RAMON__ calls (100)
+corsicaforza folds.
+hatoka calls (100)
+oulala777 folds.
+profileu checks.
+** Dealing Flop ** :  [ Jh, Ac, 2h ]
+profileu bets (100)
+RAMON__ folds.
+hatoka calls (100)
+** Dealing Turn ** :  [ Ts ]
+profileu bets (100)
+hatoka calls (100)
+** Dealing River ** :  [ 2s ]
+profileu checks.
+hatoka bets (100)
+profileu calls (100)
+** Summary **
+Main Pot: 950
+Board: [ Jh Ac 2h Ts 2s  ]
+
+oulala777 balance 1430, lost 50 (folded)
+profileu balance 2640, bet 400, collected 950, net +550 [ Ad 8d ] [ two pairs, Aces and Twos -- Ad,Ac,Jh,2h,2s ]
+riorio666 balance 1500, didn't bet (folded)
+twohat balance 3810, didn't bet (folded)
+luckylady254 balance 2420, didn't bet (folded)
+RAMON__ balance 4800, lost 100 (folded)
+corsicaforza balance 1080, didn't bet (folded)
+hatoka balance 2320, lost 400 [ 5h 4h ] [ a pair of Twos -- Ac,Jh,Ts,2h,2s ]
+
+***** Hand History for Game 6014664333 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686057)  - Tue May 29 16:39:22 EDT 2007
+Table Speed 1331672 (Real Money) -- Seat 1 is the button
+Total number of players : 8
+Seat 1: oulala777 (1430)
+Seat 3: profileu (2640)
+Seat 4: riorio666 (1500)
+Seat 6: twohat (3810)
+Seat 7: luckylady254 (2420)
+Seat 8: RAMON__ (4800)
+Seat 9: corsicaforza (1080)
+Seat 10: hatoka (2320)
+profileu  posts small blind (50)
+riorio666  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Tc, 4d ]
+twohat folds.
+luckylady254 calls (100)
+RAMON__ calls (100)
+corsicaforza folds.
+hatoka folds.
+oulala777 folds.
+profileu calls (50)
+riorio666 raises (300) to 400
+luckylady254 calls (300)
+RAMON__ raises (4700) to 4800
+RAMON__ is all-In.
+profileu folds.
+riorio666 calls (1100)
+riorio666 is all-In.
+luckylady254 folds.
+** Dealing Flop ** :  [ 2d, 4c, 8d ]
+** Dealing Turn ** :  [ Ac ]
+** Dealing River ** :  [ Qd ]
+Creating Main Pot with $3500 with riorio666
+** Summary **
+Main Pot: 3500
+Board: [ 2d 4c 8d Ac Qd  ]
+
+oulala777 balance 1430, didn't bet (folded)
+profileu balance 2540, lost 100 (folded)
+riorio666 balance 3500, bet 1500, collected 3500, net +2000 [ Ad Kc ] [ a pair of Aces -- Ad,Ac,Kc,Qd,8d ]
+twohat balance 3810, didn't bet (folded)
+luckylady254 balance 2020, lost 400 (folded)
+RAMON__ balance 3300, bet 4800, collected 3300, lost -1500 [ Jh Js ] [ a pair of Jacks -- Ac,Qd,Jh,Js,8d ]
+corsicaforza balance 1080, didn't bet (folded)
+hatoka balance 2320, didn't bet (folded)
+
+***** Hand History for Game 6014667286 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686057)  - Tue May 29 16:40:00 EDT 2007
+Table Speed 1331672 (Real Money) -- Seat 3 is the button
+Total number of players : 8
+Seat 1: oulala777 (1430)
+Seat 3: profileu (2540)
+Seat 4: riorio666 (3500)
+Seat 6: twohat (3810)
+Seat 7: luckylady254 (2020)
+Seat 8: RAMON__ (3300)
+Seat 9: corsicaforza (1080)
+Seat 10: hatoka (2320)
+riorio666  posts small blind (50)
+twohat  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Tc, Ac ]
+luckylady254 calls (100)
+RAMON__ folds.
+corsicaforza folds.
+hatoka raises (300) to 300
+oulala777 folds.
+profileu folds.
+riorio666 folds.
+twohat calls (200)
+luckylady254 calls (200)
+** Dealing Flop ** :  [ As, 5s, 9h ]
+twohat checks.
+luckylady254 bets (100)
+hatoka raises (500) to 500
+twohat folds.
+luckylady254 calls (400)
+** Dealing Turn ** :  [ 5c ]
+luckylady254 bets (100)
+hatoka calls (100)
+** Dealing River ** :  [ Ks ]
+luckylady254 bets (100)
+hatoka calls (100)
+** Summary **
+Main Pot: 2350
+Board: [ As 5s 9h 5c Ks  ]
+
+oulala777 balance 1430, didn't bet (folded)
+profileu balance 2540, didn't bet (folded)
+riorio666 balance 3450, lost 50 (folded)
+twohat balance 3510, lost 300 (folded)
+luckylady254 balance 2195, bet 1000, collected 1175, net +175 [ 2c Ad ] [ two pairs, Aces and Fives -- Ad,As,Ks,5s,5c ]
+RAMON__ balance 3300, didn't bet (folded)
+corsicaforza balance 1080, didn't bet (folded)
+hatoka balance 2495, bet 1000, collected 1175, net +175 [ Tc Ac ] [ two pairs, Aces and Fives -- Ac,As,Ks,5s,5c ]
+
+***** Hand History for Game 6014671324 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686057)  - Tue May 29 16:40:54 EDT 2007
+Table Speed 1331672 (Real Money) -- Seat 4 is the button
+Total number of players : 8
+Seat 1: oulala777 (1430)
+Seat 3: profileu (2540)
+Seat 4: riorio666 (3450)
+Seat 6: twohat (3510)
+Seat 7: luckylady254 (2195)
+Seat 8: RAMON__ (3300)
+Seat 9: corsicaforza (1080)
+Seat 10: hatoka (2495)
+twohat  posts small blind (50)
+luckylady254  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Kc, 8d ]
+RAMON__ folds.
+corsicaforza folds.
+hatoka folds.
+oulala777 folds.
+profileu folds.
+riorio666 raises (200) to 200
+twohat folds.
+luckylady254 calls (100)
+** Dealing Flop ** :  [ 7h, Jd, 8c ]
+luckylady254 checks.
+riorio666 bets (400)
+luckylady254 calls (400)
+** Dealing Turn ** :  [ 9h ]
+luckylady254 bets (1300)
+riorio666 calls (1300)
+** Dealing River ** :  [ 6d ]
+luckylady254 bets (295)
+luckylady254 is all-In.
+riorio666 calls (295)
+Creating Main Pot with $4440 with luckylady254
+** Summary **
+Main Pot: 4440
+Board: [ 7h Jd 8c 9h 6d  ]
+
+oulala777 balance 1430, didn't bet (folded)
+profileu balance 2540, didn't bet (folded)
+riorio666 balance 1255, lost 2195 [ Ad Jc ] [ a pair of Jacks -- Ad,Jc,Jd,9h,8c ]
+twohat balance 3460, lost 50 (folded)
+luckylady254 balance 4440, bet 2195, collected 4440, net +2245 [ Th Kd ] [ a straight Seven to Jack -- Jd,Th,9h,8c,7h ]
+RAMON__ balance 3300, didn't bet (folded)
+corsicaforza balance 1080, didn't bet (folded)
+hatoka balance 2495, didn't bet (folded)
+
+***** Hand History for Game 6014674768 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686057)  - Tue May 29 16:41:38 EDT 2007
+Table Speed 1331672 (Real Money) -- Seat 6 is the button
+Total number of players : 8
+Seat 1: oulala777 (1430)
+Seat 3: profileu (2540)
+Seat 4: riorio666 (1255)
+Seat 6: twohat (3460)
+Seat 7: luckylady254 (4440)
+Seat 8: RAMON__ (3300)
+Seat 9: corsicaforza (1080)
+Seat 10: hatoka (2495)
+luckylady254  posts small blind (50)
+RAMON__  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 2s, 8s ]
+corsicaforza folds.
+hatoka folds.
+oulala777 folds.
+profileu folds.
+riorio666 folds.
+twohat raises (300) to 300
+luckylady254 calls (250)
+RAMON__ raises (3200) to 3300
+RAMON__ is all-In.
+twohat calls (3000)
+luckylady254 folds.
+** Dealing Flop ** :  [ 3c, 6c, 5h ]
+** Dealing Turn ** :  [ 4s ]
+** Dealing River ** :  [ 6h ]
+Creating Main Pot with $6900 with RAMON__
+** Summary **
+Main Pot: 6900
+Board: [ 3c 6c 5h 4s 6h  ]
+
+oulala777 balance 1430, didn't bet (folded)
+profileu balance 2540, didn't bet (folded)
+riorio666 balance 1255, didn't bet (folded)
+twohat balance 160, lost 3300 [ Qh Qs ] [ two pairs, Queens and Sixes -- Qh,Qs,6c,6h,5h ]
+luckylady254 balance 4140, lost 300 (folded)
+RAMON__ balance 6900, bet 3300, collected 6900, net +3600 [ 7d 7s ] [ a straight Three to Seven -- 7d,6c,5h,4s,3c ]
+corsicaforza balance 1080, didn't bet (folded)
+hatoka balance 2495, didn't bet (folded)
+
+***** Hand History for Game 6014677539 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686057)  - Tue May 29 16:42:15 EDT 2007
+Table Speed 1331672 (Real Money) -- Seat 7 is the button
+Total number of players : 8
+Seat 1: oulala777 (1430)
+Seat 3: profileu (2540)
+Seat 4: riorio666 (1255)
+Seat 6: twohat (160)
+Seat 7: luckylady254 (4140)
+Seat 8: RAMON__ (6900)
+Seat 9: corsicaforza (1080)
+Seat 10: hatoka (2495)
+RAMON__  posts small blind (50)
+corsicaforza  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 2d, 6d ]
+hatoka folds.
+oulala777 folds.
+profileu folds.
+riorio666 folds.
+twohat raises (160) to 160
+twohat is all-In.
+luckylady254 folds.
+RAMON__ folds.
+corsicaforza calls (60)
+** Dealing Flop ** :  [ Qh, 6s, 3d ]
+** Dealing Turn ** :  [ 5d ]
+** Dealing River ** :  [ Jd ]
+Creating Main Pot with $370 with twohat
+** Summary **
+Main Pot: 370
+Board: [ Qh 6s 3d 5d Jd  ]
+
+oulala777 balance 1430, didn't bet (folded)
+profileu balance 2540, didn't bet (folded)
+riorio666 balance 1255, didn't bet (folded)
+twohat balance 0, lost 160 [ Kc 9h ] [ high card King -- Kc,Qh,Jd,9h,6s ]
+luckylady254 balance 4140, didn't bet (folded)
+RAMON__ balance 6850, lost 50 (folded)
+corsicaforza balance 1290, bet 160, collected 370, net +210 [ Qd Jh ] [ two pairs, Queens and Jacks -- Qd,Qh,Jh,Jd,6s ]
+hatoka balance 2495, didn't bet (folded)
+
+***** Hand History for Game 6014679533 *****
+twohat finished in 8 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686057)  - Tue May 29 16:42:41 EDT 2007
+Table Speed 1331672 (Real Money) -- Seat 8 is the button
+Total number of players : 7
+Seat 1: oulala777 (1430)
+Seat 3: profileu (2540)
+Seat 4: riorio666 (1255)
+Seat 7: luckylady254 (4140)
+Seat 8: RAMON__ (6850)
+Seat 9: corsicaforza (1290)
+Seat 10: hatoka (2495)
+corsicaforza  posts small blind (50)
+hatoka  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Qs, Kc ]
+oulala777 calls (100)
+profileu folds.
+riorio666 folds.
+luckylady254 raises (400) to 400
+RAMON__ folds.
+corsicaforza folds.
+hatoka calls (300)
+oulala777 calls (300)
+** Dealing Flop ** :  [ 3d, 3s, 5d ]
+hatoka checks.
+oulala777 checks.
+luckylady254 bets (1250)
+hatoka folds.
+oulala777 folds.
+** Summary **
+Main Pot: 1250
+Board: [ 3d 3s 5d  ]
+
+oulala777 balance 1030, lost 400 (folded)
+profileu balance 2540, didn't bet (folded)
+riorio666 balance 1255, didn't bet (folded)
+luckylady254 balance 4990, bet 1650, collected 2500, net +850
+RAMON__ balance 6850, didn't bet (folded)
+corsicaforza balance 1240, lost 50 (folded)
+hatoka balance 2095, lost 400 (folded)
+
+***** Hand History for Game 6014683169 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686057)  - Tue May 29 16:43:30 EDT 2007
+Table Speed 1331672 (Real Money) -- Seat 9 is the button
+Total number of players : 7
+Seat 1: oulala777 (1030)
+Seat 3: profileu (2540)
+Seat 4: riorio666 (1255)
+Seat 7: luckylady254 (4990)
+Seat 8: RAMON__ (6850)
+Seat 9: corsicaforza (1240)
+Seat 10: hatoka (2095)
+hatoka  posts small blind (100)
+oulala777  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Qh, 5h ]
+profileu folds.
+riorio666 folds.
+luckylady254 folds.
+RAMON__ calls (200)
+corsicaforza folds.
+hatoka calls (100)
+oulala777 checks.
+** Dealing Flop ** :  [ 4s, 2h, 8h ]
+hatoka bets (200)
+oulala777 folds.
+RAMON__ folds.
+** Summary **
+Main Pot: 600
+Board: [ 4s 2h 8h  ]
+
+oulala777 balance 830, lost 200 (folded)
+profileu balance 2540, didn't bet (folded)
+riorio666 balance 1255, didn't bet (folded)
+luckylady254 balance 4990, didn't bet (folded)
+RAMON__ balance 6650, lost 200 (folded)
+corsicaforza balance 1240, didn't bet (folded)
+hatoka balance 2495, bet 400, collected 800, net +400
+
+***** Hand History for Game 6014686279 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686057)  - Tue May 29 16:44:12 EDT 2007
+Table Speed 1331672 (Real Money) -- Seat 10 is the button
+Total number of players : 7
+Seat 1: oulala777 (830)
+Seat 3: profileu (2540)
+Seat 4: riorio666 (1255)
+Seat 7: luckylady254 (4990)
+Seat 8: RAMON__ (6650)
+Seat 9: corsicaforza (1240)
+Seat 10: hatoka (2495)
+oulala777  posts small blind (100)
+profileu  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 7c, 5d ]
+riorio666 calls (200)
+luckylady254 folds.
+RAMON__ raises (400) to 400
+corsicaforza folds.
+hatoka folds.
+oulala777 raises (730) to 830
+oulala777 is all-In.
+profileu folds.
+riorio666 folds.
+RAMON__ calls (430)
+** Dealing Flop ** :  [ Ks, Jc, 4c ]
+** Dealing Turn ** :  [ Th ]
+** Dealing River ** :  [ Tc ]
+Creating Main Pot with $2060 with oulala777
+** Summary **
+Main Pot: 2060
+Board: [ Ks Jc 4c Th Tc  ]
+
+oulala777 balance 0, lost 830 [ 5c Ah ] [ a pair of Tens -- Ah,Ks,Jc,Th,Tc ]
+profileu balance 2340, lost 200 (folded)
+riorio666 balance 1055, lost 200 (folded)
+luckylady254 balance 4990, didn't bet (folded)
+RAMON__ balance 7880, bet 830, collected 2060, net +1230 [ Kh Ac ] [ two pairs, Kings and Tens -- Ac,Kh,Ks,Th,Tc ]
+corsicaforza balance 1240, didn't bet (folded)
+hatoka balance 2495, didn't bet (folded)
+
+***** Hand History for Game 6014689804 *****
+oulala777 finished in 7 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686057)  - Tue May 29 16:44:59 EDT 2007
+Table Speed 1331672 (Real Money) -- Seat 10 is the button
+Total number of players : 6
+Seat 3: profileu (2340)
+Seat 4: riorio666 (1055)
+Seat 7: luckylady254 (4990)
+Seat 8: RAMON__ (7880)
+Seat 9: corsicaforza (1240)
+Seat 10: hatoka (2495)
+profileu  posts small blind (100)
+riorio666  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 9c, 2s ]
+luckylady254 calls (200)
+RAMON__ folds.
+corsicaforza folds.
+hatoka folds.
+profileu calls (100)
+riorio666 raises (855) to 1055
+riorio666 is all-In.
+luckylady254 calls (855)
+profileu calls (855)
+Creating Main Pot with $3165 with riorio666
+** Dealing Flop ** :  [ 4d, Ks, 7d ]
+profileu checks.
+luckylady254 checks.
+** Dealing Turn ** :  [ Qs ]
+profileu checks.
+luckylady254 bets (1800)
+profileu calls (1285)
+profileu is all-In.
+** Dealing River ** :  [ 3s ]
+Creating Side Pot 1 with $2570 with profileu
+** Summary **
+Main Pot: 3165 | Side Pot 1: 2570
+Board: [ 4d Ks 7d Qs 3s  ]
+
+profileu balance 0, lost 2340 [ Td Ah ] [ high card Ace -- Ah,Ks,Qs,Td,7d ]
+riorio666 balance 0, lost 1055 [ Th Jc ] [ high card King -- Ks,Qs,Jc,Th,7d ]
+luckylady254 balance 8385, bet 2855, collected 6250, net +3395 [ Qc 4c ] [ two pairs, Queens and Fours -- Ks,Qc,Qs,4c,4d ]
+RAMON__ balance 7880, didn't bet (folded)
+corsicaforza balance 1240, didn't bet (folded)
+hatoka balance 2495, didn't bet (folded)
+
+***** Hand History for Game 6014693356 *****
+riorio666 finished in 6 place.
+profileu finished in 5 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686057)  - Tue May 29 16:45:47 EDT 2007
+Table Speed 1331672 (Real Money) -- Seat 10 is the button
+Total number of players : 4
+Seat 7: luckylady254 (8385)
+Seat 8: RAMON__ (7880)
+Seat 9: corsicaforza (1240)
+Seat 10: hatoka (2495)
+luckylady254  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Ac, 3c ]
+RAMON__ folds.
+corsicaforza calls (200)
+hatoka calls (200)
+luckylady254 raises (1000) to 1200
+corsicaforza folds.
+hatoka calls (1000)
+** Dealing Flop ** :  [ 6d, 8s, 3d ]
+luckylady254 bets (400)
+hatoka raises (800) to 800
+luckylady254 calls (400)
+** Dealing Turn ** :  [ Jd ]
+luckylady254 bets (400)
+hatoka raises (495) to 495
+hatoka is all-In.
+luckylady254 calls (95)
+** Dealing River ** :  [ As ]
+Creating Main Pot with $5190 with hatoka
+** Summary **
+Main Pot: 5190
+Board: [ 6d 8s 3d Jd As  ]
+
+luckylady254 balance 5890, lost 2495 [ Ks Ad ] [ a pair of Aces -- Ad,As,Ks,Jd,8s ]
+RAMON__ balance 7880, didn't bet (folded)
+corsicaforza balance 1040, lost 200 (folded)
+hatoka balance 5190, bet 2495, collected 5190, net +2695 [ Ac 3c ] [ two pairs, Aces and Threes -- Ac,As,Jd,3c,3d ]
+
+***** Hand History for Game 6014696518 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686057)  - Tue May 29 16:46:36 EDT 2007
+Table Speed 1331672 (Real Money) -- Seat 10 is the button
+Total number of players : 4
+Seat 7: luckylady254 (5890)
+Seat 8: RAMON__ (7880)
+Seat 9: corsicaforza (1040)
+Seat 10: hatoka (5190)
+luckylady254  posts small blind (100)
+RAMON__  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 4s, 5c ]
+corsicaforza folds.
+hatoka folds.
+luckylady254 calls (100)
+RAMON__ raises (1000) to 1200
+luckylady254 folds.
+** Summary **
+Main Pot: 400
+
+luckylady254 balance 5690, lost 200 (folded)
+RAMON__ balance 8080, bet 1200, collected 1400, net +200
+corsicaforza balance 1040, didn't bet (folded)
+hatoka balance 5190, didn't bet (folded)
+
+***** Hand History for Game 6014697894 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686057)  - Tue May 29 16:46:57 EDT 2007
+Table Speed 1331672 (Real Money) -- Seat 7 is the button
+Total number of players : 4
+Seat 7: luckylady254 (5690)
+Seat 8: RAMON__ (8080)
+Seat 9: corsicaforza (1040)
+Seat 10: hatoka (5190)
+RAMON__  posts small blind (100)
+corsicaforza  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 7d, 2d ]
+hatoka folds.
+luckylady254 folds.
+RAMON__ raises (300) to 400
+corsicaforza folds.
+** Summary **
+Main Pot: 400
+
+luckylady254 balance 5690, didn't bet (folded)
+RAMON__ balance 8280, bet 400, collected 600, net +200
+corsicaforza balance 840, lost 200 (folded)
+hatoka balance 5190, didn't bet (folded)
+
+***** Hand History for Game 6014698620 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686057)  - Tue May 29 16:47:08 EDT 2007
+Table Speed 1331672 (Real Money) -- Seat 8 is the button
+Total number of players : 4
+Seat 7: luckylady254 (5690)
+Seat 8: RAMON__ (8280)
+Seat 9: corsicaforza (840)
+Seat 10: hatoka (5190)
+corsicaforza  posts small blind (100)
+hatoka  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Qh, Jd ]
+luckylady254 folds.
+RAMON__ raises (400) to 400
+corsicaforza folds.
+hatoka calls (200)
+** Dealing Flop ** :  [ 9d, Kd, 9s ]
+hatoka checks.
+RAMON__ bets (200)
+hatoka folds.
+** Summary **
+Main Pot: 900
+Board: [ 9d Kd 9s  ]
+
+luckylady254 balance 5690, didn't bet (folded)
+RAMON__ balance 8780, bet 600, collected 1100, net +500
+corsicaforza balance 740, lost 100 (folded)
+hatoka balance 4790, lost 400 (folded)
+
+***** Hand History for Game 6014700917 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686057)  - Tue May 29 16:47:44 EDT 2007
+Table Speed 1331672 (Real Money) -- Seat 9 is the button
+Total number of players : 4
+Seat 7: luckylady254 (5690)
+Seat 8: RAMON__ (8780)
+Seat 9: corsicaforza (740)
+Seat 10: hatoka (4790)
+hatoka  posts small blind (100)
+luckylady254  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 5s, 3s ]
+RAMON__ raises (400) to 400
+corsicaforza raises (740) to 740
+corsicaforza is all-In.
+hatoka folds.
+luckylady254 folds.
+RAMON__ calls (340)
+** Dealing Flop ** :  [ 6h, 7h, Qh ]
+** Dealing Turn ** :  [ 9s ]
+** Dealing River ** :  [ 4h ]
+Creating Main Pot with $1780 with corsicaforza
+** Summary **
+Main Pot: 1780
+Board: [ 6h 7h Qh 9s 4h  ]
+
+luckylady254 balance 5490, lost 200 (folded)
+RAMON__ balance 9820, bet 740, collected 1780, net +1040 [ As 9d ] [ a pair of Nines -- As,Qh,9d,9s,7h ]
+corsicaforza balance 0, lost 740 [ Jd 8c ] [ high card Queen -- Qh,Jd,9s,8c,7h ]
+hatoka balance 4690, lost 100 (folded)
+
+***** Hand History for Game 6014702467 *****
+corsicaforza finished in 4 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686057)  - Tue May 29 16:48:07 EDT 2007
+Table Speed 1331672 (Real Money) -- Seat 10 is the button
+Total number of players : 3
+Seat 7: luckylady254 (5490)
+Seat 8: RAMON__ (9820)
+Seat 10: hatoka (4690)
+luckylady254  posts small blind (100)
+RAMON__  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Tc, 9h ]
+hatoka folds.
+luckylady254 calls (100)
+RAMON__ checks.
+** Dealing Flop ** :  [ 7c, 3c, 9c ]
+luckylady254 bets (200)
+RAMON__ calls (200)
+** Dealing Turn ** :  [ 8h ]
+luckylady254 bets (400)
+RAMON__ raises (3400) to 3400
+luckylady254 calls (3000)
+** Dealing River ** :  [ Js ]
+luckylady254 bets (200)
+RAMON__ calls (200)
+** Summary **
+Main Pot: 8000
+Board: [ 7c 3c 9c 8h Js  ]
+
+luckylady254 balance 5490, bet 4000, collected 4000, net +0 [ 7s 8c ] [ two pairs, Eights and Sevens -- Js,8c,8h,7s,7c ]
+RAMON__ balance 9820, bet 4000, collected 4000, net +0 [ 8d 7h ] [ two pairs, Eights and Sevens -- Js,8d,8h,7h,7c ]
+hatoka balance 4690, didn't bet (folded)
+
+***** Hand History for Game 6014704803 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686057)  - Tue May 29 16:48:42 EDT 2007
+Table Speed 1331672 (Real Money) -- Seat 7 is the button
+Total number of players : 3
+Seat 7: luckylady254 (5490)
+Seat 8: RAMON__ (9820)
+Seat 10: hatoka (4690)
+RAMON__  posts small blind (200)
+hatoka  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 2d, 3c ]
+luckylady254 folds.
+RAMON__ calls (200)
+hatoka checks.
+** Dealing Flop ** :  [ Jd, 7h, 7s ]
+RAMON__ checks.
+hatoka bets (400)
+RAMON__ folds.
+** Summary **
+Main Pot: 800
+Board: [ Jd 7h 7s  ]
+
+luckylady254 balance 5490, didn't bet (folded)
+RAMON__ balance 9420, lost 400 (folded)
+hatoka balance 5090, bet 800, collected 1200, net +400
+
+***** Hand History for Game 6014706904 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686057)  - Tue May 29 16:49:15 EDT 2007
+Table Speed 1331672 (Real Money) -- Seat 8 is the button
+Total number of players : 3
+Seat 7: luckylady254 (5490)
+Seat 8: RAMON__ (9420)
+Seat 10: hatoka (5090)
+hatoka  posts small blind (200)
+luckylady254  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 8h, Ad ]
+RAMON__ raises (800) to 800
+hatoka calls (600)
+luckylady254 calls (400)
+** Dealing Flop ** :  [ 4d, Qh, 7s ]
+hatoka checks.
+luckylady254 checks.
+RAMON__ bets (400)
+hatoka folds.
+luckylady254 calls (400)
+** Dealing Turn ** :  [ 7c ]
+luckylady254 checks.
+RAMON__ bets (400)
+luckylady254 folds.
+** Summary **
+Main Pot: 3200
+Board: [ 4d Qh 7s 7c  ]
+
+luckylady254 balance 4290, lost 1200 (folded)
+RAMON__ balance 11420, bet 1600, collected 3600, net +2000
+hatoka balance 4290, lost 800 (folded)
+
+***** Hand History for Game 6014710039 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686057)  - Tue May 29 16:50:03 EDT 2007
+Table Speed 1331672 (Real Money) -- Seat 10 is the button
+Total number of players : 3
+Seat 7: luckylady254 (4290)
+Seat 8: RAMON__ (11420)
+Seat 10: hatoka (4290)
+luckylady254  posts small blind (200)
+RAMON__  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 6d, As ]
+hatoka folds.
+luckylady254 calls (200)
+RAMON__ checks.
+** Dealing Flop ** :  [ 4h, 3d, 3h ]
+luckylady254 checks.
+RAMON__ bets (400)
+luckylady254 calls (400)
+** Dealing Turn ** :  [ 6h ]
+luckylady254 bets (2000)
+RAMON__ calls (2000)
+** Dealing River ** :  [ Kh ]
+luckylady254 bets (1490)
+luckylady254 is all-In.
+RAMON__ calls (1490)
+Creating Main Pot with $8580 with luckylady254
+** Summary **
+Main Pot: 8580
+Board: [ 4h 3d 3h 6h Kh  ]
+
+luckylady254 balance 0, lost 4290 [ 7d 5c ] [ a straight Three to Seven -- 7d,6h,5c,4h,3d ]
+RAMON__ balance 15710, bet 4290, collected 8580, net +4290 [ Ah Ad ] [ a flush, Ace high -- Ah,Kh,6h,4h,3h ]
+hatoka balance 4290, didn't bet (folded)
+
+***** Hand History for Game 6014714307 *****
+luckylady254 finished in 3 place and won $10.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686057)  - Tue May 29 16:51:04 EDT 2007
+Table Speed 1331672 (Real Money) -- Seat 8 is the button
+Total number of players : 2
+Seat 8: RAMON__ (15710)
+Seat 10: hatoka (4290)
+RAMON__  posts small blind (200)
+hatoka  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 6c, 6d ]
+RAMON__ raises (600) to 800
+hatoka raises (3890) to 4290
+hatoka is all-In.
+RAMON__ folds.
+Creating Main Pot with $1600 with hatoka
+** Summary **
+Main Pot: 1600
+
+RAMON__ balance 14910, lost 800 (folded)
+hatoka balance 5090, bet 4290, collected 5090, net +800
+
+***** Hand History for Game 6014715323 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686057)  - Tue May 29 16:51:19 EDT 2007
+Table Speed 1331672 (Real Money) -- Seat 10 is the button
+Total number of players : 2
+Seat 8: RAMON__ (14910)
+Seat 10: hatoka (5090)
+hatoka  posts small blind (200)
+RAMON__  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ Kd, 3s ]
+hatoka calls (200)
+RAMON__ checks.
+** Dealing Flop ** :  [ 4c, Ah, Qh ]
+RAMON__ checks.
+hatoka bets (400)
+RAMON__ folds.
+** Summary **
+Main Pot: 800
+Board: [ 4c Ah Qh  ]
+
+RAMON__ balance 14510, lost 400 (folded)
+hatoka balance 5490, bet 800, collected 1200, net +400
+
+***** Hand History for Game 6014716647 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686057)  - Tue May 29 16:51:36 EDT 2007
+Table Speed 1331672 (Real Money) -- Seat 8 is the button
+Total number of players : 2
+Seat 8: RAMON__ (14510)
+Seat 10: hatoka (5490)
+RAMON__  posts small blind (200)
+hatoka  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ Th, 9d ]
+RAMON__ raises (600) to 800
+hatoka calls (400)
+** Dealing Flop ** :  [ 4c, 3d, Ad ]
+hatoka checks.
+RAMON__ bets (400)
+hatoka folds.
+** Summary **
+Main Pot: 1600
+Board: [ 4c 3d Ad  ]
+
+RAMON__ balance 15310, bet 1200, collected 2000, net +800
+hatoka balance 4690, lost 800 (folded)
+
+***** Hand History for Game 6014717873 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686057)  - Tue May 29 16:51:52 EDT 2007
+Table Speed 1331672 (Real Money) -- Seat 10 is the button
+Total number of players : 2
+Seat 8: RAMON__ (15310)
+Seat 10: hatoka (4690)
+hatoka  posts small blind (200)
+RAMON__  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 3d, Jc ]
+hatoka folds.
+** Summary **
+Main Pot: 400
+
+RAMON__ balance 15510, bet 400, collected 600, net +200
+hatoka balance 4490, lost 200 (folded)
+
+***** Hand History for Game 6014718368 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686057)  - Tue May 29 16:51:59 EDT 2007
+Table Speed 1331672 (Real Money) -- Seat 8 is the button
+Total number of players : 2
+Seat 8: RAMON__ (15510)
+Seat 10: hatoka (4490)
+RAMON__  posts small blind (200)
+hatoka  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ Ad, 8c ]
+RAMON__ folds.
+** Summary **
+Main Pot: 400
+
+RAMON__ balance 15310, lost 200 (folded)
+hatoka balance 4690, bet 400, collected 600, net +200
+
+***** Hand History for Game 6014718950 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686057)  - Tue May 29 16:52:07 EDT 2007
+Table Speed 1331672 (Real Money) -- Seat 10 is the button
+Total number of players : 2
+Seat 8: RAMON__ (15310)
+Seat 10: hatoka (4690)
+hatoka  posts small blind (200)
+RAMON__  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 5s, As ]
+hatoka raises (600) to 800
+RAMON__ raises (800) to 1200
+hatoka calls (400)
+** Dealing Flop ** :  [ 2h, 6h, 7s ]
+RAMON__ bets (14110)
+RAMON__ is all-In.
+hatoka folds.
+Creating Main Pot with $2400 with RAMON__
+** Summary **
+Main Pot: 2400
+Board: [ 2h 6h 7s  ]
+
+RAMON__ balance 16510, bet 15310, collected 16510, net +1200
+hatoka balance 3490, lost 1200 (folded)
+
+***** Hand History for Game 6014720764 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686057)  - Tue May 29 16:52:30 EDT 2007
+Table Speed 1331672 (Real Money) -- Seat 8 is the button
+Total number of players : 2
+Seat 8: RAMON__ (16510)
+Seat 10: hatoka (3490)
+RAMON__  posts small blind (200)
+hatoka  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 5h, 9h ]
+RAMON__ raises (600) to 800
+hatoka calls (400)
+** Dealing Flop ** :  [ Qc, 9s, Ac ]
+hatoka bets (400)
+RAMON__ calls (400)
+** Dealing Turn ** :  [ Ks ]
+hatoka bets (400)
+RAMON__ raises (800) to 800
+hatoka calls (400)
+** Dealing River ** :  [ Td ]
+hatoka checks.
+RAMON__ bets (400)
+hatoka folds.
+** Summary **
+Main Pot: 4000
+Board: [ Qc 9s Ac Ks Td  ]
+
+RAMON__ balance 18510, bet 2400, collected 4400, net +2000
+hatoka balance 1490, lost 2000 (folded)
+
+***** Hand History for Game 6014723697 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686057)  - Tue May 29 16:53:09 EDT 2007
+Table Speed 1331672 (Real Money) -- Seat 10 is the button
+Total number of players : 2
+Seat 8: RAMON__ (18510)
+Seat 10: hatoka (1490)
+hatoka  posts small blind (200)
+RAMON__  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ Ad, 3d ]
+hatoka raises (1290) to 1490
+hatoka is all-In.
+RAMON__ calls (1090)
+** Dealing Flop ** :  [ 3s, Qh, 2d ]
+** Dealing Turn ** :  [ 6d ]
+** Dealing River ** :  [ 4c ]
+Creating Main Pot with $2980 with hatoka
+** Summary **
+Main Pot: 2980
+Board: [ 3s Qh 2d 6d 4c  ]
+
+RAMON__ balance 17020, lost 1490 [ As 2h ] [ a pair of Twos -- As,Qh,6d,2h,2d ]
+hatoka balance 2980, bet 1490, collected 2980, net +1490 [ Ad 3d ] [ a pair of Threes -- Ad,Qh,6d,3d,3s ]
+
+***** Hand History for Game 6014724807 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33686057)  - Tue May 29 16:53:24 EDT 2007
+Table Speed 1331672 (Real Money) -- Seat 8 is the button
+Total number of players : 2
+Seat 8: RAMON__ (17020)
+Seat 10: hatoka (2980)
+RAMON__  posts small blind (200)
+hatoka  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ Kh, 5c ]
+RAMON__ calls (200)
+hatoka checks.
+** Dealing Flop ** :  [ 5d, 6s, Th ]
+hatoka bets (800)
+RAMON__ raises (1600) to 1600
+hatoka calls (800)
+** Dealing Turn ** :  [ 4s ]
+hatoka checks.
+RAMON__ bets (400)
+hatoka raises (980) to 980
+hatoka is all-In.
+RAMON__ calls (580)
+** Dealing River ** :  [ 6h ]
+Creating Main Pot with $5960 with hatoka
+** Summary **
+Main Pot: 5960
+Board: [ 5d 6s Th 4s 6h  ]
+
+RAMON__ balance 20000, bet 2980, collected 5960, net +2980 [ Ts 8c ] [ two pairs, Tens and Sixes -- Ts,Th,8c,6s,6h ]
+hatoka balance 0, lost 2980 [ Kh 5c ] [ two pairs, Sixes and Fives -- Kh,6s,6h,5c,5d ]
+
+
+

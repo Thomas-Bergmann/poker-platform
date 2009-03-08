@@ -1,0 +1,3137 @@
+
+Hello hatoka,
+These hand histories are provided to you as an aid for your training and development. You are not permitted to share them with anyone.  We reserve the right to cease providing them or apply further restrictions at any time.
+Complete hand histories are only available to players that participated in the hand.
+You requested a transcript of Tournament #32873485.
+
+Summary
+----------
+Played on    : 13 April 2007 03:18 PM
+On Table     : Speed #1331062
+Game Type    : Texas Holdem
+Buy-In       : $2
+Fee          : $1
+You finished in  position 3
+1st place - Burgingham1 -  $12
+2nd place - johnnyQQ111 -  $7.20
+3rd place - hatoka -  $4.80
+
+***** Hand History for Game 5871426389 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:18:45 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 2 is the button
+Total number of players : 10
+Seat 1: hatoka (2000)
+Seat 2: murf80 (2000)
+Seat 3: gan_bra (2000)
+Seat 4: coucou226 (2000)
+Seat 5: johnnyQQ111 (2000)
+Seat 6: Burgingham1 (2000)
+Seat 7: lssmg (2000)
+Seat 8: gr_and_slam (2000)
+Seat 9: Michpower (2000)
+Seat 10: Rileanko (2000)
+gan_bra  posts small blind (20)
+coucou226  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 2c, 4c ]
+johnnyQQ111 folds.
+Burgingham1 folds.
+lssmg calls (40)
+gr_and_slam folds.
+Michpower folds.
+Rileanko calls (40)
+hatoka folds.
+murf80 calls (40)
+gan_bra folds.
+coucou226 checks.
+** Dealing Flop ** :  [ Ad, Jh, 6s ]
+coucou226 folds.
+lssmg checks.
+Rileanko checks.
+murf80 bets (80)
+lssmg raises (160) to 160
+Rileanko folds.
+murf80 calls (80)
+** Dealing Turn ** :  [ Js ]
+lssmg checks.
+murf80 bets (160)
+lssmg folds.
+** Summary **
+Main Pot: 500
+Board: [ Ad Jh 6s Js  ]
+
+hatoka balance 2000, didn't bet (folded)
+murf80 balance 2300, bet 360, collected 660, net +300
+gan_bra balance 1980, lost 20 (folded)
+coucou226 balance 1960, lost 40 (folded)
+johnnyQQ111 balance 2000, didn't bet (folded)
+Burgingham1 balance 2000, didn't bet (folded)
+lssmg balance 1800, lost 200 (folded)
+gr_and_slam balance 2000, didn't bet (folded)
+Michpower balance 2000, didn't bet (folded)
+Rileanko balance 1960, lost 40 (folded)
+
+***** Hand History for Game 5871431141 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:20:12 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 3 is the button
+Total number of players : 10
+Seat 1: hatoka (2000)
+Seat 2: murf80 (2300)
+Seat 3: gan_bra (1980)
+Seat 4: coucou226 (1960)
+Seat 5: johnnyQQ111 (2000)
+Seat 6: Burgingham1 (2000)
+Seat 7: lssmg (1800)
+Seat 8: gr_and_slam (2000)
+Seat 9: Michpower (2000)
+Seat 10: Rileanko (1960)
+coucou226  posts small blind (20)
+johnnyQQ111  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 5d, Jh ]
+Burgingham1 folds.
+lssmg folds.
+gr_and_slam folds.
+Michpower raises (80) to 80
+Rileanko folds.
+hatoka folds.
+murf80 folds.
+gan_bra folds.
+coucou226 calls (60)
+johnnyQQ111 folds.
+** Dealing Flop ** :  [ 8h, 7c, 6s ]
+coucou226 checks.
+Michpower bets (150)
+coucou226 folds.
+** Summary **
+Main Pot: 200
+Board: [ 8h 7c 6s  ]
+
+hatoka balance 2000, didn't bet (folded)
+murf80 balance 2300, didn't bet (folded)
+gan_bra balance 1980, didn't bet (folded)
+coucou226 balance 1880, lost 80 (folded)
+johnnyQQ111 balance 1960, lost 40 (folded)
+Burgingham1 balance 2000, didn't bet (folded)
+lssmg balance 1800, didn't bet (folded)
+gr_and_slam balance 2000, didn't bet (folded)
+Michpower balance 2120, bet 230, collected 350, net +120
+Rileanko balance 1960, didn't bet (folded)
+
+***** Hand History for Game 5871434057 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:21:03 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 4 is the button
+Total number of players : 10
+Seat 1: hatoka (2000)
+Seat 2: murf80 (2300)
+Seat 3: gan_bra (1980)
+Seat 4: coucou226 (1880)
+Seat 5: johnnyQQ111 (1960)
+Seat 6: Burgingham1 (2000)
+Seat 7: lssmg (1800)
+Seat 8: gr_and_slam (2000)
+Seat 9: Michpower (2120)
+Seat 10: Rileanko (1960)
+johnnyQQ111  posts small blind (20)
+Burgingham1  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 7h, 5d ]
+lssmg calls (40)
+gr_and_slam folds.
+Michpower folds.
+Rileanko folds.
+hatoka folds.
+murf80 calls (40)
+gan_bra folds.
+coucou226 folds.
+johnnyQQ111 calls (20)
+Burgingham1 checks.
+** Dealing Flop ** :  [ Ts, Js, Qh ]
+johnnyQQ111 bets (160)
+Burgingham1 calls (160)
+lssmg calls (160)
+murf80 calls (160)
+** Dealing Turn ** :  [ Kd ]
+johnnyQQ111 checks.
+Burgingham1 checks.
+lssmg checks.
+murf80 checks.
+** Dealing River ** :  [ 9c ]
+johnnyQQ111 checks.
+Burgingham1 checks.
+lssmg bets (1600)
+lssmg is all-In.
+murf80 folds.
+johnnyQQ111 folds.
+Burgingham1 folds.
+Creating Main Pot with $800 with lssmg
+** Summary **
+Main Pot: 800
+Board: [ Ts Js Qh Kd 9c  ]
+
+hatoka balance 2000, didn't bet (folded)
+murf80 balance 2100, lost 200 (folded)
+gan_bra balance 1980, didn't bet (folded)
+coucou226 balance 1880, didn't bet (folded)
+johnnyQQ111 balance 1760, lost 200 (folded)
+Burgingham1 balance 1800, lost 200 (folded)
+lssmg balance 2400, bet 1800, collected 2400, net +600 [ Ah 9h ] [ a straight Ten to Ace -- Ah,Kd,Qh,Js,Ts ]
+gr_and_slam balance 2000, didn't bet (folded)
+Michpower balance 2120, didn't bet (folded)
+Rileanko balance 1960, didn't bet (folded)
+
+***** Hand History for Game 5871439490 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:22:42 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 5 is the button
+Total number of players : 10
+Seat 1: hatoka (2000)
+Seat 2: murf80 (2100)
+Seat 3: gan_bra (1980)
+Seat 4: coucou226 (1880)
+Seat 5: johnnyQQ111 (1760)
+Seat 6: Burgingham1 (1800)
+Seat 7: lssmg (2400)
+Seat 8: gr_and_slam (2000)
+Seat 9: Michpower (2120)
+Seat 10: Rileanko (1960)
+Burgingham1  posts small blind (20)
+lssmg  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ Ks, 8d ]
+gr_and_slam calls (40)
+Michpower folds.
+Rileanko folds.
+hatoka folds.
+murf80 folds.
+gan_bra folds.
+coucou226 calls (40)
+johnnyQQ111 calls (40)
+Burgingham1 folds.
+lssmg checks.
+** Dealing Flop ** :  [ Js, Ac, Jd ]
+lssmg bets (40)
+gr_and_slam calls (40)
+coucou226 folds.
+johnnyQQ111 calls (40)
+** Dealing Turn ** :  [ Kc ]
+lssmg bets (300)
+gr_and_slam calls (300)
+johnnyQQ111 raises (640) to 640
+lssmg raises (2020) to 2320
+lssmg is all-In.
+gr_and_slam folds.
+johnnyQQ111 calls (1040)
+johnnyQQ111 is all-In.
+** Dealing River ** :  [ 3c ]
+Creating Main Pot with $3960 with johnnyQQ111
+** Summary **
+Main Pot: 3960
+Board: [ Js Ac Jd Kc 3c  ]
+
+hatoka balance 2000, didn't bet (folded)
+murf80 balance 2100, didn't bet (folded)
+gan_bra balance 1980, didn't bet (folded)
+coucou226 balance 1840, lost 40 (folded)
+johnnyQQ111 balance 3960, bet 1760, collected 3960, net +2200 [ Jc 9c ] [ a flush, Ace high -- Ac,Kc,Jc,9c,3c ]
+Burgingham1 balance 1780, lost 20 (folded)
+lssmg balance 640, bet 2400, collected 640, lost -1760 [ 7s Jh ] [ three of a kind, Jacks -- Ac,Kc,Jh,Js,Jd ]
+gr_and_slam balance 1620, lost 380 (folded)
+Michpower balance 2120, didn't bet (folded)
+Rileanko balance 1960, didn't bet (folded)
+
+***** Hand History for Game 5871442701 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:23:41 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 6 is the button
+Total number of players : 10
+Seat 1: hatoka (2000)
+Seat 2: murf80 (2100)
+Seat 3: gan_bra (1980)
+Seat 4: coucou226 (1840)
+Seat 5: johnnyQQ111 (3960)
+Seat 6: Burgingham1 (1780)
+Seat 7: lssmg (640)
+Seat 8: gr_and_slam (1620)
+Seat 9: Michpower (2120)
+Seat 10: Rileanko (1960)
+lssmg  posts small blind (30)
+gr_and_slam  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Qh, 9c ]
+Michpower folds.
+Rileanko calls (60)
+hatoka folds.
+murf80 folds.
+gan_bra folds.
+coucou226 folds.
+johnnyQQ111 folds.
+Burgingham1 calls (60)
+lssmg calls (30)
+gr_and_slam checks.
+** Dealing Flop ** :  [ 4d, Jh, 6s ]
+lssmg bets (580)
+lssmg is all-In.
+gr_and_slam calls (580)
+Rileanko folds.
+Burgingham1 folds.
+** Dealing Turn ** :  [ 7c ]
+** Dealing River ** :  [ 3d ]
+Creating Main Pot with $1400 with lssmg
+** Summary **
+Main Pot: 1400
+Board: [ 4d Jh 6s 7c 3d  ]
+
+hatoka balance 2000, didn't bet (folded)
+murf80 balance 2100, didn't bet (folded)
+gan_bra balance 1980, didn't bet (folded)
+coucou226 balance 1840, didn't bet (folded)
+johnnyQQ111 balance 3960, didn't bet (folded)
+Burgingham1 balance 1720, lost 60 (folded)
+lssmg balance 1400, bet 640, collected 1400, net +760 [ Ah 5c ] [ a straight Three to Seven -- 7c,6s,5c,4d,3d ]
+gr_and_slam balance 980, lost 640 [ 3h Js ] [ two pairs, Jacks and Threes -- Js,Jh,7c,3h,3d ]
+Michpower balance 2120, didn't bet (folded)
+Rileanko balance 1900, lost 60 (folded)
+
+***** Hand History for Game 5871445134 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:24:25 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 7 is the button
+Total number of players : 10
+Seat 1: hatoka (2000)
+Seat 2: murf80 (2100)
+Seat 3: gan_bra (1980)
+Seat 4: coucou226 (1840)
+Seat 5: johnnyQQ111 (3960)
+Seat 6: Burgingham1 (1720)
+Seat 7: lssmg (1400)
+Seat 8: gr_and_slam (980)
+Seat 9: Michpower (2120)
+Seat 10: Rileanko (1900)
+gr_and_slam  posts small blind (30)
+Michpower  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 2c, Ts ]
+Rileanko folds.
+hatoka folds.
+murf80 folds.
+gan_bra folds.
+coucou226 folds.
+johnnyQQ111 calls (60)
+Burgingham1 folds.
+lssmg folds.
+gr_and_slam folds.
+Michpower checks.
+** Dealing Flop ** :  [ Jd, Ah, Qd ]
+Michpower bets (60)
+johnnyQQ111 folds.
+** Summary **
+Main Pot: 150
+Board: [ Jd Ah Qd  ]
+
+hatoka balance 2000, didn't bet (folded)
+murf80 balance 2100, didn't bet (folded)
+gan_bra balance 1980, didn't bet (folded)
+coucou226 balance 1840, didn't bet (folded)
+johnnyQQ111 balance 3900, lost 60 (folded)
+Burgingham1 balance 1720, didn't bet (folded)
+lssmg balance 1400, didn't bet (folded)
+gr_and_slam balance 950, lost 30 (folded)
+Michpower balance 2210, bet 120, collected 210, net +90
+Rileanko balance 1900, didn't bet (folded)
+
+***** Hand History for Game 5871446987 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:24:59 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 8 is the button
+Total number of players : 10
+Seat 1: hatoka (2000)
+Seat 2: murf80 (2100)
+Seat 3: gan_bra (1980)
+Seat 4: coucou226 (1840)
+Seat 5: johnnyQQ111 (3900)
+Seat 6: Burgingham1 (1720)
+Seat 7: lssmg (1400)
+Seat 8: gr_and_slam (950)
+Seat 9: Michpower (2210)
+Seat 10: Rileanko (1900)
+Michpower  posts small blind (30)
+Rileanko  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 3d, 7s ]
+hatoka folds.
+murf80 folds.
+gan_bra folds.
+coucou226 folds.
+johnnyQQ111 raises (120) to 120
+Burgingham1 folds.
+lssmg folds.
+gr_and_slam calls (120)
+Michpower calls (90)
+Rileanko folds.
+** Dealing Flop ** :  [ Jc, Kd, 4h ]
+Michpower bets (225)
+johnnyQQ111 folds.
+gr_and_slam folds.
+** Summary **
+Main Pot: 420
+Board: [ Jc Kd 4h  ]
+
+hatoka balance 2000, didn't bet (folded)
+murf80 balance 2100, didn't bet (folded)
+gan_bra balance 1980, didn't bet (folded)
+coucou226 balance 1840, didn't bet (folded)
+johnnyQQ111 balance 3780, lost 120 (folded)
+Burgingham1 balance 1720, didn't bet (folded)
+lssmg balance 1400, didn't bet (folded)
+gr_and_slam balance 830, lost 120 (folded)
+Michpower balance 2510, bet 345, collected 645, net +300
+Rileanko balance 1840, lost 60 (folded)
+
+***** Hand History for Game 5871449201 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:25:38 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 9 is the button
+Total number of players : 10
+Seat 1: hatoka (2000)
+Seat 2: murf80 (2100)
+Seat 3: gan_bra (1980)
+Seat 4: coucou226 (1840)
+Seat 5: johnnyQQ111 (3780)
+Seat 6: Burgingham1 (1720)
+Seat 7: lssmg (1400)
+Seat 8: gr_and_slam (830)
+Seat 9: Michpower (2510)
+Seat 10: Rileanko (1840)
+Rileanko  posts small blind (30)
+hatoka  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Kd, 9s ]
+murf80 folds.
+gan_bra folds.
+coucou226 calls (60)
+johnnyQQ111 folds.
+Burgingham1 folds.
+lssmg folds.
+gr_and_slam raises (120) to 120
+Michpower calls (120)
+Rileanko folds.
+hatoka folds.
+coucou226 calls (60)
+** Dealing Flop ** :  [ As, 5h, 8s ]
+coucou226 checks.
+gr_and_slam bets (710)
+gr_and_slam is all-In.
+Michpower folds.
+coucou226 folds.
+Creating Main Pot with $450 with gr_and_slam
+** Summary **
+Main Pot: 450
+Board: [ As 5h 8s  ]
+
+hatoka balance 1940, lost 60 (folded)
+murf80 balance 2100, didn't bet (folded)
+gan_bra balance 1980, didn't bet (folded)
+coucou226 balance 1720, lost 120 (folded)
+johnnyQQ111 balance 3780, didn't bet (folded)
+Burgingham1 balance 1720, didn't bet (folded)
+lssmg balance 1400, didn't bet (folded)
+gr_and_slam balance 1160, bet 830, collected 1160, net +330
+Michpower balance 2390, lost 120 (folded)
+Rileanko balance 1810, lost 30 (folded)
+
+***** Hand History for Game 5871451261 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:26:16 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 10 is the button
+Total number of players : 10
+Seat 1: hatoka (1940)
+Seat 2: murf80 (2100)
+Seat 3: gan_bra (1980)
+Seat 4: coucou226 (1720)
+Seat 5: johnnyQQ111 (3780)
+Seat 6: Burgingham1 (1720)
+Seat 7: lssmg (1400)
+Seat 8: gr_and_slam (1160)
+Seat 9: Michpower (2390)
+Seat 10: Rileanko (1810)
+hatoka  posts small blind (30)
+murf80  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Ac, 8c ]
+gan_bra folds.
+coucou226 calls (60)
+johnnyQQ111 folds.
+Burgingham1 folds.
+lssmg folds.
+gr_and_slam folds.
+Michpower folds.
+Rileanko calls (60)
+hatoka raises (90) to 120
+murf80 calls (60)
+coucou226 calls (60)
+Rileanko calls (60)
+** Dealing Flop ** :  [ 6s, 9h, 8d ]
+hatoka bets (500)
+murf80 folds.
+coucou226 folds.
+Rileanko folds.
+** Summary **
+Main Pot: 480
+Board: [ 6s 9h 8d  ]
+
+hatoka balance 2300, bet 620, collected 980, net +360
+murf80 balance 1980, lost 120 (folded)
+gan_bra balance 1980, didn't bet (folded)
+coucou226 balance 1600, lost 120 (folded)
+johnnyQQ111 balance 3780, didn't bet (folded)
+Burgingham1 balance 1720, didn't bet (folded)
+lssmg balance 1400, didn't bet (folded)
+gr_and_slam balance 1160, didn't bet (folded)
+Michpower balance 2390, didn't bet (folded)
+Rileanko balance 1690, lost 120 (folded)
+
+***** Hand History for Game 5871453779 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:27:01 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 1 is the button
+Total number of players : 10
+Seat 1: hatoka (2300)
+Seat 2: murf80 (1980)
+Seat 3: gan_bra (1980)
+Seat 4: coucou226 (1600)
+Seat 5: johnnyQQ111 (3780)
+Seat 6: Burgingham1 (1720)
+Seat 7: lssmg (1400)
+Seat 8: gr_and_slam (1160)
+Seat 9: Michpower (2390)
+Seat 10: Rileanko (1690)
+murf80  posts small blind (30)
+gan_bra  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Js, 6c ]
+coucou226 folds.
+johnnyQQ111 folds.
+Burgingham1 folds.
+lssmg raises (160) to 160
+gr_and_slam raises (260) to 260
+Michpower folds.
+Rileanko folds.
+hatoka folds.
+murf80 calls (230)
+gan_bra folds.
+lssmg raises (1240) to 1400
+lssmg is all-In.
+gr_and_slam calls (900)
+gr_and_slam is all-In.
+murf80 calls (1140)
+** Dealing Flop ** :  [ Qc, Qs, Qh ]
+** Dealing Turn ** :  [ 8c ]
+** Dealing River ** :  [ 3s ]
+Creating Main Pot with $3540 with gr_and_slam
+Creating Side Pot 1 with $480 with lssmg
+** Summary **
+Main Pot: 3540 | Side Pot 1: 480
+Board: [ Qc Qs Qh 8c 3s  ]
+
+hatoka balance 2300, didn't bet (folded)
+murf80 balance 580, lost 1400 [ 9d 9s ] [ a full house, Queens full of Nines -- Qc,Qs,Qh,9d,9s ]
+gan_bra balance 1920, lost 60 (folded)
+coucou226 balance 1600, didn't bet (folded)
+johnnyQQ111 balance 3780, didn't bet (folded)
+Burgingham1 balance 1720, didn't bet (folded)
+lssmg balance 4020, bet 1400, collected 4020, net +2620 [ Ac Ad ] [ a full house, Queens full of Aces -- Ac,Ad,Qc,Qs,Qh ]
+gr_and_slam balance 0, lost 1160 [ Ks Kd ] [ a full house, Queens full of Kings -- Ks,Kd,Qc,Qs,Qh ]
+Michpower balance 2390, didn't bet (folded)
+Rileanko balance 1690, didn't bet (folded)
+
+***** Hand History for Game 5871456267 *****
+gr_and_slam finished in 10 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:27:45 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 2 is the button
+Total number of players : 9
+Seat 1: hatoka (2300)
+Seat 2: murf80 (580)
+Seat 3: gan_bra (1920)
+Seat 4: coucou226 (1600)
+Seat 5: johnnyQQ111 (3780)
+Seat 6: Burgingham1 (1720)
+Seat 7: lssmg (4020)
+Seat 9: Michpower (2390)
+Seat 10: Rileanko (1690)
+gan_bra  posts small blind (30)
+coucou226  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 8h, 4s ]
+johnnyQQ111 folds.
+Burgingham1 folds.
+lssmg folds.
+Michpower calls (60)
+Rileanko folds.
+hatoka folds.
+murf80 folds.
+gan_bra folds.
+coucou226 checks.
+** Dealing Flop ** :  [ Jh, Th, Kd ]
+coucou226 folds.
+** Summary **
+Main Pot: 150
+Board: [ Jh Th Kd  ]
+
+hatoka balance 2300, didn't bet (folded)
+murf80 balance 580, didn't bet (folded)
+gan_bra balance 1890, lost 30 (folded)
+coucou226 balance 1540, lost 60 (folded)
+johnnyQQ111 balance 3780, didn't bet (folded)
+Burgingham1 balance 1720, didn't bet (folded)
+lssmg balance 4020, didn't bet (folded)
+Michpower balance 2480, bet 60, collected 150, net +90
+Rileanko balance 1690, didn't bet (folded)
+
+***** Hand History for Game 5871458181 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:28:21 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 3 is the button
+Total number of players : 9
+Seat 1: hatoka (2300)
+Seat 2: murf80 (580)
+Seat 3: gan_bra (1890)
+Seat 4: coucou226 (1540)
+Seat 5: johnnyQQ111 (3780)
+Seat 6: Burgingham1 (1720)
+Seat 7: lssmg (4020)
+Seat 9: Michpower (2480)
+Seat 10: Rileanko (1690)
+coucou226  posts small blind (30)
+johnnyQQ111  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 4d, Ah ]
+Burgingham1 folds.
+lssmg folds.
+Michpower calls (60)
+Rileanko folds.
+hatoka raises (120) to 120
+murf80 folds.
+gan_bra folds.
+coucou226 folds.
+johnnyQQ111 folds.
+Michpower calls (60)
+** Dealing Flop ** :  [ Ks, 9c, 6s ]
+Michpower checks.
+hatoka bets (500)
+Michpower folds.
+** Summary **
+Main Pot: 330
+Board: [ Ks 9c 6s  ]
+
+hatoka balance 2510, bet 620, collected 830, net +210
+murf80 balance 580, didn't bet (folded)
+gan_bra balance 1890, didn't bet (folded)
+coucou226 balance 1510, lost 30 (folded)
+johnnyQQ111 balance 3720, lost 60 (folded)
+Burgingham1 balance 1720, didn't bet (folded)
+lssmg balance 4020, didn't bet (folded)
+Michpower balance 2360, lost 120 (folded)
+Rileanko balance 1690, didn't bet (folded)
+
+***** Hand History for Game 5871460165 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:28:57 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 4 is the button
+Total number of players : 9
+Seat 1: hatoka (2510)
+Seat 2: murf80 (580)
+Seat 3: gan_bra (1890)
+Seat 4: coucou226 (1510)
+Seat 5: johnnyQQ111 (3720)
+Seat 6: Burgingham1 (1720)
+Seat 7: lssmg (4020)
+Seat 9: Michpower (2360)
+Seat 10: Rileanko (1690)
+johnnyQQ111  posts small blind (50)
+Burgingham1  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 2h, 6s ]
+lssmg folds.
+Michpower raises (200) to 200
+Rileanko calls (200)
+hatoka folds.
+murf80 raises (580) to 580
+murf80 is all-In.
+gan_bra folds.
+coucou226 folds.
+johnnyQQ111 folds.
+Burgingham1 folds.
+Michpower calls (380)
+Rileanko calls (380)
+Creating Main Pot with $1890 with murf80
+** Dealing Flop ** :  [ 6c, 9c, Kh ]
+Michpower checks.
+Rileanko bets (100)
+Michpower calls (100)
+** Dealing Turn ** :  [ Ts ]
+Michpower checks.
+Rileanko bets (1010)
+Rileanko is all-In.
+Michpower folds.
+** Dealing River ** :  [ Js ]
+Creating Side Pot 1 with $200 with Rileanko
+** Summary **
+Main Pot: 1890 | Side Pot 1: 200
+Board: [ 6c 9c Kh Ts Js  ]
+
+hatoka balance 2510, didn't bet (folded)
+murf80 balance 1890, bet 580, collected 1890, net +1310 [ Qh Qd ] [ a straight Nine to King -- Kh,Qh,Js,Ts,9c ]
+gan_bra balance 1890, didn't bet (folded)
+coucou226 balance 1510, didn't bet (folded)
+johnnyQQ111 balance 3670, lost 50 (folded)
+Burgingham1 balance 1620, lost 100 (folded)
+lssmg balance 4020, didn't bet (folded)
+Michpower balance 1680, lost 680 (folded)
+Rileanko balance 1210, bet 1690, collected 1210, lost -480 [ Ah 9h ] [ a pair of Nines -- Ah,Kh,Js,9h,9c ]
+
+***** Hand History for Game 5871463088 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:29:51 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 5 is the button
+Total number of players : 9
+Seat 1: hatoka (2510)
+Seat 2: murf80 (1890)
+Seat 3: gan_bra (1890)
+Seat 4: coucou226 (1510)
+Seat 5: johnnyQQ111 (3670)
+Seat 6: Burgingham1 (1620)
+Seat 7: lssmg (4020)
+Seat 9: Michpower (1680)
+Seat 10: Rileanko (1210)
+Burgingham1  posts small blind (50)
+lssmg  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 6d, Ks ]
+Michpower folds.
+Rileanko calls (100)
+hatoka folds.
+murf80 folds.
+gan_bra folds.
+coucou226 folds.
+johnnyQQ111 folds.
+Burgingham1 folds.
+lssmg checks.
+** Dealing Flop ** :  [ Th, 4d, 9d ]
+lssmg bets (250)
+Rileanko folds.
+** Summary **
+Main Pot: 250
+Board: [ Th 4d 9d  ]
+
+hatoka balance 2510, didn't bet (folded)
+murf80 balance 1890, didn't bet (folded)
+gan_bra balance 1890, didn't bet (folded)
+coucou226 balance 1510, didn't bet (folded)
+johnnyQQ111 balance 3670, didn't bet (folded)
+Burgingham1 balance 1570, lost 50 (folded)
+lssmg balance 4170, bet 350, collected 500, net +150
+Michpower balance 1680, didn't bet (folded)
+Rileanko balance 1110, lost 100 (folded)
+
+***** Hand History for Game 5871465017 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:30:25 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 6 is the button
+Total number of players : 9
+Seat 1: hatoka (2510)
+Seat 2: murf80 (1890)
+Seat 3: gan_bra (1890)
+Seat 4: coucou226 (1510)
+Seat 5: johnnyQQ111 (3670)
+Seat 6: Burgingham1 (1570)
+Seat 7: lssmg (4170)
+Seat 9: Michpower (1680)
+Seat 10: Rileanko (1110)
+lssmg  posts small blind (50)
+Michpower  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 2d, 9s ]
+Rileanko folds.
+hatoka folds.
+murf80 calls (100)
+gan_bra folds.
+coucou226 folds.
+johnnyQQ111 folds.
+Burgingham1 folds.
+lssmg folds.
+Michpower checks.
+** Dealing Flop ** :  [ Jc, Kh, Th ]
+Michpower bets (100)
+murf80 calls (100)
+** Dealing Turn ** :  [ Qs ]
+Michpower bets (1480)
+Michpower is all-In.
+murf80 calls (1480)
+** Dealing River ** :  [ 9d ]
+Creating Main Pot with $3410 with Michpower
+** Summary **
+Main Pot: 3410
+Board: [ Jc Kh Th Qs 9d  ]
+
+hatoka balance 2510, didn't bet (folded)
+murf80 balance 3620, bet 1680, collected 3410, net +1730 [ 8h Ad ] [ a straight Ten to Ace -- Ad,Kh,Qs,Jc,Th ]
+gan_bra balance 1890, didn't bet (folded)
+coucou226 balance 1510, didn't bet (folded)
+johnnyQQ111 balance 3670, didn't bet (folded)
+Burgingham1 balance 1570, didn't bet (folded)
+lssmg balance 4120, lost 50 (folded)
+Michpower balance 0, lost 1680 [ 5d 9h ] [ a straight Nine to King -- Kh,Qs,Jc,Th,9h ]
+Rileanko balance 1110, didn't bet (folded)
+
+***** Hand History for Game 5871467321 *****
+Michpower finished in 9 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:31:05 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 7 is the button
+Total number of players : 8
+Seat 1: hatoka (2510)
+Seat 2: murf80 (3620)
+Seat 3: gan_bra (1890)
+Seat 4: coucou226 (1510)
+Seat 5: johnnyQQ111 (3670)
+Seat 6: Burgingham1 (1570)
+Seat 7: lssmg (4120)
+Seat 10: Rileanko (1110)
+Rileanko  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 5h, Jh ]
+hatoka folds.
+murf80 calls (100)
+gan_bra folds.
+coucou226 folds.
+johnnyQQ111 folds.
+Burgingham1 folds.
+lssmg folds.
+Rileanko checks.
+** Dealing Flop ** :  [ Qc, 7h, Qs ]
+Rileanko checks.
+murf80 checks.
+** Dealing Turn ** :  [ Ad ]
+Rileanko checks.
+murf80 bets (200)
+Rileanko folds.
+** Summary **
+Main Pot: 200
+Board: [ Qc 7h Qs Ad  ]
+
+hatoka balance 2510, didn't bet (folded)
+murf80 balance 3720, bet 300, collected 400, net +100
+gan_bra balance 1890, didn't bet (folded)
+coucou226 balance 1510, didn't bet (folded)
+johnnyQQ111 balance 3670, didn't bet (folded)
+Burgingham1 balance 1570, didn't bet (folded)
+lssmg balance 4120, didn't bet (folded)
+Rileanko balance 1010, lost 100 (folded)
+
+***** Hand History for Game 5871469829 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:31:50 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 7 is the button
+Total number of players : 8
+Seat 1: hatoka (2510)
+Seat 2: murf80 (3720)
+Seat 3: gan_bra (1890)
+Seat 4: coucou226 (1510)
+Seat 5: johnnyQQ111 (3670)
+Seat 6: Burgingham1 (1570)
+Seat 7: lssmg (4120)
+Seat 10: Rileanko (1010)
+Rileanko  posts small blind (50)
+hatoka  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 7h, Jd ]
+murf80 folds.
+gan_bra folds.
+coucou226 folds.
+johnnyQQ111 folds.
+Burgingham1 folds.
+lssmg folds.
+Rileanko folds.
+** Summary **
+Main Pot: 100
+
+hatoka balance 2560, bet 100, collected 150, net +50
+murf80 balance 3720, didn't bet (folded)
+gan_bra balance 1890, didn't bet (folded)
+coucou226 balance 1510, didn't bet (folded)
+johnnyQQ111 balance 3670, didn't bet (folded)
+Burgingham1 balance 1570, didn't bet (folded)
+lssmg balance 4120, didn't bet (folded)
+Rileanko balance 960, lost 50 (folded)
+
+***** Hand History for Game 5871471639 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:32:22 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 10 is the button
+Total number of players : 8
+Seat 1: hatoka (2560)
+Seat 2: murf80 (3720)
+Seat 3: gan_bra (1890)
+Seat 4: coucou226 (1510)
+Seat 5: johnnyQQ111 (3670)
+Seat 6: Burgingham1 (1570)
+Seat 7: lssmg (4120)
+Seat 10: Rileanko (960)
+hatoka  posts small blind (50)
+murf80  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 2c, Qd ]
+gan_bra folds.
+coucou226 folds.
+johnnyQQ111 folds.
+Burgingham1 folds.
+lssmg folds.
+Rileanko calls (100)
+hatoka folds.
+murf80 checks.
+** Dealing Flop ** :  [ Ts, Qc, Ac ]
+murf80 bets (200)
+Rileanko raises (860) to 860
+Rileanko is all-In.
+murf80 calls (660)
+** Dealing Turn ** :  [ 4c ]
+** Dealing River ** :  [ 7d ]
+Creating Main Pot with $1970 with Rileanko
+** Summary **
+Main Pot: 1970
+Board: [ Ts Qc Ac 4c 7d  ]
+
+hatoka balance 2510, lost 50 (folded)
+murf80 balance 4730, bet 960, collected 1970, net +1010 [ Qs Td ] [ two pairs, Queens and Tens -- Ac,Qs,Qc,Td,Ts ]
+gan_bra balance 1890, didn't bet (folded)
+coucou226 balance 1510, didn't bet (folded)
+johnnyQQ111 balance 3670, didn't bet (folded)
+Burgingham1 balance 1570, didn't bet (folded)
+lssmg balance 4120, didn't bet (folded)
+Rileanko balance 0, lost 960 [ As 5c ] [ a pair of Aces -- As,Ac,Qc,Ts,7d ]
+
+***** Hand History for Game 5871474160 *****
+Rileanko finished in 8 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:33:06 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 1 is the button
+Total number of players : 7
+Seat 1: hatoka (2510)
+Seat 2: murf80 (4730)
+Seat 3: gan_bra (1890)
+Seat 4: coucou226 (1510)
+Seat 5: johnnyQQ111 (3670)
+Seat 6: Burgingham1 (1570)
+Seat 7: lssmg (4120)
+murf80  posts small blind (50)
+gan_bra  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 6h, Qd ]
+coucou226 folds.
+johnnyQQ111 folds.
+Burgingham1 folds.
+lssmg raises (200) to 200
+hatoka folds.
+murf80 folds.
+gan_bra calls (100)
+** Dealing Flop ** :  [ 8h, Js, Ac ]
+gan_bra checks.
+lssmg bets (450)
+gan_bra folds.
+** Summary **
+Main Pot: 450
+Board: [ 8h Js Ac  ]
+
+hatoka balance 2510, didn't bet (folded)
+murf80 balance 4680, lost 50 (folded)
+gan_bra balance 1690, lost 200 (folded)
+coucou226 balance 1510, didn't bet (folded)
+johnnyQQ111 balance 3670, didn't bet (folded)
+Burgingham1 balance 1570, didn't bet (folded)
+lssmg balance 4370, bet 650, collected 900, net +250
+
+***** Hand History for Game 5871476728 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:33:51 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 2 is the button
+Total number of players : 7
+Seat 1: hatoka (2510)
+Seat 2: murf80 (4680)
+Seat 3: gan_bra (1690)
+Seat 4: coucou226 (1510)
+Seat 5: johnnyQQ111 (3670)
+Seat 6: Burgingham1 (1570)
+Seat 7: lssmg (4370)
+gan_bra  posts small blind (50)
+coucou226  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Kh, 9d ]
+johnnyQQ111 folds.
+Burgingham1 folds.
+lssmg calls (100)
+hatoka raises (200) to 200
+murf80 folds.
+gan_bra folds.
+coucou226 folds.
+lssmg calls (100)
+** Dealing Flop ** :  [ Qs, 6d, 4s ]
+lssmg checks.
+hatoka checks.
+** Dealing Turn ** :  [ Tc ]
+lssmg bets (100)
+hatoka raises (200) to 200
+lssmg calls (100)
+** Dealing River ** :  [ 6c ]
+lssmg checks.
+hatoka checks.
+** Summary **
+Main Pot: 950
+Board: [ Qs 6d 4s Tc 6c  ]
+
+hatoka balance 2110, lost 400 [ Kh 9d ] [ a pair of Sixes -- Kh,Qs,Tc,6d,6c ]
+
+murf80 balance 4680, didn't bet (folded)
+gan_bra balance 1640, lost 50 (folded)
+coucou226 balance 1410, lost 100 (folded)
+johnnyQQ111 balance 3670, didn't bet (folded)
+Burgingham1 balance 1570, didn't bet (folded)
+lssmg balance 4920, bet 400, collected 950, net +550 [ Js Ts ] [ two pairs, Tens and Sixes -- Qs,Ts,Tc,6d,6c ]
+
+***** Hand History for Game 5871479733 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:34:45 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 3 is the button
+Total number of players : 7
+Seat 1: hatoka (2110)
+Seat 2: murf80 (4680)
+Seat 3: gan_bra (1640)
+Seat 4: coucou226 (1410)
+Seat 5: johnnyQQ111 (3670)
+Seat 6: Burgingham1 (1570)
+Seat 7: lssmg (4920)
+coucou226  posts small blind (100)
+johnnyQQ111  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Qs, Ah ]
+Burgingham1 folds.
+lssmg calls (200)
+hatoka raises (400) to 400
+murf80 calls (400)
+gan_bra raises (1000) to 1000
+coucou226 folds.
+johnnyQQ111 folds.
+lssmg folds.
+hatoka raises (1710) to 2110
+hatoka is all-In.
+murf80 folds.
+gan_bra calls (640)
+gan_bra is all-In.
+** Dealing Flop ** :  [ Td, Th, 8d ]
+** Dealing Turn ** :  [ 3c ]
+** Dealing River ** :  [ Ts ]
+Creating Main Pot with $4180 with gan_bra
+** Summary **
+Main Pot: 4180
+Board: [ Td Th 8d 3c Ts  ]
+
+hatoka balance 4650, bet 2110, collected 4650, net +2540 [ Qs Ah ] [ three of a kind, Tens with Ace kicker -- Ah,Qs,Td,Th,Ts ]
+murf80 balance 4280, lost 400 (folded)
+gan_bra balance 0, lost 1640 [ Kh Qd ] [ three of a kind, Tens -- Kh,Qd,Td,Th,Ts ]
+coucou226 balance 1310, lost 100 (folded)
+johnnyQQ111 balance 3470, lost 200 (folded)
+Burgingham1 balance 1570, didn't bet (folded)
+lssmg balance 4720, lost 200 (folded)
+
+***** Hand History for Game 5871482065 *****
+gan_bra finished in 7 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:35:27 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 4 is the button
+Total number of players : 6
+Seat 1: hatoka (4650)
+Seat 2: murf80 (4280)
+Seat 4: coucou226 (1310)
+Seat 5: johnnyQQ111 (3470)
+Seat 6: Burgingham1 (1570)
+Seat 7: lssmg (4720)
+johnnyQQ111  posts small blind (100)
+Burgingham1  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Kh, 9h ]
+lssmg folds.
+hatoka raises (400) to 400
+murf80 folds.
+coucou226 folds.
+johnnyQQ111 folds.
+Burgingham1 folds.
+** Summary **
+Main Pot: 500
+
+hatoka balance 4950, bet 400, collected 700, net +300
+murf80 balance 4280, didn't bet (folded)
+coucou226 balance 1310, didn't bet (folded)
+johnnyQQ111 balance 3370, lost 100 (folded)
+Burgingham1 balance 1370, lost 200 (folded)
+lssmg balance 4720, didn't bet (folded)
+
+***** Hand History for Game 5871483290 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:35:49 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 5 is the button
+Total number of players : 6
+Seat 1: hatoka (4950)
+Seat 2: murf80 (4280)
+Seat 4: coucou226 (1310)
+Seat 5: johnnyQQ111 (3370)
+Seat 6: Burgingham1 (1370)
+Seat 7: lssmg (4720)
+Burgingham1  posts small blind (100)
+lssmg  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ As, 9d ]
+hatoka calls (200)
+murf80 folds.
+coucou226 folds.
+johnnyQQ111 folds.
+Burgingham1 folds.
+lssmg checks.
+** Dealing Flop ** :  [ 2s, Kd, 8s ]
+lssmg checks.
+hatoka bets (200)
+lssmg folds.
+** Summary **
+Main Pot: 500
+Board: [ 2s Kd 8s  ]
+
+hatoka balance 5250, bet 400, collected 700, net +300
+murf80 balance 4280, didn't bet (folded)
+coucou226 balance 1310, didn't bet (folded)
+johnnyQQ111 balance 3370, didn't bet (folded)
+Burgingham1 balance 1270, lost 100 (folded)
+lssmg balance 4520, lost 200 (folded)
+
+***** Hand History for Game 5871484650 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:36:13 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 6 is the button
+Total number of players : 6
+Seat 1: hatoka (5250)
+Seat 2: murf80 (4280)
+Seat 4: coucou226 (1310)
+Seat 5: johnnyQQ111 (3370)
+Seat 6: Burgingham1 (1270)
+Seat 7: lssmg (4520)
+lssmg  posts small blind (100)
+hatoka  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Jc, 6h ]
+murf80 folds.
+coucou226 folds.
+johnnyQQ111 folds.
+Burgingham1 folds.
+lssmg calls (100)
+hatoka checks.
+** Dealing Flop ** :  [ Kc, 2c, 7c ]
+lssmg bets (200)
+hatoka calls (200)
+** Dealing Turn ** :  [ 8d ]
+lssmg checks.
+hatoka checks.
+** Dealing River ** :  [ Th ]
+lssmg checks.
+hatoka bets (200)
+lssmg calls (200)
+** Summary **
+Main Pot: 1200
+Board: [ Kc 2c 7c 8d Th  ]
+
+hatoka balance 4650, lost 600 [ Jc 6h ] [ high card King -- Kc,Jc,Th,8d,7c ]
+murf80 balance 4280, didn't bet (folded)
+coucou226 balance 1310, didn't bet (folded)
+johnnyQQ111 balance 3370, didn't bet (folded)
+Burgingham1 balance 1270, didn't bet (folded)
+lssmg balance 5120, bet 600, collected 1200, net +600 [ 5h Qd ] [ high card King with Queen kicker -- Kc,Qd,Th,8d,7c ]
+
+***** Hand History for Game 5871487083 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:36:57 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 7 is the button
+Total number of players : 6
+Seat 1: hatoka (4650)
+Seat 2: murf80 (4280)
+Seat 4: coucou226 (1310)
+Seat 5: johnnyQQ111 (3370)
+Seat 6: Burgingham1 (1270)
+Seat 7: lssmg (5120)
+hatoka  posts small blind (100)
+murf80  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 2c, Ad ]
+coucou226 folds.
+johnnyQQ111 folds.
+Burgingham1 folds.
+lssmg calls (200)
+hatoka calls (100)
+murf80 checks.
+** Dealing Flop ** :  [ 6c, 2s, 7h ]
+hatoka checks.
+murf80 checks.
+lssmg bets (300)
+hatoka folds.
+murf80 folds.
+** Summary **
+Main Pot: 600
+Board: [ 6c 2s 7h  ]
+
+hatoka balance 4450, lost 200 (folded)
+murf80 balance 4080, lost 200 (folded)
+coucou226 balance 1310, didn't bet (folded)
+johnnyQQ111 balance 3370, didn't bet (folded)
+Burgingham1 balance 1270, didn't bet (folded)
+lssmg balance 5520, bet 500, collected 900, net +400
+
+***** Hand History for Game 5871489632 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:37:42 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 1 is the button
+Total number of players : 6
+Seat 1: hatoka (4450)
+Seat 2: murf80 (4080)
+Seat 4: coucou226 (1310)
+Seat 5: johnnyQQ111 (3370)
+Seat 6: Burgingham1 (1270)
+Seat 7: lssmg (5520)
+murf80  posts small blind (100)
+coucou226  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 7s, Js ]
+johnnyQQ111 calls (200)
+Burgingham1 folds.
+lssmg folds.
+hatoka folds.
+murf80 calls (100)
+coucou226 checks.
+** Dealing Flop ** :  [ 4c, Qh, Th ]
+murf80 checks.
+coucou226 checks.
+johnnyQQ111 checks.
+** Dealing Turn ** :  [ Qs ]
+murf80 checks.
+coucou226 folds.
+johnnyQQ111 checks.
+** Dealing River ** :  [ 7c ]
+murf80 bets (200)
+johnnyQQ111 calls (200)
+** Summary **
+Main Pot: 1000
+Board: [ 4c Qh Th Qs 7c  ]
+
+hatoka balance 4450, didn't bet (folded)
+murf80 balance 3680, lost 400 [ 3c Kc ] [ a pair of Queens -- Kc,Qh,Qs,Th,7c ]
+coucou226 balance 1110, lost 200 (folded)
+johnnyQQ111 balance 3970, bet 400, collected 1000, net +600 [ 9s Kh ] [ a pair of Queens with Nine kicker -- Kh,Qh,Qs,Th,9s9s(kicker card) ]
+Burgingham1 balance 1270, didn't bet (folded)
+lssmg balance 5520, didn't bet (folded)
+
+***** Hand History for Game 5871492702 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:38:38 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 2 is the button
+Total number of players : 6
+Seat 1: hatoka (4450)
+Seat 2: murf80 (3680)
+Seat 4: coucou226 (1110)
+Seat 5: johnnyQQ111 (3970)
+Seat 6: Burgingham1 (1270)
+Seat 7: lssmg (5520)
+coucou226  posts small blind (100)
+johnnyQQ111  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 2h, 8d ]
+Burgingham1 folds.
+lssmg folds.
+hatoka folds.
+murf80 folds.
+coucou226 folds.
+** Summary **
+Main Pot: 200
+
+hatoka balance 4450, didn't bet (folded)
+murf80 balance 3680, didn't bet (folded)
+coucou226 balance 1010, lost 100 (folded)
+johnnyQQ111 balance 4070, bet 200, collected 300, net +100 [ 6h Jc ] [ high card Jack -- Jc,6h ]
+Burgingham1 balance 1270, didn't bet (folded)
+lssmg balance 5520, didn't bet (folded)
+
+***** Hand History for Game 5871493328 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:38:49 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 4 is the button
+Total number of players : 6
+Seat 1: hatoka (4450)
+Seat 2: murf80 (3680)
+Seat 4: coucou226 (1010)
+Seat 5: johnnyQQ111 (4070)
+Seat 6: Burgingham1 (1270)
+Seat 7: lssmg (5520)
+johnnyQQ111  posts small blind (100)
+Burgingham1  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 8s, 8c ]
+lssmg raises (400) to 400
+hatoka folds.
+murf80 folds.
+coucou226 folds.
+johnnyQQ111 folds.
+Burgingham1 raises (1070) to 1270
+Burgingham1 is all-In.
+lssmg calls (870)
+** Dealing Flop ** :  [ Td, Kh, 3c ]
+** Dealing Turn ** :  [ 4d ]
+** Dealing River ** :  [ 2h ]
+Creating Main Pot with $2640 with Burgingham1
+** Summary **
+Main Pot: 2640
+Board: [ Td Kh 3c 4d 2h  ]
+
+hatoka balance 4450, didn't bet (folded)
+murf80 balance 3680, didn't bet (folded)
+coucou226 balance 1010, didn't bet (folded)
+johnnyQQ111 balance 3970, lost 100 (folded)
+Burgingham1 balance 2640, bet 1270, collected 2640, net +1370 [ Ad Kd ] [ a pair of Kings -- Ad,Kd,Kh,Td,4d ]
+lssmg balance 4250, lost 1270 [ Qc As ] [ high card Ace -- As,Kh,Qc,Td,4d ]
+
+***** Hand History for Game 5871494917 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:39:17 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 5 is the button
+Total number of players : 6
+Seat 1: hatoka (4450)
+Seat 2: murf80 (3680)
+Seat 4: coucou226 (1010)
+Seat 5: johnnyQQ111 (3970)
+Seat 6: Burgingham1 (2640)
+Seat 7: lssmg (4250)
+Burgingham1  posts small blind (100)
+lssmg  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 8h, Qd ]
+hatoka folds.
+murf80 folds.
+coucou226 folds.
+johnnyQQ111 folds.
+Burgingham1 folds.
+** Summary **
+Main Pot: 200
+
+hatoka balance 4450, didn't bet (folded)
+murf80 balance 3680, didn't bet (folded)
+coucou226 balance 1010, didn't bet (folded)
+johnnyQQ111 balance 3970, didn't bet (folded)
+Burgingham1 balance 2540, lost 100 (folded)
+lssmg balance 4350, bet 200, collected 300, net +100
+
+***** Hand History for Game 5871495546 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:39:29 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 6 is the button
+Total number of players : 6
+Seat 1: hatoka (4450)
+Seat 2: murf80 (3680)
+Seat 4: coucou226 (1010)
+Seat 5: johnnyQQ111 (3970)
+Seat 6: Burgingham1 (2540)
+Seat 7: lssmg (4350)
+lssmg  posts small blind (100)
+hatoka  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 5c, 9s ]
+murf80 folds.
+coucou226 folds.
+johnnyQQ111 folds.
+Burgingham1 folds.
+lssmg calls (100)
+hatoka checks.
+** Dealing Flop ** :  [ 8d, 2c, 7d ]
+lssmg bets (400)
+hatoka folds.
+** Summary **
+Main Pot: 400
+Board: [ 8d 2c 7d  ]
+
+hatoka balance 4250, lost 200 (folded)
+murf80 balance 3680, didn't bet (folded)
+coucou226 balance 1010, didn't bet (folded)
+johnnyQQ111 balance 3970, didn't bet (folded)
+Burgingham1 balance 2540, didn't bet (folded)
+lssmg balance 4550, bet 600, collected 800, net +200
+
+***** Hand History for Game 5871497449 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:40:04 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 7 is the button
+Total number of players : 6
+Seat 1: hatoka (4250)
+Seat 2: murf80 (3680)
+Seat 4: coucou226 (1010)
+Seat 5: johnnyQQ111 (3970)
+Seat 6: Burgingham1 (2540)
+Seat 7: lssmg (4550)
+hatoka  posts small blind (200)
+murf80  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 6s, 7d ]
+coucou226 raises (1010) to 1010
+coucou226 is all-In.
+johnnyQQ111 folds.
+Burgingham1 folds.
+lssmg folds.
+hatoka folds.
+murf80 folds.
+Creating Main Pot with $1000 with coucou226
+** Summary **
+Main Pot: 1000
+
+hatoka balance 4050, lost 200 (folded)
+murf80 balance 3280, lost 400 (folded)
+coucou226 balance 1610, bet 1010, collected 1610, net +600
+johnnyQQ111 balance 3970, didn't bet (folded)
+Burgingham1 balance 2540, didn't bet (folded)
+lssmg balance 4550, didn't bet (folded)
+
+***** Hand History for Game 5871498803 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:40:28 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 1 is the button
+Total number of players : 6
+Seat 1: hatoka (4050)
+Seat 2: murf80 (3280)
+Seat 4: coucou226 (1610)
+Seat 5: johnnyQQ111 (3970)
+Seat 6: Burgingham1 (2540)
+Seat 7: lssmg (4550)
+murf80  posts small blind (200)
+coucou226  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ Td, Jh ]
+johnnyQQ111 folds.
+Burgingham1 folds.
+lssmg folds.
+hatoka raises (800) to 800
+murf80 folds.
+coucou226 raises (1210) to 1610
+coucou226 is all-In.
+hatoka calls (810)
+** Dealing Flop ** :  [ 7d, Ts, 5c ]
+** Dealing Turn ** :  [ 3h ]
+** Dealing River ** :  [ 4d ]
+Creating Main Pot with $3420 with coucou226
+** Summary **
+Main Pot: 3420
+Board: [ 7d Ts 5c 3h 4d  ]
+
+hatoka balance 5860, bet 1610, collected 3420, net +1810 [ Td Jh ] [ a pair of Tens -- Jh,Td,Ts,7d,5c ]
+murf80 balance 3080, lost 200 (folded)
+coucou226 balance 0, lost 1610 [ 9s 9d ] [ a pair of Nines -- Ts,9s,9d,7d,5c ]
+johnnyQQ111 balance 3970, didn't bet (folded)
+Burgingham1 balance 2540, didn't bet (folded)
+lssmg balance 4550, didn't bet (folded)
+
+***** Hand History for Game 5871500728 *****
+coucou226 finished in 6 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:41:03 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 2 is the button
+Total number of players : 5
+Seat 1: hatoka (5860)
+Seat 2: murf80 (3080)
+Seat 5: johnnyQQ111 (3970)
+Seat 6: Burgingham1 (2540)
+Seat 7: lssmg (4550)
+johnnyQQ111  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 8c, 5c ]
+Burgingham1 folds.
+lssmg folds.
+hatoka folds.
+murf80 folds.
+** Summary **
+Main Pot: 400
+
+hatoka balance 5860, didn't bet (folded)
+murf80 balance 3080, didn't bet (folded)
+johnnyQQ111 balance 3970, bet 400, collected 400, net +0 [ 9d 4d ] [ high card Nine -- 9d,4d ]
+Burgingham1 balance 2540, didn't bet (folded)
+lssmg balance 4550, didn't bet (folded)
+
+***** Hand History for Game 5871501645 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:41:20 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 2 is the button
+Total number of players : 5
+Seat 1: hatoka (5860)
+Seat 2: murf80 (3080)
+Seat 5: johnnyQQ111 (3970)
+Seat 6: Burgingham1 (2540)
+Seat 7: lssmg (4550)
+johnnyQQ111  posts small blind (200)
+Burgingham1  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 5d, 3c ]
+lssmg folds.
+hatoka folds.
+murf80 calls (400)
+johnnyQQ111 calls (200)
+Burgingham1 checks.
+** Dealing Flop ** :  [ Qd, Jh, 2h ]
+johnnyQQ111 checks.
+Burgingham1 bets (2140)
+Burgingham1 is all-In.
+murf80 folds.
+johnnyQQ111 folds.
+Creating Main Pot with $1200 with Burgingham1
+** Summary **
+Main Pot: 1200
+Board: [ Qd Jh 2h  ]
+
+hatoka balance 5860, didn't bet (folded)
+murf80 balance 2680, lost 400 (folded)
+johnnyQQ111 balance 3570, lost 400 (folded)
+Burgingham1 balance 3340, bet 2540, collected 3340, net +800
+lssmg balance 4550, didn't bet (folded)
+
+***** Hand History for Game 5871503243 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:41:49 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 5 is the button
+Total number of players : 5
+Seat 1: hatoka (5860)
+Seat 2: murf80 (2680)
+Seat 5: johnnyQQ111 (3570)
+Seat 6: Burgingham1 (3340)
+Seat 7: lssmg (4550)
+Burgingham1  posts small blind (200)
+lssmg  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ Ts, Qs ]
+hatoka raises (800) to 800
+murf80 raises (2680) to 2680
+murf80 is all-In.
+johnnyQQ111 folds.
+Burgingham1 folds.
+lssmg folds.
+hatoka calls (1880)
+** Dealing Flop ** :  [ Qh, 5s, 9d ]
+** Dealing Turn ** :  [ 4h ]
+** Dealing River ** :  [ 6c ]
+Creating Main Pot with $5960 with murf80
+** Summary **
+Main Pot: 5960
+Board: [ Qh 5s 9d 4h 6c  ]
+
+hatoka balance 9140, bet 2680, collected 5960, net +3280 [ Ts Qs ] [ a pair of Queens -- Qs,Qh,Ts,9d,6c ]
+murf80 balance 0, lost 2680 [ 8s 8d ] [ a pair of Eights -- Qh,9d,8s,8d,6c ]
+johnnyQQ111 balance 3570, didn't bet (folded)
+Burgingham1 balance 3140, lost 200 (folded)
+lssmg balance 4150, lost 400 (folded)
+
+***** Hand History for Game 5871505978 *****
+murf80 finished in 5 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:42:38 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 6 is the button
+Total number of players : 4
+Seat 1: hatoka (9140)
+Seat 5: johnnyQQ111 (3570)
+Seat 6: Burgingham1 (3140)
+Seat 7: lssmg (4150)
+lssmg  posts small blind (200)
+hatoka  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ Th, Kh ]
+johnnyQQ111 folds.
+Burgingham1 folds.
+lssmg calls (200)
+hatoka checks.
+** Dealing Flop ** :  [ 6c, 9s, 8h ]
+lssmg bets (400)
+hatoka folds.
+** Summary **
+Main Pot: 800
+Board: [ 6c 9s 8h  ]
+
+hatoka balance 8740, lost 400 (folded)
+johnnyQQ111 balance 3570, didn't bet (folded)
+Burgingham1 balance 3140, didn't bet (folded)
+lssmg balance 4550, bet 800, collected 1200, net +400
+
+***** Hand History for Game 5871507766 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:43:10 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 7 is the button
+Total number of players : 4
+Seat 1: hatoka (8740)
+Seat 5: johnnyQQ111 (3570)
+Seat 6: Burgingham1 (3140)
+Seat 7: lssmg (4550)
+hatoka  posts small blind (200)
+johnnyQQ111  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 9d, 6h ]
+Burgingham1 folds.
+lssmg folds.
+hatoka raises (600) to 800
+johnnyQQ111 calls (400)
+** Dealing Flop ** :  [ As, 4s, 7c ]
+hatoka bets (400)
+johnnyQQ111 folds.
+** Summary **
+Main Pot: 1600
+Board: [ As 4s 7c  ]
+
+hatoka balance 9540, bet 1200, collected 2000, net +800
+johnnyQQ111 balance 2770, lost 800 (folded)
+Burgingham1 balance 3140, didn't bet (folded)
+lssmg balance 4550, didn't bet (folded)
+
+***** Hand History for Game 5871508957 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:43:32 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 1 is the button
+Total number of players : 4
+Seat 1: hatoka (9540)
+Seat 5: johnnyQQ111 (2770)
+Seat 6: Burgingham1 (3140)
+Seat 7: lssmg (4550)
+johnnyQQ111  posts small blind (200)
+Burgingham1  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 5s, 2h ]
+lssmg folds.
+hatoka folds.
+johnnyQQ111 raises (2570) to 2770
+johnnyQQ111 is all-In.
+Burgingham1 folds.
+Creating Main Pot with $800 with johnnyQQ111
+** Summary **
+Main Pot: 800
+
+hatoka balance 9540, didn't bet (folded)
+johnnyQQ111 balance 3170, bet 2770, collected 3170, net +400
+Burgingham1 balance 2740, lost 400 (folded)
+lssmg balance 4550, didn't bet (folded)
+
+***** Hand History for Game 5871509930 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:43:50 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 5 is the button
+Total number of players : 4
+Seat 1: hatoka (9540)
+Seat 5: johnnyQQ111 (3170)
+Seat 6: Burgingham1 (2740)
+Seat 7: lssmg (4550)
+Burgingham1  posts small blind (200)
+lssmg  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ Ts, Ad ]
+hatoka raises (800) to 800
+johnnyQQ111 folds.
+Burgingham1 folds.
+lssmg folds.
+** Summary **
+Main Pot: 1000
+
+hatoka balance 10140, bet 800, collected 1400, net +600
+johnnyQQ111 balance 3170, didn't bet (folded)
+Burgingham1 balance 2540, lost 200 (folded)
+lssmg balance 4150, lost 400 (folded)
+
+***** Hand History for Game 5871510675 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:44:03 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 6 is the button
+Total number of players : 4
+Seat 1: hatoka (10140)
+Seat 5: johnnyQQ111 (3170)
+Seat 6: Burgingham1 (2540)
+Seat 7: lssmg (4150)
+lssmg  posts small blind (200)
+hatoka  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ Kh, 4c ]
+johnnyQQ111 folds.
+Burgingham1 folds.
+lssmg calls (200)
+hatoka checks.
+** Dealing Flop ** :  [ 9d, 6d, Qc ]
+lssmg bets (800)
+hatoka folds.
+** Summary **
+Main Pot: 800
+Board: [ 9d 6d Qc  ]
+
+hatoka balance 9740, lost 400 (folded)
+johnnyQQ111 balance 3170, didn't bet (folded)
+Burgingham1 balance 2540, didn't bet (folded)
+lssmg balance 4550, bet 1200, collected 1600, net +400
+
+***** Hand History for Game 5871512278 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:44:32 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 7 is the button
+Total number of players : 4
+Seat 1: hatoka (9740)
+Seat 5: johnnyQQ111 (3170)
+Seat 6: Burgingham1 (2540)
+Seat 7: lssmg (4550)
+hatoka  posts small blind (200)
+johnnyQQ111  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 7c, 7h ]
+Burgingham1 folds.
+lssmg folds.
+hatoka raises (600) to 800
+johnnyQQ111 raises (2770) to 3170
+johnnyQQ111 is all-In.
+hatoka calls (2370)
+** Dealing Flop ** :  [ 4s, 3h, Ks ]
+** Dealing Turn ** :  [ Qd ]
+** Dealing River ** :  [ Th ]
+Creating Main Pot with $6340 with johnnyQQ111
+** Summary **
+Main Pot: 6340
+Board: [ 4s 3h Ks Qd Th  ]
+
+hatoka balance 6570, lost 3170 [ 7c 7h ] [ a pair of Sevens -- Ks,Qd,Th,7c,7h ]
+johnnyQQ111 balance 6340, bet 3170, collected 6340, net +3170 [ 8c 8h ] [ a pair of Eights -- Ks,Qd,Th,8c,8h ]
+Burgingham1 balance 2540, didn't bet (folded)
+lssmg balance 4550, didn't bet (folded)
+
+***** Hand History for Game 5871513720 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:44:57 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 1 is the button
+Total number of players : 4
+Seat 1: hatoka (6570)
+Seat 5: johnnyQQ111 (6340)
+Seat 6: Burgingham1 (2540)
+Seat 7: lssmg (4550)
+johnnyQQ111  posts small blind (200)
+Burgingham1  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 7h, 9h ]
+lssmg folds.
+hatoka folds.
+johnnyQQ111 raises (1000) to 1200
+Burgingham1 folds.
+** Summary **
+Main Pot: 800
+
+hatoka balance 6570, didn't bet (folded)
+johnnyQQ111 balance 6740, bet 1200, collected 1600, net +400 [ Ah Ks ] [ high card Ace -- Ah,Ks ]
+Burgingham1 balance 2140, lost 400 (folded)
+lssmg balance 4550, didn't bet (folded)
+
+***** Hand History for Game 5871514758 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:45:16 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 5 is the button
+Total number of players : 4
+Seat 1: hatoka (6570)
+Seat 5: johnnyQQ111 (6740)
+Seat 6: Burgingham1 (2140)
+Seat 7: lssmg (4550)
+Burgingham1  posts small blind (300)
+lssmg  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ 8s, Ks ]
+hatoka calls (600)
+johnnyQQ111 folds.
+Burgingham1 folds.
+lssmg checks.
+** Dealing Flop ** :  [ 8h, 6c, 4s ]
+lssmg checks.
+hatoka bets (600)
+lssmg folds.
+** Summary **
+Main Pot: 1500
+Board: [ 8h 6c 4s  ]
+
+hatoka balance 7470, bet 1200, collected 2100, net +900
+johnnyQQ111 balance 6740, didn't bet (folded)
+Burgingham1 balance 1840, lost 300 (folded)
+lssmg balance 3950, lost 600 (folded)
+
+***** Hand History for Game 5871517517 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:45:44 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 6 is the button
+Total number of players : 4
+Seat 1: hatoka (7470)
+Seat 5: johnnyQQ111 (6740)
+Seat 6: Burgingham1 (1840)
+Seat 7: lssmg (3950)
+lssmg  posts small blind (300)
+hatoka  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ 5d, 3c ]
+johnnyQQ111 raises (1800) to 1800
+Burgingham1 folds.
+lssmg folds.
+hatoka folds.
+** Summary **
+Main Pot: 1500
+
+hatoka balance 6870, lost 600 (folded)
+johnnyQQ111 balance 7640, bet 1800, collected 2700, net +900 [ Kd Ad ] [ high card Ace -- Ad,Kd ]
+Burgingham1 balance 1840, didn't bet (folded)
+lssmg balance 3650, lost 300 (folded)
+
+***** Hand History for Game 5871518378 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:46:00 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 7 is the button
+Total number of players : 4
+Seat 1: hatoka (6870)
+Seat 5: johnnyQQ111 (7640)
+Seat 6: Burgingham1 (1840)
+Seat 7: lssmg (3650)
+hatoka  posts small blind (300)
+johnnyQQ111  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ Tc, 9c ]
+Burgingham1 folds.
+lssmg folds.
+hatoka calls (300)
+johnnyQQ111 checks.
+** Dealing Flop ** :  [ 3h, Jd, 5d ]
+hatoka bets (600)
+johnnyQQ111 raises (1200) to 1200
+hatoka folds.
+** Summary **
+Main Pot: 2400
+Board: [ 3h Jd 5d  ]
+
+hatoka balance 5670, lost 1200 (folded)
+johnnyQQ111 balance 8840, bet 1800, collected 3000, net +1200
+Burgingham1 balance 1840, didn't bet (folded)
+lssmg balance 3650, didn't bet (folded)
+
+***** Hand History for Game 5871520057 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:46:30 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 1 is the button
+Total number of players : 4
+Seat 1: hatoka (5670)
+Seat 5: johnnyQQ111 (8840)
+Seat 6: Burgingham1 (1840)
+Seat 7: lssmg (3650)
+johnnyQQ111  posts small blind (300)
+Burgingham1  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ 4h, Td ]
+lssmg folds.
+hatoka folds.
+johnnyQQ111 raises (900) to 1200
+Burgingham1 raises (1240) to 1840
+Burgingham1 is all-In.
+johnnyQQ111 calls (640)
+** Dealing Flop ** :  [ Kd, Ts, 8h ]
+** Dealing Turn ** :  [ Jc ]
+** Dealing River ** :  [ 6h ]
+Creating Main Pot with $3680 with Burgingham1
+** Summary **
+Main Pot: 3680
+Board: [ Kd Ts 8h Jc 6h  ]
+
+hatoka balance 5670, didn't bet (folded)
+johnnyQQ111 balance 7000, lost 1840 [ 7s Qd ] [ high card King -- Kd,Qd,Jc,Ts,8h ]
+Burgingham1 balance 3680, bet 1840, collected 3680, net +1840 [ 9s 6s ] [ a pair of Sixes -- Kd,Jc,Ts,6s,6h ]
+lssmg balance 3650, didn't bet (folded)
+
+***** Hand History for Game 5871521040 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:46:48 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 5 is the button
+Total number of players : 4
+Seat 1: hatoka (5670)
+Seat 5: johnnyQQ111 (7000)
+Seat 6: Burgingham1 (3680)
+Seat 7: lssmg (3650)
+Burgingham1  posts small blind (300)
+lssmg  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ Qh, 4h ]
+johnnyQQ111: aww :)
+hatoka folds.
+johnnyQQ111 folds.
+Burgingham1 raises (3380) to 3680
+Burgingham1 is all-In.
+lssmg calls (3050)
+lssmg is all-In.
+** Dealing Flop ** :  [ Jd, 9d, Td ]
+** Dealing Turn ** :  [ Qc ]
+** Dealing River ** :  [ Kd ]
+Creating Main Pot with $7300 with lssmg
+** Summary **
+Main Pot: 7300
+Board: [ Jd 9d Td Qc Kd  ]
+
+hatoka balance 5670, didn't bet (folded)
+johnnyQQ111 balance 7000, didn't bet (folded)
+Burgingham1 balance 3680, bet 3680, collected 3680, net +0 [ Ac 4s ] [ a straight Ten to Ace -- Ac,Kd,Qc,Jd,Td ]
+lssmg balance 3650, bet 3650, collected 3650, net +0 [ Js As ] [ a straight Ten to Ace -- As,Kd,Qc,Js,Td ]
+
+***** Hand History for Game 5871522214 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:47:09 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 6 is the button
+Total number of players : 4
+Seat 1: hatoka (5670)
+Seat 5: johnnyQQ111 (7000)
+Seat 6: Burgingham1 (3680)
+Seat 7: lssmg (3650)
+lssmg  posts small blind (300)
+hatoka  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ As, Ad ]
+johnnyQQ111 folds.
+Burgingham1 folds.
+lssmg raises (900) to 1200
+hatoka raises (1200) to 1800
+lssmg calls (600)
+** Dealing Flop ** :  [ 7c, Ts, 2d ]
+Burgingham1: sry guys...fortunas on my side
+lssmg bets (1850)
+lssmg is all-In.
+hatoka calls (1850)
+** Dealing Turn ** :  [ 9s ]
+** Dealing River ** :  [ 4s ]
+Creating Main Pot with $7300 with lssmg
+** Summary **
+Main Pot: 7300
+Board: [ 7c Ts 2d 9s 4s  ]
+
+hatoka balance 9320, bet 3650, collected 7300, net +3650 [ As Ad ] [ a pair of Aces -- As,Ad,Ts,9s,7c ]
+johnnyQQ111 balance 7000, didn't bet (folded)
+Burgingham1 balance 3680, didn't bet (folded)
+lssmg balance 0, lost 3650 [ Td Ac ] [ a pair of Tens -- Ac,Td,Ts,9s,7c ]
+
+***** Hand History for Game 5871523603 *****
+lssmg finished in 4 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:47:34 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 6 is the button
+Total number of players : 3
+Seat 1: hatoka (9320)
+Seat 5: johnnyQQ111 (7000)
+Seat 6: Burgingham1 (3680)
+hatoka  posts small blind (300)
+johnnyQQ111  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ Ah, Td ]
+Burgingham1 folds.
+johnnyQQ111: thats poker :)
+hatoka raises (900) to 1200
+johnnyQQ111 folds.
+** Summary **
+Main Pot: 1200
+
+hatoka balance 9920, bet 1200, collected 1800, net +600
+johnnyQQ111 balance 6400, lost 600 (folded)
+Burgingham1 balance 3680, didn't bet (folded)
+
+***** Hand History for Game 5871524407 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:47:46 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 1 is the button
+Total number of players : 3
+Seat 1: hatoka (9920)
+Seat 5: johnnyQQ111 (6400)
+Seat 6: Burgingham1 (3680)
+johnnyQQ111  posts small blind (300)
+Burgingham1  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ 9s, 2d ]
+hatoka folds.
+johnnyQQ111 calls (300)
+Burgingham1 raises (1200) to 1800
+johnnyQQ111 calls (1200)
+** Dealing Flop ** :  [ 3h, 3s, 5s ]
+johnnyQQ111 checks.
+Burgingham1 bets (1880)
+Burgingham1 is all-In.
+johnnyQQ111 calls (1880)
+** Dealing Turn ** :  [ Qs ]
+** Dealing River ** :  [ Kd ]
+Creating Main Pot with $7360 with Burgingham1
+** Summary **
+Main Pot: 7360
+Board: [ 3h 3s 5s Qs Kd  ]
+
+hatoka balance 9920, didn't bet (folded)
+johnnyQQ111 balance 2720, lost 3680 [ 6d Ad ] [ a pair of Threes -- Ad,Kd,Qs,3h,3s ]
+Burgingham1 balance 7360, bet 3680, collected 7360, net +3680 [ Ac Ah ] [ two pairs, Aces and Threes -- Ac,Ah,Kd,3h,3s ]
+
+***** Hand History for Game 5871527011 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:48:23 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 5 is the button
+Total number of players : 3
+Seat 1: hatoka (9920)
+Seat 5: johnnyQQ111 (2720)
+Seat 6: Burgingham1 (7360)
+Burgingham1  posts small blind (300)
+hatoka  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ 8s, 7s ]
+johnnyQQ111 raises (1200) to 1200
+Burgingham1 folds.
+hatoka folds.
+** Summary **
+Main Pot: 1500
+
+hatoka balance 9320, lost 600 (folded)
+johnnyQQ111 balance 3620, bet 1200, collected 2100, net +900 [ 6s 6c ] [ a pair of Sixes -- 6s,6c ]
+Burgingham1 balance 7060, lost 300 (folded)
+
+***** Hand History for Game 5871528814 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:48:43 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 6 is the button
+Total number of players : 3
+Seat 1: hatoka (9320)
+Seat 5: johnnyQQ111 (3620)
+Seat 6: Burgingham1 (7060)
+hatoka  posts small blind (300)
+johnnyQQ111  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ Ks, Jc ]
+Burgingham1 folds.
+hatoka raises (900) to 1200
+johnnyQQ111 folds.
+** Summary **
+Main Pot: 1200
+
+hatoka balance 9920, bet 1200, collected 1800, net +600
+johnnyQQ111 balance 3020, lost 600 (folded)
+Burgingham1 balance 7060, didn't bet (folded)
+
+***** Hand History for Game 5871529722 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:48:54 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 1 is the button
+Total number of players : 3
+Seat 1: hatoka (9920)
+Seat 5: johnnyQQ111 (3020)
+Seat 6: Burgingham1 (7060)
+johnnyQQ111  posts small blind (300)
+Burgingham1  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ 5s, Jh ]
+hatoka folds.
+johnnyQQ111 calls (300)
+Burgingham1 checks.
+** Dealing Flop ** :  [ 7h, Kh, 6s ]
+johnnyQQ111 checks.
+Burgingham1 bets (6460)
+Burgingham1 is all-In.
+johnnyQQ111 calls (2420)
+johnnyQQ111 is all-In.
+** Dealing Turn ** :  [ Jc ]
+** Dealing River ** :  [ Tc ]
+Creating Main Pot with $6040 with johnnyQQ111
+** Summary **
+Main Pot: 6040
+Board: [ 7h Kh 6s Jc Tc  ]
+
+hatoka balance 9920, didn't bet (folded)
+johnnyQQ111 balance 6040, bet 3020, collected 6040, net +3020 [ Ks Ac ] [ a pair of Kings -- Ac,Ks,Kh,Jc,Tc ]
+Burgingham1 balance 4040, bet 7060, collected 4040, lost -3020 [ 2h 7d ] [ a pair of Sevens -- Kh,Jc,Tc,7d,7h ]
+
+***** Hand History for Game 5871531706 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:49:14 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 5 is the button
+Total number of players : 3
+Seat 1: hatoka (9920)
+Seat 5: johnnyQQ111 (6040)
+Seat 6: Burgingham1 (4040)
+Burgingham1  posts small blind (300)
+hatoka  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ Qc, 3c ]
+johnnyQQ111 folds.
+Burgingham1 folds.
+** Summary **
+Main Pot: 600
+
+hatoka balance 10220, bet 600, collected 900, net +300
+johnnyQQ111 balance 6040, didn't bet (folded)
+Burgingham1 balance 3740, lost 300 (folded)
+
+***** Hand History for Game 5871532396 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:49:21 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 6 is the button
+Total number of players : 3
+Seat 1: hatoka (10220)
+Seat 5: johnnyQQ111 (6040)
+Seat 6: Burgingham1 (3740)
+hatoka  posts small blind (300)
+johnnyQQ111  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ Ad, 9s ]
+Burgingham1 folds.
+hatoka raises (900) to 1200
+johnnyQQ111 folds.
+** Summary **
+Main Pot: 1200
+
+hatoka balance 10820, bet 1200, collected 1800, net +600
+johnnyQQ111 balance 5440, lost 600 (folded)
+Burgingham1 balance 3740, didn't bet (folded)
+
+***** Hand History for Game 5871533464 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:49:32 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 1 is the button
+Total number of players : 3
+Seat 1: hatoka (10820)
+Seat 5: johnnyQQ111 (5440)
+Seat 6: Burgingham1 (3740)
+johnnyQQ111  posts small blind (300)
+Burgingham1  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ 9s, 3d ]
+hatoka folds.
+johnnyQQ111 calls (300)
+Burgingham1 checks.
+** Dealing Flop ** :  [ 5s, 5d, Td ]
+johnnyQQ111 bets (1200)
+Burgingham1 folds.
+** Summary **
+Main Pot: 1200
+Board: [ 5s 5d Td  ]
+
+hatoka balance 10820, didn't bet (folded)
+johnnyQQ111 balance 6040, bet 1800, collected 2400, net +600
+Burgingham1 balance 3140, lost 600 (folded)
+
+***** Hand History for Game 5871535030 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:49:48 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 5 is the button
+Total number of players : 3
+Seat 1: hatoka (10820)
+Seat 5: johnnyQQ111 (6040)
+Seat 6: Burgingham1 (3140)
+Burgingham1  posts small blind (300)
+hatoka  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ Jh, Ac ]
+johnnyQQ111 folds.
+Burgingham1 raises (2840) to 3140
+Burgingham1 is all-In.
+hatoka calls (2540)
+** Dealing Flop ** :  [ 8h, 3d, 3c ]
+** Dealing Turn ** :  [ 5c ]
+** Dealing River ** :  [ 5s ]
+Creating Main Pot with $6280 with Burgingham1
+** Summary **
+Main Pot: 6280
+Board: [ 8h 3d 3c 5c 5s  ]
+
+hatoka balance 10820, bet 3140, collected 3140, net +0 [ Jh Ac ] [ two pairs, Fives and Threes -- Ac,5c,5s,3d,3c ]
+johnnyQQ111 balance 6040, didn't bet (folded)
+Burgingham1 balance 3140, bet 3140, collected 3140, net +0 [ 9s Ah ] [ two pairs, Fives and Threes -- Ah,5c,5s,3d,3c ]
+
+***** Hand History for Game 5871536603 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:50:03 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 6 is the button
+Total number of players : 3
+Seat 1: hatoka (10820)
+Seat 5: johnnyQQ111 (6040)
+Seat 6: Burgingham1 (3140)
+hatoka  posts small blind (300)
+johnnyQQ111  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ 3s, Jh ]
+Burgingham1 folds.
+hatoka calls (300)
+johnnyQQ111 checks.
+** Dealing Flop ** :  [ 4h, 7s, 7h ]
+hatoka bets (600)
+johnnyQQ111 calls (600)
+** Dealing Turn ** :  [ 9d ]
+hatoka checks.
+johnnyQQ111 bets (600)
+hatoka folds.
+** Summary **
+Main Pot: 2400
+Board: [ 4h 7s 7h 9d  ]
+
+hatoka balance 9620, lost 1200 (folded)
+johnnyQQ111 balance 7240, bet 1800, collected 3000, net +1200 [ 7c Qh ] [ three of a kind, Sevens -- Qh,9d,7c,7s,7h ]
+Burgingham1 balance 3140, didn't bet (folded)
+
+***** Hand History for Game 5871540655 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:50:42 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 1 is the button
+Total number of players : 3
+Seat 1: hatoka (9620)
+Seat 5: johnnyQQ111 (7240)
+Seat 6: Burgingham1 (3140)
+hatoka  posts ante (25)
+johnnyQQ111  posts ante (25)
+Burgingham1  posts ante (25)
+johnnyQQ111  posts small blind (400)
+Burgingham1  posts big blind (800)
+** Dealing down cards **
+Dealt to hatoka [ 9h, 6s ]
+hatoka folds.
+johnnyQQ111 calls (400)
+Burgingham1 raises (2315) to 3115
+Burgingham1 is all-In.
+johnnyQQ111 folds.
+Creating Main Pot with $1675 with Burgingham1
+** Summary **
+Main Pot: 1675
+
+hatoka balance 9595, lost 25 (folded)
+johnnyQQ111 balance 6415, lost 825 (folded)
+Burgingham1 balance 3990, bet 3140, collected 3990, net +850
+
+***** Hand History for Game 5871542157 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:50:57 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 5 is the button
+Total number of players : 3
+Seat 1: hatoka (9595)
+Seat 5: johnnyQQ111 (6415)
+Seat 6: Burgingham1 (3990)
+hatoka  posts ante (25)
+johnnyQQ111  posts ante (25)
+Burgingham1  posts ante (25)
+Burgingham1  posts small blind (400)
+hatoka  posts big blind (800)
+** Dealing down cards **
+Dealt to hatoka [ Qd, Ts ]
+johnnyQQ111 folds.
+Burgingham1 folds.
+** Summary **
+Main Pot: 875
+
+hatoka balance 10045, bet 825, collected 1275, net +450
+johnnyQQ111 balance 6390, lost 25 (folded)
+Burgingham1 balance 3565, lost 425 (folded)
+
+***** Hand History for Game 5871542982 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:51:05 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 6 is the button
+Total number of players : 3
+Seat 1: hatoka (10045)
+Seat 5: johnnyQQ111 (6390)
+Seat 6: Burgingham1 (3565)
+hatoka  posts ante (25)
+johnnyQQ111  posts ante (25)
+Burgingham1  posts ante (25)
+hatoka  posts small blind (400)
+johnnyQQ111  posts big blind (800)
+** Dealing down cards **
+Dealt to hatoka [ Tc, 8h ]
+Burgingham1 folds.
+hatoka raises (1200) to 1600
+johnnyQQ111 folds.
+** Summary **
+Main Pot: 1675
+
+hatoka balance 10895, bet 1625, collected 2475, net +850
+johnnyQQ111 balance 5565, lost 825 (folded)
+Burgingham1 balance 3540, lost 25 (folded)
+
+***** Hand History for Game 5871543971 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:51:14 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 1 is the button
+Total number of players : 3
+Seat 1: hatoka (10895)
+Seat 5: johnnyQQ111 (5565)
+Seat 6: Burgingham1 (3540)
+hatoka  posts ante (25)
+johnnyQQ111  posts ante (25)
+Burgingham1  posts ante (25)
+johnnyQQ111  posts small blind (400)
+Burgingham1  posts big blind (800)
+** Dealing down cards **
+Dealt to hatoka [ 2h, 3c ]
+hatoka folds.
+johnnyQQ111 folds.
+** Summary **
+Main Pot: 875
+
+hatoka balance 10870, lost 25 (folded)
+johnnyQQ111 balance 5140, lost 425 (folded)
+Burgingham1 balance 3990, bet 825, collected 1275, net +450
+
+***** Hand History for Game 5871545247 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:51:27 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 5 is the button
+Total number of players : 3
+Seat 1: hatoka (10870)
+Seat 5: johnnyQQ111 (5140)
+Seat 6: Burgingham1 (3990)
+hatoka  posts ante (25)
+johnnyQQ111  posts ante (25)
+Burgingham1  posts ante (25)
+Burgingham1  posts small blind (400)
+hatoka  posts big blind (800)
+** Dealing down cards **
+Dealt to hatoka [ 7d, 8d ]
+johnnyQQ111 folds.
+Burgingham1 folds.
+** Summary **
+Main Pot: 875
+
+hatoka balance 11320, bet 825, collected 1275, net +450
+johnnyQQ111 balance 5115, lost 25 (folded)
+Burgingham1 balance 3565, lost 425 (folded)
+
+***** Hand History for Game 5871546046 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:51:35 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 6 is the button
+Total number of players : 3
+Seat 1: hatoka (11320)
+Seat 5: johnnyQQ111 (5115)
+Seat 6: Burgingham1 (3565)
+hatoka  posts ante (25)
+johnnyQQ111  posts ante (25)
+Burgingham1  posts ante (25)
+hatoka  posts small blind (400)
+johnnyQQ111  posts big blind (800)
+** Dealing down cards **
+Dealt to hatoka [ 5d, Js ]
+Burgingham1 folds.
+hatoka calls (400)
+johnnyQQ111 checks.
+** Dealing Flop ** :  [ 7h, 8d, 6c ]
+hatoka bets (800)
+johnnyQQ111 folds.
+** Summary **
+Main Pot: 1675
+Board: [ 7h 8d 6c  ]
+
+hatoka balance 12170, bet 1625, collected 2475, net +850
+johnnyQQ111 balance 4290, lost 825 (folded)
+Burgingham1 balance 3540, lost 25 (folded)
+
+***** Hand History for Game 5871549128 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:52:06 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 1 is the button
+Total number of players : 3
+Seat 1: hatoka (12170)
+Seat 5: johnnyQQ111 (4290)
+Seat 6: Burgingham1 (3540)
+hatoka  posts ante (25)
+johnnyQQ111  posts ante (25)
+Burgingham1  posts ante (25)
+johnnyQQ111  posts small blind (400)
+Burgingham1  posts big blind (800)
+** Dealing down cards **
+Dealt to hatoka [ Ad, 9s ]
+hatoka raises (1600) to 1600
+johnnyQQ111 folds.
+Burgingham1 raises (2715) to 3515
+Burgingham1 is all-In.
+hatoka calls (1915)
+** Dealing Flop ** :  [ 7h, Th, Qd ]
+** Dealing Turn ** :  [ 3s ]
+** Dealing River ** :  [ 5s ]
+Creating Main Pot with $7505 with Burgingham1
+** Summary **
+Main Pot: 7505
+Board: [ 7h Th Qd 3s 5s  ]
+
+hatoka balance 8630, lost 3540 [ Ad 9s ] [ high card Ace -- Ad,Qd,Th,9s,7h ]
+johnnyQQ111 balance 3865, lost 425 (folded)
+Burgingham1 balance 7505, bet 3540, collected 7505, net +3965 [ 7s 8h ] [ a pair of Sevens -- Qd,Th,8h,7s,7h ]
+
+***** Hand History for Game 5871551598 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:52:35 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 5 is the button
+Total number of players : 3
+Seat 1: hatoka (8630)
+Seat 5: johnnyQQ111 (3865)
+Seat 6: Burgingham1 (7505)
+hatoka  posts ante (25)
+johnnyQQ111  posts ante (25)
+Burgingham1  posts ante (25)
+Burgingham1  posts small blind (400)
+hatoka  posts big blind (800)
+** Dealing down cards **
+Dealt to hatoka [ 8d, 5c ]
+johnnyQQ111 raises (3840) to 3840
+johnnyQQ111 is all-In.
+Burgingham1 folds.
+hatoka folds.
+Creating Main Pot with $2075 with johnnyQQ111
+** Summary **
+Main Pot: 2075
+
+hatoka balance 7805, lost 825 (folded)
+johnnyQQ111 balance 5115, bet 3865, collected 5115, net +1250
+Burgingham1 balance 7080, lost 425 (folded)
+
+***** Hand History for Game 5871552625 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:52:49 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 6 is the button
+Total number of players : 3
+Seat 1: hatoka (7805)
+Seat 5: johnnyQQ111 (5115)
+Seat 6: Burgingham1 (7080)
+hatoka  posts ante (25)
+johnnyQQ111  posts ante (25)
+Burgingham1  posts ante (25)
+hatoka  posts small blind (400)
+johnnyQQ111  posts big blind (800)
+** Dealing down cards **
+Dealt to hatoka [ 5d, 3c ]
+Burgingham1 folds.
+hatoka folds.
+** Summary **
+Main Pot: 875
+
+hatoka balance 7380, lost 425 (folded)
+johnnyQQ111 balance 5565, bet 825, collected 1275, net +450 [ Ad Ah ] [ a pair of Aces -- Ad,Ah ]
+Burgingham1 balance 7055, lost 25 (folded)
+
+***** Hand History for Game 5871553450 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:53:00 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 1 is the button
+Total number of players : 3
+Seat 1: hatoka (7380)
+Seat 5: johnnyQQ111 (5565)
+Seat 6: Burgingham1 (7055)
+hatoka  posts ante (25)
+johnnyQQ111  posts ante (25)
+Burgingham1  posts ante (25)
+johnnyQQ111  posts small blind (400)
+Burgingham1  posts big blind (800)
+** Dealing down cards **
+Dealt to hatoka [ Js, 2d ]
+hatoka folds.
+johnnyQQ111 raises (1200) to 1600
+Burgingham1 folds.
+** Summary **
+Main Pot: 1675
+
+hatoka balance 7355, lost 25 (folded)
+johnnyQQ111 balance 6415, bet 1625, collected 2475, net +850
+Burgingham1 balance 6230, lost 825 (folded)
+
+***** Hand History for Game 5871554334 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:53:14 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 5 is the button
+Total number of players : 3
+Seat 1: hatoka (7355)
+Seat 5: johnnyQQ111 (6415)
+Seat 6: Burgingham1 (6230)
+hatoka  posts ante (25)
+johnnyQQ111  posts ante (25)
+Burgingham1  posts ante (25)
+Burgingham1  posts small blind (400)
+hatoka  posts big blind (800)
+** Dealing down cards **
+Dealt to hatoka [ 9c, 6h ]
+johnnyQQ111 raises (1600) to 1600
+Burgingham1 folds.
+hatoka folds.
+** Summary **
+Main Pot: 2075
+
+hatoka balance 6530, lost 825 (folded)
+johnnyQQ111 balance 7665, bet 1625, collected 2875, net +1250
+Burgingham1 balance 5805, lost 425 (folded)
+
+***** Hand History for Game 5871555461 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:53:32 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 6 is the button
+Total number of players : 3
+Seat 1: hatoka (6530)
+Seat 5: johnnyQQ111 (7665)
+Seat 6: Burgingham1 (5805)
+hatoka  posts ante (25)
+johnnyQQ111  posts ante (25)
+Burgingham1  posts ante (25)
+hatoka  posts small blind (400)
+johnnyQQ111  posts big blind (800)
+** Dealing down cards **
+Dealt to hatoka [ Kh, 8s ]
+Burgingham1 folds.
+hatoka raises (1200) to 1600
+johnnyQQ111 folds.
+** Summary **
+Main Pot: 1675
+
+hatoka balance 7380, bet 1625, collected 2475, net +850
+johnnyQQ111 balance 6840, lost 825 (folded)
+Burgingham1 balance 5780, lost 25 (folded)
+
+***** Hand History for Game 5871556055 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:53:42 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 1 is the button
+Total number of players : 3
+Seat 1: hatoka (7380)
+Seat 5: johnnyQQ111 (6840)
+Seat 6: Burgingham1 (5780)
+hatoka  posts ante (25)
+johnnyQQ111  posts ante (25)
+Burgingham1  posts ante (25)
+johnnyQQ111  posts small blind (400)
+Burgingham1  posts big blind (800)
+** Dealing down cards **
+Dealt to hatoka [ 7s, Jh ]
+hatoka raises (1600) to 1600
+johnnyQQ111 folds.
+Burgingham1 folds.
+** Summary **
+Main Pot: 2075
+
+hatoka balance 8630, bet 1625, collected 2875, net +1250
+johnnyQQ111 balance 6415, lost 425 (folded)
+Burgingham1 balance 4955, lost 825 (folded)
+
+***** Hand History for Game 5871556856 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:53:54 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 5 is the button
+Total number of players : 3
+Seat 1: hatoka (8630)
+Seat 5: johnnyQQ111 (6415)
+Seat 6: Burgingham1 (4955)
+hatoka  posts ante (25)
+johnnyQQ111  posts ante (25)
+Burgingham1  posts ante (25)
+Burgingham1  posts small blind (400)
+hatoka  posts big blind (800)
+** Dealing down cards **
+Dealt to hatoka [ 8c, Kd ]
+johnnyQQ111 raises (1600) to 1600
+Burgingham1 folds.
+hatoka raises (1600) to 2400
+johnnyQQ111 calls (800)
+** Dealing Flop ** :  [ 4d, 6s, 3c ]
+hatoka bets (800)
+johnnyQQ111 calls (800)
+** Dealing Turn ** :  [ Qh ]
+hatoka bets (800)
+johnnyQQ111 calls (800)
+** Dealing River ** :  [ 6h ]
+hatoka bets (800)
+johnnyQQ111 calls (800)
+** Summary **
+Main Pot: 10075
+Board: [ 4d 6s 3c Qh 6h  ]
+
+hatoka balance 3805, lost 4825 [ 8c Kd ] [ a pair of Sixes -- Kd,Qh,8c,6s,6h ]
+johnnyQQ111 balance 11665, bet 4825, collected 10075, net +5250 [ Ad Qc ] [ two pairs, Queens and Sixes -- Ad,Qc,Qh,6s,6h ]
+Burgingham1 balance 4530, lost 425 (folded)
+
+***** Hand History for Game 5871559168 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:54:28 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 6 is the button
+Total number of players : 3
+Seat 1: hatoka (3805)
+Seat 5: johnnyQQ111 (11665)
+Seat 6: Burgingham1 (4530)
+hatoka  posts ante (25)
+johnnyQQ111  posts ante (25)
+Burgingham1  posts ante (25)
+hatoka  posts small blind (400)
+johnnyQQ111  posts big blind (800)
+** Dealing down cards **
+Dealt to hatoka [ Kc, 9c ]
+Burgingham1 folds.
+hatoka raises (1200) to 1600
+johnnyQQ111 calls (800)
+** Dealing Flop ** :  [ 5s, 6h, 6s ]
+hatoka checks.
+johnnyQQ111 checks.
+** Dealing Turn ** :  [ 5c ]
+hatoka bets (800)
+johnnyQQ111 calls (800)
+** Dealing River ** :  [ As ]
+hatoka bets (1380)
+hatoka is all-In.
+johnnyQQ111 calls (1380)
+Creating Main Pot with $7635 with hatoka
+** Summary **
+Main Pot: 7635
+Board: [ 5s 6h 6s 5c As  ]
+
+hatoka balance 3818, bet 3805, collected 3818, net +13 [ Kc 9c ] [ two pairs, Sixes and Fives -- As,6h,6s,5s,5c ]
+johnnyQQ111 balance 11677, bet 3805, collected 3817, net +12 [ Th 3d ] [ two pairs, Sixes and Fives -- As,6h,6s,5s,5c ]
+Burgingham1 balance 4505, lost 25 (folded)
+
+***** Hand History for Game 5871562512 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:55:14 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 1 is the button
+Total number of players : 3
+Seat 1: hatoka (3818)
+Seat 5: johnnyQQ111 (11677)
+Seat 6: Burgingham1 (4505)
+hatoka  posts ante (25)
+johnnyQQ111  posts ante (25)
+Burgingham1  posts ante (25)
+johnnyQQ111  posts small blind (400)
+Burgingham1  posts big blind (800)
+** Dealing down cards **
+Dealt to hatoka [ 4d, 6s ]
+hatoka folds.
+johnnyQQ111 folds.
+** Summary **
+Main Pot: 875
+
+hatoka balance 3793, lost 25 (folded)
+johnnyQQ111 balance 11252, lost 425 (folded)
+Burgingham1 balance 4955, bet 825, collected 1275, net +450
+
+***** Hand History for Game 5871563411 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:55:27 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 5 is the button
+Total number of players : 3
+Seat 1: hatoka (3793)
+Seat 5: johnnyQQ111 (11252)
+Seat 6: Burgingham1 (4955)
+hatoka  posts ante (25)
+johnnyQQ111  posts ante (25)
+Burgingham1  posts ante (25)
+Burgingham1  posts small blind (400)
+hatoka  posts big blind (800)
+** Dealing down cards **
+Dealt to hatoka [ 2s, 5c ]
+johnnyQQ111 raises (1600) to 1600
+Burgingham1 folds.
+hatoka folds.
+** Summary **
+Main Pot: 2075
+
+hatoka balance 2968, lost 825 (folded)
+johnnyQQ111 balance 12502, bet 1625, collected 2875, net +1250 [ Ts Td ] [ a pair of Tens -- Ts,Td ]
+Burgingham1 balance 4530, lost 425 (folded)
+
+***** Hand History for Game 5871564282 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:55:39 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 6 is the button
+Total number of players : 3
+Seat 1: hatoka (2968)
+Seat 5: johnnyQQ111 (12502)
+Seat 6: Burgingham1 (4530)
+hatoka  posts ante (25)
+johnnyQQ111  posts ante (25)
+Burgingham1  posts ante (25)
+hatoka  posts small blind (400)
+johnnyQQ111  posts big blind (800)
+** Dealing down cards **
+Dealt to hatoka [ 8d, Ac ]
+Burgingham1 folds.
+hatoka raises (1200) to 1600
+johnnyQQ111 calls (800)
+** Dealing Flop ** :  [ Tc, 6c, 8c ]
+hatoka bets (1343)
+hatoka is all-In.
+johnnyQQ111 calls (1343)
+** Dealing Turn ** :  [ Td ]
+** Dealing River ** :  [ 9d ]
+Creating Main Pot with $5961 with hatoka
+** Summary **
+Main Pot: 5961
+Board: [ Tc 6c 8c Td 9d  ]
+
+hatoka balance 5961, bet 2968, collected 5961, net +2993 [ 8d Ac ] [ two pairs, Tens and Eights -- Ac,Tc,Td,8d,8c ]
+johnnyQQ111 balance 9534, lost 2968 [ Qd 3c ] [ a pair of Tens -- Qd,Tc,Td,9d,8c ]
+Burgingham1 balance 4505, lost 25 (folded)
+
+***** Hand History for Game 5871565803 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:56:00 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 1 is the button
+Total number of players : 3
+Seat 1: hatoka (5961)
+Seat 5: johnnyQQ111 (9534)
+Seat 6: Burgingham1 (4505)
+hatoka  posts ante (50)
+johnnyQQ111  posts ante (50)
+Burgingham1  posts ante (50)
+johnnyQQ111  posts small blind (600)
+Burgingham1  posts big blind (1200)
+** Dealing down cards **
+Dealt to hatoka [ 6s, 8d ]
+hatoka folds.
+johnnyQQ111 calls (600)
+Burgingham1 raises (3255) to 4455
+Burgingham1 is all-In.
+johnnyQQ111 folds.
+Creating Main Pot with $2550 with Burgingham1
+** Summary **
+Main Pot: 2550
+
+hatoka balance 5911, lost 50 (folded)
+johnnyQQ111 balance 8284, lost 1250 (folded)
+Burgingham1 balance 5805, bet 4505, collected 5805, net +1300
+
+***** Hand History for Game 5871567073 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:56:17 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 5 is the button
+Total number of players : 3
+Seat 1: hatoka (5911)
+Seat 5: johnnyQQ111 (8284)
+Seat 6: Burgingham1 (5805)
+hatoka  posts ante (50)
+johnnyQQ111  posts ante (50)
+Burgingham1  posts ante (50)
+Burgingham1  posts small blind (600)
+hatoka  posts big blind (1200)
+** Dealing down cards **
+Dealt to hatoka [ Ts, 9d ]
+johnnyQQ111 folds.
+Burgingham1 folds.
+** Summary **
+Main Pot: 1350
+
+hatoka balance 6611, bet 1250, collected 1950, net +700
+johnnyQQ111 balance 8234, lost 50 (folded)
+Burgingham1 balance 5155, lost 650 (folded)
+
+***** Hand History for Game 5871567677 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:56:26 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 6 is the button
+Total number of players : 3
+Seat 1: hatoka (6611)
+Seat 5: johnnyQQ111 (8234)
+Seat 6: Burgingham1 (5155)
+hatoka  posts ante (50)
+johnnyQQ111  posts ante (50)
+Burgingham1  posts ante (50)
+hatoka  posts small blind (600)
+johnnyQQ111  posts big blind (1200)
+** Dealing down cards **
+Dealt to hatoka [ 9h, Td ]
+Burgingham1 folds.
+hatoka calls (600)
+johnnyQQ111 checks.
+** Dealing Flop ** :  [ 4h, 6c, 6h ]
+hatoka checks.
+johnnyQQ111 checks.
+** Dealing Turn ** :  [ Qd ]
+hatoka bets (1200)
+johnnyQQ111 folds.
+** Summary **
+Main Pot: 2550
+Board: [ 4h 6c 6h Qd  ]
+
+hatoka balance 7911, bet 2450, collected 3750, net +1300
+johnnyQQ111 balance 6984, lost 1250 (folded)
+Burgingham1 balance 5105, lost 50 (folded)
+
+***** Hand History for Game 5871569345 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:56:48 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 1 is the button
+Total number of players : 3
+Seat 1: hatoka (7911)
+Seat 5: johnnyQQ111 (6984)
+Seat 6: Burgingham1 (5105)
+hatoka  posts ante (50)
+johnnyQQ111  posts ante (50)
+Burgingham1  posts ante (50)
+johnnyQQ111  posts small blind (600)
+Burgingham1  posts big blind (1200)
+** Dealing down cards **
+Dealt to hatoka [ 7s, 3c ]
+hatoka folds.
+johnnyQQ111 folds.
+** Summary **
+Main Pot: 1350
+
+hatoka balance 7861, lost 50 (folded)
+johnnyQQ111 balance 6334, lost 650 (folded)
+Burgingham1 balance 5805, bet 1250, collected 1950, net +700
+
+***** Hand History for Game 5871570091 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:56:59 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 5 is the button
+Total number of players : 3
+Seat 1: hatoka (7861)
+Seat 5: johnnyQQ111 (6334)
+Seat 6: Burgingham1 (5805)
+hatoka  posts ante (50)
+johnnyQQ111  posts ante (50)
+Burgingham1  posts ante (50)
+Burgingham1  posts small blind (600)
+hatoka  posts big blind (1200)
+** Dealing down cards **
+Dealt to hatoka [ 9d, 8c ]
+johnnyQQ111 folds.
+Burgingham1 folds.
+** Summary **
+Main Pot: 1350
+
+hatoka balance 8561, bet 1250, collected 1950, net +700
+johnnyQQ111 balance 6284, lost 50 (folded)
+Burgingham1 balance 5155, lost 650 (folded)
+
+***** Hand History for Game 5871570755 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:57:07 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 6 is the button
+Total number of players : 3
+Seat 1: hatoka (8561)
+Seat 5: johnnyQQ111 (6284)
+Seat 6: Burgingham1 (5155)
+hatoka  posts ante (50)
+johnnyQQ111  posts ante (50)
+Burgingham1  posts ante (50)
+hatoka  posts small blind (600)
+johnnyQQ111  posts big blind (1200)
+** Dealing down cards **
+Dealt to hatoka [ Qh, 4s ]
+Burgingham1 raises (5105) to 5105
+Burgingham1 is all-In.
+hatoka folds.
+johnnyQQ111 folds.
+Creating Main Pot with $3150 with Burgingham1
+** Summary **
+Main Pot: 3150
+
+hatoka balance 7911, lost 650 (folded)
+johnnyQQ111 balance 5034, lost 1250 (folded)
+Burgingham1 balance 7055, bet 5155, collected 7055, net +1900
+
+***** Hand History for Game 5871571601 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:57:20 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 1 is the button
+Total number of players : 3
+Seat 1: hatoka (7911)
+Seat 5: johnnyQQ111 (5034)
+Seat 6: Burgingham1 (7055)
+hatoka  posts ante (50)
+johnnyQQ111  posts ante (50)
+Burgingham1  posts ante (50)
+johnnyQQ111  posts small blind (600)
+Burgingham1  posts big blind (1200)
+** Dealing down cards **
+Dealt to hatoka [ Kc, Ah ]
+hatoka raises (2400) to 2400
+johnnyQQ111 folds.
+Burgingham1 folds.
+** Summary **
+Main Pot: 3150
+
+hatoka balance 9811, bet 2450, collected 4350, net +1900
+johnnyQQ111 balance 4384, lost 650 (folded)
+Burgingham1 balance 5805, lost 1250 (folded)
+
+***** Hand History for Game 5871573433 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:57:44 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 5 is the button
+Total number of players : 3
+Seat 1: hatoka (9811)
+Seat 5: johnnyQQ111 (4384)
+Seat 6: Burgingham1 (5805)
+hatoka  posts ante (50)
+johnnyQQ111  posts ante (50)
+Burgingham1  posts ante (50)
+Burgingham1  posts small blind (600)
+hatoka  posts big blind (1200)
+** Dealing down cards **
+Dealt to hatoka [ Ad, 8h ]
+johnnyQQ111 calls (1200)
+Burgingham1 folds.
+hatoka raises (1200) to 2400
+johnnyQQ111 calls (1200)
+** Dealing Flop ** :  [ 4c, 5c, Kc ]
+hatoka bets (2000)
+johnnyQQ111 calls (1934)
+johnnyQQ111 is all-In.
+** Dealing Turn ** :  [ 6c ]
+** Dealing River ** :  [ Td ]
+Creating Main Pot with $9418 with johnnyQQ111
+** Summary **
+Main Pot: 9418
+Board: [ 4c 5c Kc 6c Td  ]
+
+hatoka balance 5427, bet 4450, collected 66, lost -4384 [ Ad 8h ] [ high card Ace -- Ad,Kc,Td,8h,6c ]
+johnnyQQ111 balance 9418, bet 4384, collected 9418, net +5034 [ 9s 9h ] [ a pair of Nines -- Kc,Td,9s,9h,6c ]
+Burgingham1 balance 5155, lost 650 (folded)
+
+***** Hand History for Game 5871575600 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:58:14 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 6 is the button
+Total number of players : 3
+Seat 1: hatoka (5427)
+Seat 5: johnnyQQ111 (9418)
+Seat 6: Burgingham1 (5155)
+hatoka  posts ante (50)
+johnnyQQ111  posts ante (50)
+Burgingham1  posts ante (50)
+hatoka  posts small blind (600)
+johnnyQQ111  posts big blind (1200)
+** Dealing down cards **
+Dealt to hatoka [ 2s, 4c ]
+Burgingham1 raises (5105) to 5105
+Burgingham1 is all-In.
+hatoka folds.
+johnnyQQ111 folds.
+Creating Main Pot with $3150 with Burgingham1
+** Summary **
+Main Pot: 3150
+
+hatoka balance 4777, lost 650 (folded)
+johnnyQQ111 balance 8168, lost 1250 (folded)
+Burgingham1 balance 7055, bet 5155, collected 7055, net +1900
+
+***** Hand History for Game 5871576550 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:58:27 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 1 is the button
+Total number of players : 3
+Seat 1: hatoka (4777)
+Seat 5: johnnyQQ111 (8168)
+Seat 6: Burgingham1 (7055)
+hatoka  posts ante (50)
+johnnyQQ111  posts ante (50)
+Burgingham1  posts ante (50)
+johnnyQQ111  posts small blind (600)
+Burgingham1  posts big blind (1200)
+** Dealing down cards **
+Dealt to hatoka [ Ks, 6h ]
+hatoka raises (2400) to 2400
+johnnyQQ111 calls (1800)
+Burgingham1 folds.
+** Dealing Flop ** :  [ 8c, 4h, 4c ]
+johnnyQQ111 checks.
+hatoka bets (2327)
+hatoka is all-In.
+johnnyQQ111 calls (2327)
+** Dealing Turn ** :  [ 3d ]
+** Dealing River ** :  [ 9d ]
+Creating Main Pot with $10804 with hatoka
+** Summary **
+Main Pot: 10804
+Board: [ 8c 4h 4c 3d 9d  ]
+
+hatoka balance 0, lost 4777 [ Ks 6h ] [ a pair of Fours -- Ks,9d,8c,4h,4c ]
+johnnyQQ111 balance 14195, bet 4777, collected 10804, net +6027 [ Tc As ] [ a pair of Fours with Ace kicker -- As,Tc,9d,4h,4cAs(kicker card) ]
+Burgingham1 balance 5805, lost 1250 (folded)
+
+***** Hand History for Game 5871579667 *****
+hatoka finished in 3 place and won $4.80.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:59:10 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 6 is the button
+Total number of players : 2
+Seat 5: johnnyQQ111 (14195)
+Seat 6: Burgingham1 (5805)
+johnnyQQ111  posts ante (50)
+Burgingham1  posts ante (50)
+Burgingham1  posts small blind (600)
+johnnyQQ111  posts big blind (1200)
+** Dealing down cards **
+Burgingham1 raises (5155) to 5755
+Burgingham1 is all-In.
+johnnyQQ111 folds.
+Creating Main Pot with $2500 with Burgingham1
+** Summary **
+Main Pot: 2500
+
+johnnyQQ111 balance 12945, lost 1250 (folded)
+Burgingham1 balance 7055, bet 5805, collected 7055, net +1250
+
+***** Hand History for Game 5871580811 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:59:26 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 5 is the button
+Total number of players : 2
+Seat 5: johnnyQQ111 (12945)
+Seat 6: Burgingham1 (7055)
+johnnyQQ111  posts ante (50)
+Burgingham1  posts ante (50)
+johnnyQQ111  posts small blind (600)
+Burgingham1  posts big blind (1200)
+** Dealing down cards **
+johnnyQQ111 calls (600)
+Burgingham1 checks.
+** Dealing Flop ** :  [ Kh, Td, Ac ]
+Burgingham1 checks.
+johnnyQQ111 checks.
+** Dealing Turn ** :  [ 8s ]
+Burgingham1 checks.
+johnnyQQ111 checks.
+** Dealing River ** :  [ 9s ]
+Burgingham1 checks.
+johnnyQQ111 bets (3600)
+Burgingham1 folds.
+** Summary **
+Main Pot: 2500
+Board: [ Kh Td Ac 8s 9s  ]
+
+johnnyQQ111 balance 14195, bet 4850, collected 6100, net +1250
+Burgingham1 balance 5805, lost 1250 (folded)
+
+***** Hand History for Game 5871582796 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 15:59:53 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 6 is the button
+Total number of players : 2
+Seat 5: johnnyQQ111 (14195)
+Seat 6: Burgingham1 (5805)
+johnnyQQ111  posts ante (50)
+Burgingham1  posts ante (50)
+Burgingham1  posts small blind (600)
+johnnyQQ111  posts big blind (1200)
+** Dealing down cards **
+Burgingham1 raises (5155) to 5755
+Burgingham1 is all-In.
+johnnyQQ111 folds.
+Creating Main Pot with $2500 with Burgingham1
+** Summary **
+Main Pot: 2500
+
+johnnyQQ111 balance 12945, lost 1250 (folded)
+Burgingham1 balance 7055, bet 5805, collected 7055, net +1250
+
+***** Hand History for Game 5871583572 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 16:00:04 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 5 is the button
+Total number of players : 2
+Seat 5: johnnyQQ111 (12945)
+Seat 6: Burgingham1 (7055)
+johnnyQQ111  posts ante (50)
+Burgingham1  posts ante (50)
+johnnyQQ111  posts small blind (600)
+Burgingham1  posts big blind (1200)
+** Dealing down cards **
+johnnyQQ111 calls (600)
+Burgingham1 checks.
+** Dealing Flop ** :  [ Tc, Kd, Ah ]
+Burgingham1 checks.
+johnnyQQ111 checks.
+** Dealing Turn ** :  [ 9d ]
+Burgingham1 bets (5805)
+Burgingham1 is all-In.
+johnnyQQ111 folds.
+Creating Main Pot with $2500 with Burgingham1
+** Summary **
+Main Pot: 2500
+Board: [ Tc Kd Ah 9d  ]
+
+johnnyQQ111 balance 11695, lost 1250 (folded)
+Burgingham1 balance 8305, bet 7055, collected 8305, net +1250
+
+***** Hand History for Game 5871584850 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 16:00:21 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 6 is the button
+Total number of players : 2
+Seat 5: johnnyQQ111 (11695)
+Seat 6: Burgingham1 (8305)
+johnnyQQ111  posts ante (50)
+Burgingham1  posts ante (50)
+Burgingham1  posts small blind (600)
+johnnyQQ111  posts big blind (1200)
+** Dealing down cards **
+Burgingham1 folds.
+** Summary **
+Main Pot: 1300
+
+johnnyQQ111 balance 12345, bet 1250, collected 1900, net +650 [ Qd 8d ] [ high card Queen -- Qd,8d ]
+Burgingham1 balance 7655, lost 650 (folded)
+
+***** Hand History for Game 5871585603 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 16:00:31 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 5 is the button
+Total number of players : 2
+Seat 5: johnnyQQ111 (12345)
+Seat 6: Burgingham1 (7655)
+johnnyQQ111  posts ante (50)
+Burgingham1  posts ante (50)
+johnnyQQ111  posts small blind (600)
+Burgingham1  posts big blind (1200)
+** Dealing down cards **
+johnnyQQ111 folds.
+** Summary **
+Main Pot: 1300
+
+johnnyQQ111 balance 11695, lost 650 (folded)
+Burgingham1 balance 8305, bet 1250, collected 1900, net +650
+
+***** Hand History for Game 5871586326 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 16:00:42 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 6 is the button
+Total number of players : 2
+Seat 5: johnnyQQ111 (11695)
+Seat 6: Burgingham1 (8305)
+johnnyQQ111  posts ante (50)
+Burgingham1  posts ante (50)
+Burgingham1  posts small blind (600)
+johnnyQQ111  posts big blind (1200)
+** Dealing down cards **
+Burgingham1 raises (7655) to 8255
+Burgingham1 is all-In.
+johnnyQQ111 folds.
+Creating Main Pot with $2500 with Burgingham1
+** Summary **
+Main Pot: 2500
+
+johnnyQQ111 balance 10445, lost 1250 (folded)
+Burgingham1 balance 9555, bet 8305, collected 9555, net +1250
+
+***** Hand History for Game 5871586992 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 16:00:51 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 5 is the button
+Total number of players : 2
+Seat 5: johnnyQQ111 (10445)
+Seat 6: Burgingham1 (9555)
+johnnyQQ111  posts ante (50)
+Burgingham1  posts ante (50)
+johnnyQQ111  posts small blind (600)
+Burgingham1  posts big blind (1200)
+** Dealing down cards **
+johnnyQQ111 raises (9795) to 10395
+johnnyQQ111 is all-In.
+Burgingham1 folds.
+Creating Main Pot with $2500 with johnnyQQ111
+** Summary **
+Main Pot: 2500
+
+johnnyQQ111 balance 11695, bet 10445, collected 11695, net +1250
+Burgingham1 balance 8305, lost 1250 (folded)
+
+***** Hand History for Game 5871587884 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 16:01:03 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 6 is the button
+Total number of players : 2
+Seat 5: johnnyQQ111 (11695)
+Seat 6: Burgingham1 (8305)
+johnnyQQ111  posts ante (75)
+Burgingham1  posts ante (75)
+Burgingham1  posts small blind (1000)
+johnnyQQ111  posts big blind (2000)
+** Dealing down cards **
+Burgingham1 raises (7230) to 8230
+Burgingham1 is all-In.
+johnnyQQ111 folds.
+Creating Main Pot with $4150 with Burgingham1
+** Summary **
+Main Pot: 4150
+
+johnnyQQ111 balance 9620, lost 2075 (folded)
+Burgingham1 balance 10380, bet 8305, collected 10380, net +2075
+
+***** Hand History for Game 5871588925 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 16:01:17 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 5 is the button
+Total number of players : 2
+Seat 5: johnnyQQ111 (9620)
+Seat 6: Burgingham1 (10380)
+johnnyQQ111  posts ante (75)
+Burgingham1  posts ante (75)
+johnnyQQ111  posts small blind (1000)
+Burgingham1  posts big blind (2000)
+** Dealing down cards **
+johnnyQQ111 raises (8545) to 9545
+johnnyQQ111 is all-In.
+Burgingham1 folds.
+Creating Main Pot with $4150 with johnnyQQ111
+** Summary **
+Main Pot: 4150
+
+johnnyQQ111 balance 11695, bet 9620, collected 11695, net +2075
+Burgingham1 balance 8305, lost 2075 (folded)
+
+***** Hand History for Game 5871589681 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 16:01:27 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 6 is the button
+Total number of players : 2
+Seat 5: johnnyQQ111 (11695)
+Seat 6: Burgingham1 (8305)
+johnnyQQ111  posts ante (75)
+Burgingham1  posts ante (75)
+Burgingham1  posts small blind (1000)
+johnnyQQ111  posts big blind (2000)
+** Dealing down cards **
+Burgingham1 raises (7230) to 8230
+Burgingham1 is all-In.
+johnnyQQ111 folds.
+Creating Main Pot with $4150 with Burgingham1
+** Summary **
+Main Pot: 4150
+
+johnnyQQ111 balance 9620, lost 2075 (folded)
+Burgingham1 balance 10380, bet 8305, collected 10380, net +2075
+
+***** Hand History for Game 5871591011 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32873485)  - Fri Apr 13 16:01:45 EDT 2007
+Table Speed 1331062 (Real Money) -- Seat 5 is the button
+Total number of players : 2
+Seat 5: johnnyQQ111 (9620)
+Seat 6: Burgingham1 (10380)
+johnnyQQ111  posts ante (75)
+Burgingham1  posts ante (75)
+johnnyQQ111  posts small blind (1000)
+Burgingham1  posts big blind (2000)
+** Dealing down cards **
+johnnyQQ111 raises (8545) to 9545
+johnnyQQ111 is all-In.
+Burgingham1 calls (7545)
+** Dealing Flop ** :  [ 8h, 3s, Tc ]
+** Dealing Turn ** :  [ Jh ]
+** Dealing River ** :  [ 6d ]
+Creating Main Pot with $19240 with johnnyQQ111
+** Summary **
+Main Pot: 19240
+Board: [ 8h 3s Tc Jh 6d  ]
+
+johnnyQQ111 balance 0, lost 9620 [ Ah 9c ] [ high card Ace -- Ah,Jh,Tc,9c,8h ]
+Burgingham1 balance 20000, bet 9620, collected 19240, net +9620 [ Jc Qs ] [ a pair of Jacks -- Qs,Jc,Jh,Tc,8h ]
+
+
+

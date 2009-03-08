@@ -1,0 +1,2161 @@
+
+Hello hatoka,
+These hand histories are provided to you as an aid for your training and development. You are not permitted to share them with anyone.  We reserve the right to cease providing them or apply further restrictions at any time.
+Complete hand histories are only available to players that participated in the hand.
+You requested a transcript of Tournament #32425208.
+
+Summary
+----------
+Played on    : 21 March 2007 05:59 PM
+On Table     : Speed #1330964
+Game Type    : Texas Holdem
+Buy-In       : $2
+Fee          : $1
+You finished in  position 7
+1st place - karmapilots -  $12
+2nd place - Cenkman -  $7.20
+3rd place - nowyouseeme -  $4.80
+
+***** Hand History for Game 5793021562 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425208)  - Wed Mar 21 17:59:38 EDT 2007
+Table Speed 1330964 (Real Money) -- Seat 6 is the button
+Total number of players : 10
+Seat 1: Brzpf (2000)
+Seat 2: rtaffin (2000)
+Seat 3: mischa445 (2000)
+Seat 4: Cenkman (2000)
+Seat 5: Karlos1000 (2000)
+Seat 6: nowyouseeme (2000)
+Seat 7: karmapilots (2000)
+Seat 8: Fmee1 (2000)
+Seat 9: hatoka (2000)
+Seat 10: einMensch (2000)
+karmapilots  posts small blind (20)
+Fmee1  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 5c, Qd ]
+hatoka folds.
+einMensch folds.
+Brzpf raises (2000) to 2000
+Brzpf is all-In.
+rtaffin folds.
+mischa445 folds.
+Cenkman folds.
+Karlos1000 folds.
+nowyouseeme folds.
+karmapilots folds.
+Fmee1 calls (1960)
+Fmee1 is all-In.
+** Dealing Flop ** :  [ 7d, 8c, 2d ]
+** Dealing Turn ** :  [ 3s ]
+** Dealing River ** :  [ Jd ]
+Creating Main Pot with $4020 with Brzpf,Fmee1
+** Summary **
+Main Pot: 4020
+Board: [ 7d 8c 2d 3s Jd  ]
+
+Brzpf balance 0, lost 2000 [ Th Ts ] [ a pair of Tens -- Jd,Th,Ts,8c,7d ]
+rtaffin balance 2000, didn't bet (folded)
+mischa445 balance 2000, didn't bet (folded)
+Cenkman balance 2000, didn't bet (folded)
+Karlos1000 balance 2000, didn't bet (folded)
+nowyouseeme balance 2000, didn't bet (folded)
+karmapilots balance 1980, lost 20 (folded)
+Fmee1 balance 4020, bet 2000, collected 4020, net +2020 [ Kh Ks ] [ a pair of Kings -- Kh,Ks,Jd,8c,7d ]
+hatoka balance 2000, didn't bet (folded)
+einMensch balance 2000, didn't bet (folded)
+
+***** Hand History for Game 5793022587 *****
+Brzpf finished in 10 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425208)  - Wed Mar 21 17:59:57 EDT 2007
+Table Speed 1330964 (Real Money) -- Seat 7 is the button
+Total number of players : 9
+Seat 2: rtaffin (2000)
+Seat 3: mischa445 (2000)
+Seat 4: Cenkman (2000)
+Seat 5: Karlos1000 (2000)
+Seat 6: nowyouseeme (2000)
+Seat 7: karmapilots (1980)
+Seat 8: Fmee1 (4020)
+Seat 9: hatoka (2000)
+Seat 10: einMensch (2000)
+Fmee1  posts small blind (20)
+hatoka  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 3h, Ad ]
+einMensch folds.
+rtaffin folds.
+mischa445 calls (40)
+Cenkman folds.
+Karlos1000 folds.
+einMensch: 3 bucks
+nowyouseeme calls (40)
+karmapilots raises (360) to 360
+Fmee1 folds.
+hatoka folds.
+einMensch: very fast ^^
+nowyouseeme: thats a weeks rent
+mischa445 folds.
+nowyouseeme folds.
+** Summary **
+Main Pot: 180
+
+rtaffin balance 2000, didn't bet (folded)
+mischa445 balance 1960, lost 40 (folded)
+Cenkman balance 2000, didn't bet (folded)
+Karlos1000 balance 2000, didn't bet (folded)
+nowyouseeme balance 1960, lost 40 (folded)
+karmapilots balance 2120, bet 360, collected 500, net +140
+Fmee1 balance 4000, lost 20 (folded)
+hatoka balance 1960, lost 40 (folded)
+einMensch balance 2000, didn't bet (folded)
+
+***** Hand History for Game 5793024618 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425208)  - Wed Mar 21 18:00:29 EDT 2007
+Table Speed 1330964 (Real Money) -- Seat 8 is the button
+Total number of players : 9
+Seat 2: rtaffin (2000)
+Seat 3: mischa445 (1960)
+Seat 4: Cenkman (2000)
+Seat 5: Karlos1000 (2000)
+Seat 6: nowyouseeme (1960)
+Seat 7: karmapilots (2120)
+Seat 8: Fmee1 (4000)
+Seat 9: hatoka (1960)
+Seat 10: einMensch (2000)
+hatoka  posts small blind (20)
+einMensch  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ Ts, Th ]
+rtaffin folds.
+mischa445 calls (40)
+Cenkman folds.
+Karlos1000 folds.
+nowyouseeme folds.
+karmapilots calls (40)
+Fmee1 calls (40)
+hatoka raises (280) to 300
+einMensch folds.
+mischa445 calls (260)
+karmapilots folds.
+Fmee1 folds.
+** Dealing Flop ** :  [ Ac, 3d, 2c ]
+hatoka checks.
+mischa445 bets (200)
+hatoka calls (200)
+** Dealing Turn ** :  [ 7d ]
+hatoka checks.
+mischa445 bets (1460)
+mischa445 is all-In.
+hatoka folds.
+Creating Main Pot with $1120 with mischa445
+** Summary **
+Main Pot: 1120
+Board: [ Ac 3d 2c 7d  ]
+
+rtaffin balance 2000, didn't bet (folded)
+mischa445 balance 2580, bet 1960, collected 2580, net +620
+Cenkman balance 2000, didn't bet (folded)
+Karlos1000 balance 2000, didn't bet (folded)
+nowyouseeme balance 1960, didn't bet (folded)
+karmapilots balance 2080, lost 40 (folded)
+Fmee1 balance 3960, lost 40 (folded)
+hatoka balance 1460, lost 500 (folded)
+einMensch balance 1960, lost 40 (folded)
+
+***** Hand History for Game 5793028785 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425208)  - Wed Mar 21 18:01:31 EDT 2007
+Table Speed 1330964 (Real Money) -- Seat 9 is the button
+Total number of players : 9
+Seat 2: rtaffin (2000)
+Seat 3: mischa445 (2580)
+Seat 4: Cenkman (2000)
+Seat 5: Karlos1000 (2000)
+Seat 6: nowyouseeme (1960)
+Seat 7: karmapilots (2080)
+Seat 8: Fmee1 (3960)
+Seat 9: hatoka (1460)
+Seat 10: einMensch (1960)
+einMensch  posts small blind (20)
+rtaffin  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ Th, Kh ]
+mischa445 raises (80) to 80
+Cenkman folds.
+Karlos1000 folds.
+nowyouseeme folds.
+karmapilots raises (2080) to 2080
+karmapilots is all-In.
+Fmee1 folds.
+hatoka folds.
+einMensch folds.
+rtaffin folds.
+mischa445 calls (2000)
+** Dealing Flop ** :  [ 6s, 4c, 8s ]
+** Dealing Turn ** :  [ 5h ]
+** Dealing River ** :  [ 9d ]
+Creating Main Pot with $4220 with karmapilots
+** Summary **
+Main Pot: 4220
+Board: [ 6s 4c 8s 5h 9d  ]
+
+rtaffin balance 1960, lost 40 (folded)
+mischa445 balance 500, lost 2080 [ Ad As ] [ a pair of Aces -- Ad,As,9d,8s,6s ]
+Cenkman balance 2000, didn't bet (folded)
+Karlos1000 balance 2000, didn't bet (folded)
+nowyouseeme balance 1960, didn't bet (folded)
+karmapilots balance 4220, bet 2080, collected 4220, net +2140 [ 7d 7h ] [ a straight Five to Nine -- 9d,8s,7d,6s,5h ]
+Fmee1 balance 3960, didn't bet (folded)
+hatoka balance 1460, didn't bet (folded)
+einMensch balance 1940, lost 20 (folded)
+
+***** Hand History for Game 5793030808 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425208)  - Wed Mar 21 18:02:02 EDT 2007
+Table Speed 1330964 (Real Money) -- Seat 10 is the button
+Total number of players : 9
+Seat 2: rtaffin (1960)
+Seat 3: mischa445 (500)
+Seat 4: Cenkman (2000)
+Seat 5: Karlos1000 (2000)
+Seat 6: nowyouseeme (1960)
+Seat 7: karmapilots (4220)
+Seat 8: Fmee1 (3960)
+Seat 9: hatoka (1460)
+Seat 10: einMensch (1940)
+rtaffin  posts small blind (20)
+mischa445  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 8s, 6d ]
+karmapilots: sry
+karmapilots: sry
+Cenkman folds.
+Karlos1000 folds.
+nowyouseeme raises (200) to 200
+karmapilots folds.
+Fmee1 folds.
+hatoka folds.
+einMensch folds.
+rtaffin folds.
+mischa445 folds.
+** Summary **
+Main Pot: 100
+
+rtaffin balance 1940, lost 20 (folded)
+mischa445 balance 460, lost 40 (folded)
+Cenkman balance 2000, didn't bet (folded)
+Karlos1000 balance 2000, didn't bet (folded)
+nowyouseeme balance 2020, bet 200, collected 260, net +60
+karmapilots balance 4220, didn't bet (folded)
+Fmee1 balance 3960, didn't bet (folded)
+hatoka balance 1460, didn't bet (folded)
+einMensch balance 1940, didn't bet (folded)
+
+***** Hand History for Game 5793031872 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425208)  - Wed Mar 21 18:02:18 EDT 2007
+Table Speed 1330964 (Real Money) -- Seat 2 is the button
+Total number of players : 9
+Seat 2: rtaffin (1940)
+Seat 3: mischa445 (460)
+Seat 4: Cenkman (2000)
+Seat 5: Karlos1000 (2000)
+Seat 6: nowyouseeme (2020)
+Seat 7: karmapilots (4220)
+Seat 8: Fmee1 (3960)
+Seat 9: hatoka (1460)
+Seat 10: einMensch (1940)
+mischa445  posts small blind (20)
+Cenkman  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ Th, Jd ]
+Karlos1000 folds.
+nowyouseeme calls (40)
+karmapilots raises (4220) to 4220
+karmapilots is all-In.
+Fmee1 folds.
+hatoka folds.
+einMensch folds.
+rtaffin folds.
+mischa445 calls (440)
+mischa445 is all-In.
+Cenkman folds.
+nowyouseeme folds.
+** Dealing Flop ** :  [ 3c, Kh, Ac ]
+** Dealing Turn ** :  [ 7h ]
+** Dealing River ** :  [ 6c ]
+Creating Main Pot with $1000 with mischa445
+** Summary **
+Main Pot: 1000
+Board: [ 3c Kh Ac 7h 6c  ]
+
+rtaffin balance 1940, didn't bet (folded)
+mischa445 balance 1000, bet 460, collected 1000, net +540 [ Jh Ad ] [ a pair of Aces -- Ad,Ac,Kh,Jh,7h ]
+Cenkman balance 1960, lost 40 (folded)
+Karlos1000 balance 2000, didn't bet (folded)
+nowyouseeme balance 1980, lost 40 (folded)
+karmapilots balance 3760, bet 4220, collected 3760, lost -460 [ 9h 9c ] [ a pair of Nines -- Ac,Kh,9h,9c,7h ]
+Fmee1 balance 3960, didn't bet (folded)
+hatoka balance 1460, didn't bet (folded)
+einMensch balance 1940, didn't bet (folded)
+
+***** Hand History for Game 5793034952 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425208)  - Wed Mar 21 18:03:03 EDT 2007
+Table Speed 1330964 (Real Money) -- Seat 3 is the button
+Total number of players : 9
+Seat 2: rtaffin (1940)
+Seat 3: mischa445 (1000)
+Seat 4: Cenkman (1960)
+Seat 5: Karlos1000 (2000)
+Seat 6: nowyouseeme (1980)
+Seat 7: karmapilots (3760)
+Seat 8: Fmee1 (3960)
+Seat 9: hatoka (1460)
+Seat 10: einMensch (1940)
+Cenkman  posts small blind (20)
+Karlos1000  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ Qd, 6c ]
+nowyouseeme folds.
+karmapilots folds.
+Fmee1 folds.
+hatoka folds.
+einMensch calls (40)
+rtaffin folds.
+mischa445 folds.
+Cenkman folds.
+Karlos1000 checks.
+** Dealing Flop ** :  [ 5d, Ts, 9s ]
+Karlos1000 checks.
+einMensch bets (40)
+Karlos1000 calls (40)
+** Dealing Turn ** :  [ Jc ]
+Karlos1000 checks.
+einMensch bets (120)
+Karlos1000 calls (120)
+** Dealing River ** :  [ Ks ]
+Karlos1000 checks.
+einMensch checks.
+** Summary **
+Main Pot: 420
+Board: [ 5d Ts 9s Jc Ks  ]
+
+rtaffin balance 1940, didn't bet (folded)
+mischa445 balance 1000, didn't bet (folded)
+Cenkman balance 1940, lost 20 (folded)
+Karlos1000 balance 1800, lost 200 [ 8c Ad ] [ high card Ace -- Ad,Ks,Jc,Ts,9s ]
+nowyouseeme balance 1980, didn't bet (folded)
+karmapilots balance 3760, didn't bet (folded)
+Fmee1 balance 3960, didn't bet (folded)
+hatoka balance 1460, didn't bet (folded)
+einMensch balance 2160, bet 200, collected 420, net +220 [ 6d Kd ] [ a pair of Kings -- Kd,Ks,Jc,Ts,9s ]
+
+***** Hand History for Game 5793037384 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425208)  - Wed Mar 21 18:03:38 EDT 2007
+Table Speed 1330964 (Real Money) -- Seat 4 is the button
+Total number of players : 9
+Seat 2: rtaffin (1940)
+Seat 3: mischa445 (1000)
+Seat 4: Cenkman (1940)
+Seat 5: Karlos1000 (1800)
+Seat 6: nowyouseeme (1980)
+Seat 7: karmapilots (3760)
+Seat 8: Fmee1 (3960)
+Seat 9: hatoka (1460)
+Seat 10: einMensch (2160)
+Karlos1000  posts small blind (20)
+nowyouseeme  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 4c, 7s ]
+karmapilots folds.
+Fmee1 calls (40)
+hatoka folds.
+einMensch folds.
+rtaffin folds.
+mischa445 calls (40)
+Cenkman folds.
+Karlos1000 calls (20)
+nowyouseeme checks.
+** Dealing Flop ** :  [ 6c, 7h, 6d ]
+Karlos1000 checks.
+nowyouseeme bets (160)
+Fmee1 calls (160)
+mischa445 folds.
+Karlos1000 folds.
+** Dealing Turn ** :  [ Ks ]
+nowyouseeme checks.
+Fmee1 bets (200)
+nowyouseeme folds.
+** Summary **
+Main Pot: 480
+Board: [ 6c 7h 6d Ks  ]
+
+rtaffin balance 1940, didn't bet (folded)
+mischa445 balance 960, lost 40 (folded)
+Cenkman balance 1940, didn't bet (folded)
+Karlos1000 balance 1760, lost 40 (folded)
+nowyouseeme balance 1780, lost 200 (folded)
+karmapilots balance 3760, didn't bet (folded)
+Fmee1 balance 4240, bet 400, collected 680, net +280
+hatoka balance 1460, didn't bet (folded)
+einMensch balance 2160, didn't bet (folded)
+
+***** Hand History for Game 5793041745 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425208)  - Wed Mar 21 18:04:43 EDT 2007
+Table Speed 1330964 (Real Money) -- Seat 5 is the button
+Total number of players : 9
+Seat 2: rtaffin (1940)
+Seat 3: mischa445 (960)
+Seat 4: Cenkman (1940)
+Seat 5: Karlos1000 (1760)
+Seat 6: nowyouseeme (1780)
+Seat 7: karmapilots (3760)
+Seat 8: Fmee1 (4240)
+Seat 9: hatoka (1460)
+Seat 10: einMensch (2160)
+nowyouseeme  posts small blind (30)
+karmapilots  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Ad, 2c ]
+Fmee1 calls (60)
+hatoka calls (60)
+einMensch folds.
+rtaffin folds.
+mischa445 calls (60)
+Cenkman folds.
+Karlos1000 calls (60)
+nowyouseeme calls (30)
+karmapilots checks.
+** Dealing Flop ** :  [ 5h, Ks, 9c ]
+nowyouseeme checks.
+karmapilots folds.
+Fmee1 bets (180)
+hatoka folds.
+mischa445 folds.
+Karlos1000 folds.
+nowyouseeme folds.
+** Summary **
+Main Pot: 360
+Board: [ 5h Ks 9c  ]
+
+rtaffin balance 1940, didn't bet (folded)
+mischa445 balance 900, lost 60 (folded)
+Cenkman balance 1940, didn't bet (folded)
+Karlos1000 balance 1700, lost 60 (folded)
+nowyouseeme balance 1720, lost 60 (folded)
+karmapilots balance 3700, lost 60 (folded)
+Fmee1 balance 4540, bet 240, collected 540, net +300
+hatoka balance 1400, lost 60 (folded)
+einMensch balance 2160, didn't bet (folded)
+
+***** Hand History for Game 5793044567 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425208)  - Wed Mar 21 18:05:26 EDT 2007
+Table Speed 1330964 (Real Money) -- Seat 6 is the button
+Total number of players : 9
+Seat 2: rtaffin (1940)
+Seat 3: mischa445 (900)
+Seat 4: Cenkman (1940)
+Seat 5: Karlos1000 (1700)
+Seat 6: nowyouseeme (1720)
+Seat 7: karmapilots (3700)
+Seat 8: Fmee1 (4540)
+Seat 9: hatoka (1400)
+Seat 10: einMensch (2160)
+karmapilots  posts small blind (30)
+Fmee1  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Jc, 9h ]
+hatoka folds.
+einMensch raises (240) to 240
+rtaffin folds.
+mischa445 folds.
+Cenkman folds.
+Karlos1000 folds.
+nowyouseeme folds.
+karmapilots raises (3670) to 3700
+karmapilots is all-In.
+Fmee1 folds.
+einMensch folds.
+Creating Main Pot with $540 with karmapilots
+** Summary **
+Main Pot: 540
+
+rtaffin balance 1940, didn't bet (folded)
+mischa445 balance 900, didn't bet (folded)
+Cenkman balance 1940, didn't bet (folded)
+Karlos1000 balance 1700, didn't bet (folded)
+nowyouseeme balance 1720, didn't bet (folded)
+karmapilots balance 4000, bet 3700, collected 4000, net +300
+Fmee1 balance 4480, lost 60 (folded)
+hatoka balance 1400, didn't bet (folded)
+einMensch balance 1920, lost 240 (folded)
+
+***** Hand History for Game 5793046878 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425208)  - Wed Mar 21 18:06:00 EDT 2007
+Table Speed 1330964 (Real Money) -- Seat 7 is the button
+Total number of players : 9
+Seat 2: rtaffin (1940)
+Seat 3: mischa445 (900)
+Seat 4: Cenkman (1940)
+Seat 5: Karlos1000 (1700)
+Seat 6: nowyouseeme (1720)
+Seat 7: karmapilots (4000)
+Seat 8: Fmee1 (4480)
+Seat 9: hatoka (1400)
+Seat 10: einMensch (1920)
+Fmee1  posts small blind (30)
+hatoka  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Tc, Jd ]
+einMensch folds.
+rtaffin folds.
+mischa445 calls (60)
+Cenkman folds.
+Karlos1000 folds.
+nowyouseeme folds.
+karmapilots folds.
+Fmee1 raises (90) to 120
+hatoka calls (60)
+mischa445 calls (60)
+** Dealing Flop ** :  [ 4h, 2d, 2c ]
+Fmee1 bets (60)
+hatoka folds.
+mischa445 folds.
+** Summary **
+Main Pot: 360
+Board: [ 4h 2d 2c  ]
+
+rtaffin balance 1940, didn't bet (folded)
+mischa445 balance 780, lost 120 (folded)
+Cenkman balance 1940, didn't bet (folded)
+Karlos1000 balance 1700, didn't bet (folded)
+nowyouseeme balance 1720, didn't bet (folded)
+karmapilots balance 4000, didn't bet (folded)
+Fmee1 balance 4720, bet 180, collected 420, net +240
+hatoka balance 1280, lost 120 (folded)
+einMensch balance 1920, didn't bet (folded)
+
+***** Hand History for Game 5793048770 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425208)  - Wed Mar 21 18:06:28 EDT 2007
+Table Speed 1330964 (Real Money) -- Seat 8 is the button
+Total number of players : 9
+Seat 2: rtaffin (1940)
+Seat 3: mischa445 (780)
+Seat 4: Cenkman (1940)
+Seat 5: Karlos1000 (1700)
+Seat 6: nowyouseeme (1720)
+Seat 7: karmapilots (4000)
+Seat 8: Fmee1 (4720)
+Seat 9: hatoka (1280)
+Seat 10: einMensch (1920)
+hatoka  posts small blind (30)
+einMensch  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Ks, 9s ]
+rtaffin folds.
+mischa445 calls (60)
+Cenkman folds.
+Karlos1000 calls (60)
+nowyouseeme folds.
+karmapilots folds.
+Fmee1 raises (120) to 120
+hatoka folds.
+einMensch calls (60)
+mischa445 raises (720) to 780
+mischa445 is all-In.
+Karlos1000 raises (1640) to 1700
+Karlos1000 is all-In.
+Fmee1 folds.
+einMensch folds.
+** Dealing Flop ** :  [ 4s, 4h, 5d ]
+** Dealing Turn ** :  [ 7d ]
+** Dealing River ** :  [ Qh ]
+Creating Main Pot with $1830 with mischa445
+** Summary **
+Main Pot: 1830
+Board: [ 4s 4h 5d 7d Qh  ]
+
+rtaffin balance 1940, didn't bet (folded)
+mischa445 balance 1830, bet 780, collected 1830, net +1050 [ Qs As ] [ two pairs, Queens and Fours -- As,Qs,Qh,4s,4h ]
+Cenkman balance 1940, didn't bet (folded)
+Karlos1000 balance 920, bet 1700, collected 920, lost -780 [ 9c 9d ] [ two pairs, Nines and Fours -- Qh,9c,9d,4s,4h ]
+nowyouseeme balance 1720, didn't bet (folded)
+karmapilots balance 4000, didn't bet (folded)
+Fmee1 balance 4600, lost 120 (folded)
+hatoka balance 1250, lost 30 (folded)
+einMensch balance 1800, lost 120 (folded)
+
+***** Hand History for Game 5793051819 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425208)  - Wed Mar 21 18:07:13 EDT 2007
+Table Speed 1330964 (Real Money) -- Seat 9 is the button
+Total number of players : 9
+Seat 2: rtaffin (1940)
+Seat 3: mischa445 (1830)
+Seat 4: Cenkman (1940)
+Seat 5: Karlos1000 (920)
+Seat 6: nowyouseeme (1720)
+Seat 7: karmapilots (4000)
+Seat 8: Fmee1 (4600)
+Seat 9: hatoka (1250)
+Seat 10: einMensch (1800)
+einMensch  posts small blind (30)
+rtaffin  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 6s, 6d ]
+mischa445 calls (60)
+Cenkman folds.
+Karlos1000 folds.
+nowyouseeme folds.
+karmapilots folds.
+Fmee1 calls (60)
+hatoka raises (120) to 120
+einMensch folds.
+rtaffin folds.
+mischa445 calls (60)
+Fmee1 calls (60)
+** Dealing Flop ** :  [ 3s, 8s, Ts ]
+mischa445 checks.
+Fmee1 bets (400)
+hatoka calls (400)
+mischa445 folds.
+** Dealing Turn ** :  [ Kh ]
+Fmee1 checks.
+hatoka checks.
+** Dealing River ** :  [ 7c ]
+Fmee1 checks.
+hatoka checks.
+** Summary **
+Main Pot: 1250
+Board: [ 3s 8s Ts Kh 7c  ]
+
+rtaffin balance 1880, lost 60 (folded)
+mischa445 balance 1710, lost 120 (folded)
+Cenkman balance 1940, didn't bet (folded)
+Karlos1000 balance 920, didn't bet (folded)
+nowyouseeme balance 1720, didn't bet (folded)
+karmapilots balance 4000, didn't bet (folded)
+Fmee1 balance 4080, lost 520 [ Ad 5h ] [ high card Ace -- Ad,Kh,Ts,8s,7c ]
+hatoka balance 1980, bet 520, collected 1250, net +730 [ 6s 6d ] [ a pair of Sixes -- Kh,Ts,8s,6s,6d ]
+einMensch balance 1770, lost 30 (folded)
+
+***** Hand History for Game 5793055540 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425208)  - Wed Mar 21 18:08:09 EDT 2007
+Table Speed 1330964 (Real Money) -- Seat 10 is the button
+Total number of players : 9
+Seat 2: rtaffin (1880)
+Seat 3: mischa445 (1710)
+Seat 4: Cenkman (1940)
+Seat 5: Karlos1000 (920)
+Seat 6: nowyouseeme (1720)
+Seat 7: karmapilots (4000)
+Seat 8: Fmee1 (4080)
+Seat 9: hatoka (1980)
+Seat 10: einMensch (1770)
+rtaffin  posts small blind (30)
+mischa445  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Td, 7s ]
+Cenkman folds.
+Karlos1000 folds.
+nowyouseeme folds.
+karmapilots raises (180) to 180
+Fmee1 folds.
+hatoka folds.
+einMensch folds.
+rtaffin folds.
+mischa445 folds.
+** Summary **
+Main Pot: 150
+
+rtaffin balance 1850, lost 30 (folded)
+mischa445 balance 1650, lost 60 (folded)
+Cenkman balance 1940, didn't bet (folded)
+Karlos1000 balance 920, didn't bet (folded)
+nowyouseeme balance 1720, didn't bet (folded)
+karmapilots balance 4090, bet 180, collected 270, net +90
+Fmee1 balance 4080, didn't bet (folded)
+hatoka balance 1980, didn't bet (folded)
+einMensch balance 1770, didn't bet (folded)
+
+***** Hand History for Game 5793056880 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425208)  - Wed Mar 21 18:08:29 EDT 2007
+Table Speed 1330964 (Real Money) -- Seat 2 is the button
+Total number of players : 9
+Seat 2: rtaffin (1850)
+Seat 3: mischa445 (1650)
+Seat 4: Cenkman (1940)
+Seat 5: Karlos1000 (920)
+Seat 6: nowyouseeme (1720)
+Seat 7: karmapilots (4090)
+Seat 8: Fmee1 (4080)
+Seat 9: hatoka (1980)
+Seat 10: einMensch (1770)
+mischa445  posts small blind (30)
+Cenkman  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 8s, 9h ]
+Karlos1000 folds.
+nowyouseeme folds.
+karmapilots folds.
+Fmee1 folds.
+hatoka folds.
+einMensch raises (240) to 240
+rtaffin folds.
+mischa445 folds.
+Cenkman folds.
+** Summary **
+Main Pot: 150
+
+rtaffin balance 1850, didn't bet (folded)
+mischa445 balance 1620, lost 30 (folded)
+Cenkman balance 1880, lost 60 (folded)
+Karlos1000 balance 920, didn't bet (folded)
+nowyouseeme balance 1720, didn't bet (folded)
+karmapilots balance 4090, didn't bet (folded)
+Fmee1 balance 4080, didn't bet (folded)
+hatoka balance 1980, didn't bet (folded)
+einMensch balance 1860, bet 240, collected 330, net +90
+
+***** Hand History for Game 5793058203 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425208)  - Wed Mar 21 18:08:48 EDT 2007
+Table Speed 1330964 (Real Money) -- Seat 3 is the button
+Total number of players : 9
+Seat 2: rtaffin (1850)
+Seat 3: mischa445 (1620)
+Seat 4: Cenkman (1880)
+Seat 5: Karlos1000 (920)
+Seat 6: nowyouseeme (1720)
+Seat 7: karmapilots (4090)
+Seat 8: Fmee1 (4080)
+Seat 9: hatoka (1980)
+Seat 10: einMensch (1860)
+Cenkman  posts small blind (30)
+Karlos1000  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 7s, 5d ]
+nowyouseeme folds.
+karmapilots calls (60)
+Fmee1 folds.
+hatoka folds.
+einMensch raises (240) to 240
+rtaffin folds.
+mischa445 folds.
+Cenkman folds.
+Karlos1000 raises (860) to 920
+Karlos1000 is all-In.
+karmapilots folds.
+einMensch calls (680)
+** Dealing Flop ** :  [ Ks, 8h, 3h ]
+** Dealing Turn ** :  [ 6h ]
+** Dealing River ** :  [ Qs ]
+Creating Main Pot with $1930 with Karlos1000
+** Summary **
+Main Pot: 1930
+Board: [ Ks 8h 3h 6h Qs  ]
+
+rtaffin balance 1850, didn't bet (folded)
+mischa445 balance 1620, didn't bet (folded)
+Cenkman balance 1850, lost 30 (folded)
+Karlos1000 balance 1930, bet 920, collected 1930, net +1010 [ Qd Kc ] [ two pairs, Kings and Queens -- Kc,Ks,Qd,Qs,8h ]
+nowyouseeme balance 1720, didn't bet (folded)
+karmapilots balance 4030, lost 60 (folded)
+Fmee1 balance 4080, didn't bet (folded)
+hatoka balance 1980, didn't bet (folded)
+einMensch balance 940, lost 920 [ As Qh ] [ a pair of Queens -- As,Ks,Qh,Qs,8h ]
+
+***** Hand History for Game 5793060452 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425208)  - Wed Mar 21 18:09:22 EDT 2007
+Table Speed 1330964 (Real Money) -- Seat 4 is the button
+Total number of players : 9
+Seat 2: rtaffin (1850)
+Seat 3: mischa445 (1620)
+Seat 4: Cenkman (1850)
+Seat 5: Karlos1000 (1930)
+Seat 6: nowyouseeme (1720)
+Seat 7: karmapilots (4030)
+Seat 8: Fmee1 (4080)
+Seat 9: hatoka (1980)
+Seat 10: einMensch (940)
+Karlos1000  posts small blind (30)
+nowyouseeme  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 8c, 9c ]
+karmapilots folds.
+Fmee1 folds.
+hatoka calls (60)
+einMensch folds.
+rtaffin folds.
+mischa445 folds.
+Cenkman calls (60)
+Karlos1000 calls (30)
+nowyouseeme checks.
+** Dealing Flop ** :  [ 6h, Js, Jd ]
+Karlos1000 checks.
+nowyouseeme checks.
+hatoka checks.
+Cenkman checks.
+** Dealing Turn ** :  [ Ac ]
+Karlos1000 bets (180)
+nowyouseeme folds.
+hatoka folds.
+Cenkman folds.
+** Summary **
+Main Pot: 240
+Board: [ 6h Js Jd Ac  ]
+
+rtaffin balance 1850, didn't bet (folded)
+mischa445 balance 1620, didn't bet (folded)
+Cenkman balance 1790, lost 60 (folded)
+Karlos1000 balance 2110, bet 240, collected 420, net +180
+nowyouseeme balance 1660, lost 60 (folded)
+karmapilots balance 4030, didn't bet (folded)
+Fmee1 balance 4080, didn't bet (folded)
+hatoka balance 1920, lost 60 (folded)
+einMensch balance 940, didn't bet (folded)
+
+***** Hand History for Game 5793064605 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425208)  - Wed Mar 21 18:10:24 EDT 2007
+Table Speed 1330964 (Real Money) -- Seat 5 is the button
+Total number of players : 9
+Seat 2: rtaffin (1850)
+Seat 3: mischa445 (1620)
+Seat 4: Cenkman (1790)
+Seat 5: Karlos1000 (2110)
+Seat 6: nowyouseeme (1660)
+Seat 7: karmapilots (4030)
+Seat 8: Fmee1 (4080)
+Seat 9: hatoka (1920)
+Seat 10: einMensch (940)
+nowyouseeme  posts small blind (50)
+karmapilots  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 4d, 5h ]
+Fmee1 calls (100)
+hatoka folds.
+einMensch raises (400) to 400
+rtaffin folds.
+mischa445 folds.
+Cenkman raises (1790) to 1790
+Cenkman is all-In.
+Karlos1000 folds.
+nowyouseeme folds.
+karmapilots folds.
+Fmee1 folds.
+einMensch calls (540)
+einMensch is all-In.
+** Dealing Flop ** :  [ 3d, 2d, Td ]
+** Dealing Turn ** :  [ Jd ]
+** Dealing River ** :  [ 6d ]
+Creating Main Pot with $2130 with einMensch
+** Summary **
+Main Pot: 2130
+Board: [ 3d 2d Td Jd 6d  ]
+
+rtaffin balance 1850, didn't bet (folded)
+mischa445 balance 1620, didn't bet (folded)
+Cenkman balance 850, bet 1790, collected 850, lost -940 [ Kd Ks ] [ a flush, King high -- Kd,Jd,Td,6d,3d ]
+Karlos1000 balance 2110, didn't bet (folded)
+nowyouseeme balance 1610, lost 50 (folded)
+karmapilots balance 3930, lost 100 (folded)
+Fmee1 balance 3980, lost 100 (folded)
+hatoka balance 1920, didn't bet (folded)
+einMensch balance 2130, bet 940, collected 2130, net +1190 [ Qd Ad ] [ a flush, Ace high -- Ad,Qd,Jd,Td,6d ]
+
+***** Hand History for Game 5793066418 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425208)  - Wed Mar 21 18:10:52 EDT 2007
+Table Speed 1330964 (Real Money) -- Seat 6 is the button
+Total number of players : 9
+Seat 2: rtaffin (1850)
+Seat 3: mischa445 (1620)
+Seat 4: Cenkman (850)
+Seat 5: Karlos1000 (2110)
+Seat 6: nowyouseeme (1610)
+Seat 7: karmapilots (3930)
+Seat 8: Fmee1 (3980)
+Seat 9: hatoka (1920)
+Seat 10: einMensch (2130)
+karmapilots  posts small blind (50)
+Fmee1  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 8h, Qh ]
+hatoka calls (100)
+einMensch folds.
+rtaffin folds.
+mischa445 folds.
+Cenkman raises (850) to 850
+Cenkman is all-In.
+Karlos1000 folds.
+nowyouseeme folds.
+karmapilots folds.
+Fmee1 folds.
+hatoka folds.
+Creating Main Pot with $350 with Cenkman
+** Summary **
+Main Pot: 350
+
+rtaffin balance 1850, didn't bet (folded)
+mischa445 balance 1620, didn't bet (folded)
+Cenkman balance 1100, bet 850, collected 1100, net +250
+Karlos1000 balance 2110, didn't bet (folded)
+nowyouseeme balance 1610, didn't bet (folded)
+karmapilots balance 3880, lost 50 (folded)
+Fmee1 balance 3880, lost 100 (folded)
+hatoka balance 1820, lost 100 (folded)
+einMensch balance 2130, didn't bet (folded)
+
+***** Hand History for Game 5793068103 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425208)  - Wed Mar 21 18:11:18 EDT 2007
+Table Speed 1330964 (Real Money) -- Seat 7 is the button
+Total number of players : 9
+Seat 2: rtaffin (1850)
+Seat 3: mischa445 (1620)
+Seat 4: Cenkman (1100)
+Seat 5: Karlos1000 (2110)
+Seat 6: nowyouseeme (1610)
+Seat 7: karmapilots (3880)
+Seat 8: Fmee1 (3880)
+Seat 9: hatoka (1820)
+Seat 10: einMensch (2130)
+Fmee1  posts small blind (50)
+hatoka  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 9s, Qc ]
+einMensch folds.
+rtaffin folds.
+mischa445 calls (100)
+Cenkman folds.
+Karlos1000 folds.
+nowyouseeme folds.
+karmapilots calls (100)
+Fmee1 calls (50)
+hatoka checks.
+** Dealing Flop ** :  [ 5s, Ah, As ]
+Fmee1 bets (100)
+hatoka folds.
+mischa445 calls (100)
+karmapilots folds.
+** Dealing Turn ** :  [ 3d ]
+Fmee1 checks.
+mischa445 checks.
+** Dealing River ** :  [ Kh ]
+Fmee1 checks.
+mischa445 checks.
+** Summary **
+Main Pot: 600
+Board: [ 5s Ah As 3d Kh  ]
+
+rtaffin balance 1850, didn't bet (folded)
+mischa445 balance 2020, bet 200, collected 600, net +400 [ 4h 4c ] [ two pairs, Aces and Fours -- Ah,As,Kh,4h,4c ]
+Cenkman balance 1100, didn't bet (folded)
+Karlos1000 balance 2110, didn't bet (folded)
+nowyouseeme balance 1610, didn't bet (folded)
+karmapilots balance 3780, lost 100 (folded)
+Fmee1 balance 3680, lost 200 [ Qs 2h ] [ a pair of Aces -- Ah,As,Kh,Qs,5s ]
+hatoka balance 1720, lost 100 (folded)
+einMensch balance 2130, didn't bet (folded)
+
+***** Hand History for Game 5793071401 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425208)  - Wed Mar 21 18:12:07 EDT 2007
+Table Speed 1330964 (Real Money) -- Seat 8 is the button
+Total number of players : 9
+Seat 2: rtaffin (1850)
+Seat 3: mischa445 (2020)
+Seat 4: Cenkman (1100)
+Seat 5: Karlos1000 (2110)
+Seat 6: nowyouseeme (1610)
+Seat 7: karmapilots (3780)
+Seat 8: Fmee1 (3680)
+Seat 9: hatoka (1720)
+Seat 10: einMensch (2130)
+hatoka  posts small blind (50)
+einMensch  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 6d, Kd ]
+rtaffin folds.
+mischa445 calls (100)
+Cenkman folds.
+Karlos1000 calls (100)
+nowyouseeme folds.
+karmapilots folds.
+Fmee1 folds.
+hatoka calls (50)
+einMensch checks.
+** Dealing Flop ** :  [ Jh, 4c, 4h ]
+hatoka bets (100)
+einMensch folds.
+mischa445 folds.
+Karlos1000 raises (2010) to 2010
+Karlos1000 is all-In.
+hatoka folds.
+Creating Main Pot with $600 with Karlos1000
+** Summary **
+Main Pot: 600
+Board: [ Jh 4c 4h  ]
+
+rtaffin balance 1850, didn't bet (folded)
+mischa445 balance 1920, lost 100 (folded)
+Cenkman balance 1100, didn't bet (folded)
+Karlos1000 balance 2510, bet 2110, collected 2510, net +400
+nowyouseeme balance 1610, didn't bet (folded)
+karmapilots balance 3780, didn't bet (folded)
+Fmee1 balance 3680, didn't bet (folded)
+hatoka balance 1520, lost 200 (folded)
+einMensch balance 2030, lost 100 (folded)
+
+***** Hand History for Game 5793073548 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425208)  - Wed Mar 21 18:12:39 EDT 2007
+Table Speed 1330964 (Real Money) -- Seat 9 is the button
+Total number of players : 9
+Seat 2: rtaffin (1850)
+Seat 3: mischa445 (1920)
+Seat 4: Cenkman (1100)
+Seat 5: Karlos1000 (2510)
+Seat 6: nowyouseeme (1610)
+Seat 7: karmapilots (3780)
+Seat 8: Fmee1 (3680)
+Seat 9: hatoka (1520)
+Seat 10: einMensch (2030)
+einMensch  posts small blind (50)
+rtaffin  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 2h, Kc ]
+mischa445 folds.
+Cenkman folds.
+Karlos1000 calls (100)
+nowyouseeme folds.
+karmapilots raises (3780) to 3780
+karmapilots is all-In.
+Fmee1 calls (3680)
+Fmee1 is all-In.
+hatoka folds.
+einMensch folds.
+rtaffin folds.
+Karlos1000 calls (2410)
+Karlos1000 is all-In.
+** Dealing Flop ** :  [ 4d, Td, 7d ]
+** Dealing Turn ** :  [ Qd ]
+** Dealing River ** :  [ 3s ]
+Creating Main Pot with $7680 with Karlos1000
+Creating Side Pot 1 with $2340 with Fmee1
+** Summary **
+Main Pot: 7680 | Side Pot 1: 2340
+Board: [ 4d Td 7d Qd 3s  ]
+
+rtaffin balance 1750, lost 100 (folded)
+mischa445 balance 1920, didn't bet (folded)
+Cenkman balance 1100, didn't bet (folded)
+Karlos1000 balance 0, lost 2510 [ Kh Ah ] [ high card Ace with King kicker -- Ah,Kh,Qd,Td,7d ]
+nowyouseeme balance 1610, didn't bet (folded)
+karmapilots balance 10120, bet 3780, collected 10120, net +6340 [ 9s 9h ] [ a pair of Nines -- Qd,Td,9s,9h,7d ]
+Fmee1 balance 0, lost 3680 [ 9c Ac ] [ high card Ace -- Ac,Qd,Td,9c,7d ]
+hatoka balance 1520, didn't bet (folded)
+einMensch balance 1980, lost 50 (folded)
+
+***** Hand History for Game 5793075669 *****
+Karlos1000 finished in 9 place.
+Fmee1 finished in 8 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425208)  - Wed Mar 21 18:13:11 EDT 2007
+Table Speed 1330964 (Real Money) -- Seat 10 is the button
+Total number of players : 7
+Seat 2: rtaffin (1750)
+Seat 3: mischa445 (1920)
+Seat 4: Cenkman (1100)
+Seat 6: nowyouseeme (1610)
+Seat 7: karmapilots (10120)
+Seat 9: hatoka (1520)
+Seat 10: einMensch (1980)
+rtaffin  posts small blind (50)
+mischa445  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 7s, Ac ]
+Cenkman folds.
+nowyouseeme folds.
+karmapilots folds.
+hatoka raises (300) to 300
+einMensch folds.
+rtaffin folds.
+einMensch: kind of lucky
+mischa445 calls (200)
+** Dealing Flop ** :  [ Ah, 7c, Tc ]
+mischa445 checks.
+karmapilots: jackpot
+hatoka bets (100)
+mischa445 calls (100)
+** Dealing Turn ** :  [ Ts ]
+mischa445 checks.
+hatoka bets (100)
+mischa445 calls (100)
+** Dealing River ** :  [ 9s ]
+mischa445 checks.
+hatoka bets (200)
+mischa445 calls (200)
+** Summary **
+Main Pot: 1450
+Board: [ Ah 7c Tc Ts 9s  ]
+
+rtaffin balance 1700, lost 50 (folded)
+mischa445 balance 1220, lost 700 [ Ks Kh ] [ two pairs, Kings and Tens -- Ah,Ks,Kh,Tc,Ts ]
+
+Cenkman balance 1100, didn't bet (folded)
+nowyouseeme balance 1610, didn't bet (folded)
+karmapilots balance 10120, didn't bet (folded)
+hatoka balance 2270, bet 700, collected 1450, net +750 [ 7s Ac ] [ two pairs, Aces and Tens -- Ac,Ah,Tc,Ts,9s ]
+einMensch balance 1980, didn't bet (folded)
+
+***** Hand History for Game 5793078636 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425208)  - Wed Mar 21 18:13:55 EDT 2007
+Table Speed 1330964 (Real Money) -- Seat 2 is the button
+Total number of players : 7
+Seat 2: rtaffin (1700)
+Seat 3: mischa445 (1220)
+Seat 4: Cenkman (1100)
+Seat 6: nowyouseeme (1610)
+Seat 7: karmapilots (10120)
+Seat 9: hatoka (2270)
+Seat 10: einMensch (1980)
+mischa445  posts small blind (50)
+Cenkman  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 4c, 3d ]
+nowyouseeme: dont think i ve ever seen anyone in such a strong position in one of these
+nowyouseeme folds.
+karmapilots folds.
+hatoka folds.
+einMensch folds.
+rtaffin folds.
+mischa445 calls (50)
+Cenkman checks.
+** Dealing Flop ** :  [ 2d, 4h, Ah ]
+mischa445 checks.
+Cenkman checks.
+** Dealing Turn ** :  [ 5c ]
+mischa445 bets (100)
+Cenkman calls (100)
+** Dealing River ** :  [ Qh ]
+karmapilots: then i better win.. huh..
+mischa445 bets (500)
+Cenkman folds.
+** Summary **
+Main Pot: 400
+Board: [ 2d 4h Ah 5c Qh  ]
+
+rtaffin balance 1700, didn't bet (folded)
+mischa445 balance 1420, bet 700, collected 900, net +200
+Cenkman balance 900, lost 200 (folded)
+nowyouseeme balance 1610, didn't bet (folded)
+karmapilots balance 10120, didn't bet (folded)
+hatoka balance 2270, didn't bet (folded)
+einMensch balance 1980, didn't bet (folded)
+
+***** Hand History for Game 5793081988 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425208)  - Wed Mar 21 18:14:48 EDT 2007
+Table Speed 1330964 (Real Money) -- Seat 3 is the button
+Total number of players : 7
+Seat 2: rtaffin (1700)
+Seat 3: mischa445 (1420)
+Seat 4: Cenkman (900)
+Seat 6: nowyouseeme (1610)
+Seat 7: karmapilots (10120)
+Seat 9: hatoka (2270)
+Seat 10: einMensch (1980)
+Cenkman  posts small blind (50)
+nowyouseeme  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ As, Tc ]
+karmapilots folds.
+hatoka raises (400) to 400
+einMensch folds.
+rtaffin folds.
+mischa445 folds.
+Cenkman folds.
+nowyouseeme folds.
+** Summary **
+Main Pot: 250
+
+rtaffin balance 1700, didn't bet (folded)
+mischa445 balance 1420, didn't bet (folded)
+Cenkman balance 850, lost 50 (folded)
+nowyouseeme balance 1510, lost 100 (folded)
+karmapilots balance 10120, didn't bet (folded)
+hatoka balance 2420, bet 400, collected 550, net +150
+einMensch balance 1980, didn't bet (folded)
+
+***** Hand History for Game 5793083628 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425208)  - Wed Mar 21 18:15:13 EDT 2007
+Table Speed 1330964 (Real Money) -- Seat 4 is the button
+Total number of players : 7
+Seat 2: rtaffin (1700)
+Seat 3: mischa445 (1420)
+Seat 4: Cenkman (850)
+Seat 6: nowyouseeme (1510)
+Seat 7: karmapilots (10120)
+Seat 9: hatoka (2420)
+Seat 10: einMensch (1980)
+nowyouseeme  posts small blind (50)
+karmapilots  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Kh, Td ]
+hatoka raises (300) to 300
+einMensch folds.
+rtaffin folds.
+mischa445 calls (300)
+Cenkman folds.
+nowyouseeme folds.
+karmapilots calls (200)
+** Dealing Flop ** :  [ Ad, 2h, 7d ]
+karmapilots checks.
+hatoka checks.
+mischa445 checks.
+** Dealing Turn ** :  [ 9s ]
+karmapilots checks.
+hatoka checks.
+mischa445 bets (400)
+karmapilots calls (400)
+hatoka folds.
+** Dealing River ** :  [ 2s ]
+karmapilots checks.
+mischa445 bets (720)
+mischa445 is all-In.
+karmapilots folds.
+Creating Main Pot with $1750 with mischa445
+** Summary **
+Main Pot: 1750
+Board: [ Ad 2h 7d 9s 2s  ]
+
+rtaffin balance 1700, didn't bet (folded)
+mischa445 balance 2470, bet 1420, collected 2470, net +1050
+Cenkman balance 850, didn't bet (folded)
+nowyouseeme balance 1460, lost 50 (folded)
+karmapilots balance 9420, lost 700 (folded)
+hatoka balance 2120, lost 300 (folded)
+einMensch balance 1980, didn't bet (folded)
+
+***** Hand History for Game 5793087420 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425208)  - Wed Mar 21 18:16:11 EDT 2007
+Table Speed 1330964 (Real Money) -- Seat 6 is the button
+Total number of players : 7
+Seat 2: rtaffin (1700)
+Seat 3: mischa445 (2470)
+Seat 4: Cenkman (850)
+Seat 6: nowyouseeme (1460)
+Seat 7: karmapilots (9420)
+Seat 9: hatoka (2120)
+Seat 10: einMensch (1980)
+karmapilots  posts small blind (100)
+hatoka  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Ac, 7c ]
+einMensch folds.
+rtaffin raises (600) to 600
+mischa445 folds.
+Cenkman raises (850) to 850
+Cenkman is all-In.
+nowyouseeme folds.
+karmapilots folds.
+hatoka folds.
+rtaffin calls (250)
+** Dealing Flop ** :  [ 6h, Ts, Kh ]
+** Dealing Turn ** :  [ 8h ]
+** Dealing River ** :  [ 2d ]
+Creating Main Pot with $2000 with Cenkman
+** Summary **
+Main Pot: 2000
+Board: [ 6h Ts Kh 8h 2d  ]
+
+rtaffin balance 850, lost 850 [ Kd 9d ] [ a pair of Kings -- Kd,Kh,Ts,9d,8h ]
+mischa445 balance 2470, didn't bet (folded)
+Cenkman balance 2000, bet 850, collected 2000, net +1150 [ As Ks ] [ a pair of Kings with Ace kicker -- As,Ks,Kh,Ts,8hAs(kicker card) ]
+nowyouseeme balance 1460, didn't bet (folded)
+karmapilots balance 9320, lost 100 (folded)
+hatoka balance 1920, lost 200 (folded)
+einMensch balance 1980, didn't bet (folded)
+
+***** Hand History for Game 5793089468 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425208)  - Wed Mar 21 18:16:42 EDT 2007
+Table Speed 1330964 (Real Money) -- Seat 7 is the button
+Total number of players : 7
+Seat 2: rtaffin (850)
+Seat 3: mischa445 (2470)
+Seat 4: Cenkman (2000)
+Seat 6: nowyouseeme (1460)
+Seat 7: karmapilots (9320)
+Seat 9: hatoka (1920)
+Seat 10: einMensch (1980)
+hatoka  posts small blind (100)
+einMensch  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 3h, Qs ]
+rtaffin folds.
+mischa445 calls (200)
+Cenkman folds.
+nowyouseeme folds.
+karmapilots folds.
+hatoka folds.
+einMensch checks.
+** Dealing Flop ** :  [ Ts, Th, Jh ]
+einMensch bets (400)
+mischa445 calls (400)
+** Dealing Turn ** :  [ 3c ]
+einMensch checks.
+mischa445 bets (1870)
+mischa445 is all-In.
+einMensch folds.
+Creating Main Pot with $1300 with mischa445
+** Summary **
+Main Pot: 1300
+Board: [ Ts Th Jh 3c  ]
+
+rtaffin balance 850, didn't bet (folded)
+mischa445 balance 3170, bet 2470, collected 3170, net +700
+Cenkman balance 2000, didn't bet (folded)
+nowyouseeme balance 1460, didn't bet (folded)
+karmapilots balance 9320, didn't bet (folded)
+hatoka balance 1820, lost 100 (folded)
+einMensch balance 1380, lost 600 (folded)
+
+***** Hand History for Game 5793091126 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425208)  - Wed Mar 21 18:17:07 EDT 2007
+Table Speed 1330964 (Real Money) -- Seat 9 is the button
+Total number of players : 7
+Seat 2: rtaffin (850)
+Seat 3: mischa445 (3170)
+Seat 4: Cenkman (2000)
+Seat 6: nowyouseeme (1460)
+Seat 7: karmapilots (9320)
+Seat 9: hatoka (1820)
+Seat 10: einMensch (1380)
+einMensch  posts small blind (100)
+rtaffin  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 3s, 6s ]
+mischa445 folds.
+Cenkman folds.
+nowyouseeme folds.
+karmapilots folds.
+hatoka folds.
+einMensch folds.
+** Summary **
+Main Pot: 200
+
+rtaffin balance 950, bet 200, collected 300, net +100
+mischa445 balance 3170, didn't bet (folded)
+Cenkman balance 2000, didn't bet (folded)
+nowyouseeme balance 1460, didn't bet (folded)
+karmapilots balance 9320, didn't bet (folded)
+hatoka balance 1820, didn't bet (folded)
+einMensch balance 1280, lost 100 (folded)
+
+***** Hand History for Game 5793092296 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425208)  - Wed Mar 21 18:17:26 EDT 2007
+Table Speed 1330964 (Real Money) -- Seat 10 is the button
+Total number of players : 7
+Seat 2: rtaffin (950)
+Seat 3: mischa445 (3170)
+Seat 4: Cenkman (2000)
+Seat 6: nowyouseeme (1460)
+Seat 7: karmapilots (9320)
+Seat 9: hatoka (1820)
+Seat 10: einMensch (1280)
+rtaffin  posts small blind (100)
+mischa445  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 3d, 7s ]
+Cenkman folds.
+nowyouseeme folds.
+karmapilots folds.
+hatoka folds.
+einMensch raises (600) to 600
+rtaffin folds.
+mischa445 folds.
+** Summary **
+Main Pot: 500
+
+rtaffin balance 850, lost 100 (folded)
+mischa445 balance 2970, lost 200 (folded)
+Cenkman balance 2000, didn't bet (folded)
+nowyouseeme balance 1460, didn't bet (folded)
+karmapilots balance 9320, didn't bet (folded)
+hatoka balance 1820, didn't bet (folded)
+einMensch balance 1580, bet 600, collected 900, net +300
+
+***** Hand History for Game 5793093670 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425208)  - Wed Mar 21 18:17:47 EDT 2007
+Table Speed 1330964 (Real Money) -- Seat 2 is the button
+Total number of players : 7
+Seat 2: rtaffin (850)
+Seat 3: mischa445 (2970)
+Seat 4: Cenkman (2000)
+Seat 6: nowyouseeme (1460)
+Seat 7: karmapilots (9320)
+Seat 9: hatoka (1820)
+Seat 10: einMensch (1580)
+mischa445  posts small blind (100)
+Cenkman  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Ks, Ad ]
+nowyouseeme folds.
+karmapilots folds.
+hatoka raises (400) to 400
+einMensch folds.
+rtaffin folds.
+mischa445 folds.
+Cenkman raises (1800) to 2000
+Cenkman is all-In.
+hatoka calls (1420)
+hatoka is all-In.
+** Dealing Flop ** :  [ 3s, Td, 5c ]
+** Dealing Turn ** :  [ As ]
+** Dealing River ** :  [ 2h ]
+Creating Main Pot with $3740 with hatoka
+** Summary **
+Main Pot: 3740
+Board: [ 3s Td 5c As 2h  ]
+
+rtaffin balance 850, didn't bet (folded)
+mischa445 balance 2870, lost 100 (folded)
+Cenkman balance 3920, bet 2000, collected 3920, net +1920 [ 4s 4c ] [ a straight Ace to Five -- As,5c,4s,3s,2h ]
+nowyouseeme balance 1460, didn't bet (folded)
+karmapilots balance 9320, didn't bet (folded)
+hatoka balance 0, lost 1820 [ Ks Ad ] [ a pair of Aces -- Ad,As,Ks,Td,5c ]
+einMensch balance 1580, didn't bet (folded)
+
+***** Hand History for Game 5793095618 *****
+hatoka finished in 7 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425208)  - Wed Mar 21 18:18:17 EDT 2007
+Table Speed 1330964 (Real Money) -- Seat 3 is the button
+Total number of players : 6
+Seat 2: rtaffin (850)
+Seat 3: mischa445 (2870)
+Seat 4: Cenkman (3920)
+Seat 6: nowyouseeme (1460)
+Seat 7: karmapilots (9320)
+Seat 10: einMensch (1580)
+Cenkman  posts small blind (100)
+nowyouseeme  posts big blind (200)
+** Dealing down cards **
+karmapilots folds.
+einMensch folds.
+rtaffin folds.
+mischa445 folds.
+Cenkman raises (1700) to 1800
+nowyouseeme folds.
+** Summary **
+Main Pot: 400
+
+rtaffin balance 850, didn't bet (folded)
+mischa445 balance 2870, didn't bet (folded)
+Cenkman balance 4120, bet 1800, collected 2000, net +200
+nowyouseeme balance 1260, lost 200 (folded)
+karmapilots balance 9320, didn't bet (folded)
+einMensch balance 1580, didn't bet (folded)
+
+***** Hand History for Game 5793098180 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425208)  - Wed Mar 21 18:18:57 EDT 2007
+Table Speed 1330964 (Real Money) -- Seat 4 is the button
+Total number of players : 6
+Seat 2: rtaffin (850)
+Seat 3: mischa445 (2870)
+Seat 4: Cenkman (4120)
+Seat 6: nowyouseeme (1260)
+Seat 7: karmapilots (9320)
+Seat 10: einMensch (1580)
+nowyouseeme  posts small blind (100)
+karmapilots  posts big blind (200)
+** Dealing down cards **
+einMensch raises (400) to 400
+rtaffin folds.
+mischa445 calls (400)
+Cenkman folds.
+nowyouseeme folds.
+karmapilots folds.
+** Dealing Flop ** :  [ 7s, 3c, Td ]
+einMensch bets (600)
+mischa445 raises (1200) to 1200
+einMensch calls (580)
+einMensch is all-In.
+** Dealing Turn ** :  [ Js ]
+** Dealing River ** :  [ 7d ]
+Creating Main Pot with $3460 with einMensch
+** Summary **
+Main Pot: 3460
+Board: [ 7s 3c Td Js 7d  ]
+
+rtaffin balance 850, didn't bet (folded)
+mischa445 balance 4750, bet 1600, collected 3480, net +1880 [ 3s 3h ] [ a full house, Threes full of Sevens -- 7s,7d,3s,3h,3c ]
+Cenkman balance 4120, didn't bet (folded)
+nowyouseeme balance 1160, lost 100 (folded)
+karmapilots balance 9120, lost 200 (folded)
+einMensch balance 0, lost 1580 [ Ks Qc ] [ a pair of Sevens -- Ks,Qc,Js,7s,7d ]
+
+***** Hand History for Game 5793100551 *****
+einMensch finished in 6 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425208)  - Wed Mar 21 18:19:34 EDT 2007
+Table Speed 1330964 (Real Money) -- Seat 6 is the button
+Total number of players : 5
+Seat 2: rtaffin (850)
+Seat 3: mischa445 (4750)
+Seat 4: Cenkman (4120)
+Seat 6: nowyouseeme (1160)
+Seat 7: karmapilots (9120)
+karmapilots  posts small blind (100)
+rtaffin  posts big blind (200)
+** Dealing down cards **
+mischa445 folds.
+Cenkman folds.
+nowyouseeme folds.
+karmapilots folds.
+** Summary **
+Main Pot: 200
+
+rtaffin balance 950, bet 200, collected 300, net +100
+mischa445 balance 4750, didn't bet (folded)
+Cenkman balance 4120, didn't bet (folded)
+nowyouseeme balance 1160, didn't bet (folded)
+karmapilots balance 9020, lost 100 (folded)
+
+***** Hand History for Game 5793102023 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425208)  - Wed Mar 21 18:19:58 EDT 2007
+Table Speed 1330964 (Real Money) -- Seat 7 is the button
+Total number of players : 5
+Seat 2: rtaffin (950)
+Seat 3: mischa445 (4750)
+Seat 4: Cenkman (4120)
+Seat 6: nowyouseeme (1160)
+Seat 7: karmapilots (9020)
+rtaffin  posts small blind (100)
+mischa445  posts big blind (200)
+** Dealing down cards **
+Cenkman raises (600) to 600
+nowyouseeme: hey mischa
+nowyouseeme: i won that last one
+nowyouseeme: wooooooo
+nowyouseeme raises (1160) to 1160
+nowyouseeme is all-In.
+karmapilots folds.
+rtaffin folds.
+mischa445 folds.
+Cenkman calls (560)
+** Dealing Flop ** :  [ Ad, 8s, 5c ]
+** Dealing Turn ** :  [ 5s ]
+** Dealing River ** :  [ Ks ]
+Creating Main Pot with $2620 with nowyouseeme
+** Summary **
+Main Pot: 2620
+Board: [ Ad 8s 5c 5s Ks  ]
+
+rtaffin balance 850, lost 100 (folded)
+mischa445 balance 4550, lost 200 (folded)
+Cenkman balance 2960, lost 1160 [ Qc Ac ] [ two pairs, Aces and Fives -- Ac,Ad,Ks,5c,5s ]
+nowyouseeme balance 2620, bet 1160, collected 2620, net +1460 [ Kh As ] [ two pairs, Aces and Kings -- As,Ad,Kh,Ks,8s ]
+karmapilots balance 9020, didn't bet (folded)
+
+***** Hand History for Game 5793104431 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425208)  - Wed Mar 21 18:20:36 EDT 2007
+Table Speed 1330964 (Real Money) -- Seat 2 is the button
+Total number of players : 5
+Seat 2: rtaffin (850)
+Seat 3: mischa445 (4550)
+Seat 4: Cenkman (2960)
+Seat 6: nowyouseeme (2620)
+Seat 7: karmapilots (9020)
+mischa445  posts small blind (100)
+Cenkman  posts big blind (200)
+** Dealing down cards **
+nowyouseeme folds.
+karmapilots folds.
+rtaffin folds.
+mischa445: rrrrrrr
+mischa445 folds.
+** Summary **
+Main Pot: 200
+
+rtaffin balance 850, didn't bet (folded)
+mischa445 balance 4450, lost 100 (folded)
+Cenkman balance 3060, bet 200, collected 300, net +100
+nowyouseeme balance 2620, didn't bet (folded)
+karmapilots balance 9020, didn't bet (folded)
+
+***** Hand History for Game 5793105738 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425208)  - Wed Mar 21 18:20:57 EDT 2007
+Table Speed 1330964 (Real Money) -- Seat 3 is the button
+Total number of players : 5
+Seat 2: rtaffin (850)
+Seat 3: mischa445 (4450)
+Seat 4: Cenkman (3060)
+Seat 6: nowyouseeme (2620)
+Seat 7: karmapilots (9020)
+Cenkman  posts small blind (100)
+nowyouseeme  posts big blind (200)
+** Dealing down cards **
+karmapilots folds.
+rtaffin folds.
+mischa445 folds.
+Cenkman raises (2960) to 3060
+Cenkman is all-In.
+nowyouseeme folds.
+Creating Main Pot with $400 with Cenkman
+** Summary **
+Main Pot: 400
+
+rtaffin balance 850, didn't bet (folded)
+mischa445 balance 4450, didn't bet (folded)
+Cenkman balance 3260, bet 3060, collected 3260, net +200
+nowyouseeme balance 2420, lost 200 (folded)
+karmapilots balance 9020, didn't bet (folded)
+
+***** Hand History for Game 5793107600 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425208)  - Wed Mar 21 18:21:26 EDT 2007
+Table Speed 1330964 (Real Money) -- Seat 4 is the button
+Total number of players : 5
+Seat 2: rtaffin (850)
+Seat 3: mischa445 (4450)
+Seat 4: Cenkman (3260)
+Seat 6: nowyouseeme (2420)
+Seat 7: karmapilots (9020)
+nowyouseeme  posts small blind (200)
+karmapilots  posts big blind (400)
+** Dealing down cards **
+rtaffin raises (850) to 850
+rtaffin is all-In.
+mischa445 folds.
+Cenkman folds.
+nowyouseeme folds.
+karmapilots calls (450)
+** Dealing Flop ** :  [ Td, 8s, 7d ]
+** Dealing Turn ** :  [ 6d ]
+** Dealing River ** :  [ Jc ]
+Creating Main Pot with $1900 with rtaffin
+** Summary **
+Main Pot: 1900
+Board: [ Td 8s 7d 6d Jc  ]
+
+rtaffin balance 0, lost 850 [ Qc Kh ] [ high card King -- Kh,Qc,Jc,Td,8s ]
+mischa445 balance 4450, didn't bet (folded)
+Cenkman balance 3260, didn't bet (folded)
+nowyouseeme balance 2220, lost 200 (folded)
+karmapilots balance 10070, bet 850, collected 1900, net +1050 [ Th 5d ] [ a pair of Tens -- Jc,Th,Td,8s,7d ]
+
+***** Hand History for Game 5793109081 *****
+rtaffin finished in 5 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425208)  - Wed Mar 21 18:21:49 EDT 2007
+Table Speed 1330964 (Real Money) -- Seat 6 is the button
+Total number of players : 4
+Seat 3: mischa445 (4450)
+Seat 4: Cenkman (3260)
+Seat 6: nowyouseeme (2220)
+Seat 7: karmapilots (10070)
+karmapilots  posts small blind (200)
+mischa445  posts big blind (400)
+** Dealing down cards **
+Cenkman raises (3260) to 3260
+Cenkman is all-In.
+nowyouseeme folds.
+karmapilots folds.
+mischa445 folds.
+Creating Main Pot with $1000 with Cenkman
+** Summary **
+Main Pot: 1000
+
+mischa445 balance 4050, lost 400 (folded)
+Cenkman balance 3860, bet 3260, collected 3860, net +600
+nowyouseeme balance 2220, didn't bet (folded)
+karmapilots balance 9870, lost 200 (folded)
+
+***** Hand History for Game 5793110432 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425208)  - Wed Mar 21 18:22:11 EDT 2007
+Table Speed 1330964 (Real Money) -- Seat 7 is the button
+Total number of players : 4
+Seat 3: mischa445 (4050)
+Seat 4: Cenkman (3860)
+Seat 6: nowyouseeme (2220)
+Seat 7: karmapilots (9870)
+mischa445  posts small blind (200)
+Cenkman  posts big blind (400)
+** Dealing down cards **
+nowyouseeme folds.
+karmapilots folds.
+mischa445 calls (200)
+Cenkman raises (3460) to 3860
+Cenkman is all-In.
+mischa445 folds.
+Creating Main Pot with $800 with Cenkman
+** Summary **
+Main Pot: 800
+
+mischa445 balance 3650, lost 400 (folded)
+Cenkman balance 4260, bet 3860, collected 4260, net +400
+nowyouseeme balance 2220, didn't bet (folded)
+karmapilots balance 9870, didn't bet (folded)
+
+***** Hand History for Game 5793111903 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425208)  - Wed Mar 21 18:22:34 EDT 2007
+Table Speed 1330964 (Real Money) -- Seat 3 is the button
+Total number of players : 4
+Seat 3: mischa445 (3650)
+Seat 4: Cenkman (4260)
+Seat 6: nowyouseeme (2220)
+Seat 7: karmapilots (9870)
+Cenkman  posts small blind (200)
+nowyouseeme  posts big blind (400)
+** Dealing down cards **
+karmapilots folds.
+mischa445 calls (400)
+Cenkman folds.
+nowyouseeme checks.
+** Dealing Flop ** :  [ Ts, 5c, 4s ]
+nowyouseeme checks.
+mischa445 checks.
+** Dealing Turn ** :  [ 9s ]
+nowyouseeme bets (400)
+mischa445 calls (400)
+** Dealing River ** :  [ 7d ]
+nowyouseeme checks.
+mischa445 checks.
+** Summary **
+Main Pot: 1800
+Board: [ Ts 5c 4s 9s 7d  ]
+
+
+mischa445 balance 2850, lost 800 [Didn't Show]
+Cenkman balance 4060, lost 200 (folded)
+nowyouseeme balance 3220, bet 800, collected 1800, net +1000 [ 9c 2h ] [ a pair of Nines -- Ts,9c,9s,7d,5c ]
+karmapilots balance 9870, didn't bet (folded)
+
+***** Hand History for Game 5793114369 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425208)  - Wed Mar 21 18:23:12 EDT 2007
+Table Speed 1330964 (Real Money) -- Seat 4 is the button
+Total number of players : 4
+Seat 3: mischa445 (2850)
+Seat 4: Cenkman (4060)
+Seat 6: nowyouseeme (3220)
+Seat 7: karmapilots (9870)
+nowyouseeme  posts small blind (200)
+karmapilots  posts big blind (400)
+** Dealing down cards **
+mischa445 raises (2850) to 2850
+mischa445 is all-In.
+Cenkman calls (2850)
+nowyouseeme folds.
+karmapilots folds.
+** Dealing Flop ** :  [ 8c, As, 4d ]
+** Dealing Turn ** :  [ 3h ]
+** Dealing River ** :  [ 8h ]
+Creating Main Pot with $6300 with mischa445
+** Summary **
+Main Pot: 6300
+Board: [ 8c As 4d 3h 8h  ]
+
+mischa445 balance 0, lost 2850 [ Ah Jc ] [ two pairs, Aces and Eights -- Ah,As,Jc,8c,8h ]
+Cenkman balance 7510, bet 2850, collected 6300, net +3450 [ 4c 4s ] [ a full house, Fours full of Eights -- 8c,8h,4c,4s,4d ]
+nowyouseeme balance 3020, lost 200 (folded)
+karmapilots balance 9470, lost 400 (folded)
+
+***** Hand History for Game 5793116368 *****
+mischa445 finished in 4 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425208)  - Wed Mar 21 18:23:43 EDT 2007
+Table Speed 1330964 (Real Money) -- Seat 6 is the button
+Total number of players : 3
+Seat 4: Cenkman (7510)
+Seat 6: nowyouseeme (3020)
+Seat 7: karmapilots (9470)
+karmapilots  posts small blind (200)
+Cenkman  posts big blind (400)
+** Dealing down cards **
+nowyouseeme folds.
+karmapilots calls (200)
+Cenkman checks.
+** Dealing Flop ** :  [ 8h, 6s, Th ]
+karmapilots checks.
+Cenkman checks.
+** Dealing Turn ** :  [ 3h ]
+karmapilots bets (1200)
+Cenkman calls (1200)
+** Dealing River ** :  [ Tc ]
+karmapilots bets (800)
+Cenkman folds.
+** Summary **
+Main Pot: 3200
+Board: [ 8h 6s Th 3h Tc  ]
+
+Cenkman balance 5910, lost 1600 (folded)
+nowyouseeme balance 3020, didn't bet (folded)
+karmapilots balance 11070, bet 2400, collected 4000, net +1600
+
+***** Hand History for Game 5793118531 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425208)  - Wed Mar 21 18:24:17 EDT 2007
+Table Speed 1330964 (Real Money) -- Seat 7 is the button
+Total number of players : 3
+Seat 4: Cenkman (5910)
+Seat 6: nowyouseeme (3020)
+Seat 7: karmapilots (11070)
+Cenkman  posts small blind (200)
+nowyouseeme  posts big blind (400)
+** Dealing down cards **
+karmapilots folds.
+Cenkman raises (3000) to 3200
+nowyouseeme folds.
+** Summary **
+Main Pot: 800
+
+Cenkman balance 6310, bet 3200, collected 3600, net +400
+nowyouseeme balance 2620, lost 400 (folded)
+karmapilots balance 11070, didn't bet (folded)
+
+***** Hand History for Game 5793119614 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425208)  - Wed Mar 21 18:24:34 EDT 2007
+Table Speed 1330964 (Real Money) -- Seat 4 is the button
+Total number of players : 3
+Seat 4: Cenkman (6310)
+Seat 6: nowyouseeme (2620)
+Seat 7: karmapilots (11070)
+nowyouseeme  posts small blind (200)
+karmapilots  posts big blind (400)
+** Dealing down cards **
+Cenkman raises (6310) to 6310
+Cenkman is all-In.
+nowyouseeme calls (2420)
+nowyouseeme is all-In.
+karmapilots folds.
+** Dealing Flop ** :  [ 6s, Ts, 9h ]
+** Dealing Turn ** :  [ 9c ]
+** Dealing River ** :  [ Th ]
+Creating Main Pot with $5640 with nowyouseeme
+** Summary **
+Main Pot: 5640
+Board: [ 6s Ts 9h 9c Th  ]
+
+Cenkman balance 9330, bet 6310, collected 9330, net +3020 [ As Tc ] [ a full house, Tens full of Nines -- Tc,Ts,Th,9h,9c ]
+nowyouseeme balance 0, lost 2620 [ Qh Ah ] [ two pairs, Tens and Nines -- Ah,Ts,Th,9h,9c ]
+karmapilots balance 10670, lost 400 (folded)
+
+***** Hand History for Game 5793120556 *****
+nowyouseeme finished in 3 place and won $4.80.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425208)  - Wed Mar 21 18:24:48 EDT 2007
+Table Speed 1330964 (Real Money) -- Seat 7 is the button
+Total number of players : 2
+Seat 4: Cenkman (9330)
+Seat 7: karmapilots (10670)
+karmapilots  posts small blind (200)
+Cenkman  posts big blind (400)
+** Dealing down cards **
+karmapilots folds.
+** Summary **
+Main Pot: 400
+
+Cenkman balance 9530, bet 400, collected 600, net +200
+karmapilots balance 10470, lost 200 (folded)
+
+***** Hand History for Game 5793120990 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425208)  - Wed Mar 21 18:24:55 EDT 2007
+Table Speed 1330964 (Real Money) -- Seat 4 is the button
+Total number of players : 2
+Seat 4: Cenkman (9530)
+Seat 7: karmapilots (10470)
+Cenkman  posts small blind (200)
+karmapilots  posts big blind (400)
+** Dealing down cards **
+Cenkman folds.
+** Summary **
+Main Pot: 400
+
+Cenkman balance 9330, lost 200 (folded)
+karmapilots balance 10670, bet 400, collected 600, net +200
+
+***** Hand History for Game 5793121393 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425208)  - Wed Mar 21 18:25:02 EDT 2007
+Table Speed 1330964 (Real Money) -- Seat 7 is the button
+Total number of players : 2
+Seat 4: Cenkman (9330)
+Seat 7: karmapilots (10670)
+karmapilots  posts small blind (200)
+Cenkman  posts big blind (400)
+** Dealing down cards **
+karmapilots calls (200)
+Cenkman raises (8930) to 9330
+Cenkman is all-In.
+karmapilots calls (8930)
+** Dealing Flop ** :  [ 2h, 4d, 9c ]
+** Dealing Turn ** :  [ Ac ]
+** Dealing River ** :  [ Jh ]
+Creating Main Pot with $18660 with Cenkman
+** Summary **
+Main Pot: 18660
+Board: [ 2h 4d 9c Ac Jh  ]
+
+Cenkman balance 18660, bet 9330, collected 18660, net +9330 [ Ah 2d ] [ two pairs, Aces and Twos -- Ah,Ac,Jh,2d,2h ]
+karmapilots balance 1340, lost 9330 [ 5c Ad ] [ a pair of Aces -- Ad,Ac,Jh,9c,5c ]
+
+***** Hand History for Game 5793122768 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425208)  - Wed Mar 21 18:25:23 EDT 2007
+Table Speed 1330964 (Real Money) -- Seat 4 is the button
+Total number of players : 2
+Seat 4: Cenkman (18660)
+Seat 7: karmapilots (1340)
+Cenkman  posts small blind (200)
+karmapilots  posts big blind (400)
+** Dealing down cards **
+Cenkman raises (1800) to 2000
+karmapilots calls (940)
+karmapilots is all-In.
+** Dealing Flop ** :  [ Qs, 5d, Jh ]
+** Dealing Turn ** :  [ 2d ]
+** Dealing River ** :  [ Tc ]
+Creating Main Pot with $2680 with karmapilots
+** Summary **
+Main Pot: 2680
+Board: [ Qs 5d Jh 2d Tc  ]
+
+Cenkman balance 17320, bet 2000, collected 660, lost -1340 [ 6d 7s ] [ high card Queen -- Qs,Jh,Tc,7s,6d ]
+karmapilots balance 2680, bet 1340, collected 2680, net +1340 [ 5h Kh ] [ a pair of Fives -- Kh,Qs,Jh,5h,5d ]
+
+***** Hand History for Game 5793123698 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425208)  - Wed Mar 21 18:25:38 EDT 2007
+Table Speed 1330964 (Real Money) -- Seat 7 is the button
+Total number of players : 2
+Seat 4: Cenkman (17320)
+Seat 7: karmapilots (2680)
+karmapilots  posts small blind (200)
+Cenkman  posts big blind (400)
+** Dealing down cards **
+karmapilots calls (200)
+Cenkman checks.
+** Dealing Flop ** :  [ 8d, As, 3c ]
+Cenkman bets (400)
+karmapilots calls (400)
+** Dealing Turn ** :  [ Ks ]
+Cenkman checks.
+karmapilots bets (400)
+Cenkman calls (400)
+** Dealing River ** :  [ Ts ]
+Cenkman bets (2000)
+karmapilots calls (1480)
+karmapilots is all-In.
+Creating Main Pot with $5360 with karmapilots
+** Summary **
+Main Pot: 5360
+Board: [ 8d As 3c Ks Ts  ]
+
+Cenkman balance 14640, bet 3200, collected 520, lost -2680 [ 8c 4c ] [ a pair of Eights -- As,Ks,Ts,8c,8d ]
+karmapilots balance 5360, bet 2680, collected 5360, net +2680 [ Ah Qd ] [ a pair of Aces -- Ah,As,Ks,Qd,Ts ]
+
+***** Hand History for Game 5793125890 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425208)  - Wed Mar 21 18:26:12 EDT 2007
+Table Speed 1330964 (Real Money) -- Seat 4 is the button
+Total number of players : 2
+Seat 4: Cenkman (14640)
+Seat 7: karmapilots (5360)
+Cenkman  posts small blind (200)
+karmapilots  posts big blind (400)
+** Dealing down cards **
+Cenkman raises (14440) to 14640
+Cenkman is all-In.
+karmapilots folds.
+Creating Main Pot with $800 with Cenkman
+** Summary **
+Main Pot: 800
+
+Cenkman balance 15040, bet 14640, collected 15040, net +400
+karmapilots balance 4960, lost 400 (folded)
+
+***** Hand History for Game 5793126699 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425208)  - Wed Mar 21 18:26:25 EDT 2007
+Table Speed 1330964 (Real Money) -- Seat 7 is the button
+Total number of players : 2
+Seat 4: Cenkman (15040)
+Seat 7: karmapilots (4960)
+karmapilots  posts small blind (200)
+Cenkman  posts big blind (400)
+** Dealing down cards **
+karmapilots calls (200)
+Cenkman raises (14640) to 15040
+Cenkman is all-In.
+karmapilots folds.
+Creating Main Pot with $800 with Cenkman
+** Summary **
+Main Pot: 800
+
+Cenkman balance 15440, bet 15040, collected 15440, net +400
+karmapilots balance 4560, lost 400 (folded)
+
+***** Hand History for Game 5793127394 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425208)  - Wed Mar 21 18:26:36 EDT 2007
+Table Speed 1330964 (Real Money) -- Seat 4 is the button
+Total number of players : 2
+Seat 4: Cenkman (15440)
+Seat 7: karmapilots (4560)
+Cenkman  posts small blind (300)
+karmapilots  posts big blind (600)
+** Dealing down cards **
+Cenkman raises (15140) to 15440
+Cenkman is all-In.
+karmapilots calls (3960)
+karmapilots is all-In.
+** Dealing Flop ** :  [ Kh, 8s, 7h ]
+** Dealing Turn ** :  [ 5h ]
+** Dealing River ** :  [ 2d ]
+Creating Main Pot with $9120 with karmapilots
+** Summary **
+Main Pot: 9120
+Board: [ Kh 8s 7h 5h 2d  ]
+
+Cenkman balance 10880, bet 15440, collected 10880, lost -4560 [ Ad Jh ] [ high card Ace -- Ad,Kh,Jh,8s,7h ]
+karmapilots balance 9120, bet 4560, collected 9120, net +4560 [ 6d 6h ] [ a pair of Sixes -- Kh,8s,7h,6d,6h ]
+
+***** Hand History for Game 5793128251 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425208)  - Wed Mar 21 18:26:50 EDT 2007
+Table Speed 1330964 (Real Money) -- Seat 7 is the button
+Total number of players : 2
+Seat 4: Cenkman (10880)
+Seat 7: karmapilots (9120)
+karmapilots  posts small blind (300)
+Cenkman  posts big blind (600)
+** Dealing down cards **
+karmapilots: tx
+karmapilots folds.
+** Summary **
+Main Pot: 600
+
+Cenkman balance 11180, bet 600, collected 900, net +300
+karmapilots balance 8820, lost 300 (folded)
+
+***** Hand History for Game 5793128801 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425208)  - Wed Mar 21 18:26:58 EDT 2007
+Table Speed 1330964 (Real Money) -- Seat 4 is the button
+Total number of players : 2
+Seat 4: Cenkman (11180)
+Seat 7: karmapilots (8820)
+Cenkman  posts small blind (300)
+karmapilots  posts big blind (600)
+** Dealing down cards **
+Cenkman calls (300)
+karmapilots checks.
+** Dealing Flop ** :  [ 5s, 5d, 8h ]
+karmapilots checks.
+Cenkman checks.
+** Dealing Turn ** :  [ Jc ]
+karmapilots bets (600)
+Cenkman folds.
+** Summary **
+Main Pot: 1200
+Board: [ 5s 5d 8h Jc  ]
+
+Cenkman balance 10580, lost 600 (folded)
+karmapilots balance 9420, bet 1200, collected 1800, net +600
+
+***** Hand History for Game 5793130226 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425208)  - Wed Mar 21 18:27:20 EDT 2007
+Table Speed 1330964 (Real Money) -- Seat 7 is the button
+Total number of players : 2
+Seat 4: Cenkman (10580)
+Seat 7: karmapilots (9420)
+karmapilots  posts small blind (300)
+Cenkman  posts big blind (600)
+** Dealing down cards **
+karmapilots folds.
+** Summary **
+Main Pot: 600
+
+Cenkman balance 10880, bet 600, collected 900, net +300
+karmapilots balance 9120, lost 300 (folded)
+
+***** Hand History for Game 5793130614 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425208)  - Wed Mar 21 18:27:26 EDT 2007
+Table Speed 1330964 (Real Money) -- Seat 4 is the button
+Total number of players : 2
+Seat 4: Cenkman (10880)
+Seat 7: karmapilots (9120)
+Cenkman  posts small blind (300)
+karmapilots  posts big blind (600)
+** Dealing down cards **
+Cenkman raises (3900) to 4200
+karmapilots folds.
+** Summary **
+Main Pot: 1200
+
+Cenkman balance 11480, bet 4200, collected 4800, net +600
+karmapilots balance 8520, lost 600 (folded)
+
+***** Hand History for Game 5793131638 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425208)  - Wed Mar 21 18:27:42 EDT 2007
+Table Speed 1330964 (Real Money) -- Seat 7 is the button
+Total number of players : 2
+Seat 4: Cenkman (11480)
+Seat 7: karmapilots (8520)
+karmapilots  posts small blind (300)
+Cenkman  posts big blind (600)
+** Dealing down cards **
+karmapilots calls (300)
+Cenkman raises (1800) to 2400
+karmapilots raises (7920) to 8520
+karmapilots is all-In.
+Cenkman calls (6120)
+** Dealing Flop ** :  [ 9h, Ad, Qs ]
+** Dealing Turn ** :  [ 8s ]
+** Dealing River ** :  [ 5c ]
+Creating Main Pot with $17040 with karmapilots
+** Summary **
+Main Pot: 17040
+Board: [ 9h Ad Qs 8s 5c  ]
+
+Cenkman balance 2960, lost 8520 [ Ks 3s ] [ high card Ace -- Ad,Ks,Qs,9h,8s ]
+karmapilots balance 17040, bet 8520, collected 17040, net +8520 [ Jh Qc ] [ a pair of Queens -- Ad,Qc,Qs,Jh,9h ]
+
+***** Hand History for Game 5793132842 *****
+karmapilots: tx
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425208)  - Wed Mar 21 18:28:02 EDT 2007
+Table Speed 1330964 (Real Money) -- Seat 4 is the button
+Total number of players : 2
+Seat 4: Cenkman (2960)
+Seat 7: karmapilots (17040)
+Cenkman  posts small blind (300)
+karmapilots  posts big blind (600)
+** Dealing down cards **
+Cenkman raises (2660) to 2960
+Cenkman is all-In.
+karmapilots folds.
+Creating Main Pot with $1200 with Cenkman
+** Summary **
+Main Pot: 1200
+
+Cenkman balance 3560, bet 2960, collected 3560, net +600
+karmapilots balance 16440, lost 600 (folded)
+
+***** Hand History for Game 5793133367 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425208)  - Wed Mar 21 18:28:10 EDT 2007
+Table Speed 1330964 (Real Money) -- Seat 7 is the button
+Total number of players : 2
+Seat 4: Cenkman (3560)
+Seat 7: karmapilots (16440)
+karmapilots  posts small blind (300)
+Cenkman  posts big blind (600)
+** Dealing down cards **
+karmapilots folds.
+** Summary **
+Main Pot: 600
+
+Cenkman balance 3860, bet 600, collected 900, net +300
+karmapilots balance 16140, lost 300 (folded)
+
+***** Hand History for Game 5793133838 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 32425208)  - Wed Mar 21 18:28:17 EDT 2007
+Table Speed 1330964 (Real Money) -- Seat 4 is the button
+Total number of players : 2
+Seat 4: Cenkman (3860)
+Seat 7: karmapilots (16140)
+Cenkman  posts small blind (300)
+karmapilots  posts big blind (600)
+** Dealing down cards **
+Cenkman raises (3560) to 3860
+Cenkman is all-In.
+karmapilots calls (3260)
+** Dealing Flop ** :  [ 7s, 9d, Kc ]
+** Dealing Turn ** :  [ 8s ]
+** Dealing River ** :  [ Jd ]
+Creating Main Pot with $7720 with Cenkman
+** Summary **
+Main Pot: 7720
+Board: [ 7s 9d Kc 8s Jd  ]
+
+Cenkman balance 0, lost 3860 [ Js 2c ] [ a pair of Jacks -- Kc,Js,Jd,9d,8s ]
+karmapilots balance 20000, bet 3860, collected 7720, net +3860 [ Kd 6s ] [ a pair of Kings -- Kd,Kc,Jd,9d,8s ]
+
+
+

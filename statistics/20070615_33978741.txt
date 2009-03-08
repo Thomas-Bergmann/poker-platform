@@ -1,0 +1,2270 @@
+
+Hello hatoka,
+These hand histories are provided to you as an aid for your training and development. You are not permitted to share them with anyone.  We reserve the right to cease providing them or apply further restrictions at any time.
+Complete hand histories are only available to players that participated in the hand.
+You requested a transcript of Tournament #33978741.
+
+Summary
+----------
+Played on    : 15 June 2007 05:36 PM
+On Table     : Speed #1329946
+Game Type    : Texas Holdem
+Buy-In       : $5
+Fee          : $1
+You finished in  position 2
+1st place - phoek111 -  $25
+2nd place - hatoka -  $15
+3rd place - BigCmos -  $10
+
+***** Hand History for Game 6065706405 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33978741)  - Fri Jun 15 17:36:32 EDT 2007
+Table Speed 1329946 (Real Money) -- Seat 5 is the button
+Total number of players : 10
+Seat 1: BigCmos (2000)
+Seat 2: BMSlove (2000)
+Seat 3: darkstone777 (2000)
+Seat 4: phoek111 (2000)
+Seat 5: hatoka (2000)
+Seat 6: potted_weed (2000)
+Seat 7: Riponwhites (2000)
+Seat 8: MICKE977 (2000)
+Seat 9: donaldd13 (2000)
+Seat 10: better53 (2000)
+potted_weed  posts small blind (20)
+Riponwhites  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 4c, Ks ]
+MICKE977 calls (40)
+donaldd13 folds.
+better53 folds.
+BigCmos folds.
+BMSlove calls (40)
+darkstone777 calls (40)
+phoek111 raises (120) to 120
+hatoka folds.
+potted_weed folds.
+Riponwhites calls (80)
+MICKE977 folds.
+BMSlove folds.
+darkstone777 calls (80)
+** Dealing Flop ** :  [ Td, Kc, Ts ]
+Riponwhites checks.
+darkstone777 bets (120)
+phoek111 raises (400) to 400
+Riponwhites folds.
+darkstone777 calls (280)
+** Dealing Turn ** :  [ 9s ]
+darkstone777 checks.
+phoek111 bets (1200)
+darkstone777 calls (1200)
+** Dealing River ** :  [ 8d ]
+darkstone777 checks.
+phoek111 bets (280)
+phoek111 is all-In.
+darkstone777 calls (280)
+darkstone777 is all-In.
+Creating Main Pot with $4220 with darkstone777,phoek111
+** Summary **
+Main Pot: 4220
+Board: [ Td Kc Ts 9s 8d  ]
+
+BigCmos balance 2000, didn't bet (folded)
+BMSlove balance 1960, lost 40 (folded)
+darkstone777 balance 0, lost 2000 [ Kh 2h ] [ two pairs, Kings and Tens -- Kh,Kc,Td,Ts,9s ]
+phoek111 balance 4220, bet 2000, collected 4220, net +2220 [ Ac Th ] [ three of a kind, Tens -- Ac,Kc,Th,Td,Ts ]
+hatoka balance 2000, didn't bet (folded)
+potted_weed balance 1980, lost 20 (folded)
+Riponwhites balance 1880, lost 120 (folded)
+MICKE977 balance 1960, lost 40 (folded)
+donaldd13 balance 2000, didn't bet (folded)
+better53 balance 2000, didn't bet (folded)
+
+***** Hand History for Game 6065711136 *****
+darkstone777 finished in 10 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33978741)  - Fri Jun 15 17:38:05 EDT 2007
+Table Speed 1329946 (Real Money) -- Seat 6 is the button
+Total number of players : 9
+Seat 1: BigCmos (2000)
+Seat 2: BMSlove (1960)
+Seat 4: phoek111 (4220)
+Seat 5: hatoka (2000)
+Seat 6: potted_weed (1980)
+Seat 7: Riponwhites (1880)
+Seat 8: MICKE977 (1960)
+Seat 9: donaldd13 (2000)
+Seat 10: better53 (2000)
+Riponwhites  posts small blind (20)
+MICKE977  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ Tc, Ah ]
+donaldd13 folds.
+better53 raises (160) to 160
+BigCmos folds.
+BMSlove folds.
+phoek111 calls (160)
+hatoka calls (160)
+potted_weed folds.
+Riponwhites calls (140)
+MICKE977 folds.
+** Dealing Flop ** :  [ Ts, Qs, Qc ]
+Riponwhites checks.
+better53 checks.
+phoek111 checks.
+hatoka bets (1200)
+Riponwhites calls (1200)
+better53 folds.
+phoek111 folds.
+** Dealing Turn ** :  [ 3d ]
+Riponwhites bets (520)
+Riponwhites is all-In.
+hatoka calls (520)
+** Dealing River ** :  [ 6h ]
+Creating Main Pot with $4120 with Riponwhites
+** Summary **
+Main Pot: 4120
+Board: [ Ts Qs Qc 3d 6h  ]
+
+BigCmos balance 2000, didn't bet (folded)
+BMSlove balance 1960, didn't bet (folded)
+phoek111 balance 4060, lost 160 (folded)
+hatoka balance 4240, bet 1880, collected 4120, net +2240 [ Tc Ah ] [ two pairs, Queens and Tens -- Ah,Qs,Qc,Tc,Ts ]
+potted_weed balance 1980, didn't bet (folded)
+Riponwhites balance 0, lost 1880 [ Kd Jc ] [ a pair of Queens -- Kd,Qs,Qc,Jc,Ts ]
+MICKE977 balance 1920, lost 40 (folded)
+donaldd13 balance 2000, didn't bet (folded)
+better53 balance 1840, lost 160 (folded)
+
+***** Hand History for Game 6065714600 *****
+Riponwhites finished in 9 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33978741)  - Fri Jun 15 17:39:11 EDT 2007
+Table Speed 1329946 (Real Money) -- Seat 6 is the button
+Total number of players : 8
+Seat 1: BigCmos (2000)
+Seat 2: BMSlove (1960)
+Seat 4: phoek111 (4060)
+Seat 5: hatoka (4240)
+Seat 6: potted_weed (1980)
+Seat 8: MICKE977 (1920)
+Seat 9: donaldd13 (2000)
+Seat 10: better53 (1840)
+MICKE977  posts small blind (20)
+donaldd13  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 2d, 7h ]
+better53 folds.
+BigCmos folds.
+BMSlove folds.
+phoek111 raises (140) to 140
+hatoka folds.
+potted_weed folds.
+MICKE977 folds.
+donaldd13 folds.
+** Summary **
+Main Pot: 100
+
+BigCmos balance 2000, didn't bet (folded)
+BMSlove balance 1960, didn't bet (folded)
+phoek111 balance 4120, bet 140, collected 200, net +60
+hatoka balance 4240, didn't bet (folded)
+potted_weed balance 1980, didn't bet (folded)
+MICKE977 balance 1900, lost 20 (folded)
+donaldd13 balance 1960, lost 40 (folded)
+better53 balance 1840, didn't bet (folded)
+
+***** Hand History for Game 6065715504 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33978741)  - Fri Jun 15 17:39:28 EDT 2007
+Table Speed 1329946 (Real Money) -- Seat 8 is the button
+Total number of players : 8
+Seat 1: BigCmos (2000)
+Seat 2: BMSlove (1960)
+Seat 4: phoek111 (4120)
+Seat 5: hatoka (4240)
+Seat 6: potted_weed (1980)
+Seat 8: MICKE977 (1900)
+Seat 9: donaldd13 (1960)
+Seat 10: better53 (1840)
+donaldd13  posts small blind (20)
+better53  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 9c, 4s ]
+BigCmos folds.
+BMSlove folds.
+phoek111 raises (200) to 200
+hatoka folds.
+potted_weed folds.
+MICKE977 folds.
+donaldd13 folds.
+better53 folds.
+** Summary **
+Main Pot: 100
+
+BigCmos balance 2000, didn't bet (folded)
+BMSlove balance 1960, didn't bet (folded)
+phoek111 balance 4180, bet 200, collected 260, net +60
+hatoka balance 4240, didn't bet (folded)
+potted_weed balance 1980, didn't bet (folded)
+MICKE977 balance 1900, didn't bet (folded)
+donaldd13 balance 1940, lost 20 (folded)
+better53 balance 1800, lost 40 (folded)
+
+***** Hand History for Game 6065717010 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33978741)  - Fri Jun 15 17:39:56 EDT 2007
+Table Speed 1329946 (Real Money) -- Seat 9 is the button
+Total number of players : 8
+Seat 1: BigCmos (2000)
+Seat 2: BMSlove (1960)
+Seat 4: phoek111 (4180)
+Seat 5: hatoka (4240)
+Seat 6: potted_weed (1980)
+Seat 8: MICKE977 (1900)
+Seat 9: donaldd13 (1940)
+Seat 10: better53 (1800)
+better53  posts small blind (20)
+BigCmos  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 9c, 9h ]
+BMSlove folds.
+phoek111 raises (160) to 160
+hatoka raises (320) to 320
+potted_weed folds.
+MICKE977 folds.
+donaldd13 folds.
+better53 folds.
+BigCmos folds.
+phoek111 calls (160)
+** Dealing Flop ** :  [ Ad, 8s, 5s ]
+phoek111 checks.
+hatoka bets (500)
+phoek111 folds.
+** Summary **
+Main Pot: 700
+Board: [ Ad 8s 5s  ]
+
+BigCmos balance 1960, lost 40 (folded)
+BMSlove balance 1960, didn't bet (folded)
+phoek111 balance 3860, lost 320 (folded)
+hatoka balance 4620, bet 820, collected 1200, net +380
+potted_weed balance 1980, didn't bet (folded)
+MICKE977 balance 1900, didn't bet (folded)
+donaldd13 balance 1940, didn't bet (folded)
+better53 balance 1780, lost 20 (folded)
+
+***** Hand History for Game 6065719598 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33978741)  - Fri Jun 15 17:40:45 EDT 2007
+Table Speed 1329946 (Real Money) -- Seat 10 is the button
+Total number of players : 8
+Seat 1: BigCmos (1960)
+Seat 2: BMSlove (1960)
+Seat 4: phoek111 (3860)
+Seat 5: hatoka (4620)
+Seat 6: potted_weed (1980)
+Seat 8: MICKE977 (1900)
+Seat 9: donaldd13 (1940)
+Seat 10: better53 (1780)
+BigCmos  posts small blind (20)
+BMSlove  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 4c, Ts ]
+phoek111 calls (40)
+hatoka folds.
+potted_weed folds.
+MICKE977 folds.
+donaldd13 raises (200) to 200
+better53 folds.
+BigCmos folds.
+BMSlove calls (160)
+phoek111 calls (160)
+** Dealing Flop ** :  [ Td, 8h, Jc ]
+BMSlove checks.
+phoek111 bets (160)
+donaldd13 raises (320) to 320
+BMSlove folds.
+phoek111 calls (160)
+** Dealing Turn ** :  [ 8c ]
+phoek111 checks.
+donaldd13 bets (600)
+phoek111 raises (1200) to 1200
+donaldd13 raises (820) to 1420
+donaldd13 is all-In.
+phoek111 calls (220)
+** Dealing River ** :  [ 8s ]
+Creating Main Pot with $4100 with donaldd13
+** Summary **
+Main Pot: 4100
+Board: [ Td 8h Jc 8c 8s  ]
+
+BigCmos balance 1940, lost 20 (folded)
+BMSlove balance 1760, lost 200 (folded)
+phoek111 balance 6020, bet 1940, collected 4100, net +2160 [ 5s Jd ] [ a full house, Eights full of Jacks -- Jd,Jc,8h,8c,8s ]
+hatoka balance 4620, didn't bet (folded)
+potted_weed balance 1980, didn't bet (folded)
+MICKE977 balance 1900, didn't bet (folded)
+donaldd13 balance 0, lost 1940 [ Qd Ks ] [ three of a kind, Eights -- Ks,Qd,8h,8c,8s ]
+better53 balance 1780, didn't bet (folded)
+
+***** Hand History for Game 6065722444 *****
+donaldd13 finished in 8 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33978741)  - Fri Jun 15 17:41:37 EDT 2007
+Table Speed 1329946 (Real Money) -- Seat 1 is the button
+Total number of players : 7
+Seat 1: BigCmos (1940)
+Seat 2: BMSlove (1760)
+Seat 4: phoek111 (6020)
+Seat 5: hatoka (4620)
+Seat 6: potted_weed (1980)
+Seat 8: MICKE977 (1900)
+Seat 10: better53 (1780)
+BMSlove  posts small blind (30)
+phoek111  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 6c, Kc ]
+hatoka calls (60)
+potted_weed folds.
+MICKE977 folds.
+better53 folds.
+BigCmos folds.
+BMSlove calls (30)
+phoek111 raises (180) to 240
+hatoka calls (180)
+BMSlove folds.
+** Dealing Flop ** :  [ Th, Ah, Ts ]
+phoek111 bets (600)
+hatoka folds.
+** Summary **
+Main Pot: 540
+Board: [ Th Ah Ts  ]
+
+BigCmos balance 1940, didn't bet (folded)
+BMSlove balance 1700, lost 60 (folded)
+phoek111 balance 6320, bet 840, collected 1140, net +300
+hatoka balance 4380, lost 240 (folded)
+potted_weed balance 1980, didn't bet (folded)
+MICKE977 balance 1900, didn't bet (folded)
+better53 balance 1780, didn't bet (folded)
+
+***** Hand History for Game 6065724055 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33978741)  - Fri Jun 15 17:42:07 EDT 2007
+Table Speed 1329946 (Real Money) -- Seat 2 is the button
+Total number of players : 7
+Seat 1: BigCmos (1940)
+Seat 2: BMSlove (1700)
+Seat 4: phoek111 (6320)
+Seat 5: hatoka (4380)
+Seat 6: potted_weed (1980)
+Seat 8: MICKE977 (1900)
+Seat 10: better53 (1780)
+phoek111  posts small blind (30)
+hatoka  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 9h, Qh ]
+potted_weed folds.
+MICKE977 folds.
+better53 folds.
+BigCmos folds.
+BMSlove calls (60)
+phoek111 calls (30)
+hatoka checks.
+** Dealing Flop ** :  [ 8c, 4d, 7s ]
+phoek111 checks.
+hatoka checks.
+BMSlove checks.
+** Dealing Turn ** :  [ Th ]
+phoek111 bets (300)
+hatoka calls (300)
+BMSlove calls (300)
+** Dealing River ** :  [ Kh ]
+phoek111 checks.
+hatoka checks.
+BMSlove checks.
+** Summary **
+Main Pot: 1080
+Board: [ 8c 4d 7s Th Kh  ]
+
+BigCmos balance 1940, didn't bet (folded)
+BMSlove balance 2420, bet 360, collected 1080, net +720 [ 9d Td ] [ a pair of Tens -- Kh,Td,Th,9d,8c ]
+phoek111 balance 5960, lost 360 [ 5h 2c ] [ high card King -- Kh,Th,8c,7s,5h ]
+hatoka balance 4020, lost 360 [ 9h Qh ] [ high card King with Queen kicker -- Kh,Qh,Th,9h,8c ]
+potted_weed balance 1980, didn't bet (folded)
+MICKE977 balance 1900, didn't bet (folded)
+better53 balance 1780, didn't bet (folded)
+
+***** Hand History for Game 6065726261 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33978741)  - Fri Jun 15 17:42:49 EDT 2007
+Table Speed 1329946 (Real Money) -- Seat 4 is the button
+Total number of players : 7
+Seat 1: BigCmos (1940)
+Seat 2: BMSlove (2420)
+Seat 4: phoek111 (5960)
+Seat 5: hatoka (4020)
+Seat 6: potted_weed (1980)
+Seat 8: MICKE977 (1900)
+Seat 10: better53 (1780)
+hatoka  posts small blind (30)
+potted_weed  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 5d, 3d ]
+MICKE977 folds.
+better53 folds.
+BigCmos folds.
+BMSlove calls (60)
+phoek111 raises (120) to 120
+hatoka folds.
+potted_weed folds.
+BMSlove calls (60)
+** Dealing Flop ** :  [ 6h, 9h, Qd ]
+BMSlove checks.
+phoek111 checks.
+** Dealing Turn ** :  [ 6c ]
+BMSlove checks.
+phoek111 bets (180)
+BMSlove calls (180)
+** Dealing River ** :  [ 9s ]
+BMSlove bets (540)
+phoek111 folds.
+** Summary **
+Main Pot: 690
+Board: [ 6h 9h Qd 6c 9s  ]
+
+BigCmos balance 1940, didn't bet (folded)
+BMSlove balance 2810, bet 840, collected 1230, net +390
+phoek111 balance 5660, lost 300 (folded)
+hatoka balance 3990, lost 30 (folded)
+potted_weed balance 1920, lost 60 (folded)
+MICKE977 balance 1900, didn't bet (folded)
+better53 balance 1780, didn't bet (folded)
+
+***** Hand History for Game 6065728702 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33978741)  - Fri Jun 15 17:43:34 EDT 2007
+Table Speed 1329946 (Real Money) -- Seat 5 is the button
+Total number of players : 7
+Seat 1: BigCmos (1940)
+Seat 2: BMSlove (2810)
+Seat 4: phoek111 (5660)
+Seat 5: hatoka (3990)
+Seat 6: potted_weed (1920)
+Seat 8: MICKE977 (1900)
+Seat 10: better53 (1780)
+potted_weed  posts small blind (30)
+MICKE977  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 4h, 6h ]
+better53 folds.
+BigCmos calls (60)
+BMSlove calls (60)
+phoek111 raises (330) to 330
+hatoka folds.
+potted_weed folds.
+MICKE977 folds.
+BigCmos folds.
+BMSlove folds.
+** Summary **
+Main Pot: 270
+
+BigCmos balance 1880, lost 60 (folded)
+BMSlove balance 2750, lost 60 (folded)
+phoek111 balance 5870, bet 330, collected 540, net +210
+hatoka balance 3990, didn't bet (folded)
+potted_weed balance 1890, lost 30 (folded)
+MICKE977 balance 1840, lost 60 (folded)
+better53 balance 1780, didn't bet (folded)
+
+***** Hand History for Game 6065729441 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33978741)  - Fri Jun 15 17:43:48 EDT 2007
+Table Speed 1329946 (Real Money) -- Seat 6 is the button
+Total number of players : 7
+Seat 1: BigCmos (1880)
+Seat 2: BMSlove (2750)
+Seat 4: phoek111 (5870)
+Seat 5: hatoka (3990)
+Seat 6: potted_weed (1890)
+Seat 8: MICKE977 (1840)
+Seat 10: better53 (1780)
+MICKE977  posts small blind (30)
+better53  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 4d, 6d ]
+BigCmos folds.
+BMSlove folds.
+phoek111 raises (120) to 120
+hatoka folds.
+potted_weed calls (120)
+MICKE977 folds.
+better53 calls (60)
+** Dealing Flop ** :  [ 8c, 7d, Ks ]
+better53 checks.
+phoek111 bets (240)
+potted_weed raises (960) to 960
+better53 folds.
+phoek111 calls (720)
+** Dealing Turn ** :  [ 2c ]
+phoek111 checks.
+potted_weed bets (810)
+potted_weed is all-In.
+phoek111 calls (810)
+** Dealing River ** :  [ 9c ]
+Creating Main Pot with $3930 with potted_weed
+** Summary **
+Main Pot: 3930
+Board: [ 8c 7d Ks 2c 9c  ]
+
+BigCmos balance 1880, didn't bet (folded)
+BMSlove balance 2750, didn't bet (folded)
+phoek111 balance 7910, bet 1890, collected 3930, net +2040 [ 7c Jd ] [ a pair of Sevens -- Ks,Jd,9c,7c,7d ]
+hatoka balance 3990, didn't bet (folded)
+potted_weed balance 0, lost 1890 [ As Qc ] [ high card Ace -- As,Ks,Qc,9c,8c ]
+MICKE977 balance 1810, lost 30 (folded)
+better53 balance 1660, lost 120 (folded)
+
+***** Hand History for Game 6065731848 *****
+potted_weed finished in 7 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33978741)  - Fri Jun 15 17:44:34 EDT 2007
+Table Speed 1329946 (Real Money) -- Seat 8 is the button
+Total number of players : 6
+Seat 1: BigCmos (1880)
+Seat 2: BMSlove (2750)
+Seat 4: phoek111 (7910)
+Seat 5: hatoka (3990)
+Seat 8: MICKE977 (1810)
+Seat 10: better53 (1660)
+better53  posts small blind (30)
+BigCmos  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Qs, 8c ]
+BMSlove folds.
+phoek111 raises (210) to 210
+hatoka folds.
+MICKE977 folds.
+better53 folds.
+BigCmos folds.
+** Summary **
+Main Pot: 150
+
+BigCmos balance 1820, lost 60 (folded)
+BMSlove balance 2750, didn't bet (folded)
+phoek111 balance 8000, bet 210, collected 300, net +90
+hatoka balance 3990, didn't bet (folded)
+MICKE977 balance 1810, didn't bet (folded)
+better53 balance 1630, lost 30 (folded)
+
+***** Hand History for Game 6065732522 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33978741)  - Fri Jun 15 17:44:47 EDT 2007
+Table Speed 1329946 (Real Money) -- Seat 10 is the button
+Total number of players : 6
+Seat 1: BigCmos (1820)
+Seat 2: BMSlove (2750)
+Seat 4: phoek111 (8000)
+Seat 5: hatoka (3990)
+Seat 8: MICKE977 (1810)
+Seat 10: better53 (1630)
+BigCmos  posts small blind (30)
+BMSlove  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 3c, 7s ]
+phoek111 raises (120) to 120
+hatoka folds.
+MICKE977 folds.
+better53 folds.
+BigCmos folds.
+BMSlove calls (60)
+** Dealing Flop ** :  [ Ah, 9d, 4h ]
+BMSlove checks.
+phoek111 bets (60)
+BMSlove folds.
+** Summary **
+Main Pot: 270
+Board: [ Ah 9d 4h  ]
+
+BigCmos balance 1790, lost 30 (folded)
+BMSlove balance 2630, lost 120 (folded)
+phoek111 balance 8150, bet 180, collected 330, net +150
+hatoka balance 3990, didn't bet (folded)
+MICKE977 balance 1810, didn't bet (folded)
+better53 balance 1630, didn't bet (folded)
+
+***** Hand History for Game 6065733706 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33978741)  - Fri Jun 15 17:45:10 EDT 2007
+Table Speed 1329946 (Real Money) -- Seat 1 is the button
+Total number of players : 6
+Seat 1: BigCmos (1790)
+Seat 2: BMSlove (2630)
+Seat 4: phoek111 (8150)
+Seat 5: hatoka (3990)
+Seat 8: MICKE977 (1810)
+Seat 10: better53 (1630)
+BMSlove  posts small blind (30)
+phoek111  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Th, Qc ]
+hatoka calls (60)
+MICKE977 folds.
+better53 folds.
+BigCmos folds.
+BMSlove folds.
+phoek111 raises (300) to 360
+hatoka calls (300)
+** Dealing Flop ** :  [ 2s, 8d, Qh ]
+phoek111 bets (300)
+hatoka raises (3630) to 3630
+hatoka is all-In.
+phoek111 calls (3330)
+** Dealing Turn ** :  [ Qd ]
+** Dealing River ** :  [ 4c ]
+Creating Main Pot with $8010 with hatoka
+** Summary **
+Main Pot: 8010
+Board: [ 2s 8d Qh Qd 4c  ]
+
+BigCmos balance 1790, didn't bet (folded)
+BMSlove balance 2600, lost 30 (folded)
+phoek111 balance 4160, lost 3990 [ Kc Ad ] [ a pair of Queens -- Ad,Kc,Qh,Qd,8d ]
+hatoka balance 8010, bet 3990, collected 8010, net +4020 [ Th Qc ] [ three of a kind, Queens -- Qc,Qh,Qd,Th,8d ]
+MICKE977 balance 1810, didn't bet (folded)
+better53 balance 1630, didn't bet (folded)
+
+***** Hand History for Game 6065735538 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33978741)  - Fri Jun 15 17:45:44 EDT 2007
+Table Speed 1329946 (Real Money) -- Seat 2 is the button
+Total number of players : 6
+Seat 1: BigCmos (1790)
+Seat 2: BMSlove (2600)
+Seat 4: phoek111 (4160)
+Seat 5: hatoka (8010)
+Seat 8: MICKE977 (1810)
+Seat 10: better53 (1630)
+phoek111  posts small blind (30)
+hatoka  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 4d, 6c ]
+MICKE977 folds.
+better53 folds.
+BigCmos raises (180) to 180
+BMSlove folds.
+phoek111 folds.
+hatoka folds.
+** Summary **
+Main Pot: 150
+
+BigCmos balance 1880, bet 180, collected 270, net +90
+BMSlove balance 2600, didn't bet (folded)
+phoek111 balance 4130, lost 30 (folded)
+hatoka balance 7950, lost 60 (folded)
+MICKE977 balance 1810, didn't bet (folded)
+better53 balance 1630, didn't bet (folded)
+
+***** Hand History for Game 6065736350 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33978741)  - Fri Jun 15 17:46:00 EDT 2007
+Table Speed 1329946 (Real Money) -- Seat 4 is the button
+Total number of players : 6
+Seat 1: BigCmos (1880)
+Seat 2: BMSlove (2600)
+Seat 4: phoek111 (4130)
+Seat 5: hatoka (7950)
+Seat 8: MICKE977 (1810)
+Seat 10: better53 (1630)
+hatoka  posts small blind (30)
+MICKE977  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 5c, Jh ]
+better53 calls (60)
+BigCmos folds.
+BMSlove folds.
+phoek111 folds.
+hatoka folds.
+MICKE977 checks.
+** Dealing Flop ** :  [ 8h, Ac, 2d ]
+MICKE977 checks.
+better53 bets (120)
+MICKE977 folds.
+** Summary **
+Main Pot: 150
+Board: [ 8h Ac 2d  ]
+
+BigCmos balance 1880, didn't bet (folded)
+BMSlove balance 2600, didn't bet (folded)
+phoek111 balance 4130, didn't bet (folded)
+hatoka balance 7920, lost 30 (folded)
+MICKE977 balance 1750, lost 60 (folded)
+better53 balance 1720, bet 180, collected 270, net +90
+
+***** Hand History for Game 6065737599 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33978741)  - Fri Jun 15 17:46:24 EDT 2007
+Table Speed 1329946 (Real Money) -- Seat 5 is the button
+Total number of players : 6
+Seat 1: BigCmos (1880)
+Seat 2: BMSlove (2600)
+Seat 4: phoek111 (4130)
+Seat 5: hatoka (7920)
+Seat 8: MICKE977 (1750)
+Seat 10: better53 (1720)
+MICKE977  posts small blind (30)
+better53  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 4d, 4c ]
+BigCmos folds.
+BMSlove calls (60)
+phoek111 raises (270) to 270
+hatoka folds.
+MICKE977 folds.
+better53 calls (210)
+BMSlove calls (210)
+** Dealing Flop ** :  [ Ad, 3h, 3s ]
+better53 bets (1450)
+better53 is all-In.
+BMSlove calls (1450)
+phoek111 folds.
+** Dealing Turn ** :  [ As ]
+** Dealing River ** :  [ 6d ]
+Creating Main Pot with $3740 with better53
+** Summary **
+Main Pot: 3740
+Board: [ Ad 3h 3s As 6d  ]
+
+BigCmos balance 1880, didn't bet (folded)
+BMSlove balance 2750, bet 1720, collected 1870, net +150 [ Qd Ac ] [ a full house, Aces full of Threes -- Ac,Ad,As,3h,3s ]
+phoek111 balance 3860, lost 270 (folded)
+hatoka balance 7920, didn't bet (folded)
+MICKE977 balance 1720, lost 30 (folded)
+better53 balance 1870, bet 1720, collected 1870, net +150 [ Kd Ah ] [ a full house, Aces full of Threes -- Ah,Ad,As,3h,3s ]
+
+***** Hand History for Game 6065739233 *****
+better53: lucjy cunt
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33978741)  - Fri Jun 15 17:46:55 EDT 2007
+Table Speed 1329946 (Real Money) -- Seat 8 is the button
+Total number of players : 6
+Seat 1: BigCmos (1880)
+Seat 2: BMSlove (2750)
+Seat 4: phoek111 (3860)
+Seat 5: hatoka (7920)
+Seat 8: MICKE977 (1720)
+Seat 10: better53 (1870)
+better53  posts small blind (50)
+BigCmos  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 5h, 9s ]
+BMSlove folds.
+phoek111 folds.
+hatoka folds.
+MICKE977 folds.
+better53 calls (50)
+BigCmos checks.
+** Dealing Flop ** :  [ Js, Td, Jc ]
+better53 bets (300)
+BigCmos folds.
+** Summary **
+Main Pot: 200
+Board: [ Js Td Jc  ]
+
+BigCmos balance 1780, lost 100 (folded)
+BMSlove balance 2750, didn't bet (folded)
+phoek111 balance 3860, didn't bet (folded)
+hatoka balance 7920, didn't bet (folded)
+MICKE977 balance 1720, didn't bet (folded)
+better53 balance 1970, bet 400, collected 500, net +100
+
+***** Hand History for Game 6065740186 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33978741)  - Fri Jun 15 17:47:13 EDT 2007
+Table Speed 1329946 (Real Money) -- Seat 10 is the button
+Total number of players : 6
+Seat 1: BigCmos (1780)
+Seat 2: BMSlove (2750)
+Seat 4: phoek111 (3860)
+Seat 5: hatoka (7920)
+Seat 8: MICKE977 (1720)
+Seat 10: better53 (1970)
+BigCmos  posts small blind (50)
+BMSlove  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 3s, 3d ]
+phoek111 calls (100)
+hatoka calls (100)
+MICKE977 folds.
+better53 calls (100)
+BigCmos calls (50)
+BMSlove checks.
+** Dealing Flop ** :  [ 4d, Kd, 7d ]
+BigCmos checks.
+BMSlove checks.
+phoek111 checks.
+hatoka checks.
+better53 checks.
+** Dealing Turn ** :  [ 6d ]
+BigCmos checks.
+BMSlove checks.
+phoek111 checks.
+hatoka bets (500)
+better53 folds.
+BigCmos folds.
+BMSlove folds.
+phoek111 folds.
+** Summary **
+Main Pot: 500
+Board: [ 4d Kd 7d 6d  ]
+
+BigCmos balance 1680, lost 100 (folded)
+BMSlove balance 2650, lost 100 (folded)
+phoek111 balance 3760, lost 100 (folded)
+hatoka balance 8320, bet 600, collected 1000, net +400
+MICKE977 balance 1720, didn't bet (folded)
+better53 balance 1870, lost 100 (folded)
+
+***** Hand History for Game 6065741990 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33978741)  - Fri Jun 15 17:47:47 EDT 2007
+Table Speed 1329946 (Real Money) -- Seat 1 is the button
+Total number of players : 6
+Seat 1: BigCmos (1680)
+Seat 2: BMSlove (2650)
+Seat 4: phoek111 (3760)
+Seat 5: hatoka (8320)
+Seat 8: MICKE977 (1720)
+Seat 10: better53 (1870)
+BMSlove  posts small blind (50)
+phoek111  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Js, Jh ]
+hatoka raises (300) to 300
+MICKE977 folds.
+better53 folds.
+BigCmos folds.
+BMSlove folds.
+phoek111 calls (200)
+** Dealing Flop ** :  [ 8h, Kh, Kc ]
+phoek111 checks.
+hatoka bets (600)
+phoek111 folds.
+** Summary **
+Main Pot: 650
+Board: [ 8h Kh Kc  ]
+
+BigCmos balance 1680, didn't bet (folded)
+BMSlove balance 2600, lost 50 (folded)
+phoek111 balance 3460, lost 300 (folded)
+hatoka balance 8670, bet 900, collected 1250, net +350
+MICKE977 balance 1720, didn't bet (folded)
+better53 balance 1870, didn't bet (folded)
+
+***** Hand History for Game 6065743339 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33978741)  - Fri Jun 15 17:48:13 EDT 2007
+Table Speed 1329946 (Real Money) -- Seat 2 is the button
+Total number of players : 6
+Seat 1: BigCmos (1680)
+Seat 2: BMSlove (2600)
+Seat 4: phoek111 (3460)
+Seat 5: hatoka (8670)
+Seat 8: MICKE977 (1720)
+Seat 10: better53 (1870)
+phoek111  posts small blind (50)
+hatoka  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Tc, 6s ]
+MICKE977 folds.
+better53 calls (100)
+BigCmos folds.
+BMSlove folds.
+phoek111 calls (50)
+hatoka checks.
+** Dealing Flop ** :  [ 5c, 7h, 2h ]
+phoek111 bets (3360)
+phoek111 is all-In.
+hatoka folds.
+better53 calls (1770)
+better53 is all-In.
+** Dealing Turn ** :  [ Js ]
+** Dealing River ** :  [ 2d ]
+Creating Main Pot with $3840 with better53
+** Summary **
+Main Pot: 3840
+Board: [ 5c 7h 2h Js 2d  ]
+
+BigCmos balance 1680, didn't bet (folded)
+BMSlove balance 2600, didn't bet (folded)
+phoek111 balance 5430, bet 3460, collected 5430, net +1970 [ 3h 2s ] [ three of a kind, Twos -- Js,7h,2s,2h,2d ]
+hatoka balance 8570, lost 100 (folded)
+MICKE977 balance 1720, didn't bet (folded)
+better53 balance 0, lost 1870 [ 8h 6h ] [ a pair of Twos -- Js,8h,7h,2h,2d ]
+
+***** Hand History for Game 6065744877 *****
+better53 finished in 6 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33978741)  - Fri Jun 15 17:48:42 EDT 2007
+Table Speed 1329946 (Real Money) -- Seat 4 is the button
+Total number of players : 5
+Seat 1: BigCmos (1680)
+Seat 2: BMSlove (2600)
+Seat 4: phoek111 (5430)
+Seat 5: hatoka (8570)
+Seat 8: MICKE977 (1720)
+hatoka  posts small blind (50)
+MICKE977  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 9d, Kd ]
+BigCmos folds.
+BMSlove folds.
+phoek111 calls (100)
+hatoka calls (50)
+MICKE977 checks.
+** Dealing Flop ** :  [ 8s, Js, 3h ]
+hatoka checks.
+MICKE977 checks.
+phoek111 checks.
+** Dealing Turn ** :  [ 7s ]
+hatoka checks.
+MICKE977 bets (100)
+phoek111 calls (100)
+hatoka folds.
+** Dealing River ** :  [ 4c ]
+MICKE977 bets (100)
+phoek111 calls (100)
+** Summary **
+Main Pot: 700
+Board: [ 8s Js 3h 7s 4c  ]
+
+BigCmos balance 1680, didn't bet (folded)
+BMSlove balance 2600, didn't bet (folded)
+phoek111 balance 5830, bet 300, collected 700, net +400 [ 7d 3d ] [ two pairs, Sevens and Threes -- Js,7d,7s,3d,3h ]
+hatoka balance 8470, lost 100 (folded)
+MICKE977 balance 1420, lost 300 [ 8h 9h ] [ a pair of Eights -- Js,9h,8h,8s,7s ]
+
+***** Hand History for Game 6065746566 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33978741)  - Fri Jun 15 17:49:15 EDT 2007
+Table Speed 1329946 (Real Money) -- Seat 5 is the button
+Total number of players : 5
+Seat 1: BigCmos (1680)
+Seat 2: BMSlove (2600)
+Seat 4: phoek111 (5830)
+Seat 5: hatoka (8470)
+Seat 8: MICKE977 (1420)
+MICKE977  posts small blind (50)
+BigCmos  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Qc, 6h ]
+BMSlove folds.
+phoek111 calls (100)
+hatoka folds.
+MICKE977 folds.
+BigCmos checks.
+** Dealing Flop ** :  [ 2c, Ah, Kh ]
+BigCmos bets (100)
+phoek111 folds.
+** Summary **
+Main Pot: 250
+Board: [ 2c Ah Kh  ]
+
+BigCmos balance 1830, bet 200, collected 350, net +150
+BMSlove balance 2600, didn't bet (folded)
+phoek111 balance 5730, lost 100 (folded)
+hatoka balance 8470, didn't bet (folded)
+MICKE977 balance 1370, lost 50 (folded)
+
+***** Hand History for Game 6065747724 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33978741)  - Fri Jun 15 17:49:36 EDT 2007
+Table Speed 1329946 (Real Money) -- Seat 8 is the button
+Total number of players : 5
+Seat 1: BigCmos (1830)
+Seat 2: BMSlove (2600)
+Seat 4: phoek111 (5730)
+Seat 5: hatoka (8470)
+Seat 8: MICKE977 (1370)
+BigCmos  posts small blind (50)
+BMSlove  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Th, 3s ]
+phoek111 raises (200) to 200
+hatoka folds.
+MICKE977 folds.
+BigCmos folds.
+BMSlove calls (100)
+** Dealing Flop ** :  [ 3d, 2d, Kc ]
+BMSlove checks.
+phoek111 checks.
+** Dealing Turn ** :  [ Kh ]
+BMSlove checks.
+phoek111 bets (200)
+BMSlove folds.
+** Summary **
+Main Pot: 450
+Board: [ 3d 2d Kc Kh  ]
+
+BigCmos balance 1780, lost 50 (folded)
+BMSlove balance 2400, lost 200 (folded)
+phoek111 balance 5980, bet 400, collected 650, net +250
+hatoka balance 8470, didn't bet (folded)
+MICKE977 balance 1370, didn't bet (folded)
+
+***** Hand History for Game 6065748926 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33978741)  - Fri Jun 15 17:49:59 EDT 2007
+Table Speed 1329946 (Real Money) -- Seat 1 is the button
+Total number of players : 5
+Seat 1: BigCmos (1780)
+Seat 2: BMSlove (2400)
+Seat 4: phoek111 (5980)
+Seat 5: hatoka (8470)
+Seat 8: MICKE977 (1370)
+BMSlove  posts small blind (50)
+phoek111  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 9d, 7h ]
+hatoka folds.
+MICKE977 folds.
+BigCmos folds.
+BMSlove folds.
+** Summary **
+Main Pot: 100
+
+BigCmos balance 1780, didn't bet (folded)
+BMSlove balance 2350, lost 50 (folded)
+phoek111 balance 6030, bet 100, collected 150, net +50
+hatoka balance 8470, didn't bet (folded)
+MICKE977 balance 1370, didn't bet (folded)
+
+***** Hand History for Game 6065749378 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33978741)  - Fri Jun 15 17:50:08 EDT 2007
+Table Speed 1329946 (Real Money) -- Seat 2 is the button
+Total number of players : 5
+Seat 1: BigCmos (1780)
+Seat 2: BMSlove (2350)
+Seat 4: phoek111 (6030)
+Seat 5: hatoka (8470)
+Seat 8: MICKE977 (1370)
+phoek111  posts small blind (50)
+hatoka  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 7c, 4c ]
+MICKE977 folds.
+BigCmos raises (200) to 200
+BMSlove folds.
+phoek111 calls (150)
+hatoka calls (100)
+** Dealing Flop ** :  [ Jc, 8d, 7d ]
+phoek111 checks.
+hatoka bets (100)
+BigCmos raises (300) to 300
+phoek111 folds.
+hatoka folds.
+** Summary **
+Main Pot: 800
+Board: [ Jc 8d 7d  ]
+
+BigCmos balance 2280, bet 500, collected 1000, net +500
+BMSlove balance 2350, didn't bet (folded)
+phoek111 balance 5830, lost 200 (folded)
+hatoka balance 8170, lost 300 (folded)
+MICKE977 balance 1370, didn't bet (folded)
+
+***** Hand History for Game 6065750809 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33978741)  - Fri Jun 15 17:50:36 EDT 2007
+Table Speed 1329946 (Real Money) -- Seat 4 is the button
+Total number of players : 5
+Seat 1: BigCmos (2280)
+Seat 2: BMSlove (2350)
+Seat 4: phoek111 (5830)
+Seat 5: hatoka (8170)
+Seat 8: MICKE977 (1370)
+hatoka  posts small blind (50)
+MICKE977  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Kh, Jh ]
+BigCmos folds.
+BMSlove folds.
+phoek111 calls (100)
+hatoka raises (250) to 300
+MICKE977 folds.
+phoek111 calls (200)
+** Dealing Flop ** :  [ Js, Jd, Td ]
+hatoka checks.
+phoek111 checks.
+** Dealing Turn ** :  [ Ac ]
+hatoka bets (500)
+phoek111 folds.
+** Summary **
+Main Pot: 700
+Board: [ Js Jd Td Ac  ]
+
+BigCmos balance 2280, didn't bet (folded)
+BMSlove balance 2350, didn't bet (folded)
+phoek111 balance 5530, lost 300 (folded)
+hatoka balance 8570, bet 800, collected 1200, net +400
+MICKE977 balance 1270, lost 100 (folded)
+
+***** Hand History for Game 6065752415 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33978741)  - Fri Jun 15 17:51:06 EDT 2007
+Table Speed 1329946 (Real Money) -- Seat 5 is the button
+Total number of players : 5
+Seat 1: BigCmos (2280)
+Seat 2: BMSlove (2350)
+Seat 4: phoek111 (5530)
+Seat 5: hatoka (8570)
+Seat 8: MICKE977 (1270)
+MICKE977  posts small blind (50)
+BigCmos  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 8h, 9c ]
+BMSlove folds.
+phoek111 raises (200) to 200
+hatoka folds.
+MICKE977 folds.
+BigCmos folds.
+** Summary **
+Main Pot: 250
+
+BigCmos balance 2180, lost 100 (folded)
+BMSlove balance 2350, didn't bet (folded)
+phoek111 balance 5680, bet 200, collected 350, net +150
+hatoka balance 8570, didn't bet (folded)
+MICKE977 balance 1220, lost 50 (folded)
+
+***** Hand History for Game 6065753156 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33978741)  - Fri Jun 15 17:51:20 EDT 2007
+Table Speed 1329946 (Real Money) -- Seat 8 is the button
+Total number of players : 5
+Seat 1: BigCmos (2180)
+Seat 2: BMSlove (2350)
+Seat 4: phoek111 (5680)
+Seat 5: hatoka (8570)
+Seat 8: MICKE977 (1220)
+BigCmos  posts small blind (50)
+BMSlove  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 9h, 4h ]
+phoek111 calls (100)
+hatoka folds.
+MICKE977 folds.
+BigCmos folds.
+BMSlove checks.
+** Dealing Flop ** :  [ 7c, 6c, Qh ]
+BMSlove checks.
+phoek111 checks.
+** Dealing Turn ** :  [ Kh ]
+BMSlove checks.
+phoek111 checks.
+** Dealing River ** :  [ 2c ]
+BMSlove bets (300)
+phoek111 calls (300)
+** Summary **
+Main Pot: 850
+Board: [ 7c 6c Qh Kh 2c  ]
+
+BigCmos balance 2130, lost 50 (folded)
+BMSlove balance 2800, bet 400, collected 850, net +450 [ 2s 2h ] [ three of a kind, Twos -- Kh,Qh,2s,2h,2c ]
+phoek111 balance 5280, lost 400 [ Th 9d ] [ high card King -- Kh,Qh,Th,9d,7c ]
+
+hatoka balance 8570, didn't bet (folded)
+MICKE977 balance 1220, didn't bet (folded)
+
+***** Hand History for Game 6065754263 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33978741)  - Fri Jun 15 17:51:42 EDT 2007
+Table Speed 1329946 (Real Money) -- Seat 1 is the button
+Total number of players : 5
+Seat 1: BigCmos (2130)
+Seat 2: BMSlove (2800)
+Seat 4: phoek111 (5280)
+Seat 5: hatoka (8570)
+Seat 8: MICKE977 (1220)
+BMSlove  posts small blind (50)
+phoek111  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Th, 6h ]
+hatoka folds.
+MICKE977 folds.
+BigCmos folds.
+BMSlove folds.
+** Summary **
+Main Pot: 100
+
+BigCmos balance 2130, didn't bet (folded)
+BMSlove balance 2750, lost 50 (folded)
+phoek111 balance 5330, bet 100, collected 150, net +50
+hatoka balance 8570, didn't bet (folded)
+MICKE977 balance 1220, didn't bet (folded)
+
+***** Hand History for Game 6065755216 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33978741)  - Fri Jun 15 17:52:00 EDT 2007
+Table Speed 1329946 (Real Money) -- Seat 2 is the button
+Total number of players : 5
+Seat 1: BigCmos (2130)
+Seat 2: BMSlove (2750)
+Seat 4: phoek111 (5330)
+Seat 5: hatoka (8570)
+Seat 8: MICKE977 (1220)
+phoek111  posts small blind (100)
+hatoka  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 8c, Ks ]
+MICKE977 folds.
+BigCmos raises (800) to 800
+BMSlove folds.
+phoek111 folds.
+hatoka folds.
+** Summary **
+Main Pot: 500
+
+BigCmos balance 2430, bet 800, collected 1100, net +300
+BMSlove balance 2750, didn't bet (folded)
+phoek111 balance 5230, lost 100 (folded)
+hatoka balance 8370, lost 200 (folded)
+MICKE977 balance 1220, didn't bet (folded)
+
+***** Hand History for Game 6065756288 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33978741)  - Fri Jun 15 17:52:22 EDT 2007
+Table Speed 1329946 (Real Money) -- Seat 4 is the button
+Total number of players : 5
+Seat 1: BigCmos (2430)
+Seat 2: BMSlove (2750)
+Seat 4: phoek111 (5230)
+Seat 5: hatoka (8370)
+Seat 8: MICKE977 (1220)
+hatoka  posts small blind (100)
+MICKE977  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 5c, Tc ]
+BigCmos folds.
+BMSlove folds.
+phoek111 calls (200)
+hatoka calls (100)
+MICKE977 checks.
+** Dealing Flop ** :  [ 5d, Jd, 2d ]
+hatoka checks.
+MICKE977 bets (1020)
+MICKE977 is all-In.
+phoek111 folds.
+hatoka folds.
+Creating Main Pot with $600 with MICKE977
+** Summary **
+Main Pot: 600
+Board: [ 5d Jd 2d  ]
+
+BigCmos balance 2430, didn't bet (folded)
+BMSlove balance 2750, didn't bet (folded)
+phoek111 balance 5030, lost 200 (folded)
+hatoka balance 8170, lost 200 (folded)
+MICKE977 balance 1620, bet 1220, collected 1620, net +400
+
+***** Hand History for Game 6065757422 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33978741)  - Fri Jun 15 17:52:43 EDT 2007
+Table Speed 1329946 (Real Money) -- Seat 5 is the button
+Total number of players : 5
+Seat 1: BigCmos (2430)
+Seat 2: BMSlove (2750)
+Seat 4: phoek111 (5030)
+Seat 5: hatoka (8170)
+Seat 8: MICKE977 (1620)
+MICKE977  posts small blind (100)
+BigCmos  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 2d, 4s ]
+BMSlove folds.
+phoek111 folds.
+hatoka folds.
+MICKE977 folds.
+** Summary **
+Main Pot: 200
+
+BigCmos balance 2530, bet 200, collected 300, net +100
+BMSlove balance 2750, didn't bet (folded)
+phoek111 balance 5030, didn't bet (folded)
+hatoka balance 8170, didn't bet (folded)
+MICKE977 balance 1520, lost 100 (folded)
+
+***** Hand History for Game 6065758501 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33978741)  - Fri Jun 15 17:53:04 EDT 2007
+Table Speed 1329946 (Real Money) -- Seat 8 is the button
+Total number of players : 5
+Seat 1: BigCmos (2530)
+Seat 2: BMSlove (2750)
+Seat 4: phoek111 (5030)
+Seat 5: hatoka (8170)
+Seat 8: MICKE977 (1520)
+BigCmos  posts small blind (100)
+BMSlove  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Jc, 6h ]
+phoek111 folds.
+hatoka folds.
+MICKE977 folds.
+BigCmos calls (100)
+BMSlove checks.
+** Dealing Flop ** :  [ 5h, 3c, 4d ]
+BigCmos bets (400)
+BMSlove folds.
+** Summary **
+Main Pot: 400
+Board: [ 5h 3c 4d  ]
+
+BigCmos balance 2730, bet 600, collected 800, net +200
+BMSlove balance 2550, lost 200 (folded)
+phoek111 balance 5030, didn't bet (folded)
+hatoka balance 8170, didn't bet (folded)
+MICKE977 balance 1520, didn't bet (folded)
+
+***** Hand History for Game 6065759514 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33978741)  - Fri Jun 15 17:53:23 EDT 2007
+Table Speed 1329946 (Real Money) -- Seat 1 is the button
+Total number of players : 5
+Seat 1: BigCmos (2730)
+Seat 2: BMSlove (2550)
+Seat 4: phoek111 (5030)
+Seat 5: hatoka (8170)
+Seat 8: MICKE977 (1520)
+BMSlove  posts small blind (100)
+phoek111  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 9s, 8c ]
+hatoka folds.
+MICKE977 folds.
+BigCmos folds.
+BMSlove folds.
+** Summary **
+Main Pot: 200
+
+BigCmos balance 2730, didn't bet (folded)
+BMSlove balance 2450, lost 100 (folded)
+phoek111 balance 5130, bet 200, collected 300, net +100
+hatoka balance 8170, didn't bet (folded)
+MICKE977 balance 1520, didn't bet (folded)
+
+***** Hand History for Game 6065760059 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33978741)  - Fri Jun 15 17:53:35 EDT 2007
+Table Speed 1329946 (Real Money) -- Seat 2 is the button
+Total number of players : 5
+Seat 1: BigCmos (2730)
+Seat 2: BMSlove (2450)
+Seat 4: phoek111 (5130)
+Seat 5: hatoka (8170)
+Seat 8: MICKE977 (1520)
+phoek111  posts small blind (100)
+hatoka  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Tc, 8d ]
+MICKE977 folds.
+BigCmos raises (2730) to 2730
+BigCmos is all-In.
+BMSlove folds.
+phoek111 folds.
+hatoka folds.
+Creating Main Pot with $500 with BigCmos
+** Summary **
+Main Pot: 500
+
+BigCmos balance 3030, bet 2730, collected 3030, net +300
+BMSlove balance 2450, didn't bet (folded)
+phoek111 balance 5030, lost 100 (folded)
+hatoka balance 7970, lost 200 (folded)
+MICKE977 balance 1520, didn't bet (folded)
+
+***** Hand History for Game 6065760643 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33978741)  - Fri Jun 15 17:53:46 EDT 2007
+Table Speed 1329946 (Real Money) -- Seat 4 is the button
+Total number of players : 5
+Seat 1: BigCmos (3030)
+Seat 2: BMSlove (2450)
+Seat 4: phoek111 (5030)
+Seat 5: hatoka (7970)
+Seat 8: MICKE977 (1520)
+hatoka  posts small blind (100)
+MICKE977  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Jh, 3d ]
+BigCmos folds.
+BMSlove folds.
+phoek111 folds.
+hatoka raises (300) to 400
+MICKE977 folds.
+** Summary **
+Main Pot: 400
+
+BigCmos balance 3030, didn't bet (folded)
+BMSlove balance 2450, didn't bet (folded)
+phoek111 balance 5030, didn't bet (folded)
+hatoka balance 8170, bet 400, collected 600, net +200
+MICKE977 balance 1320, lost 200 (folded)
+
+***** Hand History for Game 6065761267 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33978741)  - Fri Jun 15 17:53:59 EDT 2007
+Table Speed 1329946 (Real Money) -- Seat 5 is the button
+Total number of players : 5
+Seat 1: BigCmos (3030)
+Seat 2: BMSlove (2450)
+Seat 4: phoek111 (5030)
+Seat 5: hatoka (8170)
+Seat 8: MICKE977 (1320)
+MICKE977  posts small blind (100)
+BigCmos  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 4d, Jh ]
+BMSlove folds.
+phoek111 folds.
+hatoka folds.
+MICKE977 folds.
+** Summary **
+Main Pot: 200
+
+BigCmos balance 3130, bet 200, collected 300, net +100
+BMSlove balance 2450, didn't bet (folded)
+phoek111 balance 5030, didn't bet (folded)
+hatoka balance 8170, didn't bet (folded)
+MICKE977 balance 1220, lost 100 (folded)
+
+***** Hand History for Game 6065761928 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33978741)  - Fri Jun 15 17:54:11 EDT 2007
+Table Speed 1329946 (Real Money) -- Seat 8 is the button
+Total number of players : 5
+Seat 1: BigCmos (3130)
+Seat 2: BMSlove (2450)
+Seat 4: phoek111 (5030)
+Seat 5: hatoka (8170)
+Seat 8: MICKE977 (1220)
+BigCmos  posts small blind (100)
+BMSlove  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 6h, 2d ]
+phoek111 folds.
+hatoka folds.
+MICKE977 folds.
+BigCmos folds.
+** Summary **
+Main Pot: 200
+
+BigCmos balance 3030, lost 100 (folded)
+BMSlove balance 2550, bet 200, collected 300, net +100
+phoek111 balance 5030, didn't bet (folded)
+hatoka balance 8170, didn't bet (folded)
+MICKE977 balance 1220, didn't bet (folded)
+
+***** Hand History for Game 6065762326 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33978741)  - Fri Jun 15 17:54:19 EDT 2007
+Table Speed 1329946 (Real Money) -- Seat 1 is the button
+Total number of players : 5
+Seat 1: BigCmos (3030)
+Seat 2: BMSlove (2550)
+Seat 4: phoek111 (5030)
+Seat 5: hatoka (8170)
+Seat 8: MICKE977 (1220)
+BMSlove  posts small blind (100)
+phoek111  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 3s, 5d ]
+hatoka folds.
+MICKE977 folds.
+BigCmos folds.
+BMSlove calls (100)
+phoek111 checks.
+** Dealing Flop ** :  [ 2s, Jh, Jc ]
+BMSlove checks.
+phoek111 checks.
+** Dealing Turn ** :  [ Qh ]
+BMSlove bets (200)
+phoek111 folds.
+** Summary **
+Main Pot: 400
+Board: [ 2s Jh Jc Qh  ]
+
+BigCmos balance 3030, didn't bet (folded)
+BMSlove balance 2750, bet 400, collected 600, net +200
+phoek111 balance 4830, lost 200 (folded)
+hatoka balance 8170, didn't bet (folded)
+MICKE977 balance 1220, didn't bet (folded)
+
+***** Hand History for Game 6065763579 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33978741)  - Fri Jun 15 17:54:43 EDT 2007
+Table Speed 1329946 (Real Money) -- Seat 2 is the button
+Total number of players : 5
+Seat 1: BigCmos (3030)
+Seat 2: BMSlove (2750)
+Seat 4: phoek111 (4830)
+Seat 5: hatoka (8170)
+Seat 8: MICKE977 (1220)
+phoek111  posts small blind (100)
+hatoka  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Qd, 8h ]
+MICKE977 folds.
+BigCmos folds.
+BMSlove folds.
+phoek111 raises (500) to 600
+hatoka calls (400)
+** Dealing Flop ** :  [ 9s, Kd, Kc ]
+phoek111 checks.
+hatoka checks.
+** Dealing Turn ** :  [ 3d ]
+phoek111 bets (600)
+hatoka folds.
+** Summary **
+Main Pot: 1200
+Board: [ 9s Kd Kc 3d  ]
+
+BigCmos balance 3030, didn't bet (folded)
+BMSlove balance 2750, didn't bet (folded)
+phoek111 balance 5430, bet 1200, collected 1800, net +600
+hatoka balance 7570, lost 600 (folded)
+MICKE977 balance 1220, didn't bet (folded)
+
+***** Hand History for Game 6065764974 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33978741)  - Fri Jun 15 17:55:11 EDT 2007
+Table Speed 1329946 (Real Money) -- Seat 4 is the button
+Total number of players : 5
+Seat 1: BigCmos (3030)
+Seat 2: BMSlove (2750)
+Seat 4: phoek111 (5430)
+Seat 5: hatoka (7570)
+Seat 8: MICKE977 (1220)
+hatoka  posts small blind (100)
+MICKE977  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 4h, 6s ]
+BigCmos folds.
+BMSlove folds.
+phoek111 folds.
+hatoka folds.
+** Summary **
+Main Pot: 200
+
+BigCmos balance 3030, didn't bet (folded)
+BMSlove balance 2750, didn't bet (folded)
+phoek111 balance 5430, didn't bet (folded)
+hatoka balance 7470, lost 100 (folded)
+MICKE977 balance 1320, bet 200, collected 300, net +100
+
+***** Hand History for Game 6065765734 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33978741)  - Fri Jun 15 17:55:25 EDT 2007
+Table Speed 1329946 (Real Money) -- Seat 5 is the button
+Total number of players : 5
+Seat 1: BigCmos (3030)
+Seat 2: BMSlove (2750)
+Seat 4: phoek111 (5430)
+Seat 5: hatoka (7470)
+Seat 8: MICKE977 (1320)
+MICKE977  posts small blind (100)
+BigCmos  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 6c, Qs ]
+BMSlove folds.
+phoek111 folds.
+hatoka folds.
+MICKE977 folds.
+** Summary **
+Main Pot: 200
+
+BigCmos balance 3130, bet 200, collected 300, net +100
+BMSlove balance 2750, didn't bet (folded)
+phoek111 balance 5430, didn't bet (folded)
+hatoka balance 7470, didn't bet (folded)
+MICKE977 balance 1220, lost 100 (folded)
+
+***** Hand History for Game 6065766355 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33978741)  - Fri Jun 15 17:55:37 EDT 2007
+Table Speed 1329946 (Real Money) -- Seat 8 is the button
+Total number of players : 5
+Seat 1: BigCmos (3130)
+Seat 2: BMSlove (2750)
+Seat 4: phoek111 (5430)
+Seat 5: hatoka (7470)
+Seat 8: MICKE977 (1220)
+BigCmos  posts small blind (100)
+BMSlove  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ As, 6c ]
+phoek111 folds.
+hatoka raises (600) to 600
+MICKE977 folds.
+BigCmos folds.
+BMSlove folds.
+** Summary **
+Main Pot: 500
+
+BigCmos balance 3030, lost 100 (folded)
+BMSlove balance 2550, lost 200 (folded)
+phoek111 balance 5430, didn't bet (folded)
+hatoka balance 7770, bet 600, collected 900, net +300
+MICKE977 balance 1220, didn't bet (folded)
+
+***** Hand History for Game 6065767251 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33978741)  - Fri Jun 15 17:55:54 EDT 2007
+Table Speed 1329946 (Real Money) -- Seat 1 is the button
+Total number of players : 5
+Seat 1: BigCmos (3030)
+Seat 2: BMSlove (2550)
+Seat 4: phoek111 (5430)
+Seat 5: hatoka (7770)
+Seat 8: MICKE977 (1220)
+BMSlove  posts small blind (100)
+phoek111  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 5c, Jd ]
+hatoka folds.
+MICKE977 folds.
+BigCmos folds.
+BMSlove calls (100)
+phoek111 raises (1000) to 1200
+BMSlove folds.
+** Summary **
+Main Pot: 400
+
+BigCmos balance 3030, didn't bet (folded)
+BMSlove balance 2350, lost 200 (folded)
+phoek111 balance 5630, bet 1200, collected 1400, net +200
+hatoka balance 7770, didn't bet (folded)
+MICKE977 balance 1220, didn't bet (folded)
+
+***** Hand History for Game 6065768066 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33978741)  - Fri Jun 15 17:56:10 EDT 2007
+Table Speed 1329946 (Real Money) -- Seat 2 is the button
+Total number of players : 5
+Seat 1: BigCmos (3030)
+Seat 2: BMSlove (2350)
+Seat 4: phoek111 (5630)
+Seat 5: hatoka (7770)
+Seat 8: MICKE977 (1220)
+phoek111  posts small blind (100)
+hatoka  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Qs, Ts ]
+MICKE977 folds.
+BigCmos folds.
+BMSlove folds.
+phoek111 calls (100)
+hatoka raises (200) to 400
+phoek111 calls (200)
+** Dealing Flop ** :  [ 3s, 6d, 4c ]
+phoek111 bets (5230)
+phoek111 is all-In.
+hatoka folds.
+Creating Main Pot with $800 with phoek111
+** Summary **
+Main Pot: 800
+Board: [ 3s 6d 4c  ]
+
+BigCmos balance 3030, didn't bet (folded)
+BMSlove balance 2350, didn't bet (folded)
+phoek111 balance 6030, bet 5630, collected 6030, net +400
+hatoka balance 7370, lost 400 (folded)
+MICKE977 balance 1220, didn't bet (folded)
+
+***** Hand History for Game 6065769556 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33978741)  - Fri Jun 15 17:56:39 EDT 2007
+Table Speed 1329946 (Real Money) -- Seat 4 is the button
+Total number of players : 5
+Seat 1: BigCmos (3030)
+Seat 2: BMSlove (2350)
+Seat 4: phoek111 (6030)
+Seat 5: hatoka (7370)
+Seat 8: MICKE977 (1220)
+hatoka  posts small blind (100)
+MICKE977  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Kh, 2h ]
+BigCmos folds.
+BMSlove raises (400) to 400
+phoek111 folds.
+hatoka folds.
+MICKE977 raises (1020) to 1220
+MICKE977 is all-In.
+BMSlove calls (820)
+** Dealing Flop ** :  [ 2d, Jd, 7d ]
+** Dealing Turn ** :  [ Kc ]
+** Dealing River ** :  [ 9s ]
+Creating Main Pot with $2540 with MICKE977
+** Summary **
+Main Pot: 2540
+Board: [ 2d Jd 7d Kc 9s  ]
+
+BigCmos balance 3030, didn't bet (folded)
+BMSlove balance 3670, bet 1220, collected 2540, net +1320 [ Qc Qd ] [ a pair of Queens -- Kc,Qc,Qd,Jd,9s ]
+phoek111 balance 6030, didn't bet (folded)
+hatoka balance 7270, lost 100 (folded)
+MICKE977 balance 0, lost 1220 [ 5c 5s ] [ a pair of Fives -- Kc,Jd,9s,5c,5s ]
+
+***** Hand History for Game 6065770870 *****
+MICKE977 finished in 5 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33978741)  - Fri Jun 15 17:57:03 EDT 2007
+Table Speed 1329946 (Real Money) -- Seat 5 is the button
+Total number of players : 4
+Seat 1: BigCmos (3030)
+Seat 2: BMSlove (3670)
+Seat 4: phoek111 (6030)
+Seat 5: hatoka (7270)
+BigCmos  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ Kd, Th ]
+BMSlove folds.
+phoek111 folds.
+hatoka raises (800) to 800
+BigCmos folds.
+** Summary **
+Main Pot: 800
+
+BigCmos balance 2630, lost 400 (folded)
+BMSlove balance 3670, didn't bet (folded)
+phoek111 balance 6030, didn't bet (folded)
+hatoka balance 7670, bet 800, collected 1200, net +400
+
+***** Hand History for Game 6065771461 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33978741)  - Fri Jun 15 17:57:15 EDT 2007
+Table Speed 1329946 (Real Money) -- Seat 5 is the button
+Total number of players : 4
+Seat 1: BigCmos (2630)
+Seat 2: BMSlove (3670)
+Seat 4: phoek111 (6030)
+Seat 5: hatoka (7670)
+BigCmos  posts small blind (200)
+BMSlove  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ Kh, 8s ]
+phoek111 folds.
+hatoka raises (1000) to 1000
+BigCmos folds.
+BMSlove calls (600)
+** Dealing Flop ** :  [ 2c, 6c, 7s ]
+BMSlove checks.
+hatoka bets (1000)
+BMSlove folds.
+** Summary **
+Main Pot: 2200
+Board: [ 2c 6c 7s  ]
+
+BigCmos balance 2430, lost 200 (folded)
+BMSlove balance 2670, lost 1000 (folded)
+phoek111 balance 6030, didn't bet (folded)
+hatoka balance 8870, bet 2000, collected 3200, net +1200
+
+***** Hand History for Game 6065772744 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33978741)  - Fri Jun 15 17:57:39 EDT 2007
+Table Speed 1329946 (Real Money) -- Seat 1 is the button
+Total number of players : 4
+Seat 1: BigCmos (2430)
+Seat 2: BMSlove (2670)
+Seat 4: phoek111 (6030)
+Seat 5: hatoka (8870)
+BMSlove  posts small blind (200)
+phoek111  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 9d, 9c ]
+hatoka raises (1500) to 1500
+BigCmos folds.
+BMSlove folds.
+phoek111 folds.
+** Summary **
+Main Pot: 1000
+
+BigCmos balance 2430, didn't bet (folded)
+BMSlove balance 2470, lost 200 (folded)
+phoek111 balance 5630, lost 400 (folded)
+hatoka balance 9470, bet 1500, collected 2100, net +600
+
+***** Hand History for Game 6065773718 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33978741)  - Fri Jun 15 17:57:58 EDT 2007
+Table Speed 1329946 (Real Money) -- Seat 2 is the button
+Total number of players : 4
+Seat 1: BigCmos (2430)
+Seat 2: BMSlove (2470)
+Seat 4: phoek111 (5630)
+Seat 5: hatoka (9470)
+phoek111  posts small blind (200)
+hatoka  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 4s, 8s ]
+BigCmos folds.
+BMSlove raises (1200) to 1200
+phoek111 folds.
+hatoka folds.
+** Summary **
+Main Pot: 1000
+
+BigCmos balance 2430, didn't bet (folded)
+BMSlove balance 3070, bet 1200, collected 1800, net +600
+phoek111 balance 5430, lost 200 (folded)
+hatoka balance 9070, lost 400 (folded)
+
+***** Hand History for Game 6065774381 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33978741)  - Fri Jun 15 17:58:11 EDT 2007
+Table Speed 1329946 (Real Money) -- Seat 4 is the button
+Total number of players : 4
+Seat 1: BigCmos (2430)
+Seat 2: BMSlove (3070)
+Seat 4: phoek111 (5430)
+Seat 5: hatoka (9070)
+hatoka  posts small blind (200)
+BigCmos  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 4s, Kd ]
+BMSlove folds.
+phoek111 folds.
+hatoka raises (600) to 800
+BigCmos folds.
+** Summary **
+Main Pot: 800
+
+BigCmos balance 2030, lost 400 (folded)
+BMSlove balance 3070, didn't bet (folded)
+phoek111 balance 5430, didn't bet (folded)
+hatoka balance 9470, bet 800, collected 1200, net +400
+
+***** Hand History for Game 6065775085 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33978741)  - Fri Jun 15 17:58:25 EDT 2007
+Table Speed 1329946 (Real Money) -- Seat 5 is the button
+Total number of players : 4
+Seat 1: BigCmos (2030)
+Seat 2: BMSlove (3070)
+Seat 4: phoek111 (5430)
+Seat 5: hatoka (9470)
+BigCmos  posts small blind (200)
+BMSlove  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ Qd, 3c ]
+phoek111 raises (1200) to 1200
+hatoka folds.
+BigCmos folds.
+BMSlove folds.
+** Summary **
+Main Pot: 1000
+
+BigCmos balance 1830, lost 200 (folded)
+BMSlove balance 2670, lost 400 (folded)
+phoek111 balance 6030, bet 1200, collected 1800, net +600
+hatoka balance 9470, didn't bet (folded)
+
+***** Hand History for Game 6065775636 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33978741)  - Fri Jun 15 17:58:35 EDT 2007
+Table Speed 1329946 (Real Money) -- Seat 1 is the button
+Total number of players : 4
+Seat 1: BigCmos (1830)
+Seat 2: BMSlove (2670)
+Seat 4: phoek111 (6030)
+Seat 5: hatoka (9470)
+BMSlove  posts small blind (200)
+phoek111  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ As, Qs ]
+hatoka raises (1600) to 1600
+BigCmos raises (1830) to 1830
+BigCmos is all-In.
+BMSlove folds.
+phoek111 folds.
+hatoka calls (230)
+** Dealing Flop ** :  [ 6d, 3h, 8d ]
+** Dealing Turn ** :  [ 3d ]
+** Dealing River ** :  [ 5d ]
+Creating Main Pot with $4260 with BigCmos
+** Summary **
+Main Pot: 4260
+Board: [ 6d 3h 8d 3d 5d  ]
+
+BigCmos balance 4260, bet 1830, collected 4260, net +2430 [ Ts Tc ] [ two pairs, Tens and Threes -- Ts,Tc,8d,3h,3d ]
+BMSlove balance 2470, lost 200 (folded)
+phoek111 balance 5630, lost 400 (folded)
+hatoka balance 7640, lost 1830 [ As Qs ] [ a pair of Threes -- As,Qs,8d,3h,3d ]
+
+***** Hand History for Game 6065776637 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33978741)  - Fri Jun 15 17:58:54 EDT 2007
+Table Speed 1329946 (Real Money) -- Seat 2 is the button
+Total number of players : 4
+Seat 1: BigCmos (4260)
+Seat 2: BMSlove (2470)
+Seat 4: phoek111 (5630)
+Seat 5: hatoka (7640)
+phoek111  posts small blind (200)
+hatoka  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 6c, 3h ]
+BigCmos folds.
+BMSlove folds.
+phoek111 calls (200)
+hatoka checks.
+** Dealing Flop ** :  [ 2c, Ad, Kc ]
+phoek111 checks.
+hatoka bets (400)
+phoek111 raises (800) to 800
+hatoka folds.
+** Summary **
+Main Pot: 1600
+Board: [ 2c Ad Kc  ]
+
+BigCmos balance 4260, didn't bet (folded)
+BMSlove balance 2470, didn't bet (folded)
+phoek111 balance 6430, bet 1200, collected 2000, net +800
+hatoka balance 6840, lost 800 (folded)
+
+***** Hand History for Game 6065777794 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33978741)  - Fri Jun 15 17:59:17 EDT 2007
+Table Speed 1329946 (Real Money) -- Seat 4 is the button
+Total number of players : 4
+Seat 1: BigCmos (4260)
+Seat 2: BMSlove (2470)
+Seat 4: phoek111 (6430)
+Seat 5: hatoka (6840)
+hatoka  posts small blind (200)
+BigCmos  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 9h, 2h ]
+BMSlove folds.
+phoek111 calls (400)
+hatoka folds.
+BigCmos checks.
+** Dealing Flop ** :  [ Qh, 8h, 4d ]
+BigCmos checks.
+phoek111 checks.
+** Dealing Turn ** :  [ Jh ]
+BigCmos bets (400)
+phoek111 folds.
+** Summary **
+Main Pot: 1000
+Board: [ Qh 8h 4d Jh  ]
+
+BigCmos balance 4860, bet 800, collected 1400, net +600
+BMSlove balance 2470, didn't bet (folded)
+phoek111 balance 6030, lost 400 (folded)
+hatoka balance 6640, lost 200 (folded)
+
+***** Hand History for Game 6065778900 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33978741)  - Fri Jun 15 17:59:39 EDT 2007
+Table Speed 1329946 (Real Money) -- Seat 5 is the button
+Total number of players : 4
+Seat 1: BigCmos (4860)
+Seat 2: BMSlove (2470)
+Seat 4: phoek111 (6030)
+Seat 5: hatoka (6640)
+BigCmos  posts small blind (200)
+BMSlove  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 7h, Ad ]
+phoek111 folds.
+hatoka raises (800) to 800
+BigCmos folds.
+BMSlove folds.
+** Summary **
+Main Pot: 1000
+
+BigCmos balance 4660, lost 200 (folded)
+BMSlove balance 2070, lost 400 (folded)
+phoek111 balance 6030, didn't bet (folded)
+hatoka balance 7240, bet 800, collected 1400, net +600
+
+***** Hand History for Game 6065779670 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33978741)  - Fri Jun 15 17:59:55 EDT 2007
+Table Speed 1329946 (Real Money) -- Seat 1 is the button
+Total number of players : 4
+Seat 1: BigCmos (4660)
+Seat 2: BMSlove (2070)
+Seat 4: phoek111 (6030)
+Seat 5: hatoka (7240)
+BMSlove  posts small blind (200)
+phoek111  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ Kd, 8s ]
+hatoka folds.
+BigCmos folds.
+BMSlove folds.
+** Summary **
+Main Pot: 400
+
+BigCmos balance 4660, didn't bet (folded)
+BMSlove balance 1870, lost 200 (folded)
+phoek111 balance 6230, bet 400, collected 600, net +200
+hatoka balance 7240, didn't bet (folded)
+
+***** Hand History for Game 6065780266 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33978741)  - Fri Jun 15 18:00:06 EDT 2007
+Table Speed 1329946 (Real Money) -- Seat 2 is the button
+Total number of players : 4
+Seat 1: BigCmos (4660)
+Seat 2: BMSlove (1870)
+Seat 4: phoek111 (6230)
+Seat 5: hatoka (7240)
+phoek111  posts small blind (200)
+hatoka  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 9s, Ks ]
+BigCmos folds.
+BMSlove folds.
+phoek111 calls (200)
+hatoka checks.
+** Dealing Flop ** :  [ Th, As, Qh ]
+phoek111 bets (1200)
+hatoka calls (1200)
+** Dealing Turn ** :  [ 7c ]
+phoek111 checks.
+hatoka checks.
+** Dealing River ** :  [ 4s ]
+phoek111 checks.
+hatoka checks.
+** Summary **
+Main Pot: 3200
+Board: [ Th As Qh 7c 4s  ]
+
+BigCmos balance 4660, didn't bet (folded)
+BMSlove balance 1870, didn't bet (folded)
+phoek111 balance 4630, lost 1600 [ 8s Kh ] [ high card Ace -- As,Kh,Qh,Th,8s ]
+hatoka balance 8840, bet 1600, collected 3200, net +1600 [ 9s Ks ] [ high card Ace with Nine kicker -- As,Ks,Qh,Th,9s ]
+
+***** Hand History for Game 6065781844 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33978741)  - Fri Jun 15 18:00:35 EDT 2007
+Table Speed 1329946 (Real Money) -- Seat 4 is the button
+Total number of players : 4
+Seat 1: BigCmos (4660)
+Seat 2: BMSlove (1870)
+Seat 4: phoek111 (4630)
+Seat 5: hatoka (8840)
+hatoka  posts small blind (200)
+BigCmos  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ Qs, Ac ]
+BMSlove folds.
+phoek111 raises (800) to 800
+hatoka calls (600)
+BigCmos folds.
+** Dealing Flop ** :  [ 4d, 3c, Ah ]
+hatoka bets (1000)
+phoek111 folds.
+** Summary **
+Main Pot: 2000
+Board: [ 4d 3c Ah  ]
+
+BigCmos balance 4260, lost 400 (folded)
+BMSlove balance 1870, didn't bet (folded)
+phoek111 balance 3830, lost 800 (folded)
+hatoka balance 10040, bet 1800, collected 3000, net +1200
+
+***** Hand History for Game 6065783087 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33978741)  - Fri Jun 15 18:00:59 EDT 2007
+Table Speed 1329946 (Real Money) -- Seat 5 is the button
+Total number of players : 4
+Seat 1: BigCmos (4260)
+Seat 2: BMSlove (1870)
+Seat 4: phoek111 (3830)
+Seat 5: hatoka (10040)
+BigCmos  posts small blind (200)
+BMSlove  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 3s, 9c ]
+phoek111 raises (2400) to 2400
+hatoka folds.
+BigCmos folds.
+BMSlove calls (1470)
+BMSlove is all-In.
+** Dealing Flop ** :  [ 7s, Ks, Th ]
+** Dealing Turn ** :  [ 2c ]
+** Dealing River ** :  [ 6c ]
+Creating Main Pot with $3940 with BMSlove
+** Summary **
+Main Pot: 3940
+Board: [ 7s Ks Th 2c 6c  ]
+
+BigCmos balance 4060, lost 200 (folded)
+BMSlove balance 0, lost 1870 [ Js Tc ] [ a pair of Tens -- Ks,Js,Tc,Th,7s ]
+phoek111 balance 5900, bet 2400, collected 4470, net +2070 [ Ts Qs ] [ a pair of Tens with Queen kicker -- Ks,Qs,Ts,Th,7sQs(kicker card) ]
+hatoka balance 10040, didn't bet (folded)
+
+***** Hand History for Game 6065783991 *****
+BMSlove finished in 4 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33978741)  - Fri Jun 15 18:01:15 EDT 2007
+Table Speed 1329946 (Real Money) -- Seat 1 is the button
+Total number of players : 3
+Seat 1: BigCmos (4060)
+Seat 4: phoek111 (5900)
+Seat 5: hatoka (10040)
+phoek111  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 6s, Jd ]
+hatoka folds.
+BigCmos folds.
+** Summary **
+Main Pot: 400
+
+BigCmos balance 4060, didn't bet (folded)
+phoek111 balance 5900, bet 400, collected 400, net +0
+hatoka balance 10040, didn't bet (folded)
+
+***** Hand History for Game 6065784347 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33978741)  - Fri Jun 15 18:01:23 EDT 2007
+Table Speed 1329946 (Real Money) -- Seat 1 is the button
+Total number of players : 3
+Seat 1: BigCmos (4060)
+Seat 4: phoek111 (5900)
+Seat 5: hatoka (10040)
+phoek111  posts small blind (200)
+hatoka  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 9h, 3s ]
+BigCmos folds.
+phoek111 calls (200)
+hatoka checks.
+** Dealing Flop ** :  [ Jc, 2d, Jd ]
+phoek111 bets (5500)
+phoek111 is all-In.
+hatoka folds.
+Creating Main Pot with $800 with phoek111
+** Summary **
+Main Pot: 800
+Board: [ Jc 2d Jd  ]
+
+BigCmos balance 4060, didn't bet (folded)
+phoek111 balance 6300, bet 5900, collected 6300, net +400
+hatoka balance 9640, lost 400 (folded)
+
+***** Hand History for Game 6065785071 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33978741)  - Fri Jun 15 18:01:37 EDT 2007
+Table Speed 1329946 (Real Money) -- Seat 4 is the button
+Total number of players : 3
+Seat 1: BigCmos (4060)
+Seat 4: phoek111 (6300)
+Seat 5: hatoka (9640)
+hatoka  posts small blind (200)
+BigCmos  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ Qs, 8d ]
+phoek111 raises (800) to 800
+hatoka folds.
+BigCmos folds.
+** Summary **
+Main Pot: 1000
+
+BigCmos balance 3660, lost 400 (folded)
+phoek111 balance 6900, bet 800, collected 1400, net +600
+hatoka balance 9440, lost 200 (folded)
+
+***** Hand History for Game 6065785572 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33978741)  - Fri Jun 15 18:01:46 EDT 2007
+Table Speed 1329946 (Real Money) -- Seat 5 is the button
+Total number of players : 3
+Seat 1: BigCmos (3660)
+Seat 4: phoek111 (6900)
+Seat 5: hatoka (9440)
+BigCmos  posts small blind (200)
+phoek111  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 4s, 2h ]
+hatoka folds.
+BigCmos folds.
+** Summary **
+Main Pot: 400
+
+BigCmos balance 3460, lost 200 (folded)
+phoek111 balance 7100, bet 400, collected 600, net +200
+hatoka balance 9440, didn't bet (folded)
+
+***** Hand History for Game 6065785896 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33978741)  - Fri Jun 15 18:01:52 EDT 2007
+Table Speed 1329946 (Real Money) -- Seat 1 is the button
+Total number of players : 3
+Seat 1: BigCmos (3460)
+Seat 4: phoek111 (7100)
+Seat 5: hatoka (9440)
+phoek111  posts small blind (200)
+hatoka  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 4h, Th ]
+BigCmos folds.
+phoek111 raises (600) to 800
+hatoka calls (400)
+** Dealing Flop ** :  [ As, 4d, 2c ]
+phoek111 checks.
+hatoka bets (2000)
+phoek111 raises (4000) to 4000
+hatoka raises (6640) to 8640
+hatoka is all-In.
+phoek111 calls (2300)
+phoek111 is all-In.
+** Dealing Turn ** :  [ 6d ]
+** Dealing River ** :  [ 3d ]
+Creating Main Pot with $14200 with phoek111
+** Summary **
+Main Pot: 14200
+Board: [ As 4d 2c 6d 3d  ]
+
+BigCmos balance 3460, didn't bet (folded)
+phoek111 balance 14200, bet 7100, collected 14200, net +7100 [ 3h 5s ] [ a straight Two to Six -- 6d,5s,4d,3h,2c ]
+hatoka balance 2340, bet 9440, collected 2340, lost -7100 [ 4h Th ] [ a pair of Fours -- As,Th,6d,4h,4d ]
+
+***** Hand History for Game 6065787718 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33978741)  - Fri Jun 15 18:02:28 EDT 2007
+Table Speed 1329946 (Real Money) -- Seat 4 is the button
+Total number of players : 3
+Seat 1: BigCmos (3460)
+Seat 4: phoek111 (14200)
+Seat 5: hatoka (2340)
+hatoka  posts small blind (300)
+BigCmos  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ 9h, 8d ]
+phoek111 folds.
+hatoka raises (900) to 1200
+BigCmos folds.
+** Summary **
+Main Pot: 1200
+
+BigCmos balance 2860, lost 600 (folded)
+phoek111 balance 14200, didn't bet (folded)
+hatoka balance 2940, bet 1200, collected 1800, net +600
+
+***** Hand History for Game 6065788217 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33978741)  - Fri Jun 15 18:02:38 EDT 2007
+Table Speed 1329946 (Real Money) -- Seat 5 is the button
+Total number of players : 3
+Seat 1: BigCmos (2860)
+Seat 4: phoek111 (14200)
+Seat 5: hatoka (2940)
+BigCmos  posts small blind (300)
+phoek111  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ 5d, 9h ]
+hatoka folds.
+BigCmos raises (2560) to 2860
+BigCmos is all-In.
+phoek111 calls (2260)
+** Dealing Flop ** :  [ Js, 5s, 8h ]
+** Dealing Turn ** :  [ Ad ]
+** Dealing River ** :  [ 3h ]
+Creating Main Pot with $5720 with BigCmos
+** Summary **
+Main Pot: 5720
+Board: [ Js 5s 8h Ad 3h  ]
+
+BigCmos balance 0, lost 2860 [ 9c Kd ] [ high card Ace -- Ad,Kd,Js,9c,8h ]
+phoek111 balance 17060, bet 2860, collected 5720, net +2860 [ 7c Ac ] [ a pair of Aces -- Ac,Ad,Js,8h,7c ]
+hatoka balance 2940, didn't bet (folded)
+
+***** Hand History for Game 6065788955 *****
+BigCmos finished in 3 place and won $10.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33978741)  - Fri Jun 15 18:02:52 EDT 2007
+Table Speed 1329946 (Real Money) -- Seat 4 is the button
+Total number of players : 2
+Seat 4: phoek111 (17060)
+Seat 5: hatoka (2940)
+phoek111  posts small blind (300)
+hatoka  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ 4d, 3c ]
+phoek111 raises (900) to 1200
+hatoka folds.
+** Summary **
+Main Pot: 1200
+
+phoek111 balance 17660, bet 1200, collected 1800, net +600
+hatoka balance 2340, lost 600 (folded)
+
+***** Hand History for Game 6065789403 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33978741)  - Fri Jun 15 18:03:00 EDT 2007
+Table Speed 1329946 (Real Money) -- Seat 5 is the button
+Total number of players : 2
+Seat 4: phoek111 (17660)
+Seat 5: hatoka (2340)
+hatoka  posts small blind (300)
+phoek111  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ 9h, 5h ]
+hatoka raises (900) to 1200
+phoek111 raises (1200) to 1800
+hatoka calls (600)
+** Dealing Flop ** :  [ Ah, Qc, 3d ]
+phoek111 bets (600)
+hatoka calls (540)
+hatoka is all-In.
+** Dealing Turn ** :  [ 4d ]
+** Dealing River ** :  [ 9s ]
+Creating Main Pot with $4680 with hatoka
+** Summary **
+Main Pot: 4680
+Board: [ Ah Qc 3d 4d 9s  ]
+
+phoek111 balance 20000, bet 2400, collected 4740, net +2340 [ Qd 9c ] [ two pairs, Queens and Nines -- Ah,Qd,Qc,9c,9s ]
+hatoka balance 0, lost 2340 [ 9h 5h ] [ a pair of Nines -- Ah,Qc,9h,9s,5h ]
+
+
+

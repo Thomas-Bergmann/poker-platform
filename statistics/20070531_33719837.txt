@@ -1,0 +1,1754 @@
+
+Hello hatoka,
+These hand histories are provided to you as an aid for your training and development. You are not permitted to share them with anyone.  We reserve the right to cease providing them or apply further restrictions at any time.
+Complete hand histories are only available to players that participated in the hand.
+You requested a transcript of Tournament #33719837.
+
+Summary
+----------
+Played on    : 31 May 2007 03:09 PM
+On Table     : Speed #1330091
+Game Type    : Texas Holdem
+Buy-In       : $5
+Fee          : $1
+You finished in  position 7
+1st place - Bumper166 -  $25
+2nd place - BRIANROB222 -  $15
+3rd place - L2525B -  $10
+
+***** Hand History for Game 6020500278 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719837)  - Thu May 31 15:09:53 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 7 is the button
+Total number of players : 10
+Seat 1: Beckster114 (2000)
+Seat 2: BRIANROB222 (2000)
+Seat 3: geebalynt01 (2000)
+Seat 4: Retschy001 (2000)
+Seat 5: L2525B (2000)
+Seat 6: ToffeemanJim (2000)
+Seat 7: grantwydels (2000)
+Seat 8: hatoka (2000)
+Seat 9: JACKMAX222 (2000)
+Seat 10: Bumper166 (2000)
+hatoka  posts small blind (20)
+JACKMAX222  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 3s, Kd ]
+Bumper166 calls (40)
+Beckster114 calls (40)
+BRIANROB222 calls (40)
+geebalynt01 folds.
+Retschy001 calls (40)
+L2525B folds.
+ToffeemanJim calls (40)
+grantwydels calls (40)
+hatoka calls (20)
+JACKMAX222 checks.
+** Dealing Flop ** :  [ 2d, Qh, 9h ]
+hatoka checks.
+JACKMAX222 checks.
+Bumper166 checks.
+Beckster114 checks.
+BRIANROB222 bets (40)
+Retschy001 raises (80) to 80
+ToffeemanJim folds.
+grantwydels folds.
+hatoka folds.
+JACKMAX222 calls (80)
+Bumper166 folds.
+Beckster114 calls (80)
+BRIANROB222 calls (40)
+** Dealing Turn ** :  [ Ks ]
+JACKMAX222 checks.
+Beckster114 checks.
+BRIANROB222 checks.
+Retschy001 bets (200)
+JACKMAX222 folds.
+Beckster114 folds.
+BRIANROB222 folds.
+** Summary **
+Main Pot: 640
+Board: [ 2d Qh 9h Ks  ]
+
+Beckster114 balance 1880, lost 120 (folded)
+BRIANROB222 balance 1880, lost 120 (folded)
+geebalynt01 balance 2000, didn't bet (folded)
+Retschy001 balance 2520, bet 320, collected 840, net +520
+L2525B balance 2000, didn't bet (folded)
+ToffeemanJim balance 1960, lost 40 (folded)
+grantwydels balance 1960, lost 40 (folded)
+hatoka balance 1960, lost 40 (folded)
+JACKMAX222 balance 1880, lost 120 (folded)
+Bumper166 balance 1960, lost 40 (folded)
+
+***** Hand History for Game 6020504994 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719837)  - Thu May 31 15:11:15 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 8 is the button
+Total number of players : 10
+Seat 1: Beckster114 (1880)
+Seat 2: BRIANROB222 (1880)
+Seat 3: geebalynt01 (2000)
+Seat 4: Retschy001 (2520)
+Seat 5: L2525B (2000)
+Seat 6: ToffeemanJim (1960)
+Seat 7: grantwydels (1960)
+Seat 8: hatoka (1960)
+Seat 9: JACKMAX222 (1880)
+Seat 10: Bumper166 (1960)
+JACKMAX222  posts small blind (20)
+Bumper166  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ Qc, 6s ]
+Beckster114 calls (40)
+BRIANROB222 calls (40)
+geebalynt01 calls (40)
+Retschy001 calls (40)
+L2525B calls (40)
+ToffeemanJim folds.
+grantwydels calls (40)
+hatoka folds.
+JACKMAX222 calls (20)
+Bumper166 checks.
+** Dealing Flop ** :  [ Qh, Ah, 7s ]
+JACKMAX222 checks.
+Bumper166 checks.
+Beckster114 checks.
+BRIANROB222 bets (40)
+geebalynt01 folds.
+Retschy001 folds.
+L2525B calls (40)
+grantwydels calls (40)
+JACKMAX222 calls (40)
+Bumper166 folds.
+Beckster114 calls (40)
+** Dealing Turn ** :  [ 3h ]
+JACKMAX222 checks.
+Beckster114 checks.
+BRIANROB222 bets (40)
+L2525B calls (40)
+grantwydels calls (40)
+JACKMAX222 calls (40)
+Beckster114 calls (40)
+** Dealing River ** :  [ Qs ]
+JACKMAX222 checks.
+Beckster114 checks.
+BRIANROB222 checks.
+L2525B bets (350)
+grantwydels folds.
+JACKMAX222 calls (350)
+Beckster114 folds.
+BRIANROB222 calls (350)
+** Summary **
+Main Pot: 1770
+Board: [ Qh Ah 7s 3h Qs  ]
+
+Beckster114 balance 1760, lost 120 (folded)
+BRIANROB222 balance 3180, bet 470, collected 1770, net +1300 [ Js Jh ] [ two pairs, Queens and Jacks -- Ah,Qh,Qs,Js,Jh ]
+geebalynt01 balance 1960, lost 40 (folded)
+Retschy001 balance 2480, lost 40 (folded)
+L2525B balance 1530, lost 470 [ Jc Kh ] [ a pair of Queens -- Ah,Kh,Qh,Qs,Jc ]
+ToffeemanJim balance 1960, didn't bet (folded)
+grantwydels balance 1840, lost 120 (folded)
+hatoka balance 1960, didn't bet (folded)
+JACKMAX222 balance 1410, lost 470 [ 4s 4h ] [ two pairs, Queens and Fours -- Ah,Qh,Qs,4s,4h ]
+Bumper166 balance 1920, lost 40 (folded)
+
+***** Hand History for Game 6020510935 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719837)  - Thu May 31 15:12:55 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 9 is the button
+Total number of players : 10
+Seat 1: Beckster114 (1760)
+Seat 2: BRIANROB222 (3180)
+Seat 3: geebalynt01 (1960)
+Seat 4: Retschy001 (2480)
+Seat 5: L2525B (1530)
+Seat 6: ToffeemanJim (1960)
+Seat 7: grantwydels (1840)
+Seat 8: hatoka (1960)
+Seat 9: JACKMAX222 (1410)
+Seat 10: Bumper166 (1920)
+Bumper166  posts small blind (20)
+Beckster114  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 8h, 2d ]
+BRIANROB222 folds.
+geebalynt01 folds.
+Retschy001 calls (40)
+L2525B folds.
+ToffeemanJim raises (250) to 250
+grantwydels calls (250)
+hatoka folds.
+JACKMAX222 folds.
+Bumper166 folds.
+Beckster114 folds.
+Retschy001 folds.
+** Dealing Flop ** :  [ Qd, 5d, 9c ]
+ToffeemanJim bets (425)
+grantwydels calls (425)
+** Dealing Turn ** :  [ Jh ]
+ToffeemanJim bets (900)
+grantwydels raises (1165) to 1165
+grantwydels is all-In.
+ToffeemanJim calls (265)
+** Dealing River ** :  [ 8c ]
+Creating Main Pot with $3780 with grantwydels
+** Summary **
+Main Pot: 3780
+Board: [ Qd 5d 9c Jh 8c  ]
+
+Beckster114 balance 1720, lost 40 (folded)
+BRIANROB222 balance 3180, didn't bet (folded)
+geebalynt01 balance 1960, didn't bet (folded)
+Retschy001 balance 2440, lost 40 (folded)
+L2525B balance 1530, didn't bet (folded)
+ToffeemanJim balance 3900, bet 1840, collected 3780, net +1940 [ Ks Ac ] [ high card Ace with King kicker -- Ac,Ks,Qd,Jh,9c ]
+grantwydels balance 0, lost 1840 [ 6h Ad ] [ high card Ace -- Ad,Qd,Jh,9c,8c ]
+hatoka balance 1960, didn't bet (folded)
+JACKMAX222 balance 1410, didn't bet (folded)
+Bumper166 balance 1900, lost 20 (folded)
+
+***** Hand History for Game 6020515267 *****
+grantwydels finished in 10 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719837)  - Thu May 31 15:14:10 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 10 is the button
+Total number of players : 9
+Seat 1: Beckster114 (1720)
+Seat 2: BRIANROB222 (3180)
+Seat 3: geebalynt01 (1960)
+Seat 4: Retschy001 (2440)
+Seat 5: L2525B (1530)
+Seat 6: ToffeemanJim (3900)
+Seat 8: hatoka (1960)
+Seat 9: JACKMAX222 (1410)
+Seat 10: Bumper166 (1900)
+Beckster114  posts small blind (20)
+BRIANROB222  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ Qh, Jd ]
+geebalynt01 folds.
+Retschy001 folds.
+L2525B folds.
+ToffeemanJim folds.
+hatoka raises (120) to 120
+JACKMAX222 folds.
+Bumper166 calls (120)
+Beckster114 folds.
+BRIANROB222 calls (80)
+** Dealing Flop ** :  [ Ah, Kc, 5s ]
+BRIANROB222 bets (40)
+hatoka calls (40)
+Bumper166 calls (40)
+** Dealing Turn ** :  [ 8d ]
+BRIANROB222 checks.
+hatoka checks.
+Bumper166 bets (120)
+BRIANROB222 calls (120)
+hatoka folds.
+** Dealing River ** :  [ 8c ]
+BRIANROB222 checks.
+Bumper166 bets (400)
+BRIANROB222 calls (400)
+** Summary **
+Main Pot: 1540
+Board: [ Ah Kc 5s 8d 8c  ]
+
+Beckster114 balance 1700, lost 20 (folded)
+BRIANROB222 balance 3270, bet 680, collected 770, net +90 [ As 6h ] [ two pairs, Aces and Eights -- As,Ah,Kc,8d,8c ]
+geebalynt01 balance 1960, didn't bet (folded)
+Retschy001 balance 2440, didn't bet (folded)
+L2525B balance 1530, didn't bet (folded)
+ToffeemanJim balance 3900, didn't bet (folded)
+hatoka balance 1800, lost 160 (folded)
+JACKMAX222 balance 1410, didn't bet (folded)
+Bumper166 balance 1990, bet 680, collected 770, net +90 [ 5c Ad ] [ two pairs, Aces and Eights -- Ad,Ah,Kc,8d,8c ]
+
+***** Hand History for Game 6020518470 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719837)  - Thu May 31 15:15:03 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 1 is the button
+Total number of players : 9
+Seat 1: Beckster114 (1700)
+Seat 2: BRIANROB222 (3270)
+Seat 3: geebalynt01 (1960)
+Seat 4: Retschy001 (2440)
+Seat 5: L2525B (1530)
+Seat 6: ToffeemanJim (3900)
+Seat 8: hatoka (1800)
+Seat 9: JACKMAX222 (1410)
+Seat 10: Bumper166 (1990)
+BRIANROB222  posts small blind (30)
+geebalynt01  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 7h, Ts ]
+Retschy001 raises (240) to 240
+L2525B folds.
+ToffeemanJim folds.
+hatoka folds.
+JACKMAX222 folds.
+Bumper166 folds.
+Beckster114 folds.
+BRIANROB222 folds.
+geebalynt01 calls (180)
+** Dealing Flop ** :  [ 5h, Qd, Js ]
+geebalynt01 checks.
+Retschy001 bets (300)
+geebalynt01 folds.
+** Summary **
+Main Pot: 510
+Board: [ 5h Qd Js  ]
+
+Beckster114 balance 1700, didn't bet (folded)
+BRIANROB222 balance 3240, lost 30 (folded)
+geebalynt01 balance 1720, lost 240 (folded)
+Retschy001 balance 2710, bet 540, collected 810, net +270
+L2525B balance 1530, didn't bet (folded)
+ToffeemanJim balance 3900, didn't bet (folded)
+hatoka balance 1800, didn't bet (folded)
+JACKMAX222 balance 1410, didn't bet (folded)
+Bumper166 balance 1990, didn't bet (folded)
+
+***** Hand History for Game 6020521755 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719837)  - Thu May 31 15:15:59 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 2 is the button
+Total number of players : 9
+Seat 1: Beckster114 (1700)
+Seat 2: BRIANROB222 (3240)
+Seat 3: geebalynt01 (1720)
+Seat 4: Retschy001 (2710)
+Seat 5: L2525B (1530)
+Seat 6: ToffeemanJim (3900)
+Seat 8: hatoka (1800)
+Seat 9: JACKMAX222 (1410)
+Seat 10: Bumper166 (1990)
+geebalynt01  posts small blind (30)
+Retschy001  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 5d, Jc ]
+L2525B calls (60)
+ToffeemanJim folds.
+hatoka folds.
+JACKMAX222 calls (60)
+Bumper166 folds.
+Beckster114 calls (60)
+BRIANROB222 calls (60)
+geebalynt01 folds.
+Retschy001 raises (420) to 480
+L2525B folds.
+JACKMAX222 folds.
+Beckster114 folds.
+BRIANROB222 folds.
+** Summary **
+Main Pot: 330
+
+Beckster114 balance 1640, lost 60 (folded)
+BRIANROB222 balance 3180, lost 60 (folded)
+geebalynt01 balance 1690, lost 30 (folded)
+Retschy001 balance 2980, bet 480, collected 750, net +270
+L2525B balance 1470, lost 60 (folded)
+ToffeemanJim balance 3900, didn't bet (folded)
+hatoka balance 1800, didn't bet (folded)
+JACKMAX222 balance 1350, lost 60 (folded)
+Bumper166 balance 1990, didn't bet (folded)
+
+***** Hand History for Game 6020524172 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719837)  - Thu May 31 15:16:39 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 3 is the button
+Total number of players : 9
+Seat 1: Beckster114 (1640)
+Seat 2: BRIANROB222 (3180)
+Seat 3: geebalynt01 (1690)
+Seat 4: Retschy001 (2980)
+Seat 5: L2525B (1470)
+Seat 6: ToffeemanJim (3900)
+Seat 8: hatoka (1800)
+Seat 9: JACKMAX222 (1350)
+Seat 10: Bumper166 (1990)
+Retschy001  posts small blind (30)
+L2525B  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 7h, As ]
+ToffeemanJim calls (60)
+hatoka calls (60)
+JACKMAX222 folds.
+Bumper166 folds.
+Beckster114 calls (60)
+BRIANROB222 folds.
+geebalynt01 calls (60)
+Retschy001 calls (30)
+L2525B checks.
+** Dealing Flop ** :  [ Td, Tc, 2c ]
+Retschy001 checks.
+L2525B checks.
+ToffeemanJim checks.
+hatoka bets (300)
+Beckster114 folds.
+geebalynt01 folds.
+Retschy001 folds.
+L2525B folds.
+ToffeemanJim calls (300)
+** Dealing Turn ** :  [ 3c ]
+ToffeemanJim checks.
+hatoka checks.
+** Dealing River ** :  [ 9s ]
+ToffeemanJim bets (475)
+hatoka folds.
+** Summary **
+Main Pot: 960
+Board: [ Td Tc 2c 3c 9s  ]
+
+Beckster114 balance 1580, lost 60 (folded)
+BRIANROB222 balance 3180, didn't bet (folded)
+geebalynt01 balance 1630, lost 60 (folded)
+Retschy001 balance 2920, lost 60 (folded)
+L2525B balance 1410, lost 60 (folded)
+ToffeemanJim balance 4500, bet 835, collected 1435, net +600
+hatoka balance 1440, lost 360 (folded)
+JACKMAX222 balance 1350, didn't bet (folded)
+Bumper166 balance 1990, didn't bet (folded)
+
+***** Hand History for Game 6020528836 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719837)  - Thu May 31 15:17:58 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 4 is the button
+Total number of players : 9
+Seat 1: Beckster114 (1580)
+Seat 2: BRIANROB222 (3180)
+Seat 3: geebalynt01 (1630)
+Seat 4: Retschy001 (2920)
+Seat 5: L2525B (1410)
+Seat 6: ToffeemanJim (4500)
+Seat 8: hatoka (1440)
+Seat 9: JACKMAX222 (1350)
+Seat 10: Bumper166 (1990)
+L2525B  posts small blind (30)
+ToffeemanJim  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 2s, Jc ]
+hatoka folds.
+JACKMAX222 folds.
+Bumper166 calls (60)
+Beckster114 folds.
+BRIANROB222 calls (60)
+geebalynt01 folds.
+Retschy001 calls (60)
+L2525B raises (220) to 250
+ToffeemanJim calls (190)
+Bumper166 calls (190)
+BRIANROB222 folds.
+Retschy001 calls (190)
+** Dealing Flop ** :  [ 4s, 9c, Ks ]
+L2525B checks.
+ToffeemanJim checks.
+Bumper166 bets (500)
+Retschy001 folds.
+L2525B folds.
+ToffeemanJim folds.
+** Summary **
+Main Pot: 1060
+Board: [ 4s 9c Ks  ]
+
+Beckster114 balance 1580, didn't bet (folded)
+BRIANROB222 balance 3120, lost 60 (folded)
+geebalynt01 balance 1630, didn't bet (folded)
+Retschy001 balance 2670, lost 250 (folded)
+L2525B balance 1160, lost 250 (folded)
+ToffeemanJim balance 4250, lost 250 (folded)
+hatoka balance 1440, didn't bet (folded)
+JACKMAX222 balance 1350, didn't bet (folded)
+Bumper166 balance 2800, bet 750, collected 1560, net +810
+
+***** Hand History for Game 6020532154 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719837)  - Thu May 31 15:18:54 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 5 is the button
+Total number of players : 9
+Seat 1: Beckster114 (1580)
+Seat 2: BRIANROB222 (3120)
+Seat 3: geebalynt01 (1630)
+Seat 4: Retschy001 (2670)
+Seat 5: L2525B (1160)
+Seat 6: ToffeemanJim (4250)
+Seat 8: hatoka (1440)
+Seat 9: JACKMAX222 (1350)
+Seat 10: Bumper166 (2800)
+ToffeemanJim  posts small blind (30)
+hatoka  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 7c, 6h ]
+JACKMAX222 folds.
+Bumper166 raises (160) to 160
+Beckster114 folds.
+BRIANROB222 folds.
+geebalynt01 calls (160)
+Retschy001 calls (160)
+L2525B folds.
+ToffeemanJim folds.
+hatoka folds.
+** Dealing Flop ** :  [ Jd, Ks, 4c ]
+Bumper166 checks.
+geebalynt01 checks.
+Retschy001 bets (180)
+Bumper166 folds.
+geebalynt01 folds.
+** Summary **
+Main Pot: 570
+Board: [ Jd Ks 4c  ]
+
+Beckster114 balance 1580, didn't bet (folded)
+BRIANROB222 balance 3120, didn't bet (folded)
+geebalynt01 balance 1470, lost 160 (folded)
+Retschy001 balance 3080, bet 340, collected 750, net +410
+L2525B balance 1160, didn't bet (folded)
+ToffeemanJim balance 4220, lost 30 (folded)
+hatoka balance 1380, lost 60 (folded)
+JACKMAX222 balance 1350, didn't bet (folded)
+Bumper166 balance 2640, lost 160 (folded)
+
+***** Hand History for Game 6020535197 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719837)  - Thu May 31 15:19:45 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 6 is the button
+Total number of players : 9
+Seat 1: Beckster114 (1580)
+Seat 2: BRIANROB222 (3120)
+Seat 3: geebalynt01 (1470)
+Seat 4: Retschy001 (3080)
+Seat 5: L2525B (1160)
+Seat 6: ToffeemanJim (4220)
+Seat 8: hatoka (1380)
+Seat 9: JACKMAX222 (1350)
+Seat 10: Bumper166 (2640)
+hatoka  posts small blind (30)
+JACKMAX222  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 5s, Kc ]
+Bumper166 calls (60)
+Beckster114 folds.
+BRIANROB222 calls (60)
+geebalynt01 calls (60)
+Retschy001 folds.
+L2525B folds.
+ToffeemanJim raises (390) to 390
+hatoka folds.
+JACKMAX222 folds.
+Bumper166 calls (330)
+BRIANROB222 calls (330)
+geebalynt01 calls (330)
+** Dealing Flop ** :  [ 6d, 9d, Ks ]
+Bumper166 checks.
+BRIANROB222 checks.
+geebalynt01 bets (720)
+ToffeemanJim folds.
+Bumper166 folds.
+BRIANROB222 calls (720)
+** Dealing Turn ** :  [ 8c ]
+BRIANROB222 checks.
+geebalynt01 bets (360)
+geebalynt01 is all-In.
+BRIANROB222 calls (360)
+** Dealing River ** :  [ 3s ]
+Creating Main Pot with $3810 with geebalynt01
+** Summary **
+Main Pot: 3810
+Board: [ 6d 9d Ks 8c 3s  ]
+
+Beckster114 balance 1580, didn't bet (folded)
+BRIANROB222 balance 1650, lost 1470 [ Js Jc ] [ a pair of Jacks -- Ks,Js,Jc,9d,8c ]
+geebalynt01 balance 3810, bet 1470, collected 3810, net +2340 [ 6c 6s ] [ three of a kind, Sixes -- Ks,9d,6c,6s,6d ]
+Retschy001 balance 3080, didn't bet (folded)
+L2525B balance 1160, didn't bet (folded)
+ToffeemanJim balance 3830, lost 390 (folded)
+hatoka balance 1350, lost 30 (folded)
+JACKMAX222 balance 1290, lost 60 (folded)
+Bumper166 balance 2250, lost 390 (folded)
+
+***** Hand History for Game 6020538766 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719837)  - Thu May 31 15:20:45 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 8 is the button
+Total number of players : 9
+Seat 1: Beckster114 (1580)
+Seat 2: BRIANROB222 (1650)
+Seat 3: geebalynt01 (3810)
+Seat 4: Retschy001 (3080)
+Seat 5: L2525B (1160)
+Seat 6: ToffeemanJim (3830)
+Seat 8: hatoka (1350)
+Seat 9: JACKMAX222 (1290)
+Seat 10: Bumper166 (2250)
+JACKMAX222  posts small blind (50)
+Bumper166  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 7d, Ad ]
+Beckster114 calls (100)
+BRIANROB222 calls (100)
+geebalynt01 folds.
+Retschy001 folds.
+L2525B raises (200) to 200
+ToffeemanJim folds.
+hatoka calls (200)
+JACKMAX222 folds.
+Bumper166 folds.
+Beckster114 calls (100)
+BRIANROB222 calls (100)
+** Dealing Flop ** :  [ Ks, Jh, Kh ]
+Beckster114 checks.
+BRIANROB222 checks.
+L2525B checks.
+hatoka checks.
+** Dealing Turn ** :  [ 8h ]
+Beckster114 checks.
+BRIANROB222 bets (500)
+L2525B folds.
+hatoka folds.
+Beckster114 folds.
+** Summary **
+Main Pot: 950
+Board: [ Ks Jh Kh 8h  ]
+
+Beckster114 balance 1380, lost 200 (folded)
+BRIANROB222 balance 2400, bet 700, collected 1450, net +750
+geebalynt01 balance 3810, didn't bet (folded)
+Retschy001 balance 3080, didn't bet (folded)
+L2525B balance 960, lost 200 (folded)
+ToffeemanJim balance 3830, didn't bet (folded)
+hatoka balance 1150, lost 200 (folded)
+JACKMAX222 balance 1240, lost 50 (folded)
+Bumper166 balance 2150, lost 100 (folded)
+
+***** Hand History for Game 6020543084 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719837)  - Thu May 31 15:21:58 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 9 is the button
+Total number of players : 9
+Seat 1: Beckster114 (1380)
+Seat 2: BRIANROB222 (2400)
+Seat 3: geebalynt01 (3810)
+Seat 4: Retschy001 (3080)
+Seat 5: L2525B (960)
+Seat 6: ToffeemanJim (3830)
+Seat 8: hatoka (1150)
+Seat 9: JACKMAX222 (1240)
+Seat 10: Bumper166 (2150)
+Bumper166  posts small blind (50)
+Beckster114  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Kh, 9h ]
+BRIANROB222 folds.
+geebalynt01 folds.
+Retschy001 raises (200) to 200
+L2525B folds.
+ToffeemanJim calls (200)
+hatoka calls (200)
+JACKMAX222 folds.
+Bumper166 folds.
+Beckster114 raises (1280) to 1380
+Beckster114 is all-In.
+Retschy001 calls (1180)
+ToffeemanJim folds.
+hatoka folds.
+** Dealing Flop ** :  [ As, Ts, Qc ]
+** Dealing Turn ** :  [ 4h ]
+** Dealing River ** :  [ 3h ]
+Creating Main Pot with $3210 with Beckster114
+** Summary **
+Main Pot: 3210
+Board: [ As Ts Qc 4h 3h  ]
+
+Beckster114 balance 3210, bet 1380, collected 3210, net +1830 [ Ah Ad ] [ three of a kind, Aces -- Ah,Ad,As,Qc,Ts ]
+BRIANROB222 balance 2400, didn't bet (folded)
+geebalynt01 balance 3810, didn't bet (folded)
+Retschy001 balance 1700, lost 1380 [ Js Th ] [ a pair of Tens -- As,Qc,Js,Th,Ts ]
+L2525B balance 960, didn't bet (folded)
+ToffeemanJim balance 3630, lost 200 (folded)
+hatoka balance 950, lost 200 (folded)
+JACKMAX222 balance 1240, didn't bet (folded)
+Bumper166 balance 2100, lost 50 (folded)
+
+***** Hand History for Game 6020545330 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719837)  - Thu May 31 15:22:36 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 10 is the button
+Total number of players : 9
+Seat 1: Beckster114 (3210)
+Seat 2: BRIANROB222 (2400)
+Seat 3: geebalynt01 (3810)
+Seat 4: Retschy001 (1700)
+Seat 5: L2525B (960)
+Seat 6: ToffeemanJim (3630)
+Seat 8: hatoka (950)
+Seat 9: JACKMAX222 (1240)
+Seat 10: Bumper166 (2100)
+Beckster114  posts small blind (50)
+BRIANROB222  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 3d, Kh ]
+geebalynt01 folds.
+Retschy001 calls (100)
+L2525B folds.
+ToffeemanJim folds.
+hatoka folds.
+JACKMAX222 folds.
+Bumper166 folds.
+Beckster114 calls (50)
+BRIANROB222 checks.
+** Dealing Flop ** :  [ 9h, 3s, 8d ]
+Beckster114 checks.
+BRIANROB222 checks.
+Retschy001 checks.
+** Dealing Turn ** :  [ Kd ]
+Beckster114 checks.
+BRIANROB222 bets (100)
+Retschy001 calls (100)
+Beckster114 folds.
+** Dealing River ** :  [ Kc ]
+BRIANROB222 bets (100)
+Retschy001 folds.
+** Summary **
+Main Pot: 500
+Board: [ 9h 3s 8d Kd Kc  ]
+
+Beckster114 balance 3110, lost 100 (folded)
+BRIANROB222 balance 2700, bet 300, collected 600, net +300
+geebalynt01 balance 3810, didn't bet (folded)
+Retschy001 balance 1500, lost 200 (folded)
+L2525B balance 960, didn't bet (folded)
+ToffeemanJim balance 3630, didn't bet (folded)
+hatoka balance 950, didn't bet (folded)
+JACKMAX222 balance 1240, didn't bet (folded)
+Bumper166 balance 2100, didn't bet (folded)
+
+***** Hand History for Game 6020547994 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719837)  - Thu May 31 15:23:22 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 1 is the button
+Total number of players : 9
+Seat 1: Beckster114 (3110)
+Seat 2: BRIANROB222 (2700)
+Seat 3: geebalynt01 (3810)
+Seat 4: Retschy001 (1500)
+Seat 5: L2525B (960)
+Seat 6: ToffeemanJim (3630)
+Seat 8: hatoka (950)
+Seat 9: JACKMAX222 (1240)
+Seat 10: Bumper166 (2100)
+BRIANROB222  posts small blind (50)
+geebalynt01  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Jh, 2s ]
+Retschy001 folds.
+L2525B folds.
+ToffeemanJim raises (200) to 200
+hatoka folds.
+JACKMAX222 folds.
+Bumper166 folds.
+Beckster114 folds.
+BRIANROB222 folds.
+geebalynt01 folds.
+** Summary **
+Main Pot: 250
+
+Beckster114 balance 3110, didn't bet (folded)
+BRIANROB222 balance 2650, lost 50 (folded)
+geebalynt01 balance 3710, lost 100 (folded)
+Retschy001 balance 1500, didn't bet (folded)
+L2525B balance 960, didn't bet (folded)
+ToffeemanJim balance 3780, bet 200, collected 350, net +150
+hatoka balance 950, didn't bet (folded)
+JACKMAX222 balance 1240, didn't bet (folded)
+Bumper166 balance 2100, didn't bet (folded)
+
+***** Hand History for Game 6020549534 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719837)  - Thu May 31 15:23:49 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 2 is the button
+Total number of players : 9
+Seat 1: Beckster114 (3110)
+Seat 2: BRIANROB222 (2650)
+Seat 3: geebalynt01 (3710)
+Seat 4: Retschy001 (1500)
+Seat 5: L2525B (960)
+Seat 6: ToffeemanJim (3780)
+Seat 8: hatoka (950)
+Seat 9: JACKMAX222 (1240)
+Seat 10: Bumper166 (2100)
+geebalynt01  posts small blind (50)
+Retschy001  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 8s, 5d ]
+L2525B folds.
+ToffeemanJim folds.
+hatoka folds.
+JACKMAX222 calls (100)
+Bumper166 calls (100)
+Beckster114 raises (300) to 300
+BRIANROB222 folds.
+geebalynt01 calls (250)
+Retschy001 calls (200)
+JACKMAX222 folds.
+Bumper166 calls (200)
+** Dealing Flop ** :  [ 3s, 5c, 2d ]
+geebalynt01 checks.
+Retschy001 bets (500)
+Bumper166 folds.
+Beckster114 folds.
+geebalynt01 calls (500)
+** Dealing Turn ** :  [ Kc ]
+geebalynt01 checks.
+Retschy001 bets (700)
+Retschy001 is all-In.
+geebalynt01 calls (700)
+** Dealing River ** :  [ Jc ]
+Creating Main Pot with $3700 with Retschy001
+** Summary **
+Main Pot: 3700
+Board: [ 3s 5c 2d Kc Jc  ]
+
+Beckster114 balance 2810, lost 300 (folded)
+BRIANROB222 balance 2650, didn't bet (folded)
+geebalynt01 balance 5910, bet 1500, collected 3700, net +2200 [ Tc Ac ] [ a flush, Ace high -- Ac,Kc,Jc,Tc,5c ]
+Retschy001 balance 0, lost 1500 [ 5h 3d ] [ two pairs, Fives and Threes -- Kc,5h,5c,3d,3s ]
+L2525B balance 960, didn't bet (folded)
+ToffeemanJim balance 3780, didn't bet (folded)
+hatoka balance 950, didn't bet (folded)
+JACKMAX222 balance 1140, lost 100 (folded)
+Bumper166 balance 1800, lost 300 (folded)
+
+***** Hand History for Game 6020554922 *****
+Retschy001 finished in 9 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719837)  - Thu May 31 15:25:21 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 3 is the button
+Total number of players : 8
+Seat 1: Beckster114 (2810)
+Seat 2: BRIANROB222 (2650)
+Seat 3: geebalynt01 (5910)
+Seat 5: L2525B (960)
+Seat 6: ToffeemanJim (3780)
+Seat 8: hatoka (950)
+Seat 9: JACKMAX222 (1140)
+Seat 10: Bumper166 (1800)
+L2525B  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 5h, Tc ]
+ToffeemanJim calls (100)
+hatoka folds.
+JACKMAX222 folds.
+Bumper166 folds.
+Beckster114 raises (300) to 300
+BRIANROB222 folds.
+geebalynt01 folds.
+L2525B calls (200)
+ToffeemanJim calls (200)
+** Dealing Flop ** :  [ 3s, 9d, As ]
+L2525B checks.
+ToffeemanJim checks.
+Beckster114 bets (600)
+L2525B folds.
+ToffeemanJim calls (600)
+** Dealing Turn ** :  [ Qd ]
+ToffeemanJim checks.
+Beckster114 bets (700)
+ToffeemanJim raises (1400) to 1400
+Beckster114 calls (700)
+** Dealing River ** :  [ 2h ]
+JACKMAX222: is that u cav
+ToffeemanJim bets (550)
+Beckster114 calls (510)
+Beckster114 is all-In.
+Creating Main Pot with $5920 with Beckster114
+** Summary **
+Main Pot: 5920
+Board: [ 3s 9d As Qd 2h  ]
+
+Beckster114 balance 0, lost 2810 [ Kc Ac ] [ a pair of Aces -- Ac,As,Kc,Qd,9d ]
+BRIANROB222 balance 2650, didn't bet (folded)
+geebalynt01 balance 5910, didn't bet (folded)
+L2525B balance 660, lost 300 (folded)
+ToffeemanJim balance 6890, bet 2850, collected 5960, net +3110 [ 3c 3h ] [ three of a kind, Threes -- As,Qd,3c,3h,3s ]
+hatoka balance 950, didn't bet (folded)
+JACKMAX222 balance 1140, didn't bet (folded)
+Bumper166 balance 1800, didn't bet (folded)
+
+***** Hand History for Game 6020560030 *****
+Beckster114 finished in 8 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719837)  - Thu May 31 15:26:46 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 3 is the button
+Total number of players : 7
+Seat 2: BRIANROB222 (2650)
+Seat 3: geebalynt01 (5910)
+Seat 5: L2525B (660)
+Seat 6: ToffeemanJim (6890)
+Seat 8: hatoka (950)
+Seat 9: JACKMAX222 (1140)
+Seat 10: Bumper166 (1800)
+L2525B  posts small blind (100)
+ToffeemanJim  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 7s, 5s ]
+hatoka folds.
+JACKMAX222 calls (200)
+Bumper166 folds.
+BRIANROB222 folds.
+geebalynt01 folds.
+L2525B raises (560) to 660
+L2525B is all-In.
+ToffeemanJim calls (460)
+JACKMAX222 folds.
+** Dealing Flop ** :  [ Qc, Kh, 5c ]
+** Dealing Turn ** :  [ Kc ]
+** Dealing River ** :  [ 6d ]
+Creating Main Pot with $1520 with L2525B
+** Summary **
+Main Pot: 1520
+Board: [ Qc Kh 5c Kc 6d  ]
+
+BRIANROB222 balance 2650, didn't bet (folded)
+geebalynt01 balance 5910, didn't bet (folded)
+L2525B balance 1520, bet 660, collected 1520, net +860 [ Ks 7c ] [ three of a kind, Kings -- Ks,Kh,Kc,Qc,7c ]
+ToffeemanJim balance 6230, lost 660 [ 9c Qh ] [ two pairs, Kings and Queens -- Kh,Kc,Qh,Qc,9c ]
+hatoka balance 950, didn't bet (folded)
+JACKMAX222 balance 940, lost 200 (folded)
+Bumper166 balance 1800, didn't bet (folded)
+
+***** Hand History for Game 6020562115 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719837)  - Thu May 31 15:27:21 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 5 is the button
+Total number of players : 7
+Seat 2: BRIANROB222 (2650)
+Seat 3: geebalynt01 (5910)
+Seat 5: L2525B (1520)
+Seat 6: ToffeemanJim (6230)
+Seat 8: hatoka (950)
+Seat 9: JACKMAX222 (940)
+Seat 10: Bumper166 (1800)
+ToffeemanJim  posts small blind (100)
+hatoka  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ As, 9d ]
+JACKMAX222 calls (200)
+Bumper166 raises (600) to 600
+BRIANROB222 folds.
+geebalynt01 folds.
+L2525B folds.
+ToffeemanJim folds.
+hatoka raises (750) to 950
+hatoka is all-In.
+JACKMAX222 folds.
+Bumper166 calls (350)
+** Dealing Flop ** :  [ Td, 4s, 6h ]
+** Dealing Turn ** :  [ Qs ]
+** Dealing River ** :  [ 8s ]
+Creating Main Pot with $2200 with hatoka
+** Summary **
+Main Pot: 2200
+Board: [ Td 4s 6h Qs 8s  ]
+
+BRIANROB222 balance 2650, didn't bet (folded)
+geebalynt01 balance 5910, didn't bet (folded)
+L2525B balance 1520, didn't bet (folded)
+ToffeemanJim balance 6130, lost 100 (folded)
+hatoka balance 0, lost 950 [ As 9d ] [ high card Ace -- As,Qs,Td,9d,8s ]
+JACKMAX222 balance 740, lost 200 (folded)
+Bumper166 balance 3050, bet 950, collected 2200, net +1250 [ Kh Qh ] [ a pair of Queens -- Kh,Qh,Qs,Td,8s ]
+
+***** Hand History for Game 6020564347 *****
+hatoka finished in 7 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719837)  - Thu May 31 15:27:58 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 6 is the button
+Total number of players : 6
+Seat 2: BRIANROB222 (2650)
+Seat 3: geebalynt01 (5910)
+Seat 5: L2525B (1520)
+Seat 6: ToffeemanJim (6130)
+Seat 9: JACKMAX222 (740)
+Seat 10: Bumper166 (3050)
+JACKMAX222  posts big blind (200)
+** Dealing down cards **
+Bumper166 raises (400) to 400
+BRIANROB222 folds.
+geebalynt01 folds.
+L2525B folds.
+ToffeemanJim calls (400)
+JACKMAX222 folds.
+** Dealing Flop ** :  [ 8d, 4c, Ac ]
+Bumper166 bets (600)
+ToffeemanJim folds.
+** Summary **
+Main Pot: 1000
+Board: [ 8d 4c Ac  ]
+
+BRIANROB222 balance 2650, didn't bet (folded)
+geebalynt01 balance 5910, didn't bet (folded)
+L2525B balance 1520, didn't bet (folded)
+ToffeemanJim balance 5730, lost 400 (folded)
+JACKMAX222 balance 540, lost 200 (folded)
+Bumper166 balance 3650, bet 1000, collected 1600, net +600
+
+***** Hand History for Game 6020566788 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719837)  - Thu May 31 15:28:38 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 6 is the button
+Total number of players : 6
+Seat 2: BRIANROB222 (2650)
+Seat 3: geebalynt01 (5910)
+Seat 5: L2525B (1520)
+Seat 6: ToffeemanJim (5730)
+Seat 9: JACKMAX222 (540)
+Seat 10: Bumper166 (3650)
+JACKMAX222  posts small blind (100)
+Bumper166  posts big blind (200)
+** Dealing down cards **
+BRIANROB222 folds.
+geebalynt01 calls (200)
+L2525B calls (200)
+ToffeemanJim folds.
+JACKMAX222 folds.
+Bumper166 checks.
+** Dealing Flop ** :  [ 4h, 5d, Kc ]
+Bumper166 checks.
+geebalynt01 bets (200)
+L2525B folds.
+Bumper166 folds.
+** Summary **
+Main Pot: 700
+Board: [ 4h 5d Kc  ]
+
+BRIANROB222 balance 2650, didn't bet (folded)
+geebalynt01 balance 6410, bet 400, collected 900, net +500
+L2525B balance 1320, lost 200 (folded)
+ToffeemanJim balance 5730, didn't bet (folded)
+JACKMAX222 balance 440, lost 100 (folded)
+Bumper166 balance 3450, lost 200 (folded)
+
+***** Hand History for Game 6020569106 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719837)  - Thu May 31 15:29:17 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 9 is the button
+Total number of players : 6
+Seat 2: BRIANROB222 (2650)
+Seat 3: geebalynt01 (6410)
+Seat 5: L2525B (1320)
+Seat 6: ToffeemanJim (5730)
+Seat 9: JACKMAX222 (440)
+Seat 10: Bumper166 (3450)
+Bumper166  posts small blind (100)
+BRIANROB222  posts big blind (200)
+** Dealing down cards **
+geebalynt01 folds.
+L2525B raises (400) to 400
+ToffeemanJim calls (400)
+JACKMAX222 folds.
+Bumper166 folds.
+BRIANROB222 folds.
+** Dealing Flop ** :  [ 9h, Qc, Qd ]
+L2525B checks.
+ToffeemanJim checks.
+** Dealing Turn ** :  [ 2h ]
+L2525B bets (920)
+L2525B is all-In.
+ToffeemanJim folds.
+Creating Main Pot with $1100 with L2525B
+** Summary **
+Main Pot: 1100
+Board: [ 9h Qc Qd 2h  ]
+
+BRIANROB222 balance 2450, lost 200 (folded)
+geebalynt01 balance 6410, didn't bet (folded)
+L2525B balance 2020, bet 1320, collected 2020, net +700
+ToffeemanJim balance 5330, lost 400 (folded)
+JACKMAX222 balance 440, didn't bet (folded)
+Bumper166 balance 3350, lost 100 (folded)
+
+***** Hand History for Game 6020570959 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719837)  - Thu May 31 15:29:48 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 10 is the button
+Total number of players : 6
+Seat 2: BRIANROB222 (2450)
+Seat 3: geebalynt01 (6410)
+Seat 5: L2525B (2020)
+Seat 6: ToffeemanJim (5330)
+Seat 9: JACKMAX222 (440)
+Seat 10: Bumper166 (3350)
+BRIANROB222  posts small blind (100)
+geebalynt01  posts big blind (200)
+** Dealing down cards **
+L2525B folds.
+ToffeemanJim folds.
+JACKMAX222 calls (200)
+Bumper166 folds.
+BRIANROB222 calls (100)
+geebalynt01 checks.
+** Dealing Flop ** :  [ Qd, 8d, Jh ]
+BRIANROB222 checks.
+geebalynt01 checks.
+JACKMAX222 checks.
+** Dealing Turn ** :  [ 8c ]
+BRIANROB222 bets (200)
+geebalynt01 calls (200)
+JACKMAX222 calls (200)
+** Dealing River ** :  [ Qs ]
+BRIANROB222 bets (200)
+geebalynt01 folds.
+JACKMAX222 calls (40)
+JACKMAX222 is all-In.
+Creating Main Pot with $1280 with JACKMAX222
+** Summary **
+Main Pot: 1280
+Board: [ Qd 8d Jh 8c Qs  ]
+
+BRIANROB222 balance 3290, bet 600, collected 1440, net +840 [ 8s Jd ] [ a full house, Eights full of Queens -- Qd,Qs,8s,8d,8c ]
+geebalynt01 balance 6010, lost 400 (folded)
+L2525B balance 2020, didn't bet (folded)
+ToffeemanJim balance 5330, didn't bet (folded)
+JACKMAX222 balance 0, lost 440 [ 7s As ] [ two pairs, Queens and Eights -- As,Qd,Qs,8d,8c ]
+Bumper166 balance 3350, didn't bet (folded)
+
+***** Hand History for Game 6020574395 *****
+JACKMAX222 finished in 6 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719837)  - Thu May 31 15:30:43 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 2 is the button
+Total number of players : 5
+Seat 2: BRIANROB222 (3290)
+Seat 3: geebalynt01 (6010)
+Seat 5: L2525B (2020)
+Seat 6: ToffeemanJim (5330)
+Seat 10: Bumper166 (3350)
+geebalynt01  posts small blind (100)
+L2525B  posts big blind (200)
+** Dealing down cards **
+ToffeemanJim folds.
+Bumper166 folds.
+BRIANROB222 folds.
+geebalynt01 folds.
+** Summary **
+Main Pot: 200
+
+BRIANROB222 balance 3290, didn't bet (folded)
+geebalynt01 balance 5910, lost 100 (folded)
+L2525B balance 2120, bet 200, collected 300, net +100
+ToffeemanJim balance 5330, didn't bet (folded)
+Bumper166 balance 3350, didn't bet (folded)
+
+***** Hand History for Game 6020575557 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719837)  - Thu May 31 15:31:02 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 3 is the button
+Total number of players : 5
+Seat 2: BRIANROB222 (3290)
+Seat 3: geebalynt01 (5910)
+Seat 5: L2525B (2120)
+Seat 6: ToffeemanJim (5330)
+Seat 10: Bumper166 (3350)
+L2525B  posts small blind (100)
+ToffeemanJim  posts big blind (200)
+** Dealing down cards **
+Bumper166 raises (400) to 400
+BRIANROB222 folds.
+geebalynt01 folds.
+L2525B folds.
+ToffeemanJim calls (200)
+** Dealing Flop ** :  [ 6c, 2c, Jc ]
+ToffeemanJim bets (900)
+Bumper166 calls (900)
+** Dealing Turn ** :  [ Ac ]
+ToffeemanJim bets (2050)
+Bumper166 calls (2050)
+Bumper166 is all-In.
+** Dealing River ** :  [ Th ]
+Creating Main Pot with $6800 with Bumper166
+** Summary **
+Main Pot: 6800
+Board: [ 6c 2c Jc Ac Th  ]
+
+BRIANROB222 balance 3290, didn't bet (folded)
+geebalynt01 balance 5910, didn't bet (folded)
+L2525B balance 2020, lost 100 (folded)
+ToffeemanJim balance 1980, lost 3350 [ Ad 5c ] [ a flush, Ace high -- Ac,Jc,6c,5c,2c ]
+Bumper166 balance 6800, bet 3350, collected 6800, net +3450 [ Ah 9c ] [ a flush, Ace high with Nine kicker -- Ac,Jc,9c,6c,2c ]
+
+***** Hand History for Game 6020578249 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719837)  - Thu May 31 15:31:46 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 5 is the button
+Total number of players : 5
+Seat 2: BRIANROB222 (3290)
+Seat 3: geebalynt01 (5910)
+Seat 5: L2525B (2020)
+Seat 6: ToffeemanJim (1980)
+Seat 10: Bumper166 (6800)
+ToffeemanJim  posts small blind (200)
+Bumper166  posts big blind (400)
+** Dealing down cards **
+BRIANROB222 folds.
+geebalynt01 calls (400)
+L2525B folds.
+ToffeemanJim folds.
+Bumper166 checks.
+** Dealing Flop ** :  [ 9s, 6c, 7c ]
+Bumper166 checks.
+geebalynt01 bets (1200)
+Bumper166 folds.
+** Summary **
+Main Pot: 1000
+Board: [ 9s 6c 7c  ]
+
+BRIANROB222 balance 3290, didn't bet (folded)
+geebalynt01 balance 6510, bet 1600, collected 2200, net +600
+L2525B balance 2020, didn't bet (folded)
+ToffeemanJim balance 1780, lost 200 (folded)
+Bumper166 balance 6400, lost 400 (folded)
+
+***** Hand History for Game 6020580008 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719837)  - Thu May 31 15:32:15 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 6 is the button
+Total number of players : 5
+Seat 2: BRIANROB222 (3290)
+Seat 3: geebalynt01 (6510)
+Seat 5: L2525B (2020)
+Seat 6: ToffeemanJim (1780)
+Seat 10: Bumper166 (6400)
+Bumper166  posts small blind (200)
+BRIANROB222  posts big blind (400)
+** Dealing down cards **
+geebalynt01 calls (400)
+L2525B calls (400)
+ToffeemanJim calls (400)
+Bumper166 calls (200)
+BRIANROB222 checks.
+** Dealing Flop ** :  [ Ac, Jd, 3s ]
+Bumper166 checks.
+BRIANROB222 checks.
+geebalynt01 bets (1600)
+L2525B folds.
+ToffeemanJim folds.
+Bumper166 folds.
+BRIANROB222 folds.
+** Summary **
+Main Pot: 2000
+Board: [ Ac Jd 3s  ]
+
+BRIANROB222 balance 2890, lost 400 (folded)
+geebalynt01 balance 8110, bet 2000, collected 3600, net +1600
+L2525B balance 1620, lost 400 (folded)
+ToffeemanJim balance 1380, lost 400 (folded)
+Bumper166 balance 6000, lost 400 (folded)
+
+***** Hand History for Game 6020582248 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719837)  - Thu May 31 15:32:51 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 10 is the button
+Total number of players : 5
+Seat 2: BRIANROB222 (2890)
+Seat 3: geebalynt01 (8110)
+Seat 5: L2525B (1620)
+Seat 6: ToffeemanJim (1380)
+Seat 10: Bumper166 (6000)
+BRIANROB222  posts small blind (200)
+geebalynt01  posts big blind (400)
+** Dealing down cards **
+L2525B folds.
+ToffeemanJim folds.
+Bumper166 folds.
+BRIANROB222 calls (200)
+geebalynt01 checks.
+** Dealing Flop ** :  [ Qc, 7d, Ks ]
+BRIANROB222 checks.
+geebalynt01 checks.
+** Dealing Turn ** :  [ 7c ]
+BRIANROB222 checks.
+geebalynt01 bets (1200)
+BRIANROB222 raises (2490) to 2490
+BRIANROB222 is all-In.
+geebalynt01 calls (1290)
+** Dealing River ** :  [ 8h ]
+Creating Main Pot with $5780 with BRIANROB222
+** Summary **
+Main Pot: 5780
+Board: [ Qc 7d Ks 7c 8h  ]
+
+BRIANROB222 balance 5780, bet 2890, collected 5780, net +2890 [ Ad 7s ] [ three of a kind, Sevens -- Ad,Ks,7s,7d,7c ]
+geebalynt01 balance 5220, lost 2890 [ Ah 3s ] [ a pair of Sevens -- Ah,Ks,Qc,7d,7c ]
+L2525B balance 1620, didn't bet (folded)
+ToffeemanJim balance 1380, didn't bet (folded)
+Bumper166 balance 6000, didn't bet (folded)
+
+***** Hand History for Game 6020585098 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719837)  - Thu May 31 15:33:37 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 2 is the button
+Total number of players : 5
+Seat 2: BRIANROB222 (5780)
+Seat 3: geebalynt01 (5220)
+Seat 5: L2525B (1620)
+Seat 6: ToffeemanJim (1380)
+Seat 10: Bumper166 (6000)
+geebalynt01  posts small blind (200)
+L2525B  posts big blind (400)
+** Dealing down cards **
+ToffeemanJim folds.
+Bumper166 calls (400)
+BRIANROB222 calls (400)
+geebalynt01 calls (200)
+L2525B checks.
+** Dealing Flop ** :  [ Qh, Kh, 6s ]
+geebalynt01 checks.
+L2525B checks.
+Bumper166 checks.
+BRIANROB222 checks.
+** Dealing Turn ** :  [ Td ]
+geebalynt01 checks.
+L2525B checks.
+Bumper166 bets (800)
+BRIANROB222 calls (800)
+geebalynt01 folds.
+L2525B folds.
+** Dealing River ** :  [ Jd ]
+Bumper166 bets (1600)
+BRIANROB222 calls (1600)
+** Summary **
+Main Pot: 6400
+Board: [ Qh Kh 6s Td Jd  ]
+
+BRIANROB222 balance 6180, bet 2800, collected 3200, net +400 [ Qd 9d ] [ a straight Nine to King -- Kh,Qd,Jd,Td,9d ]
+geebalynt01 balance 4820, lost 400 (folded)
+L2525B balance 1220, lost 400 (folded)
+ToffeemanJim balance 1380, didn't bet (folded)
+Bumper166 balance 6400, bet 2800, collected 3200, net +400 [ Jc 9c ] [ a straight Nine to King -- Kh,Qh,Jc,Td,9c ]
+
+***** Hand History for Game 6020589127 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719837)  - Thu May 31 15:34:44 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 3 is the button
+Total number of players : 5
+Seat 2: BRIANROB222 (6180)
+Seat 3: geebalynt01 (4820)
+Seat 5: L2525B (1220)
+Seat 6: ToffeemanJim (1380)
+Seat 10: Bumper166 (6400)
+L2525B  posts small blind (200)
+ToffeemanJim  posts big blind (400)
+** Dealing down cards **
+Bumper166 folds.
+BRIANROB222 folds.
+geebalynt01 folds.
+L2525B raises (1020) to 1220
+L2525B is all-In.
+ToffeemanJim calls (820)
+** Dealing Flop ** :  [ 7d, 8c, 6d ]
+** Dealing Turn ** :  [ 3h ]
+** Dealing River ** :  [ Qh ]
+Creating Main Pot with $2440 with L2525B
+** Summary **
+Main Pot: 2440
+Board: [ 7d 8c 6d 3h Qh  ]
+
+BRIANROB222 balance 6180, didn't bet (folded)
+geebalynt01 balance 4820, didn't bet (folded)
+L2525B balance 2440, bet 1220, collected 2440, net +1220 [ Qs 4d ] [ a pair of Queens -- Qs,Qh,8c,7d,6d ]
+ToffeemanJim balance 160, lost 1220 [ 5c 3d ] [ a pair of Threes -- Qh,8c,7d,3d,3h ]
+Bumper166 balance 6400, didn't bet (folded)
+
+***** Hand History for Game 6020590806 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719837)  - Thu May 31 15:35:13 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 5 is the button
+Total number of players : 5
+Seat 2: BRIANROB222 (6180)
+Seat 3: geebalynt01 (4820)
+Seat 5: L2525B (2440)
+Seat 6: ToffeemanJim (160)
+Seat 10: Bumper166 (6400)
+ToffeemanJim  posts small blind (160)
+Bumper166  posts big blind (400)
+** Dealing down cards **
+BRIANROB222 folds.
+geebalynt01 folds.
+L2525B folds.
+ToffeemanJim is all-In.
+** Dealing Flop ** :  [ 8h, 4h, 9c ]
+** Dealing Turn ** :  [ 5d ]
+** Dealing River ** :  [ Qd ]
+Creating Main Pot with $320 with ToffeemanJim
+** Summary **
+Main Pot: 320
+Board: [ 8h 4h 9c 5d Qd  ]
+
+BRIANROB222 balance 6180, didn't bet (folded)
+geebalynt01 balance 4820, didn't bet (folded)
+L2525B balance 2440, didn't bet (folded)
+ToffeemanJim balance 320, bet 160, collected 320, net +160 [ 3c 4c ] [ a pair of Fours -- Qd,9c,8h,4c,4h ]
+Bumper166 balance 6240, bet 400, collected 240, lost -160 [ 6c Ac ] [ high card Ace -- Ac,Qd,9c,8h,6c ]
+
+***** Hand History for Game 6020591855 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719837)  - Thu May 31 15:35:30 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 6 is the button
+Total number of players : 5
+Seat 2: BRIANROB222 (6180)
+Seat 3: geebalynt01 (4820)
+Seat 5: L2525B (2440)
+Seat 6: ToffeemanJim (320)
+Seat 10: Bumper166 (6240)
+Bumper166  posts small blind (200)
+BRIANROB222  posts big blind (400)
+** Dealing down cards **
+geebalynt01 folds.
+L2525B folds.
+ToffeemanJim calls (320)
+ToffeemanJim is all-In.
+Bumper166 folds.
+** Dealing Flop ** :  [ 3h, 2s, Ad ]
+** Dealing Turn ** :  [ Jd ]
+** Dealing River ** :  [ 7c ]
+Creating Main Pot with $840 with ToffeemanJim
+** Summary **
+Main Pot: 840
+Board: [ 3h 2s Ad Jd 7c  ]
+
+BRIANROB222 balance 5860, bet 400, collected 80, lost -320 [ 6s 3c ] [ a pair of Threes -- Ad,Jd,7c,3c,3h ]
+geebalynt01 balance 4820, didn't bet (folded)
+L2525B balance 2440, didn't bet (folded)
+ToffeemanJim balance 840, bet 320, collected 840, net +520 [ 8c 8h ] [ a pair of Eights -- Ad,Jd,8c,8h,7c ]
+Bumper166 balance 6040, lost 200 (folded)
+
+***** Hand History for Game 6020592817 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719837)  - Thu May 31 15:35:46 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 10 is the button
+Total number of players : 5
+Seat 2: BRIANROB222 (5860)
+Seat 3: geebalynt01 (4820)
+Seat 5: L2525B (2440)
+Seat 6: ToffeemanJim (840)
+Seat 10: Bumper166 (6040)
+BRIANROB222  posts small blind (200)
+geebalynt01  posts big blind (400)
+** Dealing down cards **
+L2525B folds.
+ToffeemanJim raises (840) to 840
+ToffeemanJim is all-In.
+Bumper166 folds.
+BRIANROB222 calls (640)
+geebalynt01 folds.
+** Dealing Flop ** :  [ 4d, 3d, 5h ]
+** Dealing Turn ** :  [ Qh ]
+** Dealing River ** :  [ 9d ]
+Creating Main Pot with $2080 with ToffeemanJim
+** Summary **
+Main Pot: 2080
+Board: [ 4d 3d 5h Qh 9d  ]
+
+BRIANROB222 balance 7100, bet 840, collected 2080, net +1240 [ 7s Ad ] [ high card Ace -- Ad,Qh,9d,7s,5h ]
+geebalynt01 balance 4420, lost 400 (folded)
+L2525B balance 2440, didn't bet (folded)
+ToffeemanJim balance 0, lost 840 [ Kd Tc ] [ high card King -- Kd,Qh,Tc,9d,5h ]
+Bumper166 balance 6040, didn't bet (folded)
+
+***** Hand History for Game 6020594449 *****
+ToffeemanJim finished in 5 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719837)  - Thu May 31 15:36:13 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 2 is the button
+Total number of players : 4
+Seat 2: BRIANROB222 (7100)
+Seat 3: geebalynt01 (4420)
+Seat 5: L2525B (2440)
+Seat 10: Bumper166 (6040)
+geebalynt01  posts small blind (200)
+L2525B  posts big blind (400)
+** Dealing down cards **
+Bumper166 calls (400)
+BRIANROB222 folds.
+geebalynt01 calls (200)
+L2525B checks.
+** Dealing Flop ** :  [ Ks, 9h, Jd ]
+geebalynt01 bets (1600)
+L2525B folds.
+Bumper166 folds.
+** Summary **
+Main Pot: 1200
+Board: [ Ks 9h Jd  ]
+
+BRIANROB222 balance 7100, didn't bet (folded)
+geebalynt01 balance 5220, bet 2000, collected 2800, net +800
+L2525B balance 2040, lost 400 (folded)
+Bumper166 balance 5640, lost 400 (folded)
+
+***** Hand History for Game 6020595931 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719837)  - Thu May 31 15:36:38 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 3 is the button
+Total number of players : 4
+Seat 2: BRIANROB222 (7100)
+Seat 3: geebalynt01 (5220)
+Seat 5: L2525B (2040)
+Seat 10: Bumper166 (5640)
+L2525B  posts small blind (200)
+Bumper166  posts big blind (400)
+** Dealing down cards **
+BRIANROB222 folds.
+geebalynt01 folds.
+L2525B raises (600) to 800
+Bumper166 calls (400)
+** Dealing Flop ** :  [ Qs, Jh, Ah ]
+L2525B bets (400)
+Bumper166 calls (400)
+** Dealing Turn ** :  [ 4c ]
+L2525B checks.
+Bumper166 checks.
+** Dealing River ** :  [ 8d ]
+L2525B checks.
+Bumper166 checks.
+** Summary **
+Main Pot: 2400
+Board: [ Qs Jh Ah 4c 8d  ]
+
+BRIANROB222 balance 7100, didn't bet (folded)
+geebalynt01 balance 5220, didn't bet (folded)
+L2525B balance 3240, bet 1200, collected 2400, net +1200 [ Js 7c ] [ a pair of Jacks -- Ah,Qs,Js,Jh,8d ]
+
+Bumper166 balance 4440, lost 1200 [Didn't Show]
+
+***** Hand History for Game 6020597549 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719837)  - Thu May 31 15:37:04 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 5 is the button
+Total number of players : 4
+Seat 2: BRIANROB222 (7100)
+Seat 3: geebalynt01 (5220)
+Seat 5: L2525B (3240)
+Seat 10: Bumper166 (4440)
+Bumper166  posts small blind (300)
+BRIANROB222  posts big blind (600)
+** Dealing down cards **
+geebalynt01 folds.
+L2525B folds.
+Bumper166 folds.
+** Summary **
+Main Pot: 600
+
+BRIANROB222 balance 7400, bet 600, collected 900, net +300
+geebalynt01 balance 5220, didn't bet (folded)
+L2525B balance 3240, didn't bet (folded)
+Bumper166 balance 4140, lost 300 (folded)
+
+***** Hand History for Game 6020598137 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719837)  - Thu May 31 15:37:14 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 10 is the button
+Total number of players : 4
+Seat 2: BRIANROB222 (7400)
+Seat 3: geebalynt01 (5220)
+Seat 5: L2525B (3240)
+Seat 10: Bumper166 (4140)
+BRIANROB222  posts small blind (300)
+geebalynt01  posts big blind (600)
+** Dealing down cards **
+L2525B folds.
+Bumper166 calls (600)
+BRIANROB222 calls (300)
+geebalynt01 raises (600) to 1200
+Bumper166 calls (600)
+BRIANROB222 folds.
+** Dealing Flop ** :  [ Ac, 7d, Th ]
+geebalynt01 checks.
+Bumper166 bets (1800)
+geebalynt01 folds.
+** Summary **
+Main Pot: 3000
+Board: [ Ac 7d Th  ]
+
+BRIANROB222 balance 6800, lost 600 (folded)
+geebalynt01 balance 4020, lost 1200 (folded)
+L2525B balance 3240, didn't bet (folded)
+Bumper166 balance 5940, bet 3000, collected 4800, net +1800
+
+***** Hand History for Game 6020600081 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719837)  - Thu May 31 15:37:46 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 2 is the button
+Total number of players : 4
+Seat 2: BRIANROB222 (6800)
+Seat 3: geebalynt01 (4020)
+Seat 5: L2525B (3240)
+Seat 10: Bumper166 (5940)
+geebalynt01  posts small blind (300)
+L2525B  posts big blind (600)
+** Dealing down cards **
+Bumper166 folds.
+BRIANROB222 calls (600)
+geebalynt01 calls (300)
+L2525B checks.
+** Dealing Flop ** :  [ 6h, Th, Qd ]
+geebalynt01 checks.
+L2525B checks.
+BRIANROB222 bets (600)
+geebalynt01 folds.
+L2525B folds.
+** Summary **
+Main Pot: 1800
+Board: [ 6h Th Qd  ]
+
+BRIANROB222 balance 8000, bet 1200, collected 2400, net +1200
+geebalynt01 balance 3420, lost 600 (folded)
+L2525B balance 2640, lost 600 (folded)
+Bumper166 balance 5940, didn't bet (folded)
+
+***** Hand History for Game 6020601349 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719837)  - Thu May 31 15:38:07 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 3 is the button
+Total number of players : 4
+Seat 2: BRIANROB222 (8000)
+Seat 3: geebalynt01 (3420)
+Seat 5: L2525B (2640)
+Seat 10: Bumper166 (5940)
+L2525B  posts small blind (300)
+Bumper166  posts big blind (600)
+** Dealing down cards **
+BRIANROB222 folds.
+geebalynt01 raises (1200) to 1200
+L2525B folds.
+Bumper166 calls (600)
+** Dealing Flop ** :  [ Ts, 9s, As ]
+Bumper166 bets (1200)
+geebalynt01 raises (2220) to 2220
+geebalynt01 is all-In.
+Bumper166 calls (1020)
+** Dealing Turn ** :  [ 8d ]
+** Dealing River ** :  [ Kd ]
+Creating Main Pot with $7140 with geebalynt01
+** Summary **
+Main Pot: 7140
+Board: [ Ts 9s As 8d Kd  ]
+
+BRIANROB222 balance 8000, didn't bet (folded)
+geebalynt01 balance 0, lost 3420 [ Ad Qd ] [ a pair of Aces -- Ad,As,Kd,Qd,Ts ]
+L2525B balance 2340, lost 300 (folded)
+Bumper166 balance 9660, bet 3420, collected 7140, net +3720 [ Qc Js ] [ a straight Ten to Ace -- As,Kd,Qc,Js,Ts ]
+
+***** Hand History for Game 6020602950 *****
+geebalynt01 finished in 4 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719837)  - Thu May 31 15:38:34 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 5 is the button
+Total number of players : 3
+Seat 2: BRIANROB222 (8000)
+Seat 5: L2525B (2340)
+Seat 10: Bumper166 (9660)
+Bumper166  posts small blind (300)
+BRIANROB222  posts big blind (600)
+** Dealing down cards **
+L2525B folds.
+Bumper166 folds.
+** Summary **
+Main Pot: 600
+
+BRIANROB222 balance 8300, bet 600, collected 900, net +300
+L2525B balance 2340, didn't bet (folded)
+Bumper166 balance 9360, lost 300 (folded)
+
+***** Hand History for Game 6020603534 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719837)  - Thu May 31 15:38:44 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 10 is the button
+Total number of players : 3
+Seat 2: BRIANROB222 (8300)
+Seat 5: L2525B (2340)
+Seat 10: Bumper166 (9360)
+BRIANROB222  posts small blind (300)
+L2525B  posts big blind (600)
+** Dealing down cards **
+Bumper166 raises (1200) to 1200
+BRIANROB222 folds.
+L2525B calls (600)
+** Dealing Flop ** :  [ 9h, Js, 8c ]
+L2525B checks.
+Bumper166 checks.
+** Dealing Turn ** :  [ 3d ]
+L2525B bets (1140)
+L2525B is all-In.
+Bumper166 calls (1140)
+** Dealing River ** :  [ Kd ]
+Creating Main Pot with $4980 with L2525B
+** Summary **
+Main Pot: 4980
+Board: [ 9h Js 8c 3d Kd  ]
+
+BRIANROB222 balance 8000, lost 300 (folded)
+L2525B balance 0, lost 2340 [ 2h Kh ] [ a pair of Kings -- Kh,Kd,Js,9h,8c ]
+Bumper166 balance 12000, bet 2340, collected 4980, net +2640 [ Jc 8h ] [ two pairs, Jacks and Eights -- Kd,Jc,Js,8h,8c ]
+
+***** Hand History for Game 6020604930 *****
+L2525B finished in 3 place and won $10.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719837)  - Thu May 31 15:39:06 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 2 is the button
+Total number of players : 2
+Seat 2: BRIANROB222 (8000)
+Seat 10: Bumper166 (12000)
+BRIANROB222  posts small blind (300)
+Bumper166  posts big blind (600)
+** Dealing down cards **
+BRIANROB222 calls (300)
+Bumper166 raises (1200) to 1800
+BRIANROB222 calls (1200)
+** Dealing Flop ** :  [ 4d, 6c, Js ]
+Bumper166 bets (1200)
+BRIANROB222 folds.
+** Summary **
+Main Pot: 3600
+Board: [ 4d 6c Js  ]
+
+BRIANROB222 balance 6200, lost 1800 (folded)
+Bumper166 balance 13800, bet 3000, collected 4800, net +1800
+
+***** Hand History for Game 6020606261 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719837)  - Thu May 31 15:39:29 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 10 is the button
+Total number of players : 2
+Seat 2: BRIANROB222 (6200)
+Seat 10: Bumper166 (13800)
+Bumper166  posts small blind (300)
+BRIANROB222  posts big blind (600)
+** Dealing down cards **
+Bumper166 raises (1500) to 1800
+BRIANROB222 raises (2400) to 3000
+Bumper166 calls (1200)
+** Dealing Flop ** :  [ Tc, 4c, 7d ]
+BRIANROB222 bets (3000)
+Bumper166 folds.
+** Summary **
+Main Pot: 6000
+Board: [ Tc 4c 7d  ]
+
+BRIANROB222 balance 9200, bet 6000, collected 9000, net +3000
+Bumper166 balance 10800, lost 3000 (folded)
+
+***** Hand History for Game 6020607783 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719837)  - Thu May 31 15:39:55 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 2 is the button
+Total number of players : 2
+Seat 2: BRIANROB222 (9200)
+Seat 10: Bumper166 (10800)
+BRIANROB222  posts small blind (300)
+Bumper166  posts big blind (600)
+** Dealing down cards **
+BRIANROB222 raises (900) to 1200
+Bumper166 calls (600)
+** Dealing Flop ** :  [ 8c, Ac, Tc ]
+Bumper166 checks.
+BRIANROB222 bets (600)
+Bumper166 calls (600)
+** Dealing Turn ** :  [ Td ]
+Bumper166 bets (1200)
+BRIANROB222 folds.
+** Summary **
+Main Pot: 3600
+Board: [ 8c Ac Tc Td  ]
+
+BRIANROB222 balance 7400, lost 1800 (folded)
+Bumper166 balance 12600, bet 3000, collected 4800, net +1800
+
+***** Hand History for Game 6020609410 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33719837)  - Thu May 31 15:40:22 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 10 is the button
+Total number of players : 2
+Seat 2: BRIANROB222 (7400)
+Seat 10: Bumper166 (12600)
+Bumper166  posts small blind (300)
+BRIANROB222  posts big blind (600)
+** Dealing down cards **
+Bumper166 calls (300)
+BRIANROB222 raises (600) to 1200
+Bumper166 calls (600)
+** Dealing Flop ** :  [ 6s, 5d, As ]
+BRIANROB222 bets (1200)
+Bumper166 raises (3600) to 3600
+BRIANROB222 raises (5000) to 6200
+BRIANROB222 is all-In.
+Bumper166 calls (2600)
+** Dealing Turn ** :  [ 2c ]
+** Dealing River ** :  [ Ah ]
+Creating Main Pot with $14800 with BRIANROB222
+** Summary **
+Main Pot: 14800
+Board: [ 6s 5d As 2c Ah  ]
+
+BRIANROB222 balance 0, lost 7400 [ 5c Qc ] [ two pairs, Aces and Fives -- As,Ah,Qc,5c,5d ]
+Bumper166 balance 20000, bet 7400, collected 14800, net +7400 [ Ac Kh ] [ three of a kind, Aces -- Ac,As,Ah,Kh,6s ]
+
+
+

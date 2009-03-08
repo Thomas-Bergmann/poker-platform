@@ -1,0 +1,2287 @@
+
+Hello hatoka,
+These hand histories are provided to you as an aid for your training and development. You are not permitted to share them with anyone.  We reserve the right to cease providing them or apply further restrictions at any time.
+Complete hand histories are only available to players that participated in the hand.
+You requested a transcript of Tournament #33597667.
+
+Summary
+----------
+Played on    : 24 May 2007 03:29 PM
+On Table     : Speed #1331188
+Game Type    : Texas Holdem
+Buy-In       : $5
+Fee          : $1
+You finished in  position 8
+1st place - najinsky_ -  $25
+2nd place - autentico111 -  $15
+3rd place - Fumi01 -  $10
+
+***** Hand History for Game 5999141544 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33597667)  - Thu May 24 15:30:02 EDT 2007
+Table Speed 1331188 (Real Money) -- Seat 9 is the button
+Total number of players : 10
+Seat 1: najinsky_ (2000)
+Seat 2: PauloC29 (2000)
+Seat 3: hatoka (2000)
+Seat 4: Bogi89 (2000)
+Seat 5: josie944 (2000)
+Seat 6: Geoliz (2000)
+Seat 7: anwi06 (2000)
+Seat 8: autentico111 (2000)
+Seat 9: pappaCharly (2000)
+Seat 10: Fumi01 (2000)
+Fumi01  posts small blind (20)
+najinsky_  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ As, 2s ]
+PauloC29 folds.
+hatoka could not respond in time.(disconnected)
+hatoka folds.
+Bogi89 folds.
+josie944 folds.
+Geoliz calls (40)
+anwi06 folds.
+autentico111 folds.
+pappaCharly folds.
+Fumi01 calls (20)
+najinsky_ checks.
+** Dealing Flop ** :  [ Jh, 4s, 3h ]
+Fumi01 checks.
+najinsky_ bets (120)
+Geoliz folds.
+Fumi01 calls (120)
+** Dealing Turn ** :  [ 9s ]
+Fumi01 checks.
+najinsky_ bets (160)
+Fumi01 calls (160)
+** Dealing River ** :  [ 7c ]
+Fumi01 checks.
+najinsky_ bets (240)
+Fumi01 folds.
+** Summary **
+Main Pot: 680
+Board: [ Jh 4s 3h 9s 7c  ]
+
+najinsky_ balance 2360, bet 560, collected 920, net +360
+PauloC29 balance 2000, didn't bet (folded)
+hatoka balance 2000, didn't bet (folded)
+Bogi89 balance 2000, didn't bet (folded)
+josie944 balance 2000, didn't bet (folded)
+Geoliz balance 1960, lost 40 (folded)
+anwi06 balance 2000, didn't bet (folded)
+autentico111 balance 2000, didn't bet (folded)
+pappaCharly balance 2000, didn't bet (folded)
+Fumi01 balance 1680, lost 320 (folded)
+
+***** Hand History for Game 5999147071 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33597667)  - Thu May 24 15:31:41 EDT 2007
+Table Speed 1331188 (Real Money) -- Seat 10 is the button
+Total number of players : 10
+Seat 1: najinsky_ (2360)
+Seat 2: PauloC29 (2000)
+Seat 3: hatoka (2000)
+Seat 4: Bogi89 (2000)
+Seat 5: josie944 (2000)
+Seat 6: Geoliz (1960)
+Seat 7: anwi06 (2000)
+Seat 8: autentico111 (2000)
+Seat 9: pappaCharly (2000)
+Seat 10: Fumi01 (1680)
+najinsky_  posts small blind (20)
+PauloC29  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ Ah, Qh ]
+hatoka folds.
+Bogi89 folds.
+josie944 folds.
+Geoliz folds.
+anwi06 folds.
+autentico111 folds.
+pappaCharly calls (40)
+Fumi01 folds.
+najinsky_ calls (20)
+PauloC29 checks.
+** Dealing Flop ** :  [ 3d, 5s, 2c ]
+najinsky_ bets (40)
+PauloC29 calls (40)
+pappaCharly calls (40)
+** Dealing Turn ** :  [ 8s ]
+najinsky_ checks.
+PauloC29 checks.
+pappaCharly checks.
+** Dealing River ** :  [ Th ]
+najinsky_ checks.
+PauloC29 checks.
+pappaCharly bets (100)
+najinsky_ folds.
+PauloC29 folds.
+** Summary **
+Main Pot: 240
+Board: [ 3d 5s 2c 8s Th  ]
+
+najinsky_ balance 2280, lost 80 (folded)
+PauloC29 balance 1920, lost 80 (folded)
+hatoka balance 2000, didn't bet (folded)
+Bogi89 balance 2000, didn't bet (folded)
+josie944 balance 2000, didn't bet (folded)
+Geoliz balance 1960, didn't bet (folded)
+anwi06 balance 2000, didn't bet (folded)
+autentico111 balance 2000, didn't bet (folded)
+pappaCharly balance 2160, bet 180, collected 340, net +160
+Fumi01 balance 1680, didn't bet (folded)
+
+***** Hand History for Game 5999150377 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33597667)  - Thu May 24 15:32:37 EDT 2007
+Table Speed 1331188 (Real Money) -- Seat 1 is the button
+Total number of players : 10
+Seat 1: najinsky_ (2280)
+Seat 2: PauloC29 (1920)
+Seat 3: hatoka (2000)
+Seat 4: Bogi89 (2000)
+Seat 5: josie944 (2000)
+Seat 6: Geoliz (1960)
+Seat 7: anwi06 (2000)
+Seat 8: autentico111 (2000)
+Seat 9: pappaCharly (2160)
+Seat 10: Fumi01 (1680)
+PauloC29  posts small blind (20)
+hatoka  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 5c, 5d ]
+Bogi89 folds.
+josie944 calls (40)
+Geoliz calls (40)
+anwi06 folds.
+autentico111 raises (240) to 240
+pappaCharly folds.
+Fumi01 folds.
+najinsky_ folds.
+PauloC29 folds.
+hatoka calls (200)
+josie944 folds.
+Geoliz folds.
+** Dealing Flop ** :  [ Kd, Kc, 6s ]
+hatoka checks.
+autentico111 bets (320)
+hatoka calls (320)
+** Dealing Turn ** :  [ 4s ]
+hatoka checks.
+autentico111 checks.
+** Dealing River ** :  [ Kh ]
+hatoka bets (200)
+autentico111 calls (200)
+** Summary **
+Main Pot: 1620
+Board: [ Kd Kc 6s 4s Kh  ]
+
+najinsky_ balance 2280, didn't bet (folded)
+PauloC29 balance 1900, lost 20 (folded)
+hatoka balance 1240, lost 760 [ 5c 5d ] [ a full house, Kings full of Fives -- Kd,Kc,Kh,5c,5d ]
+Bogi89 balance 2000, didn't bet (folded)
+josie944 balance 1960, lost 40 (folded)
+Geoliz balance 1920, lost 40 (folded)
+anwi06 balance 2000, didn't bet (folded)
+autentico111 balance 2860, bet 760, collected 1620, net +860 [ 8s 8d ] [ a full house, Kings full of Eights -- Kd,Kc,Kh,8s,8d ]
+pappaCharly balance 2160, didn't bet (folded)
+Fumi01 balance 1680, didn't bet (folded)
+
+***** Hand History for Game 5999154580 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33597667)  - Thu May 24 15:33:50 EDT 2007
+Table Speed 1331188 (Real Money) -- Seat 2 is the button
+Total number of players : 10
+Seat 1: najinsky_ (2280)
+Seat 2: PauloC29 (1900)
+Seat 3: hatoka (1240)
+Seat 4: Bogi89 (2000)
+Seat 5: josie944 (1960)
+Seat 6: Geoliz (1920)
+Seat 7: anwi06 (2000)
+Seat 8: autentico111 (2860)
+Seat 9: pappaCharly (2160)
+Seat 10: Fumi01 (1680)
+hatoka  posts small blind (20)
+Bogi89  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ Qc, 6h ]
+josie944 folds.
+Geoliz folds.
+anwi06 folds.
+autentico111 folds.
+pappaCharly calls (40)
+Fumi01 folds.
+najinsky_ calls (40)
+PauloC29 calls (40)
+hatoka folds.
+Bogi89 checks.
+** Dealing Flop ** :  [ 7c, 3s, 4d ]
+Bogi89 bets (80)
+pappaCharly calls (80)
+najinsky_ calls (80)
+PauloC29 calls (80)
+** Dealing Turn ** :  [ 8c ]
+Bogi89 checks.
+pappaCharly checks.
+najinsky_ checks.
+PauloC29 checks.
+** Dealing River ** :  [ 8d ]
+Bogi89 bets (160)
+pappaCharly folds.
+najinsky_ folds.
+PauloC29 calls (160)
+** Summary **
+Main Pot: 820
+Board: [ 7c 3s 4d 8c 8d  ]
+
+najinsky_ balance 2160, lost 120 (folded)
+PauloC29 balance 1620, lost 280 [ As 3c ] [ two pairs, Eights and Threes -- As,8c,8d,3c,3s ]
+
+hatoka balance 1220, lost 20 (folded)
+Bogi89 balance 2540, bet 280, collected 820, net +540 [ 7d 5c ] [ two pairs, Eights and Sevens -- 8c,8d,7d,7c,5c ]
+josie944 balance 1960, didn't bet (folded)
+Geoliz balance 1920, didn't bet (folded)
+anwi06 balance 2000, didn't bet (folded)
+autentico111 balance 2860, didn't bet (folded)
+pappaCharly balance 2040, lost 120 (folded)
+Fumi01 balance 1680, didn't bet (folded)
+
+***** Hand History for Game 5999158804 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33597667)  - Thu May 24 15:35:03 EDT 2007
+Table Speed 1331188 (Real Money) -- Seat 3 is the button
+Total number of players : 10
+Seat 1: najinsky_ (2160)
+Seat 2: PauloC29 (1620)
+Seat 3: hatoka (1220)
+Seat 4: Bogi89 (2540)
+Seat 5: josie944 (1960)
+Seat 6: Geoliz (1920)
+Seat 7: anwi06 (2000)
+Seat 8: autentico111 (2860)
+Seat 9: pappaCharly (2040)
+Seat 10: Fumi01 (1680)
+Bogi89  posts small blind (30)
+josie944  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Qh, 5h ]
+Geoliz folds.
+anwi06 folds.
+autentico111 folds.
+pappaCharly calls (60)
+Fumi01 folds.
+najinsky_ calls (60)
+PauloC29 calls (60)
+hatoka calls (60)
+Bogi89 calls (30)
+josie944 checks.
+** Dealing Flop ** :  [ 5d, 9c, Js ]
+Bogi89 checks.
+josie944 checks.
+pappaCharly checks.
+najinsky_ bets (60)
+PauloC29 folds.
+hatoka calls (60)
+Bogi89 folds.
+josie944 folds.
+pappaCharly calls (60)
+** Dealing Turn ** :  [ 2h ]
+pappaCharly checks.
+najinsky_ checks.
+hatoka checks.
+** Dealing River ** :  [ Th ]
+pappaCharly checks.
+najinsky_ checks.
+hatoka bets (200)
+pappaCharly folds.
+najinsky_ raises (400) to 400
+hatoka calls (200)
+** Summary **
+Main Pot: 1340
+Board: [ 5d 9c Js 2h Th  ]
+
+najinsky_ balance 2980, bet 520, collected 1340, net +820 [ Kc 9s ] [ a pair of Nines -- Kc,Js,Th,9s,9c ]
+PauloC29 balance 1560, lost 60 (folded)
+hatoka balance 700, lost 520 [ Qh 5h ] [ a pair of Fives -- Qh,Js,Th,5h,5d ]
+
+Bogi89 balance 2480, lost 60 (folded)
+josie944 balance 1900, lost 60 (folded)
+Geoliz balance 1920, didn't bet (folded)
+anwi06 balance 2000, didn't bet (folded)
+autentico111 balance 2860, didn't bet (folded)
+pappaCharly balance 1920, lost 120 (folded)
+Fumi01 balance 1680, didn't bet (folded)
+
+***** Hand History for Game 5999164276 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33597667)  - Thu May 24 15:36:38 EDT 2007
+Table Speed 1331188 (Real Money) -- Seat 4 is the button
+Total number of players : 10
+Seat 1: najinsky_ (2980)
+Seat 2: PauloC29 (1560)
+Seat 3: hatoka (700)
+Seat 4: Bogi89 (2480)
+Seat 5: josie944 (1900)
+Seat 6: Geoliz (1920)
+Seat 7: anwi06 (2000)
+Seat 8: autentico111 (2860)
+Seat 9: pappaCharly (1920)
+Seat 10: Fumi01 (1680)
+josie944  posts small blind (30)
+Geoliz  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 9s, Kc ]
+anwi06 folds.
+autentico111 calls (60)
+pappaCharly folds.
+Fumi01 folds.
+najinsky_ folds.
+PauloC29 raises (300) to 300
+hatoka folds.
+Bogi89 calls (300)
+josie944 folds.
+Geoliz folds.
+autentico111 folds.
+** Dealing Flop ** :  [ Ks, 8h, Kd ]
+PauloC29 bets (1260)
+PauloC29 is all-In.
+Bogi89 calls (1260)
+** Dealing Turn ** :  [ 3h ]
+** Dealing River ** :  [ 7s ]
+Creating Main Pot with $3270 with PauloC29
+** Summary **
+Main Pot: 3270
+Board: [ Ks 8h Kd 3h 7s  ]
+
+najinsky_ balance 2980, didn't bet (folded)
+PauloC29 balance 3270, bet 1560, collected 3270, net +1710 [ Ac 3c ] [ two pairs, Kings and Threes -- Ac,Ks,Kd,3c,3h ]
+hatoka balance 700, didn't bet (folded)
+Bogi89 balance 920, lost 1560 [ Ts Ad ] [ a pair of Kings -- Ad,Ks,Kd,Ts,8h ]
+josie944 balance 1870, lost 30 (folded)
+Geoliz balance 1860, lost 60 (folded)
+anwi06 balance 2000, didn't bet (folded)
+autentico111 balance 2800, lost 60 (folded)
+pappaCharly balance 1920, didn't bet (folded)
+Fumi01 balance 1680, didn't bet (folded)
+
+***** Hand History for Game 5999166397 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33597667)  - Thu May 24 15:37:14 EDT 2007
+Table Speed 1331188 (Real Money) -- Seat 5 is the button
+Total number of players : 10
+Seat 1: najinsky_ (2980)
+Seat 2: PauloC29 (3270)
+Seat 3: hatoka (700)
+Seat 4: Bogi89 (920)
+Seat 5: josie944 (1870)
+Seat 6: Geoliz (1860)
+Seat 7: anwi06 (2000)
+Seat 8: autentico111 (2800)
+Seat 9: pappaCharly (1920)
+Seat 10: Fumi01 (1680)
+Geoliz  posts small blind (30)
+anwi06  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 8s, 3d ]
+autentico111 raises (360) to 360
+pappaCharly calls (360)
+Fumi01 folds.
+najinsky_ folds.
+PauloC29 folds.
+hatoka folds.
+Bogi89 calls (360)
+josie944 folds.
+Geoliz folds.
+anwi06 folds.
+** Dealing Flop ** :  [ Kc, 5d, 4c ]
+autentico111 bets (420)
+pappaCharly calls (420)
+Bogi89 raises (560) to 560
+Bogi89 is all-In.
+autentico111 calls (140)
+pappaCharly calls (140)
+Creating Main Pot with $2850 with Bogi89
+** Dealing Turn ** :  [ Tc ]
+autentico111 bets (1880)
+autentico111 is all-In.
+pappaCharly folds.
+** Dealing River ** :  [ Jh ]
+** Summary **
+Main Pot: 2850
+Board: [ Kc 5d 4c Tc Jh  ]
+
+najinsky_ balance 2980, didn't bet (folded)
+PauloC29 balance 3270, didn't bet (folded)
+hatoka balance 700, didn't bet (folded)
+Bogi89 balance 0, lost 920 [ 6d 6c ] [ a pair of Sixes -- Kc,Jh,Tc,6d,6c ]
+josie944 balance 1870, didn't bet (folded)
+Geoliz balance 1830, lost 30 (folded)
+anwi06 balance 1940, lost 60 (folded)
+autentico111 balance 4730, bet 2800, collected 4730, net +1930 [ Qc Kh ] [ a pair of Kings -- Kh,Kc,Qc,Jh,Tc ]
+pappaCharly balance 1000, lost 920 (folded)
+Fumi01 balance 1680, didn't bet (folded)
+
+***** Hand History for Game 5999171026 *****
+Bogi89 finished in 10 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33597667)  - Thu May 24 15:38:33 EDT 2007
+Table Speed 1331188 (Real Money) -- Seat 6 is the button
+Total number of players : 9
+Seat 1: najinsky_ (2980)
+Seat 2: PauloC29 (3270)
+Seat 3: hatoka (700)
+Seat 5: josie944 (1870)
+Seat 6: Geoliz (1830)
+Seat 7: anwi06 (1940)
+Seat 8: autentico111 (4730)
+Seat 9: pappaCharly (1000)
+Seat 10: Fumi01 (1680)
+anwi06  posts small blind (30)
+autentico111  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 4s, Ad ]
+pappaCharly folds.
+Fumi01 calls (60)
+najinsky_ folds.
+PauloC29 folds.
+hatoka raises (700) to 700
+hatoka is all-In.
+josie944 calls (700)
+Geoliz folds.
+anwi06 folds.
+autentico111 folds.
+Fumi01 folds.
+** Dealing Flop ** :  [ 4d, Kh, Qc ]
+** Dealing Turn ** :  [ 8s ]
+** Dealing River ** :  [ 2s ]
+Creating Main Pot with $1550 with hatoka
+** Summary **
+Main Pot: 1550
+Board: [ 4d Kh Qc 8s 2s  ]
+
+najinsky_ balance 2980, didn't bet (folded)
+PauloC29 balance 3270, didn't bet (folded)
+hatoka balance 1550, bet 700, collected 1550, net +850 [ 4s Ad ] [ a pair of Fours -- Ad,Kh,Qc,4s,4d ]
+josie944 balance 1170, lost 700 [ As Th ] [ high card Ace -- As,Kh,Qc,Th,8s ]
+Geoliz balance 1830, didn't bet (folded)
+anwi06 balance 1910, lost 30 (folded)
+autentico111 balance 4670, lost 60 (folded)
+pappaCharly balance 1000, didn't bet (folded)
+Fumi01 balance 1620, lost 60 (folded)
+
+***** Hand History for Game 5999172839 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33597667)  - Thu May 24 15:39:04 EDT 2007
+Table Speed 1331188 (Real Money) -- Seat 7 is the button
+Total number of players : 9
+Seat 1: najinsky_ (2980)
+Seat 2: PauloC29 (3270)
+Seat 3: hatoka (1550)
+Seat 5: josie944 (1170)
+Seat 6: Geoliz (1830)
+Seat 7: anwi06 (1910)
+Seat 8: autentico111 (4670)
+Seat 9: pappaCharly (1000)
+Seat 10: Fumi01 (1620)
+autentico111  posts small blind (30)
+pappaCharly  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 2d, 4s ]
+Fumi01 folds.
+najinsky_ calls (60)
+PauloC29 calls (60)
+hatoka folds.
+josie944 folds.
+Geoliz folds.
+anwi06 folds.
+autentico111 calls (30)
+pappaCharly raises (940) to 1000
+pappaCharly is all-In.
+najinsky_ folds.
+PauloC29 folds.
+autentico111 folds.
+Creating Main Pot with $240 with pappaCharly
+** Summary **
+Main Pot: 240
+
+najinsky_ balance 2920, lost 60 (folded)
+PauloC29 balance 3210, lost 60 (folded)
+hatoka balance 1550, didn't bet (folded)
+josie944 balance 1170, didn't bet (folded)
+Geoliz balance 1830, didn't bet (folded)
+anwi06 balance 1910, didn't bet (folded)
+autentico111 balance 4610, lost 60 (folded)
+pappaCharly balance 1180, bet 1000, collected 1180, net +180
+Fumi01 balance 1620, didn't bet (folded)
+
+***** Hand History for Game 5999175369 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33597667)  - Thu May 24 15:39:47 EDT 2007
+Table Speed 1331188 (Real Money) -- Seat 8 is the button
+Total number of players : 9
+Seat 1: najinsky_ (2920)
+Seat 2: PauloC29 (3210)
+Seat 3: hatoka (1550)
+Seat 5: josie944 (1170)
+Seat 6: Geoliz (1830)
+Seat 7: anwi06 (1910)
+Seat 8: autentico111 (4610)
+Seat 9: pappaCharly (1180)
+Seat 10: Fumi01 (1620)
+pappaCharly  posts small blind (30)
+Fumi01  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Td, 2d ]
+najinsky_ folds.
+PauloC29 calls (60)
+hatoka folds.
+josie944 folds.
+Geoliz folds.
+anwi06 folds.
+autentico111 folds.
+pappaCharly calls (30)
+Fumi01 checks.
+** Dealing Flop ** :  [ 7h, 2s, Ad ]
+pappaCharly checks.
+Fumi01 checks.
+PauloC29 checks.
+** Dealing Turn ** :  [ Qc ]
+pappaCharly checks.
+Fumi01 checks.
+PauloC29 checks.
+** Dealing River ** :  [ 4s ]
+pappaCharly checks.
+Fumi01 checks.
+PauloC29 checks.
+** Summary **
+Main Pot: 180
+Board: [ 7h 2s Ad Qc 4s  ]
+
+najinsky_ balance 2920, didn't bet (folded)
+PauloC29 balance 3150, lost 60 [ 5c 6c ] [ high card Ace -- Ad,Qc,7h,6c,5c ]
+
+hatoka balance 1550, didn't bet (folded)
+josie944 balance 1170, didn't bet (folded)
+Geoliz balance 1830, didn't bet (folded)
+anwi06 balance 1910, didn't bet (folded)
+autentico111 balance 4610, didn't bet (folded)
+pappaCharly balance 1120, lost 60 [ 6s Th ] [ high card Ace with Ten kicker -- Ad,Qc,Th,7h,6s ]
+Fumi01 balance 1740, bet 60, collected 180, net +120 [ Jh 9h ] [ high card Ace with Jack kicker -- Ad,Qc,Jh,9h,7h ]
+
+***** Hand History for Game 5999177717 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33597667)  - Thu May 24 15:40:28 EDT 2007
+Table Speed 1331188 (Real Money) -- Seat 9 is the button
+Total number of players : 9
+Seat 1: najinsky_ (2920)
+Seat 2: PauloC29 (3150)
+Seat 3: hatoka (1550)
+Seat 5: josie944 (1170)
+Seat 6: Geoliz (1830)
+Seat 7: anwi06 (1910)
+Seat 8: autentico111 (4610)
+Seat 9: pappaCharly (1120)
+Seat 10: Fumi01 (1740)
+Fumi01  posts small blind (50)
+najinsky_  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 3d, 9h ]
+PauloC29 calls (100)
+hatoka folds.
+josie944 raises (1170) to 1170
+josie944 is all-In.
+Geoliz calls (1170)
+anwi06 folds.
+autentico111 folds.
+pappaCharly folds.
+Fumi01 folds.
+najinsky_ folds.
+PauloC29 folds.
+** Dealing Flop ** :  [ 4d, 3h, Td ]
+** Dealing Turn ** :  [ 6c ]
+** Dealing River ** :  [ 2h ]
+Creating Main Pot with $2590 with josie944
+** Summary **
+Main Pot: 2590
+Board: [ 4d 3h Td 6c 2h  ]
+
+najinsky_ balance 2820, lost 100 (folded)
+PauloC29 balance 3050, lost 100 (folded)
+hatoka balance 1550, didn't bet (folded)
+josie944 balance 2590, bet 1170, collected 2590, net +1420 [ Qs Qc ] [ a pair of Queens -- Qs,Qc,Td,6c,4d ]
+Geoliz balance 660, lost 1170 [ Ac Jh ] [ high card Ace -- Ac,Jh,Td,6c,4d ]
+anwi06 balance 1910, didn't bet (folded)
+autentico111 balance 4610, didn't bet (folded)
+pappaCharly balance 1120, didn't bet (folded)
+Fumi01 balance 1690, lost 50 (folded)
+
+***** Hand History for Game 5999179353 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33597667)  - Thu May 24 15:40:56 EDT 2007
+Table Speed 1331188 (Real Money) -- Seat 10 is the button
+Total number of players : 9
+Seat 1: najinsky_ (2820)
+Seat 2: PauloC29 (3050)
+Seat 3: hatoka (1550)
+Seat 5: josie944 (2590)
+Seat 6: Geoliz (660)
+Seat 7: anwi06 (1910)
+Seat 8: autentico111 (4610)
+Seat 9: pappaCharly (1120)
+Seat 10: Fumi01 (1690)
+najinsky_  posts small blind (50)
+PauloC29  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Kd, 4d ]
+hatoka raises (300) to 300
+josie944 calls (300)
+Geoliz folds.
+anwi06 folds.
+autentico111 folds.
+pappaCharly folds.
+Fumi01 folds.
+najinsky_ folds.
+PauloC29 folds.
+** Dealing Flop ** :  [ Ks, 6h, 3s ]
+hatoka bets (400)
+josie944 folds.
+** Summary **
+Main Pot: 750
+Board: [ Ks 6h 3s  ]
+
+najinsky_ balance 2770, lost 50 (folded)
+PauloC29 balance 2950, lost 100 (folded)
+hatoka balance 2000, bet 700, collected 1150, net +450
+josie944 balance 2290, lost 300 (folded)
+Geoliz balance 660, didn't bet (folded)
+anwi06 balance 1910, didn't bet (folded)
+autentico111 balance 4610, didn't bet (folded)
+pappaCharly balance 1120, didn't bet (folded)
+Fumi01 balance 1690, didn't bet (folded)
+
+***** Hand History for Game 5999182024 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33597667)  - Thu May 24 15:41:43 EDT 2007
+Table Speed 1331188 (Real Money) -- Seat 1 is the button
+Total number of players : 9
+Seat 1: najinsky_ (2770)
+Seat 2: PauloC29 (2950)
+Seat 3: hatoka (2000)
+Seat 5: josie944 (2290)
+Seat 6: Geoliz (660)
+Seat 7: anwi06 (1910)
+Seat 8: autentico111 (4610)
+Seat 9: pappaCharly (1120)
+Seat 10: Fumi01 (1690)
+PauloC29  posts small blind (50)
+hatoka  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 5d, Jd ]
+josie944 folds.
+Geoliz raises (660) to 660
+Geoliz is all-In.
+anwi06 folds.
+autentico111 calls (660)
+pappaCharly calls (660)
+Fumi01 folds.
+najinsky_ folds.
+PauloC29 folds.
+hatoka folds.
+Creating Main Pot with $2130 with Geoliz
+** Dealing Flop ** :  [ 3s, 5c, 4h ]
+autentico111 bets (400)
+pappaCharly raises (460) to 460
+pappaCharly is all-In.
+autentico111 calls (60)
+** Dealing Turn ** :  [ Qh ]
+** Dealing River ** :  [ 5h ]
+Creating Side Pot 1 with $920 with pappaCharly
+** Summary **
+Main Pot: 2130 | Side Pot 1: 920
+Board: [ 3s 5c 4h Qh 5h  ]
+
+najinsky_ balance 2770, didn't bet (folded)
+PauloC29 balance 2900, lost 50 (folded)
+hatoka balance 1900, lost 100 (folded)
+josie944 balance 2290, didn't bet (folded)
+Geoliz balance 0, lost 660 [ 9d Ks ] [ a pair of Fives -- Ks,Qh,9d,5c,5h ]
+anwi06 balance 1910, didn't bet (folded)
+autentico111 balance 3490, lost 1120 [ Ac 3c ] [ two pairs, Fives and Threes -- Ac,5c,5h,3c,3s ]
+pappaCharly balance 3050, bet 1120, collected 3050, net +1930 [ 9s Qs ] [ two pairs, Queens and Fives -- Qs,Qh,9s,5c,5h ]
+Fumi01 balance 1690, didn't bet (folded)
+
+***** Hand History for Game 5999184489 *****
+Geoliz finished in 9 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33597667)  - Thu May 24 15:42:25 EDT 2007
+Table Speed 1331188 (Real Money) -- Seat 2 is the button
+Total number of players : 8
+Seat 1: najinsky_ (2770)
+Seat 2: PauloC29 (2900)
+Seat 3: hatoka (1900)
+Seat 5: josie944 (2290)
+Seat 7: anwi06 (1910)
+Seat 8: autentico111 (3490)
+Seat 9: pappaCharly (3050)
+Seat 10: Fumi01 (1690)
+hatoka  posts small blind (50)
+josie944  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 7c, 3s ]
+anwi06 folds.
+autentico111 folds.
+pappaCharly folds.
+Fumi01 folds.
+najinsky_ calls (100)
+PauloC29 raises (400) to 400
+hatoka folds.
+josie944 folds.
+najinsky_ calls (300)
+** Dealing Flop ** :  [ Js, 6c, Kc ]
+najinsky_ checks.
+PauloC29 bets (2500)
+PauloC29 is all-In.
+najinsky_ folds.
+Creating Main Pot with $950 with PauloC29
+** Summary **
+Main Pot: 950
+Board: [ Js 6c Kc  ]
+
+najinsky_ balance 2370, lost 400 (folded)
+PauloC29 balance 3450, bet 2900, collected 3450, net +550
+hatoka balance 1850, lost 50 (folded)
+josie944 balance 2190, lost 100 (folded)
+anwi06 balance 1910, didn't bet (folded)
+autentico111 balance 3490, didn't bet (folded)
+pappaCharly balance 3050, didn't bet (folded)
+Fumi01 balance 1690, didn't bet (folded)
+
+***** Hand History for Game 5999187259 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33597667)  - Thu May 24 15:43:13 EDT 2007
+Table Speed 1331188 (Real Money) -- Seat 3 is the button
+Total number of players : 8
+Seat 1: najinsky_ (2370)
+Seat 2: PauloC29 (3450)
+Seat 3: hatoka (1850)
+Seat 5: josie944 (2190)
+Seat 7: anwi06 (1910)
+Seat 8: autentico111 (3490)
+Seat 9: pappaCharly (3050)
+Seat 10: Fumi01 (1690)
+josie944  posts small blind (50)
+anwi06  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 6h, Tc ]
+autentico111 folds.
+pappaCharly folds.
+Fumi01 folds.
+najinsky_ calls (100)
+PauloC29 folds.
+hatoka folds.
+josie944 calls (50)
+anwi06 checks.
+** Dealing Flop ** :  [ Ah, 7h, Js ]
+josie944 checks.
+anwi06 checks.
+najinsky_ bets (100)
+josie944 folds.
+anwi06 folds.
+** Summary **
+Main Pot: 300
+Board: [ Ah 7h Js  ]
+
+najinsky_ balance 2570, bet 200, collected 400, net +200
+PauloC29 balance 3450, didn't bet (folded)
+hatoka balance 1850, didn't bet (folded)
+josie944 balance 2090, lost 100 (folded)
+anwi06 balance 1810, lost 100 (folded)
+autentico111 balance 3490, didn't bet (folded)
+pappaCharly balance 3050, didn't bet (folded)
+Fumi01 balance 1690, didn't bet (folded)
+
+***** Hand History for Game 5999190069 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33597667)  - Thu May 24 15:44:02 EDT 2007
+Table Speed 1331188 (Real Money) -- Seat 5 is the button
+Total number of players : 8
+Seat 1: najinsky_ (2570)
+Seat 2: PauloC29 (3450)
+Seat 3: hatoka (1850)
+Seat 5: josie944 (2090)
+Seat 7: anwi06 (1810)
+Seat 8: autentico111 (3490)
+Seat 9: pappaCharly (3050)
+Seat 10: Fumi01 (1690)
+anwi06  posts small blind (50)
+autentico111  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 8h, Th ]
+pappaCharly folds.
+Fumi01 folds.
+najinsky_ folds.
+PauloC29 raises (400) to 400
+hatoka folds.
+josie944 folds.
+anwi06 folds.
+autentico111 folds.
+** Summary **
+Main Pot: 250
+
+najinsky_ balance 2570, didn't bet (folded)
+PauloC29 balance 3600, bet 400, collected 550, net +150
+hatoka balance 1850, didn't bet (folded)
+josie944 balance 2090, didn't bet (folded)
+anwi06 balance 1760, lost 50 (folded)
+autentico111 balance 3390, lost 100 (folded)
+pappaCharly balance 3050, didn't bet (folded)
+Fumi01 balance 1690, didn't bet (folded)
+
+***** Hand History for Game 5999191294 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33597667)  - Thu May 24 15:44:23 EDT 2007
+Table Speed 1331188 (Real Money) -- Seat 7 is the button
+Total number of players : 8
+Seat 1: najinsky_ (2570)
+Seat 2: PauloC29 (3600)
+Seat 3: hatoka (1850)
+Seat 5: josie944 (2090)
+Seat 7: anwi06 (1760)
+Seat 8: autentico111 (3390)
+Seat 9: pappaCharly (3050)
+Seat 10: Fumi01 (1690)
+autentico111  posts small blind (50)
+pappaCharly  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 2h, 8h ]
+Fumi01 folds.
+najinsky_ calls (100)
+PauloC29 folds.
+hatoka folds.
+josie944 calls (100)
+anwi06 folds.
+autentico111 folds.
+pappaCharly checks.
+** Dealing Flop ** :  [ 2c, Ks, 6c ]
+pappaCharly checks.
+najinsky_ bets (100)
+josie944 calls (100)
+pappaCharly folds.
+** Dealing Turn ** :  [ Jc ]
+najinsky_ bets (100)
+josie944 calls (100)
+** Dealing River ** :  [ 2d ]
+najinsky_ bets (100)
+josie944 folds.
+** Summary **
+Main Pot: 750
+Board: [ 2c Ks 6c Jc 2d  ]
+
+najinsky_ balance 3020, bet 400, collected 850, net +450
+PauloC29 balance 3600, didn't bet (folded)
+hatoka balance 1850, didn't bet (folded)
+josie944 balance 1790, lost 300 (folded)
+anwi06 balance 1760, didn't bet (folded)
+autentico111 balance 3340, lost 50 (folded)
+pappaCharly balance 2950, lost 100 (folded)
+Fumi01 balance 1690, didn't bet (folded)
+
+***** Hand History for Game 5999195172 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33597667)  - Thu May 24 15:45:20 EDT 2007
+Table Speed 1331188 (Real Money) -- Seat 8 is the button
+Total number of players : 8
+Seat 1: najinsky_ (3020)
+Seat 2: PauloC29 (3600)
+Seat 3: hatoka (1850)
+Seat 5: josie944 (1790)
+Seat 7: anwi06 (1760)
+Seat 8: autentico111 (3340)
+Seat 9: pappaCharly (2950)
+Seat 10: Fumi01 (1690)
+pappaCharly  posts small blind (50)
+Fumi01  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 9s, Qs ]
+najinsky_ folds.
+PauloC29 folds.
+hatoka raises (200) to 200
+josie944 calls (200)
+anwi06 folds.
+autentico111 folds.
+pappaCharly calls (150)
+Fumi01 folds.
+** Dealing Flop ** :  [ 3h, Ks, 6h ]
+pappaCharly checks.
+hatoka checks.
+josie944 checks.
+** Dealing Turn ** :  [ 4s ]
+pappaCharly bets (300)
+hatoka raises (600) to 600
+josie944 folds.
+pappaCharly calls (300)
+** Dealing River ** :  [ 6c ]
+pappaCharly checks.
+hatoka checks.
+** Summary **
+Main Pot: 1900
+Board: [ 3h Ks 6h 4s 6c  ]
+
+najinsky_ balance 3020, didn't bet (folded)
+PauloC29 balance 3600, didn't bet (folded)
+hatoka balance 1050, lost 800 [ 9s Qs ] [ a pair of Sixes -- Ks,Qs,9s,6h,6c ]
+
+josie944 balance 1590, lost 200 (folded)
+anwi06 balance 1760, didn't bet (folded)
+autentico111 balance 3340, didn't bet (folded)
+pappaCharly balance 4050, bet 800, collected 1900, net +1100 [ 4h Ah ] [ two pairs, Sixes and Fours -- Ah,6h,6c,4h,4s ]
+Fumi01 balance 1590, lost 100 (folded)
+
+***** Hand History for Game 5999199377 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33597667)  - Thu May 24 15:46:24 EDT 2007
+Table Speed 1331188 (Real Money) -- Seat 9 is the button
+Total number of players : 8
+Seat 1: najinsky_ (3020)
+Seat 2: PauloC29 (3600)
+Seat 3: hatoka (1050)
+Seat 5: josie944 (1590)
+Seat 7: anwi06 (1760)
+Seat 8: autentico111 (3340)
+Seat 9: pappaCharly (4050)
+Seat 10: Fumi01 (1590)
+Fumi01  posts small blind (100)
+najinsky_  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Js, 2d ]
+PauloC29 folds.
+hatoka folds.
+josie944 calls (200)
+anwi06 folds.
+autentico111 folds.
+pappaCharly calls (200)
+Fumi01 calls (100)
+najinsky_ checks.
+** Dealing Flop ** :  [ 7s, 8h, 6h ]
+Fumi01 checks.
+najinsky_ checks.
+josie944 checks.
+pappaCharly bets (200)
+Fumi01 folds.
+najinsky_ folds.
+josie944 calls (200)
+** Dealing Turn ** :  [ 5d ]
+josie944 checks.
+pappaCharly bets (200)
+josie944 calls (200)
+** Dealing River ** :  [ 7h ]
+josie944 checks.
+pappaCharly bets (200)
+josie944 folds.
+** Summary **
+Main Pot: 1600
+Board: [ 7s 8h 6h 5d 7h  ]
+
+najinsky_ balance 2820, lost 200 (folded)
+PauloC29 balance 3600, didn't bet (folded)
+hatoka balance 1050, didn't bet (folded)
+josie944 balance 990, lost 600 (folded)
+anwi06 balance 1760, didn't bet (folded)
+autentico111 balance 3340, didn't bet (folded)
+pappaCharly balance 5050, bet 800, collected 1800, net +1000
+Fumi01 balance 1390, lost 200 (folded)
+
+***** Hand History for Game 5999203127 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33597667)  - Thu May 24 15:47:27 EDT 2007
+Table Speed 1331188 (Real Money) -- Seat 10 is the button
+Total number of players : 8
+Seat 1: najinsky_ (2820)
+Seat 2: PauloC29 (3600)
+Seat 3: hatoka (1050)
+Seat 5: josie944 (990)
+Seat 7: anwi06 (1760)
+Seat 8: autentico111 (3340)
+Seat 9: pappaCharly (5050)
+Seat 10: Fumi01 (1390)
+najinsky_  posts small blind (100)
+PauloC29  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 6c, Th ]
+hatoka folds.
+josie944 folds.
+anwi06 folds.
+autentico111 folds.
+pappaCharly folds.
+Fumi01 folds.
+najinsky_ calls (100)
+PauloC29 raises (600) to 800
+najinsky_ calls (600)
+** Dealing Flop ** :  [ Js, Td, 2c ]
+najinsky_ checks.
+PauloC29 bets (1400)
+najinsky_ folds.
+** Summary **
+Main Pot: 1600
+Board: [ Js Td 2c  ]
+
+najinsky_ balance 2020, lost 800 (folded)
+PauloC29 balance 4400, bet 2200, collected 3000, net +800
+hatoka balance 1050, didn't bet (folded)
+josie944 balance 990, didn't bet (folded)
+anwi06 balance 1760, didn't bet (folded)
+autentico111 balance 3340, didn't bet (folded)
+pappaCharly balance 5050, didn't bet (folded)
+Fumi01 balance 1390, didn't bet (folded)
+
+***** Hand History for Game 5999206515 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33597667)  - Thu May 24 15:48:16 EDT 2007
+Table Speed 1331188 (Real Money) -- Seat 1 is the button
+Total number of players : 8
+Seat 1: najinsky_ (2020)
+Seat 2: PauloC29 (4400)
+Seat 3: hatoka (1050)
+Seat 5: josie944 (990)
+Seat 7: anwi06 (1760)
+Seat 8: autentico111 (3340)
+Seat 9: pappaCharly (5050)
+Seat 10: Fumi01 (1390)
+PauloC29  posts small blind (100)
+hatoka  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 4h, 7s ]
+josie944 folds.
+anwi06 folds.
+autentico111 folds.
+pappaCharly calls (200)
+Fumi01 folds.
+najinsky_ calls (200)
+PauloC29 calls (100)
+hatoka checks.
+** Dealing Flop ** :  [ 9d, 9c, 4c ]
+PauloC29 checks.
+hatoka checks.
+pappaCharly checks.
+najinsky_ checks.
+** Dealing Turn ** :  [ Jc ]
+PauloC29 checks.
+hatoka bets (200)
+pappaCharly folds.
+najinsky_ raises (400) to 400
+PauloC29 folds.
+hatoka folds.
+** Summary **
+Main Pot: 1200
+Board: [ 9d 9c 4c Jc  ]
+
+najinsky_ balance 2820, bet 600, collected 1400, net +800
+PauloC29 balance 4200, lost 200 (folded)
+hatoka balance 650, lost 400 (folded)
+josie944 balance 990, didn't bet (folded)
+anwi06 balance 1760, didn't bet (folded)
+autentico111 balance 3340, didn't bet (folded)
+pappaCharly balance 4850, lost 200 (folded)
+Fumi01 balance 1390, didn't bet (folded)
+
+***** Hand History for Game 5999213598 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33597667)  - Thu May 24 15:49:31 EDT 2007
+Table Speed 1331188 (Real Money) -- Seat 2 is the button
+Total number of players : 8
+Seat 1: najinsky_ (2820)
+Seat 2: PauloC29 (4200)
+Seat 3: hatoka (650)
+Seat 5: josie944 (990)
+Seat 7: anwi06 (1760)
+Seat 8: autentico111 (3340)
+Seat 9: pappaCharly (4850)
+Seat 10: Fumi01 (1390)
+hatoka  posts small blind (100)
+josie944  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 6h, 9h ]
+anwi06 folds.
+autentico111 folds.
+pappaCharly calls (200)
+Fumi01 folds.
+najinsky_ calls (200)
+PauloC29 folds.
+hatoka calls (100)
+josie944 checks.
+** Dealing Flop ** :  [ 6c, 5c, 3c ]
+hatoka bets (450)
+hatoka is all-In.
+josie944 folds.
+pappaCharly raises (900) to 900
+najinsky_ folds.
+** Dealing Turn ** :  [ Kd ]
+** Dealing River ** :  [ Ks ]
+Creating Main Pot with $1700 with hatoka
+** Summary **
+Main Pot: 1700
+Board: [ 6c 5c 3c Kd Ks  ]
+
+najinsky_ balance 2620, lost 200 (folded)
+PauloC29 balance 4200, didn't bet (folded)
+hatoka balance 0, lost 650 [ 6h 9h ] [ two pairs, Kings and Sixes -- Kd,Ks,9h,6h,6c ]
+josie944 balance 790, lost 200 (folded)
+anwi06 balance 1760, didn't bet (folded)
+autentico111 balance 3340, didn't bet (folded)
+pappaCharly balance 5900, bet 1100, collected 2150, net +1050 [ 9c Qc ] [ a flush, Queen high -- Qc,9c,6c,5c,3c ]
+Fumi01 balance 1390, didn't bet (folded)
+
+***** Hand History for Game 5999219168 *****
+hatoka finished in 8 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33597667)  - Thu May 24 15:50:30 EDT 2007
+Table Speed 1331188 (Real Money) -- Seat 2 is the button
+Total number of players : 7
+Seat 1: najinsky_ (2620)
+Seat 2: PauloC29 (4200)
+Seat 5: josie944 (790)
+Seat 7: anwi06 (1760)
+Seat 8: autentico111 (3340)
+Seat 9: pappaCharly (5900)
+Seat 10: Fumi01 (1390)
+josie944  posts small blind (100)
+anwi06  posts big blind (200)
+** Dealing down cards **
+autentico111 folds.
+pappaCharly folds.
+Fumi01 folds.
+PauloC29: nh
+najinsky_ folds.
+PauloC29 folds.
+josie944 calls (100)
+anwi06 raises (1560) to 1760
+anwi06 is all-In.
+josie944 folds.
+Creating Main Pot with $400 with anwi06
+** Summary **
+Main Pot: 400
+
+najinsky_ balance 2620, didn't bet (folded)
+PauloC29 balance 4200, didn't bet (folded)
+josie944 balance 590, lost 200 (folded)
+anwi06 balance 1960, bet 1760, collected 1960, net +200
+autentico111 balance 3340, didn't bet (folded)
+pappaCharly balance 5900, didn't bet (folded)
+Fumi01 balance 1390, didn't bet (folded)
+
+***** Hand History for Game 5999221271 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33597667)  - Thu May 24 15:50:58 EDT 2007
+Table Speed 1331188 (Real Money) -- Seat 5 is the button
+Total number of players : 7
+Seat 1: najinsky_ (2620)
+Seat 2: PauloC29 (4200)
+Seat 5: josie944 (590)
+Seat 7: anwi06 (1960)
+Seat 8: autentico111 (3340)
+Seat 9: pappaCharly (5900)
+Seat 10: Fumi01 (1390)
+anwi06  posts small blind (100)
+autentico111  posts big blind (200)
+** Dealing down cards **
+pappaCharly calls (200)
+Fumi01 folds.
+najinsky_ calls (200)
+PauloC29 folds.
+josie944 folds.
+anwi06 folds.
+autentico111 checks.
+** Dealing Flop ** :  [ 3h, Js, Qd ]
+autentico111 checks.
+pappaCharly bets (200)
+najinsky_ folds.
+autentico111 folds.
+** Summary **
+Main Pot: 700
+Board: [ 3h Js Qd  ]
+
+najinsky_ balance 2420, lost 200 (folded)
+PauloC29 balance 4200, didn't bet (folded)
+josie944 balance 590, didn't bet (folded)
+anwi06 balance 1860, lost 100 (folded)
+autentico111 balance 3140, lost 200 (folded)
+pappaCharly balance 6400, bet 400, collected 900, net +500
+Fumi01 balance 1390, didn't bet (folded)
+
+***** Hand History for Game 5999223932 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33597667)  - Thu May 24 15:51:37 EDT 2007
+Table Speed 1331188 (Real Money) -- Seat 7 is the button
+Total number of players : 7
+Seat 1: najinsky_ (2420)
+Seat 2: PauloC29 (4200)
+Seat 5: josie944 (590)
+Seat 7: anwi06 (1860)
+Seat 8: autentico111 (3140)
+Seat 9: pappaCharly (6400)
+Seat 10: Fumi01 (1390)
+autentico111  posts small blind (200)
+pappaCharly  posts big blind (400)
+** Dealing down cards **
+Fumi01 folds.
+najinsky_ folds.
+PauloC29 folds.
+josie944 folds.
+anwi06 raises (1860) to 1860
+anwi06 is all-In.
+autentico111 folds.
+pappaCharly folds.
+Creating Main Pot with $1000 with anwi06
+** Summary **
+Main Pot: 1000
+
+najinsky_ balance 2420, didn't bet (folded)
+PauloC29 balance 4200, didn't bet (folded)
+josie944 balance 590, didn't bet (folded)
+anwi06 balance 2460, bet 1860, collected 2460, net +600
+autentico111 balance 2940, lost 200 (folded)
+pappaCharly balance 6000, lost 400 (folded)
+Fumi01 balance 1390, didn't bet (folded)
+
+***** Hand History for Game 5999225981 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33597667)  - Thu May 24 15:52:07 EDT 2007
+Table Speed 1331188 (Real Money) -- Seat 8 is the button
+Total number of players : 7
+Seat 1: najinsky_ (2420)
+Seat 2: PauloC29 (4200)
+Seat 5: josie944 (590)
+Seat 7: anwi06 (2460)
+Seat 8: autentico111 (2940)
+Seat 9: pappaCharly (6000)
+Seat 10: Fumi01 (1390)
+pappaCharly  posts small blind (200)
+Fumi01  posts big blind (400)
+** Dealing down cards **
+najinsky_ folds.
+PauloC29 folds.
+josie944 folds.
+anwi06 folds.
+autentico111 folds.
+pappaCharly calls (200)
+Fumi01 raises (800) to 1200
+pappaCharly calls (800)
+** Dealing Flop ** :  [ Ks, 3s, Th ]
+pappaCharly checks.
+Fumi01 bets (190)
+Fumi01 is all-In.
+pappaCharly calls (190)
+** Dealing Turn ** :  [ Kh ]
+** Dealing River ** :  [ Td ]
+Creating Main Pot with $2780 with Fumi01
+** Summary **
+Main Pot: 2780
+Board: [ Ks 3s Th Kh Td  ]
+
+najinsky_ balance 2420, didn't bet (folded)
+PauloC29 balance 4200, didn't bet (folded)
+josie944 balance 590, didn't bet (folded)
+anwi06 balance 2460, didn't bet (folded)
+autentico111 balance 2940, didn't bet (folded)
+pappaCharly balance 4610, lost 1390 [ 5h 2h ] [ two pairs, Kings and Tens -- Ks,Kh,Th,Td,5h ]
+Fumi01 balance 2780, bet 1390, collected 2780, net +1390 [ 8s 8h ] [ two pairs, Kings and Tens with Eight kicker -- Ks,Kh,Th,Td,8s ]
+
+***** Hand History for Game 5999228682 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33597667)  - Thu May 24 15:52:44 EDT 2007
+Table Speed 1331188 (Real Money) -- Seat 9 is the button
+Total number of players : 7
+Seat 1: najinsky_ (2420)
+Seat 2: PauloC29 (4200)
+Seat 5: josie944 (590)
+Seat 7: anwi06 (2460)
+Seat 8: autentico111 (2940)
+Seat 9: pappaCharly (4610)
+Seat 10: Fumi01 (2780)
+Fumi01  posts small blind (200)
+najinsky_  posts big blind (400)
+** Dealing down cards **
+PauloC29 folds.
+josie944 folds.
+anwi06 folds.
+autentico111 folds.
+pappaCharly calls (400)
+Fumi01 folds.
+najinsky_ checks.
+** Dealing Flop ** :  [ 8d, As, Js ]
+najinsky_ checks.
+pappaCharly checks.
+** Dealing Turn ** :  [ 4s ]
+najinsky_ bets (400)
+pappaCharly folds.
+** Summary **
+Main Pot: 1000
+Board: [ 8d As Js 4s  ]
+
+najinsky_ balance 3020, bet 800, collected 1400, net +600
+PauloC29 balance 4200, didn't bet (folded)
+josie944 balance 590, didn't bet (folded)
+anwi06 balance 2460, didn't bet (folded)
+autentico111 balance 2940, didn't bet (folded)
+pappaCharly balance 4210, lost 400 (folded)
+Fumi01 balance 2580, lost 200 (folded)
+
+***** Hand History for Game 5999232558 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33597667)  - Thu May 24 15:53:37 EDT 2007
+Table Speed 1331188 (Real Money) -- Seat 10 is the button
+Total number of players : 7
+Seat 1: najinsky_ (3020)
+Seat 2: PauloC29 (4200)
+Seat 5: josie944 (590)
+Seat 7: anwi06 (2460)
+Seat 8: autentico111 (2940)
+Seat 9: pappaCharly (4210)
+Seat 10: Fumi01 (2580)
+najinsky_  posts small blind (200)
+PauloC29  posts big blind (400)
+** Dealing down cards **
+josie944 folds.
+anwi06 raises (2460) to 2460
+anwi06 is all-In.
+autentico111 calls (2460)
+pappaCharly folds.
+Fumi01 folds.
+najinsky_ folds.
+PauloC29 folds.
+** Dealing Flop ** :  [ 5d, Qs, 7s ]
+** Dealing Turn ** :  [ As ]
+** Dealing River ** :  [ Jd ]
+Creating Main Pot with $5520 with anwi06
+** Summary **
+Main Pot: 5520
+Board: [ 5d Qs 7s As Jd  ]
+
+najinsky_ balance 2820, lost 200 (folded)
+PauloC29 balance 3800, lost 400 (folded)
+josie944 balance 590, didn't bet (folded)
+anwi06 balance 0, lost 2460 [ Td Ts ] [ a pair of Tens -- As,Qs,Jd,Td,Ts ]
+autentico111 balance 6000, bet 2460, collected 5520, net +3060 [ Kd Ac ] [ a pair of Aces -- Ac,As,Kd,Qs,Jd ]
+pappaCharly balance 4210, didn't bet (folded)
+Fumi01 balance 2580, didn't bet (folded)
+
+***** Hand History for Game 5999233994 *****
+anwi06 finished in 7 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33597667)  - Thu May 24 15:53:56 EDT 2007
+Table Speed 1331188 (Real Money) -- Seat 1 is the button
+Total number of players : 6
+Seat 1: najinsky_ (2820)
+Seat 2: PauloC29 (3800)
+Seat 5: josie944 (590)
+Seat 8: autentico111 (6000)
+Seat 9: pappaCharly (4210)
+Seat 10: Fumi01 (2580)
+PauloC29  posts small blind (200)
+josie944  posts big blind (400)
+** Dealing down cards **
+autentico111 raises (1600) to 1600
+pappaCharly folds.
+Fumi01 folds.
+najinsky_ calls (1600)
+PauloC29 folds.
+josie944 folds.
+** Dealing Flop ** :  [ As, Ac, 2c ]
+autentico111 bets (1200)
+najinsky_ calls (1200)
+** Dealing Turn ** :  [ 6h ]
+autentico111 checks.
+najinsky_ checks.
+** Dealing River ** :  [ 3d ]
+autentico111 checks.
+najinsky_ bets (20)
+najinsky_ is all-In.
+autentico111 calls (20)
+Creating Main Pot with $6240 with najinsky_
+** Summary **
+Main Pot: 6240
+Board: [ As Ac 2c 6h 3d  ]
+
+najinsky_ balance 6240, bet 2820, collected 6240, net +3420 [ Ks Kd ] [ two pairs, Aces and Kings -- As,Ac,Ks,Kd,6h ]
+PauloC29 balance 3600, lost 200 (folded)
+josie944 balance 190, lost 400 (folded)
+autentico111 balance 3180, lost 2820 [ Ts Tc ] [ two pairs, Aces and Tens -- As,Ac,Ts,Tc,6h ]
+pappaCharly balance 4210, didn't bet (folded)
+Fumi01 balance 2580, didn't bet (folded)
+
+***** Hand History for Game 5999238417 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33597667)  - Thu May 24 15:54:55 EDT 2007
+Table Speed 1331188 (Real Money) -- Seat 2 is the button
+Total number of players : 6
+Seat 1: najinsky_ (6240)
+Seat 2: PauloC29 (3600)
+Seat 5: josie944 (190)
+Seat 8: autentico111 (3180)
+Seat 9: pappaCharly (4210)
+Seat 10: Fumi01 (2580)
+josie944  posts small blind (190)
+autentico111  posts big blind (400)
+** Dealing down cards **
+pappaCharly folds.
+Fumi01 folds.
+najinsky_ calls (400)
+PauloC29 folds.
+josie944 is all-In.
+autentico111 checks.
+Creating Main Pot with $570 with josie944
+** Dealing Flop ** :  [ 6s, 7s, 7h ]
+autentico111 checks.
+najinsky_ bets (400)
+autentico111 raises (800) to 800
+najinsky_ calls (400)
+** Dealing Turn ** :  [ 2h ]
+autentico111 bets (1200)
+najinsky_ calls (1200)
+** Dealing River ** :  [ 9s ]
+autentico111 bets (780)
+autentico111 is all-In.
+najinsky_ calls (780)
+Creating Side Pot 1 with $5980 with autentico111
+** Summary **
+Main Pot: 570 | Side Pot 1: 5980
+Board: [ 6s 7s 7h 2h 9s  ]
+
+najinsky_ balance 3060, lost 3180 [ Qd Qh ] [ two pairs, Queens and Sevens -- Qd,Qh,9s,7s,7h ]
+PauloC29 balance 3600, didn't bet (folded)
+josie944 balance 0, lost 190 [ 4s 4d ] [ two pairs, Sevens and Fours -- 9s,7s,7h,4s,4d ]
+autentico111 balance 6550, bet 3180, collected 6550, net +3370 [ 5s 7c ] [ three of a kind, Sevens -- 9s,7c,7s,7h,6s ]
+pappaCharly balance 4210, didn't bet (folded)
+Fumi01 balance 2580, didn't bet (folded)
+
+***** Hand History for Game 5999241736 *****
+josie944 finished in 6 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33597667)  - Thu May 24 15:55:40 EDT 2007
+Table Speed 1331188 (Real Money) -- Seat 2 is the button
+Total number of players : 5
+Seat 1: najinsky_ (3060)
+Seat 2: PauloC29 (3600)
+Seat 8: autentico111 (6550)
+Seat 9: pappaCharly (4210)
+Seat 10: Fumi01 (2580)
+autentico111  posts small blind (200)
+pappaCharly  posts big blind (400)
+** Dealing down cards **
+Fumi01 folds.
+najinsky_ folds.
+PauloC29 folds.
+autentico111 raises (600) to 800
+pappaCharly calls (400)
+** Dealing Flop ** :  [ 3d, 5s, Jc ]
+autentico111 bets (2000)
+pappaCharly folds.
+** Summary **
+Main Pot: 1600
+Board: [ 3d 5s Jc  ]
+
+najinsky_ balance 3060, didn't bet (folded)
+PauloC29 balance 3600, didn't bet (folded)
+autentico111 balance 7350, bet 2800, collected 3600, net +800
+pappaCharly balance 3410, lost 800 (folded)
+Fumi01 balance 2580, didn't bet (folded)
+
+***** Hand History for Game 5999244401 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33597667)  - Thu May 24 15:56:16 EDT 2007
+Table Speed 1331188 (Real Money) -- Seat 8 is the button
+Total number of players : 5
+Seat 1: najinsky_ (3060)
+Seat 2: PauloC29 (3600)
+Seat 8: autentico111 (7350)
+Seat 9: pappaCharly (3410)
+Seat 10: Fumi01 (2580)
+pappaCharly  posts small blind (200)
+Fumi01  posts big blind (400)
+** Dealing down cards **
+najinsky_ folds.
+PauloC29 folds.
+autentico111 folds.
+pappaCharly folds.
+** Summary **
+Main Pot: 400
+
+najinsky_ balance 3060, didn't bet (folded)
+PauloC29 balance 3600, didn't bet (folded)
+autentico111 balance 7350, didn't bet (folded)
+pappaCharly balance 3210, lost 200 (folded)
+Fumi01 balance 2780, bet 400, collected 600, net +200
+
+***** Hand History for Game 5999245551 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33597667)  - Thu May 24 15:56:32 EDT 2007
+Table Speed 1331188 (Real Money) -- Seat 9 is the button
+Total number of players : 5
+Seat 1: najinsky_ (3060)
+Seat 2: PauloC29 (3600)
+Seat 8: autentico111 (7350)
+Seat 9: pappaCharly (3210)
+Seat 10: Fumi01 (2780)
+Fumi01  posts small blind (200)
+najinsky_  posts big blind (400)
+** Dealing down cards **
+PauloC29 folds.
+autentico111 folds.
+pappaCharly folds.
+Fumi01 calls (200)
+najinsky_ checks.
+** Dealing Flop ** :  [ 6s, Td, 6d ]
+Fumi01 bets (2380)
+Fumi01 is all-In.
+najinsky_ folds.
+Creating Main Pot with $800 with Fumi01
+** Summary **
+Main Pot: 800
+Board: [ 6s Td 6d  ]
+
+najinsky_ balance 2660, lost 400 (folded)
+PauloC29 balance 3600, didn't bet (folded)
+autentico111 balance 7350, didn't bet (folded)
+pappaCharly balance 3210, didn't bet (folded)
+Fumi01 balance 3180, bet 2780, collected 3180, net +400
+
+***** Hand History for Game 5999247808 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33597667)  - Thu May 24 15:57:02 EDT 2007
+Table Speed 1331188 (Real Money) -- Seat 10 is the button
+Total number of players : 5
+Seat 1: najinsky_ (2660)
+Seat 2: PauloC29 (3600)
+Seat 8: autentico111 (7350)
+Seat 9: pappaCharly (3210)
+Seat 10: Fumi01 (3180)
+najinsky_  posts small blind (300)
+PauloC29  posts big blind (600)
+** Dealing down cards **
+autentico111 folds.
+pappaCharly raises (1200) to 1200
+Fumi01 folds.
+najinsky_ folds.
+PauloC29 calls (600)
+** Dealing Flop ** :  [ 5h, Kc, 5c ]
+PauloC29 checks.
+pappaCharly checks.
+** Dealing Turn ** :  [ Js ]
+PauloC29 bets (1200)
+pappaCharly calls (1200)
+** Dealing River ** :  [ 9s ]
+PauloC29 bets (1200)
+PauloC29 is all-In.
+pappaCharly folds.
+Creating Main Pot with $5100 with PauloC29
+** Summary **
+Main Pot: 5100
+Board: [ 5h Kc 5c Js 9s  ]
+
+najinsky_ balance 2360, lost 300 (folded)
+PauloC29 balance 6300, bet 3600, collected 6300, net +2700
+autentico111 balance 7350, didn't bet (folded)
+pappaCharly balance 810, lost 2400 (folded)
+Fumi01 balance 3180, didn't bet (folded)
+
+***** Hand History for Game 5999252013 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33597667)  - Thu May 24 15:58:00 EDT 2007
+Table Speed 1331188 (Real Money) -- Seat 1 is the button
+Total number of players : 5
+Seat 1: najinsky_ (2360)
+Seat 2: PauloC29 (6300)
+Seat 8: autentico111 (7350)
+Seat 9: pappaCharly (810)
+Seat 10: Fumi01 (3180)
+PauloC29  posts small blind (300)
+autentico111  posts big blind (600)
+** Dealing down cards **
+pappaCharly folds.
+Fumi01 folds.
+najinsky_ calls (600)
+PauloC29 folds.
+autentico111 folds.
+** Summary **
+Main Pot: 1500
+
+najinsky_ balance 3260, bet 600, collected 1500, net +900
+PauloC29 balance 6000, lost 300 (folded)
+autentico111 balance 6750, lost 600 (folded)
+pappaCharly balance 810, didn't bet (folded)
+Fumi01 balance 3180, didn't bet (folded)
+
+***** Hand History for Game 5999253277 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33597667)  - Thu May 24 15:58:17 EDT 2007
+Table Speed 1331188 (Real Money) -- Seat 2 is the button
+Total number of players : 5
+Seat 1: najinsky_ (3260)
+Seat 2: PauloC29 (6000)
+Seat 8: autentico111 (6750)
+Seat 9: pappaCharly (810)
+Seat 10: Fumi01 (3180)
+autentico111  posts small blind (300)
+pappaCharly  posts big blind (600)
+** Dealing down cards **
+Fumi01 folds.
+najinsky_ calls (600)
+PauloC29 folds.
+autentico111 folds.
+pappaCharly checks.
+** Dealing Flop ** :  [ 8d, Kc, 2c ]
+pappaCharly checks.
+najinsky_ bets (600)
+pappaCharly folds.
+** Summary **
+Main Pot: 1500
+Board: [ 8d Kc 2c  ]
+
+najinsky_ balance 4160, bet 1200, collected 2100, net +900
+PauloC29 balance 6000, didn't bet (folded)
+autentico111 balance 6450, lost 300 (folded)
+pappaCharly balance 210, lost 600 (folded)
+Fumi01 balance 3180, didn't bet (folded)
+
+***** Hand History for Game 5999255707 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33597667)  - Thu May 24 15:58:50 EDT 2007
+Table Speed 1331188 (Real Money) -- Seat 8 is the button
+Total number of players : 5
+Seat 1: najinsky_ (4160)
+Seat 2: PauloC29 (6000)
+Seat 8: autentico111 (6450)
+Seat 9: pappaCharly (210)
+Seat 10: Fumi01 (3180)
+pappaCharly  posts small blind (210)
+Fumi01  posts big blind (600)
+** Dealing down cards **
+najinsky_ calls (600)
+PauloC29 folds.
+autentico111 folds.
+pappaCharly is all-In.
+Fumi01 checks.
+Creating Main Pot with $630 with pappaCharly
+** Dealing Flop ** :  [ 7h, 2h, 4s ]
+Fumi01 checks.
+najinsky_ checks.
+** Dealing Turn ** :  [ 6c ]
+Fumi01 checks.
+najinsky_ checks.
+** Dealing River ** :  [ 3s ]
+Fumi01 bets (600)
+najinsky_ calls (600)
+** Summary **
+Main Pot: 630 | Side Pot 1: 1980
+Board: [ 7h 2h 4s 6c 3s  ]
+
+
+najinsky_ balance 2960, lost 1200 [Didn't Show]
+PauloC29 balance 6000, didn't bet (folded)
+autentico111 balance 6450, didn't bet (folded)
+pappaCharly balance 630, bet 210, collected 630, net +420 [ 5c Qh ] [ a straight Three to Seven -- 7h,6c,5c,4s,3s ]
+Fumi01 balance 3960, bet 1200, collected 1980, net +780 [ 4d Ts ] [ a pair of Fours -- Ts,7h,6c,4d,4s ]
+
+***** Hand History for Game 5999258555 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33597667)  - Thu May 24 15:59:30 EDT 2007
+Table Speed 1331188 (Real Money) -- Seat 9 is the button
+Total number of players : 5
+Seat 1: najinsky_ (2960)
+Seat 2: PauloC29 (6000)
+Seat 8: autentico111 (6450)
+Seat 9: pappaCharly (630)
+Seat 10: Fumi01 (3960)
+Fumi01  posts small blind (300)
+najinsky_  posts big blind (600)
+** Dealing down cards **
+PauloC29 folds.
+autentico111 folds.
+pappaCharly raises (630) to 630
+pappaCharly is all-In.
+Fumi01 raises (3660) to 3960
+Fumi01 is all-In.
+najinsky_ folds.
+** Dealing Flop ** :  [ Ac, Js, Kd ]
+** Dealing Turn ** :  [ Ad ]
+** Dealing River ** :  [ 6h ]
+Creating Main Pot with $1860 with pappaCharly
+** Summary **
+Main Pot: 1860
+Board: [ Ac Js Kd Ad 6h  ]
+
+najinsky_ balance 2360, lost 600 (folded)
+PauloC29 balance 6000, didn't bet (folded)
+autentico111 balance 6450, didn't bet (folded)
+pappaCharly balance 0, lost 630 [ Tc 9d ] [ a pair of Aces -- Ac,Ad,Kd,Js,Tc ]
+Fumi01 balance 5190, bet 3960, collected 5190, net +1230 [ Ah Qd ] [ three of a kind, Aces -- Ah,Ac,Ad,Kd,Qd ]
+
+***** Hand History for Game 5999260377 *****
+pappaCharly finished in 5 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33597667)  - Thu May 24 15:59:55 EDT 2007
+Table Speed 1331188 (Real Money) -- Seat 10 is the button
+Total number of players : 4
+Seat 1: najinsky_ (2360)
+Seat 2: PauloC29 (6000)
+Seat 8: autentico111 (6450)
+Seat 10: Fumi01 (5190)
+najinsky_  posts small blind (300)
+PauloC29  posts big blind (600)
+** Dealing down cards **
+autentico111 folds.
+Fumi01 folds.
+najinsky_ calls (300)
+PauloC29 checks.
+** Dealing Flop ** :  [ 6c, Th, Js ]
+najinsky_ checks.
+PauloC29 checks.
+** Dealing Turn ** :  [ Kc ]
+najinsky_ bets (600)
+PauloC29 calls (600)
+** Dealing River ** :  [ 5h ]
+najinsky_ bets (600)
+PauloC29 calls (600)
+** Summary **
+Main Pot: 3600
+Board: [ 6c Th Js Kc 5h  ]
+
+najinsky_ balance 4160, bet 1800, collected 3600, net +1800 [ Kd Qh ] [ a pair of Kings -- Kd,Kc,Qh,Js,Th ]
+
+PauloC29 balance 4200, lost 1800 [Didn't Show]
+autentico111 balance 6450, didn't bet (folded)
+Fumi01 balance 5190, didn't bet (folded)
+
+***** Hand History for Game 5999263563 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33597667)  - Thu May 24 16:00:39 EDT 2007
+Table Speed 1331188 (Real Money) -- Seat 1 is the button
+Total number of players : 4
+Seat 1: najinsky_ (4160)
+Seat 2: PauloC29 (4200)
+Seat 8: autentico111 (6450)
+Seat 10: Fumi01 (5190)
+PauloC29  posts small blind (300)
+autentico111  posts big blind (600)
+** Dealing down cards **
+Fumi01 folds.
+najinsky_ folds.
+PauloC29 calls (300)
+autentico111 checks.
+** Dealing Flop ** :  [ 7c, Kh, 7s ]
+PauloC29 checks.
+autentico111 checks.
+** Dealing Turn ** :  [ 6h ]
+PauloC29 bets (1200)
+autentico111 raises (2400) to 2400
+PauloC29 raises (2400) to 3600
+PauloC29 is all-In.
+autentico111 calls (1200)
+** Dealing River ** :  [ Qd ]
+Creating Main Pot with $8400 with PauloC29
+** Summary **
+Main Pot: 8400
+Board: [ 7c Kh 7s 6h Qd  ]
+
+najinsky_ balance 4160, didn't bet (folded)
+PauloC29 balance 0, lost 4200 [ 8h Kc ] [ two pairs, Kings and Sevens -- Kc,Kh,Qd,7c,7s ]
+autentico111 balance 10650, bet 4200, collected 8400, net +4200 [ Ah 7h ] [ three of a kind, Sevens -- Ah,Kh,7h,7c,7s ]
+Fumi01 balance 5190, didn't bet (folded)
+
+***** Hand History for Game 5999266622 *****
+PauloC29 finished in 4 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33597667)  - Thu May 24 16:01:21 EDT 2007
+Table Speed 1331188 (Real Money) -- Seat 1 is the button
+Total number of players : 3
+Seat 1: najinsky_ (4160)
+Seat 8: autentico111 (10650)
+Seat 10: Fumi01 (5190)
+autentico111  posts small blind (300)
+Fumi01  posts big blind (600)
+** Dealing down cards **
+najinsky_ calls (600)
+autentico111 folds.
+Fumi01 checks.
+** Dealing Flop ** :  [ Kd, Jc, Js ]
+Fumi01 checks.
+najinsky_ checks.
+** Dealing Turn ** :  [ Ts ]
+Fumi01 bets (600)
+najinsky_ calls (600)
+** Dealing River ** :  [ Jd ]
+Fumi01 checks.
+najinsky_ bets (600)
+Fumi01 folds.
+** Summary **
+Main Pot: 2700
+Board: [ Kd Jc Js Ts Jd  ]
+
+najinsky_ balance 5660, bet 1800, collected 3300, net +1500
+autentico111 balance 10350, lost 300 (folded)
+Fumi01 balance 3990, lost 1200 (folded)
+
+***** Hand History for Game 5999269406 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33597667)  - Thu May 24 16:01:59 EDT 2007
+Table Speed 1331188 (Real Money) -- Seat 8 is the button
+Total number of players : 3
+Seat 1: najinsky_ (5660)
+Seat 8: autentico111 (10350)
+Seat 10: Fumi01 (3990)
+Fumi01  posts small blind (300)
+najinsky_  posts big blind (600)
+** Dealing down cards **
+autentico111 folds.
+Fumi01 raises (3690) to 3990
+Fumi01 is all-In.
+najinsky_ folds.
+Creating Main Pot with $1200 with Fumi01
+** Summary **
+Main Pot: 1200
+
+najinsky_ balance 5060, lost 600 (folded)
+autentico111 balance 10350, didn't bet (folded)
+Fumi01 balance 4590, bet 3990, collected 4590, net +600
+
+***** Hand History for Game 5999270484 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33597667)  - Thu May 24 16:02:14 EDT 2007
+Table Speed 1331188 (Real Money) -- Seat 10 is the button
+Total number of players : 3
+Seat 1: najinsky_ (5060)
+Seat 8: autentico111 (10350)
+Seat 10: Fumi01 (4590)
+najinsky_  posts ante (25)
+autentico111  posts ante (25)
+Fumi01  posts ante (25)
+najinsky_  posts small blind (400)
+autentico111  posts big blind (800)
+** Dealing down cards **
+Fumi01 folds.
+najinsky_ calls (400)
+autentico111 checks.
+** Dealing Flop ** :  [ 5s, 5c, Kc ]
+najinsky_ checks.
+autentico111 checks.
+** Dealing Turn ** :  [ 7d ]
+najinsky_ checks.
+autentico111 checks.
+** Dealing River ** :  [ 4c ]
+najinsky_ checks.
+autentico111 checks.
+** Summary **
+Main Pot: 1675
+Board: [ 5s 5c Kc 7d 4c  ]
+
+najinsky_ balance 5910, bet 825, collected 1675, net +850 [ 3s Jc ] [ a pair of Fives with Jack kicker -- Kc,Jc,7d,5s,5cJc(kicker card) ]
+
+autentico111 balance 9525, lost 825 [Didn't Show]
+Fumi01 balance 4565, lost 25 (folded)
+
+***** Hand History for Game 5999272395 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33597667)  - Thu May 24 16:02:41 EDT 2007
+Table Speed 1331188 (Real Money) -- Seat 1 is the button
+Total number of players : 3
+Seat 1: najinsky_ (5910)
+Seat 8: autentico111 (9525)
+Seat 10: Fumi01 (4565)
+najinsky_  posts ante (25)
+autentico111  posts ante (25)
+Fumi01  posts ante (25)
+autentico111  posts small blind (400)
+Fumi01  posts big blind (800)
+** Dealing down cards **
+najinsky_ folds.
+autentico111 folds.
+** Summary **
+Main Pot: 875
+
+najinsky_ balance 5885, lost 25 (folded)
+autentico111 balance 9100, lost 425 (folded)
+Fumi01 balance 5015, bet 825, collected 1275, net +450
+
+***** Hand History for Game 5999273222 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33597667)  - Thu May 24 16:02:53 EDT 2007
+Table Speed 1331188 (Real Money) -- Seat 8 is the button
+Total number of players : 3
+Seat 1: najinsky_ (5885)
+Seat 8: autentico111 (9100)
+Seat 10: Fumi01 (5015)
+najinsky_  posts ante (25)
+autentico111  posts ante (25)
+Fumi01  posts ante (25)
+Fumi01  posts small blind (400)
+najinsky_  posts big blind (800)
+** Dealing down cards **
+autentico111 raises (9075) to 9075
+autentico111 is all-In.
+Fumi01 folds.
+najinsky_ folds.
+Creating Main Pot with $2075 with autentico111
+** Summary **
+Main Pot: 2075
+
+najinsky_ balance 5060, lost 825 (folded)
+autentico111 balance 10350, bet 9100, collected 10350, net +1250
+Fumi01 balance 4590, lost 425 (folded)
+
+***** Hand History for Game 5999274245 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33597667)  - Thu May 24 16:03:07 EDT 2007
+Table Speed 1331188 (Real Money) -- Seat 10 is the button
+Total number of players : 3
+Seat 1: najinsky_ (5060)
+Seat 8: autentico111 (10350)
+Seat 10: Fumi01 (4590)
+najinsky_  posts ante (25)
+autentico111  posts ante (25)
+Fumi01  posts ante (25)
+najinsky_  posts small blind (400)
+autentico111  posts big blind (800)
+** Dealing down cards **
+Fumi01 folds.
+najinsky_ calls (400)
+autentico111 checks.
+** Dealing Flop ** :  [ Kh, Ts, 2s ]
+najinsky_ bets (800)
+autentico111 calls (800)
+** Dealing Turn ** :  [ 5h ]
+najinsky_ bets (800)
+autentico111 calls (800)
+** Dealing River ** :  [ 5c ]
+najinsky_ bets (800)
+autentico111 raises (1600) to 1600
+najinsky_ calls (800)
+** Summary **
+Main Pot: 8075
+Board: [ Kh Ts 2s 5h 5c  ]
+
+
+najinsky_ balance 1035, lost 4025 [Didn't Show]
+autentico111 balance 14400, bet 4025, collected 8075, net +4050 [ 5d Ah ] [ three of a kind, Fives -- Ah,Kh,5d,5h,5c ]
+Fumi01 balance 4565, lost 25 (folded)
+
+***** Hand History for Game 5999276775 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33597667)  - Thu May 24 16:03:43 EDT 2007
+Table Speed 1331188 (Real Money) -- Seat 1 is the button
+Total number of players : 3
+Seat 1: najinsky_ (1035)
+Seat 8: autentico111 (14400)
+Seat 10: Fumi01 (4565)
+najinsky_  posts ante (25)
+autentico111  posts ante (25)
+Fumi01  posts ante (25)
+autentico111  posts small blind (400)
+Fumi01  posts big blind (800)
+** Dealing down cards **
+najinsky_ calls (800)
+autentico111 folds.
+Fumi01 checks.
+** Dealing Flop ** :  [ Ad, 3s, 7h ]
+Fumi01 checks.
+najinsky_ checks.
+** Dealing Turn ** :  [ 9c ]
+Fumi01 bets (800)
+najinsky_ calls (210)
+najinsky_ is all-In.
+** Dealing River ** :  [ 2c ]
+Creating Main Pot with $2495 with najinsky_
+** Summary **
+Main Pot: 2495
+Board: [ Ad 3s 7h 9c 2c  ]
+
+najinsky_ balance 2495, bet 1035, collected 2495, net +1460 [ 9s 8s ] [ a pair of Nines -- Ad,9s,9c,8s,7h ]
+autentico111 balance 13975, lost 425 (folded)
+Fumi01 balance 3530, bet 1625, collected 590, lost -1035 [ 8d 6s ] [ high card Ace -- Ad,9c,8d,7h,6s ]
+
+***** Hand History for Game 5999278846 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33597667)  - Thu May 24 16:04:11 EDT 2007
+Table Speed 1331188 (Real Money) -- Seat 8 is the button
+Total number of players : 3
+Seat 1: najinsky_ (2495)
+Seat 8: autentico111 (13975)
+Seat 10: Fumi01 (3530)
+najinsky_  posts ante (25)
+autentico111  posts ante (25)
+Fumi01  posts ante (25)
+Fumi01  posts small blind (400)
+najinsky_  posts big blind (800)
+** Dealing down cards **
+autentico111 folds.
+Fumi01 raises (3105) to 3505
+Fumi01 is all-In.
+najinsky_ calls (1670)
+najinsky_ is all-In.
+** Dealing Flop ** :  [ Js, 3h, 4s ]
+** Dealing Turn ** :  [ Jc ]
+** Dealing River ** :  [ As ]
+Creating Main Pot with $5015 with najinsky_
+** Summary **
+Main Pot: 5015
+Board: [ Js 3h 4s Jc As  ]
+
+najinsky_ balance 5015, bet 2495, collected 5015, net +2520 [ 5d 5s ] [ two pairs, Jacks and Fives -- As,Js,Jc,5d,5s ]
+autentico111 balance 13950, lost 25 (folded)
+Fumi01 balance 1035, bet 3530, collected 1035, lost -2495 [ Ks 7h ] [ a pair of Jacks -- As,Ks,Js,Jc,7h ]
+
+***** Hand History for Game 5999280096 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33597667)  - Thu May 24 16:04:28 EDT 2007
+Table Speed 1331188 (Real Money) -- Seat 10 is the button
+Total number of players : 3
+Seat 1: najinsky_ (5015)
+Seat 8: autentico111 (13950)
+Seat 10: Fumi01 (1035)
+najinsky_  posts ante (25)
+autentico111  posts ante (25)
+Fumi01  posts ante (25)
+najinsky_  posts small blind (400)
+autentico111  posts big blind (800)
+** Dealing down cards **
+Fumi01 raises (1010) to 1010
+Fumi01 is all-In.
+najinsky_ folds.
+autentico111 calls (210)
+** Dealing Flop ** :  [ 8s, 5c, 5d ]
+** Dealing Turn ** :  [ 6s ]
+** Dealing River ** :  [ Jc ]
+Creating Main Pot with $2495 with Fumi01
+** Summary **
+Main Pot: 2495
+Board: [ 8s 5c 5d 6s Jc  ]
+
+najinsky_ balance 4590, lost 425 (folded)
+autentico111 balance 12915, lost 1035 [ Ts Kd ] [ a pair of Fives -- Kd,Jc,Ts,5c,5d ]
+Fumi01 balance 2495, bet 1035, collected 2495, net +1460 [ Ac 8h ] [ two pairs, Eights and Fives -- Ac,8h,8s,5c,5d ]
+
+***** Hand History for Game 5999281321 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33597667)  - Thu May 24 16:04:45 EDT 2007
+Table Speed 1331188 (Real Money) -- Seat 1 is the button
+Total number of players : 3
+Seat 1: najinsky_ (4590)
+Seat 8: autentico111 (12915)
+Seat 10: Fumi01 (2495)
+najinsky_  posts ante (25)
+autentico111  posts ante (25)
+Fumi01  posts ante (25)
+autentico111  posts small blind (400)
+Fumi01  posts big blind (800)
+** Dealing down cards **
+najinsky_ folds.
+autentico111 calls (400)
+Fumi01 checks.
+** Dealing Flop ** :  [ Ks, Jh, Ts ]
+autentico111 bets (1600)
+Fumi01 calls (1600)
+** Dealing Turn ** :  [ Kh ]
+autentico111 checks.
+Fumi01 bets (70)
+Fumi01 is all-In.
+autentico111 calls (70)
+** Dealing River ** :  [ Jc ]
+Creating Main Pot with $5015 with Fumi01
+** Summary **
+Main Pot: 5015
+Board: [ Ks Jh Ts Kh Jc  ]
+
+najinsky_ balance 4565, lost 25 (folded)
+autentico111 balance 10420, lost 2495 [ 7s Qs ] [ two pairs, Kings and Jacks -- Ks,Kh,Qs,Jh,Jc ]
+Fumi01 balance 5015, bet 2495, collected 5015, net +2520 [ 5h Jd ] [ a full house, Jacks full of Kings -- Ks,Kh,Jd,Jh,Jc ]
+
+***** Hand History for Game 5999283746 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33597667)  - Thu May 24 16:05:19 EDT 2007
+Table Speed 1331188 (Real Money) -- Seat 8 is the button
+Total number of players : 3
+Seat 1: najinsky_ (4565)
+Seat 8: autentico111 (10420)
+Seat 10: Fumi01 (5015)
+najinsky_  posts ante (25)
+autentico111  posts ante (25)
+Fumi01  posts ante (25)
+Fumi01  posts small blind (400)
+najinsky_  posts big blind (800)
+** Dealing down cards **
+autentico111 raises (10395) to 10395
+autentico111 is all-In.
+Fumi01 folds.
+najinsky_ calls (3740)
+najinsky_ is all-In.
+** Dealing Flop ** :  [ 8h, 2h, 7h ]
+** Dealing Turn ** :  [ 7d ]
+** Dealing River ** :  [ 3h ]
+Creating Main Pot with $9555 with najinsky_
+** Summary **
+Main Pot: 9555
+Board: [ 8h 2h 7h 7d 3h  ]
+
+najinsky_ balance 9555, bet 4565, collected 9555, net +4990 [ Kh 9h ] [ a flush, King high -- Kh,9h,8h,7h,3h ]
+autentico111 balance 5855, bet 10420, collected 5855, lost -4565 [ Ad Kd ] [ a pair of Sevens -- Ad,Kd,8h,7h,7d ]
+Fumi01 balance 4590, lost 425 (folded)
+
+***** Hand History for Game 5999285416 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33597667)  - Thu May 24 16:05:43 EDT 2007
+Table Speed 1331188 (Real Money) -- Seat 10 is the button
+Total number of players : 3
+Seat 1: najinsky_ (9555)
+Seat 8: autentico111 (5855)
+Seat 10: Fumi01 (4590)
+najinsky_  posts ante (25)
+autentico111  posts ante (25)
+Fumi01  posts ante (25)
+najinsky_  posts small blind (400)
+autentico111  posts big blind (800)
+** Dealing down cards **
+Fumi01 folds.
+najinsky_ calls (400)
+autentico111 checks.
+** Dealing Flop ** :  [ Kh, 7c, 4h ]
+najinsky_ checks.
+autentico111 checks.
+** Dealing Turn ** :  [ Jd ]
+najinsky_ checks.
+autentico111 checks.
+** Dealing River ** :  [ Jc ]
+najinsky_ checks.
+autentico111 checks.
+** Summary **
+Main Pot: 1675
+Board: [ Kh 7c 4h Jd Jc  ]
+
+najinsky_ balance 10405, bet 825, collected 1675, net +850 [ 2d 9d ] [ a pair of Jacks with Nine kicker -- Kh,Jd,Jc,9d,7c9d(kicker card) ]
+
+autentico111 balance 5030, lost 825 [Didn't Show]
+Fumi01 balance 4565, lost 25 (folded)
+
+***** Hand History for Game 5999287443 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33597667)  - Thu May 24 16:06:10 EDT 2007
+Table Speed 1331188 (Real Money) -- Seat 1 is the button
+Total number of players : 3
+Seat 1: najinsky_ (10405)
+Seat 8: autentico111 (5030)
+Seat 10: Fumi01 (4565)
+najinsky_  posts ante (25)
+autentico111  posts ante (25)
+Fumi01  posts ante (25)
+autentico111  posts small blind (400)
+Fumi01  posts big blind (800)
+** Dealing down cards **
+najinsky_ calls (800)
+autentico111 calls (400)
+Fumi01 checks.
+** Dealing Flop ** :  [ Qd, Tc, 7h ]
+autentico111 bets (4205)
+autentico111 is all-In.
+Fumi01 folds.
+najinsky_ folds.
+Creating Main Pot with $2475 with autentico111
+** Summary **
+Main Pot: 2475
+Board: [ Qd Tc 7h  ]
+
+najinsky_ balance 9580, lost 825 (folded)
+autentico111 balance 6680, bet 5030, collected 6680, net +1650
+Fumi01 balance 3740, lost 825 (folded)
+
+***** Hand History for Game 5999289297 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33597667)  - Thu May 24 16:06:35 EDT 2007
+Table Speed 1331188 (Real Money) -- Seat 8 is the button
+Total number of players : 3
+Seat 1: najinsky_ (9580)
+Seat 8: autentico111 (6680)
+Seat 10: Fumi01 (3740)
+najinsky_  posts ante (25)
+autentico111  posts ante (25)
+Fumi01  posts ante (25)
+Fumi01  posts small blind (400)
+najinsky_  posts big blind (800)
+** Dealing down cards **
+autentico111 folds.
+Fumi01 folds.
+** Summary **
+Main Pot: 875
+
+najinsky_ balance 10030, bet 825, collected 1275, net +450
+autentico111 balance 6655, lost 25 (folded)
+Fumi01 balance 3315, lost 425 (folded)
+
+***** Hand History for Game 5999290388 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33597667)  - Thu May 24 16:06:50 EDT 2007
+Table Speed 1331188 (Real Money) -- Seat 10 is the button
+Total number of players : 3
+Seat 1: najinsky_ (10030)
+Seat 8: autentico111 (6655)
+Seat 10: Fumi01 (3315)
+najinsky_  posts ante (25)
+autentico111  posts ante (25)
+Fumi01  posts ante (25)
+najinsky_  posts small blind (400)
+autentico111  posts big blind (800)
+** Dealing down cards **
+Fumi01 folds.
+najinsky_ calls (400)
+autentico111 checks.
+** Dealing Flop ** :  [ 6h, 8s, Qc ]
+najinsky_ checks.
+autentico111 checks.
+** Dealing Turn ** :  [ Qh ]
+najinsky_ bets (800)
+autentico111 calls (800)
+** Dealing River ** :  [ 8h ]
+najinsky_ bets (800)
+autentico111 calls (800)
+** Summary **
+Main Pot: 4875
+Board: [ 6h 8s Qc Qh 8h  ]
+
+najinsky_ balance 10043, bet 2425, collected 2438, net +13 [ Ac 5c ] [ two pairs, Queens and Eights -- Ac,Qc,Qh,8s,8h ]
+autentico111 balance 6667, bet 2425, collected 2437, net +12 [ Tc As ] [ two pairs, Queens and Eights -- As,Qc,Qh,8s,8h ]
+Fumi01 balance 3290, lost 25 (folded)
+
+***** Hand History for Game 5999292573 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33597667)  - Thu May 24 16:07:20 EDT 2007
+Table Speed 1331188 (Real Money) -- Seat 1 is the button
+Total number of players : 3
+Seat 1: najinsky_ (10043)
+Seat 8: autentico111 (6667)
+Seat 10: Fumi01 (3290)
+najinsky_  posts ante (50)
+autentico111  posts ante (50)
+Fumi01  posts ante (50)
+autentico111  posts small blind (600)
+Fumi01  posts big blind (1200)
+** Dealing down cards **
+najinsky_ calls (1200)
+autentico111 folds.
+Fumi01 checks.
+** Dealing Flop ** :  [ 7c, 3s, 8s ]
+Fumi01 checks.
+najinsky_ checks.
+** Dealing Turn ** :  [ Qh ]
+Fumi01 checks.
+najinsky_ checks.
+** Dealing River ** :  [ 9h ]
+Fumi01 bets (1200)
+najinsky_ calls (1200)
+** Summary **
+Main Pot: 5550
+Board: [ 7c 3s 8s Qh 9h  ]
+
+najinsky_ balance 13143, bet 2450, collected 5550, net +3100 [ Ac 9c ] [ a pair of Nines -- Ac,Qh,9c,9h,8s ]
+autentico111 balance 6017, lost 650 (folded)
+Fumi01 balance 840, lost 2450 [ 2c Tc ] [ high card Queen -- Qh,Tc,9h,8s,7c ]
+
+***** Hand History for Game 5999295622 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33597667)  - Thu May 24 16:08:01 EDT 2007
+Table Speed 1331188 (Real Money) -- Seat 8 is the button
+Total number of players : 3
+Seat 1: najinsky_ (13143)
+Seat 8: autentico111 (6017)
+Seat 10: Fumi01 (840)
+najinsky_  posts ante (50)
+autentico111  posts ante (50)
+Fumi01  posts ante (50)
+Fumi01  posts small blind (600)
+najinsky_  posts big blind (1200)
+** Dealing down cards **
+autentico111 folds.
+Fumi01 calls (190)
+Fumi01 is all-In.
+** Dealing Flop ** :  [ 5h, Jd, Js ]
+** Dealing Turn ** :  [ 2s ]
+** Dealing River ** :  [ 9d ]
+Creating Main Pot with $1730 with Fumi01
+** Summary **
+Main Pot: 1730
+Board: [ 5h Jd Js 2s 9d  ]
+
+najinsky_ balance 14033, bet 1250, collected 2140, net +890 [ 4h 4s ] [ two pairs, Jacks and Fours -- Jd,Js,9d,4h,4s ]
+autentico111 balance 5967, lost 50 (folded)
+Fumi01 balance 0, lost 840 [ As 7d ] [ a pair of Jacks -- As,Jd,Js,9d,7d ]
+
+***** Hand History for Game 5999296596 *****
+Fumi01 finished in 3 place and won $10.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33597667)  - Thu May 24 16:08:16 EDT 2007
+Table Speed 1331188 (Real Money) -- Seat 1 is the button
+Total number of players : 2
+Seat 1: najinsky_ (14033)
+Seat 8: autentico111 (5967)
+najinsky_  posts ante (50)
+autentico111  posts ante (50)
+najinsky_  posts small blind (600)
+autentico111  posts big blind (1200)
+** Dealing down cards **
+najinsky_ calls (600)
+autentico111 raises (4717) to 5917
+autentico111 is all-In.
+najinsky_ calls (4717)
+** Dealing Flop ** :  [ Ac, Td, Kh ]
+** Dealing Turn ** :  [ 4c ]
+** Dealing River ** :  [ 6s ]
+Creating Main Pot with $11934 with autentico111
+** Summary **
+Main Pot: 11934
+Board: [ Ac Td Kh 4c 6s  ]
+
+najinsky_ balance 20000, bet 5967, collected 11934, net +5967 [ Qs Jc ] [ a straight Ten to Ace -- Ac,Kh,Qs,Jc,Td ]
+autentico111 balance 0, lost 5967 [ Kc 8h ] [ a pair of Kings -- Ac,Kc,Kh,Td,8h ]
+
+
+

@@ -1,0 +1,2677 @@
+
+Hello hatoka,
+These hand histories are provided to you as an aid for your training and development. You are not permitted to share them with anyone.  We reserve the right to cease providing them or apply further restrictions at any time.
+Complete hand histories are only available to players that participated in the hand.
+You requested a transcript of Tournament #32423108.
+
+Summary
+----------
+Played on    : 21 March 2007 04:28 PM
+On Table     : Speed #1330847
+Game Type    : Texas Holdem
+Buy-In       : $2
+Fee          : $1
+You finished in  position 8
+1st place - Kegio -  $12
+2nd place - john55113 -  $7.20
+3rd place - tucano74 -  $4.80
+
+***** Hand History for Game 5792628985 *****
+40/80 Tourney Texas Hold'em Game Table (Limit) (Tournament 32423108)  - Wed Mar 21 16:29:01 EDT 2007
+Table Speed 1330847 (Real Money) -- Seat 7 is the button
+Total number of players : 10
+Seat 1: Kegio (2000)
+Seat 2: hatoka (2000)
+Seat 3: ionutzu777 (2000)
+Seat 4: pokerPain83 (2000)
+Seat 5: SFC_Koelle (2000)
+Seat 6: tucano74 (2000)
+Seat 7: Lexomat (2000)
+Seat 8: bianca70 (2000)
+Seat 9: mightyzee111 (2000)
+Seat 10: john55113 (2000)
+bianca70  posts small blind (20)
+mightyzee111  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 2d, 9h ]
+john55113 calls (40)
+Kegio folds.
+hatoka folds.
+ionutzu777 calls (40)
+pokerPain83 folds.
+SFC_Koelle folds.
+tucano74 folds.
+Lexomat folds.
+bianca70 calls (20)
+mightyzee111 checks.
+** Dealing Flop ** :  [ 9d, 2h, 2s ]
+bianca70 checks.
+mightyzee111 checks.
+john55113 checks.
+ionutzu777 checks.
+** Dealing Turn ** :  [ Jh ]
+bianca70 bets (80)
+mightyzee111 folds.
+john55113 calls (80)
+ionutzu777 folds.
+** Dealing River ** :  [ 3h ]
+bianca70 bets (80)
+john55113 folds.
+** Summary **
+Main Pot: 320
+Board: [ 9d 2h 2s Jh 3h  ]
+
+Kegio balance 2000, didn't bet (folded)
+hatoka balance 2000, didn't bet (folded)
+ionutzu777 balance 1960, lost 40 (folded)
+pokerPain83 balance 2000, didn't bet (folded)
+SFC_Koelle balance 2000, didn't bet (folded)
+tucano74 balance 2000, didn't bet (folded)
+Lexomat balance 2000, didn't bet (folded)
+bianca70 balance 2200, bet 200, collected 400, net +200
+mightyzee111 balance 1960, lost 40 (folded)
+john55113 balance 1880, lost 120 (folded)
+
+***** Hand History for Game 5792632080 *****
+40/80 Tourney Texas Hold'em Game Table (Limit) (Tournament 32423108)  - Wed Mar 21 16:29:44 EDT 2007
+Table Speed 1330847 (Real Money) -- Seat 8 is the button
+Total number of players : 10
+Seat 1: Kegio (2000)
+Seat 2: hatoka (2000)
+Seat 3: ionutzu777 (1960)
+Seat 4: pokerPain83 (2000)
+Seat 5: SFC_Koelle (2000)
+Seat 6: tucano74 (2000)
+Seat 7: Lexomat (2000)
+Seat 8: bianca70 (2200)
+Seat 9: mightyzee111 (1960)
+Seat 10: john55113 (1880)
+mightyzee111  posts small blind (20)
+john55113  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ Ah, Tc ]
+Kegio folds.
+hatoka raises (80) to 80
+ionutzu777 folds.
+pokerPain83 folds.
+SFC_Koelle folds.
+tucano74 folds.
+Lexomat folds.
+bianca70 folds.
+mightyzee111 raises (100) to 120
+john55113 folds.
+hatoka calls (40)
+** Dealing Flop ** :  [ Ad, 8h, 6h ]
+mightyzee111 bets (40)
+hatoka raises (80) to 80
+mightyzee111 raises (80) to 120
+hatoka raises (80) to 160
+mightyzee111 calls (40)
+** Dealing Turn ** :  [ 2c ]
+mightyzee111 bets (80)
+hatoka raises (160) to 160
+mightyzee111 raises (160) to 240
+hatoka calls (80)
+** Dealing River ** :  [ Qc ]
+mightyzee111 bets (80)
+hatoka calls (80)
+** Summary **
+Main Pot: 1240
+Board: [ Ad 8h 6h 2c Qc  ]
+
+Kegio balance 2000, didn't bet (folded)
+hatoka balance 2640, bet 600, collected 1240, net +640 [ Ah Tc ] [ a pair of Aces -- Ah,Ad,Qc,Tc,8h ]
+ionutzu777 balance 1960, didn't bet (folded)
+pokerPain83 balance 2000, didn't bet (folded)
+SFC_Koelle balance 2000, didn't bet (folded)
+tucano74 balance 2000, didn't bet (folded)
+Lexomat balance 2000, didn't bet (folded)
+bianca70 balance 2200, didn't bet (folded)
+mightyzee111 balance 1360, lost 600 [ 5h 5d ] [ a pair of Fives -- Ad,Qc,8h,5h,5d ]
+john55113 balance 1840, lost 40 (folded)
+
+***** Hand History for Game 5792637341 *****
+40/80 Tourney Texas Hold'em Game Table (Limit) (Tournament 32423108)  - Wed Mar 21 16:30:49 EDT 2007
+Table Speed 1330847 (Real Money) -- Seat 9 is the button
+Total number of players : 10
+Seat 1: Kegio (2000)
+Seat 2: hatoka (2640)
+Seat 3: ionutzu777 (1960)
+Seat 4: pokerPain83 (2000)
+Seat 5: SFC_Koelle (2000)
+Seat 6: tucano74 (2000)
+Seat 7: Lexomat (2000)
+Seat 8: bianca70 (2200)
+Seat 9: mightyzee111 (1360)
+Seat 10: john55113 (1840)
+john55113  posts small blind (20)
+Kegio  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ Th, 7d ]
+hatoka folds.
+ionutzu777 calls (40)
+pokerPain83 folds.
+SFC_Koelle folds.
+tucano74 folds.
+Lexomat raises (80) to 80
+bianca70 folds.
+mightyzee111 raises (120) to 120
+john55113 folds.
+Kegio folds.
+ionutzu777 calls (80)
+Lexomat calls (40)
+** Dealing Flop ** :  [ 4h, Ah, 8h ]
+ionutzu777 checks.
+Lexomat bets (40)
+mightyzee111 raises (80) to 80
+ionutzu777 folds.
+Lexomat calls (40)
+** Dealing Turn ** :  [ 8c ]
+Lexomat bets (80)
+mightyzee111 raises (160) to 160
+Lexomat calls (80)
+** Dealing River ** :  [ Qd ]
+Lexomat checks.
+mightyzee111 bets (80)
+Lexomat calls (80)
+** Summary **
+Main Pot: 1060
+Board: [ 4h Ah 8h 8c Qd  ]
+
+Kegio balance 1960, lost 40 (folded)
+hatoka balance 2640, didn't bet (folded)
+ionutzu777 balance 1840, lost 120 (folded)
+pokerPain83 balance 2000, didn't bet (folded)
+SFC_Koelle balance 2000, didn't bet (folded)
+tucano74 balance 2000, didn't bet (folded)
+Lexomat balance 2620, bet 440, collected 1060, net +620 [ Ad Kd ] [ two pairs, Aces and Eights with King kicker -- Ad,Ah,Kd,8h,8c ]
+bianca70 balance 2200, didn't bet (folded)
+mightyzee111 balance 920, lost 440 [ 2h Ac ] [ two pairs, Aces and Eights -- Ac,Ah,Qd,8h,8c ]
+john55113 balance 1820, lost 20 (folded)
+
+***** Hand History for Game 5792640918 *****
+40/80 Tourney Texas Hold'em Game Table (Limit) (Tournament 32423108)  - Wed Mar 21 16:31:33 EDT 2007
+Table Speed 1330847 (Real Money) -- Seat 10 is the button
+Total number of players : 10
+Seat 1: Kegio (1960)
+Seat 2: hatoka (2640)
+Seat 3: ionutzu777 (1840)
+Seat 4: pokerPain83 (2000)
+Seat 5: SFC_Koelle (2000)
+Seat 6: tucano74 (2000)
+Seat 7: Lexomat (2620)
+Seat 8: bianca70 (2200)
+Seat 9: mightyzee111 (920)
+Seat 10: john55113 (1820)
+Kegio  posts small blind (20)
+hatoka  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 5c, 8s ]
+ionutzu777: bianca esti romanca?
+ionutzu777 calls (40)
+pokerPain83 folds.
+SFC_Koelle folds.
+tucano74 folds.
+Lexomat folds.
+bianca70 calls (40)
+mightyzee111 folds.
+john55113 calls (40)
+Kegio calls (20)
+hatoka checks.
+** Dealing Flop ** :  [ 2d, 9s, 6s ]
+Kegio bets (40)
+hatoka folds.
+ionutzu777 calls (40)
+bianca70 calls (40)
+john55113 folds.
+** Dealing Turn ** :  [ 4h ]
+Kegio bets (80)
+ionutzu777 calls (80)
+bianca70 calls (80)
+** Dealing River ** :  [ Jd ]
+Kegio bets (80)
+ionutzu777 folds.
+bianca70 calls (80)
+** Summary **
+Main Pot: 720
+Board: [ 2d 9s 6s 4h Jd  ]
+
+Kegio balance 2440, bet 240, collected 720, net +480 [ 6d 9d ] [ two pairs, Nines and Sixes -- Jd,9d,9s,6d,6s ]
+hatoka balance 2600, lost 40 (folded)
+ionutzu777 balance 1680, lost 160 (folded)
+pokerPain83 balance 2000, didn't bet (folded)
+SFC_Koelle balance 2000, didn't bet (folded)
+tucano74 balance 2000, didn't bet (folded)
+Lexomat balance 2620, didn't bet (folded)
+bianca70 balance 1960, lost 240 [ 2h As ] [ a pair of Twos -- As,Jd,9s,2h,2d ]
+
+mightyzee111 balance 920, didn't bet (folded)
+john55113 balance 1780, lost 40 (folded)
+
+***** Hand History for Game 5792646237 *****
+40/80 Tourney Texas Hold'em Game Table (Limit) (Tournament 32423108)  - Wed Mar 21 16:32:40 EDT 2007
+Table Speed 1330847 (Real Money) -- Seat 1 is the button
+Total number of players : 10
+Seat 1: Kegio (2440)
+Seat 2: hatoka (2600)
+Seat 3: ionutzu777 (1680)
+Seat 4: pokerPain83 (2000)
+Seat 5: SFC_Koelle (2000)
+Seat 6: tucano74 (2000)
+Seat 7: Lexomat (2620)
+Seat 8: bianca70 (1960)
+Seat 9: mightyzee111 (920)
+Seat 10: john55113 (1780)
+hatoka  posts small blind (20)
+ionutzu777  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 3h, Tc ]
+pokerPain83 raises (80) to 80
+SFC_Koelle folds.
+tucano74 folds.
+Lexomat folds.
+bianca70 calls (80)
+mightyzee111 raises (120) to 120
+john55113 folds.
+Kegio calls (120)
+hatoka folds.
+ionutzu777 folds.
+pokerPain83 calls (40)
+bianca70 calls (40)
+** Dealing Flop ** :  [ Jd, 6d, Ad ]
+pokerPain83 bets (40)
+bianca70 calls (40)
+mightyzee111 raises (80) to 80
+Kegio folds.
+pokerPain83 calls (40)
+bianca70 calls (40)
+** Dealing Turn ** :  [ 6h ]
+pokerPain83 checks.
+bianca70 checks.
+mightyzee111 bets (80)
+pokerPain83 calls (80)
+bianca70 calls (80)
+** Dealing River ** :  [ 9s ]
+pokerPain83 checks.
+bianca70 checks.
+mightyzee111 bets (80)
+pokerPain83 calls (80)
+bianca70 calls (80)
+** Summary **
+Main Pot: 1260
+Board: [ Jd 6d Ad 6h 9s  ]
+
+Kegio balance 2320, lost 120 (folded)
+hatoka balance 2580, lost 20 (folded)
+ionutzu777 balance 1640, lost 40 (folded)
+pokerPain83 balance 1640, lost 360 [ Qd Qc ] [ two pairs, Queens and Sixes -- Ad,Qd,Qc,6d,6h ]
+SFC_Koelle balance 2000, didn't bet (folded)
+tucano74 balance 2000, didn't bet (folded)
+Lexomat balance 2620, didn't bet (folded)
+bianca70 balance 2860, bet 360, collected 1260, net +900 [ 7c Ac ] [ two pairs, Aces and Sixes -- Ac,Ad,Jd,6d,6h ]
+mightyzee111 balance 560, lost 360 [ Ks Jc ] [ two pairs, Jacks and Sixes -- Ad,Jc,Jd,6d,6h ]
+john55113 balance 1780, didn't bet (folded)
+
+***** Hand History for Game 5792651101 *****
+40/80 Tourney Texas Hold'em Game Table (Limit) (Tournament 32423108)  - Wed Mar 21 16:33:40 EDT 2007
+Table Speed 1330847 (Real Money) -- Seat 2 is the button
+Total number of players : 10
+Seat 1: Kegio (2320)
+Seat 2: hatoka (2580)
+Seat 3: ionutzu777 (1640)
+Seat 4: pokerPain83 (1640)
+Seat 5: SFC_Koelle (2000)
+Seat 6: tucano74 (2000)
+Seat 7: Lexomat (2620)
+Seat 8: bianca70 (2860)
+Seat 9: mightyzee111 (560)
+Seat 10: john55113 (1780)
+ionutzu777  posts small blind (20)
+pokerPain83  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ Tc, 8c ]
+SFC_Koelle calls (40)
+tucano74 folds.
+Lexomat folds.
+bianca70 calls (40)
+mightyzee111 folds.
+john55113 folds.
+Kegio folds.
+hatoka calls (40)
+ionutzu777 calls (20)
+pokerPain83 checks.
+** Dealing Flop ** :  [ Qc, Ks, 9s ]
+ionutzu777 checks.
+pokerPain83 bets (40)
+SFC_Koelle calls (40)
+bianca70 calls (40)
+hatoka calls (40)
+ionutzu777 calls (40)
+** Dealing Turn ** :  [ 4s ]
+ionutzu777 checks.
+pokerPain83 checks.
+SFC_Koelle checks.
+bianca70 checks.
+hatoka checks.
+** Dealing River ** :  [ 2c ]
+ionutzu777 bets (80)
+pokerPain83 folds.
+SFC_Koelle folds.
+bianca70 calls (80)
+hatoka folds.
+** Summary **
+Main Pot: 560
+Board: [ Qc Ks 9s 4s 2c  ]
+
+Kegio balance 2320, didn't bet (folded)
+hatoka balance 2500, lost 80 (folded)
+ionutzu777 balance 1480, lost 160 [ 6s Qd ] [ a pair of Queens -- Ks,Qd,Qc,9s,6s ]
+pokerPain83 balance 1560, lost 80 (folded)
+SFC_Koelle balance 1920, lost 80 (folded)
+tucano74 balance 2000, didn't bet (folded)
+Lexomat balance 2620, didn't bet (folded)
+bianca70 balance 3260, bet 160, collected 560, net +400 [ Ah Kd ] [ a pair of Kings -- Ah,Kd,Ks,Qc,9s ]
+mightyzee111 balance 560, didn't bet (folded)
+john55113 balance 1780, didn't bet (folded)
+
+***** Hand History for Game 5792655255 *****
+60/120 Tourney Texas Hold'em Game Table (Limit) (Tournament 32423108)  - Wed Mar 21 16:34:33 EDT 2007
+Table Speed 1330847 (Real Money) -- Seat 3 is the button
+Total number of players : 10
+Seat 1: Kegio (2320)
+Seat 2: hatoka (2500)
+Seat 3: ionutzu777 (1480)
+Seat 4: pokerPain83 (1560)
+Seat 5: SFC_Koelle (1920)
+Seat 6: tucano74 (2000)
+Seat 7: Lexomat (2620)
+Seat 8: bianca70 (3260)
+Seat 9: mightyzee111 (560)
+Seat 10: john55113 (1780)
+pokerPain83  posts small blind (30)
+SFC_Koelle  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Ah, 8c ]
+tucano74 calls (60)
+Lexomat folds.
+bianca70 calls (60)
+mightyzee111 folds.
+john55113 calls (60)
+Kegio folds.
+hatoka calls (60)
+ionutzu777 calls (60)
+pokerPain83 calls (30)
+SFC_Koelle checks.
+** Dealing Flop ** :  [ 5c, 5d, Kc ]
+pokerPain83 checks.
+SFC_Koelle checks.
+tucano74 bets (60)
+bianca70 calls (60)
+john55113 folds.
+hatoka folds.
+ionutzu777 calls (60)
+pokerPain83 folds.
+SFC_Koelle folds.
+** Dealing Turn ** :  [ Tc ]
+tucano74 bets (120)
+bianca70 calls (120)
+ionutzu777 calls (120)
+** Dealing River ** :  [ 5h ]
+tucano74 bets (120)
+bianca70 calls (120)
+ionutzu777 calls (120)
+** Summary **
+Main Pot: 1320
+Board: [ 5c 5d Kc Tc 5h  ]
+
+Kegio balance 2320, didn't bet (folded)
+hatoka balance 2440, lost 60 (folded)
+ionutzu777 balance 1120, lost 360 [ 8d 8h ] [ a full house, Fives full of Eights -- 8d,8h,5c,5d,5h ]
+
+pokerPain83 balance 1500, lost 60 (folded)
+SFC_Koelle balance 1860, lost 60 (folded)
+tucano74 balance 2960, bet 360, collected 1320, net +960 [ Kh 9c ] [ a full house, Fives full of Kings -- Kh,Kc,5c,5d,5h ]
+Lexomat balance 2620, didn't bet (folded)
+bianca70 balance 2900, lost 360 [ 7s Ad ] [ three of a kind, Fives -- Ad,Kc,5c,5d,5h ]
+
+mightyzee111 balance 560, didn't bet (folded)
+john55113 balance 1720, lost 60 (folded)
+
+***** Hand History for Game 5792660676 *****
+60/120 Tourney Texas Hold'em Game Table (Limit) (Tournament 32423108)  - Wed Mar 21 16:35:39 EDT 2007
+Table Speed 1330847 (Real Money) -- Seat 4 is the button
+Total number of players : 10
+Seat 1: Kegio (2320)
+Seat 2: hatoka (2440)
+Seat 3: ionutzu777 (1120)
+Seat 4: pokerPain83 (1500)
+Seat 5: SFC_Koelle (1860)
+Seat 6: tucano74 (2960)
+Seat 7: Lexomat (2620)
+Seat 8: bianca70 (2900)
+Seat 9: mightyzee111 (560)
+Seat 10: john55113 (1720)
+SFC_Koelle  posts small blind (30)
+tucano74  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Ad, 3s ]
+Lexomat folds.
+bianca70 calls (60)
+mightyzee111 folds.
+john55113 calls (60)
+Kegio folds.
+hatoka calls (60)
+ionutzu777 calls (60)
+pokerPain83 folds.
+SFC_Koelle folds.
+tucano74 checks.
+** Dealing Flop ** :  [ 2d, 6s, 9h ]
+tucano74 checks.
+bianca70 bets (60)
+john55113 folds.
+hatoka folds.
+ionutzu777 calls (60)
+tucano74 folds.
+** Dealing Turn ** :  [ 7h ]
+bianca70 bets (120)
+ionutzu777 calls (120)
+** Dealing River ** :  [ 5c ]
+bianca70 checks.
+ionutzu777 bets (120)
+bianca70 calls (120)
+** Summary **
+Main Pot: 930
+Board: [ 2d 6s 9h 7h 5c  ]
+
+Kegio balance 2320, didn't bet (folded)
+hatoka balance 2380, lost 60 (folded)
+ionutzu777 balance 1690, bet 360, collected 930, net +570 [ Qs 8s ] [ a straight Five to Nine -- 9h,8s,7h,6s,5c ]
+pokerPain83 balance 1500, didn't bet (folded)
+SFC_Koelle balance 1830, lost 30 (folded)
+tucano74 balance 2900, lost 60 (folded)
+Lexomat balance 2620, didn't bet (folded)
+bianca70 balance 2540, lost 360 [ Th 6h ] [ a pair of Sixes -- Th,9h,7h,6h,6s ]
+
+mightyzee111 balance 560, didn't bet (folded)
+john55113 balance 1660, lost 60 (folded)
+
+***** Hand History for Game 5792665244 *****
+60/120 Tourney Texas Hold'em Game Table (Limit) (Tournament 32423108)  - Wed Mar 21 16:36:35 EDT 2007
+Table Speed 1330847 (Real Money) -- Seat 5 is the button
+Total number of players : 10
+Seat 1: Kegio (2320)
+Seat 2: hatoka (2380)
+Seat 3: ionutzu777 (1690)
+Seat 4: pokerPain83 (1500)
+Seat 5: SFC_Koelle (1830)
+Seat 6: tucano74 (2900)
+Seat 7: Lexomat (2620)
+Seat 8: bianca70 (2540)
+Seat 9: mightyzee111 (560)
+Seat 10: john55113 (1660)
+tucano74  posts small blind (30)
+Lexomat  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 5c, Ad ]
+bianca70 calls (60)
+mightyzee111 calls (60)
+john55113 folds.
+Kegio calls (60)
+hatoka calls (60)
+ionutzu777 calls (60)
+pokerPain83 calls (60)
+SFC_Koelle folds.
+tucano74 calls (30)
+Lexomat checks.
+** Dealing Flop ** :  [ 4d, 7d, Td ]
+tucano74 checks.
+Lexomat checks.
+bianca70 checks.
+mightyzee111 checks.
+Kegio checks.
+hatoka bets (60)
+ionutzu777 folds.
+pokerPain83 folds.
+tucano74 folds.
+Lexomat folds.
+bianca70 calls (60)
+mightyzee111 calls (60)
+Kegio folds.
+** Dealing Turn ** :  [ 9c ]
+bianca70 checks.
+mightyzee111 bets (120)
+hatoka calls (120)
+bianca70 folds.
+** Dealing River ** :  [ 8d ]
+mightyzee111 bets (120)
+hatoka raises (240) to 240
+mightyzee111 raises (200) to 320
+mightyzee111 is all-In.
+hatoka calls (80)
+Creating Main Pot with $1540 with mightyzee111
+** Summary **
+Main Pot: 1540
+Board: [ 4d 7d Td 9c 8d  ]
+
+Kegio balance 2260, lost 60 (folded)
+hatoka balance 3360, bet 560, collected 1540, net +980 [ 5c Ad ] [ a flush, Ace high -- Ad,Td,8d,7d,4d ]
+ionutzu777 balance 1630, lost 60 (folded)
+pokerPain83 balance 1440, lost 60 (folded)
+SFC_Koelle balance 1830, didn't bet (folded)
+tucano74 balance 2840, lost 60 (folded)
+Lexomat balance 2560, lost 60 (folded)
+bianca70 balance 2420, lost 120 (folded)
+mightyzee111 balance 0, lost 560 [ Qc 8c ] [ a pair of Eights -- Qc,Td,9c,8c,8d ]
+john55113 balance 1660, didn't bet (folded)
+
+***** Hand History for Game 5792671468 *****
+mightyzee111 finished in 10 place.
+60/120 Tourney Texas Hold'em Game Table (Limit) (Tournament 32423108)  - Wed Mar 21 16:37:52 EDT 2007
+Table Speed 1330847 (Real Money) -- Seat 6 is the button
+Total number of players : 9
+Seat 1: Kegio (2260)
+Seat 2: hatoka (3360)
+Seat 3: ionutzu777 (1630)
+Seat 4: pokerPain83 (1440)
+Seat 5: SFC_Koelle (1830)
+Seat 6: tucano74 (2840)
+Seat 7: Lexomat (2560)
+Seat 8: bianca70 (2420)
+Seat 10: john55113 (1660)
+Lexomat  posts small blind (30)
+bianca70  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 7d, Td ]
+john55113 calls (60)
+Kegio calls (60)
+hatoka calls (60)
+ionutzu777 folds.
+pokerPain83 folds.
+SFC_Koelle calls (60)
+tucano74 folds.
+Lexomat calls (30)
+bianca70 checks.
+** Dealing Flop ** :  [ 8d, 3c, 8h ]
+Lexomat checks.
+bianca70 checks.
+john55113 checks.
+Kegio bets (60)
+hatoka folds.
+SFC_Koelle folds.
+Lexomat folds.
+bianca70 folds.
+john55113 calls (60)
+** Dealing Turn ** :  [ 8s ]
+john55113 bets (120)
+Kegio calls (120)
+** Dealing River ** :  [ Qh ]
+john55113 bets (120)
+Kegio calls (120)
+** Summary **
+Main Pot: 960
+Board: [ 8d 3c 8h 8s Qh  ]
+
+Kegio balance 2380, bet 360, collected 480, net +120 [ As 5h ] [ three of a kind, Eights -- As,Qh,8d,8h,8s ]
+hatoka balance 3300, lost 60 (folded)
+ionutzu777 balance 1630, didn't bet (folded)
+pokerPain83 balance 1440, didn't bet (folded)
+SFC_Koelle balance 1770, lost 60 (folded)
+tucano74 balance 2840, didn't bet (folded)
+Lexomat balance 2500, lost 60 (folded)
+bianca70 balance 2360, lost 60 (folded)
+john55113 balance 1780, bet 360, collected 480, net +120 [ Ad 5d ] [ three of a kind, Eights -- Ad,Qh,8d,8h,8s ]
+
+***** Hand History for Game 5792676477 *****
+60/120 Tourney Texas Hold'em Game Table (Limit) (Tournament 32423108)  - Wed Mar 21 16:38:54 EDT 2007
+Table Speed 1330847 (Real Money) -- Seat 7 is the button
+Total number of players : 9
+Seat 1: Kegio (2380)
+Seat 2: hatoka (3300)
+Seat 3: ionutzu777 (1630)
+Seat 4: pokerPain83 (1440)
+Seat 5: SFC_Koelle (1770)
+Seat 6: tucano74 (2840)
+Seat 7: Lexomat (2500)
+Seat 8: bianca70 (2360)
+Seat 10: john55113 (1780)
+bianca70  posts small blind (30)
+john55113  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 2d, 8d ]
+Kegio folds.
+hatoka folds.
+ionutzu777 calls (60)
+pokerPain83 folds.
+SFC_Koelle folds.
+tucano74 calls (60)
+Lexomat calls (60)
+bianca70 calls (30)
+john55113 checks.
+** Dealing Flop ** :  [ 3d, Qh, Th ]
+bianca70 checks.
+john55113 checks.
+ionutzu777 bets (60)
+tucano74 folds.
+Lexomat calls (60)
+bianca70 calls (60)
+john55113 folds.
+** Dealing Turn ** :  [ 9h ]
+bianca70 checks.
+ionutzu777 bets (120)
+Lexomat raises (240) to 240
+bianca70 folds.
+ionutzu777 calls (120)
+** Dealing River ** :  [ 4h ]
+ionutzu777 checks.
+Lexomat bets (120)
+ionutzu777 calls (120)
+** Summary **
+Main Pot: 1200
+Board: [ 3d Qh Th 9h 4h  ]
+
+Kegio balance 2380, didn't bet (folded)
+hatoka balance 3300, didn't bet (folded)
+ionutzu777 balance 1150, lost 480 [ 3s Ts ] [ two pairs, Tens and Threes -- Qh,Ts,Th,3s,3d ]
+
+pokerPain83 balance 1440, didn't bet (folded)
+SFC_Koelle balance 1770, didn't bet (folded)
+tucano74 balance 2780, lost 60 (folded)
+Lexomat balance 3220, bet 480, collected 1200, net +720 [ Ks Jc ] [ a straight Nine to King -- Ks,Qh,Jc,Th,9h ]
+bianca70 balance 2240, lost 120 (folded)
+john55113 balance 1720, lost 60 (folded)
+
+***** Hand History for Game 5792682520 *****
+100/200 Tourney Texas Hold'em Game Table (Limit) (Tournament 32423108)  - Wed Mar 21 16:40:11 EDT 2007
+Table Speed 1330847 (Real Money) -- Seat 8 is the button
+Total number of players : 9
+Seat 1: Kegio (2380)
+Seat 2: hatoka (3300)
+Seat 3: ionutzu777 (1150)
+Seat 4: pokerPain83 (1440)
+Seat 5: SFC_Koelle (1770)
+Seat 6: tucano74 (2780)
+Seat 7: Lexomat (3220)
+Seat 8: bianca70 (2240)
+Seat 10: john55113 (1720)
+john55113  posts small blind (50)
+Kegio  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 4s, 3c ]
+hatoka folds.
+ionutzu777 folds.
+pokerPain83 folds.
+SFC_Koelle folds.
+tucano74 folds.
+Lexomat folds.
+bianca70 folds.
+john55113 calls (50)
+Kegio checks.
+** Dealing Flop ** :  [ Td, Ac, Qc ]
+john55113 checks.
+Kegio bets (100)
+john55113 folds.
+** Summary **
+Main Pot: 200
+Board: [ Td Ac Qc  ]
+
+Kegio balance 2480, bet 200, collected 300, net +100
+hatoka balance 3300, didn't bet (folded)
+ionutzu777 balance 1150, didn't bet (folded)
+pokerPain83 balance 1440, didn't bet (folded)
+SFC_Koelle balance 1770, didn't bet (folded)
+tucano74 balance 2780, didn't bet (folded)
+Lexomat balance 3220, didn't bet (folded)
+bianca70 balance 2240, didn't bet (folded)
+john55113 balance 1620, lost 100 (folded)
+
+***** Hand History for Game 5792684572 *****
+100/200 Tourney Texas Hold'em Game Table (Limit) (Tournament 32423108)  - Wed Mar 21 16:40:37 EDT 2007
+Table Speed 1330847 (Real Money) -- Seat 10 is the button
+Total number of players : 9
+Seat 1: Kegio (2480)
+Seat 2: hatoka (3300)
+Seat 3: ionutzu777 (1150)
+Seat 4: pokerPain83 (1440)
+Seat 5: SFC_Koelle (1770)
+Seat 6: tucano74 (2780)
+Seat 7: Lexomat (3220)
+Seat 8: bianca70 (2240)
+Seat 10: john55113 (1620)
+Kegio  posts small blind (50)
+hatoka  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 9s, 4c ]
+ionutzu777 calls (100)
+pokerPain83 folds.
+SFC_Koelle folds.
+tucano74 calls (100)
+Lexomat folds.
+bianca70 calls (100)
+john55113 raises (200) to 200
+Kegio folds.
+hatoka folds.
+ionutzu777 calls (100)
+tucano74 calls (100)
+bianca70 calls (100)
+** Dealing Flop ** :  [ 2s, 6c, Tc ]
+ionutzu777 checks.
+tucano74 checks.
+bianca70 bets (100)
+john55113 calls (100)
+ionutzu777 folds.
+tucano74 folds.
+** Dealing Turn ** :  [ 9c ]
+bianca70 checks.
+john55113 bets (200)
+bianca70 folds.
+** Summary **
+Main Pot: 1150
+Board: [ 2s 6c Tc 9c  ]
+
+Kegio balance 2430, lost 50 (folded)
+hatoka balance 3200, lost 100 (folded)
+ionutzu777 balance 950, lost 200 (folded)
+pokerPain83 balance 1440, didn't bet (folded)
+SFC_Koelle balance 1770, didn't bet (folded)
+tucano74 balance 2580, lost 200 (folded)
+Lexomat balance 3220, didn't bet (folded)
+bianca70 balance 1940, lost 300 (folded)
+john55113 balance 2470, bet 500, collected 1350, net +850
+
+***** Hand History for Game 5792688175 *****
+100/200 Tourney Texas Hold'em Game Table (Limit) (Tournament 32423108)  - Wed Mar 21 16:41:23 EDT 2007
+Table Speed 1330847 (Real Money) -- Seat 1 is the button
+Total number of players : 9
+Seat 1: Kegio (2430)
+Seat 2: hatoka (3200)
+Seat 3: ionutzu777 (950)
+Seat 4: pokerPain83 (1440)
+Seat 5: SFC_Koelle (1770)
+Seat 6: tucano74 (2580)
+Seat 7: Lexomat (3220)
+Seat 8: bianca70 (1940)
+Seat 10: john55113 (2470)
+hatoka  posts small blind (50)
+ionutzu777  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 5c, 8s ]
+pokerPain83 raises (200) to 200
+SFC_Koelle folds.
+tucano74 folds.
+Lexomat folds.
+bianca70 folds.
+john55113 folds.
+Kegio folds.
+hatoka folds.
+ionutzu777 calls (100)
+** Dealing Flop ** :  [ 2d, Td, 5d ]
+ionutzu777 bets (100)
+pokerPain83 raises (200) to 200
+ionutzu777 calls (100)
+** Dealing Turn ** :  [ Qd ]
+ionutzu777 checks.
+pokerPain83 bets (200)
+ionutzu777 folds.
+** Summary **
+Main Pot: 850
+Board: [ 2d Td 5d Qd  ]
+
+Kegio balance 2430, didn't bet (folded)
+hatoka balance 3150, lost 50 (folded)
+ionutzu777 balance 550, lost 400 (folded)
+pokerPain83 balance 1890, bet 600, collected 1050, net +450
+SFC_Koelle balance 1770, didn't bet (folded)
+tucano74 balance 2580, didn't bet (folded)
+Lexomat balance 3220, didn't bet (folded)
+bianca70 balance 1940, didn't bet (folded)
+john55113 balance 2470, didn't bet (folded)
+
+***** Hand History for Game 5792691303 *****
+100/200 Tourney Texas Hold'em Game Table (Limit) (Tournament 32423108)  - Wed Mar 21 16:42:03 EDT 2007
+Table Speed 1330847 (Real Money) -- Seat 2 is the button
+Total number of players : 9
+Seat 1: Kegio (2430)
+Seat 2: hatoka (3150)
+Seat 3: ionutzu777 (550)
+Seat 4: pokerPain83 (1890)
+Seat 5: SFC_Koelle (1770)
+Seat 6: tucano74 (2580)
+Seat 7: Lexomat (3220)
+Seat 8: bianca70 (1940)
+Seat 10: john55113 (2470)
+ionutzu777  posts small blind (50)
+pokerPain83  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 7d, 6c ]
+SFC_Koelle folds.
+tucano74 folds.
+Lexomat folds.
+bianca70 calls (100)
+john55113 folds.
+Kegio folds.
+hatoka folds.
+ionutzu777 calls (50)
+pokerPain83 checks.
+** Dealing Flop ** :  [ Kd, Ad, 5s ]
+ionutzu777 checks.
+pokerPain83 checks.
+bianca70 bets (100)
+ionutzu777 raises (200) to 200
+pokerPain83 folds.
+bianca70 calls (100)
+** Dealing Turn ** :  [ 6d ]
+ionutzu777 bets (200)
+bianca70 calls (200)
+** Dealing River ** :  [ 3h ]
+ionutzu777 bets (50)
+ionutzu777 is all-In.
+bianca70 calls (50)
+Creating Main Pot with $1200 with ionutzu777
+** Summary **
+Main Pot: 1200
+Board: [ Kd Ad 5s 6d 3h  ]
+
+Kegio balance 2430, didn't bet (folded)
+hatoka balance 3150, didn't bet (folded)
+ionutzu777 balance 0, lost 550 [ Js Jc ] [ a pair of Jacks -- Ad,Kd,Js,Jc,6d ]
+pokerPain83 balance 1790, lost 100 (folded)
+SFC_Koelle balance 1770, didn't bet (folded)
+tucano74 balance 2580, didn't bet (folded)
+Lexomat balance 3220, didn't bet (folded)
+bianca70 balance 2590, bet 550, collected 1200, net +650 [ 4d Ac ] [ a pair of Aces -- Ac,Ad,Kd,6d,5s ]
+john55113 balance 2470, didn't bet (folded)
+
+***** Hand History for Game 5792696521 *****
+ionutzu777 finished in 9 place.
+100/200 Tourney Texas Hold'em Game Table (Limit) (Tournament 32423108)  - Wed Mar 21 16:43:10 EDT 2007
+Table Speed 1330847 (Real Money) -- Seat 2 is the button
+Total number of players : 8
+Seat 1: Kegio (2430)
+Seat 2: hatoka (3150)
+Seat 4: pokerPain83 (1790)
+Seat 5: SFC_Koelle (1770)
+Seat 6: tucano74 (2580)
+Seat 7: Lexomat (3220)
+Seat 8: bianca70 (2590)
+Seat 10: john55113 (2470)
+pokerPain83  posts small blind (50)
+SFC_Koelle  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 3c, 3s ]
+tucano74 folds.
+Lexomat folds.
+bianca70 calls (100)
+john55113 calls (100)
+Kegio folds.
+hatoka calls (100)
+pokerPain83 folds.
+SFC_Koelle checks.
+** Dealing Flop ** :  [ 5c, 4d, 8h ]
+SFC_Koelle bets (100)
+bianca70 folds.
+john55113 calls (100)
+hatoka folds.
+** Dealing Turn ** :  [ 9h ]
+SFC_Koelle checks.
+john55113 bets (200)
+SFC_Koelle raises (400) to 400
+john55113 calls (200)
+** Dealing River ** :  [ 2c ]
+SFC_Koelle checks.
+john55113 checks.
+** Summary **
+Main Pot: 1450
+Board: [ 5c 4d 8h 9h 2c  ]
+
+Kegio balance 2430, didn't bet (folded)
+hatoka balance 3050, lost 100 (folded)
+pokerPain83 balance 1740, lost 50 (folded)
+SFC_Koelle balance 2620, bet 600, collected 1450, net +850 [ 8d 4c ] [ two pairs, Eights and Fours -- 9h,8d,8h,4c,4d ]
+tucano74 balance 2580, didn't bet (folded)
+Lexomat balance 3220, didn't bet (folded)
+bianca70 balance 2490, lost 100 (folded)
+john55113 balance 1870, lost 600 [ 6s 6c ] [ a pair of Sixes -- 9h,8h,6s,6c,5c ]
+
+
+***** Hand History for Game 5792701576 *****
+100/200 Tourney Texas Hold'em Game Table (Limit) (Tournament 32423108)  - Wed Mar 21 16:44:16 EDT 2007
+Table Speed 1330847 (Real Money) -- Seat 4 is the button
+Total number of players : 8
+Seat 1: Kegio (2430)
+Seat 2: hatoka (3050)
+Seat 4: pokerPain83 (1740)
+Seat 5: SFC_Koelle (2620)
+Seat 6: tucano74 (2580)
+Seat 7: Lexomat (3220)
+Seat 8: bianca70 (2490)
+Seat 10: john55113 (1870)
+SFC_Koelle  posts small blind (50)
+tucano74  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 2s, 8h ]
+Lexomat folds.
+bianca70 folds.
+john55113 folds.
+Kegio raises (200) to 200
+hatoka folds.
+pokerPain83 folds.
+SFC_Koelle folds.
+tucano74 folds.
+** Summary **
+Main Pot: 250
+
+Kegio balance 2580, bet 200, collected 350, net +150
+hatoka balance 3050, didn't bet (folded)
+pokerPain83 balance 1740, didn't bet (folded)
+SFC_Koelle balance 2570, lost 50 (folded)
+tucano74 balance 2480, lost 100 (folded)
+Lexomat balance 3220, didn't bet (folded)
+bianca70 balance 2490, didn't bet (folded)
+john55113 balance 1870, didn't bet (folded)
+
+***** Hand History for Game 5792703113 *****
+100/200 Tourney Texas Hold'em Game Table (Limit) (Tournament 32423108)  - Wed Mar 21 16:44:36 EDT 2007
+Table Speed 1330847 (Real Money) -- Seat 5 is the button
+Total number of players : 8
+Seat 1: Kegio (2580)
+Seat 2: hatoka (3050)
+Seat 4: pokerPain83 (1740)
+Seat 5: SFC_Koelle (2570)
+Seat 6: tucano74 (2480)
+Seat 7: Lexomat (3220)
+Seat 8: bianca70 (2490)
+Seat 10: john55113 (1870)
+tucano74  posts small blind (50)
+Lexomat  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 8c, 5c ]
+bianca70 calls (100)
+john55113 folds.
+Kegio folds.
+hatoka folds.
+pokerPain83 folds.
+SFC_Koelle folds.
+tucano74 calls (50)
+Lexomat checks.
+** Dealing Flop ** :  [ 6c, Jd, Ts ]
+tucano74 checks.
+Lexomat bets (100)
+bianca70 folds.
+tucano74 folds.
+** Summary **
+Main Pot: 300
+Board: [ 6c Jd Ts  ]
+
+Kegio balance 2580, didn't bet (folded)
+hatoka balance 3050, didn't bet (folded)
+pokerPain83 balance 1740, didn't bet (folded)
+SFC_Koelle balance 2570, didn't bet (folded)
+tucano74 balance 2380, lost 100 (folded)
+Lexomat balance 3420, bet 200, collected 400, net +200
+bianca70 balance 2390, lost 100 (folded)
+john55113 balance 1870, didn't bet (folded)
+
+***** Hand History for Game 5792706979 *****
+200/400 Tourney Texas Hold'em Game Table (Limit) (Tournament 32423108)  - Wed Mar 21 16:45:27 EDT 2007
+Table Speed 1330847 (Real Money) -- Seat 6 is the button
+Total number of players : 8
+Seat 1: Kegio (2580)
+Seat 2: hatoka (3050)
+Seat 4: pokerPain83 (1740)
+Seat 5: SFC_Koelle (2570)
+Seat 6: tucano74 (2380)
+Seat 7: Lexomat (3420)
+Seat 8: bianca70 (2390)
+Seat 10: john55113 (1870)
+Lexomat  posts small blind (100)
+bianca70  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 7s, Ks ]
+john55113 raises (400) to 400
+Kegio folds.
+hatoka calls (400)
+pokerPain83 folds.
+SFC_Koelle folds.
+tucano74 folds.
+Lexomat folds.
+bianca70 calls (200)
+** Dealing Flop ** :  [ 5s, 2c, 4h ]
+bianca70 checks.
+john55113 checks.
+hatoka checks.
+** Dealing Turn ** :  [ Ts ]
+bianca70 checks.
+john55113 bets (400)
+hatoka folds.
+bianca70 folds.
+** Summary **
+Main Pot: 1300
+Board: [ 5s 2c 4h Ts  ]
+
+Kegio balance 2580, didn't bet (folded)
+hatoka balance 2650, lost 400 (folded)
+pokerPain83 balance 1740, didn't bet (folded)
+SFC_Koelle balance 2570, didn't bet (folded)
+tucano74 balance 2380, didn't bet (folded)
+Lexomat balance 3320, lost 100 (folded)
+bianca70 balance 1990, lost 400 (folded)
+john55113 balance 2770, bet 800, collected 1700, net +900
+
+***** Hand History for Game 5792711226 *****
+200/400 Tourney Texas Hold'em Game Table (Limit) (Tournament 32423108)  - Wed Mar 21 16:46:29 EDT 2007
+Table Speed 1330847 (Real Money) -- Seat 7 is the button
+Total number of players : 8
+Seat 1: Kegio (2580)
+Seat 2: hatoka (2650)
+Seat 4: pokerPain83 (1740)
+Seat 5: SFC_Koelle (2570)
+Seat 6: tucano74 (2380)
+Seat 7: Lexomat (3320)
+Seat 8: bianca70 (1990)
+Seat 10: john55113 (2770)
+bianca70  posts small blind (100)
+john55113  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ As, Qs ]
+Kegio folds.
+hatoka raises (400) to 400
+pokerPain83 folds.
+SFC_Koelle calls (400)
+tucano74 folds.
+Lexomat calls (400)
+bianca70 folds.
+john55113 calls (200)
+** Dealing Flop ** :  [ Th, 4s, Kd ]
+john55113 checks.
+hatoka bets (200)
+SFC_Koelle folds.
+Lexomat calls (200)
+john55113 folds.
+** Dealing Turn ** :  [ Ts ]
+hatoka bets (400)
+Lexomat folds.
+** Summary **
+Main Pot: 2100
+Board: [ Th 4s Kd Ts  ]
+
+Kegio balance 2580, didn't bet (folded)
+hatoka balance 4150, bet 1000, collected 2500, net +1500
+pokerPain83 balance 1740, didn't bet (folded)
+SFC_Koelle balance 2170, lost 400 (folded)
+tucano74 balance 2380, didn't bet (folded)
+Lexomat balance 2720, lost 600 (folded)
+bianca70 balance 1890, lost 100 (folded)
+john55113 balance 2370, lost 400 (folded)
+
+***** Hand History for Game 5792713741 *****
+200/400 Tourney Texas Hold'em Game Table (Limit) (Tournament 32423108)  - Wed Mar 21 16:47:08 EDT 2007
+Table Speed 1330847 (Real Money) -- Seat 8 is the button
+Total number of players : 8
+Seat 1: Kegio (2580)
+Seat 2: hatoka (4150)
+Seat 4: pokerPain83 (1740)
+Seat 5: SFC_Koelle (2170)
+Seat 6: tucano74 (2380)
+Seat 7: Lexomat (2720)
+Seat 8: bianca70 (1890)
+Seat 10: john55113 (2370)
+john55113  posts small blind (100)
+Kegio  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 5c, 4s ]
+hatoka folds.
+pokerPain83 folds.
+SFC_Koelle calls (200)
+tucano74 folds.
+Lexomat folds.
+bianca70 folds.
+john55113 calls (100)
+Kegio checks.
+** Dealing Flop ** :  [ Ad, 6c, 7s ]
+john55113 checks.
+Kegio checks.
+SFC_Koelle checks.
+** Dealing Turn ** :  [ 8h ]
+john55113 checks.
+Kegio checks.
+SFC_Koelle checks.
+** Dealing River ** :  [ 2c ]
+john55113 checks.
+Kegio bets (400)
+SFC_Koelle folds.
+john55113 folds.
+** Summary **
+Main Pot: 600
+Board: [ Ad 6c 7s 8h 2c  ]
+
+Kegio balance 2980, bet 600, collected 1000, net +400
+hatoka balance 4150, didn't bet (folded)
+pokerPain83 balance 1740, didn't bet (folded)
+SFC_Koelle balance 1970, lost 200 (folded)
+tucano74 balance 2380, didn't bet (folded)
+Lexomat balance 2720, didn't bet (folded)
+bianca70 balance 1890, didn't bet (folded)
+john55113 balance 2170, lost 200 (folded)
+
+***** Hand History for Game 5792717115 *****
+200/400 Tourney Texas Hold'em Game Table (Limit) (Tournament 32423108)  - Wed Mar 21 16:48:00 EDT 2007
+Table Speed 1330847 (Real Money) -- Seat 10 is the button
+Total number of players : 8
+Seat 1: Kegio (2980)
+Seat 2: hatoka (4150)
+Seat 4: pokerPain83 (1740)
+Seat 5: SFC_Koelle (1970)
+Seat 6: tucano74 (2380)
+Seat 7: Lexomat (2720)
+Seat 8: bianca70 (1890)
+Seat 10: john55113 (2170)
+Kegio  posts small blind (100)
+hatoka  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ As, 6s ]
+pokerPain83 folds.
+SFC_Koelle folds.
+tucano74 calls (200)
+Lexomat folds.
+bianca70 folds.
+john55113 folds.
+Kegio folds.
+hatoka raises (200) to 400
+tucano74 calls (200)
+** Dealing Flop ** :  [ 4s, 4c, 2s ]
+hatoka bets (200)
+tucano74 folds.
+** Summary **
+Main Pot: 900
+Board: [ 4s 4c 2s  ]
+
+Kegio balance 2880, lost 100 (folded)
+hatoka balance 4650, bet 600, collected 1100, net +500
+pokerPain83 balance 1740, didn't bet (folded)
+SFC_Koelle balance 1970, didn't bet (folded)
+tucano74 balance 1980, lost 400 (folded)
+Lexomat balance 2720, didn't bet (folded)
+bianca70 balance 1890, didn't bet (folded)
+john55113 balance 2170, didn't bet (folded)
+
+***** Hand History for Game 5792718785 *****
+200/400 Tourney Texas Hold'em Game Table (Limit) (Tournament 32423108)  - Wed Mar 21 16:48:26 EDT 2007
+Table Speed 1330847 (Real Money) -- Seat 1 is the button
+Total number of players : 8
+Seat 1: Kegio (2880)
+Seat 2: hatoka (4650)
+Seat 4: pokerPain83 (1740)
+Seat 5: SFC_Koelle (1970)
+Seat 6: tucano74 (1980)
+Seat 7: Lexomat (2720)
+Seat 8: bianca70 (1890)
+Seat 10: john55113 (2170)
+hatoka  posts small blind (100)
+pokerPain83  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 8h, Qh ]
+SFC_Koelle folds.
+tucano74 folds.
+Lexomat calls (200)
+bianca70 calls (200)
+john55113 calls (200)
+Kegio folds.
+hatoka calls (100)
+pokerPain83 checks.
+** Dealing Flop ** :  [ 3s, Jd, 6d ]
+hatoka checks.
+pokerPain83 checks.
+Lexomat bets (200)
+bianca70 folds.
+john55113 calls (200)
+hatoka folds.
+pokerPain83 folds.
+** Dealing Turn ** :  [ 7h ]
+Lexomat checks.
+john55113 checks.
+** Dealing River ** :  [ 6s ]
+Lexomat bets (400)
+john55113 folds.
+** Summary **
+Main Pot: 1400
+Board: [ 3s Jd 6d 7h 6s  ]
+
+Kegio balance 2880, didn't bet (folded)
+hatoka balance 4450, lost 200 (folded)
+pokerPain83 balance 1540, lost 200 (folded)
+SFC_Koelle balance 1970, didn't bet (folded)
+tucano74 balance 1980, didn't bet (folded)
+Lexomat balance 3720, bet 800, collected 1800, net +1000
+bianca70 balance 1690, lost 200 (folded)
+john55113 balance 1770, lost 400 (folded)
+
+***** Hand History for Game 5792722267 *****
+200/400 Tourney Texas Hold'em Game Table (Limit) (Tournament 32423108)  - Wed Mar 21 16:49:20 EDT 2007
+Table Speed 1330847 (Real Money) -- Seat 2 is the button
+Total number of players : 8
+Seat 1: Kegio (2880)
+Seat 2: hatoka (4450)
+Seat 4: pokerPain83 (1540)
+Seat 5: SFC_Koelle (1970)
+Seat 6: tucano74 (1980)
+Seat 7: Lexomat (3720)
+Seat 8: bianca70 (1690)
+Seat 10: john55113 (1770)
+pokerPain83  posts small blind (100)
+SFC_Koelle  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 8s, Qd ]
+tucano74 folds.
+Lexomat folds.
+bianca70 folds.
+john55113 folds.
+Kegio folds.
+hatoka folds.
+pokerPain83 calls (100)
+SFC_Koelle checks.
+** Dealing Flop ** :  [ 6s, Qh, Ah ]
+pokerPain83 checks.
+SFC_Koelle bets (200)
+pokerPain83 folds.
+** Summary **
+Main Pot: 400
+Board: [ 6s Qh Ah  ]
+
+Kegio balance 2880, didn't bet (folded)
+hatoka balance 4450, didn't bet (folded)
+pokerPain83 balance 1340, lost 200 (folded)
+SFC_Koelle balance 2170, bet 400, collected 600, net +200
+tucano74 balance 1980, didn't bet (folded)
+Lexomat balance 3720, didn't bet (folded)
+bianca70 balance 1690, didn't bet (folded)
+john55113 balance 1770, didn't bet (folded)
+
+***** Hand History for Game 5792723650 *****
+200/400 Tourney Texas Hold'em Game Table (Limit) (Tournament 32423108)  - Wed Mar 21 16:49:42 EDT 2007
+Table Speed 1330847 (Real Money) -- Seat 4 is the button
+Total number of players : 8
+Seat 1: Kegio (2880)
+Seat 2: hatoka (4450)
+Seat 4: pokerPain83 (1340)
+Seat 5: SFC_Koelle (2170)
+Seat 6: tucano74 (1980)
+Seat 7: Lexomat (3720)
+Seat 8: bianca70 (1690)
+Seat 10: john55113 (1770)
+SFC_Koelle  posts small blind (100)
+tucano74  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 3c, Th ]
+Lexomat folds.
+bianca70 folds.
+john55113 folds.
+Kegio folds.
+hatoka folds.
+pokerPain83 folds.
+SFC_Koelle calls (100)
+tucano74 checks.
+** Dealing Flop ** :  [ Qh, 9h, 6d ]
+SFC_Koelle checks.
+tucano74 bets (200)
+SFC_Koelle folds.
+** Summary **
+Main Pot: 400
+Board: [ Qh 9h 6d  ]
+
+Kegio balance 2880, didn't bet (folded)
+hatoka balance 4450, didn't bet (folded)
+pokerPain83 balance 1340, didn't bet (folded)
+SFC_Koelle balance 1970, lost 200 (folded)
+tucano74 balance 2180, bet 400, collected 600, net +200
+Lexomat balance 3720, didn't bet (folded)
+bianca70 balance 1690, didn't bet (folded)
+john55113 balance 1770, didn't bet (folded)
+
+***** Hand History for Game 5792725800 *****
+200/400 Tourney Texas Hold'em Game Table (Limit) (Tournament 32423108)  - Wed Mar 21 16:50:15 EDT 2007
+Table Speed 1330847 (Real Money) -- Seat 5 is the button
+Total number of players : 8
+Seat 1: Kegio (2880)
+Seat 2: hatoka (4450)
+Seat 4: pokerPain83 (1340)
+Seat 5: SFC_Koelle (1970)
+Seat 6: tucano74 (2180)
+Seat 7: Lexomat (3720)
+Seat 8: bianca70 (1690)
+Seat 10: john55113 (1770)
+tucano74  posts small blind (100)
+Lexomat  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 5s, Td ]
+bianca70 folds.
+john55113 calls (200)
+Kegio folds.
+hatoka folds.
+pokerPain83 folds.
+SFC_Koelle folds.
+tucano74 calls (100)
+Lexomat checks.
+** Dealing Flop ** :  [ Ks, As, 9s ]
+tucano74 bets (200)
+Lexomat folds.
+john55113 folds.
+** Summary **
+Main Pot: 600
+Board: [ Ks As 9s  ]
+
+Kegio balance 2880, didn't bet (folded)
+hatoka balance 4450, didn't bet (folded)
+pokerPain83 balance 1340, didn't bet (folded)
+SFC_Koelle balance 1970, didn't bet (folded)
+tucano74 balance 2580, bet 400, collected 800, net +400
+Lexomat balance 3520, lost 200 (folded)
+bianca70 balance 1690, didn't bet (folded)
+john55113 balance 1570, lost 200 (folded)
+
+***** Hand History for Game 5792728219 *****
+300/600 Tourney Texas Hold'em Game Table (Limit) (Tournament 32423108)  - Wed Mar 21 16:50:46 EDT 2007
+Table Speed 1330847 (Real Money) -- Seat 6 is the button
+Total number of players : 8
+Seat 1: Kegio (2880)
+Seat 2: hatoka (4450)
+Seat 4: pokerPain83 (1340)
+Seat 5: SFC_Koelle (1970)
+Seat 6: tucano74 (2580)
+Seat 7: Lexomat (3520)
+Seat 8: bianca70 (1690)
+Seat 10: john55113 (1570)
+Lexomat  posts small blind (150)
+bianca70  posts big blind (300)
+** Dealing down cards **
+Dealt to hatoka [ Ts, 8s ]
+john55113 folds.
+Kegio calls (300)
+hatoka folds.
+pokerPain83 raises (600) to 600
+SFC_Koelle folds.
+tucano74 folds.
+Lexomat folds.
+bianca70 folds.
+Kegio calls (300)
+** Dealing Flop ** :  [ 9d, Tc, Kh ]
+Kegio bets (300)
+pokerPain83 raises (600) to 600
+Kegio raises (600) to 900
+pokerPain83 calls (140)
+pokerPain83 is all-In.
+** Dealing Turn ** :  [ 3d ]
+** Dealing River ** :  [ Kc ]
+Creating Main Pot with $3130 with pokerPain83
+** Summary **
+Main Pot: 3130
+Board: [ 9d Tc Kh 3d Kc  ]
+
+Kegio balance 1540, bet 1500, collected 160, lost -1340 [ 7h Ah ] [ a pair of Kings -- Ah,Kh,Kc,Tc,9d ]
+hatoka balance 4450, didn't bet (folded)
+pokerPain83 balance 3130, bet 1340, collected 3130, net +1790 [ Qh Qs ] [ two pairs, Kings and Queens -- Kh,Kc,Qh,Qs,Tc ]
+SFC_Koelle balance 1970, didn't bet (folded)
+tucano74 balance 2580, didn't bet (folded)
+Lexomat balance 3370, lost 150 (folded)
+bianca70 balance 1390, lost 300 (folded)
+john55113 balance 1570, didn't bet (folded)
+
+***** Hand History for Game 5792731285 *****
+300/600 Tourney Texas Hold'em Game Table (Limit) (Tournament 32423108)  - Wed Mar 21 16:51:28 EDT 2007
+Table Speed 1330847 (Real Money) -- Seat 7 is the button
+Total number of players : 8
+Seat 1: Kegio (1540)
+Seat 2: hatoka (4450)
+Seat 4: pokerPain83 (3130)
+Seat 5: SFC_Koelle (1970)
+Seat 6: tucano74 (2580)
+Seat 7: Lexomat (3370)
+Seat 8: bianca70 (1390)
+Seat 10: john55113 (1570)
+bianca70  posts small blind (150)
+john55113  posts big blind (300)
+** Dealing down cards **
+Dealt to hatoka [ 2h, 9h ]
+Kegio folds.
+hatoka folds.
+pokerPain83 calls (300)
+SFC_Koelle folds.
+tucano74 folds.
+Lexomat folds.
+bianca70 calls (150)
+john55113 checks.
+** Dealing Flop ** :  [ Qs, 7d, As ]
+bianca70 checks.
+john55113 bets (300)
+pokerPain83 calls (300)
+bianca70 folds.
+** Dealing Turn ** :  [ 4h ]
+john55113 bets (600)
+pokerPain83 calls (600)
+** Dealing River ** :  [ Jd ]
+john55113 checks.
+pokerPain83 checks.
+** Summary **
+Main Pot: 2700
+Board: [ Qs 7d As 4h Jd  ]
+
+Kegio balance 1540, didn't bet (folded)
+hatoka balance 4450, didn't bet (folded)
+pokerPain83 balance 1930, lost 1200 [ Ts Js ] [ a pair of Jacks -- As,Qs,Js,Jd,Ts ]
+
+SFC_Koelle balance 1970, didn't bet (folded)
+tucano74 balance 2580, didn't bet (folded)
+Lexomat balance 3370, didn't bet (folded)
+bianca70 balance 1090, lost 300 (folded)
+john55113 balance 3070, bet 1200, collected 2700, net +1500 [ Qd Th ] [ a pair of Queens -- As,Qd,Qs,Jd,Th ]
+
+***** Hand History for Game 5792734104 *****
+300/600 Tourney Texas Hold'em Game Table (Limit) (Tournament 32423108)  - Wed Mar 21 16:52:05 EDT 2007
+Table Speed 1330847 (Real Money) -- Seat 8 is the button
+Total number of players : 8
+Seat 1: Kegio (1540)
+Seat 2: hatoka (4450)
+Seat 4: pokerPain83 (1930)
+Seat 5: SFC_Koelle (1970)
+Seat 6: tucano74 (2580)
+Seat 7: Lexomat (3370)
+Seat 8: bianca70 (1090)
+Seat 10: john55113 (3070)
+john55113  posts small blind (150)
+Kegio  posts big blind (300)
+** Dealing down cards **
+Dealt to hatoka [ 5d, 6h ]
+hatoka folds.
+pokerPain83 folds.
+SFC_Koelle folds.
+tucano74 folds.
+Lexomat folds.
+bianca70 folds.
+john55113 raises (450) to 600
+Kegio raises (600) to 900
+john55113 calls (300)
+** Dealing Flop ** :  [ Ah, Tc, 2s ]
+john55113 checks.
+Kegio bets (300)
+john55113 folds.
+** Summary **
+Main Pot: 1800
+Board: [ Ah Tc 2s  ]
+
+Kegio balance 2440, bet 1200, collected 2100, net +900
+hatoka balance 4450, didn't bet (folded)
+pokerPain83 balance 1930, didn't bet (folded)
+SFC_Koelle balance 1970, didn't bet (folded)
+tucano74 balance 2580, didn't bet (folded)
+Lexomat balance 3370, didn't bet (folded)
+bianca70 balance 1090, didn't bet (folded)
+john55113 balance 2170, lost 900 (folded)
+
+***** Hand History for Game 5792735908 *****
+300/600 Tourney Texas Hold'em Game Table (Limit) (Tournament 32423108)  - Wed Mar 21 16:52:29 EDT 2007
+Table Speed 1330847 (Real Money) -- Seat 10 is the button
+Total number of players : 8
+Seat 1: Kegio (2440)
+Seat 2: hatoka (4450)
+Seat 4: pokerPain83 (1930)
+Seat 5: SFC_Koelle (1970)
+Seat 6: tucano74 (2580)
+Seat 7: Lexomat (3370)
+Seat 8: bianca70 (1090)
+Seat 10: john55113 (2170)
+Kegio  posts small blind (150)
+hatoka  posts big blind (300)
+** Dealing down cards **
+Dealt to hatoka [ Th, 3h ]
+pokerPain83 folds.
+SFC_Koelle folds.
+tucano74 folds.
+Lexomat folds.
+bianca70 calls (300)
+john55113 folds.
+Kegio folds.
+hatoka checks.
+** Dealing Flop ** :  [ 9s, 4c, Js ]
+hatoka checks.
+bianca70 checks.
+** Dealing Turn ** :  [ 5c ]
+hatoka bets (600)
+bianca70 calls (600)
+** Dealing River ** :  [ 8c ]
+hatoka bets (600)
+bianca70 calls (190)
+bianca70 is all-In.
+Creating Main Pot with $2330 with bianca70
+** Summary **
+Main Pot: 2330
+Board: [ 9s 4c Js 5c 8c  ]
+
+Kegio balance 2290, lost 150 (folded)
+hatoka balance 3360, bet 1500, collected 410, lost -1090 [ Th 3h ] [ high card Jack -- Js,Th,9s,8c,5c ]
+pokerPain83 balance 1930, didn't bet (folded)
+SFC_Koelle balance 1970, didn't bet (folded)
+tucano74 balance 2580, didn't bet (folded)
+Lexomat balance 3370, didn't bet (folded)
+bianca70 balance 2330, bet 1090, collected 2330, net +1240 [ Ad Qc ] [ high card Ace -- Ad,Qc,Js,9s,8c ]
+john55113 balance 2170, didn't bet (folded)
+
+***** Hand History for Game 5792739079 *****
+300/600 Tourney Texas Hold'em Game Table (Limit) (Tournament 32423108)  - Wed Mar 21 16:53:11 EDT 2007
+Table Speed 1330847 (Real Money) -- Seat 1 is the button
+Total number of players : 8
+Seat 1: Kegio (2290)
+Seat 2: hatoka (3360)
+Seat 4: pokerPain83 (1930)
+Seat 5: SFC_Koelle (1970)
+Seat 6: tucano74 (2580)
+Seat 7: Lexomat (3370)
+Seat 8: bianca70 (2330)
+Seat 10: john55113 (2170)
+hatoka  posts small blind (150)
+pokerPain83  posts big blind (300)
+** Dealing down cards **
+Dealt to hatoka [ 9d, Ts ]
+SFC_Koelle folds.
+tucano74 folds.
+Lexomat folds.
+bianca70 folds.
+john55113 calls (300)
+Kegio folds.
+hatoka calls (150)
+pokerPain83 checks.
+** Dealing Flop ** :  [ 5h, Jc, Tc ]
+hatoka bets (300)
+pokerPain83 calls (300)
+john55113 calls (300)
+** Dealing Turn ** :  [ 5d ]
+hatoka bets (600)
+pokerPain83 calls (600)
+john55113 calls (600)
+** Dealing River ** :  [ 3c ]
+hatoka checks.
+pokerPain83 bets (600)
+john55113 folds.
+hatoka raises (1200) to 1200
+pokerPain83 calls (130)
+pokerPain83 is all-In.
+Creating Main Pot with $5060 with pokerPain83
+** Summary **
+Main Pot: 5060
+Board: [ 5h Jc Tc 5d 3c  ]
+
+Kegio balance 2290, didn't bet (folded)
+hatoka balance 1430, bet 2400, collected 470, lost -1930 [ 9d Ts ] [ two pairs, Tens and Fives -- Jc,Ts,Tc,5h,5d ]
+pokerPain83 balance 5060, bet 1930, collected 5060, net +3130 [ 7c Qc ] [ a flush, Queen high -- Qc,Jc,Tc,7c,3c ]
+SFC_Koelle balance 1970, didn't bet (folded)
+tucano74 balance 2580, didn't bet (folded)
+Lexomat balance 3370, didn't bet (folded)
+bianca70 balance 2330, didn't bet (folded)
+john55113 balance 970, lost 1200 (folded)
+
+***** Hand History for Game 5792743875 *****
+300/600 Tourney Texas Hold'em Game Table (Limit) (Tournament 32423108)  - Wed Mar 21 16:54:14 EDT 2007
+Table Speed 1330847 (Real Money) -- Seat 2 is the button
+Total number of players : 8
+Seat 1: Kegio (2290)
+Seat 2: hatoka (1430)
+Seat 4: pokerPain83 (5060)
+Seat 5: SFC_Koelle (1970)
+Seat 6: tucano74 (2580)
+Seat 7: Lexomat (3370)
+Seat 8: bianca70 (2330)
+Seat 10: john55113 (970)
+pokerPain83  posts small blind (150)
+SFC_Koelle  posts big blind (300)
+** Dealing down cards **
+Dealt to hatoka [ Kh, As ]
+tucano74 calls (300)
+Lexomat folds.
+bianca70 folds.
+john55113 folds.
+Kegio folds.
+hatoka raises (600) to 600
+pokerPain83 folds.
+SFC_Koelle calls (300)
+tucano74 calls (300)
+** Dealing Flop ** :  [ 8c, Qc, Qd ]
+SFC_Koelle checks.
+tucano74 bets (300)
+hatoka raises (600) to 600
+SFC_Koelle folds.
+tucano74 raises (600) to 900
+hatoka calls (230)
+hatoka is all-In.
+** Dealing Turn ** :  [ 2s ]
+** Dealing River ** :  [ 6c ]
+Creating Main Pot with $3610 with hatoka
+** Summary **
+Main Pot: 3610
+Board: [ 8c Qc Qd 2s 6c  ]
+
+Kegio balance 2290, didn't bet (folded)
+hatoka balance 0, lost 1430 [ Kh As ] [ a pair of Queens -- As,Kh,Qc,Qd,8c ]
+pokerPain83 balance 4910, lost 150 (folded)
+SFC_Koelle balance 1370, lost 600 (folded)
+tucano74 balance 4760, bet 1500, collected 3680, net +2180 [ 9s Qs ] [ three of a kind, Queens -- Qs,Qc,Qd,9s,8c ]
+Lexomat balance 3370, didn't bet (folded)
+bianca70 balance 2330, didn't bet (folded)
+john55113 balance 970, didn't bet (folded)
+
+***** Hand History for Game 5792746236 *****
+hatoka finished in 8 place.
+300/600 Tourney Texas Hold'em Game Table (Limit) (Tournament 32423108)  - Wed Mar 21 16:54:45 EDT 2007
+Table Speed 1330847 (Real Money) -- Seat 4 is the button
+Total number of players : 7
+Seat 1: Kegio (2290)
+Seat 4: pokerPain83 (4910)
+Seat 5: SFC_Koelle (1370)
+Seat 6: tucano74 (4760)
+Seat 7: Lexomat (3370)
+Seat 8: bianca70 (2330)
+Seat 10: john55113 (970)
+SFC_Koelle  posts small blind (150)
+tucano74  posts big blind (300)
+** Dealing down cards **
+Lexomat folds.
+bianca70 folds.
+john55113 raises (600) to 600
+Kegio folds.
+pokerPain83 folds.
+SFC_Koelle folds.
+tucano74 folds.
+** Summary **
+Main Pot: 750
+
+Kegio balance 2290, didn't bet (folded)
+pokerPain83 balance 4910, didn't bet (folded)
+SFC_Koelle balance 1220, lost 150 (folded)
+tucano74 balance 4460, lost 300 (folded)
+Lexomat balance 3370, didn't bet (folded)
+bianca70 balance 2330, didn't bet (folded)
+john55113 balance 1420, bet 600, collected 1050, net +450
+
+***** Hand History for Game 5792747446 *****
+300/600 Tourney Texas Hold'em Game Table (Limit) (Tournament 32423108)  - Wed Mar 21 16:55:01 EDT 2007
+Table Speed 1330847 (Real Money) -- Seat 5 is the button
+Total number of players : 7
+Seat 1: Kegio (2290)
+Seat 4: pokerPain83 (4910)
+Seat 5: SFC_Koelle (1220)
+Seat 6: tucano74 (4460)
+Seat 7: Lexomat (3370)
+Seat 8: bianca70 (2330)
+Seat 10: john55113 (1420)
+tucano74  posts small blind (150)
+Lexomat  posts big blind (300)
+** Dealing down cards **
+bianca70 folds.
+john55113 folds.
+Kegio folds.
+pokerPain83 folds.
+SFC_Koelle folds.
+tucano74 calls (150)
+Lexomat checks.
+** Dealing Flop ** :  [ 6d, Qs, 2h ]
+tucano74 checks.
+Lexomat bets (300)
+tucano74 folds.
+** Summary **
+Main Pot: 600
+Board: [ 6d Qs 2h  ]
+
+Kegio balance 2290, didn't bet (folded)
+pokerPain83 balance 4910, didn't bet (folded)
+SFC_Koelle balance 1220, didn't bet (folded)
+tucano74 balance 4160, lost 300 (folded)
+Lexomat balance 3670, bet 600, collected 900, net +300
+bianca70 balance 2330, didn't bet (folded)
+john55113 balance 1420, didn't bet (folded)
+
+***** Hand History for Game 5792749208 *****
+300/600 Tourney Texas Hold'em Game Table (Limit) (Tournament 32423108)  - Wed Mar 21 16:55:23 EDT 2007
+Table Speed 1330847 (Real Money) -- Seat 6 is the button
+Total number of players : 7
+Seat 1: Kegio (2290)
+Seat 4: pokerPain83 (4910)
+Seat 5: SFC_Koelle (1220)
+Seat 6: tucano74 (4160)
+Seat 7: Lexomat (3670)
+Seat 8: bianca70 (2330)
+Seat 10: john55113 (1420)
+Lexomat  posts small blind (150)
+bianca70  posts big blind (300)
+** Dealing down cards **
+john55113 calls (300)
+Kegio folds.
+pokerPain83 folds.
+SFC_Koelle calls (300)
+tucano74 calls (300)
+Lexomat calls (150)
+bianca70 checks.
+** Dealing Flop ** :  [ 6h, 3h, Jh ]
+Lexomat checks.
+bianca70 checks.
+john55113 checks.
+SFC_Koelle checks.
+tucano74 bets (300)
+Lexomat folds.
+bianca70 calls (300)
+john55113 folds.
+SFC_Koelle folds.
+** Dealing Turn ** :  [ 5s ]
+bianca70 checks.
+tucano74 bets (600)
+bianca70 folds.
+** Summary **
+Main Pot: 2100
+Board: [ 6h 3h Jh 5s  ]
+
+Kegio balance 2290, didn't bet (folded)
+pokerPain83 balance 4910, didn't bet (folded)
+SFC_Koelle balance 920, lost 300 (folded)
+tucano74 balance 5660, bet 1200, collected 2700, net +1500 [ Ah As ] [ a pair of Aces -- Ah,As,Jh,6h,5s ]
+Lexomat balance 3370, lost 300 (folded)
+bianca70 balance 1730, lost 600 (folded)
+john55113 balance 1120, lost 300 (folded)
+
+***** Hand History for Game 5792753556 *****
+400/800 Tourney Texas Hold'em Game Table (Limit) (Tournament 32423108)  - Wed Mar 21 16:56:20 EDT 2007
+Table Speed 1330847 (Real Money) -- Seat 7 is the button
+Total number of players : 7
+Seat 1: Kegio (2290)
+Seat 4: pokerPain83 (4910)
+Seat 5: SFC_Koelle (920)
+Seat 6: tucano74 (5660)
+Seat 7: Lexomat (3370)
+Seat 8: bianca70 (1730)
+Seat 10: john55113 (1120)
+bianca70  posts small blind (200)
+john55113  posts big blind (400)
+** Dealing down cards **
+Kegio folds.
+pokerPain83 folds.
+SFC_Koelle folds.
+tucano74 folds.
+Lexomat calls (400)
+bianca70 calls (200)
+john55113 checks.
+** Dealing Flop ** :  [ Tc, Ah, Qd ]
+bianca70 checks.
+john55113 bets (400)
+Lexomat raises (800) to 800
+bianca70 folds.
+john55113 calls (320)
+john55113 is all-In.
+** Dealing Turn ** :  [ Jd ]
+** Dealing River ** :  [ Ks ]
+Creating Main Pot with $2640 with john55113
+** Summary **
+Main Pot: 2640
+Board: [ Tc Ah Qd Jd Ks  ]
+
+Kegio balance 2290, didn't bet (folded)
+pokerPain83 balance 4910, didn't bet (folded)
+SFC_Koelle balance 920, didn't bet (folded)
+tucano74 balance 5660, didn't bet (folded)
+Lexomat balance 3570, bet 1200, collected 1400, net +200 [ Ad Qc ] [ a straight Ten to Ace -- Ad,Ks,Qc,Jd,Tc ]
+bianca70 balance 1330, lost 400 (folded)
+john55113 balance 1320, bet 1120, collected 1320, net +200 [ 4s Kd ] [ a straight Ten to Ace -- Ah,Kd,Qd,Jd,Tc ]
+
+***** Hand History for Game 5792755792 *****
+400/800 Tourney Texas Hold'em Game Table (Limit) (Tournament 32423108)  - Wed Mar 21 16:56:49 EDT 2007
+Table Speed 1330847 (Real Money) -- Seat 8 is the button
+Total number of players : 7
+Seat 1: Kegio (2290)
+Seat 4: pokerPain83 (4910)
+Seat 5: SFC_Koelle (920)
+Seat 6: tucano74 (5660)
+Seat 7: Lexomat (3570)
+Seat 8: bianca70 (1330)
+Seat 10: john55113 (1320)
+john55113  posts small blind (200)
+Kegio  posts big blind (400)
+** Dealing down cards **
+pokerPain83 folds.
+SFC_Koelle folds.
+tucano74 folds.
+Lexomat calls (400)
+bianca70 folds.
+john55113 calls (200)
+Kegio checks.
+** Dealing Flop ** :  [ 6d, 9d, Ac ]
+john55113 checks.
+Kegio bets (400)
+Lexomat raises (800) to 800
+john55113 folds.
+Kegio calls (400)
+** Dealing Turn ** :  [ 5d ]
+Kegio bets (800)
+Lexomat calls (800)
+** Dealing River ** :  [ As ]
+Kegio bets (290)
+Kegio is all-In.
+Lexomat calls (290)
+Creating Main Pot with $4980 with Kegio
+** Summary **
+Main Pot: 4980
+Board: [ 6d 9d Ac 5d As  ]
+
+Kegio balance 4980, bet 2290, collected 4980, net +2690 [ 8c 7s ] [ a straight Five to Nine -- 9d,8c,7s,6d,5d ]
+pokerPain83 balance 4910, didn't bet (folded)
+SFC_Koelle balance 920, didn't bet (folded)
+tucano74 balance 5660, didn't bet (folded)
+Lexomat balance 1280, lost 2290 [ Jh Ad ] [ three of a kind, Aces -- Ad,Ac,As,Jh,9d ]
+bianca70 balance 1330, didn't bet (folded)
+john55113 balance 920, lost 400 (folded)
+
+***** Hand History for Game 5792760623 *****
+400/800 Tourney Texas Hold'em Game Table (Limit) (Tournament 32423108)  - Wed Mar 21 16:57:52 EDT 2007
+Table Speed 1330847 (Real Money) -- Seat 10 is the button
+Total number of players : 7
+Seat 1: Kegio (4980)
+Seat 4: pokerPain83 (4910)
+Seat 5: SFC_Koelle (920)
+Seat 6: tucano74 (5660)
+Seat 7: Lexomat (1280)
+Seat 8: bianca70 (1330)
+Seat 10: john55113 (920)
+Kegio  posts small blind (200)
+pokerPain83  posts big blind (400)
+** Dealing down cards **
+SFC_Koelle folds.
+tucano74 calls (400)
+Lexomat calls (400)
+bianca70 folds.
+john55113 folds.
+Kegio folds.
+pokerPain83 checks.
+** Dealing Flop ** :  [ 7s, Qd, 4d ]
+pokerPain83 bets (400)
+tucano74 folds.
+Lexomat raises (800) to 800
+pokerPain83 calls (400)
+** Dealing Turn ** :  [ 6h ]
+pokerPain83 checks.
+Lexomat bets (80)
+Lexomat is all-In.
+pokerPain83 calls (80)
+** Dealing River ** :  [ 5h ]
+Creating Main Pot with $3160 with Lexomat
+** Summary **
+Main Pot: 3160
+Board: [ 7s Qd 4d 6h 5h  ]
+
+Kegio balance 4780, lost 200 (folded)
+pokerPain83 balance 3630, lost 1280 [ Td 9d ] [ high card Queen -- Qd,Td,9d,7s,6h ]
+SFC_Koelle balance 920, didn't bet (folded)
+tucano74 balance 5260, lost 400 (folded)
+Lexomat balance 3160, bet 1280, collected 3160, net +1880 [ Qs Js ] [ a pair of Queens -- Qs,Qd,Js,7s,6h ]
+bianca70 balance 1330, didn't bet (folded)
+john55113 balance 920, didn't bet (folded)
+
+***** Hand History for Game 5792763586 *****
+400/800 Tourney Texas Hold'em Game Table (Limit) (Tournament 32423108)  - Wed Mar 21 16:58:31 EDT 2007
+Table Speed 1330847 (Real Money) -- Seat 1 is the button
+Total number of players : 7
+Seat 1: Kegio (4780)
+Seat 4: pokerPain83 (3630)
+Seat 5: SFC_Koelle (920)
+Seat 6: tucano74 (5260)
+Seat 7: Lexomat (3160)
+Seat 8: bianca70 (1330)
+Seat 10: john55113 (920)
+pokerPain83  posts small blind (200)
+SFC_Koelle  posts big blind (400)
+** Dealing down cards **
+tucano74 calls (400)
+Lexomat calls (400)
+bianca70 folds.
+john55113 folds.
+Kegio folds.
+pokerPain83 folds.
+SFC_Koelle checks.
+** Dealing Flop ** :  [ 3d, 8h, Tc ]
+SFC_Koelle checks.
+tucano74 checks.
+Lexomat bets (400)
+SFC_Koelle folds.
+tucano74 calls (400)
+** Dealing Turn ** :  [ Ah ]
+tucano74 checks.
+Lexomat checks.
+** Dealing River ** :  [ Kd ]
+tucano74 bets (800)
+Lexomat calls (800)
+** Summary **
+Main Pot: 3800
+Board: [ 3d 8h Tc Ah Kd  ]
+
+Kegio balance 4780, didn't bet (folded)
+pokerPain83 balance 3430, lost 200 (folded)
+SFC_Koelle balance 520, lost 400 (folded)
+tucano74 balance 7460, bet 1600, collected 3800, net +2200 [ Jc Ac ] [ a pair of Aces -- Ac,Ah,Kd,Jc,Tc ]
+
+Lexomat balance 1560, lost 1600 [Didn't Show]
+bianca70 balance 1330, didn't bet (folded)
+john55113 balance 920, didn't bet (folded)
+
+***** Hand History for Game 5792766427 *****
+400/800 Tourney Texas Hold'em Game Table (Limit) (Tournament 32423108)  - Wed Mar 21 16:59:08 EDT 2007
+Table Speed 1330847 (Real Money) -- Seat 4 is the button
+Total number of players : 7
+Seat 1: Kegio (4780)
+Seat 4: pokerPain83 (3430)
+Seat 5: SFC_Koelle (520)
+Seat 6: tucano74 (7460)
+Seat 7: Lexomat (1560)
+Seat 8: bianca70 (1330)
+Seat 10: john55113 (920)
+SFC_Koelle  posts small blind (200)
+tucano74  posts big blind (400)
+** Dealing down cards **
+Lexomat calls (400)
+bianca70 folds.
+john55113 folds.
+Kegio folds.
+pokerPain83 folds.
+SFC_Koelle folds.
+tucano74 checks.
+** Dealing Flop ** :  [ Ts, 6c, 3c ]
+tucano74 bets (400)
+Lexomat calls (400)
+** Dealing Turn ** :  [ Kc ]
+tucano74 bets (800)
+Lexomat calls (760)
+Lexomat is all-In.
+** Dealing River ** :  [ Td ]
+Creating Main Pot with $3320 with Lexomat
+** Summary **
+Main Pot: 3320
+Board: [ Ts 6c 3c Kc Td  ]
+
+Kegio balance 4780, didn't bet (folded)
+pokerPain83 balance 3430, didn't bet (folded)
+SFC_Koelle balance 320, lost 200 (folded)
+tucano74 balance 9220, bet 1600, collected 3360, net +1760 [ Qh Qs ] [ two pairs, Queens and Tens -- Kc,Qh,Qs,Ts,Td ]
+Lexomat balance 0, lost 1560 [ As Qd ] [ a pair of Tens -- As,Kc,Qd,Ts,Td ]
+bianca70 balance 1330, didn't bet (folded)
+john55113 balance 920, didn't bet (folded)
+
+***** Hand History for Game 5792768063 *****
+Lexomat finished in 7 place.
+400/800 Tourney Texas Hold'em Game Table (Limit) (Tournament 32423108)  - Wed Mar 21 16:59:30 EDT 2007
+Table Speed 1330847 (Real Money) -- Seat 5 is the button
+Total number of players : 6
+Seat 1: Kegio (4780)
+Seat 4: pokerPain83 (3430)
+Seat 5: SFC_Koelle (320)
+Seat 6: tucano74 (9220)
+Seat 8: bianca70 (1330)
+Seat 10: john55113 (920)
+tucano74  posts small blind (200)
+bianca70  posts big blind (400)
+** Dealing down cards **
+john55113 folds.
+Kegio folds.
+pokerPain83 calls (400)
+SFC_Koelle folds.
+tucano74 folds.
+bianca70 checks.
+** Dealing Flop ** :  [ Qc, 2d, Qh ]
+bianca70 checks.
+pokerPain83 bets (400)
+bianca70 folds.
+** Summary **
+Main Pot: 1000
+Board: [ Qc 2d Qh  ]
+
+Kegio balance 4780, didn't bet (folded)
+pokerPain83 balance 4030, bet 800, collected 1400, net +600
+SFC_Koelle balance 320, didn't bet (folded)
+tucano74 balance 9020, lost 200 (folded)
+bianca70 balance 930, lost 400 (folded)
+john55113 balance 920, didn't bet (folded)
+
+***** Hand History for Game 5792770343 *****
+400/800 Tourney Texas Hold'em Game Table (Limit) (Tournament 32423108)  - Wed Mar 21 17:00:00 EDT 2007
+Table Speed 1330847 (Real Money) -- Seat 6 is the button
+Total number of players : 6
+Seat 1: Kegio (4780)
+Seat 4: pokerPain83 (4030)
+Seat 5: SFC_Koelle (320)
+Seat 6: tucano74 (9020)
+Seat 8: bianca70 (930)
+Seat 10: john55113 (920)
+bianca70  posts small blind (200)
+john55113  posts big blind (400)
+** Dealing down cards **
+Kegio folds.
+pokerPain83 folds.
+SFC_Koelle folds.
+tucano74 folds.
+bianca70 calls (200)
+john55113 checks.
+** Dealing Flop ** :  [ 8s, Kd, 7c ]
+bianca70 checks.
+john55113 checks.
+** Dealing Turn ** :  [ 6d ]
+bianca70 checks.
+john55113 bets (520)
+john55113 is all-In.
+bianca70 folds.
+Creating Main Pot with $800 with john55113
+** Summary **
+Main Pot: 800
+Board: [ 8s Kd 7c 6d  ]
+
+Kegio balance 4780, didn't bet (folded)
+pokerPain83 balance 4030, didn't bet (folded)
+SFC_Koelle balance 320, didn't bet (folded)
+tucano74 balance 9020, didn't bet (folded)
+bianca70 balance 530, lost 400 (folded)
+john55113 balance 1320, bet 920, collected 1320, net +400
+
+***** Hand History for Game 5792772514 *****
+400/800 Tourney Texas Hold'em Game Table (Limit) (Tournament 32423108)  - Wed Mar 21 17:00:28 EDT 2007
+Table Speed 1330847 (Real Money) -- Seat 8 is the button
+Total number of players : 6
+Seat 1: Kegio (4780)
+Seat 4: pokerPain83 (4030)
+Seat 5: SFC_Koelle (320)
+Seat 6: tucano74 (9020)
+Seat 8: bianca70 (530)
+Seat 10: john55113 (1320)
+john55113  posts small blind (200)
+Kegio  posts big blind (400)
+** Dealing down cards **
+pokerPain83 folds.
+SFC_Koelle folds.
+tucano74 folds.
+bianca70 folds.
+john55113 raises (600) to 800
+Kegio raises (800) to 1200
+john55113 calls (400)
+** Dealing Flop ** :  [ As, 3h, Jd ]
+john55113 checks.
+Kegio bets (400)
+john55113 calls (120)
+john55113 is all-In.
+** Dealing Turn ** :  [ Qh ]
+** Dealing River ** :  [ 4d ]
+Creating Main Pot with $2640 with john55113
+** Summary **
+Main Pot: 2640
+Board: [ As 3h Jd Qh 4d  ]
+
+Kegio balance 3460, bet 1600, collected 280, lost -1320 [ 8h 8c ] [ a pair of Eights -- As,Qh,Jd,8h,8c ]
+pokerPain83 balance 4030, didn't bet (folded)
+SFC_Koelle balance 320, didn't bet (folded)
+tucano74 balance 9020, didn't bet (folded)
+bianca70 balance 530, didn't bet (folded)
+john55113 balance 2640, bet 1320, collected 2640, net +1320 [ Qs Tc ] [ a pair of Queens -- As,Qs,Qh,Jd,Tc ]
+
+***** Hand History for Game 5792774545 *****
+400/800 Tourney Texas Hold'em Game Table (Limit) (Tournament 32423108)  - Wed Mar 21 17:00:57 EDT 2007
+Table Speed 1330847 (Real Money) -- Seat 10 is the button
+Total number of players : 6
+Seat 1: Kegio (3460)
+Seat 4: pokerPain83 (4030)
+Seat 5: SFC_Koelle (320)
+Seat 6: tucano74 (9020)
+Seat 8: bianca70 (530)
+Seat 10: john55113 (2640)
+Kegio  posts small blind (200)
+pokerPain83  posts big blind (400)
+** Dealing down cards **
+SFC_Koelle folds.
+tucano74 folds.
+bianca70 folds.
+john55113 raises (800) to 800
+Kegio folds.
+pokerPain83 calls (400)
+** Dealing Flop ** :  [ 6h, 2c, Js ]
+pokerPain83 checks.
+john55113 bets (400)
+pokerPain83 folds.
+** Summary **
+Main Pot: 1800
+Board: [ 6h 2c Js  ]
+
+Kegio balance 3260, lost 200 (folded)
+pokerPain83 balance 3230, lost 800 (folded)
+SFC_Koelle balance 320, didn't bet (folded)
+tucano74 balance 9020, didn't bet (folded)
+bianca70 balance 530, didn't bet (folded)
+john55113 balance 3640, bet 1200, collected 2200, net +1000
+
+***** Hand History for Game 5792776078 *****
+400/800 Tourney Texas Hold'em Game Table (Limit) (Tournament 32423108)  - Wed Mar 21 17:01:18 EDT 2007
+Table Speed 1330847 (Real Money) -- Seat 1 is the button
+Total number of players : 6
+Seat 1: Kegio (3260)
+Seat 4: pokerPain83 (3230)
+Seat 5: SFC_Koelle (320)
+Seat 6: tucano74 (9020)
+Seat 8: bianca70 (530)
+Seat 10: john55113 (3640)
+pokerPain83  posts small blind (200)
+SFC_Koelle  posts big blind (320)
+** Dealing down cards **
+tucano74 folds.
+bianca70 folds.
+john55113 folds.
+Kegio calls (400)
+pokerPain83 folds.
+** Dealing Flop ** :  [ 6s, 5s, Kd ]
+** Dealing Turn ** :  [ 9c ]
+** Dealing River ** :  [ Td ]
+Creating Main Pot with $840 with SFC_Koelle
+** Summary **
+Main Pot: 840
+Board: [ 6s 5s Kd 9c Td  ]
+
+Kegio balance 3780, bet 400, collected 920, net +520 [ Jc Qh ] [ a straight Nine to King -- Kd,Qh,Jc,Td,9c ]
+pokerPain83 balance 3030, lost 200 (folded)
+SFC_Koelle balance 0, lost 320 [ Kc 2d ] [ a pair of Kings -- Kc,Kd,Td,9c,6s ]
+tucano74 balance 9020, didn't bet (folded)
+bianca70 balance 530, didn't bet (folded)
+john55113 balance 3640, didn't bet (folded)
+
+***** Hand History for Game 5792777520 *****
+SFC_Koelle finished in 6 place.
+600/1200 Tourney Texas Hold'em Game Table (Limit) (Tournament 32423108)  - Wed Mar 21 17:01:37 EDT 2007
+Table Speed 1330847 (Real Money) -- Seat 4 is the button
+Total number of players : 5
+Seat 1: Kegio (3780)
+Seat 4: pokerPain83 (3030)
+Seat 6: tucano74 (9020)
+Seat 8: bianca70 (530)
+Seat 10: john55113 (3640)
+tucano74  posts big blind (600)
+** Dealing down cards **
+bianca70 calls (530)
+bianca70 is all-In.
+john55113 folds.
+Kegio folds.
+pokerPain83 folds.
+** Dealing Flop ** :  [ Qs, Qd, 5s ]
+** Dealing Turn ** :  [ 4c ]
+** Dealing River ** :  [ 6h ]
+Creating Main Pot with $1060 with bianca70
+** Summary **
+Main Pot: 1060
+Board: [ Qs Qd 5s 4c 6h  ]
+
+Kegio balance 3780, didn't bet (folded)
+pokerPain83 balance 3030, didn't bet (folded)
+tucano74 balance 8490, bet 600, collected 70, lost -530 [ Jd 4d ] [ two pairs, Queens and Fours -- Qs,Qd,Jd,4d,4c ]
+bianca70 balance 1060, bet 530, collected 1060, net +530 [ Ac Ad ] [ two pairs, Aces and Queens -- Ac,Ad,Qs,Qd,6h ]
+john55113 balance 3640, didn't bet (folded)
+
+***** Hand History for Game 5792779181 *****
+600/1200 Tourney Texas Hold'em Game Table (Limit) (Tournament 32423108)  - Wed Mar 21 17:02:00 EDT 2007
+Table Speed 1330847 (Real Money) -- Seat 4 is the button
+Total number of players : 5
+Seat 1: Kegio (3780)
+Seat 4: pokerPain83 (3030)
+Seat 6: tucano74 (8490)
+Seat 8: bianca70 (1060)
+Seat 10: john55113 (3640)
+tucano74  posts small blind (300)
+bianca70  posts big blind (600)
+** Dealing down cards **
+john55113 calls (600)
+Kegio folds.
+pokerPain83 folds.
+tucano74 folds.
+bianca70 checks.
+** Dealing Flop ** :  [ Qs, Kd, 9c ]
+bianca70 checks.
+john55113 bets (600)
+bianca70 folds.
+** Summary **
+Main Pot: 1500
+Board: [ Qs Kd 9c  ]
+
+Kegio balance 3780, didn't bet (folded)
+pokerPain83 balance 3030, didn't bet (folded)
+tucano74 balance 8190, lost 300 (folded)
+bianca70 balance 460, lost 600 (folded)
+john55113 balance 4540, bet 1200, collected 2100, net +900
+
+***** Hand History for Game 5792780883 *****
+600/1200 Tourney Texas Hold'em Game Table (Limit) (Tournament 32423108)  - Wed Mar 21 17:02:23 EDT 2007
+Table Speed 1330847 (Real Money) -- Seat 6 is the button
+Total number of players : 5
+Seat 1: Kegio (3780)
+Seat 4: pokerPain83 (3030)
+Seat 6: tucano74 (8190)
+Seat 8: bianca70 (460)
+Seat 10: john55113 (4540)
+bianca70  posts small blind (300)
+john55113  posts big blind (600)
+** Dealing down cards **
+Kegio folds.
+pokerPain83 folds.
+tucano74 folds.
+bianca70 calls (160)
+bianca70 is all-In.
+** Dealing Flop ** :  [ 4d, 3s, 2h ]
+** Dealing Turn ** :  [ 4s ]
+** Dealing River ** :  [ Td ]
+Creating Main Pot with $920 with bianca70
+** Summary **
+Main Pot: 920
+Board: [ 4d 3s 2h 4s Td  ]
+
+Kegio balance 3780, didn't bet (folded)
+pokerPain83 balance 3030, didn't bet (folded)
+tucano74 balance 8190, didn't bet (folded)
+bianca70 balance 920, bet 460, collected 920, net +460 [ Ts 7s ] [ two pairs, Tens and Fours -- Ts,Td,7s,4d,4s ]
+john55113 balance 4080, bet 600, collected 140, lost -460 [ 3c 9h ] [ two pairs, Fours and Threes -- Td,4d,4s,3c,3s ]
+
+***** Hand History for Game 5792782107 *****
+600/1200 Tourney Texas Hold'em Game Table (Limit) (Tournament 32423108)  - Wed Mar 21 17:02:40 EDT 2007
+Table Speed 1330847 (Real Money) -- Seat 8 is the button
+Total number of players : 5
+Seat 1: Kegio (3780)
+Seat 4: pokerPain83 (3030)
+Seat 6: tucano74 (8190)
+Seat 8: bianca70 (920)
+Seat 10: john55113 (4080)
+john55113  posts small blind (300)
+Kegio  posts big blind (600)
+** Dealing down cards **
+pokerPain83 calls (600)
+tucano74 folds.
+bianca70 folds.
+john55113 folds.
+Kegio checks.
+** Dealing Flop ** :  [ Kh, 9h, Jc ]
+Kegio bets (600)
+pokerPain83 calls (600)
+** Dealing Turn ** :  [ Ad ]
+Kegio bets (1200)
+pokerPain83 calls (1200)
+** Dealing River ** :  [ 6c ]
+Kegio bets (1200)
+pokerPain83 calls (630)
+pokerPain83 is all-In.
+Creating Main Pot with $6360 with pokerPain83
+** Summary **
+Main Pot: 6360
+Board: [ Kh 9h Jc Ad 6c  ]
+
+Kegio balance 7110, bet 3600, collected 6930, net +3330 [ As Kc ] [ two pairs, Aces and Kings -- As,Ad,Kc,Kh,Jc ]
+pokerPain83 balance 0, lost 3030 [ Js Qs ] [ a pair of Jacks -- Ad,Kh,Qs,Js,Jc ]
+tucano74 balance 8190, didn't bet (folded)
+bianca70 balance 920, didn't bet (folded)
+john55113 balance 3780, lost 300 (folded)
+
+***** Hand History for Game 5792784731 *****
+pokerPain83 finished in 5 place.
+600/1200 Tourney Texas Hold'em Game Table (Limit) (Tournament 32423108)  - Wed Mar 21 17:03:15 EDT 2007
+Table Speed 1330847 (Real Money) -- Seat 10 is the button
+Total number of players : 4
+Seat 1: Kegio (7110)
+Seat 6: tucano74 (8190)
+Seat 8: bianca70 (920)
+Seat 10: john55113 (3780)
+Kegio  posts small blind (300)
+tucano74  posts big blind (600)
+** Dealing down cards **
+bianca70 folds.
+john55113 folds.
+Kegio folds.
+** Summary **
+Main Pot: 600
+
+Kegio balance 6810, lost 300 (folded)
+tucano74 balance 8490, bet 600, collected 900, net +300
+bianca70 balance 920, didn't bet (folded)
+john55113 balance 3780, didn't bet (folded)
+
+***** Hand History for Game 5792786260 *****
+600/1200 Tourney Texas Hold'em Game Table (Limit) (Tournament 32423108)  - Wed Mar 21 17:03:36 EDT 2007
+Table Speed 1330847 (Real Money) -- Seat 1 is the button
+Total number of players : 4
+Seat 1: Kegio (6810)
+Seat 6: tucano74 (8490)
+Seat 8: bianca70 (920)
+Seat 10: john55113 (3780)
+tucano74  posts small blind (300)
+bianca70  posts big blind (600)
+** Dealing down cards **
+john55113 folds.
+Kegio raises (1200) to 1200
+tucano74 folds.
+bianca70 calls (320)
+bianca70 is all-In.
+** Dealing Flop ** :  [ 5c, Kc, Kd ]
+** Dealing Turn ** :  [ 4h ]
+** Dealing River ** :  [ Js ]
+Creating Main Pot with $2140 with bianca70
+** Summary **
+Main Pot: 2140
+Board: [ 5c Kc Kd 4h Js  ]
+
+Kegio balance 8030, bet 1200, collected 2420, net +1220 [ Ts Ks ] [ three of a kind, Kings -- Ks,Kc,Kd,Js,Ts ]
+tucano74 balance 8190, lost 300 (folded)
+bianca70 balance 0, lost 920 [ 5s Tc ] [ two pairs, Kings and Fives -- Kc,Kd,Js,5s,5c ]
+john55113 balance 3780, didn't bet (folded)
+
+***** Hand History for Game 5792788619 *****
+bianca70 finished in 4 place.
+600/1200 Tourney Texas Hold'em Game Table (Limit) (Tournament 32423108)  - Wed Mar 21 17:04:09 EDT 2007
+Table Speed 1330847 (Real Money) -- Seat 6 is the button
+Total number of players : 3
+Seat 1: Kegio (8030)
+Seat 6: tucano74 (8190)
+Seat 10: john55113 (3780)
+john55113  posts big blind (600)
+** Dealing down cards **
+Kegio folds.
+tucano74 raises (1200) to 1200
+john55113 calls (600)
+** Dealing Flop ** :  [ Ac, Qh, 3c ]
+john55113 checks.
+tucano74 bets (600)
+john55113 folds.
+** Summary **
+Main Pot: 2400
+Board: [ Ac Qh 3c  ]
+
+Kegio balance 8030, didn't bet (folded)
+tucano74 balance 9390, bet 1800, collected 3000, net +1200
+john55113 balance 2580, lost 1200 (folded)
+
+***** Hand History for Game 5792790638 *****
+600/1200 Tourney Texas Hold'em Game Table (Limit) (Tournament 32423108)  - Wed Mar 21 17:04:35 EDT 2007
+Table Speed 1330847 (Real Money) -- Seat 6 is the button
+Total number of players : 3
+Seat 1: Kegio (8030)
+Seat 6: tucano74 (9390)
+Seat 10: john55113 (2580)
+john55113  posts small blind (300)
+Kegio  posts big blind (600)
+** Dealing down cards **
+tucano74 folds.
+john55113 raises (900) to 1200
+Kegio folds.
+** Summary **
+Main Pot: 1200
+
+Kegio balance 7430, lost 600 (folded)
+tucano74 balance 9390, didn't bet (folded)
+john55113 balance 3180, bet 1200, collected 1800, net +600
+
+***** Hand History for Game 5792791531 *****
+600/1200 Tourney Texas Hold'em Game Table (Limit) (Tournament 32423108)  - Wed Mar 21 17:04:49 EDT 2007
+Table Speed 1330847 (Real Money) -- Seat 10 is the button
+Total number of players : 3
+Seat 1: Kegio (7430)
+Seat 6: tucano74 (9390)
+Seat 10: john55113 (3180)
+Kegio  posts small blind (300)
+tucano74  posts big blind (600)
+** Dealing down cards **
+john55113 folds.
+Kegio calls (300)
+tucano74 raises (600) to 1200
+Kegio calls (600)
+** Dealing Flop ** :  [ Qs, Qh, 3s ]
+Kegio bets (600)
+tucano74 raises (1200) to 1200
+Kegio folds.
+** Summary **
+Main Pot: 3600
+Board: [ Qs Qh 3s  ]
+
+Kegio balance 5630, lost 1800 (folded)
+tucano74 balance 11190, bet 2400, collected 4200, net +1800
+john55113 balance 3180, didn't bet (folded)
+
+***** Hand History for Game 5792793058 *****
+600/1200 Tourney Texas Hold'em Game Table (Limit) (Tournament 32423108)  - Wed Mar 21 17:05:10 EDT 2007
+Table Speed 1330847 (Real Money) -- Seat 1 is the button
+Total number of players : 3
+Seat 1: Kegio (5630)
+Seat 6: tucano74 (11190)
+Seat 10: john55113 (3180)
+tucano74  posts small blind (300)
+john55113  posts big blind (600)
+** Dealing down cards **
+Kegio folds.
+tucano74 raises (900) to 1200
+john55113 calls (600)
+** Dealing Flop ** :  [ 7s, 7h, Td ]
+tucano74 bets (600)
+john55113 calls (600)
+** Dealing Turn ** :  [ 5h ]
+tucano74 bets (1200)
+john55113 calls (1200)
+** Dealing River ** :  [ 8h ]
+tucano74 checks.
+john55113 checks.
+** Summary **
+Main Pot: 6000
+Board: [ 7s 7h Td 5h 8h  ]
+
+Kegio balance 5630, didn't bet (folded)
+tucano74 balance 8190, lost 3000 [ Jc Ad ] [ a pair of Sevens -- Ad,Jc,Td,7s,7h ]
+john55113 balance 6180, bet 3000, collected 6000, net +3000 [ Kc 5d ] [ two pairs, Sevens and Fives -- Kc,7s,7h,5d,5h ]
+
+***** Hand History for Game 5792794706 *****
+600/1200 Tourney Texas Hold'em Game Table (Limit) (Tournament 32423108)  - Wed Mar 21 17:05:32 EDT 2007
+Table Speed 1330847 (Real Money) -- Seat 6 is the button
+Total number of players : 3
+Seat 1: Kegio (5630)
+Seat 6: tucano74 (8190)
+Seat 10: john55113 (6180)
+john55113  posts small blind (300)
+Kegio  posts big blind (600)
+** Dealing down cards **
+tucano74 folds.
+john55113 calls (300)
+Kegio raises (600) to 1200
+john55113 calls (600)
+** Dealing Flop ** :  [ 9s, 7c, 4h ]
+john55113 checks.
+Kegio bets (600)
+john55113 folds.
+** Summary **
+Main Pot: 2400
+Board: [ 9s 7c 4h  ]
+
+Kegio balance 6830, bet 1800, collected 3000, net +1200
+tucano74 balance 8190, didn't bet (folded)
+john55113 balance 4980, lost 1200 (folded)
+
+***** Hand History for Game 5792796137 *****
+600/1200 Tourney Texas Hold'em Game Table (Limit) (Tournament 32423108)  - Wed Mar 21 17:05:51 EDT 2007
+Table Speed 1330847 (Real Money) -- Seat 10 is the button
+Total number of players : 3
+Seat 1: Kegio (6830)
+Seat 6: tucano74 (8190)
+Seat 10: john55113 (4980)
+Kegio  posts small blind (300)
+tucano74  posts big blind (600)
+** Dealing down cards **
+john55113 folds.
+Kegio folds.
+** Summary **
+Main Pot: 600
+
+Kegio balance 6530, lost 300 (folded)
+tucano74 balance 8490, bet 600, collected 900, net +300
+john55113 balance 4980, didn't bet (folded)
+
+***** Hand History for Game 5792796880 *****
+600/1200 Tourney Texas Hold'em Game Table (Limit) (Tournament 32423108)  - Wed Mar 21 17:06:01 EDT 2007
+Table Speed 1330847 (Real Money) -- Seat 1 is the button
+Total number of players : 3
+Seat 1: Kegio (6530)
+Seat 6: tucano74 (8490)
+Seat 10: john55113 (4980)
+tucano74  posts small blind (300)
+john55113  posts big blind (600)
+** Dealing down cards **
+Kegio folds.
+tucano74 calls (300)
+john55113 checks.
+** Dealing Flop ** :  [ Jc, Qh, 8c ]
+tucano74 checks.
+john55113 bets (600)
+tucano74 folds.
+** Summary **
+Main Pot: 1200
+Board: [ Jc Qh 8c  ]
+
+Kegio balance 6530, didn't bet (folded)
+tucano74 balance 7890, lost 600 (folded)
+john55113 balance 5580, bet 1200, collected 1800, net +600
+
+***** Hand History for Game 5792797988 *****
+600/1200 Tourney Texas Hold'em Game Table (Limit) (Tournament 32423108)  - Wed Mar 21 17:06:16 EDT 2007
+Table Speed 1330847 (Real Money) -- Seat 6 is the button
+Total number of players : 3
+Seat 1: Kegio (6530)
+Seat 6: tucano74 (7890)
+Seat 10: john55113 (5580)
+john55113  posts small blind (300)
+Kegio  posts big blind (600)
+** Dealing down cards **
+tucano74 folds.
+john55113 folds.
+** Summary **
+Main Pot: 600
+
+Kegio balance 6830, bet 600, collected 900, net +300
+tucano74 balance 7890, didn't bet (folded)
+john55113 balance 5280, lost 300 (folded)
+
+***** Hand History for Game 5792798788 *****
+600/1200 Tourney Texas Hold'em Game Table (Limit) (Tournament 32423108)  - Wed Mar 21 17:06:27 EDT 2007
+Table Speed 1330847 (Real Money) -- Seat 10 is the button
+Total number of players : 3
+Seat 1: Kegio (6830)
+Seat 6: tucano74 (7890)
+Seat 10: john55113 (5280)
+Kegio  posts small blind (300)
+tucano74  posts big blind (600)
+** Dealing down cards **
+john55113 folds.
+Kegio raises (900) to 1200
+tucano74 calls (600)
+** Dealing Flop ** :  [ Qs, Ts, Js ]
+Kegio bets (600)
+tucano74 raises (1200) to 1200
+Kegio raises (1200) to 1800
+tucano74 raises (1200) to 2400
+Kegio calls (600)
+** Dealing Turn ** :  [ 8c ]
+Kegio bets (1200)
+tucano74 raises (2400) to 2400
+Kegio raises (2030) to 3230
+Kegio is all-In.
+tucano74 calls (830)
+** Dealing River ** :  [ Jc ]
+Creating Main Pot with $13660 with Kegio
+** Summary **
+Main Pot: 13660
+Board: [ Qs Ts Js 8c Jc  ]
+
+Kegio balance 13660, bet 6830, collected 13660, net +6830 [ As 9s ] [ a flush, Ace high -- As,Qs,Js,Ts,9s ]
+tucano74 balance 1060, lost 6830 [ Ks 6d ] [ a pair of Jacks -- Ks,Qs,Js,Jc,Ts ]
+john55113 balance 5280, didn't bet (folded)
+
+***** Hand History for Game 5792801144 *****
+800/1600 Tourney Texas Hold'em Game Table (Limit) (Tournament 32423108)  - Wed Mar 21 17:06:59 EDT 2007
+Table Speed 1330847 (Real Money) -- Seat 1 is the button
+Total number of players : 3
+Seat 1: Kegio (13660)
+Seat 6: tucano74 (1060)
+Seat 10: john55113 (5280)
+tucano74  posts small blind (400)
+john55113  posts big blind (800)
+** Dealing down cards **
+Kegio calls (800)
+tucano74 folds.
+john55113 raises (800) to 1600
+Kegio calls (800)
+** Dealing Flop ** :  [ 2d, 2c, 4s ]
+john55113 checks.
+Kegio bets (800)
+john55113 calls (800)
+** Dealing Turn ** :  [ Jc ]
+john55113 bets (1600)
+Kegio raises (3200) to 3200
+john55113 folds.
+** Summary **
+Main Pot: 8400
+Board: [ 2d 2c 4s Jc  ]
+
+Kegio balance 18060, bet 5600, collected 10000, net +4400
+tucano74 balance 660, lost 400 (folded)
+john55113 balance 1280, lost 4000 (folded)
+
+***** Hand History for Game 5792803457 *****
+800/1600 Tourney Texas Hold'em Game Table (Limit) (Tournament 32423108)  - Wed Mar 21 17:07:31 EDT 2007
+Table Speed 1330847 (Real Money) -- Seat 6 is the button
+Total number of players : 3
+Seat 1: Kegio (18060)
+Seat 6: tucano74 (660)
+Seat 10: john55113 (1280)
+john55113  posts small blind (400)
+Kegio  posts big blind (800)
+** Dealing down cards **
+tucano74 calls (660)
+tucano74 is all-In.
+john55113 calls (400)
+Kegio checks.
+Creating Main Pot with $1980 with tucano74
+** Dealing Flop ** :  [ 3c, Qc, Kc ]
+john55113 bets (480)
+john55113 is all-In.
+Kegio folds.
+** Dealing Turn ** :  [ 5c ]
+** Dealing River ** :  [ 4h ]
+Creating Side Pot 1 with $280 with john55113
+** Summary **
+Main Pot: 1980 | Side Pot 1: 280
+Board: [ 3c Qc Kc 5c 4h  ]
+
+Kegio balance 17260, lost 800 (folded)
+tucano74 balance 0, lost 660 [ 6h Kd ] [ a pair of Kings -- Kd,Kc,Qc,6h,5c ]
+john55113 balance 2740, bet 1280, collected 2740, net +1460 [ Qs Kh ] [ two pairs, Kings and Queens -- Kh,Kc,Qs,Qc,5c ]
+
+***** Hand History for Game 5792805592 *****
+tucano74 finished in 3 place and won $4.80.
+800/1600 Tourney Texas Hold'em Game Table (Limit) (Tournament 32423108)  - Wed Mar 21 17:08:00 EDT 2007
+Table Speed 1330847 (Real Money) -- Seat 1 is the button
+Total number of players : 2
+Seat 1: Kegio (17260)
+Seat 10: john55113 (2740)
+Kegio  posts small blind (400)
+john55113  posts big blind (800)
+** Dealing down cards **
+Kegio calls (400)
+john55113 checks.
+** Dealing Flop ** :  [ Qc, Qs, 2h ]
+john55113 checks.
+Kegio checks.
+** Dealing Turn ** :  [ 9c ]
+john55113 bets (1600)
+Kegio raises (3200) to 3200
+john55113 calls (340)
+john55113 is all-In.
+** Dealing River ** :  [ Kc ]
+Creating Main Pot with $5480 with john55113
+** Summary **
+Main Pot: 5480
+Board: [ Qc Qs 2h 9c Kc  ]
+
+Kegio balance 20000, bet 4000, collected 6740, net +2740 [ Qh 5s ] [ three of a kind, Queens -- Kc,Qh,Qc,Qs,9c ]
+john55113 balance 0, lost 2740 [ 8s Jd ] [ a pair of Queens -- Kc,Qc,Qs,Jd,9c ]
+
+
+

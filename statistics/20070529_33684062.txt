@@ -1,0 +1,2439 @@
+
+Hello hatoka,
+These hand histories are provided to you as an aid for your training and development. You are not permitted to share them with anyone.  We reserve the right to cease providing them or apply further restrictions at any time.
+Complete hand histories are only available to players that participated in the hand.
+You requested a transcript of Tournament #33684062.
+
+Summary
+----------
+Played on    : 29 May 2007 02:59 PM
+On Table     : Speed #1331671
+Game Type    : Texas Holdem
+Buy-In       : $5
+Fee          : $1
+You finished in  position 1
+1st place - hatoka -  $25
+2nd place - Kl3m3n -  $15
+3rd place - SjoerdC -  $10
+
+***** Hand History for Game 6014226328 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33684062)  - Tue May 29 15:00:03 EDT 2007
+Table Speed 1331671 (Real Money) -- Seat 7 is the button
+Total number of players : 10
+Seat 1: hatoka (2000)
+Seat 2: azarus13bouc (2000)
+Seat 3: polo2004333 (2000)
+Seat 4: ahrack (2000)
+Seat 5: haber44 (2000)
+Seat 6: SjoerdC (2000)
+Seat 7: Ewout11 (2000)
+Seat 8: Kl3m3n (2000)
+Seat 9: nikokos2804 (2000)
+Seat 10: bencinam (2000)
+Kl3m3n  posts small blind (20)
+nikokos2804  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 6d, 3s ]
+bencinam calls (40)
+hatoka folds.
+azarus13bouc calls (40)
+polo2004333 folds.
+ahrack folds.
+haber44 folds.
+SjoerdC folds.
+Ewout11 calls (40)
+Kl3m3n raises (60) to 80
+nikokos2804 raises (160) to 200
+bencinam folds.
+azarus13bouc calls (160)
+Ewout11 folds.
+Kl3m3n calls (120)
+** Dealing Flop ** :  [ Jc, Tc, 7s ]
+Kl3m3n checks.
+nikokos2804 bets (360)
+azarus13bouc raises (1800) to 1800
+azarus13bouc is all-In.
+Kl3m3n folds.
+nikokos2804 calls (1440)
+nikokos2804 is all-In.
+** Dealing Turn ** :  [ Ts ]
+** Dealing River ** :  [ Ac ]
+Creating Main Pot with $4280 with azarus13bouc,nikokos2804
+** Summary **
+Main Pot: 4280
+Board: [ Jc Tc 7s Ts Ac  ]
+
+hatoka balance 2000, didn't bet (folded)
+azarus13bouc balance 0, lost 2000 [ Qs Jh ] [ two pairs, Jacks and Tens -- Ac,Jh,Jc,Tc,Ts ]
+polo2004333 balance 2000, didn't bet (folded)
+ahrack balance 2000, didn't bet (folded)
+haber44 balance 2000, didn't bet (folded)
+SjoerdC balance 2000, didn't bet (folded)
+Ewout11 balance 1960, lost 40 (folded)
+Kl3m3n balance 1800, lost 200 (folded)
+nikokos2804 balance 4280, bet 2000, collected 4280, net +2280 [ Jd Ad ] [ two pairs, Aces and Jacks -- Ad,Ac,Jd,Jc,Tc ]
+bencinam balance 1960, lost 40 (folded)
+
+***** Hand History for Game 6014230298 *****
+azarus13bouc finished in 10 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33684062)  - Tue May 29 15:01:03 EDT 2007
+Table Speed 1331671 (Real Money) -- Seat 8 is the button
+Total number of players : 9
+Seat 1: hatoka (2000)
+Seat 3: polo2004333 (2000)
+Seat 4: ahrack (2000)
+Seat 5: haber44 (2000)
+Seat 6: SjoerdC (2000)
+Seat 7: Ewout11 (1960)
+Seat 8: Kl3m3n (1800)
+Seat 9: nikokos2804 (4280)
+Seat 10: bencinam (1960)
+nikokos2804  posts small blind (20)
+bencinam  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ Jd, 3d ]
+hatoka calls (40)
+bencinam: i woulda had a royal flush :
+polo2004333 folds.
+ahrack folds.
+haber44 calls (40)
+SjoerdC calls (40)
+Ewout11 folds.
+Kl3m3n folds.
+nikokos2804 calls (20)
+bencinam checks.
+** Dealing Flop ** :  [ 2c, 5d, Tc ]
+bencinam: KQc
+nikokos2804 checks.
+bencinam checks.
+hatoka checks.
+haber44 bets (240)
+SjoerdC calls (240)
+nikokos2804 calls (240)
+Ewout11: fold ?
+bencinam folds.
+hatoka folds.
+** Dealing Turn ** :  [ 5h ]
+nikokos2804 checks.
+bencinam: pf
+haber44 bets (240)
+SjoerdC folds.
+nikokos2804 calls (240)
+** Dealing River ** :  [ 3c ]
+nikokos2804 checks.
+haber44 bets (1480)
+haber44 is all-In.
+nikokos2804 calls (1480)
+Creating Main Pot with $4360 with haber44
+** Summary **
+Main Pot: 4360
+Board: [ 2c 5d Tc 5h 3c  ]
+
+hatoka balance 1960, lost 40 (folded)
+polo2004333 balance 2000, didn't bet (folded)
+ahrack balance 2000, didn't bet (folded)
+haber44 balance 4360, bet 2000, collected 4360, net +2360 [ 5c Ac ] [ a flush, Ace high -- Ac,Tc,5c,3c,2c ]
+SjoerdC balance 1720, lost 280 (folded)
+Ewout11 balance 1960, didn't bet (folded)
+Kl3m3n balance 1800, didn't bet (folded)
+nikokos2804 balance 2280, lost 2000 [ 4c Kc ] [ a flush, King high -- Kc,Tc,4c,3c,2c ]
+bencinam balance 1920, lost 40 (folded)
+
+***** Hand History for Game 6014235102 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33684062)  - Tue May 29 15:02:14 EDT 2007
+Table Speed 1331671 (Real Money) -- Seat 9 is the button
+Total number of players : 9
+Seat 1: hatoka (1960)
+Seat 3: polo2004333 (2000)
+Seat 4: ahrack (2000)
+Seat 5: haber44 (4360)
+Seat 6: SjoerdC (1720)
+Seat 7: Ewout11 (1960)
+Seat 8: Kl3m3n (1800)
+Seat 9: nikokos2804 (2280)
+Seat 10: bencinam (1920)
+bencinam  posts small blind (20)
+hatoka  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ Jc, 8s ]
+polo2004333 calls (40)
+ahrack folds.
+haber44 folds.
+SjoerdC folds.
+Ewout11 calls (40)
+Kl3m3n raises (320) to 320
+nikokos2804 folds.
+bencinam folds.
+hatoka folds.
+polo2004333 calls (280)
+Ewout11 folds.
+** Dealing Flop ** :  [ 2s, 4d, Ac ]
+polo2004333 checks.
+Kl3m3n checks.
+** Dealing Turn ** :  [ Ad ]
+polo2004333 checks.
+Kl3m3n checks.
+** Dealing River ** :  [ 9d ]
+polo2004333 bets (160)
+Kl3m3n raises (520) to 520
+polo2004333 calls (360)
+** Summary **
+Main Pot: 1780
+Board: [ 2s 4d Ac Ad 9d  ]
+
+hatoka balance 1920, lost 40 (folded)
+polo2004333 balance 1160, lost 840 [ 9c Ks ] [ two pairs, Aces and Nines -- Ac,Ad,Ks,9c,9d ]
+
+ahrack balance 2000, didn't bet (folded)
+haber44 balance 4360, didn't bet (folded)
+SjoerdC balance 1720, didn't bet (folded)
+Ewout11 balance 1920, lost 40 (folded)
+Kl3m3n balance 2740, bet 840, collected 1780, net +940 [ Qd Kd ] [ a flush, Ace high -- Ad,Kd,Qd,9d,4d ]
+nikokos2804 balance 2280, didn't bet (folded)
+bencinam balance 1900, lost 20 (folded)
+
+***** Hand History for Game 6014239295 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33684062)  - Tue May 29 15:03:15 EDT 2007
+Table Speed 1331671 (Real Money) -- Seat 10 is the button
+Total number of players : 9
+Seat 1: hatoka (1920)
+Seat 3: polo2004333 (1160)
+Seat 4: ahrack (2000)
+Seat 5: haber44 (4360)
+Seat 6: SjoerdC (1720)
+Seat 7: Ewout11 (1920)
+Seat 8: Kl3m3n (2740)
+Seat 9: nikokos2804 (2280)
+Seat 10: bencinam (1900)
+hatoka  posts small blind (20)
+polo2004333  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ Jh, As ]
+ahrack folds.
+haber44 folds.
+SjoerdC folds.
+Ewout11 raises (80) to 80
+Kl3m3n calls (80)
+nikokos2804 folds.
+bencinam folds.
+hatoka calls (60)
+polo2004333 calls (40)
+** Dealing Flop ** :  [ 5s, 8s, Td ]
+hatoka checks.
+polo2004333 checks.
+Ewout11 bets (80)
+Kl3m3n calls (80)
+hatoka folds.
+polo2004333 folds.
+** Dealing Turn ** :  [ Th ]
+Ewout11 bets (80)
+Kl3m3n calls (80)
+** Dealing River ** :  [ Jc ]
+Ewout11 bets (160)
+Kl3m3n calls (160)
+** Summary **
+Main Pot: 960
+Board: [ 5s 8s Td Th Jc  ]
+
+hatoka balance 1840, lost 80 (folded)
+polo2004333 balance 1080, lost 80 (folded)
+ahrack balance 2000, didn't bet (folded)
+haber44 balance 4360, didn't bet (folded)
+SjoerdC balance 1720, didn't bet (folded)
+Ewout11 balance 1520, lost 400 [ Ad Qh ] [ a pair of Tens -- Ad,Qh,Jc,Td,Th ]
+Kl3m3n balance 3300, bet 400, collected 960, net +560 [ Ks Js ] [ two pairs, Jacks and Tens -- Ks,Js,Jc,Td,Th ]
+nikokos2804 balance 2280, didn't bet (folded)
+bencinam balance 1900, didn't bet (folded)
+
+***** Hand History for Game 6014242415 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33684062)  - Tue May 29 15:04:01 EDT 2007
+Table Speed 1331671 (Real Money) -- Seat 1 is the button
+Total number of players : 9
+Seat 1: hatoka (1840)
+Seat 3: polo2004333 (1080)
+Seat 4: ahrack (2000)
+Seat 5: haber44 (4360)
+Seat 6: SjoerdC (1720)
+Seat 7: Ewout11 (1520)
+Seat 8: Kl3m3n (3300)
+Seat 9: nikokos2804 (2280)
+Seat 10: bencinam (1900)
+polo2004333  posts small blind (20)
+ahrack  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ Ac, 3s ]
+haber44 folds.
+SjoerdC folds.
+Ewout11 calls (40)
+Kl3m3n calls (40)
+nikokos2804 calls (40)
+bencinam folds.
+hatoka folds.
+polo2004333 folds.
+ahrack checks.
+** Dealing Flop ** :  [ 4h, 5s, Kc ]
+ahrack checks.
+Ewout11 bets (180)
+Kl3m3n folds.
+nikokos2804 folds.
+ahrack folds.
+** Summary **
+Main Pot: 180
+Board: [ 4h 5s Kc  ]
+
+hatoka balance 1840, didn't bet (folded)
+polo2004333 balance 1060, lost 20 (folded)
+ahrack balance 1960, lost 40 (folded)
+haber44 balance 4360, didn't bet (folded)
+SjoerdC balance 1720, didn't bet (folded)
+Ewout11 balance 1660, bet 220, collected 360, net +140
+Kl3m3n balance 3260, lost 40 (folded)
+nikokos2804 balance 2240, lost 40 (folded)
+bencinam balance 1900, didn't bet (folded)
+
+***** Hand History for Game 6014246015 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33684062)  - Tue May 29 15:04:55 EDT 2007
+Table Speed 1331671 (Real Money) -- Seat 3 is the button
+Total number of players : 9
+Seat 1: hatoka (1840)
+Seat 3: polo2004333 (1060)
+Seat 4: ahrack (1960)
+Seat 5: haber44 (4360)
+Seat 6: SjoerdC (1720)
+Seat 7: Ewout11 (1660)
+Seat 8: Kl3m3n (3260)
+Seat 9: nikokos2804 (2240)
+Seat 10: bencinam (1900)
+ahrack  posts small blind (30)
+haber44  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 8h, Qh ]
+SjoerdC folds.
+Ewout11 raises (300) to 300
+Kl3m3n folds.
+nikokos2804 calls (300)
+bencinam folds.
+hatoka folds.
+polo2004333 folds.
+ahrack folds.
+haber44 folds.
+** Dealing Flop ** :  [ 5d, 3c, Kc ]
+Ewout11 bets (240)
+nikokos2804 calls (240)
+** Dealing Turn ** :  [ 8c ]
+Ewout11 bets (240)
+nikokos2804 calls (240)
+** Dealing River ** :  [ Th ]
+Ewout11 bets (360)
+nikokos2804 raises (1200) to 1200
+Ewout11 calls (520)
+Ewout11 is all-In.
+Creating Main Pot with $3410 with Ewout11
+** Summary **
+Main Pot: 3410
+Board: [ 5d 3c Kc 8c Th  ]
+
+hatoka balance 1840, didn't bet (folded)
+polo2004333 balance 1060, didn't bet (folded)
+ahrack balance 1930, lost 30 (folded)
+haber44 balance 4300, lost 60 (folded)
+SjoerdC balance 1720, didn't bet (folded)
+Ewout11 balance 0, lost 1660 [ Jc Jh ] [ a pair of Jacks -- Kc,Jc,Jh,Th,8c ]
+Kl3m3n balance 3260, didn't bet (folded)
+nikokos2804 balance 3990, bet 1980, collected 3730, net +1750 [ Ac 7c ] [ a flush, Ace high -- Ac,Kc,8c,7c,3c ]
+bencinam balance 1900, didn't bet (folded)
+
+***** Hand History for Game 6014250565 *****
+Ewout11 finished in 9 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33684062)  - Tue May 29 15:06:03 EDT 2007
+Table Speed 1331671 (Real Money) -- Seat 4 is the button
+Total number of players : 8
+Seat 1: hatoka (1840)
+Seat 3: polo2004333 (1060)
+Seat 4: ahrack (1930)
+Seat 5: haber44 (4300)
+Seat 6: SjoerdC (1720)
+Seat 8: Kl3m3n (3260)
+Seat 9: nikokos2804 (3990)
+Seat 10: bencinam (1900)
+haber44  posts small blind (30)
+SjoerdC  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 5s, 5h ]
+Kl3m3n folds.
+nikokos2804 folds.
+bencinam folds.
+hatoka raises (180) to 180
+polo2004333 folds.
+ahrack folds.
+haber44 folds.
+SjoerdC calls (120)
+** Dealing Flop ** :  [ Qh, 3c, 9d ]
+SjoerdC checks.
+hatoka bets (400)
+SjoerdC folds.
+** Summary **
+Main Pot: 390
+Board: [ Qh 3c 9d  ]
+
+hatoka balance 2050, bet 580, collected 790, net +210
+polo2004333 balance 1060, didn't bet (folded)
+ahrack balance 1930, didn't bet (folded)
+haber44 balance 4270, lost 30 (folded)
+SjoerdC balance 1540, lost 180 (folded)
+Kl3m3n balance 3260, didn't bet (folded)
+nikokos2804 balance 3990, didn't bet (folded)
+bencinam balance 1900, didn't bet (folded)
+
+***** Hand History for Game 6014252858 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33684062)  - Tue May 29 15:06:38 EDT 2007
+Table Speed 1331671 (Real Money) -- Seat 5 is the button
+Total number of players : 8
+Seat 1: hatoka (2050)
+Seat 3: polo2004333 (1060)
+Seat 4: ahrack (1930)
+Seat 5: haber44 (4270)
+Seat 6: SjoerdC (1540)
+Seat 8: Kl3m3n (3260)
+Seat 9: nikokos2804 (3990)
+Seat 10: bencinam (1900)
+SjoerdC  posts small blind (30)
+Kl3m3n  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 9s, As ]
+nikokos2804 raises (300) to 300
+bencinam folds.
+hatoka calls (300)
+polo2004333 folds.
+ahrack folds.
+haber44 folds.
+SjoerdC folds.
+Kl3m3n folds.
+** Dealing Flop ** :  [ Qc, Ah, Ts ]
+nikokos2804 checks.
+hatoka bets (300)
+nikokos2804 calls (300)
+** Dealing Turn ** :  [ Qs ]
+nikokos2804 checks.
+hatoka checks.
+** Dealing River ** :  [ 4s ]
+nikokos2804 checks.
+hatoka bets (500)
+nikokos2804 calls (500)
+** Summary **
+Main Pot: 2290
+Board: [ Qc Ah Ts Qs 4s  ]
+
+hatoka balance 3240, bet 1100, collected 2290, net +1190 [ 9s As ] [ a flush, Ace high -- As,Qs,Ts,9s,4s ]
+polo2004333 balance 1060, didn't bet (folded)
+ahrack balance 1930, didn't bet (folded)
+haber44 balance 4270, didn't bet (folded)
+SjoerdC balance 1510, lost 30 (folded)
+Kl3m3n balance 3200, lost 60 (folded)
+nikokos2804 balance 2890, lost 1100 [ Ks Kc ] [ two pairs, Kings and Queens -- Ah,Ks,Kc,Qc,Qs ]
+
+bencinam balance 1900, didn't bet (folded)
+
+***** Hand History for Game 6014255906 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33684062)  - Tue May 29 15:07:24 EDT 2007
+Table Speed 1331671 (Real Money) -- Seat 6 is the button
+Total number of players : 8
+Seat 1: hatoka (3240)
+Seat 3: polo2004333 (1060)
+Seat 4: ahrack (1930)
+Seat 5: haber44 (4270)
+Seat 6: SjoerdC (1510)
+Seat 8: Kl3m3n (3200)
+Seat 9: nikokos2804 (2890)
+Seat 10: bencinam (1900)
+Kl3m3n  posts small blind (30)
+nikokos2804  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 3h, Js ]
+bencinam folds.
+hatoka folds.
+polo2004333 folds.
+ahrack folds.
+haber44 folds.
+SjoerdC folds.
+Kl3m3n could not respond in time.(disconnected)
+Kl3m3n folds.
+** Summary **
+Main Pot: 60
+
+hatoka balance 3240, didn't bet (folded)
+polo2004333 balance 1060, didn't bet (folded)
+ahrack balance 1930, didn't bet (folded)
+haber44 balance 4270, didn't bet (folded)
+SjoerdC balance 1510, didn't bet (folded)
+Kl3m3n balance 3170, lost 30 (folded)
+nikokos2804 balance 2920, bet 60, collected 90, net +30
+bencinam balance 1900, didn't bet (folded)
+
+***** Hand History for Game 6014257959 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33684062)  - Tue May 29 15:07:55 EDT 2007
+Table Speed 1331671 (Real Money) -- Seat 8 is the button
+Total number of players : 8
+Seat 1: hatoka (3240)
+Seat 3: polo2004333 (1060)
+Seat 4: ahrack (1930)
+Seat 5: haber44 (4270)
+Seat 6: SjoerdC (1510)
+Seat 8: Kl3m3n (3170)
+Seat 9: nikokos2804 (2920)
+Seat 10: bencinam (1900)
+nikokos2804  posts small blind (30)
+bencinam  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 9h, 8h ]
+hatoka calls (60)
+polo2004333 folds.
+ahrack calls (60)
+haber44 calls (60)
+SjoerdC folds.
+Kl3m3n folds.
+nikokos2804 folds.
+bencinam checks.
+** Dealing Flop ** :  [ Ad, 7c, 6s ]
+bencinam checks.
+hatoka bets (300)
+ahrack calls (300)
+haber44 folds.
+bencinam folds.
+** Dealing Turn ** :  [ 5d ]
+hatoka bets (2880)
+hatoka is all-In.
+ahrack calls (1570)
+ahrack is all-In.
+** Dealing River ** :  [ 5c ]
+Creating Main Pot with $4010 with ahrack
+** Summary **
+Main Pot: 4010
+Board: [ Ad 7c 6s 5d 5c  ]
+
+hatoka balance 1310, bet 3240, collected 1310, lost -1930 [ 9h 8h ] [ a straight Five to Nine -- 9h,8h,7c,6s,5d ]
+polo2004333 balance 1060, didn't bet (folded)
+ahrack balance 4010, bet 1930, collected 4010, net +2080 [ 6c 5s ] [ a full house, Fives full of Sixes -- 6c,6s,5s,5d,5c ]
+haber44 balance 4210, lost 60 (folded)
+SjoerdC balance 1510, didn't bet (folded)
+Kl3m3n balance 3170, didn't bet (folded)
+nikokos2804 balance 2890, lost 30 (folded)
+bencinam balance 1840, lost 60 (folded)
+
+***** Hand History for Game 6014260615 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33684062)  - Tue May 29 15:08:36 EDT 2007
+Table Speed 1331671 (Real Money) -- Seat 9 is the button
+Total number of players : 8
+Seat 1: hatoka (1310)
+Seat 3: polo2004333 (1060)
+Seat 4: ahrack (4010)
+Seat 5: haber44 (4210)
+Seat 6: SjoerdC (1510)
+Seat 8: Kl3m3n (3170)
+Seat 9: nikokos2804 (2890)
+Seat 10: bencinam (1840)
+bencinam  posts small blind (30)
+hatoka  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 2h, 2c ]
+polo2004333 raises (1060) to 1060
+polo2004333 is all-In.
+ahrack calls (1060)
+haber44 folds.
+SjoerdC folds.
+Kl3m3n folds.
+nikokos2804 folds.
+bencinam folds.
+hatoka folds.
+** Dealing Flop ** :  [ Ac, 9d, Td ]
+** Dealing Turn ** :  [ 6c ]
+** Dealing River ** :  [ Kd ]
+Creating Main Pot with $2210 with polo2004333
+** Summary **
+Main Pot: 2210
+Board: [ Ac 9d Td 6c Kd  ]
+
+hatoka balance 1250, lost 60 (folded)
+polo2004333 balance 0, lost 1060 [ Jc Js ] [ a pair of Jacks -- Ac,Kd,Jc,Js,Td ]
+ahrack balance 5160, bet 1060, collected 2210, net +1150 [ Qh Qs ] [ a pair of Queens -- Ac,Kd,Qh,Qs,Td ]
+haber44 balance 4210, didn't bet (folded)
+SjoerdC balance 1510, didn't bet (folded)
+Kl3m3n balance 3170, didn't bet (folded)
+nikokos2804 balance 2890, didn't bet (folded)
+bencinam balance 1810, lost 30 (folded)
+
+***** Hand History for Game 6014262575 *****
+polo2004333 finished in 8 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33684062)  - Tue May 29 15:09:05 EDT 2007
+Table Speed 1331671 (Real Money) -- Seat 10 is the button
+Total number of players : 7
+Seat 1: hatoka (1250)
+Seat 4: ahrack (5160)
+Seat 5: haber44 (4210)
+Seat 6: SjoerdC (1510)
+Seat 8: Kl3m3n (3170)
+Seat 9: nikokos2804 (2890)
+Seat 10: bencinam (1810)
+hatoka  posts small blind (30)
+ahrack  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 3d, 9c ]
+haber44 calls (60)
+SjoerdC raises (540) to 540
+Kl3m3n folds.
+nikokos2804 folds.
+bencinam folds.
+hatoka folds.
+ahrack folds.
+haber44 raises (960) to 1020
+SjoerdC calls (480)
+** Dealing Flop ** :  [ 5d, 3h, Tc ]
+haber44 bets (660)
+SjoerdC calls (490)
+SjoerdC is all-In.
+** Dealing Turn ** :  [ 9s ]
+** Dealing River ** :  [ Ac ]
+Creating Main Pot with $3110 with SjoerdC
+** Summary **
+Main Pot: 3110
+Board: [ 5d 3h Tc 9s Ac  ]
+
+hatoka balance 1220, lost 30 (folded)
+ahrack balance 5100, lost 60 (folded)
+haber44 balance 2700, bet 1680, collected 170, lost -1510 [ Jc Kc ] [ high card Ace -- Ac,Kc,Jc,Tc,9s ]
+SjoerdC balance 3110, bet 1510, collected 3110, net +1600 [ 5s As ] [ two pairs, Aces and Fives -- As,Ac,Tc,5s,5d ]
+Kl3m3n balance 3170, didn't bet (folded)
+nikokos2804 balance 2890, didn't bet (folded)
+bencinam balance 1810, didn't bet (folded)
+
+***** Hand History for Game 6014264913 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33684062)  - Tue May 29 15:09:41 EDT 2007
+Table Speed 1331671 (Real Money) -- Seat 1 is the button
+Total number of players : 7
+Seat 1: hatoka (1220)
+Seat 4: ahrack (5100)
+Seat 5: haber44 (2700)
+Seat 6: SjoerdC (3110)
+Seat 8: Kl3m3n (3170)
+Seat 9: nikokos2804 (2890)
+Seat 10: bencinam (1810)
+ahrack  posts small blind (30)
+haber44  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 9d, 3h ]
+SjoerdC folds.
+Kl3m3n folds.
+nikokos2804 raises (300) to 300
+bencinam folds.
+hatoka folds.
+ahrack raises (510) to 540
+haber44 folds.
+nikokos2804 calls (240)
+** Dealing Flop ** :  [ 2s, 9h, 8d ]
+ahrack bets (180)
+nikokos2804 calls (180)
+** Dealing Turn ** :  [ 5d ]
+ahrack checks.
+nikokos2804 bets (780)
+ahrack calls (780)
+** Dealing River ** :  [ Jh ]
+ahrack bets (3600)
+ahrack is all-In.
+nikokos2804 calls (1390)
+nikokos2804 is all-In.
+Creating Main Pot with $5840 with nikokos2804
+** Summary **
+Main Pot: 5840
+Board: [ 2s 9h 8d 5d Jh  ]
+
+hatoka balance 1220, didn't bet (folded)
+ahrack balance 5130, bet 5100, collected 5130, net +30 [ Jc Ac ] [ a pair of Jacks -- Ac,Jc,Jh,9h,8d ]
+haber44 balance 2640, lost 60 (folded)
+SjoerdC balance 3110, didn't bet (folded)
+Kl3m3n balance 3170, didn't bet (folded)
+nikokos2804 balance 2920, bet 2890, collected 2920, net +30 [ Jd Ah ] [ a pair of Jacks -- Ah,Jd,Jh,9h,8d ]
+bencinam balance 1810, didn't bet (folded)
+
+***** Hand History for Game 6014268437 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33684062)  - Tue May 29 15:10:35 EDT 2007
+Table Speed 1331671 (Real Money) -- Seat 4 is the button
+Total number of players : 7
+Seat 1: hatoka (1220)
+Seat 4: ahrack (5130)
+Seat 5: haber44 (2640)
+Seat 6: SjoerdC (3110)
+Seat 8: Kl3m3n (3170)
+Seat 9: nikokos2804 (2920)
+Seat 10: bencinam (1810)
+haber44  posts small blind (50)
+SjoerdC  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 6h, 8h ]
+Kl3m3n folds.
+nikokos2804 folds.
+bencinam folds.
+hatoka folds.
+ahrack folds.
+haber44 calls (50)
+SjoerdC checks.
+** Dealing Flop ** :  [ Jc, 7h, 9d ]
+haber44 bets (100)
+SjoerdC folds.
+** Summary **
+Main Pot: 200
+Board: [ Jc 7h 9d  ]
+
+hatoka balance 1220, didn't bet (folded)
+ahrack balance 5130, didn't bet (folded)
+haber44 balance 2740, bet 200, collected 300, net +100
+SjoerdC balance 3010, lost 100 (folded)
+Kl3m3n balance 3170, didn't bet (folded)
+nikokos2804 balance 2920, didn't bet (folded)
+bencinam balance 1810, didn't bet (folded)
+
+***** Hand History for Game 6014269809 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33684062)  - Tue May 29 15:10:55 EDT 2007
+Table Speed 1331671 (Real Money) -- Seat 5 is the button
+Total number of players : 7
+Seat 1: hatoka (1220)
+Seat 4: ahrack (5130)
+Seat 5: haber44 (2740)
+Seat 6: SjoerdC (3010)
+Seat 8: Kl3m3n (3170)
+Seat 9: nikokos2804 (2920)
+Seat 10: bencinam (1810)
+SjoerdC  posts small blind (50)
+Kl3m3n  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Kc, 6h ]
+nikokos2804 calls (100)
+bencinam folds.
+hatoka folds.
+ahrack calls (100)
+haber44 calls (100)
+SjoerdC folds.
+Kl3m3n checks.
+** Dealing Flop ** :  [ As, 6s, Jc ]
+Kl3m3n checks.
+nikokos2804 bets (500)
+ahrack folds.
+haber44 folds.
+Kl3m3n folds.
+** Summary **
+Main Pot: 450
+Board: [ As 6s Jc  ]
+
+hatoka balance 1220, didn't bet (folded)
+ahrack balance 5030, lost 100 (folded)
+haber44 balance 2640, lost 100 (folded)
+SjoerdC balance 2960, lost 50 (folded)
+Kl3m3n balance 3070, lost 100 (folded)
+nikokos2804 balance 3270, bet 600, collected 950, net +350
+bencinam balance 1810, didn't bet (folded)
+
+***** Hand History for Game 6014272807 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33684062)  - Tue May 29 15:11:39 EDT 2007
+Table Speed 1331671 (Real Money) -- Seat 6 is the button
+Total number of players : 7
+Seat 1: hatoka (1220)
+Seat 4: ahrack (5030)
+Seat 5: haber44 (2640)
+Seat 6: SjoerdC (2960)
+Seat 8: Kl3m3n (3070)
+Seat 9: nikokos2804 (3270)
+Seat 10: bencinam (1810)
+Kl3m3n  posts small blind (50)
+nikokos2804  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 5d, Ks ]
+bencinam folds.
+hatoka folds.
+ahrack folds.
+haber44 calls (100)
+SjoerdC folds.
+Kl3m3n folds.
+nikokos2804 checks.
+** Dealing Flop ** :  [ 6s, 4c, Qc ]
+nikokos2804 checks.
+haber44 checks.
+** Dealing Turn ** :  [ 8h ]
+nikokos2804 checks.
+haber44 checks.
+** Dealing River ** :  [ Ah ]
+nikokos2804 checks.
+haber44 checks.
+** Summary **
+Main Pot: 250
+Board: [ 6s 4c Qc 8h Ah  ]
+
+hatoka balance 1220, didn't bet (folded)
+ahrack balance 5030, didn't bet (folded)
+haber44 balance 2540, lost 100 [ 2s 7s ] [ high card Ace -- Ah,Qc,8h,7s,6s ]
+
+SjoerdC balance 2960, didn't bet (folded)
+Kl3m3n balance 3020, lost 50 (folded)
+nikokos2804 balance 3420, bet 100, collected 250, net +150 [ Kh 4s ] [ a pair of Fours -- Ah,Kh,Qc,4s,4c ]
+bencinam balance 1810, didn't bet (folded)
+
+***** Hand History for Game 6014274353 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33684062)  - Tue May 29 15:12:02 EDT 2007
+Table Speed 1331671 (Real Money) -- Seat 8 is the button
+Total number of players : 7
+Seat 1: hatoka (1220)
+Seat 4: ahrack (5030)
+Seat 5: haber44 (2540)
+Seat 6: SjoerdC (2960)
+Seat 8: Kl3m3n (3020)
+Seat 9: nikokos2804 (3420)
+Seat 10: bencinam (1810)
+nikokos2804  posts small blind (50)
+bencinam  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Qh, 2c ]
+hatoka folds.
+ahrack calls (100)
+haber44 folds.
+SjoerdC folds.
+Kl3m3n folds.
+nikokos2804 calls (50)
+bencinam checks.
+** Dealing Flop ** :  [ 4h, Js, Jh ]
+nikokos2804 checks.
+bencinam checks.
+ahrack checks.
+** Dealing Turn ** :  [ 6h ]
+nikokos2804 bets (400)
+bencinam calls (400)
+ahrack calls (400)
+** Dealing River ** :  [ 4c ]
+nikokos2804 checks.
+bencinam bets (600)
+ahrack calls (600)
+nikokos2804 calls (600)
+** Summary **
+Main Pot: 3300
+Board: [ 4h Js Jh 6h 4c  ]
+
+hatoka balance 1220, didn't bet (folded)
+ahrack balance 3930, lost 1100 [ Ad 6c ] [ two pairs, Jacks and Sixes -- Ad,Js,Jh,6c,6h ]
+
+haber44 balance 2540, didn't bet (folded)
+SjoerdC balance 2960, didn't bet (folded)
+Kl3m3n balance 3020, didn't bet (folded)
+nikokos2804 balance 2320, lost 1100 [ 3h Kh ] [ a flush, King high -- Kh,Jh,6h,4h,3h ]
+
+bencinam balance 4010, bet 1100, collected 3300, net +2200 [ Jc 7s ] [ a full house, Jacks full of Fours -- Jc,Js,Jh,4h,4c ]
+
+***** Hand History for Game 6014277421 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33684062)  - Tue May 29 15:12:47 EDT 2007
+Table Speed 1331671 (Real Money) -- Seat 9 is the button
+Total number of players : 7
+Seat 1: hatoka (1220)
+Seat 4: ahrack (3930)
+Seat 5: haber44 (2540)
+Seat 6: SjoerdC (2960)
+Seat 8: Kl3m3n (3020)
+Seat 9: nikokos2804 (2320)
+Seat 10: bencinam (4010)
+bencinam  posts small blind (50)
+hatoka  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 8d, 7c ]
+ahrack folds.
+haber44 folds.
+SjoerdC folds.
+Kl3m3n folds.
+nikokos2804 folds.
+bencinam folds.
+** Summary **
+Main Pot: 100
+
+hatoka balance 1270, bet 100, collected 150, net +50
+ahrack balance 3930, didn't bet (folded)
+haber44 balance 2540, didn't bet (folded)
+SjoerdC balance 2960, didn't bet (folded)
+Kl3m3n balance 3020, didn't bet (folded)
+nikokos2804 balance 2320, didn't bet (folded)
+bencinam balance 3960, lost 50 (folded)
+
+***** Hand History for Game 6014278335 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33684062)  - Tue May 29 15:13:00 EDT 2007
+Table Speed 1331671 (Real Money) -- Seat 10 is the button
+Total number of players : 7
+Seat 1: hatoka (1270)
+Seat 4: ahrack (3930)
+Seat 5: haber44 (2540)
+Seat 6: SjoerdC (2960)
+Seat 8: Kl3m3n (3020)
+Seat 9: nikokos2804 (2320)
+Seat 10: bencinam (3960)
+hatoka  posts small blind (50)
+ahrack  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 9c, 3d ]
+haber44 raises (200) to 200
+SjoerdC folds.
+Kl3m3n folds.
+nikokos2804 calls (200)
+bencinam folds.
+hatoka folds.
+ahrack calls (100)
+** Dealing Flop ** :  [ 5c, 5h, 9h ]
+ahrack bets (100)
+haber44 calls (100)
+nikokos2804 folds.
+** Dealing Turn ** :  [ Ah ]
+ahrack checks.
+haber44 checks.
+** Dealing River ** :  [ Qs ]
+ahrack checks.
+haber44 bets (1500)
+ahrack folds.
+** Summary **
+Main Pot: 850
+Board: [ 5c 5h 9h Ah Qs  ]
+
+hatoka balance 1220, lost 50 (folded)
+ahrack balance 3630, lost 300 (folded)
+haber44 balance 3090, bet 1800, collected 2350, net +550
+SjoerdC balance 2960, didn't bet (folded)
+Kl3m3n balance 3020, didn't bet (folded)
+nikokos2804 balance 2120, lost 200 (folded)
+bencinam balance 3960, didn't bet (folded)
+
+***** Hand History for Game 6014283620 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33684062)  - Tue May 29 15:14:18 EDT 2007
+Table Speed 1331671 (Real Money) -- Seat 1 is the button
+Total number of players : 7
+Seat 1: hatoka (1220)
+Seat 4: ahrack (3630)
+Seat 5: haber44 (3090)
+Seat 6: SjoerdC (2960)
+Seat 8: Kl3m3n (3020)
+Seat 9: nikokos2804 (2120)
+Seat 10: bencinam (3960)
+ahrack  posts small blind (50)
+haber44  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Jd, 4h ]
+SjoerdC raises (300) to 300
+Kl3m3n folds.
+nikokos2804 calls (300)
+bencinam folds.
+hatoka folds.
+ahrack folds.
+haber44 calls (200)
+** Dealing Flop ** :  [ 9c, 3d, Jc ]
+haber44 checks.
+SjoerdC bets (300)
+nikokos2804 raises (1820) to 1820
+nikokos2804 is all-In.
+haber44 calls (1820)
+SjoerdC raises (2360) to 2660
+SjoerdC is all-In.
+haber44 calls (840)
+** Dealing Turn ** :  [ Qd ]
+** Dealing River ** :  [ 8h ]
+Creating Main Pot with $6410 with nikokos2804
+Creating Side Pot 1 with $1680 with SjoerdC
+** Summary **
+Main Pot: 6410 | Side Pot 1: 1680
+Board: [ 9c 3d Jc Qd 8h  ]
+
+hatoka balance 1220, didn't bet (folded)
+ahrack balance 3580, lost 50 (folded)
+haber44 balance 130, lost 2960 [ Jh Kd ] [ a pair of Jacks -- Kd,Qd,Jh,Jc,9c ]
+SjoerdC balance 8090, bet 2960, collected 8090, net +5130 [ Tc Qh ] [ a straight Eight to Queen -- Qh,Jc,Tc,9c,8h ]
+Kl3m3n balance 3020, didn't bet (folded)
+nikokos2804 balance 0, lost 2120 [ Ac 3s ] [ a pair of Threes -- Ac,Qd,Jc,3s,3d ]
+bencinam balance 3960, didn't bet (folded)
+
+***** Hand History for Game 6014286345 *****
+nikokos2804 finished in 7 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33684062)  - Tue May 29 15:14:59 EDT 2007
+Table Speed 1331671 (Real Money) -- Seat 4 is the button
+Total number of players : 6
+Seat 1: hatoka (1220)
+Seat 4: ahrack (3580)
+Seat 5: haber44 (130)
+Seat 6: SjoerdC (8090)
+Seat 8: Kl3m3n (3020)
+Seat 10: bencinam (3960)
+haber44  posts small blind (50)
+SjoerdC  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 7c, 8s ]
+Kl3m3n raises (200) to 200
+bencinam folds.
+hatoka folds.
+ahrack folds.
+haber44 calls (80)
+haber44 is all-In.
+SjoerdC calls (100)
+Creating Main Pot with $390 with haber44
+** Dealing Flop ** :  [ Qd, As, 3d ]
+SjoerdC checks.
+Kl3m3n bets (200)
+SjoerdC folds.
+** Dealing Turn ** :  [ Ks ]
+** Dealing River ** :  [ 7h ]
+** Summary **
+Main Pot: 390 | Side Pot 1: 140
+Board: [ Qd As 3d Ks 7h  ]
+
+hatoka balance 1220, didn't bet (folded)
+ahrack balance 3580, didn't bet (folded)
+haber44 balance 0, lost 130 [ 8h Qc ] [ a pair of Queens -- As,Ks,Qc,Qd,8h ]
+SjoerdC balance 7890, lost 200 (folded)
+Kl3m3n balance 3350, bet 400, collected 730, net +330 [ 9c Ah ] [ a pair of Aces -- Ah,As,Ks,Qd,9c ]
+bencinam balance 3960, didn't bet (folded)
+
+***** Hand History for Game 6014288134 *****
+haber44 finished in 6 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33684062)  - Tue May 29 15:15:25 EDT 2007
+Table Speed 1331671 (Real Money) -- Seat 4 is the button
+Total number of players : 5
+Seat 1: hatoka (1220)
+Seat 4: ahrack (3580)
+Seat 6: SjoerdC (7890)
+Seat 8: Kl3m3n (3350)
+Seat 10: bencinam (3960)
+SjoerdC  posts small blind (50)
+Kl3m3n  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 8d, 9d ]
+bencinam raises (300) to 300
+hatoka folds.
+ahrack folds.
+SjoerdC folds.
+Kl3m3n folds.
+** Summary **
+Main Pot: 250
+
+hatoka balance 1220, didn't bet (folded)
+ahrack balance 3580, didn't bet (folded)
+SjoerdC balance 7840, lost 50 (folded)
+Kl3m3n balance 3250, lost 100 (folded)
+bencinam balance 4110, bet 300, collected 450, net +150
+
+***** Hand History for Game 6014289723 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33684062)  - Tue May 29 15:15:49 EDT 2007
+Table Speed 1331671 (Real Money) -- Seat 6 is the button
+Total number of players : 5
+Seat 1: hatoka (1220)
+Seat 4: ahrack (3580)
+Seat 6: SjoerdC (7840)
+Seat 8: Kl3m3n (3250)
+Seat 10: bencinam (4110)
+Kl3m3n  posts small blind (100)
+bencinam  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 4d, 4c ]
+hatoka raises (400) to 400
+ahrack calls (400)
+SjoerdC folds.
+Kl3m3n folds.
+bencinam folds.
+** Dealing Flop ** :  [ 2c, 8h, 7d ]
+hatoka bets (500)
+ahrack calls (500)
+** Dealing Turn ** :  [ Jc ]
+hatoka checks.
+ahrack checks.
+** Dealing River ** :  [ Jd ]
+hatoka checks.
+ahrack bets (400)
+hatoka calls (320)
+hatoka is all-In.
+Creating Main Pot with $2740 with hatoka
+** Summary **
+Main Pot: 2740
+Board: [ 2c 8h 7d Jc Jd  ]
+
+hatoka balance 2740, bet 1220, collected 2740, net +1520 [ 4d 4c ] [ two pairs, Jacks and Fours -- Jc,Jd,8h,4d,4c ]
+ahrack balance 2360, bet 1300, collected 80, lost -1220 [ Qc 6d ] [ a pair of Jacks -- Qc,Jc,Jd,8h,7d ]
+SjoerdC balance 7840, didn't bet (folded)
+Kl3m3n balance 3150, lost 100 (folded)
+bencinam balance 3910, lost 200 (folded)
+
+***** Hand History for Game 6014293482 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33684062)  - Tue May 29 15:16:46 EDT 2007
+Table Speed 1331671 (Real Money) -- Seat 8 is the button
+Total number of players : 5
+Seat 1: hatoka (2740)
+Seat 4: ahrack (2360)
+Seat 6: SjoerdC (7840)
+Seat 8: Kl3m3n (3150)
+Seat 10: bencinam (3910)
+bencinam  posts small blind (100)
+hatoka  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 6d, Kh ]
+ahrack calls (200)
+SjoerdC folds.
+Kl3m3n folds.
+bencinam calls (100)
+hatoka checks.
+** Dealing Flop ** :  [ 5h, 2c, 9s ]
+bencinam checks.
+hatoka checks.
+ahrack checks.
+** Dealing Turn ** :  [ 6c ]
+bencinam checks.
+hatoka bets (300)
+ahrack calls (300)
+bencinam folds.
+** Dealing River ** :  [ 7h ]
+hatoka bets (200)
+ahrack folds.
+** Summary **
+Main Pot: 1200
+Board: [ 5h 2c 9s 6c 7h  ]
+
+hatoka balance 3440, bet 700, collected 1400, net +700
+ahrack balance 1860, lost 500 (folded)
+SjoerdC balance 7840, didn't bet (folded)
+Kl3m3n balance 3150, didn't bet (folded)
+bencinam balance 3710, lost 200 (folded)
+
+***** Hand History for Game 6014296438 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33684062)  - Tue May 29 15:17:31 EDT 2007
+Table Speed 1331671 (Real Money) -- Seat 10 is the button
+Total number of players : 5
+Seat 1: hatoka (3440)
+Seat 4: ahrack (1860)
+Seat 6: SjoerdC (7840)
+Seat 8: Kl3m3n (3150)
+Seat 10: bencinam (3710)
+hatoka  posts small blind (100)
+ahrack  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 3c, 9h ]
+SjoerdC raises (400) to 400
+Kl3m3n folds.
+bencinam folds.
+hatoka folds.
+ahrack raises (1660) to 1860
+ahrack is all-In.
+SjoerdC folds.
+Creating Main Pot with $900 with ahrack
+** Summary **
+Main Pot: 900
+
+hatoka balance 3340, lost 100 (folded)
+ahrack balance 2360, bet 1860, collected 2360, net +500
+SjoerdC balance 7440, lost 400 (folded)
+Kl3m3n balance 3150, didn't bet (folded)
+bencinam balance 3710, didn't bet (folded)
+
+***** Hand History for Game 6014298053 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33684062)  - Tue May 29 15:17:55 EDT 2007
+Table Speed 1331671 (Real Money) -- Seat 1 is the button
+Total number of players : 5
+Seat 1: hatoka (3340)
+Seat 4: ahrack (2360)
+Seat 6: SjoerdC (7440)
+Seat 8: Kl3m3n (3150)
+Seat 10: bencinam (3710)
+ahrack  posts small blind (100)
+SjoerdC  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Tc, 9d ]
+Kl3m3n folds.
+bencinam folds.
+hatoka folds.
+ahrack calls (100)
+SjoerdC checks.
+** Dealing Flop ** :  [ 9h, Th, Kd ]
+ahrack checks.
+SjoerdC checks.
+** Dealing Turn ** :  [ 5c ]
+ahrack checks.
+SjoerdC bets (200)
+ahrack folds.
+** Summary **
+Main Pot: 400
+Board: [ 9h Th Kd 5c  ]
+
+hatoka balance 3340, didn't bet (folded)
+ahrack balance 2160, lost 200 (folded)
+SjoerdC balance 7640, bet 400, collected 600, net +200
+Kl3m3n balance 3150, didn't bet (folded)
+bencinam balance 3710, didn't bet (folded)
+
+***** Hand History for Game 6014300658 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33684062)  - Tue May 29 15:18:35 EDT 2007
+Table Speed 1331671 (Real Money) -- Seat 4 is the button
+Total number of players : 5
+Seat 1: hatoka (3340)
+Seat 4: ahrack (2160)
+Seat 6: SjoerdC (7640)
+Seat 8: Kl3m3n (3150)
+Seat 10: bencinam (3710)
+SjoerdC  posts small blind (100)
+Kl3m3n  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 5d, 9h ]
+bencinam folds.
+hatoka folds.
+ahrack folds.
+SjoerdC calls (100)
+Kl3m3n checks.
+** Dealing Flop ** :  [ 9c, 9d, 7h ]
+SjoerdC bets (400)
+Kl3m3n folds.
+** Summary **
+Main Pot: 400
+Board: [ 9c 9d 7h  ]
+
+hatoka balance 3340, didn't bet (folded)
+ahrack balance 2160, didn't bet (folded)
+SjoerdC balance 7840, bet 600, collected 800, net +200
+Kl3m3n balance 2950, lost 200 (folded)
+bencinam balance 3710, didn't bet (folded)
+
+***** Hand History for Game 6014301831 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33684062)  - Tue May 29 15:18:53 EDT 2007
+Table Speed 1331671 (Real Money) -- Seat 6 is the button
+Total number of players : 5
+Seat 1: hatoka (3340)
+Seat 4: ahrack (2160)
+Seat 6: SjoerdC (7840)
+Seat 8: Kl3m3n (2950)
+Seat 10: bencinam (3710)
+Kl3m3n  posts small blind (100)
+bencinam  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 9c, 8h ]
+hatoka folds.
+ahrack folds.
+SjoerdC calls (200)
+Kl3m3n raises (2850) to 2950
+Kl3m3n is all-In.
+bencinam folds.
+SjoerdC folds.
+Creating Main Pot with $600 with Kl3m3n
+** Summary **
+Main Pot: 600
+
+hatoka balance 3340, didn't bet (folded)
+ahrack balance 2160, didn't bet (folded)
+SjoerdC balance 7640, lost 200 (folded)
+Kl3m3n balance 3350, bet 2950, collected 3350, net +400
+bencinam balance 3510, lost 200 (folded)
+
+***** Hand History for Game 6014303678 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33684062)  - Tue May 29 15:19:22 EDT 2007
+Table Speed 1331671 (Real Money) -- Seat 8 is the button
+Total number of players : 5
+Seat 1: hatoka (3340)
+Seat 4: ahrack (2160)
+Seat 6: SjoerdC (7640)
+Seat 8: Kl3m3n (3350)
+Seat 10: bencinam (3510)
+bencinam  posts small blind (100)
+hatoka  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 7s, Kh ]
+ahrack folds.
+SjoerdC folds.
+Kl3m3n calls (200)
+bencinam folds.
+hatoka checks.
+** Dealing Flop ** :  [ 3c, 6s, 5h ]
+hatoka bets (200)
+Kl3m3n calls (200)
+** Dealing Turn ** :  [ Th ]
+hatoka checks.
+Kl3m3n bets (200)
+hatoka folds.
+** Summary **
+Main Pot: 900
+Board: [ 3c 6s 5h Th  ]
+
+hatoka balance 2940, lost 400 (folded)
+ahrack balance 2160, didn't bet (folded)
+SjoerdC balance 7640, didn't bet (folded)
+Kl3m3n balance 3850, bet 600, collected 1100, net +500
+bencinam balance 3410, lost 100 (folded)
+
+***** Hand History for Game 6014305622 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33684062)  - Tue May 29 15:19:51 EDT 2007
+Table Speed 1331671 (Real Money) -- Seat 10 is the button
+Total number of players : 5
+Seat 1: hatoka (2940)
+Seat 4: ahrack (2160)
+Seat 6: SjoerdC (7640)
+Seat 8: Kl3m3n (3850)
+Seat 10: bencinam (3410)
+hatoka  posts small blind (100)
+ahrack  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Td, 5s ]
+SjoerdC folds.
+Kl3m3n calls (200)
+bencinam folds.
+hatoka folds.
+ahrack checks.
+** Dealing Flop ** :  [ 4s, 7d, 9d ]
+ahrack checks.
+Kl3m3n bets (400)
+ahrack calls (400)
+** Dealing Turn ** :  [ Kd ]
+ahrack checks.
+Kl3m3n checks.
+** Dealing River ** :  [ Qc ]
+ahrack bets (200)
+Kl3m3n calls (200)
+** Summary **
+Main Pot: 1700
+Board: [ 4s 7d 9d Kd Qc  ]
+
+hatoka balance 2840, lost 100 (folded)
+ahrack balance 3060, bet 800, collected 1700, net +900 [ Qd Ts ] [ a pair of Queens -- Kd,Qd,Qc,Ts,9d ]
+SjoerdC balance 7640, didn't bet (folded)
+Kl3m3n balance 3050, lost 800 [ 5c 4c ] [ a pair of Fours -- Kd,Qc,9d,4c,4s ]
+
+bencinam balance 3410, didn't bet (folded)
+
+***** Hand History for Game 6014308081 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33684062)  - Tue May 29 15:20:28 EDT 2007
+Table Speed 1331671 (Real Money) -- Seat 1 is the button
+Total number of players : 5
+Seat 1: hatoka (2840)
+Seat 4: ahrack (3060)
+Seat 6: SjoerdC (7640)
+Seat 8: Kl3m3n (3050)
+Seat 10: bencinam (3410)
+ahrack  posts small blind (100)
+SjoerdC  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Qd, 3d ]
+Kl3m3n folds.
+bencinam folds.
+hatoka calls (200)
+ahrack calls (100)
+SjoerdC checks.
+** Dealing Flop ** :  [ 7d, 8d, 3c ]
+ahrack checks.
+SjoerdC checks.
+hatoka bets (500)
+ahrack calls (500)
+SjoerdC folds.
+** Dealing Turn ** :  [ 4c ]
+ahrack checks.
+hatoka checks.
+** Dealing River ** :  [ Td ]
+ahrack checks.
+hatoka bets (600)
+ahrack calls (600)
+** Summary **
+Main Pot: 2800
+Board: [ 7d 8d 3c 4c Td  ]
+
+hatoka balance 4340, bet 1300, collected 2800, net +1500 [ Qd 3d ] [ a flush, Queen high -- Qd,Td,8d,7d,3d ]
+ahrack balance 1760, lost 1300 [ 6s 6d ] [ a pair of Sixes -- Td,8d,7d,6s,6d ]
+
+SjoerdC balance 7440, lost 200 (folded)
+Kl3m3n balance 3050, didn't bet (folded)
+bencinam balance 3410, didn't bet (folded)
+
+***** Hand History for Game 6014311342 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33684062)  - Tue May 29 15:21:20 EDT 2007
+Table Speed 1331671 (Real Money) -- Seat 4 is the button
+Total number of players : 5
+Seat 1: hatoka (4340)
+Seat 4: ahrack (1760)
+Seat 6: SjoerdC (7440)
+Seat 8: Kl3m3n (3050)
+Seat 10: bencinam (3410)
+SjoerdC  posts small blind (200)
+Kl3m3n  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 3h, 6h ]
+bencinam raises (3410) to 3410
+bencinam is all-In.
+hatoka folds.
+ahrack folds.
+SjoerdC folds.
+Kl3m3n folds.
+Creating Main Pot with $1000 with bencinam
+** Summary **
+Main Pot: 1000
+
+hatoka balance 4340, didn't bet (folded)
+ahrack balance 1760, didn't bet (folded)
+SjoerdC balance 7240, lost 200 (folded)
+Kl3m3n balance 2650, lost 400 (folded)
+bencinam balance 4010, bet 3410, collected 4010, net +600
+
+***** Hand History for Game 6014312467 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33684062)  - Tue May 29 15:21:37 EDT 2007
+Table Speed 1331671 (Real Money) -- Seat 6 is the button
+Total number of players : 5
+Seat 1: hatoka (4340)
+Seat 4: ahrack (1760)
+Seat 6: SjoerdC (7240)
+Seat 8: Kl3m3n (2650)
+Seat 10: bencinam (4010)
+Kl3m3n  posts small blind (200)
+bencinam  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ Tc, Jd ]
+hatoka folds.
+ahrack folds.
+SjoerdC folds.
+Kl3m3n raises (600) to 800
+bencinam raises (3610) to 4010
+bencinam is all-In.
+Kl3m3n calls (1850)
+Kl3m3n is all-In.
+** Dealing Flop ** :  [ 5h, Ts, 3h ]
+** Dealing Turn ** :  [ Qd ]
+** Dealing River ** :  [ 2d ]
+Creating Main Pot with $5300 with Kl3m3n
+** Summary **
+Main Pot: 5300
+Board: [ 5h Ts 3h Qd 2d  ]
+
+hatoka balance 4340, didn't bet (folded)
+ahrack balance 1760, didn't bet (folded)
+SjoerdC balance 7240, didn't bet (folded)
+Kl3m3n balance 5300, bet 2650, collected 5300, net +2650 [ Ks Kc ] [ a pair of Kings -- Ks,Kc,Qd,Ts,5h ]
+bencinam balance 1360, bet 4010, collected 1360, lost -2650 [ Qs Kd ] [ a pair of Queens -- Kd,Qs,Qd,Ts,5h ]
+
+***** Hand History for Game 6014314394 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33684062)  - Tue May 29 15:22:08 EDT 2007
+Table Speed 1331671 (Real Money) -- Seat 8 is the button
+Total number of players : 5
+Seat 1: hatoka (4340)
+Seat 4: ahrack (1760)
+Seat 6: SjoerdC (7240)
+Seat 8: Kl3m3n (5300)
+Seat 10: bencinam (1360)
+bencinam  posts small blind (200)
+hatoka  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 9s, 2h ]
+ahrack calls (400)
+SjoerdC folds.
+Kl3m3n folds.
+bencinam folds.
+hatoka checks.
+** Dealing Flop ** :  [ Qc, Td, Qd ]
+hatoka checks.
+ahrack checks.
+** Dealing Turn ** :  [ 7d ]
+hatoka bets (400)
+ahrack raises (1360) to 1360
+ahrack is all-In.
+bencinam: kes e mene najdu :P
+hatoka folds.
+Creating Main Pot with $1800 with ahrack
+** Summary **
+Main Pot: 1800
+Board: [ Qc Td Qd 7d  ]
+
+hatoka balance 3540, lost 800 (folded)
+ahrack balance 2760, bet 1760, collected 2760, net +1000
+SjoerdC balance 7240, didn't bet (folded)
+Kl3m3n balance 5300, didn't bet (folded)
+bencinam balance 1160, lost 200 (folded)
+
+***** Hand History for Game 6014316115 *****
+Kl3m3n: u fak
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33684062)  - Tue May 29 15:22:36 EDT 2007
+Table Speed 1331671 (Real Money) -- Seat 10 is the button
+Total number of players : 5
+Seat 1: hatoka (3540)
+Seat 4: ahrack (2760)
+Seat 6: SjoerdC (7240)
+Seat 8: Kl3m3n (5300)
+Seat 10: bencinam (1160)
+hatoka  posts small blind (200)
+ahrack  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 5s, 4d ]
+SjoerdC folds.
+Kl3m3n: sploh nism vedu
+Kl3m3n folds.
+bencinam folds.
+hatoka folds.
+** Summary **
+Main Pot: 400
+
+hatoka balance 3340, lost 200 (folded)
+ahrack balance 2960, bet 400, collected 600, net +200
+SjoerdC balance 7240, didn't bet (folded)
+Kl3m3n balance 5300, didn't bet (folded)
+bencinam balance 1160, didn't bet (folded)
+
+***** Hand History for Game 6014317001 *****
+Kl3m3n: sori
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33684062)  - Tue May 29 15:22:50 EDT 2007
+Table Speed 1331671 (Real Money) -- Seat 1 is the button
+Total number of players : 5
+Seat 1: hatoka (3340)
+Seat 4: ahrack (2960)
+Seat 6: SjoerdC (7240)
+Seat 8: Kl3m3n (5300)
+Seat 10: bencinam (1160)
+ahrack  posts small blind (200)
+SjoerdC  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 2d, 7d ]
+bencinam: ;)
+Kl3m3n folds.
+bencinam folds.
+hatoka folds.
+ahrack calls (200)
+SjoerdC checks.
+** Dealing Flop ** :  [ Qh, Ah, 9s ]
+ahrack checks.
+SjoerdC bets (800)
+ahrack folds.
+** Summary **
+Main Pot: 800
+Board: [ Qh Ah 9s  ]
+
+hatoka balance 3340, didn't bet (folded)
+ahrack balance 2560, lost 400 (folded)
+SjoerdC balance 7640, bet 1200, collected 1600, net +400
+Kl3m3n balance 5300, didn't bet (folded)
+bencinam balance 1160, didn't bet (folded)
+
+***** Hand History for Game 6014318678 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33684062)  - Tue May 29 15:23:18 EDT 2007
+Table Speed 1331671 (Real Money) -- Seat 4 is the button
+Total number of players : 5
+Seat 1: hatoka (3340)
+Seat 4: ahrack (2560)
+Seat 6: SjoerdC (7640)
+Seat 8: Kl3m3n (5300)
+Seat 10: bencinam (1160)
+SjoerdC  posts small blind (200)
+Kl3m3n  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ Tc, 3d ]
+bencinam folds.
+hatoka folds.
+Kl3m3n: kej srece dans?
+ahrack folds.
+SjoerdC calls (200)
+Kl3m3n checks.
+** Dealing Flop ** :  [ 5h, 8s, Kd ]
+bencinam: bl svoh
+SjoerdC checks.
+Kl3m3n checks.
+** Dealing Turn ** :  [ 2h ]
+SjoerdC checks.
+Kl3m3n bets (400)
+SjoerdC folds.
+** Summary **
+Main Pot: 800
+Board: [ 5h 8s Kd 2h  ]
+
+hatoka balance 3340, didn't bet (folded)
+ahrack balance 2560, didn't bet (folded)
+SjoerdC balance 7240, lost 400 (folded)
+Kl3m3n balance 5700, bet 800, collected 1200, net +400
+bencinam balance 1160, didn't bet (folded)
+
+***** Hand History for Game 6014320641 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33684062)  - Tue May 29 15:23:48 EDT 2007
+Table Speed 1331671 (Real Money) -- Seat 6 is the button
+Total number of players : 5
+Seat 1: hatoka (3340)
+Seat 4: ahrack (2560)
+Seat 6: SjoerdC (7240)
+Seat 8: Kl3m3n (5700)
+Seat 10: bencinam (1160)
+Kl3m3n  posts small blind (200)
+bencinam  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ Ts, As ]
+bencinam: z znanjem rahel + vzdrzujem, karte pa ne padajo lih
+hatoka raises (800) to 800
+ahrack folds.
+SjoerdC folds.
+Kl3m3n folds.
+bencinam folds.
+** Summary **
+Main Pot: 1000
+
+hatoka balance 3940, bet 800, collected 1400, net +600
+ahrack balance 2560, didn't bet (folded)
+SjoerdC balance 7240, didn't bet (folded)
+Kl3m3n balance 5500, lost 200 (folded)
+bencinam balance 760, lost 400 (folded)
+
+***** Hand History for Game 6014321668 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33684062)  - Tue May 29 15:24:05 EDT 2007
+Table Speed 1331671 (Real Money) -- Seat 8 is the button
+Total number of players : 5
+Seat 1: hatoka (3940)
+Seat 4: ahrack (2560)
+Seat 6: SjoerdC (7240)
+Seat 8: Kl3m3n (5500)
+Seat 10: bencinam (760)
+bencinam  posts small blind (200)
+hatoka  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 9c, 7d ]
+bencinam: joj slepc en
+ahrack calls (400)
+SjoerdC calls (400)
+Kl3m3n folds.
+bencinam raises (560) to 760
+bencinam is all-In.
+hatoka folds.
+ahrack calls (360)
+SjoerdC calls (360)
+Creating Main Pot with $2680 with bencinam
+** Dealing Flop ** :  [ Jc, Qs, Kc ]
+ahrack checks.
+SjoerdC bets (1600)
+Kl3m3n: nimas kej
+Kl3m3n: poker
+bencinam: to bi blo ok loh
+bencinam: al pa ne
+ahrack folds.
+** Dealing Turn ** :  [ As ]
+bencinam: :)
+** Dealing River ** :  [ 2c ]
+** Summary **
+Main Pot: 2680
+Board: [ Jc Qs Kc As 2c  ]
+
+hatoka balance 3540, lost 400 (folded)
+ahrack balance 1800, lost 760 (folded)
+SjoerdC balance 9160, bet 2360, collected 4280, net +1920 [ 2h Ac ] [ two pairs, Aces and Twos -- Ac,As,Kc,2h,2c ]
+Kl3m3n balance 5500, didn't bet (folded)
+bencinam balance 0, lost 760 [ Jd Kh ] [ two pairs, Kings and Jacks -- As,Kh,Kc,Jd,Jc ]
+
+***** Hand History for Game 6014324307 *****
+bencinam finished in 5 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33684062)  - Tue May 29 15:24:48 EDT 2007
+Table Speed 1331671 (Real Money) -- Seat 8 is the button
+Total number of players : 4
+Seat 1: hatoka (3540)
+Seat 4: ahrack (1800)
+Seat 6: SjoerdC (9160)
+Seat 8: Kl3m3n (5500)
+hatoka  posts small blind (200)
+ahrack  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 9s, Kc ]
+SjoerdC folds.
+Kl3m3n folds.
+hatoka raises (600) to 800
+Kl3m3n: grda
+ahrack calls (400)
+** Dealing Flop ** :  [ 7s, Ac, 6s ]
+hatoka checks.
+ahrack bets (1000)
+ahrack is all-In.
+hatoka folds.
+Creating Main Pot with $1600 with ahrack
+** Summary **
+Main Pot: 1600
+Board: [ 7s Ac 6s  ]
+
+hatoka balance 2740, lost 800 (folded)
+ahrack balance 2600, bet 1800, collected 2600, net +800
+SjoerdC balance 9160, didn't bet (folded)
+Kl3m3n balance 5500, didn't bet (folded)
+
+***** Hand History for Game 6014326080 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33684062)  - Tue May 29 15:25:17 EDT 2007
+Table Speed 1331671 (Real Money) -- Seat 1 is the button
+Total number of players : 4
+Seat 1: hatoka (2740)
+Seat 4: ahrack (2600)
+Seat 6: SjoerdC (9160)
+Seat 8: Kl3m3n (5500)
+ahrack  posts small blind (200)
+SjoerdC  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 9h, 9c ]
+Kl3m3n raises (1200) to 1200
+hatoka calls (1200)
+ahrack folds.
+SjoerdC folds.
+** Dealing Flop ** :  [ Qs, 8c, Ks ]
+Kl3m3n checks.
+hatoka checks.
+** Dealing Turn ** :  [ 9s ]
+Kl3m3n checks.
+hatoka bets (1000)
+Kl3m3n calls (1000)
+** Dealing River ** :  [ 4h ]
+Kl3m3n checks.
+hatoka bets (540)
+hatoka is all-In.
+Kl3m3n folds.
+Creating Main Pot with $5000 with hatoka
+** Summary **
+Main Pot: 5000
+Board: [ Qs 8c Ks 9s 4h  ]
+
+hatoka balance 5540, bet 2740, collected 5540, net +2800
+ahrack balance 2400, lost 200 (folded)
+SjoerdC balance 8760, lost 400 (folded)
+Kl3m3n balance 3300, lost 2200 (folded)
+
+***** Hand History for Game 6014329605 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33684062)  - Tue May 29 15:26:11 EDT 2007
+Table Speed 1331671 (Real Money) -- Seat 4 is the button
+Total number of players : 4
+Seat 1: hatoka (5540)
+Seat 4: ahrack (2400)
+Seat 6: SjoerdC (8760)
+Seat 8: Kl3m3n (3300)
+SjoerdC  posts small blind (200)
+Kl3m3n  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 2h, Qc ]
+hatoka folds.
+ahrack calls (400)
+SjoerdC calls (200)
+Kl3m3n checks.
+** Dealing Flop ** :  [ 5c, 4h, 9h ]
+SjoerdC bets (400)
+Kl3m3n folds.
+ahrack calls (400)
+** Dealing Turn ** :  [ 2s ]
+SjoerdC bets (800)
+ahrack raises (1600) to 1600
+ahrack is all-In.
+SjoerdC calls (800)
+** Dealing River ** :  [ Jh ]
+Creating Main Pot with $5200 with ahrack
+** Summary **
+Main Pot: 5200
+Board: [ 5c 4h 9h 2s Jh  ]
+
+hatoka balance 5540, didn't bet (folded)
+ahrack balance 5200, bet 2400, collected 5200, net +2800 [ Qh 7c ] [ high card Queen -- Qh,Jh,9h,7c,5c ]
+SjoerdC balance 6360, lost 2400 [ 7d 6h ] [ high card Jack -- Jh,9h,7d,6h,5c ]
+Kl3m3n balance 2900, lost 400 (folded)
+
+***** Hand History for Game 6014332556 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33684062)  - Tue May 29 15:26:56 EDT 2007
+Table Speed 1331671 (Real Money) -- Seat 6 is the button
+Total number of players : 4
+Seat 1: hatoka (5540)
+Seat 4: ahrack (5200)
+Seat 6: SjoerdC (6360)
+Seat 8: Kl3m3n (2900)
+Kl3m3n  posts small blind (300)
+hatoka  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ 7h, Td ]
+ahrack calls (600)
+SjoerdC folds.
+Kl3m3n calls (300)
+hatoka checks.
+** Dealing Flop ** :  [ 4s, 8d, 3s ]
+Kl3m3n bets (600)
+hatoka folds.
+ahrack calls (600)
+** Dealing Turn ** :  [ 8s ]
+Kl3m3n bets (600)
+ahrack folds.
+** Summary **
+Main Pot: 3000
+Board: [ 4s 8d 3s 8s  ]
+
+hatoka balance 4940, lost 600 (folded)
+ahrack balance 4000, lost 1200 (folded)
+SjoerdC balance 6360, didn't bet (folded)
+Kl3m3n balance 4700, bet 1800, collected 3600, net +1800
+
+***** Hand History for Game 6014334522 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33684062)  - Tue May 29 15:27:27 EDT 2007
+Table Speed 1331671 (Real Money) -- Seat 8 is the button
+Total number of players : 4
+Seat 1: hatoka (4940)
+Seat 4: ahrack (4000)
+Seat 6: SjoerdC (6360)
+Seat 8: Kl3m3n (4700)
+hatoka  posts small blind (300)
+ahrack  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ 9d, Ac ]
+SjoerdC folds.
+Kl3m3n folds.
+hatoka folds.
+** Summary **
+Main Pot: 600
+
+hatoka balance 4640, lost 300 (folded)
+ahrack balance 4300, bet 600, collected 900, net +300
+SjoerdC balance 6360, didn't bet (folded)
+Kl3m3n balance 4700, didn't bet (folded)
+
+***** Hand History for Game 6014337068 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33684062)  - Tue May 29 15:28:06 EDT 2007
+Table Speed 1331671 (Real Money) -- Seat 1 is the button
+Total number of players : 4
+Seat 1: hatoka (4640)
+Seat 4: ahrack (4300)
+Seat 6: SjoerdC (6360)
+Seat 8: Kl3m3n (4700)
+ahrack  posts small blind (300)
+SjoerdC  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ Jh, Ts ]
+Kl3m3n folds.
+hatoka raises (1200) to 1200
+ahrack folds.
+SjoerdC calls (600)
+** Dealing Flop ** :  [ Th, 6h, 6s ]
+SjoerdC bets (2400)
+hatoka raises (3440) to 3440
+hatoka is all-In.
+SjoerdC calls (1040)
+** Dealing Turn ** :  [ As ]
+** Dealing River ** :  [ Qc ]
+Creating Main Pot with $9580 with hatoka
+** Summary **
+Main Pot: 9580
+Board: [ Th 6h 6s As Qc  ]
+
+hatoka balance 9580, bet 4640, collected 9580, net +4940 [ Jh Ts ] [ two pairs, Tens and Sixes -- As,Ts,Th,6h,6s ]
+ahrack balance 4000, lost 300 (folded)
+SjoerdC balance 1720, lost 4640 [ 4d 4c ] [ two pairs, Sixes and Fours -- As,6h,6s,4d,4c ]
+Kl3m3n balance 4700, didn't bet (folded)
+
+***** Hand History for Game 6014339514 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33684062)  - Tue May 29 15:28:43 EDT 2007
+Table Speed 1331671 (Real Money) -- Seat 4 is the button
+Total number of players : 4
+Seat 1: hatoka (9580)
+Seat 4: ahrack (4000)
+Seat 6: SjoerdC (1720)
+Seat 8: Kl3m3n (4700)
+SjoerdC  posts small blind (300)
+Kl3m3n  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ Qc, 2h ]
+hatoka folds.
+ahrack calls (600)
+SjoerdC folds.
+Kl3m3n raises (600) to 1200
+ahrack calls (600)
+** Dealing Flop ** :  [ Qs, Js, 9d ]
+Kl3m3n checks.
+ahrack checks.
+** Dealing Turn ** :  [ 4c ]
+Kl3m3n bets (600)
+ahrack calls (600)
+** Dealing River ** :  [ 5d ]
+Kl3m3n bets (600)
+ahrack raises (1200) to 1200
+Kl3m3n calls (600)
+** Summary **
+Main Pot: 6300
+Board: [ Qs Js 9d 4c 5d  ]
+
+hatoka balance 9580, didn't bet (folded)
+ahrack balance 1000, lost 3000 [ Ah Td ] [ high card Ace -- Ah,Qs,Js,Td,9d ]
+SjoerdC balance 1420, lost 300 (folded)
+Kl3m3n balance 8000, bet 3000, collected 6300, net +3300 [ 8c 8h ] [ a pair of Eights -- Qs,Js,9d,8c,8h ]
+
+***** Hand History for Game 6014341920 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33684062)  - Tue May 29 15:29:20 EDT 2007
+Table Speed 1331671 (Real Money) -- Seat 6 is the button
+Total number of players : 4
+Seat 1: hatoka (9580)
+Seat 4: ahrack (1000)
+Seat 6: SjoerdC (1420)
+Seat 8: Kl3m3n (8000)
+Kl3m3n  posts small blind (300)
+hatoka  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ Jc, 8h ]
+ahrack raises (1000) to 1000
+ahrack is all-In.
+SjoerdC folds.
+Kl3m3n folds.
+hatoka calls (400)
+** Dealing Flop ** :  [ 4h, Th, 6c ]
+** Dealing Turn ** :  [ Td ]
+** Dealing River ** :  [ 4c ]
+Creating Main Pot with $2300 with ahrack
+** Summary **
+Main Pot: 2300
+Board: [ 4h Th 6c Td 4c  ]
+
+hatoka balance 8580, lost 1000 [ Jc 8h ] [ two pairs, Tens and Fours -- Jc,Th,Td,4h,4c ]
+ahrack balance 2300, bet 1000, collected 2300, net +1300 [ Kd As ] [ two pairs, Tens and Fours with Ace kicker -- As,Th,Td,4h,4c ]
+SjoerdC balance 1420, didn't bet (folded)
+Kl3m3n balance 7700, lost 300 (folded)
+
+***** Hand History for Game 6014343682 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33684062)  - Tue May 29 15:29:47 EDT 2007
+Table Speed 1331671 (Real Money) -- Seat 8 is the button
+Total number of players : 4
+Seat 1: hatoka (8580)
+Seat 4: ahrack (2300)
+Seat 6: SjoerdC (1420)
+Seat 8: Kl3m3n (7700)
+hatoka  posts small blind (300)
+ahrack  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ 2c, Kh ]
+SjoerdC folds.
+Kl3m3n raises (1800) to 1800
+hatoka folds.
+ahrack folds.
+** Summary **
+Main Pot: 1500
+
+hatoka balance 8280, lost 300 (folded)
+ahrack balance 1700, lost 600 (folded)
+SjoerdC balance 1420, didn't bet (folded)
+Kl3m3n balance 8600, bet 1800, collected 2700, net +900
+
+***** Hand History for Game 6014344701 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33684062)  - Tue May 29 15:30:02 EDT 2007
+Table Speed 1331671 (Real Money) -- Seat 1 is the button
+Total number of players : 4
+Seat 1: hatoka (8280)
+Seat 4: ahrack (1700)
+Seat 6: SjoerdC (1420)
+Seat 8: Kl3m3n (8600)
+ahrack  posts small blind (300)
+SjoerdC  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ 4h, 4s ]
+Kl3m3n folds.
+hatoka raises (1200) to 1200
+ahrack folds.
+SjoerdC raises (820) to 1420
+SjoerdC is all-In.
+hatoka calls (220)
+** Dealing Flop ** :  [ Js, 7s, 2c ]
+** Dealing Turn ** :  [ 7d ]
+** Dealing River ** :  [ Qc ]
+Creating Main Pot with $3140 with SjoerdC
+** Summary **
+Main Pot: 3140
+Board: [ Js 7s 2c 7d Qc  ]
+
+hatoka balance 6860, lost 1420 [ 4h 4s ] [ two pairs, Sevens and Fours -- Qc,7s,7d,4h,4s ]
+ahrack balance 1400, lost 300 (folded)
+SjoerdC balance 3140, bet 1420, collected 3140, net +1720 [ Qs 3h ] [ two pairs, Queens and Sevens -- Qs,Qc,Js,7s,7d ]
+Kl3m3n balance 8600, didn't bet (folded)
+
+***** Hand History for Game 6014345916 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33684062)  - Tue May 29 15:30:20 EDT 2007
+Table Speed 1331671 (Real Money) -- Seat 4 is the button
+Total number of players : 4
+Seat 1: hatoka (6860)
+Seat 4: ahrack (1400)
+Seat 6: SjoerdC (3140)
+Seat 8: Kl3m3n (8600)
+SjoerdC  posts small blind (300)
+Kl3m3n  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ 2h, Ks ]
+hatoka folds.
+ahrack folds.
+SjoerdC calls (300)
+Kl3m3n raises (600) to 1200
+SjoerdC calls (600)
+** Dealing Flop ** :  [ Qc, 4c, Kh ]
+SjoerdC bets (600)
+Kl3m3n calls (600)
+** Dealing Turn ** :  [ Th ]
+SjoerdC bets (1340)
+SjoerdC is all-In.
+Kl3m3n calls (1340)
+** Dealing River ** :  [ 9s ]
+Creating Main Pot with $6280 with SjoerdC
+** Summary **
+Main Pot: 6280
+Board: [ Qc 4c Kh Th 9s  ]
+
+hatoka balance 6860, didn't bet (folded)
+ahrack balance 1400, didn't bet (folded)
+SjoerdC balance 6280, bet 3140, collected 6280, net +3140 [ 4d Kd ] [ two pairs, Kings and Fours -- Kd,Kh,Qc,4d,4c ]
+Kl3m3n balance 5460, lost 3140 [ Td 9d ] [ two pairs, Tens and Nines -- Kh,Td,Th,9d,9s ]
+
+***** Hand History for Game 6014347951 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33684062)  - Tue May 29 15:30:50 EDT 2007
+Table Speed 1331671 (Real Money) -- Seat 6 is the button
+Total number of players : 4
+Seat 1: hatoka (6860)
+Seat 4: ahrack (1400)
+Seat 6: SjoerdC (6280)
+Seat 8: Kl3m3n (5460)
+Kl3m3n  posts small blind (300)
+hatoka  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ Td, 4s ]
+ahrack folds.
+SjoerdC folds.
+Kl3m3n folds.
+** Summary **
+Main Pot: 600
+
+hatoka balance 7160, bet 600, collected 900, net +300
+ahrack balance 1400, didn't bet (folded)
+SjoerdC balance 6280, didn't bet (folded)
+Kl3m3n balance 5160, lost 300 (folded)
+
+***** Hand History for Game 6014348547 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33684062)  - Tue May 29 15:30:59 EDT 2007
+Table Speed 1331671 (Real Money) -- Seat 8 is the button
+Total number of players : 4
+Seat 1: hatoka (7160)
+Seat 4: ahrack (1400)
+Seat 6: SjoerdC (6280)
+Seat 8: Kl3m3n (5160)
+hatoka  posts small blind (300)
+ahrack  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ 8c, 3s ]
+SjoerdC folds.
+Kl3m3n folds.
+hatoka folds.
+** Summary **
+Main Pot: 600
+
+hatoka balance 6860, lost 300 (folded)
+ahrack balance 1700, bet 600, collected 900, net +300
+SjoerdC balance 6280, didn't bet (folded)
+Kl3m3n balance 5160, didn't bet (folded)
+
+***** Hand History for Game 6014349194 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33684062)  - Tue May 29 15:31:08 EDT 2007
+Table Speed 1331671 (Real Money) -- Seat 1 is the button
+Total number of players : 4
+Seat 1: hatoka (6860)
+Seat 4: ahrack (1700)
+Seat 6: SjoerdC (6280)
+Seat 8: Kl3m3n (5160)
+ahrack  posts small blind (300)
+SjoerdC  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ Js, Ks ]
+Kl3m3n folds.
+hatoka raises (1200) to 1200
+ahrack raises (1400) to 1700
+ahrack is all-In.
+SjoerdC folds.
+hatoka calls (500)
+** Dealing Flop ** :  [ As, 3c, 4d ]
+** Dealing Turn ** :  [ 6h ]
+** Dealing River ** :  [ Jh ]
+Creating Main Pot with $4000 with ahrack
+** Summary **
+Main Pot: 4000
+Board: [ As 3c 4d 6h Jh  ]
+
+hatoka balance 5160, lost 1700 [ Js Ks ] [ a pair of Jacks -- As,Ks,Js,Jh,6h ]
+ahrack balance 4000, bet 1700, collected 4000, net +2300 [ Qd Ah ] [ a pair of Aces -- Ah,As,Qd,Jh,6h ]
+SjoerdC balance 5680, lost 600 (folded)
+Kl3m3n balance 5160, didn't bet (folded)
+
+***** Hand History for Game 6014350408 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33684062)  - Tue May 29 15:31:27 EDT 2007
+Table Speed 1331671 (Real Money) -- Seat 4 is the button
+Total number of players : 4
+Seat 1: hatoka (5160)
+Seat 4: ahrack (4000)
+Seat 6: SjoerdC (5680)
+Seat 8: Kl3m3n (5160)
+SjoerdC  posts small blind (300)
+Kl3m3n  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ Ah, 3d ]
+hatoka folds.
+ahrack calls (600)
+SjoerdC calls (300)
+Kl3m3n checks.
+** Dealing Flop ** :  [ Kc, 2c, 7s ]
+SjoerdC bets (1200)
+Kl3m3n folds.
+ahrack calls (1200)
+** Dealing Turn ** :  [ 4s ]
+SjoerdC bets (2400)
+ahrack calls (2200)
+ahrack is all-In.
+** Dealing River ** :  [ 8s ]
+Creating Main Pot with $8600 with ahrack
+** Summary **
+Main Pot: 8600
+Board: [ Kc 2c 7s 4s 8s  ]
+
+hatoka balance 5160, didn't bet (folded)
+ahrack balance 0, lost 4000 [ 4c Ac ] [ a pair of Fours -- Ac,Kc,8s,4c,4s ]
+SjoerdC balance 10280, bet 4200, collected 8800, net +4600 [ 6c Kd ] [ a pair of Kings -- Kd,Kc,8s,7s,6c ]
+Kl3m3n balance 4560, lost 600 (folded)
+
+***** Hand History for Game 6014352331 *****
+ahrack finished in 4 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33684062)  - Tue May 29 15:31:57 EDT 2007
+Table Speed 1331671 (Real Money) -- Seat 6 is the button
+Total number of players : 3
+Seat 1: hatoka (5160)
+Seat 6: SjoerdC (10280)
+Seat 8: Kl3m3n (4560)
+hatoka  posts ante (25)
+SjoerdC  posts ante (25)
+Kl3m3n  posts ante (25)
+Kl3m3n  posts small blind (400)
+hatoka  posts big blind (800)
+** Dealing down cards **
+Dealt to hatoka [ Td, Ah ]
+SjoerdC raises (3200) to 3200
+Kl3m3n folds.
+hatoka raises (4335) to 5135
+hatoka is all-In.
+SjoerdC calls (1935)
+** Dealing Flop ** :  [ As, 7s, 4c ]
+** Dealing Turn ** :  [ Ad ]
+** Dealing River ** :  [ 9s ]
+Creating Main Pot with $10745 with hatoka
+** Summary **
+Main Pot: 10745
+Board: [ As 7s 4c Ad 9s  ]
+
+hatoka balance 10745, bet 5160, collected 10745, net +5585 [ Td Ah ] [ three of a kind, Aces -- Ah,As,Ad,Td,9s ]
+SjoerdC balance 5120, lost 5160 [ Tc Th ] [ two pairs, Aces and Tens -- As,Ad,Tc,Th,9s ]
+Kl3m3n balance 4135, lost 425 (folded)
+
+***** Hand History for Game 6014354041 *****
+SjoerdC: nh
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33684062)  - Tue May 29 15:32:23 EDT 2007
+Table Speed 1331671 (Real Money) -- Seat 8 is the button
+Total number of players : 3
+Seat 1: hatoka (10745)
+Seat 6: SjoerdC (5120)
+Seat 8: Kl3m3n (4135)
+hatoka  posts ante (25)
+SjoerdC  posts ante (25)
+Kl3m3n  posts ante (25)
+hatoka  posts small blind (400)
+SjoerdC  posts big blind (800)
+** Dealing down cards **
+Dealt to hatoka [ 6h, Jh ]
+Kl3m3n folds.
+hatoka calls (400)
+SjoerdC raises (4295) to 5095
+SjoerdC is all-In.
+hatoka folds.
+Creating Main Pot with $1675 with SjoerdC
+** Summary **
+Main Pot: 1675
+
+hatoka balance 9920, lost 825 (folded)
+SjoerdC balance 5970, bet 5120, collected 5970, net +850
+Kl3m3n balance 4110, lost 25 (folded)
+
+***** Hand History for Game 6014355004 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33684062)  - Tue May 29 15:32:38 EDT 2007
+Table Speed 1331671 (Real Money) -- Seat 1 is the button
+Total number of players : 3
+Seat 1: hatoka (9920)
+Seat 6: SjoerdC (5970)
+Seat 8: Kl3m3n (4110)
+hatoka  posts ante (25)
+SjoerdC  posts ante (25)
+Kl3m3n  posts ante (25)
+SjoerdC  posts small blind (400)
+Kl3m3n  posts big blind (800)
+** Dealing down cards **
+Dealt to hatoka [ Ad, 7c ]
+hatoka raises (1600) to 1600
+SjoerdC raises (5545) to 5945
+SjoerdC is all-In.
+Kl3m3n calls (3285)
+Kl3m3n is all-In.
+hatoka folds.
+** Dealing Flop ** :  [ 2c, 7d, 5c ]
+** Dealing Turn ** :  [ 7h ]
+** Dealing River ** :  [ 9c ]
+Creating Main Pot with $9845 with Kl3m3n
+** Summary **
+Main Pot: 9845
+Board: [ 2c 7d 5c 7h 9c  ]
+
+hatoka balance 8295, lost 1625 (folded)
+SjoerdC balance 1860, bet 5970, collected 1860, lost -4110 [ Ts As ] [ a pair of Sevens -- As,Ts,9c,7d,7h ]
+Kl3m3n balance 9845, bet 4110, collected 9845, net +5735 [ 8s 8h ] [ two pairs, Eights and Sevens -- 9c,8s,8h,7d,7h ]
+
+***** Hand History for Game 6014356314 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33684062)  - Tue May 29 15:32:59 EDT 2007
+Table Speed 1331671 (Real Money) -- Seat 6 is the button
+Total number of players : 3
+Seat 1: hatoka (8295)
+Seat 6: SjoerdC (1860)
+Seat 8: Kl3m3n (9845)
+hatoka  posts ante (25)
+SjoerdC  posts ante (25)
+Kl3m3n  posts ante (25)
+Kl3m3n  posts small blind (400)
+hatoka  posts big blind (800)
+** Dealing down cards **
+Dealt to hatoka [ 7c, 9d ]
+SjoerdC raises (1835) to 1835
+SjoerdC is all-In.
+Kl3m3n raises (9420) to 9820
+Kl3m3n is all-In.
+hatoka folds.
+** Dealing Flop ** :  [ Jd, 5s, Qd ]
+** Dealing Turn ** :  [ 6h ]
+** Dealing River ** :  [ 4h ]
+Creating Main Pot with $4545 with SjoerdC
+** Summary **
+Main Pot: 4545
+Board: [ Jd 5s Qd 6h 4h  ]
+
+hatoka balance 7470, lost 825 (folded)
+SjoerdC balance 0, lost 1860 [ As Js ] [ a pair of Jacks -- As,Qd,Js,Jd,6h ]
+Kl3m3n balance 12530, bet 9845, collected 12530, net +2685 [ Qh Ad ] [ a pair of Queens -- Ad,Qh,Qd,Jd,6h ]
+
+***** Hand History for Game 6014357553 *****
+SjoerdC finished in 3 place and won $10.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33684062)  - Tue May 29 15:33:18 EDT 2007
+Table Speed 1331671 (Real Money) -- Seat 1 is the button
+Total number of players : 2
+Seat 1: hatoka (7470)
+Seat 8: Kl3m3n (12530)
+hatoka  posts ante (25)
+Kl3m3n  posts ante (25)
+hatoka  posts small blind (400)
+Kl3m3n  posts big blind (800)
+** Dealing down cards **
+Dealt to hatoka [ 3c, Td ]
+hatoka folds.
+** Summary **
+Main Pot: 850
+
+hatoka balance 7045, lost 425 (folded)
+Kl3m3n balance 12955, bet 825, collected 1250, net +425
+
+***** Hand History for Game 6014358101 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33684062)  - Tue May 29 15:33:25 EDT 2007
+Table Speed 1331671 (Real Money) -- Seat 8 is the button
+Total number of players : 2
+Seat 1: hatoka (7045)
+Seat 8: Kl3m3n (12955)
+hatoka  posts ante (25)
+Kl3m3n  posts ante (25)
+Kl3m3n  posts small blind (400)
+hatoka  posts big blind (800)
+** Dealing down cards **
+Dealt to hatoka [ Ac, 7h ]
+Kl3m3n raises (1200) to 1600
+hatoka calls (800)
+** Dealing Flop ** :  [ 5s, 7s, Qd ]
+hatoka bets (800)
+Kl3m3n raises (11330) to 11330
+Kl3m3n is all-In.
+hatoka calls (4620)
+hatoka is all-In.
+** Dealing Turn ** :  [ 3c ]
+** Dealing River ** :  [ 6s ]
+Creating Main Pot with $14090 with hatoka
+** Summary **
+Main Pot: 14090
+Board: [ 5s 7s Qd 3c 6s  ]
+
+hatoka balance 14090, bet 7045, collected 14090, net +7045 [ Ac 7h ] [ a pair of Sevens -- Ac,Qd,7h,7s,6s ]
+Kl3m3n balance 5910, bet 12955, collected 5910, lost -7045 [ Ah 6c ] [ a pair of Sixes -- Ah,Qd,7s,6c,6s ]
+
+***** Hand History for Game 6014359923 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33684062)  - Tue May 29 15:33:54 EDT 2007
+Table Speed 1331671 (Real Money) -- Seat 1 is the button
+Total number of players : 2
+Seat 1: hatoka (14090)
+Seat 8: Kl3m3n (5910)
+hatoka  posts ante (25)
+Kl3m3n  posts ante (25)
+hatoka  posts small blind (400)
+Kl3m3n  posts big blind (800)
+** Dealing down cards **
+Dealt to hatoka [ Jh, 4s ]
+hatoka calls (400)
+Kl3m3n checks.
+** Dealing Flop ** :  [ 9h, Ad, 2d ]
+Kl3m3n checks.
+hatoka checks.
+** Dealing Turn ** :  [ Kd ]
+Kl3m3n checks.
+hatoka bets (800)
+Kl3m3n raises (5085) to 5085
+Kl3m3n is all-In.
+hatoka folds.
+Creating Main Pot with $3250 with Kl3m3n
+** Summary **
+Main Pot: 3250
+Board: [ 9h Ad 2d Kd  ]
+
+hatoka balance 12465, lost 1625 (folded)
+Kl3m3n balance 7535, bet 5910, collected 7535, net +1625
+
+***** Hand History for Game 6014361413 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33684062)  - Tue May 29 15:34:17 EDT 2007
+Table Speed 1331671 (Real Money) -- Seat 8 is the button
+Total number of players : 2
+Seat 1: hatoka (12465)
+Seat 8: Kl3m3n (7535)
+hatoka  posts ante (25)
+Kl3m3n  posts ante (25)
+Kl3m3n  posts small blind (400)
+hatoka  posts big blind (800)
+** Dealing down cards **
+Dealt to hatoka [ 9c, 4c ]
+Kl3m3n calls (400)
+hatoka checks.
+** Dealing Flop ** :  [ 5s, Tc, 9d ]
+hatoka bets (800)
+Kl3m3n folds.
+** Summary **
+Main Pot: 1650
+Board: [ 5s Tc 9d  ]
+
+hatoka balance 13290, bet 1625, collected 2450, net +825
+Kl3m3n balance 6710, lost 825 (folded)
+
+***** Hand History for Game 6014362529 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33684062)  - Tue May 29 15:34:34 EDT 2007
+Table Speed 1331671 (Real Money) -- Seat 1 is the button
+Total number of players : 2
+Seat 1: hatoka (13290)
+Seat 8: Kl3m3n (6710)
+hatoka  posts ante (25)
+Kl3m3n  posts ante (25)
+hatoka  posts small blind (400)
+Kl3m3n  posts big blind (800)
+** Dealing down cards **
+Dealt to hatoka [ 4c, 5c ]
+hatoka calls (400)
+Kl3m3n checks.
+** Dealing Flop ** :  [ 9c, 7s, Qc ]
+Kl3m3n checks.
+hatoka bets (1650)
+Kl3m3n raises (5885) to 5885
+Kl3m3n is all-In.
+hatoka calls (4235)
+** Dealing Turn ** :  [ 8h ]
+** Dealing River ** :  [ 9h ]
+Creating Main Pot with $13420 with Kl3m3n
+** Summary **
+Main Pot: 13420
+Board: [ 9c 7s Qc 8h 9h  ]
+
+hatoka balance 6580, lost 6710 [ 4c 5c ] [ a pair of Nines -- Qc,9c,9h,8h,7s ]
+Kl3m3n balance 13420, bet 6710, collected 13420, net +6710 [ Qd 7h ] [ two pairs, Queens and Nines -- Qd,Qc,9c,9h,8h ]
+
+***** Hand History for Game 6014364277 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33684062)  - Tue May 29 15:35:01 EDT 2007
+Table Speed 1331671 (Real Money) -- Seat 8 is the button
+Total number of players : 2
+Seat 1: hatoka (6580)
+Seat 8: Kl3m3n (13420)
+hatoka  posts ante (25)
+Kl3m3n  posts ante (25)
+Kl3m3n  posts small blind (400)
+hatoka  posts big blind (800)
+** Dealing down cards **
+Dealt to hatoka [ Kd, 3h ]
+Kl3m3n folds.
+** Summary **
+Main Pot: 850
+
+hatoka balance 7005, bet 825, collected 1250, net +425
+Kl3m3n balance 12995, lost 425 (folded)
+
+***** Hand History for Game 6014364834 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33684062)  - Tue May 29 15:35:09 EDT 2007
+Table Speed 1331671 (Real Money) -- Seat 1 is the button
+Total number of players : 2
+Seat 1: hatoka (7005)
+Seat 8: Kl3m3n (12995)
+hatoka  posts ante (25)
+Kl3m3n  posts ante (25)
+hatoka  posts small blind (400)
+Kl3m3n  posts big blind (800)
+** Dealing down cards **
+Dealt to hatoka [ Kh, 9d ]
+hatoka calls (400)
+Kl3m3n checks.
+** Dealing Flop ** :  [ Tc, 3s, 4d ]
+Kl3m3n bets (800)
+hatoka folds.
+** Summary **
+Main Pot: 1650
+Board: [ Tc 3s 4d  ]
+
+hatoka balance 6180, lost 825 (folded)
+Kl3m3n balance 13820, bet 1625, collected 2450, net +825
+
+***** Hand History for Game 6014365749 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33684062)  - Tue May 29 15:35:23 EDT 2007
+Table Speed 1331671 (Real Money) -- Seat 8 is the button
+Total number of players : 2
+Seat 1: hatoka (6180)
+Seat 8: Kl3m3n (13820)
+hatoka  posts ante (25)
+Kl3m3n  posts ante (25)
+Kl3m3n  posts small blind (400)
+hatoka  posts big blind (800)
+** Dealing down cards **
+Dealt to hatoka [ Ad, Ks ]
+Kl3m3n raises (1200) to 1600
+hatoka raises (5355) to 6155
+hatoka is all-In.
+Kl3m3n calls (4555)
+** Dealing Flop ** :  [ 6h, 6c, 7d ]
+** Dealing Turn ** :  [ Kh ]
+** Dealing River ** :  [ 2s ]
+Creating Main Pot with $12360 with hatoka
+** Summary **
+Main Pot: 12360
+Board: [ 6h 6c 7d Kh 2s  ]
+
+hatoka balance 12360, bet 6180, collected 12360, net +6180 [ Ad Ks ] [ two pairs, Kings and Sixes -- Ad,Ks,Kh,6h,6c ]
+Kl3m3n balance 7640, lost 6180 [ Qd Jc ] [ a pair of Sixes -- Kh,Qd,Jc,6h,6c ]
+
+***** Hand History for Game 6014367012 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33684062)  - Tue May 29 15:35:44 EDT 2007
+Table Speed 1331671 (Real Money) -- Seat 1 is the button
+Total number of players : 2
+Seat 1: hatoka (12360)
+Seat 8: Kl3m3n (7640)
+hatoka  posts ante (25)
+Kl3m3n  posts ante (25)
+hatoka  posts small blind (400)
+Kl3m3n  posts big blind (800)
+** Dealing down cards **
+Dealt to hatoka [ 7s, 6s ]
+hatoka calls (400)
+Kl3m3n checks.
+** Dealing Flop ** :  [ 4s, 5c, Ad ]
+Kl3m3n checks.
+hatoka bets (800)
+Kl3m3n calls (800)
+** Dealing Turn ** :  [ 8h ]
+Kl3m3n bets (800)
+hatoka raises (10735) to 10735
+hatoka is all-In.
+Kl3m3n calls (5215)
+Kl3m3n is all-In.
+** Dealing River ** :  [ Ks ]
+Creating Main Pot with $15280 with Kl3m3n
+** Summary **
+Main Pot: 15280
+Board: [ 4s 5c Ad 8h Ks  ]
+
+hatoka balance 20000, bet 12360, collected 20000, net +7640 [ 7s 6s ] [ a straight Four to Eight -- 8h,7s,6s,5c,4s ]
+Kl3m3n balance 0, lost 7640 [ 8d 6d ] [ a pair of Eights -- Ad,Ks,8d,8h,6d ]
+
+
+

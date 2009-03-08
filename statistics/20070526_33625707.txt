@@ -1,0 +1,3401 @@
+
+Hello hatoka,
+These hand histories are provided to you as an aid for your training and development. You are not permitted to share them with anyone.  We reserve the right to cease providing them or apply further restrictions at any time.
+Complete hand histories are only available to players that participated in the hand.
+You requested a transcript of Tournament #33625707.
+
+Summary
+----------
+Played on    : 26 May 2007 07:58 AM
+On Table     : Table  125655
+Game Type    : Texas Holdem
+Buy-In       : $5
+Fee          : $1
+You finished in  position 7
+1st place - ringading333 -  $25
+2nd place - iainmcnaught -  $15
+3rd place - debz1111 -  $10
+
+***** Hand History for Game 6003974922 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 07:58:44 EDT 2007
+Table Table  125655 (Real Money) -- Seat 10 is the button
+Total number of players : 10
+Seat 1: ringading333 (2000)
+Seat 2: debz1111 (2000)
+Seat 3: Dukx2 (2000)
+Seat 4: hatoka (2000)
+Seat 5: KingArtur888 (2000)
+Seat 6: Tina_Engel (2000)
+Seat 7: iainmcnaught (2000)
+Seat 8: Luckyshot12 (2000)
+Seat 9: PolySlovenia (2000)
+Seat 10: gdantas (2000)
+ringading333  posts small blind (20)
+debz1111  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 8h, 6s ]
+Dukx2 folds.
+hatoka folds.
+KingArtur888 folds.
+Tina_Engel folds.
+iainmcnaught calls (40)
+Luckyshot12 folds.
+PolySlovenia folds.
+gdantas folds.
+ringading333 raises (180) to 200
+debz1111 folds.
+iainmcnaught calls (160)
+** Dealing Flop ** :  [ Tc, Qs, 9c ]
+ringading333 bets (440)
+iainmcnaught folds.
+** Summary **
+Main Pot: 440
+Board: [ Tc Qs 9c  ]
+
+ringading333 balance 2240, bet 640, collected 880, net +240
+debz1111 balance 1960, lost 40 (folded)
+Dukx2 balance 2000, didn't bet (folded)
+hatoka balance 2000, didn't bet (folded)
+KingArtur888 balance 2000, didn't bet (folded)
+Tina_Engel balance 2000, didn't bet (folded)
+iainmcnaught balance 1800, lost 200 (folded)
+Luckyshot12 balance 2000, didn't bet (folded)
+PolySlovenia balance 2000, didn't bet (folded)
+gdantas balance 2000, didn't bet (folded)
+
+***** Hand History for Game 6003976197 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 07:59:24 EDT 2007
+Table Table  125655 (Real Money) -- Seat 1 is the button
+Total number of players : 10
+Seat 1: ringading333 (2240)
+Seat 2: debz1111 (1960)
+Seat 3: Dukx2 (2000)
+Seat 4: hatoka (2000)
+Seat 5: KingArtur888 (2000)
+Seat 6: Tina_Engel (2000)
+Seat 7: iainmcnaught (1800)
+Seat 8: Luckyshot12 (2000)
+Seat 9: PolySlovenia (2000)
+Seat 10: gdantas (2000)
+debz1111  posts small blind (20)
+Dukx2  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ Ah, As ]
+hatoka raises (120) to 120
+KingArtur888 calls (120)
+Tina_Engel calls (120)
+iainmcnaught calls (120)
+Luckyshot12 folds.
+PolySlovenia folds.
+gdantas folds.
+ringading333 calls (120)
+debz1111 folds.
+Dukx2 calls (80)
+** Dealing Flop ** :  [ 7h, 4d, 7d ]
+Dukx2 checks.
+hatoka bets (500)
+KingArtur888 folds.
+Tina_Engel folds.
+iainmcnaught folds.
+ringading333 calls (500)
+Dukx2 folds.
+** Dealing Turn ** :  [ Kc ]
+hatoka checks.
+ringading333 checks.
+** Dealing River ** :  [ 8h ]
+hatoka bets (300)
+ringading333 calls (300)
+** Summary **
+Main Pot: 2340
+Board: [ 7h 4d 7d Kc 8h  ]
+
+ringading333 balance 1320, lost 920 [ 6s 6c ] [ two pairs, Sevens and Sixes -- Kc,7h,7d,6s,6c ]
+
+debz1111 balance 1940, lost 20 (folded)
+Dukx2 balance 1880, lost 120 (folded)
+hatoka balance 3420, bet 920, collected 2340, net +1420 [ Ah As ] [ two pairs, Aces and Sevens -- Ah,As,Kc,7h,7d ]
+KingArtur888 balance 1880, lost 120 (folded)
+Tina_Engel balance 1880, lost 120 (folded)
+iainmcnaught balance 1680, lost 120 (folded)
+Luckyshot12 balance 2000, didn't bet (folded)
+PolySlovenia balance 2000, didn't bet (folded)
+gdantas balance 2000, didn't bet (folded)
+
+***** Hand History for Game 6003978492 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:00:30 EDT 2007
+Table Table  125655 (Real Money) -- Seat 2 is the button
+Total number of players : 10
+Seat 1: ringading333 (1320)
+Seat 2: debz1111 (1940)
+Seat 3: Dukx2 (1880)
+Seat 4: hatoka (3420)
+Seat 5: KingArtur888 (1880)
+Seat 6: Tina_Engel (1880)
+Seat 7: iainmcnaught (1680)
+Seat 8: Luckyshot12 (2000)
+Seat 9: PolySlovenia (2000)
+Seat 10: gdantas (2000)
+Dukx2  posts small blind (20)
+hatoka  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 9d, 5c ]
+KingArtur888 calls (40)
+Tina_Engel folds.
+iainmcnaught folds.
+Luckyshot12 calls (40)
+PolySlovenia calls (40)
+gdantas calls (40)
+ringading333 raises (300) to 300
+debz1111 calls (300)
+Dukx2 folds.
+hatoka folds.
+KingArtur888 folds.
+Luckyshot12 folds.
+PolySlovenia folds.
+gdantas folds.
+** Dealing Flop ** :  [ 6d, Kh, Td ]
+ringading333 bets (1020)
+ringading333 is all-In.
+debz1111 folds.
+Creating Main Pot with $820 with ringading333
+** Summary **
+Main Pot: 820
+Board: [ 6d Kh Td  ]
+
+ringading333 balance 1840, bet 1320, collected 1840, net +520
+debz1111 balance 1640, lost 300 (folded)
+Dukx2 balance 1860, lost 20 (folded)
+hatoka balance 3380, lost 40 (folded)
+KingArtur888 balance 1840, lost 40 (folded)
+Tina_Engel balance 1880, didn't bet (folded)
+iainmcnaught balance 1680, didn't bet (folded)
+Luckyshot12 balance 1960, lost 40 (folded)
+PolySlovenia balance 1960, lost 40 (folded)
+gdantas balance 1960, lost 40 (folded)
+
+***** Hand History for Game 6003980550 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:01:29 EDT 2007
+Table Table  125655 (Real Money) -- Seat 3 is the button
+Total number of players : 10
+Seat 1: ringading333 (1840)
+Seat 2: debz1111 (1640)
+Seat 3: Dukx2 (1860)
+Seat 4: hatoka (3380)
+Seat 5: KingArtur888 (1840)
+Seat 6: Tina_Engel (1880)
+Seat 7: iainmcnaught (1680)
+Seat 8: Luckyshot12 (1960)
+Seat 9: PolySlovenia (1960)
+Seat 10: gdantas (1960)
+hatoka  posts small blind (20)
+KingArtur888  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ Qd, Jh ]
+Tina_Engel calls (40)
+iainmcnaught raises (80) to 80
+Luckyshot12 calls (80)
+PolySlovenia folds.
+gdantas folds.
+ringading333 folds.
+debz1111 folds.
+Dukx2 calls (80)
+hatoka calls (60)
+KingArtur888 calls (40)
+Tina_Engel calls (40)
+** Dealing Flop ** :  [ 8s, 4c, As ]
+hatoka checks.
+KingArtur888 checks.
+Tina_Engel bets (160)
+iainmcnaught raises (320) to 320
+Luckyshot12 folds.
+Dukx2 folds.
+hatoka folds.
+KingArtur888 folds.
+Tina_Engel calls (160)
+** Dealing Turn ** :  [ 3s ]
+Tina_Engel bets (520)
+iainmcnaught calls (520)
+** Dealing River ** :  [ Kc ]
+Tina_Engel bets (960)
+Tina_Engel is all-In.
+iainmcnaught calls (760)
+iainmcnaught is all-In.
+Creating Main Pot with $3680 with iainmcnaught
+** Summary **
+Main Pot: 3680
+Board: [ 8s 4c As 3s Kc  ]
+
+ringading333 balance 1840, didn't bet (folded)
+debz1111 balance 1640, didn't bet (folded)
+Dukx2 balance 1780, lost 80 (folded)
+hatoka balance 3300, lost 80 (folded)
+KingArtur888 balance 1760, lost 80 (folded)
+Tina_Engel balance 200, bet 1880, collected 200, lost -1680 [ 3c Ac ] [ two pairs, Aces and Threes -- Ac,As,Kc,3c,3s ]
+iainmcnaught balance 3680, bet 1680, collected 3680, net +2000 [ Ah Kh ] [ two pairs, Aces and Kings -- Ah,As,Kh,Kc,8s ]
+Luckyshot12 balance 1880, lost 80 (folded)
+PolySlovenia balance 1960, didn't bet (folded)
+gdantas balance 1960, didn't bet (folded)
+
+***** Hand History for Game 6003983548 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:02:52 EDT 2007
+Table Table  125655 (Real Money) -- Seat 4 is the button
+Total number of players : 10
+Seat 1: ringading333 (1840)
+Seat 2: debz1111 (1640)
+Seat 3: Dukx2 (1780)
+Seat 4: hatoka (3300)
+Seat 5: KingArtur888 (1760)
+Seat 6: Tina_Engel (200)
+Seat 7: iainmcnaught (3680)
+Seat 8: Luckyshot12 (1880)
+Seat 9: PolySlovenia (1960)
+Seat 10: gdantas (1960)
+KingArtur888  posts small blind (20)
+Tina_Engel  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 8s, 3c ]
+iainmcnaught calls (40)
+Luckyshot12 folds.
+PolySlovenia raises (480) to 480
+gdantas folds.
+ringading333 folds.
+debz1111 folds.
+Dukx2 folds.
+hatoka folds.
+KingArtur888 folds.
+Tina_Engel folds.
+iainmcnaught folds.
+** Summary **
+Main Pot: 140
+
+ringading333 balance 1840, didn't bet (folded)
+debz1111 balance 1640, didn't bet (folded)
+Dukx2 balance 1780, didn't bet (folded)
+hatoka balance 3300, didn't bet (folded)
+KingArtur888 balance 1740, lost 20 (folded)
+Tina_Engel balance 160, lost 40 (folded)
+iainmcnaught balance 3640, lost 40 (folded)
+Luckyshot12 balance 1880, didn't bet (folded)
+PolySlovenia balance 2060, bet 480, collected 580, net +100
+gdantas balance 1960, didn't bet (folded)
+
+***** Hand History for Game 6003984450 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:03:18 EDT 2007
+Table Table  125655 (Real Money) -- Seat 5 is the button
+Total number of players : 10
+Seat 1: ringading333 (1840)
+Seat 2: debz1111 (1640)
+Seat 3: Dukx2 (1780)
+Seat 4: hatoka (3300)
+Seat 5: KingArtur888 (1740)
+Seat 6: Tina_Engel (160)
+Seat 7: iainmcnaught (3640)
+Seat 8: Luckyshot12 (1880)
+Seat 9: PolySlovenia (2060)
+Seat 10: gdantas (1960)
+Tina_Engel  posts small blind (20)
+iainmcnaught  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ Kc, 2c ]
+Luckyshot12 folds.
+PolySlovenia folds.
+gdantas folds.
+ringading333 folds.
+debz1111 folds.
+Dukx2 calls (40)
+hatoka raises (120) to 120
+KingArtur888 folds.
+Tina_Engel folds.
+iainmcnaught calls (80)
+Dukx2 calls (80)
+** Dealing Flop ** :  [ 7h, Ac, Jh ]
+iainmcnaught bets (80)
+Dukx2 folds.
+hatoka calls (80)
+** Dealing Turn ** :  [ 6c ]
+iainmcnaught bets (80)
+hatoka calls (80)
+** Dealing River ** :  [ 8d ]
+iainmcnaught bets (160)
+hatoka folds.
+** Summary **
+Main Pot: 700
+Board: [ 7h Ac Jh 6c 8d  ]
+
+ringading333 balance 1840, didn't bet (folded)
+debz1111 balance 1640, didn't bet (folded)
+Dukx2 balance 1660, lost 120 (folded)
+hatoka balance 3020, lost 280 (folded)
+KingArtur888 balance 1740, didn't bet (folded)
+Tina_Engel balance 140, lost 20 (folded)
+iainmcnaught balance 4060, bet 440, collected 860, net +420
+Luckyshot12 balance 1880, didn't bet (folded)
+PolySlovenia balance 2060, didn't bet (folded)
+gdantas balance 1960, didn't bet (folded)
+
+***** Hand History for Game 6003986789 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:04:23 EDT 2007
+Table Table  125655 (Real Money) -- Seat 6 is the button
+Total number of players : 10
+Seat 1: ringading333 (1840)
+Seat 2: debz1111 (1640)
+Seat 3: Dukx2 (1660)
+Seat 4: hatoka (3020)
+Seat 5: KingArtur888 (1740)
+Seat 6: Tina_Engel (140)
+Seat 7: iainmcnaught (4060)
+Seat 8: Luckyshot12 (1880)
+Seat 9: PolySlovenia (2060)
+Seat 10: gdantas (1960)
+iainmcnaught  posts small blind (20)
+Luckyshot12  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 5c, 4h ]
+PolySlovenia folds.
+gdantas raises (320) to 320
+ringading333 folds.
+debz1111 calls (320)
+Dukx2 folds.
+hatoka folds.
+KingArtur888 folds.
+Tina_Engel folds.
+iainmcnaught calls (300)
+Luckyshot12 folds.
+** Dealing Flop ** :  [ 6h, 6s, 4s ]
+iainmcnaught checks.
+gdantas bets (480)
+debz1111 calls (480)
+iainmcnaught calls (480)
+** Dealing Turn ** :  [ Ts ]
+iainmcnaught checks.
+gdantas checks.
+debz1111 checks.
+** Dealing River ** :  [ 8s ]
+iainmcnaught checks.
+gdantas checks.
+debz1111 checks.
+** Summary **
+Main Pot: 2440
+Board: [ 6h 6s 4s Ts 8s  ]
+
+ringading333 balance 1840, didn't bet (folded)
+debz1111 balance 840, lost 800 [ Kc Ad ] [ a pair of Sixes -- Ad,Kc,Ts,6h,6s ]
+
+Dukx2 balance 1660, didn't bet (folded)
+hatoka balance 3020, didn't bet (folded)
+KingArtur888 balance 1740, didn't bet (folded)
+Tina_Engel balance 140, didn't bet (folded)
+iainmcnaught balance 5700, bet 800, collected 2440, net +1640 [ 9h 9c ] [ two pairs, Nines and Sixes -- Ts,9h,9c,6h,6s ]
+Luckyshot12 balance 1840, lost 40 (folded)
+PolySlovenia balance 2060, didn't bet (folded)
+gdantas balance 1160, lost 800 [ Kh Ah ] [ a pair of Sixes -- Ah,Kh,Ts,6h,6s ]
+
+
+***** Hand History for Game 6003988520 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:05:12 EDT 2007
+Table Table  125655 (Real Money) -- Seat 7 is the button
+Total number of players : 10
+Seat 1: ringading333 (1840)
+Seat 2: debz1111 (840)
+Seat 3: Dukx2 (1660)
+Seat 4: hatoka (3020)
+Seat 5: KingArtur888 (1740)
+Seat 6: Tina_Engel (140)
+Seat 7: iainmcnaught (5700)
+Seat 8: Luckyshot12 (1840)
+Seat 9: PolySlovenia (2060)
+Seat 10: gdantas (1160)
+Luckyshot12  posts small blind (20)
+PolySlovenia  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 7h, Qs ]
+gdantas folds.
+ringading333 folds.
+debz1111 folds.
+Dukx2 folds.
+hatoka folds.
+KingArtur888 calls (40)
+Tina_Engel folds.
+iainmcnaught calls (40)
+Luckyshot12 calls (20)
+PolySlovenia checks.
+** Dealing Flop ** :  [ 8d, 7s, 5h ]
+Luckyshot12 checks.
+PolySlovenia checks.
+KingArtur888 bets (120)
+iainmcnaught calls (120)
+Luckyshot12 folds.
+PolySlovenia calls (120)
+** Dealing Turn ** :  [ 4c ]
+PolySlovenia checks.
+KingArtur888 checks.
+iainmcnaught checks.
+** Dealing River ** :  [ 4h ]
+PolySlovenia checks.
+KingArtur888 checks.
+iainmcnaught bets (200)
+PolySlovenia calls (200)
+KingArtur888 folds.
+** Summary **
+Main Pot: 920
+Board: [ 8d 7s 5h 4c 4h  ]
+
+ringading333 balance 1840, didn't bet (folded)
+debz1111 balance 840, didn't bet (folded)
+Dukx2 balance 1660, didn't bet (folded)
+hatoka balance 3020, didn't bet (folded)
+KingArtur888 balance 1580, lost 160 (folded)
+Tina_Engel balance 140, didn't bet (folded)
+iainmcnaught balance 6260, bet 360, collected 920, net +560 [ 7c As ] [ two pairs, Sevens and Fours -- As,7c,7s,4c,4h ]
+Luckyshot12 balance 1800, lost 40 (folded)
+PolySlovenia balance 1700, lost 360 [ Ad 9d ] [ a pair of Fours -- Ad,9d,8d,4c,4h ]
+
+gdantas balance 1160, didn't bet (folded)
+
+***** Hand History for Game 6003990699 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:06:16 EDT 2007
+Table Table  125655 (Real Money) -- Seat 8 is the button
+Total number of players : 10
+Seat 1: ringading333 (1840)
+Seat 2: debz1111 (840)
+Seat 3: Dukx2 (1660)
+Seat 4: hatoka (3020)
+Seat 5: KingArtur888 (1580)
+Seat 6: Tina_Engel (140)
+Seat 7: iainmcnaught (6260)
+Seat 8: Luckyshot12 (1800)
+Seat 9: PolySlovenia (1700)
+Seat 10: gdantas (1160)
+PolySlovenia  posts small blind (20)
+gdantas  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ Qs, Ac ]
+ringading333 calls (40)
+debz1111 folds.
+Dukx2 calls (40)
+hatoka raises (80) to 80
+KingArtur888 folds.
+Tina_Engel raises (140) to 140
+Tina_Engel is all-In.
+iainmcnaught folds.
+Luckyshot12 calls (140)
+PolySlovenia folds.
+gdantas folds.
+ringading333 calls (100)
+Dukx2 calls (100)
+hatoka calls (60)
+Creating Main Pot with $760 with Tina_Engel
+** Dealing Flop ** :  [ 9s, 3c, 8d ]
+ringading333 checks.
+Dukx2 bets (160)
+hatoka folds.
+Luckyshot12 raises (600) to 600
+ringading333 folds.
+Dukx2 raises (880) to 1040
+Luckyshot12 raises (880) to 1480
+Dukx2 raises (480) to 1520
+Dukx2 is all-In.
+Luckyshot12 calls (40)
+** Dealing Turn ** :  [ 6d ]
+** Dealing River ** :  [ Tc ]
+Creating Side Pot 1 with $3040 with Dukx2
+** Summary **
+Main Pot: 760 | Side Pot 1: 3040
+Board: [ 9s 3c 8d 6d Tc  ]
+
+ringading333 balance 1700, lost 140 (folded)
+debz1111 balance 840, didn't bet (folded)
+Dukx2 balance 3800, bet 1660, collected 3800, net +2140 [ 9h 8c ] [ two pairs, Nines and Eights -- Tc,9h,9s,8c,8d ]
+hatoka balance 2880, lost 140 (folded)
+KingArtur888 balance 1580, didn't bet (folded)
+Tina_Engel balance 0, lost 140 [ Th As ] [ a pair of Tens -- As,Th,Tc,9s,8d ]
+iainmcnaught balance 6260, didn't bet (folded)
+Luckyshot12 balance 140, lost 1660 [ Jh Jc ] [ a pair of Jacks -- Jh,Jc,Tc,9s,8d ]
+PolySlovenia balance 1680, lost 20 (folded)
+gdantas balance 1120, lost 40 (folded)
+
+***** Hand History for Game 6003993124 *****
+Tina_Engel finished in 10 place.
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:07:21 EDT 2007
+Table Table  125655 (Real Money) -- Seat 9 is the button
+Total number of players : 9
+Seat 1: ringading333 (1700)
+Seat 2: debz1111 (840)
+Seat 3: Dukx2 (3800)
+Seat 4: hatoka (2880)
+Seat 5: KingArtur888 (1580)
+Seat 7: iainmcnaught (6260)
+Seat 8: Luckyshot12 (140)
+Seat 9: PolySlovenia (1680)
+Seat 10: gdantas (1120)
+gdantas  posts small blind (20)
+ringading333  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 4s, 4d ]
+debz1111 folds.
+Dukx2 folds.
+hatoka raises (80) to 80
+KingArtur888 calls (80)
+iainmcnaught calls (80)
+Luckyshot12 folds.
+PolySlovenia raises (160) to 160
+gdantas folds.
+ringading333 folds.
+hatoka calls (80)
+KingArtur888 calls (80)
+iainmcnaught calls (80)
+** Dealing Flop ** :  [ 5h, Qs, Th ]
+hatoka checks.
+KingArtur888 checks.
+iainmcnaught checks.
+PolySlovenia bets (240)
+hatoka folds.
+KingArtur888 calls (240)
+iainmcnaught calls (240)
+** Dealing Turn ** :  [ Ac ]
+KingArtur888 bets (1180)
+KingArtur888 is all-In.
+iainmcnaught folds.
+PolySlovenia folds.
+Creating Main Pot with $1420 with KingArtur888
+** Summary **
+Main Pot: 1420
+Board: [ 5h Qs Th Ac  ]
+
+ringading333 balance 1660, lost 40 (folded)
+debz1111 balance 840, didn't bet (folded)
+Dukx2 balance 3800, didn't bet (folded)
+hatoka balance 2720, lost 160 (folded)
+KingArtur888 balance 2600, bet 1580, collected 2600, net +1020
+iainmcnaught balance 5860, lost 400 (folded)
+Luckyshot12 balance 140, didn't bet (folded)
+PolySlovenia balance 1280, lost 400 (folded)
+gdantas balance 1100, lost 20 (folded)
+
+***** Hand History for Game 6003995861 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:08:37 EDT 2007
+Table Table  125655 (Real Money) -- Seat 10 is the button
+Total number of players : 9
+Seat 1: ringading333 (1660)
+Seat 2: debz1111 (840)
+Seat 3: Dukx2 (3800)
+Seat 4: hatoka (2720)
+Seat 5: KingArtur888 (2600)
+Seat 7: iainmcnaught (5860)
+Seat 8: Luckyshot12 (140)
+Seat 9: PolySlovenia (1280)
+Seat 10: gdantas (1100)
+ringading333  posts small blind (30)
+debz1111  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 8c, 7s ]
+Dukx2 folds.
+hatoka folds.
+KingArtur888 folds.
+iainmcnaught folds.
+Luckyshot12 folds.
+PolySlovenia calls (60)
+gdantas folds.
+ringading333 calls (30)
+debz1111 checks.
+** Dealing Flop ** :  [ Kd, As, 5d ]
+ringading333 checks.
+debz1111 bets (60)
+PolySlovenia raises (300) to 300
+ringading333 folds.
+debz1111 folds.
+** Summary **
+Main Pot: 300
+Board: [ Kd As 5d  ]
+
+ringading333 balance 1600, lost 60 (folded)
+debz1111 balance 720, lost 120 (folded)
+Dukx2 balance 3800, didn't bet (folded)
+hatoka balance 2720, didn't bet (folded)
+KingArtur888 balance 2600, didn't bet (folded)
+iainmcnaught balance 5860, didn't bet (folded)
+Luckyshot12 balance 140, didn't bet (folded)
+PolySlovenia balance 1460, bet 360, collected 540, net +180
+gdantas balance 1100, didn't bet (folded)
+
+***** Hand History for Game 6003996778 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:09:02 EDT 2007
+Table Table  125655 (Real Money) -- Seat 1 is the button
+Total number of players : 9
+Seat 1: ringading333 (1600)
+Seat 2: debz1111 (720)
+Seat 3: Dukx2 (3800)
+Seat 4: hatoka (2720)
+Seat 5: KingArtur888 (2600)
+Seat 7: iainmcnaught (5860)
+Seat 8: Luckyshot12 (140)
+Seat 9: PolySlovenia (1460)
+Seat 10: gdantas (1100)
+debz1111  posts small blind (30)
+Dukx2  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Ah, Jh ]
+hatoka raises (180) to 180
+KingArtur888 folds.
+iainmcnaught calls (180)
+Luckyshot12 folds.
+PolySlovenia folds.
+gdantas folds.
+ringading333 folds.
+debz1111 folds.
+Dukx2 calls (120)
+** Dealing Flop ** :  [ 9d, Qc, As ]
+Dukx2 checks.
+hatoka bets (500)
+iainmcnaught folds.
+Dukx2 folds.
+** Summary **
+Main Pot: 570
+Board: [ 9d Qc As  ]
+
+ringading333 balance 1600, didn't bet (folded)
+debz1111 balance 690, lost 30 (folded)
+Dukx2 balance 3620, lost 180 (folded)
+hatoka balance 3110, bet 680, collected 1070, net +390
+KingArtur888 balance 2600, didn't bet (folded)
+iainmcnaught balance 5680, lost 180 (folded)
+Luckyshot12 balance 140, didn't bet (folded)
+PolySlovenia balance 1460, didn't bet (folded)
+gdantas balance 1100, didn't bet (folded)
+
+***** Hand History for Game 6003998069 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:09:38 EDT 2007
+Table Table  125655 (Real Money) -- Seat 2 is the button
+Total number of players : 9
+Seat 1: ringading333 (1600)
+Seat 2: debz1111 (690)
+Seat 3: Dukx2 (3620)
+Seat 4: hatoka (3110)
+Seat 5: KingArtur888 (2600)
+Seat 7: iainmcnaught (5680)
+Seat 8: Luckyshot12 (140)
+Seat 9: PolySlovenia (1460)
+Seat 10: gdantas (1100)
+Dukx2  posts small blind (30)
+hatoka  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Kc, As ]
+KingArtur888 folds.
+iainmcnaught folds.
+Luckyshot12 folds.
+PolySlovenia raises (120) to 120
+gdantas folds.
+ringading333 folds.
+debz1111 folds.
+Dukx2 calls (90)
+hatoka calls (60)
+** Dealing Flop ** :  [ Tc, 7s, Js ]
+Dukx2 bets (60)
+hatoka raises (200) to 200
+PolySlovenia raises (340) to 340
+Dukx2 calls (280)
+hatoka calls (140)
+** Dealing Turn ** :  [ 7h ]
+Dukx2 checks.
+hatoka checks.
+PolySlovenia bets (240)
+Dukx2 raises (1260) to 1260
+hatoka folds.
+PolySlovenia calls (760)
+PolySlovenia is all-In.
+** Dealing River ** :  [ 8h ]
+Creating Main Pot with $3380 with PolySlovenia
+** Summary **
+Main Pot: 3380
+Board: [ Tc 7s Js 7h 8h  ]
+
+ringading333 balance 1600, didn't bet (folded)
+debz1111 balance 690, didn't bet (folded)
+Dukx2 balance 2160, bet 1720, collected 260, lost -1460 [ Jh Ks ] [ two pairs, Jacks and Sevens -- Ks,Jh,Js,7s,7h ]
+hatoka balance 2650, lost 460 (folded)
+KingArtur888 balance 2600, didn't bet (folded)
+iainmcnaught balance 5680, didn't bet (folded)
+Luckyshot12 balance 140, didn't bet (folded)
+PolySlovenia balance 3380, bet 1460, collected 3380, net +1920 [ Ad Ac ] [ two pairs, Aces and Sevens -- Ad,Ac,Js,7s,7h ]
+gdantas balance 1100, didn't bet (folded)
+
+***** Hand History for Game 6004000498 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:10:44 EDT 2007
+Table Table  125655 (Real Money) -- Seat 3 is the button
+Total number of players : 9
+Seat 1: ringading333 (1600)
+Seat 2: debz1111 (690)
+Seat 3: Dukx2 (2160)
+Seat 4: hatoka (2650)
+Seat 5: KingArtur888 (2600)
+Seat 7: iainmcnaught (5680)
+Seat 8: Luckyshot12 (140)
+Seat 9: PolySlovenia (3380)
+Seat 10: gdantas (1100)
+hatoka  posts small blind (30)
+KingArtur888  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 2d, 5h ]
+iainmcnaught folds.
+Luckyshot12 folds.
+PolySlovenia calls (60)
+gdantas calls (60)
+ringading333 folds.
+debz1111 folds.
+Dukx2 raises (360) to 360
+hatoka folds.
+KingArtur888 folds.
+PolySlovenia folds.
+gdantas raises (1040) to 1100
+gdantas is all-In.
+Dukx2 calls (740)
+** Dealing Flop ** :  [ 9h, 8s, 7h ]
+** Dealing Turn ** :  [ Kh ]
+** Dealing River ** :  [ 3c ]
+Creating Main Pot with $2350 with gdantas
+** Summary **
+Main Pot: 2350
+Board: [ 9h 8s 7h Kh 3c  ]
+
+ringading333 balance 1600, didn't bet (folded)
+debz1111 balance 690, didn't bet (folded)
+Dukx2 balance 3410, bet 1100, collected 2350, net +1250 [ Jc Jd ] [ a pair of Jacks -- Kh,Jc,Jd,9h,8s ]
+hatoka balance 2620, lost 30 (folded)
+KingArtur888 balance 2540, lost 60 (folded)
+iainmcnaught balance 5680, didn't bet (folded)
+Luckyshot12 balance 140, didn't bet (folded)
+PolySlovenia balance 3320, lost 60 (folded)
+gdantas balance 0, lost 1100 [ 9s Ad ] [ a pair of Nines -- Ad,Kh,9s,9h,8s ]
+
+***** Hand History for Game 6004001597 *****
+gdantas finished in 9 place.
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:11:14 EDT 2007
+Table Table  125655 (Real Money) -- Seat 4 is the button
+Total number of players : 8
+Seat 1: ringading333 (1600)
+Seat 2: debz1111 (690)
+Seat 3: Dukx2 (3410)
+Seat 4: hatoka (2620)
+Seat 5: KingArtur888 (2540)
+Seat 7: iainmcnaught (5680)
+Seat 8: Luckyshot12 (140)
+Seat 9: PolySlovenia (3320)
+KingArtur888  posts small blind (30)
+iainmcnaught  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 4c, 9h ]
+Luckyshot12 folds.
+PolySlovenia folds.
+ringading333 folds.
+debz1111 folds.
+Dukx2 calls (60)
+hatoka folds.
+KingArtur888 calls (30)
+iainmcnaught checks.
+** Dealing Flop ** :  [ 6s, 7s, Ac ]
+KingArtur888 checks.
+iainmcnaught checks.
+Dukx2 bets (180)
+KingArtur888 folds.
+iainmcnaught calls (180)
+** Dealing Turn ** :  [ 2d ]
+iainmcnaught checks.
+Dukx2 bets (180)
+iainmcnaught calls (180)
+** Dealing River ** :  [ 5h ]
+iainmcnaught checks.
+Dukx2 bets (540)
+iainmcnaught folds.
+** Summary **
+Main Pot: 900
+Board: [ 6s 7s Ac 2d 5h  ]
+
+ringading333 balance 1600, didn't bet (folded)
+debz1111 balance 690, didn't bet (folded)
+Dukx2 balance 3890, bet 960, collected 1440, net +480
+hatoka balance 2620, didn't bet (folded)
+KingArtur888 balance 2480, lost 60 (folded)
+iainmcnaught balance 5260, lost 420 (folded)
+Luckyshot12 balance 140, didn't bet (folded)
+PolySlovenia balance 3320, didn't bet (folded)
+
+***** Hand History for Game 6004003837 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:12:16 EDT 2007
+Table Table  125655 (Real Money) -- Seat 5 is the button
+Total number of players : 8
+Seat 1: ringading333 (1600)
+Seat 2: debz1111 (690)
+Seat 3: Dukx2 (3890)
+Seat 4: hatoka (2620)
+Seat 5: KingArtur888 (2480)
+Seat 7: iainmcnaught (5260)
+Seat 8: Luckyshot12 (140)
+Seat 9: PolySlovenia (3320)
+iainmcnaught  posts small blind (30)
+Luckyshot12  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 6d, 9c ]
+PolySlovenia folds.
+ringading333 folds.
+debz1111 folds.
+Dukx2 calls (60)
+hatoka folds.
+KingArtur888 calls (60)
+iainmcnaught folds.
+Luckyshot12 checks.
+** Dealing Flop ** :  [ 8c, 6c, Kd ]
+Luckyshot12 checks.
+Dukx2 checks.
+KingArtur888 checks.
+** Dealing Turn ** :  [ 2s ]
+Luckyshot12 checks.
+Dukx2 checks.
+KingArtur888 checks.
+** Dealing River ** :  [ Qs ]
+Luckyshot12 checks.
+Dukx2 bets (60)
+KingArtur888 folds.
+Luckyshot12 folds.
+** Summary **
+Main Pot: 210
+Board: [ 8c 6c Kd 2s Qs  ]
+
+ringading333 balance 1600, didn't bet (folded)
+debz1111 balance 690, didn't bet (folded)
+Dukx2 balance 4040, bet 120, collected 270, net +150
+hatoka balance 2620, didn't bet (folded)
+KingArtur888 balance 2420, lost 60 (folded)
+iainmcnaught balance 5230, lost 30 (folded)
+Luckyshot12 balance 80, lost 60 (folded)
+PolySlovenia balance 3320, didn't bet (folded)
+
+***** Hand History for Game 6004005764 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:13:08 EDT 2007
+Table Table  125655 (Real Money) -- Seat 7 is the button
+Total number of players : 8
+Seat 1: ringading333 (1600)
+Seat 2: debz1111 (690)
+Seat 3: Dukx2 (4040)
+Seat 4: hatoka (2620)
+Seat 5: KingArtur888 (2420)
+Seat 7: iainmcnaught (5230)
+Seat 8: Luckyshot12 (80)
+Seat 9: PolySlovenia (3320)
+Luckyshot12  posts small blind (30)
+PolySlovenia  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Kc, 6s ]
+ringading333 folds.
+debz1111 calls (60)
+Dukx2 folds.
+hatoka folds.
+KingArtur888 folds.
+iainmcnaught calls (60)
+Luckyshot12 raises (50) to 80
+Luckyshot12 is all-In.
+PolySlovenia calls (20)
+debz1111 calls (20)
+iainmcnaught calls (20)
+Creating Main Pot with $320 with Luckyshot12
+** Dealing Flop ** :  [ 2d, Ad, Td ]
+PolySlovenia bets (120)
+debz1111 calls (120)
+iainmcnaught folds.
+** Dealing Turn ** :  [ 5s ]
+PolySlovenia checks.
+debz1111 bets (180)
+PolySlovenia folds.
+** Dealing River ** :  [ 7d ]
+** Summary **
+Main Pot: 320 | Side Pot 1: 240
+Board: [ 2d Ad Td 5s 7d  ]
+
+ringading333 balance 1600, didn't bet (folded)
+debz1111 balance 1050, bet 380, collected 740, net +360 [ Ac 2c ] [ two pairs, Aces and Twos -- Ac,Ad,Td,2c,2d ]
+Dukx2 balance 4040, didn't bet (folded)
+hatoka balance 2620, didn't bet (folded)
+KingArtur888 balance 2420, didn't bet (folded)
+iainmcnaught balance 5150, lost 80 (folded)
+Luckyshot12 balance 0, lost 80 [ Qc 4h ] [ high card Ace -- Ad,Qc,Td,7d,5s ]
+PolySlovenia balance 3120, lost 200 (folded)
+
+***** Hand History for Game 6004007745 *****
+Luckyshot12 finished in 8 place.
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:14:02 EDT 2007
+Table Table  125655 (Real Money) -- Seat 7 is the button
+Total number of players : 7
+Seat 1: ringading333 (1600)
+Seat 2: debz1111 (1050)
+Seat 3: Dukx2 (4040)
+Seat 4: hatoka (2620)
+Seat 5: KingArtur888 (2420)
+Seat 7: iainmcnaught (5150)
+Seat 9: PolySlovenia (3120)
+PolySlovenia  posts small blind (30)
+ringading333  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Ts, Ac ]
+debz1111 folds.
+Dukx2 calls (60)
+hatoka raises (180) to 180
+KingArtur888 folds.
+iainmcnaught folds.
+PolySlovenia folds.
+ringading333 calls (120)
+Dukx2 calls (120)
+** Dealing Flop ** :  [ 9h, 3s, Qc ]
+ringading333 checks.
+Dukx2 bets (240)
+hatoka folds.
+ringading333 folds.
+** Summary **
+Main Pot: 570
+Board: [ 9h 3s Qc  ]
+
+ringading333 balance 1420, lost 180 (folded)
+debz1111 balance 1050, didn't bet (folded)
+Dukx2 balance 4430, bet 420, collected 810, net +390
+hatoka balance 2440, lost 180 (folded)
+KingArtur888 balance 2420, didn't bet (folded)
+iainmcnaught balance 5150, didn't bet (folded)
+PolySlovenia balance 3090, lost 30 (folded)
+
+***** Hand History for Game 6004009610 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:14:53 EDT 2007
+Table Table  125655 (Real Money) -- Seat 9 is the button
+Total number of players : 7
+Seat 1: ringading333 (1420)
+Seat 2: debz1111 (1050)
+Seat 3: Dukx2 (4430)
+Seat 4: hatoka (2440)
+Seat 5: KingArtur888 (2420)
+Seat 7: iainmcnaught (5150)
+Seat 9: PolySlovenia (3090)
+ringading333  posts small blind (30)
+debz1111  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 9c, Jh ]
+Dukx2 calls (60)
+hatoka folds.
+KingArtur888 folds.
+iainmcnaught calls (60)
+PolySlovenia folds.
+ringading333 calls (30)
+debz1111 checks.
+** Dealing Flop ** :  [ 7h, Qh, 9d ]
+ringading333 checks.
+debz1111 bets (60)
+Dukx2 calls (60)
+iainmcnaught calls (60)
+ringading333 folds.
+** Dealing Turn ** :  [ 7d ]
+debz1111 bets (60)
+Dukx2 calls (60)
+iainmcnaught calls (60)
+** Dealing River ** :  [ 4d ]
+debz1111 bets (60)
+Dukx2 folds.
+iainmcnaught calls (60)
+** Summary **
+Main Pot: 720
+Board: [ 7h Qh 9d 7d 4d  ]
+
+ringading333 balance 1360, lost 60 (folded)
+debz1111 balance 1170, bet 240, collected 360, net +120 [ 3h Qc ] [ two pairs, Queens and Sevens -- Qc,Qh,9d,7h,7d ]
+Dukx2 balance 4250, lost 180 (folded)
+hatoka balance 2440, didn't bet (folded)
+KingArtur888 balance 2420, didn't bet (folded)
+iainmcnaught balance 5270, bet 240, collected 360, net +120 [ Qs 6d ] [ two pairs, Queens and Sevens -- Qs,Qh,9d,7h,7d ]
+PolySlovenia balance 3090, didn't bet (folded)
+
+***** Hand History for Game 6004011337 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:15:41 EDT 2007
+Table Table  125655 (Real Money) -- Seat 1 is the button
+Total number of players : 7
+Seat 1: ringading333 (1360)
+Seat 2: debz1111 (1170)
+Seat 3: Dukx2 (4250)
+Seat 4: hatoka (2440)
+Seat 5: KingArtur888 (2420)
+Seat 7: iainmcnaught (5270)
+Seat 9: PolySlovenia (3090)
+debz1111  posts small blind (30)
+Dukx2  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Ts, 6c ]
+hatoka folds.
+KingArtur888 folds.
+iainmcnaught folds.
+PolySlovenia folds.
+ringading333 calls (60)
+debz1111 calls (30)
+Dukx2 checks.
+** Dealing Flop ** :  [ 4h, Jd, Kh ]
+debz1111 bets (60)
+Dukx2 calls (60)
+ringading333 raises (300) to 300
+debz1111 calls (240)
+Dukx2 folds.
+** Dealing Turn ** :  [ Ac ]
+debz1111 bets (60)
+ringading333 raises (1000) to 1000
+ringading333 is all-In.
+debz1111 folds.
+Creating Main Pot with $960 with ringading333
+** Summary **
+Main Pot: 960
+Board: [ 4h Jd Kh Ac  ]
+
+ringading333 balance 1900, bet 1360, collected 1900, net +540
+debz1111 balance 750, lost 420 (folded)
+Dukx2 balance 4130, lost 120 (folded)
+hatoka balance 2440, didn't bet (folded)
+KingArtur888 balance 2420, didn't bet (folded)
+iainmcnaught balance 5270, didn't bet (folded)
+PolySlovenia balance 3090, didn't bet (folded)
+
+***** Hand History for Game 6004013643 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:16:45 EDT 2007
+Table Table  125655 (Real Money) -- Seat 2 is the button
+Total number of players : 7
+Seat 1: ringading333 (1900)
+Seat 2: debz1111 (750)
+Seat 3: Dukx2 (4130)
+Seat 4: hatoka (2440)
+Seat 5: KingArtur888 (2420)
+Seat 7: iainmcnaught (5270)
+Seat 9: PolySlovenia (3090)
+Dukx2  posts small blind (30)
+hatoka  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Jh, 4d ]
+KingArtur888 calls (60)
+iainmcnaught calls (60)
+PolySlovenia folds.
+ringading333 folds.
+debz1111 folds.
+Dukx2 calls (30)
+hatoka checks.
+** Dealing Flop ** :  [ 2h, 3h, Qs ]
+Dukx2 checks.
+hatoka checks.
+KingArtur888 bets (120)
+iainmcnaught calls (120)
+Dukx2 folds.
+hatoka folds.
+** Dealing Turn ** :  [ 5s ]
+KingArtur888 bets (180)
+iainmcnaught calls (180)
+** Dealing River ** :  [ Ks ]
+KingArtur888 bets (120)
+iainmcnaught folds.
+** Summary **
+Main Pot: 840
+Board: [ 2h 3h Qs 5s Ks  ]
+
+ringading333 balance 1900, didn't bet (folded)
+debz1111 balance 750, didn't bet (folded)
+Dukx2 balance 4070, lost 60 (folded)
+hatoka balance 2380, lost 60 (folded)
+KingArtur888 balance 2900, bet 480, collected 960, net +480
+iainmcnaught balance 4910, lost 360 (folded)
+PolySlovenia balance 3090, didn't bet (folded)
+
+***** Hand History for Game 6004015911 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:17:48 EDT 2007
+Table Table  125655 (Real Money) -- Seat 3 is the button
+Total number of players : 7
+Seat 1: ringading333 (1900)
+Seat 2: debz1111 (750)
+Seat 3: Dukx2 (4070)
+Seat 4: hatoka (2380)
+Seat 5: KingArtur888 (2900)
+Seat 7: iainmcnaught (4910)
+Seat 9: PolySlovenia (3090)
+hatoka  posts small blind (30)
+KingArtur888  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 4h, Tc ]
+iainmcnaught calls (60)
+PolySlovenia folds.
+ringading333 calls (60)
+debz1111 folds.
+Dukx2 calls (60)
+hatoka folds.
+KingArtur888 checks.
+** Dealing Flop ** :  [ Ad, 9c, 4s ]
+KingArtur888 bets (180)
+iainmcnaught calls (180)
+ringading333 folds.
+Dukx2 folds.
+** Dealing Turn ** :  [ 8d ]
+KingArtur888 checks.
+iainmcnaught checks.
+** Dealing River ** :  [ 3h ]
+KingArtur888 bets (120)
+iainmcnaught calls (120)
+** Summary **
+Main Pot: 870
+Board: [ Ad 9c 4s 8d 3h  ]
+
+ringading333 balance 1840, lost 60 (folded)
+debz1111 balance 750, didn't bet (folded)
+Dukx2 balance 4010, lost 60 (folded)
+hatoka balance 2350, lost 30 (folded)
+KingArtur888 balance 3410, bet 360, collected 870, net +510 [ 5d As ] [ a pair of Aces -- As,Ad,9c,8d,5d ]
+iainmcnaught balance 4550, lost 360 [ 4c Ks ] [ a pair of Fours -- Ad,Ks,9c,4c,4s ]
+
+PolySlovenia balance 3090, didn't bet (folded)
+
+***** Hand History for Game 6004018674 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:19:03 EDT 2007
+Table Table  125655 (Real Money) -- Seat 4 is the button
+Total number of players : 7
+Seat 1: ringading333 (1840)
+Seat 2: debz1111 (750)
+Seat 3: Dukx2 (4010)
+Seat 4: hatoka (2350)
+Seat 5: KingArtur888 (3410)
+Seat 7: iainmcnaught (4550)
+Seat 9: PolySlovenia (3090)
+KingArtur888  posts small blind (50)
+iainmcnaught  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 9h, 2h ]
+PolySlovenia calls (100)
+ringading333 folds.
+debz1111 calls (100)
+Dukx2 folds.
+hatoka folds.
+KingArtur888 calls (50)
+iainmcnaught folds.
+** Dealing Flop ** :  [ 4d, 5c, Qd ]
+KingArtur888 checks.
+PolySlovenia bets (200)
+debz1111 calls (200)
+KingArtur888 folds.
+** Dealing Turn ** :  [ 3s ]
+PolySlovenia bets (200)
+debz1111 raises (400) to 400
+PolySlovenia raises (2590) to 2790
+PolySlovenia is all-In.
+debz1111 calls (50)
+debz1111 is all-In.
+** Dealing River ** :  [ 8c ]
+Creating Main Pot with $1700 with debz1111
+** Summary **
+Main Pot: 1700
+Board: [ 4d 5c Qd 3s 8c  ]
+
+ringading333 balance 1840, didn't bet (folded)
+debz1111 balance 1700, bet 750, collected 1700, net +950 [ As 2c ] [ a straight Ace to Five -- As,5c,4d,3s,2c ]
+Dukx2 balance 4010, didn't bet (folded)
+hatoka balance 2350, didn't bet (folded)
+KingArtur888 balance 3310, lost 100 (folded)
+iainmcnaught balance 4450, lost 100 (folded)
+PolySlovenia balance 2340, bet 3090, collected 2340, lost -750 [ Js Qs ] [ a pair of Queens -- Qs,Qd,Js,8c,5c ]
+
+***** Hand History for Game 6004020740 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:20:00 EDT 2007
+Table Table  125655 (Real Money) -- Seat 5 is the button
+Total number of players : 7
+Seat 1: ringading333 (1840)
+Seat 2: debz1111 (1700)
+Seat 3: Dukx2 (4010)
+Seat 4: hatoka (2350)
+Seat 5: KingArtur888 (3310)
+Seat 7: iainmcnaught (4450)
+Seat 9: PolySlovenia (2340)
+iainmcnaught  posts small blind (50)
+PolySlovenia  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Qc, 8c ]
+ringading333 folds.
+debz1111 folds.
+Dukx2 calls (100)
+hatoka calls (100)
+KingArtur888 calls (100)
+iainmcnaught calls (50)
+PolySlovenia checks.
+** Dealing Flop ** :  [ 2d, 4h, 3d ]
+iainmcnaught checks.
+PolySlovenia checks.
+Dukx2 bets (100)
+hatoka folds.
+KingArtur888 calls (100)
+iainmcnaught folds.
+PolySlovenia calls (100)
+** Dealing Turn ** :  [ 7s ]
+PolySlovenia checks.
+Dukx2 bets (100)
+KingArtur888 calls (100)
+PolySlovenia calls (100)
+** Dealing River ** :  [ 3s ]
+PolySlovenia bets (200)
+Dukx2 raises (400) to 400
+KingArtur888 folds.
+PolySlovenia calls (200)
+** Summary **
+Main Pot: 1900
+Board: [ 2d 4h 3d 7s 3s  ]
+
+ringading333 balance 1840, didn't bet (folded)
+debz1111 balance 1700, didn't bet (folded)
+Dukx2 balance 5210, bet 700, collected 1900, net +1200 [ 2c Kc ] [ two pairs, Threes and Twos -- Kc,3d,3s,2c,2d ]
+hatoka balance 2250, lost 100 (folded)
+KingArtur888 balance 3010, lost 300 (folded)
+iainmcnaught balance 4350, lost 100 (folded)
+PolySlovenia balance 1640, lost 700 [ Qh As ] [ a pair of Threes -- As,Qh,7s,3d,3s ]
+
+
+***** Hand History for Game 6004023007 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:21:02 EDT 2007
+Table Table  125655 (Real Money) -- Seat 7 is the button
+Total number of players : 7
+Seat 1: ringading333 (1840)
+Seat 2: debz1111 (1700)
+Seat 3: Dukx2 (5210)
+Seat 4: hatoka (2250)
+Seat 5: KingArtur888 (3010)
+Seat 7: iainmcnaught (4350)
+Seat 9: PolySlovenia (1640)
+PolySlovenia  posts small blind (50)
+ringading333  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Ad, Jd ]
+debz1111 folds.
+Dukx2 calls (100)
+hatoka raises (300) to 300
+KingArtur888 folds.
+iainmcnaught calls (300)
+PolySlovenia folds.
+ringading333 calls (200)
+Dukx2 calls (200)
+** Dealing Flop ** :  [ 8h, Kc, Th ]
+ringading333 checks.
+Dukx2 checks.
+hatoka bets (200)
+iainmcnaught calls (200)
+ringading333 calls (200)
+Dukx2 calls (200)
+** Dealing Turn ** :  [ 3c ]
+ringading333 checks.
+Dukx2 checks.
+hatoka checks.
+iainmcnaught checks.
+** Dealing River ** :  [ 6d ]
+ringading333 checks.
+Dukx2 checks.
+hatoka checks.
+iainmcnaught checks.
+** Summary **
+Main Pot: 2050
+Board: [ 8h Kc Th 3c 6d  ]
+
+ringading333 balance 3390, bet 500, collected 2050, net +1550 [ Qh Tc ] [ a pair of Tens -- Kc,Qh,Tc,Th,8h ]
+debz1111 balance 1700, didn't bet (folded)
+Dukx2 balance 4710, lost 500 [ Ac Jh ] [ high card Ace -- Ac,Kc,Jh,Th,8h ]
+
+hatoka balance 1750, lost 500 [ Ad Jd ] [ high card Ace -- Ad,Kc,Jd,Th,8h ]
+
+KingArtur888 balance 3010, didn't bet (folded)
+iainmcnaught balance 3850, lost 500 [ As Qd ] [ high card Ace -- As,Kc,Qd,Th,8h ]
+
+PolySlovenia balance 1590, lost 50 (folded)
+
+***** Hand History for Game 6004025359 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:22:05 EDT 2007
+Table Table  125655 (Real Money) -- Seat 9 is the button
+Total number of players : 7
+Seat 1: ringading333 (3390)
+Seat 2: debz1111 (1700)
+Seat 3: Dukx2 (4710)
+Seat 4: hatoka (1750)
+Seat 5: KingArtur888 (3010)
+Seat 7: iainmcnaught (3850)
+Seat 9: PolySlovenia (1590)
+ringading333  posts small blind (50)
+debz1111  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 8c, 7h ]
+Dukx2 folds.
+hatoka folds.
+KingArtur888 folds.
+iainmcnaught folds.
+PolySlovenia calls (100)
+ringading333 calls (50)
+debz1111 checks.
+** Dealing Flop ** :  [ Qc, 8s, 3s ]
+ringading333 checks.
+debz1111 checks.
+PolySlovenia bets (300)
+ringading333 folds.
+debz1111 folds.
+** Summary **
+Main Pot: 300
+Board: [ Qc 8s 3s  ]
+
+ringading333 balance 3290, lost 100 (folded)
+debz1111 balance 1600, lost 100 (folded)
+Dukx2 balance 4710, didn't bet (folded)
+hatoka balance 1750, didn't bet (folded)
+KingArtur888 balance 3010, didn't bet (folded)
+iainmcnaught balance 3850, didn't bet (folded)
+PolySlovenia balance 1790, bet 400, collected 600, net +200
+
+***** Hand History for Game 6004026427 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:22:34 EDT 2007
+Table Table  125655 (Real Money) -- Seat 1 is the button
+Total number of players : 7
+Seat 1: ringading333 (3290)
+Seat 2: debz1111 (1600)
+Seat 3: Dukx2 (4710)
+Seat 4: hatoka (1750)
+Seat 5: KingArtur888 (3010)
+Seat 7: iainmcnaught (3850)
+Seat 9: PolySlovenia (1790)
+debz1111  posts small blind (50)
+Dukx2  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 6s, 6h ]
+hatoka raises (200) to 200
+KingArtur888 folds.
+iainmcnaught calls (200)
+PolySlovenia folds.
+ringading333 folds.
+debz1111 folds.
+Dukx2 calls (100)
+** Dealing Flop ** :  [ 9c, 9h, 4s ]
+Dukx2 checks.
+hatoka bets (600)
+iainmcnaught folds.
+Dukx2 folds.
+** Summary **
+Main Pot: 650
+Board: [ 9c 9h 4s  ]
+
+ringading333 balance 3290, didn't bet (folded)
+debz1111 balance 1550, lost 50 (folded)
+Dukx2 balance 4510, lost 200 (folded)
+hatoka balance 2200, bet 800, collected 1250, net +450
+KingArtur888 balance 3010, didn't bet (folded)
+iainmcnaught balance 3650, lost 200 (folded)
+PolySlovenia balance 1790, didn't bet (folded)
+
+***** Hand History for Game 6004028084 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:23:20 EDT 2007
+Table Table  125655 (Real Money) -- Seat 2 is the button
+Total number of players : 7
+Seat 1: ringading333 (3290)
+Seat 2: debz1111 (1550)
+Seat 3: Dukx2 (4510)
+Seat 4: hatoka (2200)
+Seat 5: KingArtur888 (3010)
+Seat 7: iainmcnaught (3650)
+Seat 9: PolySlovenia (1790)
+Dukx2  posts small blind (50)
+hatoka  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 9c, 9d ]
+KingArtur888 raises (400) to 400
+iainmcnaught folds.
+PolySlovenia folds.
+ringading333 folds.
+debz1111 folds.
+Dukx2 folds.
+hatoka calls (300)
+** Dealing Flop ** :  [ 3d, 3h, 6c ]
+hatoka checks.
+KingArtur888 bets (600)
+hatoka calls (600)
+** Dealing Turn ** :  [ 5c ]
+hatoka checks.
+KingArtur888 bets (800)
+hatoka folds.
+** Summary **
+Main Pot: 2050
+Board: [ 3d 3h 6c 5c  ]
+
+ringading333 balance 3290, didn't bet (folded)
+debz1111 balance 1550, didn't bet (folded)
+Dukx2 balance 4460, lost 50 (folded)
+hatoka balance 1200, lost 1000 (folded)
+KingArtur888 balance 4060, bet 1800, collected 2850, net +1050
+iainmcnaught balance 3650, didn't bet (folded)
+PolySlovenia balance 1790, didn't bet (folded)
+
+***** Hand History for Game 6004030100 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:24:16 EDT 2007
+Table Table  125655 (Real Money) -- Seat 3 is the button
+Total number of players : 7
+Seat 1: ringading333 (3290)
+Seat 2: debz1111 (1550)
+Seat 3: Dukx2 (4460)
+Seat 4: hatoka (1200)
+Seat 5: KingArtur888 (4060)
+Seat 7: iainmcnaught (3650)
+Seat 9: PolySlovenia (1790)
+hatoka  posts small blind (50)
+KingArtur888  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Ah, Jh ]
+iainmcnaught calls (100)
+PolySlovenia folds.
+ringading333 raises (500) to 500
+debz1111 folds.
+Dukx2 folds.
+hatoka calls (450)
+KingArtur888 folds.
+iainmcnaught folds.
+** Dealing Flop ** :  [ 5h, 2d, 6d ]
+hatoka bets (700)
+hatoka is all-In.
+ringading333 calls (700)
+** Dealing Turn ** :  [ 4h ]
+** Dealing River ** :  [ 8c ]
+Creating Main Pot with $2600 with hatoka
+** Summary **
+Main Pot: 2600
+Board: [ 5h 2d 6d 4h 8c  ]
+
+ringading333 balance 3390, bet 1200, collected 1300, net +100 [ Jc Ac ] [ high card Ace -- Ac,Jc,8c,6d,5h ]
+debz1111 balance 1550, didn't bet (folded)
+Dukx2 balance 4460, didn't bet (folded)
+hatoka balance 1300, bet 1200, collected 1300, net +100 [ Ah Jh ] [ high card Ace -- Ah,Jh,8c,6d,5h ]
+KingArtur888 balance 3960, lost 100 (folded)
+iainmcnaught balance 3550, lost 100 (folded)
+PolySlovenia balance 1790, didn't bet (folded)
+
+***** Hand History for Game 6004031318 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:24:50 EDT 2007
+Table Table  125655 (Real Money) -- Seat 4 is the button
+Total number of players : 7
+Seat 1: ringading333 (3390)
+Seat 2: debz1111 (1550)
+Seat 3: Dukx2 (4460)
+Seat 4: hatoka (1300)
+Seat 5: KingArtur888 (3960)
+Seat 7: iainmcnaught (3550)
+Seat 9: PolySlovenia (1790)
+KingArtur888  posts small blind (50)
+iainmcnaught  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 3s, 5h ]
+PolySlovenia calls (100)
+ringading333 folds.
+debz1111 folds.
+Dukx2 folds.
+hatoka folds.
+KingArtur888 calls (50)
+iainmcnaught checks.
+** Dealing Flop ** :  [ Jc, Ah, 4c ]
+KingArtur888 checks.
+iainmcnaught checks.
+PolySlovenia bets (300)
+KingArtur888 folds.
+iainmcnaught calls (300)
+** Dealing Turn ** :  [ Kh ]
+iainmcnaught checks.
+PolySlovenia bets (300)
+iainmcnaught calls (300)
+** Dealing River ** :  [ 3c ]
+iainmcnaught checks.
+PolySlovenia bets (500)
+iainmcnaught calls (500)
+** Summary **
+Main Pot: 2500
+Board: [ Jc Ah 4c Kh 3c  ]
+
+ringading333 balance 3390, didn't bet (folded)
+debz1111 balance 1550, didn't bet (folded)
+Dukx2 balance 4460, didn't bet (folded)
+hatoka balance 1300, didn't bet (folded)
+KingArtur888 balance 3860, lost 100 (folded)
+iainmcnaught balance 2350, lost 1200 [ Jh 8s ] [ a pair of Jacks -- Ah,Kh,Jh,Jc,8s ]
+
+PolySlovenia balance 3090, bet 1200, collected 2500, net +1300 [ Ks Js ] [ two pairs, Kings and Jacks -- Ah,Ks,Kh,Js,Jc ]
+
+***** Hand History for Game 6004033733 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:26:00 EDT 2007
+Table Table  125655 (Real Money) -- Seat 5 is the button
+Total number of players : 7
+Seat 1: ringading333 (3390)
+Seat 2: debz1111 (1550)
+Seat 3: Dukx2 (4460)
+Seat 4: hatoka (1300)
+Seat 5: KingArtur888 (3860)
+Seat 7: iainmcnaught (2350)
+Seat 9: PolySlovenia (3090)
+iainmcnaught  posts small blind (50)
+PolySlovenia  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Qc, Th ]
+ringading333 calls (100)
+debz1111 folds.
+Dukx2 calls (100)
+hatoka folds.
+KingArtur888 folds.
+iainmcnaught raises (150) to 200
+PolySlovenia folds.
+ringading333 calls (100)
+Dukx2 calls (100)
+** Dealing Flop ** :  [ 7c, 9d, Qd ]
+iainmcnaught checks.
+ringading333 checks.
+Dukx2 checks.
+** Dealing Turn ** :  [ 4c ]
+iainmcnaught checks.
+ringading333 checks.
+Dukx2 checks.
+** Dealing River ** :  [ 9h ]
+iainmcnaught checks.
+ringading333 checks.
+Dukx2 checks.
+** Summary **
+Main Pot: 700
+Board: [ 7c 9d Qd 4c 9h  ]
+
+ringading333 balance 3190, lost 200 [ Jd Kh ] [ a pair of Nines with Jack kicker -- Kh,Qd,Jd,9d,9hJd(kicker card) ]
+debz1111 balance 1550, didn't bet (folded)
+Dukx2 balance 4960, bet 200, collected 700, net +500 [ 6d 6h ] [ two pairs, Nines and Sixes -- Qd,9d,9h,6d,6h ]
+hatoka balance 1300, didn't bet (folded)
+KingArtur888 balance 3860, didn't bet (folded)
+iainmcnaught balance 2150, lost 200 [ Kc 6c ] [ a pair of Nines -- Kc,Qd,9d,9h,7c ]
+PolySlovenia balance 2990, lost 100 (folded)
+
+***** Hand History for Game 6004035672 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:26:55 EDT 2007
+Table Table  125655 (Real Money) -- Seat 7 is the button
+Total number of players : 7
+Seat 1: ringading333 (3190)
+Seat 2: debz1111 (1550)
+Seat 3: Dukx2 (4960)
+Seat 4: hatoka (1300)
+Seat 5: KingArtur888 (3860)
+Seat 7: iainmcnaught (2150)
+Seat 9: PolySlovenia (2990)
+PolySlovenia  posts small blind (50)
+ringading333  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 6h, Tc ]
+debz1111 folds.
+Dukx2 folds.
+hatoka folds.
+KingArtur888 folds.
+iainmcnaught calls (100)
+PolySlovenia raises (250) to 300
+ringading333 calls (200)
+iainmcnaught folds.
+** Dealing Flop ** :  [ Ad, 8c, Td ]
+PolySlovenia bets (400)
+ringading333 folds.
+** Summary **
+Main Pot: 700
+Board: [ Ad 8c Td  ]
+
+ringading333 balance 2890, lost 300 (folded)
+debz1111 balance 1550, didn't bet (folded)
+Dukx2 balance 4960, didn't bet (folded)
+hatoka balance 1300, didn't bet (folded)
+KingArtur888 balance 3860, didn't bet (folded)
+iainmcnaught balance 2050, lost 100 (folded)
+PolySlovenia balance 3390, bet 700, collected 1100, net +400 [ Ac Qs ] [ a pair of Aces -- Ac,Ad,Qs,Td,8c ]
+
+***** Hand History for Game 6004036729 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:27:24 EDT 2007
+Table Table  125655 (Real Money) -- Seat 9 is the button
+Total number of players : 7
+Seat 1: ringading333 (2890)
+Seat 2: debz1111 (1550)
+Seat 3: Dukx2 (4960)
+Seat 4: hatoka (1300)
+Seat 5: KingArtur888 (3860)
+Seat 7: iainmcnaught (2050)
+Seat 9: PolySlovenia (3390)
+ringading333  posts small blind (50)
+debz1111  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Qc, 8d ]
+Dukx2 folds.
+hatoka folds.
+KingArtur888 folds.
+iainmcnaught folds.
+PolySlovenia folds.
+ringading333: nh
+ringading333 calls (50)
+debz1111 checks.
+** Dealing Flop ** :  [ 5s, 7d, Jd ]
+ringading333 bets (100)
+debz1111 folds.
+PolySlovenia: thx
+** Summary **
+Main Pot: 200
+Board: [ 5s 7d Jd  ]
+
+ringading333 balance 2990, bet 200, collected 300, net +100
+debz1111 balance 1450, lost 100 (folded)
+Dukx2 balance 4960, didn't bet (folded)
+hatoka balance 1300, didn't bet (folded)
+KingArtur888 balance 3860, didn't bet (folded)
+iainmcnaught balance 2050, didn't bet (folded)
+PolySlovenia balance 3390, didn't bet (folded)
+
+***** Hand History for Game 6004037475 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:27:46 EDT 2007
+Table Table  125655 (Real Money) -- Seat 1 is the button
+Total number of players : 7
+Seat 1: ringading333 (2990)
+Seat 2: debz1111 (1450)
+Seat 3: Dukx2 (4960)
+Seat 4: hatoka (1300)
+Seat 5: KingArtur888 (3860)
+Seat 7: iainmcnaught (2050)
+Seat 9: PolySlovenia (3390)
+debz1111  posts small blind (50)
+Dukx2  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 3s, 7c ]
+hatoka folds.
+KingArtur888 folds.
+iainmcnaught folds.
+PolySlovenia raises (300) to 300
+ringading333 raises (700) to 700
+debz1111 folds.
+Dukx2 folds.
+PolySlovenia calls (400)
+** Dealing Flop ** :  [ 5s, Ks, Qd ]
+PolySlovenia checks.
+ringading333 bets (2290)
+ringading333 is all-In.
+PolySlovenia: qT
+PolySlovenia folds.
+Creating Main Pot with $1550 with ringading333
+** Summary **
+Main Pot: 1550
+Board: [ 5s Ks Qd  ]
+
+ringading333 balance 3840, bet 2990, collected 3840, net +850 [ Ad As ] [ a pair of Aces -- Ad,As,Ks,Qd,5s ]
+debz1111 balance 1400, lost 50 (folded)
+Dukx2 balance 4860, lost 100 (folded)
+hatoka balance 1300, didn't bet (folded)
+KingArtur888 balance 3860, didn't bet (folded)
+iainmcnaught balance 2050, didn't bet (folded)
+PolySlovenia balance 2690, lost 700 (folded)
+
+***** Hand History for Game 6004039346 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:28:37 EDT 2007
+Table Table  125655 (Real Money) -- Seat 2 is the button
+Total number of players : 7
+Seat 1: ringading333 (3840)
+Seat 2: debz1111 (1400)
+Seat 3: Dukx2 (4860)
+Seat 4: hatoka (1300)
+Seat 5: KingArtur888 (3860)
+Seat 7: iainmcnaught (2050)
+Seat 9: PolySlovenia (2690)
+Dukx2  posts small blind (50)
+hatoka  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 5c, 4c ]
+KingArtur888 folds.
+iainmcnaught folds.
+PolySlovenia folds.
+ringading333 folds.
+debz1111 folds.
+Dukx2 calls (50)
+hatoka checks.
+** Dealing Flop ** :  [ Ad, Kh, 8d ]
+Dukx2 bets (100)
+hatoka folds.
+** Summary **
+Main Pot: 200
+Board: [ Ad Kh 8d  ]
+
+ringading333 balance 3840, didn't bet (folded)
+debz1111 balance 1400, didn't bet (folded)
+Dukx2 balance 4960, bet 200, collected 300, net +100
+hatoka balance 1200, lost 100 (folded)
+KingArtur888 balance 3860, didn't bet (folded)
+iainmcnaught balance 2050, didn't bet (folded)
+PolySlovenia balance 2690, didn't bet (folded)
+
+***** Hand History for Game 6004040129 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:28:57 EDT 2007
+Table Table  125655 (Real Money) -- Seat 3 is the button
+Total number of players : 7
+Seat 1: ringading333 (3840)
+Seat 2: debz1111 (1400)
+Seat 3: Dukx2 (4960)
+Seat 4: hatoka (1200)
+Seat 5: KingArtur888 (3860)
+Seat 7: iainmcnaught (2050)
+Seat 9: PolySlovenia (2690)
+hatoka  posts small blind (50)
+KingArtur888  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 4h, Qh ]
+iainmcnaught calls (100)
+PolySlovenia folds.
+ringading333 folds.
+debz1111 folds.
+Dukx2 calls (100)
+hatoka calls (50)
+KingArtur888 checks.
+** Dealing Flop ** :  [ 6c, 4c, Kd ]
+hatoka checks.
+PolySlovenia: even better hands before a?
+KingArtur888 checks.
+iainmcnaught checks.
+Dukx2 checks.
+** Dealing Turn ** :  [ Ts ]
+hatoka bets (100)
+KingArtur888 folds.
+iainmcnaught calls (100)
+Dukx2 calls (100)
+** Dealing River ** :  [ 9s ]
+ringading333: ?
+hatoka checks.
+iainmcnaught checks.
+Dukx2 bets (200)
+hatoka folds.
+iainmcnaught folds.
+** Summary **
+Main Pot: 700
+Board: [ 6c 4c Kd Ts 9s  ]
+
+ringading333 balance 3840, didn't bet (folded)
+debz1111 balance 1400, didn't bet (folded)
+Dukx2 balance 5460, bet 400, collected 900, net +500
+hatoka balance 1000, lost 200 (folded)
+KingArtur888 balance 3760, lost 100 (folded)
+iainmcnaught balance 1850, lost 200 (folded)
+PolySlovenia balance 2690, didn't bet (folded)
+
+***** Hand History for Game 6004043177 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:30:21 EDT 2007
+Table Table  125655 (Real Money) -- Seat 4 is the button
+Total number of players : 7
+Seat 1: ringading333 (3840)
+Seat 2: debz1111 (1400)
+Seat 3: Dukx2 (5460)
+Seat 4: hatoka (1000)
+Seat 5: KingArtur888 (3760)
+Seat 7: iainmcnaught (1850)
+Seat 9: PolySlovenia (2690)
+KingArtur888  posts small blind (100)
+iainmcnaught  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Jd, As ]
+PolySlovenia folds.
+ringading333 raises (400) to 400
+debz1111 calls (400)
+Dukx2 folds.
+hatoka raises (1000) to 1000
+hatoka is all-In.
+KingArtur888 folds.
+iainmcnaught folds.
+ringading333 calls (600)
+debz1111 folds.
+** Dealing Flop ** :  [ 9d, 3s, 5d ]
+** Dealing Turn ** :  [ 8s ]
+** Dealing River ** :  [ 7d ]
+Creating Main Pot with $2700 with hatoka
+** Summary **
+Main Pot: 2700
+Board: [ 9d 3s 5d 8s 7d  ]
+
+ringading333 balance 5540, bet 1000, collected 2700, net +1700 [ Ad Qd ] [ a flush, Ace high -- Ad,Qd,9d,7d,5d ]
+debz1111 balance 1000, lost 400 (folded)
+Dukx2 balance 5460, didn't bet (folded)
+hatoka balance 0, lost 1000 [ Jd As ] [ high card Ace -- As,Jd,9d,8s,7d ]
+KingArtur888 balance 3660, lost 100 (folded)
+iainmcnaught balance 1650, lost 200 (folded)
+PolySlovenia balance 2690, didn't bet (folded)
+
+***** Hand History for Game 6004044599 *****
+hatoka finished in 7 place.
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:31:00 EDT 2007
+Table Table  125655 (Real Money) -- Seat 5 is the button
+Total number of players : 6
+Seat 1: ringading333 (5540)
+Seat 2: debz1111 (1000)
+Seat 3: Dukx2 (5460)
+Seat 5: KingArtur888 (3660)
+Seat 7: iainmcnaught (1650)
+Seat 9: PolySlovenia (2690)
+iainmcnaught  posts small blind (100)
+PolySlovenia  posts big blind (200)
+** Dealing down cards **
+ringading333 calls (200)
+debz1111 calls (200)
+Dukx2 folds.
+KingArtur888 folds.
+iainmcnaught folds.
+PolySlovenia checks.
+** Dealing Flop ** :  [ 7h, Qs, 4c ]
+PolySlovenia checks.
+ringading333 checks.
+debz1111 bets (800)
+debz1111 is all-In.
+PolySlovenia folds.
+ringading333 folds.
+Creating Main Pot with $700 with debz1111
+** Summary **
+Main Pot: 700
+Board: [ 7h Qs 4c  ]
+
+ringading333 balance 5340, lost 200 (folded)
+debz1111 balance 1500, bet 1000, collected 1500, net +500
+Dukx2 balance 5460, didn't bet (folded)
+KingArtur888 balance 3660, didn't bet (folded)
+iainmcnaught balance 1550, lost 100 (folded)
+PolySlovenia balance 2490, lost 200 (folded)
+
+***** Hand History for Game 6004045588 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:31:27 EDT 2007
+Table Table  125655 (Real Money) -- Seat 7 is the button
+Total number of players : 6
+Seat 1: ringading333 (5340)
+Seat 2: debz1111 (1500)
+Seat 3: Dukx2 (5460)
+Seat 5: KingArtur888 (3660)
+Seat 7: iainmcnaught (1550)
+Seat 9: PolySlovenia (2490)
+PolySlovenia  posts small blind (100)
+ringading333  posts big blind (200)
+** Dealing down cards **
+debz1111 calls (200)
+Dukx2 folds.
+KingArtur888 folds.
+iainmcnaught folds.
+PolySlovenia calls (100)
+ringading333 checks.
+** Dealing Flop ** :  [ 4s, 2c, 6c ]
+PolySlovenia checks.
+ringading333 checks.
+debz1111 checks.
+** Dealing Turn ** :  [ 5s ]
+PolySlovenia checks.
+ringading333 checks.
+debz1111 checks.
+** Dealing River ** :  [ Qh ]
+PolySlovenia checks.
+ringading333 bets (400)
+debz1111 calls (400)
+PolySlovenia folds.
+** Summary **
+Main Pot: 1400
+Board: [ 4s 2c 6c 5s Qh  ]
+
+ringading333 balance 6140, bet 600, collected 1400, net +800 [ Ad Qc ] [ a pair of Queens -- Ad,Qc,Qh,6c,5s ]
+
+debz1111 balance 900, lost 600 [Didn't Show]
+Dukx2 balance 5460, didn't bet (folded)
+KingArtur888 balance 3660, didn't bet (folded)
+iainmcnaught balance 1550, didn't bet (folded)
+PolySlovenia balance 2290, lost 200 (folded)
+
+***** Hand History for Game 6004046868 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:32:03 EDT 2007
+Table Table  125655 (Real Money) -- Seat 9 is the button
+Total number of players : 6
+Seat 1: ringading333 (6140)
+Seat 2: debz1111 (900)
+Seat 3: Dukx2 (5460)
+Seat 5: KingArtur888 (3660)
+Seat 7: iainmcnaught (1550)
+Seat 9: PolySlovenia (2290)
+ringading333  posts small blind (100)
+debz1111  posts big blind (200)
+** Dealing down cards **
+Dukx2 folds.
+KingArtur888 folds.
+iainmcnaught folds.
+PolySlovenia folds.
+ringading333 folds.
+** Summary **
+Main Pot: 200
+
+ringading333 balance 6040, lost 100 (folded)
+debz1111 balance 1000, bet 200, collected 300, net +100 [ Jh Jc ] [ a pair of Jacks -- Jh,Jc ]
+Dukx2 balance 5460, didn't bet (folded)
+KingArtur888 balance 3660, didn't bet (folded)
+iainmcnaught balance 1550, didn't bet (folded)
+PolySlovenia balance 2290, didn't bet (folded)
+
+***** Hand History for Game 6004047813 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:32:29 EDT 2007
+Table Table  125655 (Real Money) -- Seat 1 is the button
+Total number of players : 6
+Seat 1: ringading333 (6040)
+Seat 2: debz1111 (1000)
+Seat 3: Dukx2 (5460)
+Seat 5: KingArtur888 (3660)
+Seat 7: iainmcnaught (1550)
+Seat 9: PolySlovenia (2290)
+debz1111  posts small blind (100)
+Dukx2  posts big blind (200)
+** Dealing down cards **
+KingArtur888 folds.
+ringading333: 6/3 sorry
+iainmcnaught calls (200)
+PolySlovenia folds.
+ringading333 folds.
+debz1111: lol
+debz1111 raises (500) to 600
+ringading333: lol
+Dukx2 folds.
+iainmcnaught calls (400)
+** Dealing Flop ** :  [ 7s, Th, 6h ]
+debz1111 bets (400)
+debz1111 is all-In.
+iainmcnaught calls (400)
+** Dealing Turn ** :  [ 8s ]
+** Dealing River ** :  [ Qc ]
+Creating Main Pot with $2200 with debz1111
+** Summary **
+Main Pot: 2200
+Board: [ 7s Th 6h 8s Qc  ]
+
+ringading333 balance 6040, didn't bet (folded)
+debz1111 balance 2200, bet 1000, collected 2200, net +1200 [ Ah Ac ] [ a pair of Aces -- Ah,Ac,Qc,Th,8s ]
+Dukx2 balance 5260, lost 200 (folded)
+KingArtur888 balance 3660, didn't bet (folded)
+iainmcnaught balance 550, lost 1000 [ Td Kc ] [ a pair of Tens -- Kc,Qc,Td,Th,8s ]
+PolySlovenia balance 2290, didn't bet (folded)
+
+***** Hand History for Game 6004049145 *****
+ringading333: vn
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:33:05 EDT 2007
+Table Table  125655 (Real Money) -- Seat 2 is the button
+Total number of players : 6
+Seat 1: ringading333 (6040)
+Seat 2: debz1111 (2200)
+Seat 3: Dukx2 (5260)
+Seat 5: KingArtur888 (3660)
+Seat 7: iainmcnaught (550)
+Seat 9: PolySlovenia (2290)
+Dukx2  posts small blind (100)
+KingArtur888  posts big blind (200)
+** Dealing down cards **
+iainmcnaught folds.
+PolySlovenia raises (400) to 400
+ringading333 folds.
+debz1111 folds.
+Dukx2 folds.
+KingArtur888 folds.
+** Summary **
+Main Pot: 500
+
+ringading333 balance 6040, didn't bet (folded)
+debz1111 balance 2200, didn't bet (folded)
+Dukx2 balance 5160, lost 100 (folded)
+KingArtur888 balance 3460, lost 200 (folded)
+iainmcnaught balance 550, didn't bet (folded)
+PolySlovenia balance 2590, bet 400, collected 700, net +300
+
+***** Hand History for Game 6004049670 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:33:20 EDT 2007
+Table Table  125655 (Real Money) -- Seat 3 is the button
+Total number of players : 6
+Seat 1: ringading333 (6040)
+Seat 2: debz1111 (2200)
+Seat 3: Dukx2 (5160)
+Seat 5: KingArtur888 (3460)
+Seat 7: iainmcnaught (550)
+Seat 9: PolySlovenia (2590)
+KingArtur888  posts small blind (100)
+iainmcnaught  posts big blind (200)
+** Dealing down cards **
+PolySlovenia folds.
+ringading333 folds.
+debz1111 folds.
+Dukx2 folds.
+KingArtur888 calls (100)
+iainmcnaught checks.
+** Dealing Flop ** :  [ 9s, 5c, Kc ]
+KingArtur888 bets (200)
+iainmcnaught folds.
+** Summary **
+Main Pot: 400
+Board: [ 9s 5c Kc  ]
+
+ringading333 balance 6040, didn't bet (folded)
+debz1111 balance 2200, didn't bet (folded)
+Dukx2 balance 5160, didn't bet (folded)
+KingArtur888 balance 3660, bet 400, collected 600, net +200
+iainmcnaught balance 350, lost 200 (folded)
+PolySlovenia balance 2590, didn't bet (folded)
+
+***** Hand History for Game 6004050399 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:33:40 EDT 2007
+Table Table  125655 (Real Money) -- Seat 5 is the button
+Total number of players : 6
+Seat 1: ringading333 (6040)
+Seat 2: debz1111 (2200)
+Seat 3: Dukx2 (5160)
+Seat 5: KingArtur888 (3660)
+Seat 7: iainmcnaught (350)
+Seat 9: PolySlovenia (2590)
+iainmcnaught  posts small blind (100)
+PolySlovenia  posts big blind (200)
+** Dealing down cards **
+ringading333 calls (200)
+debz1111 folds.
+Dukx2 folds.
+KingArtur888 calls (200)
+iainmcnaught raises (250) to 350
+iainmcnaught is all-In.
+PolySlovenia folds.
+ringading333 calls (150)
+KingArtur888 calls (150)
+Creating Main Pot with $1250 with iainmcnaught
+** Dealing Flop ** :  [ Qc, 9h, 9c ]
+ringading333 bets (400)
+KingArtur888 calls (400)
+** Dealing Turn ** :  [ 8h ]
+ringading333 bets (600)
+KingArtur888 calls (600)
+** Dealing River ** :  [ 5d ]
+ringading333 bets (800)
+KingArtur888 calls (800)
+** Summary **
+Main Pot: 1250 | Side Pot 1: 3600
+Board: [ Qc 9h 9c 8h 5d  ]
+
+ringading333 balance 7490, bet 2150, collected 3600, net +1450 [ Ks Qh ] [ two pairs, Queens and Nines with King kicker -- Ks,Qh,Qc,9h,9c ]
+debz1111 balance 2200, didn't bet (folded)
+Dukx2 balance 5160, didn't bet (folded)
+
+KingArtur888 balance 1510, lost 2150 [Didn't Show]
+iainmcnaught balance 1250, bet 350, collected 1250, net +900 [ Ah As ] [ two pairs, Aces and Nines -- Ah,As,Qc,9h,9c ]
+PolySlovenia balance 2390, lost 200 (folded)
+
+***** Hand History for Game 6004052915 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:34:49 EDT 2007
+Table Table  125655 (Real Money) -- Seat 7 is the button
+Total number of players : 6
+Seat 1: ringading333 (7490)
+Seat 2: debz1111 (2200)
+Seat 3: Dukx2 (5160)
+Seat 5: KingArtur888 (1510)
+Seat 7: iainmcnaught (1250)
+Seat 9: PolySlovenia (2390)
+PolySlovenia  posts small blind (100)
+ringading333  posts big blind (200)
+** Dealing down cards **
+debz1111 folds.
+Dukx2 folds.
+KingArtur888 folds.
+iainmcnaught folds.
+PolySlovenia folds.
+** Summary **
+Main Pot: 200
+
+ringading333 balance 7590, bet 200, collected 300, net +100
+debz1111 balance 2200, didn't bet (folded)
+Dukx2 balance 5160, didn't bet (folded)
+KingArtur888 balance 1510, didn't bet (folded)
+iainmcnaught balance 1250, didn't bet (folded)
+PolySlovenia balance 2290, lost 100 (folded)
+
+***** Hand History for Game 6004053584 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:35:07 EDT 2007
+Table Table  125655 (Real Money) -- Seat 9 is the button
+Total number of players : 6
+Seat 1: ringading333 (7590)
+Seat 2: debz1111 (2200)
+Seat 3: Dukx2 (5160)
+Seat 5: KingArtur888 (1510)
+Seat 7: iainmcnaught (1250)
+Seat 9: PolySlovenia (2290)
+ringading333  posts small blind (100)
+debz1111  posts big blind (200)
+** Dealing down cards **
+Dukx2 folds.
+KingArtur888 folds.
+iainmcnaught calls (200)
+PolySlovenia folds.
+ringading333 calls (100)
+debz1111 checks.
+** Dealing Flop ** :  [ Ks, 4c, 3c ]
+ringading333 checks.
+debz1111 bets (200)
+iainmcnaught calls (200)
+ringading333 folds.
+** Dealing Turn ** :  [ 8h ]
+debz1111 bets (200)
+iainmcnaught calls (200)
+** Dealing River ** :  [ 6c ]
+debz1111 bets (200)
+iainmcnaught raises (650) to 650
+iainmcnaught is all-In.
+debz1111 calls (450)
+Creating Main Pot with $2700 with iainmcnaught
+** Summary **
+Main Pot: 2700
+Board: [ Ks 4c 3c 8h 6c  ]
+
+ringading333 balance 7390, lost 200 (folded)
+debz1111 balance 950, lost 1250 [ 7d 5s ] [ a straight Four to Eight -- 8h,7d,6c,5s,4c ]
+Dukx2 balance 5160, didn't bet (folded)
+KingArtur888 balance 1510, didn't bet (folded)
+iainmcnaught balance 2700, bet 1250, collected 2700, net +1450 [ Ac Jc ] [ a flush, Ace high -- Ac,Jc,6c,4c,3c ]
+PolySlovenia balance 2290, didn't bet (folded)
+
+***** Hand History for Game 6004055297 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:35:55 EDT 2007
+Table Table  125655 (Real Money) -- Seat 1 is the button
+Total number of players : 6
+Seat 1: ringading333 (7390)
+Seat 2: debz1111 (950)
+Seat 3: Dukx2 (5160)
+Seat 5: KingArtur888 (1510)
+Seat 7: iainmcnaught (2700)
+Seat 9: PolySlovenia (2290)
+debz1111  posts small blind (100)
+Dukx2  posts big blind (200)
+** Dealing down cards **
+KingArtur888 folds.
+iainmcnaught folds.
+PolySlovenia raises (400) to 400
+ringading333 folds.
+debz1111 folds.
+Dukx2 folds.
+** Summary **
+Main Pot: 500
+
+ringading333 balance 7390, didn't bet (folded)
+debz1111 balance 850, lost 100 (folded)
+Dukx2 balance 4960, lost 200 (folded)
+KingArtur888 balance 1510, didn't bet (folded)
+iainmcnaught balance 2700, didn't bet (folded)
+PolySlovenia balance 2590, bet 400, collected 700, net +300
+
+***** Hand History for Game 6004055972 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:36:13 EDT 2007
+Table Table  125655 (Real Money) -- Seat 2 is the button
+Total number of players : 6
+Seat 1: ringading333 (7390)
+Seat 2: debz1111 (850)
+Seat 3: Dukx2 (4960)
+Seat 5: KingArtur888 (1510)
+Seat 7: iainmcnaught (2700)
+Seat 9: PolySlovenia (2590)
+Dukx2  posts small blind (100)
+KingArtur888  posts big blind (200)
+** Dealing down cards **
+iainmcnaught folds.
+PolySlovenia raises (400) to 400
+ringading333 folds.
+debz1111 folds.
+Dukx2 raises (500) to 600
+KingArtur888 folds.
+PolySlovenia raises (2190) to 2590
+PolySlovenia is all-In.
+Dukx2 calls (1990)
+** Dealing Flop ** :  [ 8h, 8s, Tc ]
+** Dealing Turn ** :  [ 8c ]
+** Dealing River ** :  [ Js ]
+Creating Main Pot with $5380 with PolySlovenia
+** Summary **
+Main Pot: 5380
+Board: [ 8h 8s Tc 8c Js  ]
+
+ringading333 balance 7390, didn't bet (folded)
+debz1111 balance 850, didn't bet (folded)
+Dukx2 balance 2370, lost 2590 [ 9h 9d ] [ a full house, Eights full of Nines -- 9h,9d,8h,8s,8c ]
+KingArtur888 balance 1310, lost 200 (folded)
+iainmcnaught balance 2700, didn't bet (folded)
+PolySlovenia balance 5380, bet 2590, collected 5380, net +2790 [ Jd As ] [ a full house, Eights full of Jacks -- Jd,Js,8h,8s,8c ]
+
+***** Hand History for Game 6004057133 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:36:45 EDT 2007
+Table Table  125655 (Real Money) -- Seat 3 is the button
+Total number of players : 6
+Seat 1: ringading333 (7390)
+Seat 2: debz1111 (850)
+Seat 3: Dukx2 (2370)
+Seat 5: KingArtur888 (1310)
+Seat 7: iainmcnaught (2700)
+Seat 9: PolySlovenia (5380)
+KingArtur888  posts small blind (100)
+iainmcnaught  posts big blind (200)
+** Dealing down cards **
+PolySlovenia folds.
+ringading333 folds.
+debz1111 folds.
+Dukx2 calls (200)
+KingArtur888 folds.
+iainmcnaught checks.
+** Dealing Flop ** :  [ Kd, 9s, Qc ]
+iainmcnaught checks.
+Dukx2 checks.
+** Dealing Turn ** :  [ Ah ]
+iainmcnaught checks.
+Dukx2 bets (200)
+iainmcnaught folds.
+** Summary **
+Main Pot: 500
+Board: [ Kd 9s Qc Ah  ]
+
+ringading333 balance 7390, didn't bet (folded)
+debz1111 balance 850, didn't bet (folded)
+Dukx2 balance 2670, bet 400, collected 700, net +300
+KingArtur888 balance 1210, lost 100 (folded)
+iainmcnaught balance 2500, lost 200 (folded)
+PolySlovenia balance 5380, didn't bet (folded)
+
+***** Hand History for Game 6004058016 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:37:09 EDT 2007
+Table Table  125655 (Real Money) -- Seat 5 is the button
+Total number of players : 6
+Seat 1: ringading333 (7390)
+Seat 2: debz1111 (850)
+Seat 3: Dukx2 (2670)
+Seat 5: KingArtur888 (1210)
+Seat 7: iainmcnaught (2500)
+Seat 9: PolySlovenia (5380)
+iainmcnaught  posts small blind (100)
+PolySlovenia  posts big blind (200)
+** Dealing down cards **
+ringading333 folds.
+debz1111 folds.
+Dukx2 calls (200)
+KingArtur888 folds.
+iainmcnaught calls (100)
+PolySlovenia checks.
+** Dealing Flop ** :  [ Jh, 6c, Kc ]
+iainmcnaught checks.
+PolySlovenia checks.
+Dukx2 bets (400)
+iainmcnaught folds.
+PolySlovenia folds.
+** Summary **
+Main Pot: 600
+Board: [ Jh 6c Kc  ]
+
+ringading333 balance 7390, didn't bet (folded)
+debz1111 balance 850, didn't bet (folded)
+Dukx2 balance 3070, bet 600, collected 1000, net +400
+KingArtur888 balance 1210, didn't bet (folded)
+iainmcnaught balance 2300, lost 200 (folded)
+PolySlovenia balance 5180, lost 200 (folded)
+
+***** Hand History for Game 6004058800 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:37:30 EDT 2007
+Table Table  125655 (Real Money) -- Seat 7 is the button
+Total number of players : 6
+Seat 1: ringading333 (7390)
+Seat 2: debz1111 (850)
+Seat 3: Dukx2 (3070)
+Seat 5: KingArtur888 (1210)
+Seat 7: iainmcnaught (2300)
+Seat 9: PolySlovenia (5180)
+PolySlovenia  posts small blind (100)
+ringading333  posts big blind (200)
+** Dealing down cards **
+debz1111 folds.
+Dukx2 calls (200)
+KingArtur888 folds.
+iainmcnaught folds.
+PolySlovenia folds.
+ringading333 checks.
+** Dealing Flop ** :  [ 7c, As, Kd ]
+ringading333 checks.
+Dukx2 bets (200)
+ringading333 calls (200)
+** Dealing Turn ** :  [ 5d ]
+ringading333 checks.
+Dukx2 bets (400)
+ringading333 folds.
+** Summary **
+Main Pot: 900
+Board: [ 7c As Kd 5d  ]
+
+ringading333 balance 6990, lost 400 (folded)
+debz1111 balance 850, didn't bet (folded)
+Dukx2 balance 3570, bet 800, collected 1300, net +500
+KingArtur888 balance 1210, didn't bet (folded)
+iainmcnaught balance 2300, didn't bet (folded)
+PolySlovenia balance 5080, lost 100 (folded)
+
+***** Hand History for Game 6004059986 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:38:03 EDT 2007
+Table Table  125655 (Real Money) -- Seat 9 is the button
+Total number of players : 6
+Seat 1: ringading333 (6990)
+Seat 2: debz1111 (850)
+Seat 3: Dukx2 (3570)
+Seat 5: KingArtur888 (1210)
+Seat 7: iainmcnaught (2300)
+Seat 9: PolySlovenia (5080)
+ringading333  posts small blind (100)
+debz1111  posts big blind (200)
+** Dealing down cards **
+Dukx2 folds.
+KingArtur888 folds.
+iainmcnaught calls (200)
+PolySlovenia raises (600) to 600
+ringading333 folds.
+debz1111 folds.
+iainmcnaught calls (400)
+** Dealing Flop ** :  [ 4d, Qc, 5s ]
+iainmcnaught checks.
+PolySlovenia bets (400)
+iainmcnaught calls (400)
+** Dealing Turn ** :  [ Ts ]
+iainmcnaught checks.
+PolySlovenia bets (200)
+iainmcnaught calls (200)
+** Dealing River ** :  [ 8h ]
+iainmcnaught checks.
+PolySlovenia bets (800)
+iainmcnaught folds.
+** Summary **
+Main Pot: 2700
+Board: [ 4d Qc 5s Ts 8h  ]
+
+ringading333 balance 6890, lost 100 (folded)
+debz1111 balance 650, lost 200 (folded)
+Dukx2 balance 3570, didn't bet (folded)
+KingArtur888 balance 1210, didn't bet (folded)
+iainmcnaught balance 1100, lost 1200 (folded)
+PolySlovenia balance 6580, bet 2000, collected 3500, net +1500
+
+***** Hand History for Game 6004062005 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:38:57 EDT 2007
+Table Table  125655 (Real Money) -- Seat 1 is the button
+Total number of players : 6
+Seat 1: ringading333 (6890)
+Seat 2: debz1111 (650)
+Seat 3: Dukx2 (3570)
+Seat 5: KingArtur888 (1210)
+Seat 7: iainmcnaught (1100)
+Seat 9: PolySlovenia (6580)
+debz1111  posts small blind (100)
+Dukx2  posts big blind (200)
+** Dealing down cards **
+KingArtur888 folds.
+iainmcnaught folds.
+PolySlovenia folds.
+ringading333 folds.
+debz1111 folds.
+** Summary **
+Main Pot: 200
+
+ringading333 balance 6890, didn't bet (folded)
+debz1111 balance 550, lost 100 (folded)
+Dukx2 balance 3670, bet 200, collected 300, net +100
+KingArtur888 balance 1210, didn't bet (folded)
+iainmcnaught balance 1100, didn't bet (folded)
+PolySlovenia balance 6580, didn't bet (folded)
+
+***** Hand History for Game 6004062566 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:39:11 EDT 2007
+Table Table  125655 (Real Money) -- Seat 2 is the button
+Total number of players : 6
+Seat 1: ringading333 (6890)
+Seat 2: debz1111 (550)
+Seat 3: Dukx2 (3670)
+Seat 5: KingArtur888 (1210)
+Seat 7: iainmcnaught (1100)
+Seat 9: PolySlovenia (6580)
+Dukx2  posts small blind (100)
+KingArtur888  posts big blind (200)
+** Dealing down cards **
+iainmcnaught folds.
+PolySlovenia folds.
+ringading333 folds.
+debz1111 calls (200)
+Dukx2 folds.
+KingArtur888 checks.
+** Dealing Flop ** :  [ 7c, 4s, Jh ]
+KingArtur888 checks.
+debz1111 bets (200)
+KingArtur888 calls (200)
+** Dealing Turn ** :  [ 6s ]
+KingArtur888 bets (200)
+debz1111 calls (150)
+debz1111 is all-In.
+** Dealing River ** :  [ Kd ]
+Creating Main Pot with $1200 with debz1111
+** Summary **
+Main Pot: 1200
+Board: [ 7c 4s Jh 6s Kd  ]
+
+ringading333 balance 6890, didn't bet (folded)
+debz1111 balance 1200, bet 550, collected 1200, net +650 [ Ad 4d ] [ a pair of Fours -- Ad,Kd,Jh,4d,4s ]
+Dukx2 balance 3570, lost 100 (folded)
+KingArtur888 balance 660, bet 600, collected 50, lost -550 [ Tc 8c ] [ high card King -- Kd,Jh,Tc,8c,7c ]
+iainmcnaught balance 1100, didn't bet (folded)
+PolySlovenia balance 6580, didn't bet (folded)
+
+***** Hand History for Game 6004064303 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:39:59 EDT 2007
+Table Table  125655 (Real Money) -- Seat 3 is the button
+Total number of players : 6
+Seat 1: ringading333 (6890)
+Seat 2: debz1111 (1200)
+Seat 3: Dukx2 (3570)
+Seat 5: KingArtur888 (660)
+Seat 7: iainmcnaught (1100)
+Seat 9: PolySlovenia (6580)
+KingArtur888  posts small blind (100)
+iainmcnaught  posts big blind (200)
+** Dealing down cards **
+PolySlovenia folds.
+ringading333 folds.
+debz1111 folds.
+Dukx2 folds.
+KingArtur888 folds.
+** Summary **
+Main Pot: 200
+
+ringading333 balance 6890, didn't bet (folded)
+debz1111 balance 1200, didn't bet (folded)
+Dukx2 balance 3570, didn't bet (folded)
+KingArtur888 balance 560, lost 100 (folded)
+iainmcnaught balance 1200, bet 200, collected 300, net +100
+PolySlovenia balance 6580, didn't bet (folded)
+
+***** Hand History for Game 6004064970 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:40:17 EDT 2007
+Table Table  125655 (Real Money) -- Seat 5 is the button
+Total number of players : 6
+Seat 1: ringading333 (6890)
+Seat 2: debz1111 (1200)
+Seat 3: Dukx2 (3570)
+Seat 5: KingArtur888 (560)
+Seat 7: iainmcnaught (1200)
+Seat 9: PolySlovenia (6580)
+iainmcnaught  posts small blind (100)
+PolySlovenia  posts big blind (200)
+** Dealing down cards **
+ringading333 folds.
+debz1111 folds.
+Dukx2 folds.
+KingArtur888 folds.
+iainmcnaught calls (100)
+PolySlovenia raises (200) to 400
+iainmcnaught calls (200)
+** Dealing Flop ** :  [ 4h, 6c, Qc ]
+iainmcnaught bets (200)
+PolySlovenia raises (6180) to 6180
+PolySlovenia is all-In.
+iainmcnaught calls (600)
+iainmcnaught is all-In.
+** Dealing Turn ** :  [ 8h ]
+** Dealing River ** :  [ Jd ]
+Creating Main Pot with $2400 with iainmcnaught
+** Summary **
+Main Pot: 2400
+Board: [ 4h 6c Qc 8h Jd  ]
+
+ringading333 balance 6890, didn't bet (folded)
+debz1111 balance 1200, didn't bet (folded)
+Dukx2 balance 3570, didn't bet (folded)
+KingArtur888 balance 560, didn't bet (folded)
+iainmcnaught balance 2400, bet 1200, collected 2400, net +1200 [ Qs 9d ] [ a pair of Queens -- Qs,Qc,Jd,9d,8h ]
+PolySlovenia balance 5380, bet 6580, collected 5380, lost -1200 [ 9h 3h ] [ high card Queen -- Qc,Jd,9h,8h,6c ]
+
+***** Hand History for Game 6004066398 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:40:55 EDT 2007
+Table Table  125655 (Real Money) -- Seat 7 is the button
+Total number of players : 6
+Seat 1: ringading333 (6890)
+Seat 2: debz1111 (1200)
+Seat 3: Dukx2 (3570)
+Seat 5: KingArtur888 (560)
+Seat 7: iainmcnaught (2400)
+Seat 9: PolySlovenia (5380)
+PolySlovenia  posts small blind (200)
+ringading333  posts big blind (400)
+** Dealing down cards **
+debz1111 folds.
+Dukx2 calls (400)
+KingArtur888 folds.
+iainmcnaught folds.
+PolySlovenia calls (200)
+ringading333 checks.
+** Dealing Flop ** :  [ 3s, Tc, 2h ]
+PolySlovenia bets (400)
+ringading333 calls (400)
+Dukx2 raises (3170) to 3170
+Dukx2 is all-In.
+PolySlovenia raises (4580) to 4980
+PolySlovenia is all-In.
+ringading333 calls (4580)
+** Dealing Turn ** :  [ 5s ]
+** Dealing River ** :  [ 8d ]
+Creating Main Pot with $10710 with Dukx2
+Creating Side Pot 1 with $3620 with PolySlovenia
+** Summary **
+Main Pot: 10710 | Side Pot 1: 3620
+Board: [ 3s Tc 2h 5s 8d  ]
+
+ringading333 balance 15840, bet 5380, collected 14330, net +8950 [ 2d 2s ] [ three of a kind, Twos -- Tc,8d,2d,2s,2h ]
+debz1111 balance 1200, didn't bet (folded)
+Dukx2 balance 0, lost 3570 [ 6c 6h ] [ a pair of Sixes -- Tc,8d,6c,6h,5s ]
+KingArtur888 balance 560, didn't bet (folded)
+iainmcnaught balance 2400, didn't bet (folded)
+PolySlovenia balance 0, lost 5380 [ Kd Td ] [ a pair of Tens -- Kd,Td,Tc,8d,5s ]
+
+***** Hand History for Game 6004067968 *****
+Dukx2 finished in 6 place.
+PolySlovenia finished in 5 place.
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:41:37 EDT 2007
+Table Table  125655 (Real Money) -- Seat 7 is the button
+Total number of players : 4
+Seat 1: ringading333 (15840)
+Seat 2: debz1111 (1200)
+Seat 5: KingArtur888 (560)
+Seat 7: iainmcnaught (2400)
+ringading333  posts small blind (200)
+debz1111  posts big blind (400)
+** Dealing down cards **
+KingArtur888 folds.
+iainmcnaught: nice win
+iainmcnaught calls (400)
+ringading333: ty
+ringading333 calls (200)
+debz1111 checks.
+** Dealing Flop ** :  [ Ac, 2d, 4c ]
+ringading333 checks.
+debz1111 checks.
+iainmcnaught bets (400)
+ringading333 folds.
+debz1111 folds.
+** Summary **
+Main Pot: 1200
+Board: [ Ac 2d 4c  ]
+
+ringading333 balance 15440, lost 400 (folded)
+debz1111 balance 800, lost 400 (folded)
+KingArtur888 balance 560, didn't bet (folded)
+iainmcnaught balance 3200, bet 800, collected 1600, net +800
+
+***** Hand History for Game 6004069225 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:42:10 EDT 2007
+Table Table  125655 (Real Money) -- Seat 1 is the button
+Total number of players : 4
+Seat 1: ringading333 (15440)
+Seat 2: debz1111 (800)
+Seat 5: KingArtur888 (560)
+Seat 7: iainmcnaught (3200)
+debz1111  posts small blind (200)
+KingArtur888  posts big blind (400)
+** Dealing down cards **
+iainmcnaught folds.
+ringading333 folds.
+debz1111 calls (200)
+KingArtur888 raises (160) to 560
+KingArtur888 is all-In.
+debz1111 calls (160)
+** Dealing Flop ** :  [ As, Ks, Js ]
+** Dealing Turn ** :  [ Ts ]
+** Dealing River ** :  [ 3c ]
+Creating Main Pot with $1120 with KingArtur888
+** Summary **
+Main Pot: 1120
+Board: [ As Ks Js Ts 3c  ]
+
+ringading333 balance 15440, didn't bet (folded)
+debz1111 balance 240, lost 560 [ Kd 3d ] [ two pairs, Kings and Threes -- As,Kd,Ks,3d,3c ]
+KingArtur888 balance 1120, bet 560, collected 1120, net +560 [ 5d 5s ] [ a flush, Ace high -- As,Ks,Js,Ts,5s ]
+iainmcnaught balance 3200, didn't bet (folded)
+
+***** Hand History for Game 6004070004 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:42:30 EDT 2007
+Table Table  125655 (Real Money) -- Seat 2 is the button
+Total number of players : 4
+Seat 1: ringading333 (15440)
+Seat 2: debz1111 (240)
+Seat 5: KingArtur888 (1120)
+Seat 7: iainmcnaught (3200)
+KingArtur888  posts small blind (200)
+iainmcnaught  posts big blind (400)
+** Dealing down cards **
+ringading333 calls (400)
+debz1111 folds.
+KingArtur888 folds.
+iainmcnaught checks.
+** Dealing Flop ** :  [ Jd, Th, Kd ]
+iainmcnaught checks.
+ringading333 bets (1000)
+iainmcnaught folds.
+** Summary **
+Main Pot: 1000
+Board: [ Jd Th Kd  ]
+
+ringading333 balance 16040, bet 1400, collected 2000, net +600 [ Kc Js ] [ two pairs, Kings and Jacks -- Kc,Kd,Js,Jd,Th ]
+debz1111 balance 240, didn't bet (folded)
+KingArtur888 balance 920, lost 200 (folded)
+iainmcnaught balance 2800, lost 400 (folded)
+
+***** Hand History for Game 6004070920 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:42:54 EDT 2007
+Table Table  125655 (Real Money) -- Seat 5 is the button
+Total number of players : 4
+Seat 1: ringading333 (16040)
+Seat 2: debz1111 (240)
+Seat 5: KingArtur888 (920)
+Seat 7: iainmcnaught (2800)
+iainmcnaught  posts small blind (200)
+ringading333  posts big blind (400)
+** Dealing down cards **
+debz1111 calls (240)
+debz1111 is all-In.
+KingArtur888 folds.
+iainmcnaught calls (200)
+ringading333 checks.
+Creating Main Pot with $720 with debz1111
+** Dealing Flop ** :  [ 7c, Jc, 4s ]
+iainmcnaught checks.
+ringading333 checks.
+** Dealing Turn ** :  [ Tc ]
+iainmcnaught checks.
+ringading333 checks.
+** Dealing River ** :  [ Qd ]
+iainmcnaught checks.
+ringading333 checks.
+** Summary **
+Main Pot: 720 | Side Pot 1: 320
+Board: [ 7c Jc 4s Tc Qd  ]
+
+
+ringading333 balance 15640, lost 400 [Didn't Show]
+debz1111 balance 720, bet 240, collected 720, net +480 [ Ad Ac ] [ a pair of Aces -- Ad,Ac,Qd,Jc,Tc ]
+KingArtur888 balance 920, didn't bet (folded)
+iainmcnaught balance 2720, bet 400, collected 320, lost -80 [ 2s Ks ] [ high card King -- Ks,Qd,Jc,Tc,7c ]
+
+***** Hand History for Game 6004072235 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:43:30 EDT 2007
+Table Table  125655 (Real Money) -- Seat 7 is the button
+Total number of players : 4
+Seat 1: ringading333 (15640)
+Seat 2: debz1111 (720)
+Seat 5: KingArtur888 (920)
+Seat 7: iainmcnaught (2720)
+ringading333  posts small blind (200)
+debz1111  posts big blind (400)
+** Dealing down cards **
+KingArtur888 folds.
+iainmcnaught calls (400)
+ringading333 calls (200)
+debz1111 checks.
+** Dealing Flop ** :  [ Th, 5c, 6c ]
+ringading333 bets (400)
+debz1111 calls (320)
+debz1111 is all-In.
+iainmcnaught calls (400)
+Creating Main Pot with $2160 with debz1111
+** Dealing Turn ** :  [ 9s ]
+ringading333 bets (400)
+iainmcnaught calls (400)
+** Dealing River ** :  [ 8s ]
+ringading333 checks.
+iainmcnaught checks.
+** Summary **
+Main Pot: 2160 | Side Pot 1: 960
+Board: [ Th 5c 6c 9s 8s  ]
+
+ringading333 balance 15400, bet 1200, collected 960, lost -240 [ Ts Kc ] [ a pair of Tens -- Kc,Ts,Th,9s,8s ]
+debz1111 balance 2160, bet 720, collected 2160, net +1440 [ 7d 8c ] [ a straight Six to Ten -- Th,9s,8c,7d,6c ]
+KingArtur888 balance 920, didn't bet (folded)
+
+iainmcnaught balance 1520, lost 1200 [Didn't Show]
+
+***** Hand History for Game 6004073409 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:44:02 EDT 2007
+Table Table  125655 (Real Money) -- Seat 1 is the button
+Total number of players : 4
+Seat 1: ringading333 (15400)
+Seat 2: debz1111 (2160)
+Seat 5: KingArtur888 (920)
+Seat 7: iainmcnaught (1520)
+debz1111  posts small blind (200)
+KingArtur888  posts big blind (400)
+** Dealing down cards **
+iainmcnaught folds.
+ringading333 raises (800) to 800
+debz1111 calls (600)
+KingArtur888 raises (520) to 920
+KingArtur888 is all-In.
+ringading333 calls (120)
+debz1111 calls (120)
+Creating Main Pot with $2760 with KingArtur888
+** Dealing Flop ** :  [ 9c, 5d, Ts ]
+debz1111 checks.
+ringading333 checks.
+** Dealing Turn ** :  [ 4s ]
+debz1111 checks.
+ringading333 checks.
+** Dealing River ** :  [ Kc ]
+debz1111 bets (400)
+ringading333 folds.
+** Summary **
+Main Pot: 2760
+Board: [ 9c 5d Ts 4s Kc  ]
+
+ringading333 balance 14480, lost 920 (folded)
+debz1111 balance 4000, bet 1320, collected 3160, net +1840 [ Kh Qc ] [ a pair of Kings -- Kh,Kc,Qc,Ts,9c ]
+KingArtur888 balance 0, lost 920 [ Tc Ad ] [ a pair of Tens -- Ad,Kc,Tc,Ts,9c ]
+iainmcnaught balance 1520, didn't bet (folded)
+
+***** Hand History for Game 6004074644 *****
+KingArtur888 finished in 4 place.
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:44:34 EDT 2007
+Table Table  125655 (Real Money) -- Seat 2 is the button
+Total number of players : 3
+Seat 1: ringading333 (14480)
+Seat 2: debz1111 (4000)
+Seat 7: iainmcnaught (1520)
+iainmcnaught  posts big blind (400)
+** Dealing down cards **
+ringading333 folds.
+debz1111 folds.
+** Summary **
+Main Pot: 400
+
+ringading333 balance 14480, didn't bet (folded)
+debz1111 balance 4000, didn't bet (folded)
+iainmcnaught balance 1520, bet 400, collected 400, net +0
+
+***** Hand History for Game 6004074915 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:44:41 EDT 2007
+Table Table  125655 (Real Money) -- Seat 2 is the button
+Total number of players : 3
+Seat 1: ringading333 (14480)
+Seat 2: debz1111 (4000)
+Seat 7: iainmcnaught (1520)
+iainmcnaught  posts small blind (200)
+ringading333  posts big blind (400)
+** Dealing down cards **
+debz1111 calls (400)
+iainmcnaught raises (600) to 800
+ringading333 folds.
+debz1111 calls (400)
+** Dealing Flop ** :  [ 6c, 3s, Kd ]
+iainmcnaught checks.
+debz1111 checks.
+** Dealing Turn ** :  [ 5d ]
+iainmcnaught checks.
+debz1111 checks.
+** Dealing River ** :  [ 9d ]
+iainmcnaught bets (400)
+debz1111 calls (400)
+** Summary **
+Main Pot: 2800
+Board: [ 6c 3s Kd 5d 9d  ]
+
+ringading333 balance 14080, lost 400 (folded)
+
+debz1111 balance 2800, lost 1200 [Didn't Show]
+iainmcnaught balance 3120, bet 1200, collected 2800, net +1600 [ Th Td ] [ a pair of Tens -- Kd,Th,Td,9d,6c ]
+
+***** Hand History for Game 6004075922 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:45:08 EDT 2007
+Table Table  125655 (Real Money) -- Seat 7 is the button
+Total number of players : 3
+Seat 1: ringading333 (14080)
+Seat 2: debz1111 (2800)
+Seat 7: iainmcnaught (3120)
+ringading333  posts small blind (200)
+debz1111  posts big blind (400)
+** Dealing down cards **
+iainmcnaught calls (400)
+ringading333 calls (200)
+debz1111 checks.
+** Dealing Flop ** :  [ 5d, Jc, 2d ]
+ringading333 bets (400)
+debz1111 folds.
+iainmcnaught folds.
+** Summary **
+Main Pot: 1200
+Board: [ 5d Jc 2d  ]
+
+ringading333 balance 14880, bet 800, collected 1600, net +800
+debz1111 balance 2400, lost 400 (folded)
+iainmcnaught balance 2720, lost 400 (folded)
+
+***** Hand History for Game 6004076825 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:45:29 EDT 2007
+Table Table  125655 (Real Money) -- Seat 1 is the button
+Total number of players : 3
+Seat 1: ringading333 (14880)
+Seat 2: debz1111 (2400)
+Seat 7: iainmcnaught (2720)
+debz1111  posts small blind (200)
+iainmcnaught  posts big blind (400)
+** Dealing down cards **
+ringading333 folds.
+debz1111 calls (200)
+iainmcnaught checks.
+** Dealing Flop ** :  [ 4d, 8s, 8d ]
+debz1111 checks.
+iainmcnaught checks.
+** Dealing Turn ** :  [ Ks ]
+debz1111 checks.
+iainmcnaught checks.
+** Dealing River ** :  [ 2s ]
+debz1111 checks.
+iainmcnaught checks.
+** Summary **
+Main Pot: 800
+Board: [ 4d 8s 8d Ks 2s  ]
+
+ringading333 balance 14880, didn't bet (folded)
+debz1111 balance 2000, lost 400 [ 9c Qs ] [ a pair of Eights -- Ks,Qs,9c,8s,8d ]
+iainmcnaught balance 3120, bet 400, collected 800, net +400 [ Th Qh ] [ a pair of Eights with Ten kicker -- Ks,Qh,Th,8s,8dTh(kicker card) ]
+
+***** Hand History for Game 6004078018 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:45:59 EDT 2007
+Table Table  125655 (Real Money) -- Seat 2 is the button
+Total number of players : 3
+Seat 1: ringading333 (14880)
+Seat 2: debz1111 (2000)
+Seat 7: iainmcnaught (3120)
+iainmcnaught  posts small blind (200)
+ringading333  posts big blind (400)
+** Dealing down cards **
+debz1111 folds.
+iainmcnaught calls (200)
+ringading333 checks.
+** Dealing Flop ** :  [ 6h, Qh, 3s ]
+iainmcnaught checks.
+ringading333 checks.
+** Dealing Turn ** :  [ 2s ]
+iainmcnaught checks.
+ringading333 checks.
+** Dealing River ** :  [ 5d ]
+iainmcnaught bets (400)
+ringading333 calls (400)
+** Summary **
+Main Pot: 1600
+Board: [ 6h Qh 3s 2s 5d  ]
+
+
+ringading333 balance 14080, lost 800 [Didn't Show]
+debz1111 balance 2000, didn't bet (folded)
+iainmcnaught balance 3920, bet 800, collected 1600, net +800 [ 8c Qs ] [ a pair of Queens -- Qs,Qh,8c,6h,5d ]
+
+***** Hand History for Game 6004079167 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:46:29 EDT 2007
+Table Table  125655 (Real Money) -- Seat 7 is the button
+Total number of players : 3
+Seat 1: ringading333 (14080)
+Seat 2: debz1111 (2000)
+Seat 7: iainmcnaught (3920)
+ringading333  posts small blind (200)
+debz1111  posts big blind (400)
+** Dealing down cards **
+iainmcnaught calls (400)
+ringading333 folds.
+debz1111 checks.
+** Dealing Flop ** :  [ 5h, 5c, 8s ]
+debz1111 checks.
+iainmcnaught checks.
+** Dealing Turn ** :  [ 7s ]
+debz1111 bets (400)
+iainmcnaught calls (400)
+** Dealing River ** :  [ 4h ]
+debz1111 bets (400)
+iainmcnaught calls (400)
+** Summary **
+Main Pot: 2600
+Board: [ 5h 5c 8s 7s 4h  ]
+
+ringading333 balance 13880, lost 200 (folded)
+debz1111 balance 3400, bet 1200, collected 2600, net +1400 [ Qs 5d ] [ three of a kind, Fives -- Qs,8s,5d,5h,5c ]
+
+iainmcnaught balance 2720, lost 1200 [Didn't Show]
+
+***** Hand History for Game 6004080432 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:47:02 EDT 2007
+Table Table  125655 (Real Money) -- Seat 1 is the button
+Total number of players : 3
+Seat 1: ringading333 (13880)
+Seat 2: debz1111 (3400)
+Seat 7: iainmcnaught (2720)
+debz1111  posts small blind (200)
+iainmcnaught  posts big blind (400)
+** Dealing down cards **
+ringading333 calls (400)
+debz1111 calls (200)
+iainmcnaught checks.
+** Dealing Flop ** :  [ 9c, 3h, 9s ]
+debz1111 checks.
+iainmcnaught bets (400)
+ringading333 folds.
+debz1111 calls (400)
+** Dealing Turn ** :  [ 8c ]
+debz1111 checks.
+iainmcnaught bets (400)
+debz1111 folds.
+** Summary **
+Main Pot: 2000
+Board: [ 9c 3h 9s 8c  ]
+
+ringading333 balance 13480, lost 400 (folded)
+debz1111 balance 2600, lost 800 (folded)
+iainmcnaught balance 3920, bet 1200, collected 2400, net +1200
+
+***** Hand History for Game 6004081981 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:47:42 EDT 2007
+Table Table  125655 (Real Money) -- Seat 2 is the button
+Total number of players : 3
+Seat 1: ringading333 (13480)
+Seat 2: debz1111 (2600)
+Seat 7: iainmcnaught (3920)
+iainmcnaught  posts small blind (200)
+ringading333  posts big blind (400)
+** Dealing down cards **
+debz1111 raises (800) to 800
+iainmcnaught folds.
+ringading333 folds.
+** Summary **
+Main Pot: 1000
+
+ringading333 balance 13080, lost 400 (folded)
+debz1111 balance 3200, bet 800, collected 1400, net +600
+iainmcnaught balance 3720, lost 200 (folded)
+
+***** Hand History for Game 6004082497 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:47:55 EDT 2007
+Table Table  125655 (Real Money) -- Seat 7 is the button
+Total number of players : 3
+Seat 1: ringading333 (13080)
+Seat 2: debz1111 (3200)
+Seat 7: iainmcnaught (3720)
+ringading333  posts small blind (200)
+debz1111  posts big blind (400)
+** Dealing down cards **
+iainmcnaught folds.
+ringading333 folds.
+** Summary **
+Main Pot: 400
+
+ringading333 balance 12880, lost 200 (folded)
+debz1111 balance 3400, bet 400, collected 600, net +200
+iainmcnaught balance 3720, didn't bet (folded)
+
+***** Hand History for Game 6004083008 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:48:08 EDT 2007
+Table Table  125655 (Real Money) -- Seat 1 is the button
+Total number of players : 3
+Seat 1: ringading333 (12880)
+Seat 2: debz1111 (3400)
+Seat 7: iainmcnaught (3720)
+debz1111  posts small blind (200)
+iainmcnaught  posts big blind (400)
+** Dealing down cards **
+ringading333 folds.
+debz1111 calls (200)
+iainmcnaught checks.
+** Dealing Flop ** :  [ 6s, Th, 5h ]
+debz1111 checks.
+iainmcnaught checks.
+** Dealing Turn ** :  [ 3s ]
+debz1111 checks.
+iainmcnaught checks.
+** Dealing River ** :  [ 6c ]
+debz1111 checks.
+iainmcnaught checks.
+** Summary **
+Main Pot: 800
+Board: [ 6s Th 5h 3s 6c  ]
+
+ringading333 balance 12880, didn't bet (folded)
+debz1111 balance 3000, lost 400 [ 2d Qh ] [ a pair of Sixes -- Qh,Th,6s,6c,5h ]
+iainmcnaught balance 4120, bet 400, collected 800, net +400 [ 2c Kd ] [ a pair of Sixes with King kicker -- Kd,Th,6s,6c,5hKd(kicker card) ]
+
+***** Hand History for Game 6004084290 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:48:39 EDT 2007
+Table Table  125655 (Real Money) -- Seat 2 is the button
+Total number of players : 3
+Seat 1: ringading333 (12880)
+Seat 2: debz1111 (3000)
+Seat 7: iainmcnaught (4120)
+iainmcnaught  posts small blind (200)
+ringading333  posts big blind (400)
+** Dealing down cards **
+debz1111 folds.
+iainmcnaught folds.
+** Summary **
+Main Pot: 400
+
+ringading333 balance 13080, bet 400, collected 600, net +200
+debz1111 balance 3000, didn't bet (folded)
+iainmcnaught balance 3920, lost 200 (folded)
+
+***** Hand History for Game 6004084757 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:48:51 EDT 2007
+Table Table  125655 (Real Money) -- Seat 7 is the button
+Total number of players : 3
+Seat 1: ringading333 (13080)
+Seat 2: debz1111 (3000)
+Seat 7: iainmcnaught (3920)
+ringading333  posts small blind (200)
+debz1111  posts big blind (400)
+** Dealing down cards **
+iainmcnaught calls (400)
+ringading333 folds.
+debz1111 checks.
+** Dealing Flop ** :  [ 8s, 3h, 2c ]
+debz1111 bets (400)
+iainmcnaught calls (400)
+** Dealing Turn ** :  [ Td ]
+debz1111 bets (400)
+iainmcnaught calls (400)
+** Dealing River ** :  [ 7d ]
+debz1111 checks.
+iainmcnaught bets (400)
+debz1111 calls (400)
+** Summary **
+Main Pot: 3400
+Board: [ 8s 3h 2c Td 7d  ]
+
+ringading333 balance 12880, lost 200 (folded)
+
+debz1111 balance 1400, lost 1600 [Didn't Show]
+iainmcnaught balance 5720, bet 1600, collected 3400, net +1800 [ Ts Qs ] [ a pair of Tens -- Qs,Ts,Td,8s,7d ]
+
+***** Hand History for Game 6004086338 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:49:30 EDT 2007
+Table Table  125655 (Real Money) -- Seat 1 is the button
+Total number of players : 3
+Seat 1: ringading333 (12880)
+Seat 2: debz1111 (1400)
+Seat 7: iainmcnaught (5720)
+debz1111  posts small blind (200)
+iainmcnaught  posts big blind (400)
+** Dealing down cards **
+ringading333 folds.
+debz1111 calls (200)
+iainmcnaught checks.
+** Dealing Flop ** :  [ 3d, Kh, Ts ]
+debz1111 bets (400)
+iainmcnaught folds.
+** Summary **
+Main Pot: 800
+Board: [ 3d Kh Ts  ]
+
+ringading333 balance 12880, didn't bet (folded)
+debz1111 balance 1800, bet 800, collected 1200, net +400
+iainmcnaught balance 5320, lost 400 (folded)
+
+***** Hand History for Game 6004087057 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:49:49 EDT 2007
+Table Table  125655 (Real Money) -- Seat 2 is the button
+Total number of players : 3
+Seat 1: ringading333 (12880)
+Seat 2: debz1111 (1800)
+Seat 7: iainmcnaught (5320)
+iainmcnaught  posts small blind (200)
+ringading333  posts big blind (400)
+** Dealing down cards **
+debz1111 calls (400)
+iainmcnaught calls (200)
+ringading333 checks.
+** Dealing Flop ** :  [ Kc, Jd, As ]
+iainmcnaught checks.
+ringading333 checks.
+debz1111 bets (400)
+iainmcnaught calls (400)
+ringading333 folds.
+** Dealing Turn ** :  [ 2c ]
+iainmcnaught checks.
+debz1111 bets (400)
+iainmcnaught calls (400)
+** Dealing River ** :  [ 3c ]
+iainmcnaught checks.
+debz1111 bets (400)
+iainmcnaught calls (400)
+** Summary **
+Main Pot: 3600
+Board: [ Kc Jd As 2c 3c  ]
+
+ringading333 balance 12480, lost 400 (folded)
+debz1111 balance 200, lost 1600 [ Th Kd ] [ a pair of Kings -- As,Kd,Kc,Jd,Th ]
+iainmcnaught balance 7320, bet 1600, collected 3600, net +2000 [ Ah Td ] [ a pair of Aces -- Ah,As,Kc,Jd,Td ]
+
+***** Hand History for Game 6004088546 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:50:27 EDT 2007
+Table Table  125655 (Real Money) -- Seat 7 is the button
+Total number of players : 3
+Seat 1: ringading333 (12480)
+Seat 2: debz1111 (200)
+Seat 7: iainmcnaught (7320)
+ringading333  posts small blind (200)
+debz1111  posts big blind (200)
+** Dealing down cards **
+iainmcnaught calls (400)
+ringading333 calls (200)
+Creating Main Pot with $600 with debz1111
+** Dealing Flop ** :  [ Th, 6s, 6h ]
+ringading333 bets (400)
+iainmcnaught calls (400)
+** Dealing Turn ** :  [ 4h ]
+ringading333 checks.
+iainmcnaught checks.
+** Dealing River ** :  [ 9h ]
+ringading333 checks.
+iainmcnaught checks.
+** Summary **
+Main Pot: 600 | Side Pot 1: 1200
+Board: [ Th 6s 6h 4h 9h  ]
+
+ringading333 balance 12280, bet 800, collected 600, lost -200 [ Kd Tc ] [ two pairs, Tens and Sixes -- Kd,Tc,Th,6s,6h ]
+debz1111 balance 600, bet 200, collected 600, net +400 [ 8h 7d ] [ a flush, Ten high -- Th,9h,8h,6h,4h ]
+iainmcnaught balance 7120, bet 800, collected 600, lost -200 [ Ts Kc ] [ two pairs, Tens and Sixes -- Kc,Ts,Th,6s,6h ]
+
+***** Hand History for Game 6004089579 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:50:52 EDT 2007
+Table Table  125655 (Real Money) -- Seat 1 is the button
+Total number of players : 3
+Seat 1: ringading333 (12280)
+Seat 2: debz1111 (600)
+Seat 7: iainmcnaught (7120)
+debz1111  posts small blind (200)
+iainmcnaught  posts big blind (400)
+** Dealing down cards **
+ringading333 folds.
+debz1111 raises (400) to 600
+debz1111 is all-In.
+iainmcnaught calls (200)
+** Dealing Flop ** :  [ Kd, 9h, 9d ]
+** Dealing Turn ** :  [ 6s ]
+** Dealing River ** :  [ As ]
+Creating Main Pot with $1200 with debz1111
+** Summary **
+Main Pot: 1200
+Board: [ Kd 9h 9d 6s As  ]
+
+ringading333 balance 12280, didn't bet (folded)
+debz1111 balance 1200, bet 600, collected 1200, net +600 [ Tc Kh ] [ two pairs, Kings and Nines -- As,Kh,Kd,9h,9d ]
+iainmcnaught balance 6520, lost 600 [ 7d 8h ] [ a pair of Nines -- As,Kd,9h,9d,8h ]
+
+***** Hand History for Game 6004090288 *****
+600/1200 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:51:10 EDT 2007
+Table Table  125655 (Real Money) -- Seat 2 is the button
+Total number of players : 3
+Seat 1: ringading333 (12280)
+Seat 2: debz1111 (1200)
+Seat 7: iainmcnaught (6520)
+iainmcnaught  posts small blind (300)
+ringading333  posts big blind (600)
+** Dealing down cards **
+debz1111 folds.
+iainmcnaught calls (300)
+ringading333 checks.
+** Dealing Flop ** :  [ Jd, 7d, 3h ]
+iainmcnaught checks.
+ringading333 checks.
+** Dealing Turn ** :  [ 7c ]
+iainmcnaught checks.
+ringading333 checks.
+** Dealing River ** :  [ 9d ]
+iainmcnaught checks.
+ringading333 checks.
+** Summary **
+Main Pot: 1200
+Board: [ Jd 7d 3h 7c 9d  ]
+
+ringading333 balance 12280, bet 600, collected 600, net +0 [ As 8s ] [ a pair of Sevens -- As,Jd,9d,7d,7c ]
+debz1111 balance 1200, didn't bet (folded)
+iainmcnaught balance 6520, bet 600, collected 600, net +0 [ 2d Ah ] [ a pair of Sevens -- Ah,Jd,9d,7d,7c ]
+
+***** Hand History for Game 6004091425 *****
+600/1200 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:51:39 EDT 2007
+Table Table  125655 (Real Money) -- Seat 7 is the button
+Total number of players : 3
+Seat 1: ringading333 (12280)
+Seat 2: debz1111 (1200)
+Seat 7: iainmcnaught (6520)
+ringading333  posts small blind (300)
+debz1111  posts big blind (600)
+** Dealing down cards **
+iainmcnaught calls (600)
+ringading333 calls (300)
+debz1111 checks.
+** Dealing Flop ** :  [ Ks, Qc, 6c ]
+ringading333 bets (600)
+debz1111 folds.
+iainmcnaught calls (600)
+** Dealing Turn ** :  [ 9c ]
+ringading333 bets (600)
+iainmcnaught calls (600)
+** Dealing River ** :  [ 7c ]
+ringading333 bets (1200)
+iainmcnaught calls (1200)
+** Summary **
+Main Pot: 6600
+Board: [ Ks Qc 6c 9c 7c  ]
+
+ringading333 balance 15880, bet 3000, collected 6600, net +3600 [ Jh Kc ] [ a flush, King high -- Kc,Qc,9c,7c,6c ]
+debz1111 balance 600, lost 600 (folded)
+
+iainmcnaught balance 3520, lost 3000 [Didn't Show]
+
+***** Hand History for Game 6004092664 *****
+600/1200 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:52:11 EDT 2007
+Table Table  125655 (Real Money) -- Seat 1 is the button
+Total number of players : 3
+Seat 1: ringading333 (15880)
+Seat 2: debz1111 (600)
+Seat 7: iainmcnaught (3520)
+debz1111  posts small blind (300)
+iainmcnaught  posts big blind (600)
+** Dealing down cards **
+ringading333 folds.
+debz1111 calls (300)
+debz1111 is all-In.
+** Dealing Flop ** :  [ 4h, 6d, 8d ]
+** Dealing Turn ** :  [ 5c ]
+** Dealing River ** :  [ Kd ]
+Creating Main Pot with $1200 with debz1111
+** Summary **
+Main Pot: 1200
+Board: [ 4h 6d 8d 5c Kd  ]
+
+ringading333 balance 15880, didn't bet (folded)
+debz1111 balance 0, lost 600 [ 3h Kc ] [ a pair of Kings -- Kc,Kd,8d,6d,5c ]
+iainmcnaught balance 4120, bet 600, collected 1200, net +600 [ 8s 4s ] [ two pairs, Eights and Fours -- Kd,8s,8d,4s,4h ]
+
+***** Hand History for Game 6004093231 *****
+debz1111 finished in 3 place and won $10.
+600/1200 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:52:25 EDT 2007
+Table Table  125655 (Real Money) -- Seat 7 is the button
+Total number of players : 2
+Seat 1: ringading333 (15880)
+Seat 7: iainmcnaught (4120)
+iainmcnaught  posts small blind (300)
+ringading333  posts big blind (600)
+** Dealing down cards **
+iainmcnaught folds.
+** Summary **
+Main Pot: 600
+
+ringading333 balance 16180, bet 600, collected 900, net +300
+iainmcnaught balance 3820, lost 300 (folded)
+
+***** Hand History for Game 6004093654 *****
+600/1200 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:52:36 EDT 2007
+Table Table  125655 (Real Money) -- Seat 1 is the button
+Total number of players : 2
+Seat 1: ringading333 (16180)
+Seat 7: iainmcnaught (3820)
+ringading333  posts small blind (300)
+iainmcnaught  posts big blind (600)
+** Dealing down cards **
+ringading333 calls (300)
+iainmcnaught raises (600) to 1200
+ringading333 calls (600)
+** Dealing Flop ** :  [ 4s, Qs, 3h ]
+iainmcnaught checks.
+ringading333 checks.
+** Dealing Turn ** :  [ 4c ]
+iainmcnaught checks.
+ringading333 checks.
+** Dealing River ** :  [ 8h ]
+iainmcnaught bets (600)
+ringading333 folds.
+** Summary **
+Main Pot: 2400
+Board: [ 4s Qs 3h 4c 8h  ]
+
+ringading333 balance 14980, lost 1200 (folded)
+iainmcnaught balance 5020, bet 1800, collected 3000, net +1200
+
+***** Hand History for Game 6004095033 *****
+600/1200 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:53:11 EDT 2007
+Table Table  125655 (Real Money) -- Seat 7 is the button
+Total number of players : 2
+Seat 1: ringading333 (14980)
+Seat 7: iainmcnaught (5020)
+iainmcnaught  posts small blind (300)
+ringading333  posts big blind (600)
+** Dealing down cards **
+iainmcnaught calls (300)
+ringading333 checks.
+** Dealing Flop ** :  [ Th, As, 4s ]
+ringading333 checks.
+iainmcnaught checks.
+** Dealing Turn ** :  [ 5h ]
+ringading333 bets (600)
+iainmcnaught folds.
+** Summary **
+Main Pot: 1200
+Board: [ Th As 4s 5h  ]
+
+ringading333 balance 15580, bet 1200, collected 1800, net +600
+iainmcnaught balance 4420, lost 600 (folded)
+
+***** Hand History for Game 6004096512 *****
+600/1200 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:53:50 EDT 2007
+Table Table  125655 (Real Money) -- Seat 1 is the button
+Total number of players : 2
+Seat 1: ringading333 (15580)
+Seat 7: iainmcnaught (4420)
+ringading333  posts small blind (300)
+iainmcnaught  posts big blind (600)
+** Dealing down cards **
+ringading333 calls (300)
+iainmcnaught checks.
+** Dealing Flop ** :  [ 4h, Ts, 6d ]
+iainmcnaught checks.
+ringading333 bets (1200)
+iainmcnaught folds.
+** Summary **
+Main Pot: 1200
+Board: [ 4h Ts 6d  ]
+
+ringading333 balance 16180, bet 1800, collected 2400, net +600
+iainmcnaught balance 3820, lost 600 (folded)
+
+***** Hand History for Game 6004097231 *****
+600/1200 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:54:08 EDT 2007
+Table Table  125655 (Real Money) -- Seat 7 is the button
+Total number of players : 2
+Seat 1: ringading333 (16180)
+Seat 7: iainmcnaught (3820)
+iainmcnaught  posts small blind (300)
+ringading333  posts big blind (600)
+** Dealing down cards **
+iainmcnaught folds.
+** Summary **
+Main Pot: 600
+
+ringading333 balance 16480, bet 600, collected 900, net +300 [ Tc Td ] [ a pair of Tens -- Tc,Td ]
+iainmcnaught balance 3520, lost 300 (folded)
+
+***** Hand History for Game 6004097611 *****
+600/1200 Tourney Texas Hold'em Game Table (NL) (Tournament 33625707)  - Sat May 26 08:54:18 EDT 2007
+Table Table  125655 (Real Money) -- Seat 1 is the button
+Total number of players : 2
+Seat 1: ringading333 (16480)
+Seat 7: iainmcnaught (3520)
+ringading333  posts small blind (300)
+iainmcnaught  posts big blind (600)
+** Dealing down cards **
+ringading333 calls (300)
+iainmcnaught raises (600) to 1200
+ringading333 calls (600)
+** Dealing Flop ** :  [ 9d, 3h, 7c ]
+iainmcnaught checks.
+ringading333 bets (2400)
+iainmcnaught calls (2320)
+iainmcnaught is all-In.
+** Dealing Turn ** :  [ Th ]
+** Dealing River ** :  [ 2h ]
+Creating Main Pot with $7040 with iainmcnaught
+** Summary **
+Main Pot: 7040
+Board: [ 9d 3h 7c Th 2h  ]
+
+ringading333 balance 20000, bet 3600, collected 7120, net +3520 [ Ah 7d ] [ a pair of Sevens -- Ah,Th,9d,7d,7c ]
+iainmcnaught balance 0, lost 3520 [ Qh As ] [ high card Ace -- As,Qh,Th,9d,7c ]
+
+
+

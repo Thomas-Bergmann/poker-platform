@@ -1,0 +1,2256 @@
+
+Hello hatoka,
+These hand histories are provided to you as an aid for your training and development. You are not permitted to share them with anyone.  We reserve the right to cease providing them or apply further restrictions at any time.
+Complete hand histories are only available to players that participated in the hand.
+You requested a transcript of Tournament #33317922.
+
+Summary
+----------
+Played on    : 08 May 2007 12:06 PM
+On Table     : Speed #1330023
+Game Type    : Texas Holdem
+Buy-In       : $5
+Fee          : $1
+You finished in  position 1
+1st place - hatoka -  $25
+2nd place - pokerstarr44 -  $15
+3rd place - bassie211 -  $10
+
+***** Hand History for Game 5949566331 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33317922)  - Tue May 08 12:06:38 EDT 2007
+Table Speed 1330023 (Real Money) -- Seat 3 is the button
+Total number of players : 10
+Seat 1: pokergrrl23 (2000)
+Seat 2: oeroeboeroe (2000)
+Seat 3: bassie211 (2000)
+Seat 4: parkos007 (2000)
+Seat 5: hatoka (2000)
+Seat 6: Adilette75 (2000)
+Seat 7: SAS__ (2000)
+Seat 8: PokerReima (2000)
+Seat 9: pokerstarr44 (2000)
+Seat 10: Sturzbomber (2000)
+parkos007  posts small blind (20)
+hatoka  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 2c, Ac ]
+Adilette75 folds.
+SAS__ calls (40)
+PokerReima folds.
+pokerstarr44 folds.
+Sturzbomber folds.
+pokergrrl23 calls (40)
+oeroeboeroe calls (40)
+bassie211 folds.
+parkos007 raises (140) to 160
+hatoka calls (120)
+SAS__ calls (120)
+pokergrrl23 calls (120)
+oeroeboeroe calls (120)
+** Dealing Flop ** :  [ Ad, 5h, Kh ]
+parkos007 bets (400)
+hatoka folds.
+SAS__ calls (400)
+pokergrrl23 raises (1840) to 1840
+pokergrrl23 is all-In.
+oeroeboeroe folds.
+parkos007 calls (1440)
+parkos007 is all-In.
+SAS__ calls (1440)
+SAS__ is all-In.
+** Dealing Turn ** :  [ As ]
+** Dealing River ** :  [ Qs ]
+Creating Main Pot with $6320 with pokergrrl23,parkos007,SAS__
+** Summary **
+Main Pot: 6320
+Board: [ Ad 5h Kh As Qs  ]
+
+pokergrrl23 balance 6320, bet 2000, collected 6320, net +4320 [ 5c 5s ] [ a full house, Fives full of Aces -- Ad,As,5c,5s,5h ]
+oeroeboeroe balance 1840, lost 160 (folded)
+bassie211 balance 2000, didn't bet (folded)
+parkos007 balance 0, lost 2000 [ 7s Ah ] [ three of a kind, Aces -- Ah,Ad,As,Kh,Qs ]
+hatoka balance 1840, lost 160 (folded)
+Adilette75 balance 2000, didn't bet (folded)
+SAS__ balance 0, lost 2000 [ 9h Th ] [ a pair of Aces -- Ad,As,Kh,Qs,Th ]
+PokerReima balance 2000, didn't bet (folded)
+pokerstarr44 balance 2000, didn't bet (folded)
+Sturzbomber balance 2000, didn't bet (folded)
+
+***** Hand History for Game 5949569209 *****
+parkos007 finished in 9 place.
+SAS__ finished in 9 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33317922)  - Tue May 08 12:07:42 EDT 2007
+Table Speed 1330023 (Real Money) -- Seat 3 is the button
+Total number of players : 8
+Seat 1: pokergrrl23 (6320)
+Seat 2: oeroeboeroe (1840)
+Seat 3: bassie211 (2000)
+Seat 5: hatoka (1840)
+Seat 6: Adilette75 (2000)
+Seat 8: PokerReima (2000)
+Seat 9: pokerstarr44 (2000)
+Seat 10: Sturzbomber (2000)
+hatoka  posts small blind (20)
+Adilette75  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ Ts, 3d ]
+PokerReima folds.
+pokerstarr44 folds.
+Sturzbomber folds.
+pokergrrl23 folds.
+oeroeboeroe: nh
+oeroeboeroe calls (40)
+pokergrrl23: tyvm :)
+bassie211 calls (40)
+hatoka folds.
+Adilette75 checks.
+** Dealing Flop ** :  [ 2d, Tc, 7c ]
+Adilette75 checks.
+oeroeboeroe bets (80)
+bassie211 raises (520) to 520
+Adilette75 folds.
+oeroeboeroe folds.
+** Summary **
+Main Pot: 300
+Board: [ 2d Tc 7c  ]
+
+pokergrrl23 balance 6320, didn't bet (folded)
+oeroeboeroe balance 1720, lost 120 (folded)
+bassie211 balance 2180, bet 560, collected 740, net +180
+hatoka balance 1820, lost 20 (folded)
+Adilette75 balance 1960, lost 40 (folded)
+PokerReima balance 2000, didn't bet (folded)
+pokerstarr44 balance 2000, didn't bet (folded)
+Sturzbomber balance 2000, didn't bet (folded)
+
+***** Hand History for Game 5949571496 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33317922)  - Tue May 08 12:08:30 EDT 2007
+Table Speed 1330023 (Real Money) -- Seat 5 is the button
+Total number of players : 8
+Seat 1: pokergrrl23 (6320)
+Seat 2: oeroeboeroe (1720)
+Seat 3: bassie211 (2180)
+Seat 5: hatoka (1820)
+Seat 6: Adilette75 (1960)
+Seat 8: PokerReima (2000)
+Seat 9: pokerstarr44 (2000)
+Seat 10: Sturzbomber (2000)
+Adilette75  posts small blind (20)
+PokerReima  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 2d, Kh ]
+pokerstarr44 calls (40)
+Sturzbomber folds.
+pokergrrl23 folds.
+oeroeboeroe calls (40)
+bassie211 folds.
+hatoka folds.
+Adilette75 folds.
+PokerReima checks.
+** Dealing Flop ** :  [ 5s, Qh, 3d ]
+PokerReima checks.
+pokerstarr44 bets (80)
+oeroeboeroe folds.
+PokerReima folds.
+** Summary **
+Main Pot: 140
+Board: [ 5s Qh 3d  ]
+
+pokergrrl23 balance 6320, didn't bet (folded)
+oeroeboeroe balance 1680, lost 40 (folded)
+bassie211 balance 2180, didn't bet (folded)
+hatoka balance 1820, didn't bet (folded)
+Adilette75 balance 1940, lost 20 (folded)
+PokerReima balance 1960, lost 40 (folded)
+pokerstarr44 balance 2100, bet 120, collected 220, net +100
+Sturzbomber balance 2000, didn't bet (folded)
+
+***** Hand History for Game 5949572758 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33317922)  - Tue May 08 12:08:55 EDT 2007
+Table Speed 1330023 (Real Money) -- Seat 6 is the button
+Total number of players : 8
+Seat 1: pokergrrl23 (6320)
+Seat 2: oeroeboeroe (1680)
+Seat 3: bassie211 (2180)
+Seat 5: hatoka (1820)
+Seat 6: Adilette75 (1940)
+Seat 8: PokerReima (1960)
+Seat 9: pokerstarr44 (2100)
+Seat 10: Sturzbomber (2000)
+PokerReima  posts small blind (20)
+pokerstarr44  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 2d, Js ]
+Sturzbomber folds.
+pokergrrl23 calls (40)
+oeroeboeroe calls (40)
+bassie211 calls (40)
+hatoka folds.
+Adilette75 calls (40)
+PokerReima folds.
+pokerstarr44 checks.
+** Dealing Flop ** :  [ 5s, 6h, 8d ]
+pokerstarr44 checks.
+pokergrrl23 checks.
+oeroeboeroe bets (200)
+bassie211 raises (2140) to 2140
+bassie211 is all-In.
+Adilette75 folds.
+pokerstarr44 folds.
+pokergrrl23 folds.
+oeroeboeroe folds.
+Creating Main Pot with $620 with bassie211
+** Summary **
+Main Pot: 620
+Board: [ 5s 6h 8d  ]
+
+pokergrrl23 balance 6280, lost 40 (folded)
+oeroeboeroe balance 1440, lost 240 (folded)
+bassie211 balance 2560, bet 2180, collected 2560, net +380
+hatoka balance 1820, didn't bet (folded)
+Adilette75 balance 1900, lost 40 (folded)
+PokerReima balance 1940, lost 20 (folded)
+pokerstarr44 balance 2060, lost 40 (folded)
+Sturzbomber balance 2000, didn't bet (folded)
+
+***** Hand History for Game 5949575291 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33317922)  - Tue May 08 12:09:47 EDT 2007
+Table Speed 1330023 (Real Money) -- Seat 8 is the button
+Total number of players : 8
+Seat 1: pokergrrl23 (6280)
+Seat 2: oeroeboeroe (1440)
+Seat 3: bassie211 (2560)
+Seat 5: hatoka (1820)
+Seat 6: Adilette75 (1900)
+Seat 8: PokerReima (1940)
+Seat 9: pokerstarr44 (2060)
+Seat 10: Sturzbomber (2000)
+pokerstarr44  posts small blind (20)
+Sturzbomber  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 2d, Ah ]
+pokergrrl23 calls (40)
+oeroeboeroe: rustig aan bas
+oeroeboeroe folds.
+bassie211: o ook nl
+bassie211: oke
+bassie211 folds.
+hatoka calls (40)
+Adilette75 folds.
+PokerReima folds.
+pokerstarr44 folds.
+Sturzbomber checks.
+** Dealing Flop ** :  [ Qc, Kd, Ks ]
+Sturzbomber checks.
+oeroeboeroe: lol
+pokergrrl23 checks.
+hatoka bets (40)
+Sturzbomber calls (40)
+pokergrrl23 folds.
+** Dealing Turn ** :  [ 9h ]
+Sturzbomber checks.
+hatoka checks.
+** Dealing River ** :  [ Td ]
+bassie211: alles goed
+Sturzbomber bets (320)
+hatoka folds.
+** Summary **
+Main Pot: 220
+Board: [ Qc Kd Ks 9h Td  ]
+
+pokergrrl23 balance 6240, lost 40 (folded)
+oeroeboeroe balance 1440, didn't bet (folded)
+bassie211 balance 2560, didn't bet (folded)
+hatoka balance 1740, lost 80 (folded)
+Adilette75 balance 1900, didn't bet (folded)
+PokerReima balance 1940, didn't bet (folded)
+pokerstarr44 balance 2040, lost 20 (folded)
+Sturzbomber balance 2140, bet 400, collected 540, net +140
+
+***** Hand History for Game 5949579552 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33317922)  - Tue May 08 12:11:17 EDT 2007
+Table Speed 1330023 (Real Money) -- Seat 9 is the button
+Total number of players : 8
+Seat 1: pokergrrl23 (6240)
+Seat 2: oeroeboeroe (1440)
+Seat 3: bassie211 (2560)
+Seat 5: hatoka (1740)
+Seat 6: Adilette75 (1900)
+Seat 8: PokerReima (1940)
+Seat 9: pokerstarr44 (2040)
+Seat 10: Sturzbomber (2140)
+Sturzbomber  posts small blind (20)
+pokergrrl23  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ Js, 7c ]
+oeroeboeroe: ja
+oeroeboeroe calls (40)
+bassie211: oke dan
+bassie211 raises (160) to 160
+hatoka folds.
+Adilette75 folds.
+PokerReima folds.
+pokerstarr44 folds.
+Sturzbomber folds.
+pokergrrl23 folds.
+oeroeboeroe: nog wel
+oeroeboeroe raises (1400) to 1440
+oeroeboeroe is all-In.
+bassie211: oke dan folt ik maar
+bassie211: d
+bassie211 folds.
+Creating Main Pot with $380 with oeroeboeroe
+oeroeboeroe: kijk maar
+** Summary **
+Main Pot: 380
+
+pokergrrl23 balance 6200, lost 40 (folded)
+oeroeboeroe balance 1660, bet 1440, collected 1660, net +220 [ 4c 4s ] [ a pair of Fours -- 4c,4s ]
+bassie211 balance 2400, lost 160 (folded)
+hatoka balance 1740, didn't bet (folded)
+Adilette75 balance 1900, didn't bet (folded)
+PokerReima balance 1940, didn't bet (folded)
+pokerstarr44 balance 2040, didn't bet (folded)
+Sturzbomber balance 2120, lost 20 (folded)
+
+***** Hand History for Game 5949582608 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33317922)  - Tue May 08 12:12:20 EDT 2007
+Table Speed 1330023 (Real Money) -- Seat 10 is the button
+Total number of players : 8
+Seat 1: pokergrrl23 (6200)
+Seat 2: oeroeboeroe (1660)
+Seat 3: bassie211 (2400)
+Seat 5: hatoka (1740)
+Seat 6: Adilette75 (1900)
+Seat 8: PokerReima (1940)
+Seat 9: pokerstarr44 (2040)
+Seat 10: Sturzbomber (2120)
+pokergrrl23  posts small blind (30)
+oeroeboeroe  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 2c, 6s ]
+bassie211: nice
+bassie211 calls (60)
+hatoka folds.
+Adilette75 folds.
+PokerReima calls (60)
+pokerstarr44 folds.
+oeroeboeroe: ty
+Sturzbomber folds.
+pokergrrl23 calls (30)
+oeroeboeroe checks.
+** Dealing Flop ** :  [ Kd, Qh, 3h ]
+pokergrrl23 checks.
+oeroeboeroe checks.
+bassie211 bets (240)
+PokerReima folds.
+pokergrrl23 calls (240)
+oeroeboeroe folds.
+** Dealing Turn ** :  [ Ac ]
+pokergrrl23 checks.
+bassie211 checks.
+** Dealing River ** :  [ Ah ]
+pokergrrl23 checks.
+bassie211 bets (540)
+pokergrrl23 calls (540)
+** Summary **
+Main Pot: 1800
+Board: [ Kd Qh 3h Ac Ah  ]
+
+pokergrrl23 balance 5360, lost 840 [ Ks 8s ] [ two pairs, Aces and Kings -- Ac,Ah,Ks,Kd,Qh ]
+oeroeboeroe balance 1600, lost 60 (folded)
+bassie211 balance 3360, bet 840, collected 1800, net +960 [ 8h Th ] [ a flush, Ace high -- Ah,Qh,Th,8h,3h ]
+hatoka balance 1740, didn't bet (folded)
+Adilette75 balance 1900, didn't bet (folded)
+PokerReima balance 1880, lost 60 (folded)
+pokerstarr44 balance 2040, didn't bet (folded)
+Sturzbomber balance 2120, didn't bet (folded)
+
+***** Hand History for Game 5949587128 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33317922)  - Tue May 08 12:13:54 EDT 2007
+Table Speed 1330023 (Real Money) -- Seat 1 is the button
+Total number of players : 8
+Seat 1: pokergrrl23 (5360)
+Seat 2: oeroeboeroe (1600)
+Seat 3: bassie211 (3360)
+Seat 5: hatoka (1740)
+Seat 6: Adilette75 (1900)
+Seat 8: PokerReima (1880)
+Seat 9: pokerstarr44 (2040)
+Seat 10: Sturzbomber (2120)
+oeroeboeroe  posts small blind (30)
+bassie211  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 3h, Ad ]
+hatoka folds.
+Adilette75 folds.
+PokerReima raises (180) to 180
+pokerstarr44 folds.
+pokergrrl23: nh
+Sturzbomber folds.
+pokergrrl23 calls (180)
+bassie211: ty
+oeroeboeroe folds.
+bassie211 folds.
+** Dealing Flop ** :  [ 2s, 6c, 5h ]
+PokerReima bets (240)
+pokergrrl23 folds.
+** Summary **
+Main Pot: 450
+Board: [ 2s 6c 5h  ]
+
+pokergrrl23 balance 5180, lost 180 (folded)
+oeroeboeroe balance 1570, lost 30 (folded)
+bassie211 balance 3300, lost 60 (folded)
+hatoka balance 1740, didn't bet (folded)
+Adilette75 balance 1900, didn't bet (folded)
+PokerReima balance 2150, bet 420, collected 690, net +270
+pokerstarr44 balance 2040, didn't bet (folded)
+Sturzbomber balance 2120, didn't bet (folded)
+
+***** Hand History for Game 5949589199 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33317922)  - Tue May 08 12:14:37 EDT 2007
+Table Speed 1330023 (Real Money) -- Seat 2 is the button
+Total number of players : 8
+Seat 1: pokergrrl23 (5180)
+Seat 2: oeroeboeroe (1570)
+Seat 3: bassie211 (3300)
+Seat 5: hatoka (1740)
+Seat 6: Adilette75 (1900)
+Seat 8: PokerReima (2150)
+Seat 9: pokerstarr44 (2040)
+Seat 10: Sturzbomber (2120)
+bassie211  posts small blind (30)
+hatoka  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 8h, 3c ]
+Adilette75 raises (120) to 120
+PokerReima folds.
+pokerstarr44 raises (180) to 180
+Sturzbomber folds.
+pokergrrl23 folds.
+bassie211: kon niet all in gaan had niet ge cal
+oeroeboeroe raises (1570) to 1570
+oeroeboeroe is all-In.
+bassie211: heb je?
+bassie211: lol
+bassie211 folds.
+hatoka folds.
+Adilette75 folds.
+pokerstarr44 calls (1390)
+** Dealing Flop ** :  [ 2d, Qs, 7c ]
+** Dealing Turn ** :  [ 4d ]
+** Dealing River ** :  [ Kd ]
+bassie211: nice
+Creating Main Pot with $3350 with oeroeboeroe
+** Summary **
+Main Pot: 3350
+Board: [ 2d Qs 7c 4d Kd  ]
+
+pokergrrl23 balance 5180, didn't bet (folded)
+oeroeboeroe balance 0, lost 1570 [ Qc Ad ] [ a pair of Queens -- Ad,Kd,Qc,Qs,7c ]
+bassie211 balance 3270, lost 30 (folded)
+hatoka balance 1680, lost 60 (folded)
+Adilette75 balance 1780, lost 120 (folded)
+PokerReima balance 2150, didn't bet (folded)
+pokerstarr44 balance 3820, bet 1570, collected 3350, net +1780 [ As Ac ] [ a pair of Aces -- As,Ac,Kd,Qs,7c ]
+Sturzbomber balance 2120, didn't bet (folded)
+
+***** Hand History for Game 5949591338 *****
+oeroeboeroe finished in 8 place.
+bassie211: oeps
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33317922)  - Tue May 08 12:15:22 EDT 2007
+Table Speed 1330023 (Real Money) -- Seat 3 is the button
+Total number of players : 7
+Seat 1: pokergrrl23 (5180)
+Seat 3: bassie211 (3270)
+Seat 5: hatoka (1680)
+Seat 6: Adilette75 (1780)
+Seat 8: PokerReima (2150)
+Seat 9: pokerstarr44 (3820)
+Seat 10: Sturzbomber (2120)
+hatoka  posts small blind (30)
+Adilette75  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Jc, 5s ]
+PokerReima calls (60)
+pokerstarr44 folds.
+Sturzbomber folds.
+bassie211: jamer\
+pokergrrl23 folds.
+bassie211 calls (60)
+hatoka calls (30)
+Adilette75 checks.
+** Dealing Flop ** :  [ Jh, Jd, 2d ]
+hatoka checks.
+Adilette75 checks.
+PokerReima bets (180)
+bassie211 calls (180)
+hatoka calls (180)
+Adilette75 folds.
+** Dealing Turn ** :  [ Qh ]
+hatoka checks.
+PokerReima bets (300)
+bassie211 folds.
+hatoka calls (300)
+** Dealing River ** :  [ 3d ]
+hatoka checks.
+PokerReima checks.
+** Summary **
+Main Pot: 1380
+Board: [ Jh Jd 2d Qh 3d  ]
+
+pokergrrl23 balance 5180, didn't bet (folded)
+bassie211 balance 3030, lost 240 (folded)
+hatoka balance 2520, bet 540, collected 1380, net +840 [ Jc 5s ] [ three of a kind, Jacks -- Qh,Jc,Jh,Jd,5s ]
+Adilette75 balance 1720, lost 60 (folded)
+PokerReima balance 1610, lost 540 [ Kd Kc ] [ two pairs, Kings and Jacks -- Kd,Kc,Qh,Jh,Jd ]
+
+pokerstarr44 balance 3820, didn't bet (folded)
+Sturzbomber balance 2120, didn't bet (folded)
+
+***** Hand History for Game 5949594379 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33317922)  - Tue May 08 12:16:25 EDT 2007
+Table Speed 1330023 (Real Money) -- Seat 5 is the button
+Total number of players : 7
+Seat 1: pokergrrl23 (5180)
+Seat 3: bassie211 (3030)
+Seat 5: hatoka (2520)
+Seat 6: Adilette75 (1720)
+Seat 8: PokerReima (1610)
+Seat 9: pokerstarr44 (3820)
+Seat 10: Sturzbomber (2120)
+Adilette75  posts small blind (30)
+PokerReima  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 7d, 4c ]
+pokerstarr44 folds.
+Sturzbomber folds.
+pokergrrl23 calls (60)
+bassie211 folds.
+hatoka folds.
+Adilette75 calls (30)
+PokerReima checks.
+** Dealing Flop ** :  [ Ac, Kh, Kc ]
+Adilette75 checks.
+PokerReima checks.
+pokergrrl23 checks.
+** Dealing Turn ** :  [ 9c ]
+Adilette75 checks.
+PokerReima checks.
+pokergrrl23 bets (60)
+Adilette75 folds.
+PokerReima folds.
+** Summary **
+Main Pot: 180
+Board: [ Ac Kh Kc 9c  ]
+
+pokergrrl23 balance 5300, bet 120, collected 240, net +120 [ Kd Tc ] [ three of a kind, Kings -- Ac,Kd,Kh,Kc,Tc ]
+bassie211 balance 3030, didn't bet (folded)
+hatoka balance 2520, didn't bet (folded)
+Adilette75 balance 1660, lost 60 (folded)
+PokerReima balance 1550, lost 60 (folded)
+pokerstarr44 balance 3820, didn't bet (folded)
+Sturzbomber balance 2120, didn't bet (folded)
+
+***** Hand History for Game 5949596110 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33317922)  - Tue May 08 12:17:02 EDT 2007
+Table Speed 1330023 (Real Money) -- Seat 6 is the button
+Total number of players : 7
+Seat 1: pokergrrl23 (5300)
+Seat 3: bassie211 (3030)
+Seat 5: hatoka (2520)
+Seat 6: Adilette75 (1660)
+Seat 8: PokerReima (1550)
+Seat 9: pokerstarr44 (3820)
+Seat 10: Sturzbomber (2120)
+PokerReima  posts small blind (30)
+pokerstarr44  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 4d, 4h ]
+Sturzbomber folds.
+pokergrrl23 calls (60)
+bassie211: nh
+bassie211 folds.
+hatoka raises (270) to 270
+Adilette75 folds.
+pokergrrl23: lol yeah just bad timing :(
+PokerReima raises (1410) to 1440
+pokerstarr44 folds.
+pokergrrl23 folds.
+bassie211: yep
+hatoka raises (2250) to 2520
+hatoka is all-In.
+PokerReima calls (110)
+PokerReima is all-In.
+** Dealing Flop ** :  [ Ac, 3c, Jc ]
+** Dealing Turn ** :  [ 9s ]
+** Dealing River ** :  [ Js ]
+Creating Main Pot with $3220 with PokerReima
+** Summary **
+Main Pot: 3220
+Board: [ Ac 3c Jc 9s Js  ]
+
+pokergrrl23 balance 5240, lost 60 (folded)
+bassie211 balance 3030, didn't bet (folded)
+hatoka balance 970, bet 2520, collected 970, lost -1550 [ 4d 4h ] [ two pairs, Jacks and Fours -- Ac,Jc,Js,4d,4h ]
+Adilette75 balance 1660, didn't bet (folded)
+PokerReima balance 3220, bet 1550, collected 3220, net +1670 [ Ah Kd ] [ two pairs, Aces and Jacks -- Ah,Ac,Kd,Jc,Js ]
+pokerstarr44 balance 3760, lost 60 (folded)
+Sturzbomber balance 2120, didn't bet (folded)
+
+***** Hand History for Game 5949598338 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33317922)  - Tue May 08 12:17:48 EDT 2007
+Table Speed 1330023 (Real Money) -- Seat 8 is the button
+Total number of players : 7
+Seat 1: pokergrrl23 (5240)
+Seat 3: bassie211 (3030)
+Seat 5: hatoka (970)
+Seat 6: Adilette75 (1660)
+Seat 8: PokerReima (3220)
+Seat 9: pokerstarr44 (3760)
+Seat 10: Sturzbomber (2120)
+pokerstarr44  posts small blind (50)
+Sturzbomber  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Ad, Qs ]
+pokergrrl23: nice :)
+pokergrrl23 folds.
+bassie211 folds.
+hatoka raises (300) to 300
+Adilette75 folds.
+PokerReima folds.
+pokerstarr44 folds.
+Sturzbomber folds.
+** Summary **
+Main Pot: 250
+
+pokergrrl23 balance 5240, didn't bet (folded)
+bassie211 balance 3030, didn't bet (folded)
+hatoka balance 1120, bet 300, collected 450, net +150
+Adilette75 balance 1660, didn't bet (folded)
+PokerReima balance 3220, didn't bet (folded)
+pokerstarr44 balance 3710, lost 50 (folded)
+Sturzbomber balance 2020, lost 100 (folded)
+
+***** Hand History for Game 5949599648 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33317922)  - Tue May 08 12:18:15 EDT 2007
+Table Speed 1330023 (Real Money) -- Seat 9 is the button
+Total number of players : 7
+Seat 1: pokergrrl23 (5240)
+Seat 3: bassie211 (3030)
+Seat 5: hatoka (1120)
+Seat 6: Adilette75 (1660)
+Seat 8: PokerReima (3220)
+Seat 9: pokerstarr44 (3710)
+Seat 10: Sturzbomber (2020)
+Sturzbomber  posts small blind (50)
+pokergrrl23  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Kc, 9d ]
+bassie211 folds.
+hatoka folds.
+Adilette75 folds.
+PokerReima folds.
+pokerstarr44 folds.
+Sturzbomber folds.
+** Summary **
+Main Pot: 100
+
+pokergrrl23 balance 5290, bet 100, collected 150, net +50
+bassie211 balance 3030, didn't bet (folded)
+hatoka balance 1120, didn't bet (folded)
+Adilette75 balance 1660, didn't bet (folded)
+PokerReima balance 3220, didn't bet (folded)
+pokerstarr44 balance 3710, didn't bet (folded)
+Sturzbomber balance 1970, lost 50 (folded)
+
+***** Hand History for Game 5949600500 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33317922)  - Tue May 08 12:18:33 EDT 2007
+Table Speed 1330023 (Real Money) -- Seat 10 is the button
+Total number of players : 7
+Seat 1: pokergrrl23 (5290)
+Seat 3: bassie211 (3030)
+Seat 5: hatoka (1120)
+Seat 6: Adilette75 (1660)
+Seat 8: PokerReima (3220)
+Seat 9: pokerstarr44 (3710)
+Seat 10: Sturzbomber (1970)
+pokergrrl23  posts small blind (50)
+bassie211  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 5d, 6d ]
+hatoka folds.
+Adilette75 folds.
+PokerReima raises (400) to 400
+pokerstarr44 folds.
+Sturzbomber folds.
+pokergrrl23 folds.
+bassie211 folds.
+** Summary **
+Main Pot: 250
+
+pokergrrl23 balance 5240, lost 50 (folded)
+bassie211 balance 2930, lost 100 (folded)
+hatoka balance 1120, didn't bet (folded)
+Adilette75 balance 1660, didn't bet (folded)
+PokerReima balance 3370, bet 400, collected 550, net +150
+pokerstarr44 balance 3710, didn't bet (folded)
+Sturzbomber balance 1970, didn't bet (folded)
+
+***** Hand History for Game 5949601298 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33317922)  - Tue May 08 12:18:50 EDT 2007
+Table Speed 1330023 (Real Money) -- Seat 1 is the button
+Total number of players : 7
+Seat 1: pokergrrl23 (5240)
+Seat 3: bassie211 (2930)
+Seat 5: hatoka (1120)
+Seat 6: Adilette75 (1660)
+Seat 8: PokerReima (3370)
+Seat 9: pokerstarr44 (3710)
+Seat 10: Sturzbomber (1970)
+bassie211  posts small blind (50)
+hatoka  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Ah, Ad ]
+Adilette75 folds.
+PokerReima folds.
+pokerstarr44 folds.
+Sturzbomber folds.
+pokergrrl23 folds.
+bassie211 raises (1050) to 1100
+hatoka raises (1020) to 1120
+hatoka is all-In.
+bassie211 calls (20)
+** Dealing Flop ** :  [ 2c, Td, 4d ]
+** Dealing Turn ** :  [ 6s ]
+** Dealing River ** :  [ Kh ]
+Creating Main Pot with $2240 with hatoka
+** Summary **
+Main Pot: 2240
+Board: [ 2c Td 4d 6s Kh  ]
+
+pokergrrl23 balance 5240, didn't bet (folded)
+bassie211 balance 1810, lost 1120 [ 9d 9s ] [ a pair of Nines -- Kh,Td,9d,9s,6s ]
+hatoka balance 2240, bet 1120, collected 2240, net +1120 [ Ah Ad ] [ a pair of Aces -- Ah,Ad,Kh,Td,6s ]
+Adilette75 balance 1660, didn't bet (folded)
+PokerReima balance 3370, didn't bet (folded)
+pokerstarr44 balance 3710, didn't bet (folded)
+Sturzbomber balance 1970, didn't bet (folded)
+
+***** Hand History for Game 5949602788 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33317922)  - Tue May 08 12:19:22 EDT 2007
+Table Speed 1330023 (Real Money) -- Seat 3 is the button
+Total number of players : 7
+Seat 1: pokergrrl23 (5240)
+Seat 3: bassie211 (1810)
+Seat 5: hatoka (2240)
+Seat 6: Adilette75 (1660)
+Seat 8: PokerReima (3370)
+Seat 9: pokerstarr44 (3710)
+Seat 10: Sturzbomber (1970)
+hatoka  posts small blind (50)
+Adilette75  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 4s, Qd ]
+PokerReima calls (100)
+pokerstarr44 folds.
+Sturzbomber folds.
+pokergrrl23 folds.
+bassie211 calls (100)
+hatoka folds.
+Adilette75 checks.
+** Dealing Flop ** :  [ Th, 8s, 7c ]
+Adilette75 bets (200)
+PokerReima folds.
+bassie211 raises (1710) to 1710
+bassie211 is all-In.
+Adilette75 calls (1360)
+Adilette75 is all-In.
+** Dealing Turn ** :  [ Qh ]
+** Dealing River ** :  [ Js ]
+Creating Main Pot with $3470 with Adilette75
+** Summary **
+Main Pot: 3470
+Board: [ Th 8s 7c Qh Js  ]
+
+pokergrrl23 balance 5240, didn't bet (folded)
+bassie211 balance 3620, bet 1810, collected 3620, net +1810 [ 3h 9h ] [ a straight Eight to Queen -- Qh,Js,Th,9h,8s ]
+hatoka balance 2190, lost 50 (folded)
+Adilette75 balance 0, lost 1660 [ Jc Td ] [ two pairs, Jacks and Tens -- Qh,Jc,Js,Td,Th ]
+PokerReima balance 3270, lost 100 (folded)
+pokerstarr44 balance 3710, didn't bet (folded)
+Sturzbomber balance 1970, didn't bet (folded)
+
+***** Hand History for Game 5949604775 *****
+Adilette75 finished in 7 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33317922)  - Tue May 08 12:20:04 EDT 2007
+Table Speed 1330023 (Real Money) -- Seat 5 is the button
+Total number of players : 6
+Seat 1: pokergrrl23 (5240)
+Seat 3: bassie211 (3620)
+Seat 5: hatoka (2190)
+Seat 8: PokerReima (3270)
+Seat 9: pokerstarr44 (3710)
+Seat 10: Sturzbomber (1970)
+PokerReima  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 7c, 9h ]
+pokerstarr44 folds.
+Sturzbomber folds.
+pokergrrl23 calls (100)
+bassie211: ty
+bassie211 calls (100)
+hatoka folds.
+PokerReima: well played :)
+PokerReima checks.
+** Dealing Flop ** :  [ 4s, 5c, 9s ]
+bassie211: ty
+pokergrrl23: nice one! (looked away for a half second and a player vanished)
+PokerReima bets (200)
+pokergrrl23 folds.
+bassie211 calls (200)
+** Dealing Turn ** :  [ 2h ]
+PokerReima bets (500)
+bassie211 calls (500)
+** Dealing River ** :  [ Ts ]
+PokerReima checks.
+bassie211 checks.
+** Summary **
+Main Pot: 1700
+Board: [ 4s 5c 9s 2h Ts  ]
+
+pokergrrl23 balance 5140, lost 100 (folded)
+bassie211 balance 4520, bet 800, collected 1700, net +900 [ Th 9d ] [ two pairs, Tens and Nines -- Th,Ts,9d,9s,5c ]
+hatoka balance 2190, didn't bet (folded)
+PokerReima balance 2470, lost 800 [ 7s 6h ] [ high card Ten -- Ts,9s,7s,6h,5c ]
+pokerstarr44 balance 3710, didn't bet (folded)
+Sturzbomber balance 1970, didn't bet (folded)
+
+***** Hand History for Game 5949608214 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33317922)  - Tue May 08 12:21:18 EDT 2007
+Table Speed 1330023 (Real Money) -- Seat 5 is the button
+Total number of players : 6
+Seat 1: pokergrrl23 (5140)
+Seat 3: bassie211 (4520)
+Seat 5: hatoka (2190)
+Seat 8: PokerReima (2470)
+Seat 9: pokerstarr44 (3710)
+Seat 10: Sturzbomber (1970)
+PokerReima  posts small blind (50)
+pokerstarr44  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 2d, 9c ]
+Sturzbomber folds.
+pokergrrl23 calls (100)
+bassie211 folds.
+hatoka folds.
+PokerReima calls (50)
+pokerstarr44 checks.
+** Dealing Flop ** :  [ Tc, Ac, 7c ]
+PokerReima checks.
+pokerstarr44 bets (300)
+pokergrrl23 folds.
+PokerReima folds.
+** Summary **
+Main Pot: 300
+Board: [ Tc Ac 7c  ]
+
+pokergrrl23 balance 5040, lost 100 (folded)
+bassie211 balance 4520, didn't bet (folded)
+hatoka balance 2190, didn't bet (folded)
+PokerReima balance 2370, lost 100 (folded)
+pokerstarr44 balance 3910, bet 400, collected 600, net +200
+Sturzbomber balance 1970, didn't bet (folded)
+
+***** Hand History for Game 5949610129 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33317922)  - Tue May 08 12:21:58 EDT 2007
+Table Speed 1330023 (Real Money) -- Seat 8 is the button
+Total number of players : 6
+Seat 1: pokergrrl23 (5040)
+Seat 3: bassie211 (4520)
+Seat 5: hatoka (2190)
+Seat 8: PokerReima (2370)
+Seat 9: pokerstarr44 (3910)
+Seat 10: Sturzbomber (1970)
+pokerstarr44  posts small blind (50)
+Sturzbomber  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 7s, Js ]
+pokergrrl23 calls (100)
+bassie211 folds.
+hatoka calls (100)
+PokerReima folds.
+pokerstarr44 folds.
+Sturzbomber folds.
+** Dealing Flop ** :  [ 5d, Td, 8s ]
+pokergrrl23 bets (100)
+hatoka calls (100)
+** Dealing Turn ** :  [ Kc ]
+pokergrrl23 bets (100)
+hatoka folds.
+** Summary **
+Main Pot: 550
+Board: [ 5d Td 8s Kc  ]
+
+pokergrrl23 balance 5390, bet 300, collected 650, net +350
+bassie211 balance 4520, didn't bet (folded)
+hatoka balance 1990, lost 200 (folded)
+PokerReima balance 2370, didn't bet (folded)
+pokerstarr44 balance 3860, lost 50 (folded)
+Sturzbomber balance 1870, lost 100 (folded)
+
+***** Hand History for Game 5949611744 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33317922)  - Tue May 08 12:22:32 EDT 2007
+Table Speed 1330023 (Real Money) -- Seat 9 is the button
+Total number of players : 6
+Seat 1: pokergrrl23 (5390)
+Seat 3: bassie211 (4520)
+Seat 5: hatoka (1990)
+Seat 8: PokerReima (2370)
+Seat 9: pokerstarr44 (3860)
+Seat 10: Sturzbomber (1870)
+Sturzbomber  posts small blind (50)
+pokergrrl23  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Ad, 3c ]
+bassie211 calls (100)
+hatoka folds.
+PokerReima calls (100)
+pokerstarr44 folds.
+Sturzbomber folds.
+pokergrrl23 checks.
+** Dealing Flop ** :  [ Kc, 7h, 8s ]
+pokergrrl23 checks.
+bassie211 bets (200)
+PokerReima folds.
+pokergrrl23 calls (200)
+** Dealing Turn ** :  [ Qc ]
+pokergrrl23 checks.
+bassie211 bets (400)
+pokergrrl23 raises (1000) to 1000
+bassie211 folds.
+** Summary **
+Main Pot: 1550
+Board: [ Kc 7h 8s Qc  ]
+
+pokergrrl23 balance 6240, bet 1300, collected 2150, net +850 [ 7s 7c ] [ three of a kind, Sevens -- Kc,Qc,7s,7c,7h ]
+bassie211 balance 3820, lost 700 (folded)
+hatoka balance 1990, didn't bet (folded)
+PokerReima balance 2270, lost 100 (folded)
+pokerstarr44 balance 3860, didn't bet (folded)
+Sturzbomber balance 1820, lost 50 (folded)
+
+***** Hand History for Game 5949614532 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33317922)  - Tue May 08 12:23:31 EDT 2007
+Table Speed 1330023 (Real Money) -- Seat 10 is the button
+Total number of players : 6
+Seat 1: pokergrrl23 (6240)
+Seat 3: bassie211 (3820)
+Seat 5: hatoka (1990)
+Seat 8: PokerReima (2270)
+Seat 9: pokerstarr44 (3860)
+Seat 10: Sturzbomber (1820)
+pokergrrl23  posts small blind (100)
+bassie211  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Qs, 9d ]
+hatoka folds.
+PokerReima folds.
+pokerstarr44 folds.
+Sturzbomber folds.
+pokergrrl23 calls (100)
+bassie211 raises (200) to 400
+pokergrrl23 calls (200)
+** Dealing Flop ** :  [ Ts, 5c, Ah ]
+pokergrrl23 checks.
+bassie211 bets (400)
+pokergrrl23 folds.
+** Summary **
+Main Pot: 800
+Board: [ Ts 5c Ah  ]
+
+pokergrrl23 balance 5840, lost 400 (folded)
+bassie211 balance 4220, bet 800, collected 1200, net +400
+hatoka balance 1990, didn't bet (folded)
+PokerReima balance 2270, didn't bet (folded)
+pokerstarr44 balance 3860, didn't bet (folded)
+Sturzbomber balance 1820, didn't bet (folded)
+
+***** Hand History for Game 5949615604 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33317922)  - Tue May 08 12:23:54 EDT 2007
+Table Speed 1330023 (Real Money) -- Seat 1 is the button
+Total number of players : 6
+Seat 1: pokergrrl23 (5840)
+Seat 3: bassie211 (4220)
+Seat 5: hatoka (1990)
+Seat 8: PokerReima (2270)
+Seat 9: pokerstarr44 (3860)
+Seat 10: Sturzbomber (1820)
+bassie211  posts small blind (100)
+hatoka  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Kd, 7h ]
+PokerReima raises (600) to 600
+pokerstarr44 folds.
+Sturzbomber folds.
+pokergrrl23 folds.
+bassie211 raises (4120) to 4220
+bassie211 is all-In.
+hatoka folds.
+PokerReima folds.
+Creating Main Pot with $1400 with bassie211
+** Summary **
+Main Pot: 1400
+
+pokergrrl23 balance 5840, didn't bet (folded)
+bassie211 balance 5020, bet 4220, collected 5020, net +800
+hatoka balance 1790, lost 200 (folded)
+PokerReima balance 1670, lost 600 (folded)
+pokerstarr44 balance 3860, didn't bet (folded)
+Sturzbomber balance 1820, didn't bet (folded)
+
+***** Hand History for Game 5949616376 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33317922)  - Tue May 08 12:24:10 EDT 2007
+Table Speed 1330023 (Real Money) -- Seat 3 is the button
+Total number of players : 6
+Seat 1: pokergrrl23 (5840)
+Seat 3: bassie211 (5020)
+Seat 5: hatoka (1790)
+Seat 8: PokerReima (1670)
+Seat 9: pokerstarr44 (3860)
+Seat 10: Sturzbomber (1820)
+hatoka  posts small blind (100)
+PokerReima  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Ah, 4h ]
+pokerstarr44 raises (600) to 600
+Sturzbomber folds.
+pokergrrl23 folds.
+bassie211 folds.
+hatoka calls (500)
+PokerReima folds.
+** Dealing Flop ** :  [ 3h, 3s, 3c ]
+hatoka bets (200)
+pokerstarr44 raises (1190) to 1190
+hatoka folds.
+** Summary **
+Main Pot: 1800
+Board: [ 3h 3s 3c  ]
+
+pokergrrl23 balance 5840, didn't bet (folded)
+bassie211 balance 5020, didn't bet (folded)
+hatoka balance 990, lost 800 (folded)
+PokerReima balance 1470, lost 200 (folded)
+pokerstarr44 balance 4860, bet 1790, collected 2790, net +1000
+Sturzbomber balance 1820, didn't bet (folded)
+
+***** Hand History for Game 5949618458 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33317922)  - Tue May 08 12:24:56 EDT 2007
+Table Speed 1330023 (Real Money) -- Seat 5 is the button
+Total number of players : 6
+Seat 1: pokergrrl23 (5840)
+Seat 3: bassie211 (5020)
+Seat 5: hatoka (990)
+Seat 8: PokerReima (1470)
+Seat 9: pokerstarr44 (4860)
+Seat 10: Sturzbomber (1820)
+PokerReima  posts small blind (100)
+pokerstarr44  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Js, 2h ]
+Sturzbomber folds.
+pokergrrl23 folds.
+bassie211 folds.
+hatoka folds.
+PokerReima folds.
+** Summary **
+Main Pot: 200
+
+pokergrrl23 balance 5840, didn't bet (folded)
+bassie211 balance 5020, didn't bet (folded)
+hatoka balance 990, didn't bet (folded)
+PokerReima balance 1370, lost 100 (folded)
+pokerstarr44 balance 4960, bet 200, collected 300, net +100
+Sturzbomber balance 1820, didn't bet (folded)
+
+***** Hand History for Game 5949619066 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33317922)  - Tue May 08 12:25:08 EDT 2007
+Table Speed 1330023 (Real Money) -- Seat 8 is the button
+Total number of players : 6
+Seat 1: pokergrrl23 (5840)
+Seat 3: bassie211 (5020)
+Seat 5: hatoka (990)
+Seat 8: PokerReima (1370)
+Seat 9: pokerstarr44 (4960)
+Seat 10: Sturzbomber (1820)
+pokerstarr44  posts small blind (100)
+Sturzbomber  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Js, 5c ]
+pokergrrl23 folds.
+bassie211 folds.
+hatoka folds.
+PokerReima folds.
+pokerstarr44 raises (400) to 500
+bassie211: same card
+Sturzbomber raises (1620) to 1820
+Sturzbomber is all-In.
+pokerstarr44 folds.
+Creating Main Pot with $1000 with Sturzbomber
+** Summary **
+Main Pot: 1000
+
+pokergrrl23 balance 5840, didn't bet (folded)
+bassie211 balance 5020, didn't bet (folded)
+hatoka balance 990, didn't bet (folded)
+PokerReima balance 1370, didn't bet (folded)
+pokerstarr44 balance 4460, lost 500 (folded)
+Sturzbomber balance 2320, bet 1820, collected 2320, net +500
+
+***** Hand History for Game 5949620307 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33317922)  - Tue May 08 12:25:35 EDT 2007
+Table Speed 1330023 (Real Money) -- Seat 9 is the button
+Total number of players : 6
+Seat 1: pokergrrl23 (5840)
+Seat 3: bassie211 (5020)
+Seat 5: hatoka (990)
+Seat 8: PokerReima (1370)
+Seat 9: pokerstarr44 (4460)
+Seat 10: Sturzbomber (2320)
+Sturzbomber  posts small blind (100)
+pokergrrl23  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Ks, 7c ]
+bassie211 raises (600) to 600
+hatoka folds.
+PokerReima folds.
+pokerstarr44 folds.
+Sturzbomber folds.
+pokergrrl23 calls (400)
+** Dealing Flop ** :  [ 7d, 3h, 9d ]
+pokergrrl23 checks.
+bassie211 bets (1000)
+pokergrrl23 folds.
+** Summary **
+Main Pot: 1300
+Board: [ 7d 3h 9d  ]
+
+pokergrrl23 balance 5240, lost 600 (folded)
+bassie211 balance 5720, bet 1600, collected 2300, net +700
+hatoka balance 990, didn't bet (folded)
+PokerReima balance 1370, didn't bet (folded)
+pokerstarr44 balance 4460, didn't bet (folded)
+Sturzbomber balance 2220, lost 100 (folded)
+
+***** Hand History for Game 5949622126 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33317922)  - Tue May 08 12:26:12 EDT 2007
+Table Speed 1330023 (Real Money) -- Seat 10 is the button
+Total number of players : 6
+Seat 1: pokergrrl23 (5240)
+Seat 3: bassie211 (5720)
+Seat 5: hatoka (990)
+Seat 8: PokerReima (1370)
+Seat 9: pokerstarr44 (4460)
+Seat 10: Sturzbomber (2220)
+pokergrrl23  posts small blind (100)
+bassie211  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Qh, Js ]
+hatoka raises (990) to 990
+hatoka is all-In.
+PokerReima folds.
+pokerstarr44 folds.
+Sturzbomber folds.
+pokergrrl23 folds.
+bassie211 folds.
+Creating Main Pot with $500 with hatoka
+** Summary **
+Main Pot: 500
+
+pokergrrl23 balance 5140, lost 100 (folded)
+bassie211 balance 5520, lost 200 (folded)
+hatoka balance 1290, bet 990, collected 1290, net +300
+PokerReima balance 1370, didn't bet (folded)
+pokerstarr44 balance 4460, didn't bet (folded)
+Sturzbomber balance 2220, didn't bet (folded)
+
+***** Hand History for Game 5949622956 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33317922)  - Tue May 08 12:26:30 EDT 2007
+Table Speed 1330023 (Real Money) -- Seat 1 is the button
+Total number of players : 6
+Seat 1: pokergrrl23 (5140)
+Seat 3: bassie211 (5520)
+Seat 5: hatoka (1290)
+Seat 8: PokerReima (1370)
+Seat 9: pokerstarr44 (4460)
+Seat 10: Sturzbomber (2220)
+bassie211  posts small blind (100)
+hatoka  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 3h, 2h ]
+PokerReima folds.
+pokerstarr44 folds.
+Sturzbomber folds.
+pokergrrl23 calls (200)
+bassie211 folds.
+hatoka checks.
+** Dealing Flop ** :  [ 9d, 2d, Qc ]
+hatoka checks.
+pokergrrl23 bets (200)
+hatoka folds.
+** Summary **
+Main Pot: 500
+Board: [ 9d 2d Qc  ]
+
+pokergrrl23 balance 5440, bet 400, collected 700, net +300
+bassie211 balance 5420, lost 100 (folded)
+hatoka balance 1090, lost 200 (folded)
+PokerReima balance 1370, didn't bet (folded)
+pokerstarr44 balance 4460, didn't bet (folded)
+Sturzbomber balance 2220, didn't bet (folded)
+
+***** Hand History for Game 5949624993 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33317922)  - Tue May 08 12:27:13 EDT 2007
+Table Speed 1330023 (Real Money) -- Seat 3 is the button
+Total number of players : 6
+Seat 1: pokergrrl23 (5440)
+Seat 3: bassie211 (5420)
+Seat 5: hatoka (1090)
+Seat 8: PokerReima (1370)
+Seat 9: pokerstarr44 (4460)
+Seat 10: Sturzbomber (2220)
+hatoka  posts small blind (100)
+PokerReima  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Ks, 6c ]
+pokerstarr44 folds.
+Sturzbomber folds.
+pokergrrl23 raises (400) to 400
+bassie211 folds.
+hatoka folds.
+PokerReima folds.
+** Summary **
+Main Pot: 500
+
+pokergrrl23 balance 5740, bet 400, collected 700, net +300
+bassie211 balance 5420, didn't bet (folded)
+hatoka balance 990, lost 100 (folded)
+PokerReima balance 1170, lost 200 (folded)
+pokerstarr44 balance 4460, didn't bet (folded)
+Sturzbomber balance 2220, didn't bet (folded)
+
+***** Hand History for Game 5949625939 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33317922)  - Tue May 08 12:27:32 EDT 2007
+Table Speed 1330023 (Real Money) -- Seat 5 is the button
+Total number of players : 6
+Seat 1: pokergrrl23 (5740)
+Seat 3: bassie211 (5420)
+Seat 5: hatoka (990)
+Seat 8: PokerReima (1170)
+Seat 9: pokerstarr44 (4460)
+Seat 10: Sturzbomber (2220)
+PokerReima  posts small blind (100)
+pokerstarr44  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 8c, Js ]
+Sturzbomber folds.
+pokergrrl23 calls (200)
+bassie211 folds.
+hatoka folds.
+PokerReima raises (1070) to 1170
+PokerReima is all-In.
+pokerstarr44 calls (970)
+pokergrrl23 folds.
+** Dealing Flop ** :  [ 7h, 4h, 7c ]
+** Dealing Turn ** :  [ 9c ]
+** Dealing River ** :  [ 5c ]
+Creating Main Pot with $2540 with PokerReima
+** Summary **
+Main Pot: 2540
+Board: [ 7h 4h 7c 9c 5c  ]
+
+pokergrrl23 balance 5540, lost 200 (folded)
+bassie211 balance 5420, didn't bet (folded)
+hatoka balance 990, didn't bet (folded)
+PokerReima balance 2540, bet 1170, collected 2540, net +1370 [ Tc Ac ] [ a flush, Ace high -- Ac,Tc,9c,7c,5c ]
+pokerstarr44 balance 3290, lost 1170 [ Ah 9h ] [ two pairs, Nines and Sevens -- Ah,9h,9c,7h,7c ]
+Sturzbomber balance 2220, didn't bet (folded)
+
+***** Hand History for Game 5949626983 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33317922)  - Tue May 08 12:27:55 EDT 2007
+Table Speed 1330023 (Real Money) -- Seat 8 is the button
+Total number of players : 6
+Seat 1: pokergrrl23 (5540)
+Seat 3: bassie211 (5420)
+Seat 5: hatoka (990)
+Seat 8: PokerReima (2540)
+Seat 9: pokerstarr44 (3290)
+Seat 10: Sturzbomber (2220)
+pokerstarr44  posts small blind (100)
+Sturzbomber  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Tc, 9h ]
+pokergrrl23 folds.
+bassie211 folds.
+hatoka folds.
+PokerReima raises (600) to 600
+pokerstarr44 folds.
+Sturzbomber raises (2020) to 2220
+Sturzbomber is all-In.
+PokerReima calls (1620)
+** Dealing Flop ** :  [ Kd, Qd, 9s ]
+** Dealing Turn ** :  [ 2s ]
+** Dealing River ** :  [ Js ]
+Creating Main Pot with $4540 with Sturzbomber
+** Summary **
+Main Pot: 4540
+Board: [ Kd Qd 9s 2s Js  ]
+
+pokergrrl23 balance 5540, didn't bet (folded)
+bassie211 balance 5420, didn't bet (folded)
+hatoka balance 990, didn't bet (folded)
+PokerReima balance 4860, bet 2220, collected 4540, net +2320 [ Jc Kh ] [ two pairs, Kings and Jacks -- Kh,Kd,Qd,Jc,Js ]
+pokerstarr44 balance 3190, lost 100 (folded)
+Sturzbomber balance 0, lost 2220 [ 4c 4h ] [ a pair of Fours -- Kd,Qd,Js,4c,4h ]
+
+***** Hand History for Game 5949629108 *****
+Sturzbomber finished in 6 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33317922)  - Tue May 08 12:28:38 EDT 2007
+Table Speed 1330023 (Real Money) -- Seat 9 is the button
+Total number of players : 5
+Seat 1: pokergrrl23 (5540)
+Seat 3: bassie211 (5420)
+Seat 5: hatoka (990)
+Seat 8: PokerReima (4860)
+Seat 9: pokerstarr44 (3190)
+pokergrrl23  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 3s, Kc ]
+bassie211 folds.
+hatoka folds.
+PokerReima folds.
+pokerstarr44 folds.
+** Summary **
+Main Pot: 400
+
+pokergrrl23 balance 5540, bet 400, collected 400, net +0
+bassie211 balance 5420, didn't bet (folded)
+hatoka balance 990, didn't bet (folded)
+PokerReima balance 4860, didn't bet (folded)
+pokerstarr44 balance 3190, didn't bet (folded)
+
+***** Hand History for Game 5949629989 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33317922)  - Tue May 08 12:28:56 EDT 2007
+Table Speed 1330023 (Real Money) -- Seat 9 is the button
+Total number of players : 5
+Seat 1: pokergrrl23 (5540)
+Seat 3: bassie211 (5420)
+Seat 5: hatoka (990)
+Seat 8: PokerReima (4860)
+Seat 9: pokerstarr44 (3190)
+pokergrrl23  posts small blind (200)
+bassie211  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 5h, 6h ]
+hatoka folds.
+PokerReima folds.
+pokerstarr44 raises (1200) to 1200
+pokergrrl23 folds.
+bassie211 raises (5020) to 5420
+bassie211 is all-In.
+pokerstarr44 calls (1990)
+pokerstarr44 is all-In.
+** Dealing Flop ** :  [ Qs, 4c, 5d ]
+** Dealing Turn ** :  [ 7d ]
+** Dealing River ** :  [ Ts ]
+Creating Main Pot with $6580 with pokerstarr44
+** Summary **
+Main Pot: 6580
+Board: [ Qs 4c 5d 7d Ts  ]
+
+pokergrrl23 balance 5340, lost 200 (folded)
+bassie211 balance 2230, bet 5420, collected 2230, lost -3190 [ 9s 9h ] [ a pair of Nines -- Qs,Ts,9s,9h,7d ]
+hatoka balance 990, didn't bet (folded)
+PokerReima balance 4860, didn't bet (folded)
+pokerstarr44 balance 6580, bet 3190, collected 6580, net +3390 [ Qh Qc ] [ three of a kind, Queens -- Qh,Qc,Qs,Ts,7d ]
+
+***** Hand History for Game 5949630997 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33317922)  - Tue May 08 12:29:18 EDT 2007
+Table Speed 1330023 (Real Money) -- Seat 1 is the button
+Total number of players : 5
+Seat 1: pokergrrl23 (5340)
+Seat 3: bassie211 (2230)
+Seat 5: hatoka (990)
+Seat 8: PokerReima (4860)
+Seat 9: pokerstarr44 (6580)
+bassie211  posts small blind (200)
+hatoka  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 6d, 4h ]
+pokergrrl23: nh :)
+PokerReima folds.
+pokerstarr44 folds.
+pokergrrl23 folds.
+pokerstarr44: thx
+bassie211 raises (2030) to 2230
+bassie211 is all-In.
+hatoka folds.
+Creating Main Pot with $800 with bassie211
+** Summary **
+Main Pot: 800
+
+pokergrrl23 balance 5340, didn't bet (folded)
+bassie211 balance 2630, bet 2230, collected 2630, net +400
+hatoka balance 590, lost 400 (folded)
+PokerReima balance 4860, didn't bet (folded)
+pokerstarr44 balance 6580, didn't bet (folded)
+
+***** Hand History for Game 5949631764 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33317922)  - Tue May 08 12:29:33 EDT 2007
+Table Speed 1330023 (Real Money) -- Seat 3 is the button
+Total number of players : 5
+Seat 1: pokergrrl23 (5340)
+Seat 3: bassie211 (2630)
+Seat 5: hatoka (590)
+Seat 8: PokerReima (4860)
+Seat 9: pokerstarr44 (6580)
+hatoka  posts small blind (200)
+PokerReima  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 4h, Kd ]
+pokerstarr44 raises (800) to 800
+pokergrrl23 folds.
+bassie211 folds.
+hatoka folds.
+PokerReima folds.
+** Summary **
+Main Pot: 1000
+
+pokergrrl23 balance 5340, didn't bet (folded)
+bassie211 balance 2630, didn't bet (folded)
+hatoka balance 390, lost 200 (folded)
+PokerReima balance 4460, lost 400 (folded)
+pokerstarr44 balance 7180, bet 800, collected 1400, net +600
+
+***** Hand History for Game 5949633061 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33317922)  - Tue May 08 12:30:00 EDT 2007
+Table Speed 1330023 (Real Money) -- Seat 5 is the button
+Total number of players : 5
+Seat 1: pokergrrl23 (5340)
+Seat 3: bassie211 (2630)
+Seat 5: hatoka (390)
+Seat 8: PokerReima (4460)
+Seat 9: pokerstarr44 (7180)
+PokerReima  posts small blind (200)
+pokerstarr44  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 5h, Kc ]
+pokergrrl23 folds.
+bassie211 folds.
+hatoka calls (390)
+hatoka is all-In.
+PokerReima folds.
+** Dealing Flop ** :  [ 8h, 3h, 3d ]
+** Dealing Turn ** :  [ Th ]
+** Dealing River ** :  [ 8d ]
+Creating Main Pot with $980 with hatoka
+** Summary **
+Main Pot: 980
+Board: [ 8h 3h 3d Th 8d  ]
+
+pokergrrl23 balance 5340, didn't bet (folded)
+bassie211 balance 2630, didn't bet (folded)
+hatoka balance 490, bet 390, collected 490, net +100 [ 5h Kc ] [ two pairs, Eights and Threes -- Kc,8h,8d,3h,3d ]
+PokerReima balance 4260, lost 200 (folded)
+pokerstarr44 balance 7280, bet 400, collected 500, net +100 [ 6c Kd ] [ two pairs, Eights and Threes -- Kd,8h,8d,3h,3d ]
+
+***** Hand History for Game 5949634320 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33317922)  - Tue May 08 12:30:24 EDT 2007
+Table Speed 1330023 (Real Money) -- Seat 8 is the button
+Total number of players : 5
+Seat 1: pokergrrl23 (5340)
+Seat 3: bassie211 (2630)
+Seat 5: hatoka (490)
+Seat 8: PokerReima (4260)
+Seat 9: pokerstarr44 (7280)
+pokerstarr44  posts small blind (200)
+pokergrrl23  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ Qh, 2d ]
+bassie211 raises (2630) to 2630
+bassie211 is all-In.
+hatoka folds.
+PokerReima folds.
+pokerstarr44 folds.
+pokergrrl23 folds.
+Creating Main Pot with $1000 with bassie211
+** Summary **
+Main Pot: 1000
+
+pokergrrl23 balance 4940, lost 400 (folded)
+bassie211 balance 3230, bet 2630, collected 3230, net +600
+hatoka balance 490, didn't bet (folded)
+PokerReima balance 4260, didn't bet (folded)
+pokerstarr44 balance 7080, lost 200 (folded)
+
+***** Hand History for Game 5949635047 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33317922)  - Tue May 08 12:30:40 EDT 2007
+Table Speed 1330023 (Real Money) -- Seat 9 is the button
+Total number of players : 5
+Seat 1: pokergrrl23 (4940)
+Seat 3: bassie211 (3230)
+Seat 5: hatoka (490)
+Seat 8: PokerReima (4260)
+Seat 9: pokerstarr44 (7080)
+pokergrrl23  posts small blind (200)
+bassie211  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ Tc, 6s ]
+hatoka folds.
+PokerReima folds.
+pokerstarr44 folds.
+pokergrrl23 calls (200)
+bassie211 checks.
+** Dealing Flop ** :  [ 7s, 7d, 4h ]
+pokergrrl23 checks.
+bassie211 checks.
+** Dealing Turn ** :  [ Ks ]
+pokergrrl23 checks.
+bassie211 checks.
+** Dealing River ** :  [ 4c ]
+pokergrrl23 checks.
+bassie211 checks.
+** Summary **
+Main Pot: 800
+Board: [ 7s 7d 4h Ks 4c  ]
+
+pokergrrl23 balance 4940, bet 400, collected 400, net +0 [ 5d Ad ] [ two pairs, Sevens and Fours -- Ad,7s,7d,4h,4c ]
+bassie211 balance 3230, bet 400, collected 400, net +0 [ As 9d ] [ two pairs, Sevens and Fours -- As,7s,7d,4h,4c ]
+hatoka balance 490, didn't bet (folded)
+PokerReima balance 4260, didn't bet (folded)
+pokerstarr44 balance 7080, didn't bet (folded)
+
+***** Hand History for Game 5949636102 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33317922)  - Tue May 08 12:31:02 EDT 2007
+Table Speed 1330023 (Real Money) -- Seat 1 is the button
+Total number of players : 5
+Seat 1: pokergrrl23 (4940)
+Seat 3: bassie211 (3230)
+Seat 5: hatoka (490)
+Seat 8: PokerReima (4260)
+Seat 9: pokerstarr44 (7080)
+bassie211  posts small blind (200)
+hatoka  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ As, 8s ]
+bassie211: nh
+PokerReima folds.
+pokerstarr44 folds.
+pokergrrl23: lol u2
+pokergrrl23 folds.
+bassie211 raises (1000) to 1200
+hatoka calls (90)
+hatoka is all-In.
+** Dealing Flop ** :  [ Jh, Qs, 7c ]
+** Dealing Turn ** :  [ 9s ]
+** Dealing River ** :  [ Ah ]
+Creating Main Pot with $980 with hatoka
+** Summary **
+Main Pot: 980
+Board: [ Jh Qs 7c 9s Ah  ]
+
+pokergrrl23 balance 4940, didn't bet (folded)
+bassie211 balance 2740, bet 1200, collected 710, lost -490 [ 8d Kd ] [ high card Ace -- Ah,Kd,Qs,Jh,9s ]
+hatoka balance 980, bet 490, collected 980, net +490 [ As 8s ] [ a pair of Aces -- As,Ah,Qs,Jh,9s ]
+PokerReima balance 4260, didn't bet (folded)
+pokerstarr44 balance 7080, didn't bet (folded)
+
+***** Hand History for Game 5949637271 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33317922)  - Tue May 08 12:31:25 EDT 2007
+Table Speed 1330023 (Real Money) -- Seat 3 is the button
+Total number of players : 5
+Seat 1: pokergrrl23 (4940)
+Seat 3: bassie211 (2740)
+Seat 5: hatoka (980)
+Seat 8: PokerReima (4260)
+Seat 9: pokerstarr44 (7080)
+hatoka  posts small blind (200)
+PokerReima  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 8d, 3h ]
+pokerstarr44 folds.
+pokergrrl23 folds.
+bassie211 raises (2740) to 2740
+bassie211 is all-In.
+hatoka folds.
+PokerReima folds.
+Creating Main Pot with $1000 with bassie211
+** Summary **
+Main Pot: 1000
+
+pokergrrl23 balance 4940, didn't bet (folded)
+bassie211 balance 3340, bet 2740, collected 3340, net +600 [ Qh Ad ] [ high card Ace -- Ad,Qh ]
+hatoka balance 780, lost 200 (folded)
+PokerReima balance 3860, lost 400 (folded)
+pokerstarr44 balance 7080, didn't bet (folded)
+
+***** Hand History for Game 5949638109 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33317922)  - Tue May 08 12:31:41 EDT 2007
+Table Speed 1330023 (Real Money) -- Seat 5 is the button
+Total number of players : 5
+Seat 1: pokergrrl23 (4940)
+Seat 3: bassie211 (3340)
+Seat 5: hatoka (780)
+Seat 8: PokerReima (3860)
+Seat 9: pokerstarr44 (7080)
+PokerReima  posts small blind (200)
+pokerstarr44  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ As, Qd ]
+pokergrrl23 folds.
+bassie211 folds.
+hatoka raises (780) to 780
+hatoka is all-In.
+PokerReima folds.
+pokerstarr44 folds.
+Creating Main Pot with $1000 with hatoka
+** Summary **
+Main Pot: 1000
+
+pokergrrl23 balance 4940, didn't bet (folded)
+bassie211 balance 3340, didn't bet (folded)
+hatoka balance 1380, bet 780, collected 1380, net +600
+PokerReima balance 3660, lost 200 (folded)
+pokerstarr44 balance 6680, lost 400 (folded)
+
+***** Hand History for Game 5949638656 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33317922)  - Tue May 08 12:31:52 EDT 2007
+Table Speed 1330023 (Real Money) -- Seat 8 is the button
+Total number of players : 5
+Seat 1: pokergrrl23 (4940)
+Seat 3: bassie211 (3340)
+Seat 5: hatoka (1380)
+Seat 8: PokerReima (3660)
+Seat 9: pokerstarr44 (6680)
+pokerstarr44  posts small blind (200)
+pokergrrl23  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ Qd, 3c ]
+bassie211 folds.
+hatoka folds.
+PokerReima raises (3660) to 3660
+PokerReima is all-In.
+pokerstarr44 folds.
+pokergrrl23 folds.
+Creating Main Pot with $1000 with PokerReima
+** Summary **
+Main Pot: 1000
+
+pokergrrl23 balance 4540, lost 400 (folded)
+bassie211 balance 3340, didn't bet (folded)
+hatoka balance 1380, didn't bet (folded)
+PokerReima balance 4260, bet 3660, collected 4260, net +600
+pokerstarr44 balance 6480, lost 200 (folded)
+
+***** Hand History for Game 5949639625 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33317922)  - Tue May 08 12:32:12 EDT 2007
+Table Speed 1330023 (Real Money) -- Seat 9 is the button
+Total number of players : 5
+Seat 1: pokergrrl23 (4540)
+Seat 3: bassie211 (3340)
+Seat 5: hatoka (1380)
+Seat 8: PokerReima (4260)
+Seat 9: pokerstarr44 (6480)
+pokergrrl23  posts small blind (200)
+bassie211  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 6d, 4s ]
+hatoka folds.
+PokerReima folds.
+pokerstarr44 folds.
+pokergrrl23 calls (200)
+bassie211 raises (2940) to 3340
+bassie211 is all-In.
+pokergrrl23 folds.
+Creating Main Pot with $800 with bassie211
+** Summary **
+Main Pot: 800
+
+pokergrrl23 balance 4140, lost 400 (folded)
+bassie211 balance 3740, bet 3340, collected 3740, net +400 [ 9h 9d ] [ a pair of Nines -- 9h,9d ]
+hatoka balance 1380, didn't bet (folded)
+PokerReima balance 4260, didn't bet (folded)
+pokerstarr44 balance 6480, didn't bet (folded)
+
+***** Hand History for Game 5949640699 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33317922)  - Tue May 08 12:32:33 EDT 2007
+Table Speed 1330023 (Real Money) -- Seat 1 is the button
+Total number of players : 5
+Seat 1: pokergrrl23 (4140)
+Seat 3: bassie211 (3740)
+Seat 5: hatoka (1380)
+Seat 8: PokerReima (4260)
+Seat 9: pokerstarr44 (6480)
+bassie211  posts small blind (200)
+hatoka  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 2s, 2h ]
+pokergrrl23: cant a girl just get a look at the damn flop? lol
+PokerReima raises (800) to 800
+pokerstarr44 folds.
+pokergrrl23 folds.
+bassie211 folds.
+hatoka calls (400)
+** Dealing Flop ** :  [ 6d, Jh, Kc ]
+hatoka bets (580)
+hatoka is all-In.
+pokerstarr44: haha
+PokerReima calls (580)
+** Dealing Turn ** :  [ 2d ]
+** Dealing River ** :  [ Tc ]
+Creating Main Pot with $2960 with hatoka
+** Summary **
+Main Pot: 2960
+Board: [ 6d Jh Kc 2d Tc  ]
+
+pokergrrl23 balance 4140, didn't bet (folded)
+bassie211 balance 3540, lost 200 (folded)
+hatoka balance 2960, bet 1380, collected 2960, net +1580 [ 2s 2h ] [ three of a kind, Twos -- Kc,Jh,2s,2h,2d ]
+PokerReima balance 2880, lost 1380 [ 9s As ] [ high card Ace -- As,Kc,Jh,Tc,9s ]
+pokerstarr44 balance 6480, didn't bet (folded)
+
+***** Hand History for Game 5949642792 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33317922)  - Tue May 08 12:33:15 EDT 2007
+Table Speed 1330023 (Real Money) -- Seat 3 is the button
+Total number of players : 5
+Seat 1: pokergrrl23 (4140)
+Seat 3: bassie211 (3540)
+Seat 5: hatoka (2960)
+Seat 8: PokerReima (2880)
+Seat 9: pokerstarr44 (6480)
+hatoka  posts small blind (200)
+PokerReima  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 5d, Ts ]
+pokerstarr44 raises (800) to 800
+pokergrrl23 folds.
+bassie211 folds.
+hatoka folds.
+PokerReima raises (2480) to 2880
+PokerReima is all-In.
+pokerstarr44 calls (2080)
+** Dealing Flop ** :  [ Qd, 7h, 8d ]
+** Dealing Turn ** :  [ 4h ]
+** Dealing River ** :  [ 9h ]
+Creating Main Pot with $5960 with PokerReima
+** Summary **
+Main Pot: 5960
+Board: [ Qd 7h 8d 4h 9h  ]
+
+pokergrrl23 balance 4140, didn't bet (folded)
+bassie211 balance 3540, didn't bet (folded)
+hatoka balance 2760, lost 200 (folded)
+PokerReima balance 0, lost 2880 [ Js Kc ] [ high card King -- Kc,Qd,Js,9h,8d ]
+pokerstarr44 balance 9560, bet 2880, collected 5960, net +3080 [ Ac Td ] [ high card Ace -- Ac,Qd,Td,9h,8d ]
+
+***** Hand History for Game 5949644186 *****
+PokerReima finished in 5 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33317922)  - Tue May 08 12:33:43 EDT 2007
+Table Speed 1330023 (Real Money) -- Seat 5 is the button
+Total number of players : 4
+Seat 1: pokergrrl23 (4140)
+Seat 3: bassie211 (3540)
+Seat 5: hatoka (2760)
+Seat 9: pokerstarr44 (9560)
+pokerstarr44  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ 6d, Ah ]
+pokergrrl23: nice!
+pokergrrl23 folds.
+pokerstarr44: ;-)
+bassie211 folds.
+hatoka raises (1200) to 1200
+pokerstarr44 folds.
+** Summary **
+Main Pot: 1200
+
+pokergrrl23 balance 4140, didn't bet (folded)
+bassie211 balance 3540, didn't bet (folded)
+hatoka balance 3360, bet 1200, collected 1800, net +600
+pokerstarr44 balance 8960, lost 600 (folded)
+
+***** Hand History for Game 5949645512 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33317922)  - Tue May 08 12:34:09 EDT 2007
+Table Speed 1330023 (Real Money) -- Seat 5 is the button
+Total number of players : 4
+Seat 1: pokergrrl23 (4140)
+Seat 3: bassie211 (3540)
+Seat 5: hatoka (3360)
+Seat 9: pokerstarr44 (8960)
+pokerstarr44  posts small blind (300)
+pokergrrl23  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ Qs, 6c ]
+bassie211 folds.
+hatoka folds.
+pokerstarr44 raises (900) to 1200
+pokergrrl23: jesus!!!!!!!!!!!!! lol
+pokergrrl23 calls (600)
+** Dealing Flop ** :  [ 5h, As, Js ]
+pokerstarr44 bets (1200)
+pokergrrl23 folds.
+** Summary **
+Main Pot: 2400
+Board: [ 5h As Js  ]
+
+pokergrrl23 balance 2940, lost 1200 (folded)
+bassie211 balance 3540, didn't bet (folded)
+hatoka balance 3360, didn't bet (folded)
+pokerstarr44 balance 10160, bet 2400, collected 3600, net +1200
+
+***** Hand History for Game 5949647174 *****
+pokergrrl23: had tens
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33317922)  - Tue May 08 12:34:42 EDT 2007
+Table Speed 1330023 (Real Money) -- Seat 9 is the button
+Total number of players : 4
+Seat 1: pokergrrl23 (2940)
+Seat 3: bassie211 (3540)
+Seat 5: hatoka (3360)
+Seat 9: pokerstarr44 (10160)
+pokergrrl23  posts small blind (300)
+bassie211  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ 6s, 3s ]
+hatoka folds.
+pokerstarr44 folds.
+pokergrrl23 calls (300)
+bassie211 raises (2940) to 3540
+bassie211 is all-In.
+pokergrrl23 calls (2340)
+pokergrrl23 is all-In.
+** Dealing Flop ** :  [ 7c, Td, 8d ]
+** Dealing Turn ** :  [ 7h ]
+** Dealing River ** :  [ 9h ]
+Creating Main Pot with $5880 with pokergrrl23
+** Summary **
+Main Pot: 5880
+Board: [ 7c Td 8d 7h 9h  ]
+
+pokergrrl23 balance 5880, bet 2940, collected 5880, net +2940 [ Qs Jc ] [ a straight Eight to Queen -- Qs,Jc,Td,9h,8d ]
+bassie211 balance 600, bet 3540, collected 600, lost -2940 [ 3c Ad ] [ a pair of Sevens -- Ad,Td,9h,7c,7h ]
+hatoka balance 3360, didn't bet (folded)
+pokerstarr44 balance 10160, didn't bet (folded)
+
+***** Hand History for Game 5949648561 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33317922)  - Tue May 08 12:35:09 EDT 2007
+Table Speed 1330023 (Real Money) -- Seat 1 is the button
+Total number of players : 4
+Seat 1: pokergrrl23 (5880)
+Seat 3: bassie211 (600)
+Seat 5: hatoka (3360)
+Seat 9: pokerstarr44 (10160)
+bassie211  posts small blind (300)
+hatoka  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ Qc, 3h ]
+pokerstarr44 folds.
+pokergrrl23: that horseshoe came in handy there!
+pokergrrl23 calls (600)
+bassie211 folds.
+hatoka checks.
+** Dealing Flop ** :  [ Qh, 7d, 3s ]
+hatoka bets (1000)
+pokergrrl23 calls (1000)
+** Dealing Turn ** :  [ 5h ]
+hatoka bets (1760)
+hatoka is all-In.
+pokergrrl23 calls (1760)
+** Dealing River ** :  [ Th ]
+Creating Main Pot with $7020 with hatoka
+** Summary **
+Main Pot: 7020
+Board: [ Qh 7d 3s 5h Th  ]
+
+pokergrrl23 balance 2520, lost 3360 [ Js Jd ] [ a pair of Jacks -- Qh,Js,Jd,Th,7d ]
+bassie211 balance 300, lost 300 (folded)
+hatoka balance 7020, bet 3360, collected 7020, net +3660 [ Qc 3h ] [ two pairs, Queens and Threes -- Qc,Qh,Th,3h,3s ]
+pokerstarr44 balance 10160, didn't bet (folded)
+
+***** Hand History for Game 5949650600 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33317922)  - Tue May 08 12:35:49 EDT 2007
+Table Speed 1330023 (Real Money) -- Seat 3 is the button
+Total number of players : 4
+Seat 1: pokergrrl23 (2520)
+Seat 3: bassie211 (300)
+Seat 5: hatoka (7020)
+Seat 9: pokerstarr44 (10160)
+hatoka  posts small blind (300)
+pokerstarr44  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ Ac, 9h ]
+pokergrrl23: nh :)
+pokergrrl23 raises (2520) to 2520
+pokergrrl23 is all-In.
+bassie211 folds.
+hatoka folds.
+pokerstarr44 folds.
+Creating Main Pot with $1500 with pokergrrl23
+** Summary **
+Main Pot: 1500
+
+pokergrrl23 balance 3420, bet 2520, collected 3420, net +900 [ Qc Qd ] [ a pair of Queens -- Qc,Qd ]
+bassie211 balance 300, didn't bet (folded)
+hatoka balance 6720, lost 300 (folded)
+pokerstarr44 balance 9560, lost 600 (folded)
+
+***** Hand History for Game 5949651467 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33317922)  - Tue May 08 12:36:06 EDT 2007
+Table Speed 1330023 (Real Money) -- Seat 5 is the button
+Total number of players : 4
+Seat 1: pokergrrl23 (3420)
+Seat 3: bassie211 (300)
+Seat 5: hatoka (6720)
+Seat 9: pokerstarr44 (9560)
+pokerstarr44  posts small blind (300)
+pokergrrl23  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ Qc, 6c ]
+bassie211 folds.
+pokerstarr44: oh...good fold
+hatoka folds.
+pokerstarr44 raises (900) to 1200
+pokergrrl23 calls (600)
+** Dealing Flop ** :  [ 2s, Ac, Td ]
+pokerstarr44 bets (1200)
+pokergrrl23 raises (2220) to 2220
+pokergrrl23 is all-In.
+pokerstarr44 calls (1020)
+** Dealing Turn ** :  [ Ks ]
+** Dealing River ** :  [ Qh ]
+Creating Main Pot with $6840 with pokergrrl23
+** Summary **
+Main Pot: 6840
+Board: [ 2s Ac Td Ks Qh  ]
+
+pokergrrl23 balance 0, lost 3420 [ Th Ah ] [ two pairs, Aces and Tens -- Ah,Ac,Ks,Th,Td ]
+bassie211 balance 300, didn't bet (folded)
+hatoka balance 6720, didn't bet (folded)
+pokerstarr44 balance 12980, bet 3420, collected 6840, net +3420 [ Jh As ] [ a straight Ten to Ace -- As,Ks,Qh,Jh,Td ]
+
+***** Hand History for Game 5949652709 *****
+pokergrrl23 finished in 4 place.
+pokerstarr44: sorry
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33317922)  - Tue May 08 12:36:31 EDT 2007
+Table Speed 1330023 (Real Money) -- Seat 9 is the button
+Total number of players : 3
+Seat 3: bassie211 (300)
+Seat 5: hatoka (6720)
+Seat 9: pokerstarr44 (12980)
+bassie211  posts big blind (300)
+** Dealing down cards **
+Dealt to hatoka [ Js, 3h ]
+hatoka folds.
+pokerstarr44 folds.
+** Summary **
+Main Pot: 300
+
+bassie211 balance 300, bet 300, collected 300, net +0
+hatoka balance 6720, didn't bet (folded)
+pokerstarr44 balance 12980, didn't bet (folded)
+
+***** Hand History for Game 5949653203 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33317922)  - Tue May 08 12:36:40 EDT 2007
+Table Speed 1330023 (Real Money) -- Seat 9 is the button
+Total number of players : 3
+Seat 3: bassie211 (300)
+Seat 5: hatoka (6720)
+Seat 9: pokerstarr44 (12980)
+bassie211  posts small blind (300)
+hatoka  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ 9d, 5c ]
+pokerstarr44 raises (1800) to 1800
+bassie211 is all-In.
+hatoka folds.
+** Dealing Flop ** :  [ 5s, Qh, Th ]
+** Dealing Turn ** :  [ 2d ]
+** Dealing River ** :  [ 4d ]
+Creating Main Pot with $900 with bassie211
+** Summary **
+Main Pot: 900 | Side Pot 1: 600
+Board: [ 5s Qh Th 2d 4d  ]
+
+bassie211 balance 0, lost 300 [ 9c 6h ] [ high card Queen -- Qh,Th,9c,6h,5s ]
+hatoka balance 6120, lost 600 (folded)
+pokerstarr44 balance 13880, bet 1800, collected 2700, net +900 [ Ks Kd ] [ a pair of Kings -- Ks,Kd,Qh,Th,5s ]
+
+***** Hand History for Game 5949654223 *****
+bassie211 finished in 3 place and won $10.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33317922)  - Tue May 08 12:37:00 EDT 2007
+Table Speed 1330023 (Real Money) -- Seat 5 is the button
+Total number of players : 2
+Seat 5: hatoka (6120)
+Seat 9: pokerstarr44 (13880)
+hatoka  posts small blind (300)
+pokerstarr44  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ 7h, 4h ]
+pokerstarr44: good luck...
+hatoka folds.
+** Summary **
+Main Pot: 600
+
+hatoka balance 5820, lost 300 (folded)
+pokerstarr44 balance 14180, bet 600, collected 900, net +300
+
+***** Hand History for Game 5949654773 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33317922)  - Tue May 08 12:37:10 EDT 2007
+Table Speed 1330023 (Real Money) -- Seat 9 is the button
+Total number of players : 2
+Seat 5: hatoka (5820)
+Seat 9: pokerstarr44 (14180)
+pokerstarr44  posts small blind (300)
+hatoka  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ Th, Qc ]
+pokerstarr44: hehe...viel glueck
+pokerstarr44 folds.
+** Summary **
+Main Pot: 600
+
+hatoka balance 6120, bet 600, collected 900, net +300
+pokerstarr44 balance 13880, lost 300 (folded)
+
+***** Hand History for Game 5949655401 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33317922)  - Tue May 08 12:37:23 EDT 2007
+Table Speed 1330023 (Real Money) -- Seat 5 is the button
+Total number of players : 2
+Seat 5: hatoka (6120)
+Seat 9: pokerstarr44 (13880)
+hatoka  posts small blind (300)
+pokerstarr44  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ 5h, 8d ]
+hatoka folds.
+** Summary **
+Main Pot: 600
+
+hatoka balance 5820, lost 300 (folded)
+pokerstarr44 balance 14180, bet 600, collected 900, net +300
+
+***** Hand History for Game 5949655712 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33317922)  - Tue May 08 12:37:29 EDT 2007
+Table Speed 1330023 (Real Money) -- Seat 9 is the button
+Total number of players : 2
+Seat 5: hatoka (5820)
+Seat 9: pokerstarr44 (14180)
+pokerstarr44  posts small blind (300)
+hatoka  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ 4s, Ts ]
+pokerstarr44 raises (900) to 1200
+hatoka calls (600)
+** Dealing Flop ** :  [ 9c, 2c, 9h ]
+hatoka bets (600)
+pokerstarr44 calls (600)
+** Dealing Turn ** :  [ Jd ]
+hatoka checks.
+pokerstarr44 bets (3600)
+hatoka folds.
+** Summary **
+Main Pot: 3600
+Board: [ 9c 2c 9h Jd  ]
+
+hatoka balance 4020, lost 1800 (folded)
+pokerstarr44 balance 15980, bet 5400, collected 7200, net +1800
+
+***** Hand History for Game 5949657194 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33317922)  - Tue May 08 12:37:58 EDT 2007
+Table Speed 1330023 (Real Money) -- Seat 5 is the button
+Total number of players : 2
+Seat 5: hatoka (4020)
+Seat 9: pokerstarr44 (15980)
+hatoka  posts small blind (300)
+pokerstarr44  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ 9h, 3s ]
+hatoka folds.
+** Summary **
+Main Pot: 600
+
+hatoka balance 3720, lost 300 (folded)
+pokerstarr44 balance 16280, bet 600, collected 900, net +300
+
+***** Hand History for Game 5949657479 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33317922)  - Tue May 08 12:38:04 EDT 2007
+Table Speed 1330023 (Real Money) -- Seat 9 is the button
+Total number of players : 2
+Seat 5: hatoka (3720)
+Seat 9: pokerstarr44 (16280)
+pokerstarr44  posts small blind (300)
+hatoka  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ 6d, Kh ]
+pokerstarr44 raises (1500) to 1800
+hatoka raises (3120) to 3720
+hatoka is all-In.
+pokerstarr44 folds.
+Creating Main Pot with $3600 with hatoka
+** Summary **
+Main Pot: 3600
+
+hatoka balance 5520, bet 3720, collected 5520, net +1800
+pokerstarr44 balance 14480, lost 1800 (folded)
+
+***** Hand History for Game 5949658219 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33317922)  - Tue May 08 12:38:18 EDT 2007
+Table Speed 1330023 (Real Money) -- Seat 5 is the button
+Total number of players : 2
+Seat 5: hatoka (5520)
+Seat 9: pokerstarr44 (14480)
+hatoka  posts small blind (300)
+pokerstarr44  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ 3s, 7c ]
+hatoka folds.
+** Summary **
+Main Pot: 600
+
+hatoka balance 5220, lost 300 (folded)
+pokerstarr44 balance 14780, bet 600, collected 900, net +300
+
+***** Hand History for Game 5949658555 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33317922)  - Tue May 08 12:38:24 EDT 2007
+Table Speed 1330023 (Real Money) -- Seat 9 is the button
+Total number of players : 2
+Seat 5: hatoka (5220)
+Seat 9: pokerstarr44 (14780)
+pokerstarr44  posts small blind (300)
+hatoka  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ 8d, Kc ]
+pokerstarr44 folds.
+** Summary **
+Main Pot: 600
+
+hatoka balance 5520, bet 600, collected 900, net +300
+pokerstarr44 balance 14480, lost 300 (folded)
+
+***** Hand History for Game 5949658829 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33317922)  - Tue May 08 12:38:30 EDT 2007
+Table Speed 1330023 (Real Money) -- Seat 5 is the button
+Total number of players : 2
+Seat 5: hatoka (5520)
+Seat 9: pokerstarr44 (14480)
+hatoka  posts small blind (300)
+pokerstarr44  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ Td, 6h ]
+hatoka raises (900) to 1200
+pokerstarr44 raises (1200) to 1800
+hatoka calls (600)
+** Dealing Flop ** :  [ Ac, 9s, Ts ]
+pokerstarr44 bets (2400)
+hatoka raises (3720) to 3720
+hatoka is all-In.
+pokerstarr44 calls (1320)
+** Dealing Turn ** :  [ 7d ]
+** Dealing River ** :  [ 4h ]
+Creating Main Pot with $11040 with hatoka
+** Summary **
+Main Pot: 11040
+Board: [ Ac 9s Ts 7d 4h  ]
+
+hatoka balance 11040, bet 5520, collected 11040, net +5520 [ Td 6h ] [ a pair of Tens -- Ac,Td,Ts,9s,7d ]
+pokerstarr44 balance 8960, lost 5520 [ 2d 9c ] [ a pair of Nines -- Ac,Ts,9c,9s,7d ]
+
+***** Hand History for Game 5949659910 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33317922)  - Tue May 08 12:38:51 EDT 2007
+Table Speed 1330023 (Real Money) -- Seat 9 is the button
+Total number of players : 2
+Seat 5: hatoka (11040)
+Seat 9: pokerstarr44 (8960)
+hatoka  posts ante (25)
+pokerstarr44  posts ante (25)
+pokerstarr44  posts small blind (400)
+hatoka  posts big blind (800)
+** Dealing down cards **
+Dealt to hatoka [ 6d, 5d ]
+pokerstarr44 raises (2000) to 2400
+hatoka folds.
+** Summary **
+Main Pot: 1650
+
+hatoka balance 10215, lost 825 (folded)
+pokerstarr44 balance 9785, bet 2425, collected 3250, net +825
+
+***** Hand History for Game 5949660642 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33317922)  - Tue May 08 12:39:05 EDT 2007
+Table Speed 1330023 (Real Money) -- Seat 5 is the button
+Total number of players : 2
+Seat 5: hatoka (10215)
+Seat 9: pokerstarr44 (9785)
+hatoka  posts ante (25)
+pokerstarr44  posts ante (25)
+hatoka  posts small blind (400)
+pokerstarr44  posts big blind (800)
+** Dealing down cards **
+Dealt to hatoka [ 8h, 4d ]
+hatoka folds.
+** Summary **
+Main Pot: 850
+
+hatoka balance 9790, lost 425 (folded)
+pokerstarr44 balance 10210, bet 825, collected 1250, net +425
+
+***** Hand History for Game 5949661025 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33317922)  - Tue May 08 12:39:13 EDT 2007
+Table Speed 1330023 (Real Money) -- Seat 9 is the button
+Total number of players : 2
+Seat 5: hatoka (9790)
+Seat 9: pokerstarr44 (10210)
+hatoka  posts ante (25)
+pokerstarr44  posts ante (25)
+pokerstarr44  posts small blind (400)
+hatoka  posts big blind (800)
+** Dealing down cards **
+Dealt to hatoka [ 7h, Ts ]
+pokerstarr44 folds.
+** Summary **
+Main Pot: 850
+
+hatoka balance 10215, bet 825, collected 1250, net +425
+pokerstarr44 balance 9785, lost 425 (folded)
+
+***** Hand History for Game 5949661481 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33317922)  - Tue May 08 12:39:22 EDT 2007
+Table Speed 1330023 (Real Money) -- Seat 5 is the button
+Total number of players : 2
+Seat 5: hatoka (10215)
+Seat 9: pokerstarr44 (9785)
+hatoka  posts ante (25)
+pokerstarr44  posts ante (25)
+hatoka  posts small blind (400)
+pokerstarr44  posts big blind (800)
+** Dealing down cards **
+Dealt to hatoka [ Jh, 7h ]
+hatoka raises (1200) to 1600
+pokerstarr44 raises (2400) to 3200
+hatoka calls (1600)
+** Dealing Flop ** :  [ 4c, Jd, 7s ]
+pokerstarr44 bets (6560)
+pokerstarr44 is all-In.
+hatoka calls (6560)
+** Dealing Turn ** :  [ 4s ]
+** Dealing River ** :  [ 9c ]
+Creating Main Pot with $19570 with pokerstarr44
+** Summary **
+Main Pot: 19570
+Board: [ 4c Jd 7s 4s 9c  ]
+
+hatoka balance 20000, bet 9785, collected 19570, net +9785 [ Jh 7h ] [ two pairs, Jacks and Sevens -- Jh,Jd,9c,7h,7s ]
+pokerstarr44 balance 0, lost 9785 [ Ad Td ] [ a pair of Fours -- Ad,Jd,Td,4c,4s ]
+
+
+

@@ -1,0 +1,2544 @@
+
+Hello hatoka,
+These hand histories are provided to you as an aid for your training and development. You are not permitted to share them with anyone.  We reserve the right to cease providing them or apply further restrictions at any time.
+Complete hand histories are only available to players that participated in the hand.
+You requested a transcript of Tournament #33685891.
+
+Summary
+----------
+Played on    : 29 May 2007 04:20 PM
+On Table     : Table  126586
+Game Type    : Texas Holdem
+Buy-In       : $5
+Fee          : $1
+You finished in  position 10
+1st place - shankar333 -  $25
+2nd place - hunttiw -  $15
+3rd place - Bordeaux77 -  $10
+
+***** Hand History for Game 6014576569 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 16:20:32 EDT 2007
+Table Table  126586 (Real Money) -- Seat 9 is the button
+Total number of players : 10
+Seat 1: hunttiw (2000)
+Seat 2: shankar333 (2000)
+Seat 3: jo82t (2000)
+Seat 4: hatoka (2000)
+Seat 5: fkndummbstrd (2000)
+Seat 6: lievelief (2000)
+Seat 7: Lifestyler23 (2000)
+Seat 8: kimborman (2000)
+Seat 9: Bordeaux77 (2000)
+Seat 10: C4L3B81 (2000)
+C4L3B81  posts small blind (20)
+hunttiw  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ Kh, 6h ]
+shankar333 raises (80) to 80
+jo82t calls (80)
+hatoka calls (80)
+fkndummbstrd folds.
+lievelief folds.
+Lifestyler23 folds.
+kimborman folds.
+Bordeaux77 folds.
+C4L3B81 folds.
+hunttiw calls (40)
+** Dealing Flop ** :  [ Kd, Ts, 4s ]
+hunttiw bets (200)
+shankar333 calls (200)
+jo82t folds.
+hatoka raises (500) to 500
+hunttiw folds.
+shankar333 calls (300)
+** Dealing Turn ** :  [ 5d ]
+shankar333 checks.
+hatoka checks.
+** Dealing River ** :  [ 2d ]
+shankar333 checks.
+hatoka bets (300)
+shankar333 raises (600) to 600
+hatoka calls (300)
+** Summary **
+Main Pot: 2740
+Board: [ Kd Ts 4s 5d 2d  ]
+
+hunttiw balance 1720, lost 280 (folded)
+shankar333 balance 3560, bet 1180, collected 2740, net +1560 [ 3s As ] [ a straight Ace to Five -- As,5d,4s,3s,2d ]
+jo82t balance 1920, lost 80 (folded)
+hatoka balance 820, lost 1180 [ Kh 6h ] [ a pair of Kings -- Kh,Kd,Ts,6h,5d ]
+
+fkndummbstrd balance 2000, didn't bet (folded)
+lievelief balance 2000, didn't bet (folded)
+Lifestyler23 balance 2000, didn't bet (folded)
+kimborman balance 2000, didn't bet (folded)
+Bordeaux77 balance 2000, didn't bet (folded)
+C4L3B81 balance 1980, lost 20 (folded)
+
+***** Hand History for Game 6014586330 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 16:22:40 EDT 2007
+Table Table  126586 (Real Money) -- Seat 10 is the button
+Total number of players : 10
+Seat 1: hunttiw (1720)
+Seat 2: shankar333 (3560)
+Seat 3: jo82t (1920)
+Seat 4: hatoka (820)
+Seat 5: fkndummbstrd (2000)
+Seat 6: lievelief (2000)
+Seat 7: Lifestyler23 (2000)
+Seat 8: kimborman (2000)
+Seat 9: Bordeaux77 (2000)
+Seat 10: C4L3B81 (1980)
+hunttiw  posts small blind (20)
+shankar333  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ Qh, 3d ]
+jo82t folds.
+hatoka folds.
+fkndummbstrd folds.
+lievelief folds.
+Lifestyler23 folds.
+kimborman folds.
+Bordeaux77 folds.
+C4L3B81 folds.
+hunttiw calls (20)
+shankar333 raises (40) to 80
+hunttiw calls (40)
+** Dealing Flop ** :  [ 7h, Ah, Th ]
+hunttiw checks.
+shankar333 bets (200)
+hunttiw folds.
+** Summary **
+Main Pot: 160
+Board: [ 7h Ah Th  ]
+
+hunttiw balance 1640, lost 80 (folded)
+shankar333 balance 3640, bet 280, collected 360, net +80
+jo82t balance 1920, didn't bet (folded)
+hatoka balance 820, didn't bet (folded)
+fkndummbstrd balance 2000, didn't bet (folded)
+lievelief balance 2000, didn't bet (folded)
+Lifestyler23 balance 2000, didn't bet (folded)
+kimborman balance 2000, didn't bet (folded)
+Bordeaux77 balance 2000, didn't bet (folded)
+C4L3B81 balance 1980, didn't bet (folded)
+
+***** Hand History for Game 6014590802 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 16:23:37 EDT 2007
+Table Table  126586 (Real Money) -- Seat 1 is the button
+Total number of players : 10
+Seat 1: hunttiw (1640)
+Seat 2: shankar333 (3640)
+Seat 3: jo82t (1920)
+Seat 4: hatoka (820)
+Seat 5: fkndummbstrd (2000)
+Seat 6: lievelief (2000)
+Seat 7: Lifestyler23 (2000)
+Seat 8: kimborman (2000)
+Seat 9: Bordeaux77 (2000)
+Seat 10: C4L3B81 (1980)
+shankar333  posts small blind (20)
+jo82t  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ Ks, 6s ]
+hatoka raises (80) to 80
+fkndummbstrd folds.
+lievelief folds.
+Lifestyler23 calls (80)
+kimborman calls (80)
+Bordeaux77 folds.
+C4L3B81 calls (80)
+hunttiw calls (80)
+shankar333 folds.
+jo82t calls (40)
+** Dealing Flop ** :  [ 5h, Kd, 7c ]
+jo82t checks.
+hatoka bets (740)
+hatoka is all-In.
+Lifestyler23 folds.
+kimborman folds.
+C4L3B81 raises (1900) to 1900
+C4L3B81 is all-In.
+hunttiw folds.
+jo82t folds.
+** Dealing Turn ** :  [ 4h ]
+** Dealing River ** :  [ Kc ]
+Creating Main Pot with $1980 with hatoka
+** Summary **
+Main Pot: 1980
+Board: [ 5h Kd 7c 4h Kc  ]
+
+hunttiw balance 1560, lost 80 (folded)
+shankar333 balance 3620, lost 20 (folded)
+jo82t balance 1840, lost 80 (folded)
+hatoka balance 0, lost 820 [ Ks 6s ] [ three of a kind, Kings -- Ks,Kd,Kc,7c,6s ]
+fkndummbstrd balance 2000, didn't bet (folded)
+lievelief balance 2000, didn't bet (folded)
+Lifestyler23 balance 1920, lost 80 (folded)
+kimborman balance 1920, lost 80 (folded)
+Bordeaux77 balance 2000, didn't bet (folded)
+C4L3B81 balance 3140, bet 1980, collected 3140, net +1160 [ Jd Kh ] [ three of a kind, Kings with Jack kicker -- Kh,Kd,Kc,Jd,7c ]
+
+***** Hand History for Game 6014600253 *****
+hatoka finished in 10 place.
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 16:25:37 EDT 2007
+Table Table  126586 (Real Money) -- Seat 2 is the button
+Total number of players : 9
+Seat 1: hunttiw (1560)
+Seat 2: shankar333 (3620)
+Seat 3: jo82t (1840)
+Seat 5: fkndummbstrd (2000)
+Seat 6: lievelief (2000)
+Seat 7: Lifestyler23 (1920)
+Seat 8: kimborman (1920)
+Seat 9: Bordeaux77 (2000)
+Seat 10: C4L3B81 (3140)
+jo82t  posts small blind (20)
+fkndummbstrd  posts big blind (40)
+** Dealing down cards **
+lievelief folds.
+Lifestyler23 folds.
+kimborman folds.
+Bordeaux77 folds.
+C4L3B81 calls (40)
+hunttiw folds.
+shankar333 raises (200) to 200
+jo82t folds.
+fkndummbstrd folds.
+C4L3B81 folds.
+** Summary **
+Main Pot: 140
+
+hunttiw balance 1560, didn't bet (folded)
+shankar333 balance 3720, bet 200, collected 300, net +100
+jo82t balance 1820, lost 20 (folded)
+fkndummbstrd balance 1960, lost 40 (folded)
+lievelief balance 2000, didn't bet (folded)
+Lifestyler23 balance 1920, didn't bet (folded)
+kimborman balance 1920, didn't bet (folded)
+Bordeaux77 balance 2000, didn't bet (folded)
+C4L3B81 balance 3100, lost 40 (folded)
+
+***** Hand History for Game 6014602302 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 16:26:03 EDT 2007
+Table Table  126586 (Real Money) -- Seat 3 is the button
+Total number of players : 9
+Seat 1: hunttiw (1560)
+Seat 2: shankar333 (3720)
+Seat 3: jo82t (1820)
+Seat 5: fkndummbstrd (1960)
+Seat 6: lievelief (2000)
+Seat 7: Lifestyler23 (1920)
+Seat 8: kimborman (1920)
+Seat 9: Bordeaux77 (2000)
+Seat 10: C4L3B81 (3100)
+fkndummbstrd  posts small blind (20)
+lievelief  posts big blind (40)
+** Dealing down cards **
+Lifestyler23 folds.
+kimborman raises (80) to 80
+Bordeaux77 folds.
+C4L3B81 folds.
+hunttiw folds.
+shankar333 folds.
+jo82t folds.
+fkndummbstrd folds.
+lievelief folds.
+** Summary **
+Main Pot: 100
+
+hunttiw balance 1560, didn't bet (folded)
+shankar333 balance 3720, didn't bet (folded)
+jo82t balance 1820, didn't bet (folded)
+fkndummbstrd balance 1940, lost 20 (folded)
+lievelief balance 1960, lost 40 (folded)
+Lifestyler23 balance 1920, didn't bet (folded)
+kimborman balance 1980, bet 80, collected 140, net +60
+Bordeaux77 balance 2000, didn't bet (folded)
+C4L3B81 balance 3100, didn't bet (folded)
+
+***** Hand History for Game 6014603137 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 16:26:14 EDT 2007
+Table Table  126586 (Real Money) -- Seat 5 is the button
+Total number of players : 9
+Seat 1: hunttiw (1560)
+Seat 2: shankar333 (3720)
+Seat 3: jo82t (1820)
+Seat 5: fkndummbstrd (1940)
+Seat 6: lievelief (1960)
+Seat 7: Lifestyler23 (1920)
+Seat 8: kimborman (1980)
+Seat 9: Bordeaux77 (2000)
+Seat 10: C4L3B81 (3100)
+lievelief  posts small blind (20)
+Lifestyler23  posts big blind (40)
+** Dealing down cards **
+kimborman calls (40)
+Bordeaux77 folds.
+C4L3B81 folds.
+hunttiw folds.
+shankar333 folds.
+jo82t calls (40)
+fkndummbstrd folds.
+lievelief calls (20)
+Lifestyler23 checks.
+** Dealing Flop ** :  [ 5d, Th, Ts ]
+lievelief checks.
+Lifestyler23 checks.
+kimborman checks.
+jo82t checks.
+** Dealing Turn ** :  [ 4s ]
+lievelief checks.
+Lifestyler23 checks.
+kimborman checks.
+jo82t checks.
+** Dealing River ** :  [ Jh ]
+lievelief checks.
+Lifestyler23 checks.
+kimborman checks.
+jo82t checks.
+** Summary **
+Main Pot: 160
+Board: [ 5d Th Ts 4s Jh  ]
+
+hunttiw balance 1560, didn't bet (folded)
+shankar333 balance 3720, didn't bet (folded)
+
+jo82t balance 1780, lost 40 [Didn't Show]
+fkndummbstrd balance 1940, didn't bet (folded)
+lievelief balance 1920, lost 40 [ Qs Ad ] [ a pair of Tens with Ace kicker -- Ad,Qs,Jh,Th,TsAd(kicker card) ]
+Lifestyler23 balance 2040, bet 40, collected 160, net +120 [ Ah 4h ] [ two pairs, Tens and Fours -- Ah,Th,Ts,4h,4s ]
+
+kimborman balance 1940, lost 40 [Didn't Show]
+Bordeaux77 balance 2000, didn't bet (folded)
+C4L3B81 balance 3100, didn't bet (folded)
+
+***** Hand History for Game 6014607882 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 16:27:14 EDT 2007
+Table Table  126586 (Real Money) -- Seat 6 is the button
+Total number of players : 9
+Seat 1: hunttiw (1560)
+Seat 2: shankar333 (3720)
+Seat 3: jo82t (1780)
+Seat 5: fkndummbstrd (1940)
+Seat 6: lievelief (1920)
+Seat 7: Lifestyler23 (2040)
+Seat 8: kimborman (1940)
+Seat 9: Bordeaux77 (2000)
+Seat 10: C4L3B81 (3100)
+Lifestyler23  posts small blind (20)
+kimborman  posts big blind (40)
+** Dealing down cards **
+Bordeaux77 folds.
+C4L3B81 calls (40)
+hunttiw folds.
+shankar333 folds.
+jo82t folds.
+fkndummbstrd folds.
+lievelief folds.
+Lifestyler23 calls (20)
+kimborman checks.
+** Dealing Flop ** :  [ Tc, 8d, 3h ]
+Lifestyler23 checks.
+kimborman bets (40)
+C4L3B81 calls (40)
+Lifestyler23 folds.
+** Dealing Turn ** :  [ 3s ]
+kimborman bets (40)
+C4L3B81 calls (40)
+** Dealing River ** :  [ Kc ]
+kimborman checks.
+C4L3B81 bets (200)
+kimborman calls (200)
+** Summary **
+Main Pot: 680
+Board: [ Tc 8d 3h 3s Kc  ]
+
+hunttiw balance 1560, didn't bet (folded)
+shankar333 balance 3720, didn't bet (folded)
+jo82t balance 1780, didn't bet (folded)
+fkndummbstrd balance 1940, didn't bet (folded)
+lievelief balance 1920, didn't bet (folded)
+Lifestyler23 balance 2000, lost 40 (folded)
+kimborman balance 2300, bet 320, collected 680, net +360 [ 3d 2d ] [ three of a kind, Threes -- Kc,Tc,3d,3h,3s ]
+Bordeaux77 balance 2000, didn't bet (folded)
+C4L3B81 balance 2780, lost 320 [ Js Qd ] [ a pair of Threes -- Kc,Qd,Js,3h,3s ]
+
+***** Hand History for Game 6014614119 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 16:28:33 EDT 2007
+Table Table  126586 (Real Money) -- Seat 7 is the button
+Total number of players : 9
+Seat 1: hunttiw (1560)
+Seat 2: shankar333 (3720)
+Seat 3: jo82t (1780)
+Seat 5: fkndummbstrd (1940)
+Seat 6: lievelief (1920)
+Seat 7: Lifestyler23 (2000)
+Seat 8: kimborman (2300)
+Seat 9: Bordeaux77 (2000)
+Seat 10: C4L3B81 (2780)
+kimborman  posts small blind (20)
+Bordeaux77  posts big blind (40)
+** Dealing down cards **
+C4L3B81 folds.
+hunttiw calls (40)
+shankar333 calls (40)
+jo82t raises (200) to 200
+fkndummbstrd folds.
+lievelief folds.
+Lifestyler23 folds.
+kimborman folds.
+Bordeaux77 folds.
+hunttiw calls (160)
+shankar333 folds.
+** Dealing Flop ** :  [ Qd, Ad, 8s ]
+hunttiw checks.
+jo82t bets (120)
+hunttiw calls (120)
+** Dealing Turn ** :  [ Kh ]
+hunttiw bets (200)
+jo82t raises (400) to 400
+hunttiw calls (200)
+** Dealing River ** :  [ 2s ]
+hunttiw bets (840)
+hunttiw is all-In.
+jo82t calls (840)
+Creating Main Pot with $3220 with hunttiw
+** Summary **
+Main Pot: 3220
+Board: [ Qd Ad 8s Kh 2s  ]
+
+hunttiw balance 3220, bet 1560, collected 3220, net +1660 [ Qh 8c ] [ two pairs, Queens and Eights -- Ad,Qh,Qd,8c,8s ]
+shankar333 balance 3680, lost 40 (folded)
+jo82t balance 220, lost 1560 [ Ac Jc ] [ a pair of Aces -- Ac,Ad,Kh,Qd,Jc ]
+fkndummbstrd balance 1940, didn't bet (folded)
+lievelief balance 1920, didn't bet (folded)
+Lifestyler23 balance 2000, didn't bet (folded)
+kimborman balance 2280, lost 20 (folded)
+Bordeaux77 balance 1960, lost 40 (folded)
+C4L3B81 balance 2780, didn't bet (folded)
+
+***** Hand History for Game 6014621221 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 16:30:06 EDT 2007
+Table Table  126586 (Real Money) -- Seat 8 is the button
+Total number of players : 9
+Seat 1: hunttiw (3220)
+Seat 2: shankar333 (3680)
+Seat 3: jo82t (220)
+Seat 5: fkndummbstrd (1940)
+Seat 6: lievelief (1920)
+Seat 7: Lifestyler23 (2000)
+Seat 8: kimborman (2280)
+Seat 9: Bordeaux77 (1960)
+Seat 10: C4L3B81 (2780)
+Bordeaux77  posts small blind (20)
+C4L3B81  posts big blind (40)
+** Dealing down cards **
+hunttiw calls (40)
+shankar333 calls (40)
+jo82t folds.
+fkndummbstrd folds.
+lievelief calls (40)
+Lifestyler23 folds.
+kimborman calls (40)
+Bordeaux77 raises (260) to 280
+C4L3B81 folds.
+hunttiw calls (240)
+shankar333 folds.
+lievelief folds.
+kimborman folds.
+** Dealing Flop ** :  [ 3h, 9h, Qc ]
+Bordeaux77 bets (400)
+hunttiw calls (400)
+** Dealing Turn ** :  [ 2h ]
+Bordeaux77 checks.
+hunttiw bets (400)
+Bordeaux77 folds.
+** Summary **
+Main Pot: 1520
+Board: [ 3h 9h Qc 2h  ]
+
+hunttiw balance 4060, bet 1080, collected 1920, net +840
+shankar333 balance 3640, lost 40 (folded)
+jo82t balance 220, didn't bet (folded)
+fkndummbstrd balance 1940, didn't bet (folded)
+lievelief balance 1880, lost 40 (folded)
+Lifestyler23 balance 2000, didn't bet (folded)
+kimborman balance 2240, lost 40 (folded)
+Bordeaux77 balance 1280, lost 680 (folded)
+C4L3B81 balance 2740, lost 40 (folded)
+
+***** Hand History for Game 6014627701 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 16:31:28 EDT 2007
+Table Table  126586 (Real Money) -- Seat 9 is the button
+Total number of players : 9
+Seat 1: hunttiw (4060)
+Seat 2: shankar333 (3640)
+Seat 3: jo82t (220)
+Seat 5: fkndummbstrd (1940)
+Seat 6: lievelief (1880)
+Seat 7: Lifestyler23 (2000)
+Seat 8: kimborman (2240)
+Seat 9: Bordeaux77 (1280)
+Seat 10: C4L3B81 (2740)
+C4L3B81  posts small blind (30)
+hunttiw  posts big blind (60)
+** Dealing down cards **
+shankar333 folds.
+jo82t raises (220) to 220
+jo82t is all-In.
+fkndummbstrd folds.
+lievelief folds.
+Lifestyler23 folds.
+kimborman folds.
+Bordeaux77 folds.
+C4L3B81 folds.
+hunttiw calls (160)
+** Dealing Flop ** :  [ 4h, 2h, 6h ]
+** Dealing Turn ** :  [ 4d ]
+** Dealing River ** :  [ 7s ]
+Creating Main Pot with $470 with jo82t
+** Summary **
+Main Pot: 470
+Board: [ 4h 2h 6h 4d 7s  ]
+
+hunttiw balance 4310, bet 220, collected 470, net +250 [ 4s Js ] [ three of a kind, Fours -- Js,7s,4s,4h,4d ]
+shankar333 balance 3640, didn't bet (folded)
+jo82t balance 0, lost 220 [ 5d Kd ] [ a pair of Fours -- Kd,7s,6h,4h,4d ]
+fkndummbstrd balance 1940, didn't bet (folded)
+lievelief balance 1880, didn't bet (folded)
+Lifestyler23 balance 2000, didn't bet (folded)
+kimborman balance 2240, didn't bet (folded)
+Bordeaux77 balance 1280, didn't bet (folded)
+C4L3B81 balance 2710, lost 30 (folded)
+
+***** Hand History for Game 6014630515 *****
+jo82t finished in 9 place.
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 16:32:03 EDT 2007
+Table Table  126586 (Real Money) -- Seat 10 is the button
+Total number of players : 8
+Seat 1: hunttiw (4310)
+Seat 2: shankar333 (3640)
+Seat 5: fkndummbstrd (1940)
+Seat 6: lievelief (1880)
+Seat 7: Lifestyler23 (2000)
+Seat 8: kimborman (2240)
+Seat 9: Bordeaux77 (1280)
+Seat 10: C4L3B81 (2710)
+hunttiw  posts small blind (30)
+shankar333  posts big blind (60)
+** Dealing down cards **
+fkndummbstrd folds.
+lievelief folds.
+Lifestyler23 folds.
+kimborman folds.
+Bordeaux77 folds.
+C4L3B81 folds.
+hunttiw calls (30)
+shankar333 checks.
+** Dealing Flop ** :  [ Jd, 7s, 5d ]
+hunttiw checks.
+shankar333 bets (120)
+hunttiw calls (120)
+** Dealing Turn ** :  [ 3c ]
+hunttiw bets (300)
+shankar333 folds.
+** Summary **
+Main Pot: 360
+Board: [ Jd 7s 5d 3c  ]
+
+hunttiw balance 4490, bet 480, collected 660, net +180
+shankar333 balance 3460, lost 180 (folded)
+fkndummbstrd balance 1940, didn't bet (folded)
+lievelief balance 1880, didn't bet (folded)
+Lifestyler23 balance 2000, didn't bet (folded)
+kimborman balance 2240, didn't bet (folded)
+Bordeaux77 balance 1280, didn't bet (folded)
+C4L3B81 balance 2710, didn't bet (folded)
+
+***** Hand History for Game 6014633974 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 16:32:48 EDT 2007
+Table Table  126586 (Real Money) -- Seat 1 is the button
+Total number of players : 8
+Seat 1: hunttiw (4490)
+Seat 2: shankar333 (3460)
+Seat 5: fkndummbstrd (1940)
+Seat 6: lievelief (1880)
+Seat 7: Lifestyler23 (2000)
+Seat 8: kimborman (2240)
+Seat 9: Bordeaux77 (1280)
+Seat 10: C4L3B81 (2710)
+shankar333  posts small blind (30)
+fkndummbstrd  posts big blind (60)
+** Dealing down cards **
+lievelief folds.
+Lifestyler23 folds.
+kimborman calls (60)
+Bordeaux77 calls (60)
+C4L3B81 folds.
+hunttiw folds.
+shankar333 calls (30)
+fkndummbstrd raises (240) to 300
+kimborman folds.
+Bordeaux77 folds.
+shankar333 folds.
+** Summary **
+Main Pot: 240
+
+hunttiw balance 4490, didn't bet (folded)
+shankar333 balance 3400, lost 60 (folded)
+fkndummbstrd balance 2120, bet 300, collected 480, net +180
+lievelief balance 1880, didn't bet (folded)
+Lifestyler23 balance 2000, didn't bet (folded)
+kimborman balance 2180, lost 60 (folded)
+Bordeaux77 balance 1220, lost 60 (folded)
+C4L3B81 balance 2710, didn't bet (folded)
+
+***** Hand History for Game 6014638724 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 16:33:49 EDT 2007
+Table Table  126586 (Real Money) -- Seat 2 is the button
+Total number of players : 8
+Seat 1: hunttiw (4490)
+Seat 2: shankar333 (3400)
+Seat 5: fkndummbstrd (2120)
+Seat 6: lievelief (1880)
+Seat 7: Lifestyler23 (2000)
+Seat 8: kimborman (2180)
+Seat 9: Bordeaux77 (1220)
+Seat 10: C4L3B81 (2710)
+fkndummbstrd  posts small blind (30)
+lievelief  posts big blind (60)
+** Dealing down cards **
+Lifestyler23 raises (180) to 180
+kimborman folds.
+Bordeaux77 folds.
+C4L3B81 folds.
+hunttiw calls (180)
+shankar333 raises (3400) to 3400
+shankar333 is all-In.
+fkndummbstrd folds.
+lievelief folds.
+Lifestyler23 folds.
+hunttiw folds.
+Creating Main Pot with $630 with shankar333
+** Summary **
+Main Pot: 630
+
+hunttiw balance 4310, lost 180 (folded)
+shankar333 balance 3850, bet 3400, collected 3850, net +450
+fkndummbstrd balance 2090, lost 30 (folded)
+lievelief balance 1820, lost 60 (folded)
+Lifestyler23 balance 1820, lost 180 (folded)
+kimborman balance 2180, didn't bet (folded)
+Bordeaux77 balance 1220, didn't bet (folded)
+C4L3B81 balance 2710, didn't bet (folded)
+
+***** Hand History for Game 6014642169 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 16:34:35 EDT 2007
+Table Table  126586 (Real Money) -- Seat 5 is the button
+Total number of players : 8
+Seat 1: hunttiw (4310)
+Seat 2: shankar333 (3850)
+Seat 5: fkndummbstrd (2090)
+Seat 6: lievelief (1820)
+Seat 7: Lifestyler23 (1820)
+Seat 8: kimborman (2180)
+Seat 9: Bordeaux77 (1220)
+Seat 10: C4L3B81 (2710)
+lievelief  posts small blind (30)
+Lifestyler23  posts big blind (60)
+** Dealing down cards **
+kimborman folds.
+Bordeaux77 folds.
+C4L3B81 folds.
+hunttiw calls (60)
+shankar333 folds.
+fkndummbstrd folds.
+lievelief calls (30)
+Lifestyler23 checks.
+** Dealing Flop ** :  [ 2c, 3h, 8s ]
+lievelief checks.
+Lifestyler23 checks.
+hunttiw bets (60)
+lievelief folds.
+Lifestyler23 folds.
+** Summary **
+Main Pot: 180
+Board: [ 2c 3h 8s  ]
+
+hunttiw balance 4430, bet 120, collected 240, net +120 [ 3s 2s ] [ two pairs, Threes and Twos -- 8s,3s,3h,2s,2c ]
+shankar333 balance 3850, didn't bet (folded)
+fkndummbstrd balance 2090, didn't bet (folded)
+lievelief balance 1760, lost 60 (folded)
+Lifestyler23 balance 1760, lost 60 (folded)
+kimborman balance 2180, didn't bet (folded)
+Bordeaux77 balance 1220, didn't bet (folded)
+C4L3B81 balance 2710, didn't bet (folded)
+
+***** Hand History for Game 6014645663 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 16:35:21 EDT 2007
+Table Table  126586 (Real Money) -- Seat 6 is the button
+Total number of players : 8
+Seat 1: hunttiw (4430)
+Seat 2: shankar333 (3850)
+Seat 5: fkndummbstrd (2090)
+Seat 6: lievelief (1760)
+Seat 7: Lifestyler23 (1760)
+Seat 8: kimborman (2180)
+Seat 9: Bordeaux77 (1220)
+Seat 10: C4L3B81 (2710)
+Lifestyler23  posts small blind (30)
+kimborman  posts big blind (60)
+** Dealing down cards **
+Bordeaux77 folds.
+C4L3B81 raises (210) to 210
+hunttiw calls (210)
+shankar333 folds.
+fkndummbstrd folds.
+lievelief folds.
+Lifestyler23 folds.
+kimborman folds.
+** Dealing Flop ** :  [ 2c, 6d, 4h ]
+C4L3B81 bets (600)
+hunttiw calls (600)
+** Dealing Turn ** :  [ 9d ]
+C4L3B81 checks.
+hunttiw bets (600)
+C4L3B81 raises (1900) to 1900
+C4L3B81 is all-In.
+hunttiw calls (1300)
+** Dealing River ** :  [ Qh ]
+Creating Main Pot with $5510 with C4L3B81
+** Summary **
+Main Pot: 5510
+Board: [ 2c 6d 4h 9d Qh  ]
+
+hunttiw balance 7230, bet 2710, collected 5510, net +2800 [ 2h 6h ] [ two pairs, Sixes and Twos -- Qh,6h,6d,2h,2c ]
+shankar333 balance 3850, didn't bet (folded)
+fkndummbstrd balance 2090, didn't bet (folded)
+lievelief balance 1760, didn't bet (folded)
+Lifestyler23 balance 1730, lost 30 (folded)
+kimborman balance 2120, lost 60 (folded)
+Bordeaux77 balance 1220, didn't bet (folded)
+C4L3B81 balance 0, lost 2710 [ Ah Qc ] [ a pair of Queens -- Ah,Qc,Qh,9d,6d ]
+
+***** Hand History for Game 6014650036 *****
+C4L3B81 finished in 8 place.
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 16:36:18 EDT 2007
+Table Table  126586 (Real Money) -- Seat 7 is the button
+Total number of players : 7
+Seat 1: hunttiw (7230)
+Seat 2: shankar333 (3850)
+Seat 5: fkndummbstrd (2090)
+Seat 6: lievelief (1760)
+Seat 7: Lifestyler23 (1730)
+Seat 8: kimborman (2120)
+Seat 9: Bordeaux77 (1220)
+kimborman  posts small blind (30)
+Bordeaux77  posts big blind (60)
+** Dealing down cards **
+hunttiw calls (60)
+shankar333 raises (300) to 300
+fkndummbstrd folds.
+lievelief folds.
+Lifestyler23 folds.
+kimborman calls (270)
+Bordeaux77 folds.
+hunttiw calls (240)
+** Dealing Flop ** :  [ 2d, 4s, Th ]
+kimborman bets (60)
+hunttiw calls (60)
+shankar333 calls (60)
+** Dealing Turn ** :  [ 6s ]
+kimborman bets (60)
+hunttiw calls (60)
+shankar333 calls (60)
+** Dealing River ** :  [ 9h ]
+kimborman bets (60)
+hunttiw folds.
+shankar333 calls (60)
+** Summary **
+Main Pot: 1440
+Board: [ 2d 4s Th 6s 9h  ]
+
+hunttiw balance 6810, lost 420 (folded)
+
+shankar333 balance 3370, lost 480 [Didn't Show]
+fkndummbstrd balance 2090, didn't bet (folded)
+lievelief balance 1760, didn't bet (folded)
+Lifestyler23 balance 1730, didn't bet (folded)
+kimborman balance 3080, bet 480, collected 1440, net +960 [ Jd Td ] [ a pair of Tens -- Jd,Td,Th,9h,6s ]
+Bordeaux77 balance 1160, lost 60 (folded)
+
+***** Hand History for Game 6014654938 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 16:37:20 EDT 2007
+Table Table  126586 (Real Money) -- Seat 8 is the button
+Total number of players : 7
+Seat 1: hunttiw (6810)
+Seat 2: shankar333 (3370)
+Seat 5: fkndummbstrd (2090)
+Seat 6: lievelief (1760)
+Seat 7: Lifestyler23 (1730)
+Seat 8: kimborman (3080)
+Seat 9: Bordeaux77 (1160)
+Bordeaux77  posts small blind (30)
+hunttiw  posts big blind (60)
+** Dealing down cards **
+shankar333 folds.
+fkndummbstrd folds.
+lievelief calls (60)
+Lifestyler23 calls (60)
+kimborman folds.
+Bordeaux77 calls (30)
+hunttiw checks.
+** Dealing Flop ** :  [ 7c, 5h, 4c ]
+Bordeaux77 checks.
+hunttiw checks.
+lievelief checks.
+Lifestyler23 checks.
+** Dealing Turn ** :  [ Jc ]
+Bordeaux77 checks.
+hunttiw checks.
+lievelief bets (120)
+Lifestyler23 folds.
+Bordeaux77 folds.
+hunttiw calls (120)
+** Dealing River ** :  [ 2d ]
+hunttiw bets (300)
+lievelief calls (300)
+** Summary **
+Main Pot: 1080
+Board: [ 7c 5h 4c Jc 2d  ]
+
+hunttiw balance 7410, bet 480, collected 1080, net +600 [ Jh 2s ] [ two pairs, Jacks and Twos -- Jh,Jc,7c,2s,2d ]
+shankar333 balance 3370, didn't bet (folded)
+fkndummbstrd balance 2090, didn't bet (folded)
+
+lievelief balance 1280, lost 480 [Didn't Show]
+Lifestyler23 balance 1670, lost 60 (folded)
+kimborman balance 3080, didn't bet (folded)
+Bordeaux77 balance 1100, lost 60 (folded)
+
+***** Hand History for Game 6014659568 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 16:38:21 EDT 2007
+Table Table  126586 (Real Money) -- Seat 9 is the button
+Total number of players : 7
+Seat 1: hunttiw (7410)
+Seat 2: shankar333 (3370)
+Seat 5: fkndummbstrd (2090)
+Seat 6: lievelief (1280)
+Seat 7: Lifestyler23 (1670)
+Seat 8: kimborman (3080)
+Seat 9: Bordeaux77 (1100)
+hunttiw  posts small blind (30)
+shankar333  posts big blind (60)
+** Dealing down cards **
+fkndummbstrd folds.
+lievelief folds.
+Lifestyler23 folds.
+kimborman calls (60)
+Bordeaux77 folds.
+hunttiw folds.
+shankar333 checks.
+** Dealing Flop ** :  [ 7c, 9s, Qc ]
+shankar333 bets (60)
+kimborman calls (60)
+** Dealing Turn ** :  [ As ]
+shankar333 bets (60)
+kimborman calls (60)
+** Dealing River ** :  [ 5s ]
+shankar333 bets (60)
+kimborman calls (60)
+** Summary **
+Main Pot: 510
+Board: [ 7c 9s Qc As 5s  ]
+
+hunttiw balance 7380, lost 30 (folded)
+shankar333 balance 3640, bet 240, collected 510, net +270 [ Qh 3s ] [ a pair of Queens -- As,Qh,Qc,9s,7c ]
+fkndummbstrd balance 2090, didn't bet (folded)
+lievelief balance 1280, didn't bet (folded)
+Lifestyler23 balance 1670, didn't bet (folded)
+
+kimborman balance 2840, lost 240 [Didn't Show]
+Bordeaux77 balance 1100, didn't bet (folded)
+
+***** Hand History for Game 6014662905 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 16:39:04 EDT 2007
+Table Table  126586 (Real Money) -- Seat 1 is the button
+Total number of players : 7
+Seat 1: hunttiw (7380)
+Seat 2: shankar333 (3640)
+Seat 5: fkndummbstrd (2090)
+Seat 6: lievelief (1280)
+Seat 7: Lifestyler23 (1670)
+Seat 8: kimborman (2840)
+Seat 9: Bordeaux77 (1100)
+shankar333  posts small blind (30)
+fkndummbstrd  posts big blind (60)
+** Dealing down cards **
+lievelief calls (60)
+Lifestyler23 folds.
+kimborman folds.
+Bordeaux77 folds.
+hunttiw raises (300) to 300
+shankar333 calls (270)
+fkndummbstrd folds.
+lievelief folds.
+** Dealing Flop ** :  [ Qc, Ks, Js ]
+shankar333 checks.
+hunttiw bets (300)
+shankar333 calls (300)
+** Dealing Turn ** :  [ 9s ]
+shankar333 checks.
+hunttiw checks.
+** Dealing River ** :  [ 8s ]
+shankar333 checks.
+hunttiw checks.
+** Summary **
+Main Pot: 1320
+Board: [ Qc Ks Js 9s 8s  ]
+
+hunttiw balance 8100, bet 600, collected 1320, net +720 [ 5s 5h ] [ a flush, King high -- Ks,Js,9s,8s,5s ]
+shankar333 balance 3040, lost 600 [ Ac Kh ] [ a pair of Kings -- Ac,Kh,Ks,Qc,Js ]
+fkndummbstrd balance 2030, lost 60 (folded)
+lievelief balance 1220, lost 60 (folded)
+Lifestyler23 balance 1670, didn't bet (folded)
+kimborman balance 2840, didn't bet (folded)
+Bordeaux77 balance 1100, didn't bet (folded)
+
+***** Hand History for Game 6014667018 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 16:39:57 EDT 2007
+Table Table  126586 (Real Money) -- Seat 2 is the button
+Total number of players : 7
+Seat 1: hunttiw (8100)
+Seat 2: shankar333 (3040)
+Seat 5: fkndummbstrd (2030)
+Seat 6: lievelief (1220)
+Seat 7: Lifestyler23 (1670)
+Seat 8: kimborman (2840)
+Seat 9: Bordeaux77 (1100)
+fkndummbstrd  posts small blind (30)
+lievelief  posts big blind (60)
+** Dealing down cards **
+Lifestyler23 folds.
+kimborman calls (60)
+Bordeaux77 folds.
+hunttiw calls (60)
+shankar333 raises (330) to 330
+fkndummbstrd folds.
+lievelief folds.
+kimborman folds.
+hunttiw folds.
+** Summary **
+Main Pot: 270
+
+hunttiw balance 8040, lost 60 (folded)
+shankar333 balance 3250, bet 330, collected 540, net +210
+fkndummbstrd balance 2000, lost 30 (folded)
+lievelief balance 1160, lost 60 (folded)
+Lifestyler23 balance 1670, didn't bet (folded)
+kimborman balance 2780, lost 60 (folded)
+Bordeaux77 balance 1100, didn't bet (folded)
+
+***** Hand History for Game 6014668590 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 16:40:18 EDT 2007
+Table Table  126586 (Real Money) -- Seat 5 is the button
+Total number of players : 7
+Seat 1: hunttiw (8040)
+Seat 2: shankar333 (3250)
+Seat 5: fkndummbstrd (2000)
+Seat 6: lievelief (1160)
+Seat 7: Lifestyler23 (1670)
+Seat 8: kimborman (2780)
+Seat 9: Bordeaux77 (1100)
+lievelief  posts small blind (30)
+Lifestyler23  posts big blind (60)
+** Dealing down cards **
+kimborman folds.
+Bordeaux77 folds.
+hunttiw calls (60)
+shankar333 calls (60)
+fkndummbstrd folds.
+lievelief calls (30)
+Lifestyler23 checks.
+** Dealing Flop ** :  [ 7c, Ah, 7d ]
+lievelief checks.
+Lifestyler23 checks.
+hunttiw folds.
+shankar333 bets (60)
+lievelief calls (60)
+Lifestyler23 folds.
+** Dealing Turn ** :  [ Kc ]
+lievelief bets (60)
+shankar333 raises (120) to 120
+lievelief calls (60)
+** Dealing River ** :  [ 8s ]
+lievelief bets (60)
+shankar333 raises (300) to 300
+lievelief folds.
+** Summary **
+Main Pot: 720
+Board: [ 7c Ah 7d Kc 8s  ]
+
+hunttiw balance 7980, lost 60 (folded)
+shankar333 balance 3670, bet 540, collected 960, net +420
+fkndummbstrd balance 2000, didn't bet (folded)
+lievelief balance 860, lost 300 (folded)
+Lifestyler23 balance 1610, lost 60 (folded)
+kimborman balance 2780, didn't bet (folded)
+Bordeaux77 balance 1100, didn't bet (folded)
+
+***** Hand History for Game 6014672745 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 16:41:12 EDT 2007
+Table Table  126586 (Real Money) -- Seat 6 is the button
+Total number of players : 7
+Seat 1: hunttiw (7980)
+Seat 2: shankar333 (3670)
+Seat 5: fkndummbstrd (2000)
+Seat 6: lievelief (860)
+Seat 7: Lifestyler23 (1610)
+Seat 8: kimborman (2780)
+Seat 9: Bordeaux77 (1100)
+Lifestyler23  posts small blind (30)
+kimborman  posts big blind (60)
+** Dealing down cards **
+Bordeaux77 folds.
+hunttiw folds.
+shankar333 folds.
+fkndummbstrd folds.
+lievelief calls (60)
+Lifestyler23 calls (30)
+kimborman checks.
+** Dealing Flop ** :  [ Th, 5d, Qd ]
+Lifestyler23 checks.
+kimborman checks.
+lievelief checks.
+** Dealing Turn ** :  [ Ah ]
+Lifestyler23 checks.
+kimborman checks.
+lievelief checks.
+** Dealing River ** :  [ 7c ]
+Lifestyler23 checks.
+kimborman checks.
+lievelief checks.
+** Summary **
+Main Pot: 180
+Board: [ Th 5d Qd Ah 7c  ]
+
+hunttiw balance 7980, didn't bet (folded)
+shankar333 balance 3670, didn't bet (folded)
+fkndummbstrd balance 2000, didn't bet (folded)
+
+lievelief balance 800, lost 60 [Didn't Show]
+Lifestyler23 balance 1730, bet 60, collected 180, net +120 [ 8d Ad ] [ a pair of Aces -- Ad,Ah,Qd,Th,8d ]
+
+kimborman balance 2720, lost 60 [Didn't Show]
+Bordeaux77 balance 1100, didn't bet (folded)
+
+***** Hand History for Game 6014676331 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 16:41:58 EDT 2007
+Table Table  126586 (Real Money) -- Seat 7 is the button
+Total number of players : 7
+Seat 1: hunttiw (7980)
+Seat 2: shankar333 (3670)
+Seat 5: fkndummbstrd (2000)
+Seat 6: lievelief (800)
+Seat 7: Lifestyler23 (1730)
+Seat 8: kimborman (2720)
+Seat 9: Bordeaux77 (1100)
+kimborman  posts small blind (50)
+Bordeaux77  posts big blind (100)
+** Dealing down cards **
+hunttiw folds.
+shankar333 raises (200) to 200
+fkndummbstrd folds.
+lievelief calls (200)
+Lifestyler23 folds.
+kimborman calls (150)
+Bordeaux77 folds.
+** Dealing Flop ** :  [ Jc, Jh, 9s ]
+kimborman checks.
+shankar333 checks.
+lievelief bets (600)
+lievelief is all-In.
+kimborman folds.
+shankar333 calls (600)
+** Dealing Turn ** :  [ Ac ]
+** Dealing River ** :  [ Th ]
+Creating Main Pot with $1900 with lievelief
+** Summary **
+Main Pot: 1900
+Board: [ Jc Jh 9s Ac Th  ]
+
+hunttiw balance 7980, didn't bet (folded)
+shankar333 balance 4770, bet 800, collected 1900, net +1100 [ Qd Kh ] [ a straight Ten to Ace -- Ac,Kh,Qd,Jc,Th ]
+fkndummbstrd balance 2000, didn't bet (folded)
+lievelief balance 0, lost 800 [ 5c 5h ] [ two pairs, Jacks and Fives -- Ac,Jc,Jh,5c,5h ]
+Lifestyler23 balance 1730, didn't bet (folded)
+kimborman balance 2520, lost 200 (folded)
+Bordeaux77 balance 1000, lost 100 (folded)
+
+***** Hand History for Game 6014679636 *****
+lievelief finished in 7 place.
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 16:42:43 EDT 2007
+Table Table  126586 (Real Money) -- Seat 8 is the button
+Total number of players : 6
+Seat 1: hunttiw (7980)
+Seat 2: shankar333 (4770)
+Seat 5: fkndummbstrd (2000)
+Seat 7: Lifestyler23 (1730)
+Seat 8: kimborman (2520)
+Seat 9: Bordeaux77 (1000)
+Bordeaux77  posts small blind (50)
+hunttiw  posts big blind (100)
+** Dealing down cards **
+shankar333 folds.
+fkndummbstrd raises (200) to 200
+Lifestyler23 folds.
+kimborman folds.
+Bordeaux77 raises (950) to 1000
+Bordeaux77 is all-In.
+hunttiw calls (900)
+fkndummbstrd calls (800)
+Creating Main Pot with $3000 with Bordeaux77
+** Dealing Flop ** :  [ 8h, Ac, As ]
+hunttiw checks.
+fkndummbstrd bets (1000)
+fkndummbstrd is all-In.
+hunttiw folds.
+** Dealing Turn ** :  [ Tc ]
+** Dealing River ** :  [ 3h ]
+** Summary **
+Main Pot: 3000
+Board: [ 8h Ac As Tc 3h  ]
+
+hunttiw balance 6980, lost 1000 (folded)
+shankar333 balance 4770, didn't bet (folded)
+fkndummbstrd balance 1000, bet 2000, collected 1000, lost -1000 [ Kh Js ] [ a pair of Aces -- Ac,As,Kh,Js,Tc ]
+Lifestyler23 balance 1730, didn't bet (folded)
+kimborman balance 2520, didn't bet (folded)
+Bordeaux77 balance 3000, bet 1000, collected 3000, net +2000 [ Th Td ] [ a full house, Tens full of Aces -- Ac,As,Th,Td,Tc ]
+
+***** Hand History for Game 6014684376 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 16:43:46 EDT 2007
+Table Table  126586 (Real Money) -- Seat 9 is the button
+Total number of players : 6
+Seat 1: hunttiw (6980)
+Seat 2: shankar333 (4770)
+Seat 5: fkndummbstrd (1000)
+Seat 7: Lifestyler23 (1730)
+Seat 8: kimborman (2520)
+Seat 9: Bordeaux77 (3000)
+hunttiw  posts small blind (50)
+shankar333  posts big blind (100)
+** Dealing down cards **
+fkndummbstrd folds.
+Lifestyler23 folds.
+kimborman calls (100)
+Bordeaux77 folds.
+hunttiw folds.
+shankar333 checks.
+** Dealing Flop ** :  [ 9s, 7d, 3d ]
+shankar333 checks.
+kimborman bets (100)
+shankar333 calls (100)
+** Dealing Turn ** :  [ 2h ]
+shankar333 checks.
+kimborman checks.
+** Dealing River ** :  [ 5h ]
+shankar333 bets (200)
+kimborman folds.
+** Summary **
+Main Pot: 450
+Board: [ 9s 7d 3d 2h 5h  ]
+
+hunttiw balance 6930, lost 50 (folded)
+shankar333 balance 5020, bet 400, collected 650, net +250
+fkndummbstrd balance 1000, didn't bet (folded)
+Lifestyler23 balance 1730, didn't bet (folded)
+kimborman balance 2320, lost 200 (folded)
+Bordeaux77 balance 3000, didn't bet (folded)
+
+***** Hand History for Game 6014686328 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 16:44:13 EDT 2007
+Table Table  126586 (Real Money) -- Seat 1 is the button
+Total number of players : 6
+Seat 1: hunttiw (6930)
+Seat 2: shankar333 (5020)
+Seat 5: fkndummbstrd (1000)
+Seat 7: Lifestyler23 (1730)
+Seat 8: kimborman (2320)
+Seat 9: Bordeaux77 (3000)
+shankar333  posts small blind (50)
+fkndummbstrd  posts big blind (100)
+** Dealing down cards **
+Lifestyler23 raises (300) to 300
+kimborman raises (2320) to 2320
+kimborman is all-In.
+Bordeaux77 folds.
+hunttiw folds.
+shankar333 folds.
+fkndummbstrd folds.
+Lifestyler23 calls (1430)
+Lifestyler23 is all-In.
+** Dealing Flop ** :  [ 9s, 4c, Jc ]
+** Dealing Turn ** :  [ 3d ]
+** Dealing River ** :  [ 2s ]
+Creating Main Pot with $3610 with Lifestyler23
+** Summary **
+Main Pot: 3610
+Board: [ 9s 4c Jc 3d 2s  ]
+
+hunttiw balance 6930, didn't bet (folded)
+shankar333 balance 4970, lost 50 (folded)
+fkndummbstrd balance 900, lost 100 (folded)
+Lifestyler23 balance 0, lost 1730 [ 6d 6h ] [ a pair of Sixes -- Jc,9s,6d,6h,4c ]
+kimborman balance 4200, bet 2320, collected 4200, net +1880 [ Ah 9c ] [ a pair of Nines -- Ah,Jc,9c,9s,4c ]
+Bordeaux77 balance 3000, didn't bet (folded)
+
+***** Hand History for Game 6014688166 *****
+Lifestyler23 finished in 6 place.
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 16:44:36 EDT 2007
+Table Table  126586 (Real Money) -- Seat 2 is the button
+Total number of players : 5
+Seat 1: hunttiw (6930)
+Seat 2: shankar333 (4970)
+Seat 5: fkndummbstrd (900)
+Seat 8: kimborman (4200)
+Seat 9: Bordeaux77 (3000)
+fkndummbstrd  posts small blind (50)
+kimborman  posts big blind (100)
+** Dealing down cards **
+Bordeaux77 folds.
+hunttiw folds.
+shankar333 raises (500) to 500
+fkndummbstrd folds.
+kimborman calls (400)
+** Dealing Flop ** :  [ Kh, Kd, Ac ]
+kimborman bets (100)
+shankar333 calls (100)
+** Dealing Turn ** :  [ Tc ]
+kimborman bets (100)
+shankar333 calls (100)
+** Dealing River ** :  [ 2d ]
+kimborman bets (500)
+shankar333 calls (500)
+** Summary **
+Main Pot: 2450
+Board: [ Kh Kd Ac Tc 2d  ]
+
+hunttiw balance 6930, didn't bet (folded)
+shankar333 balance 6220, bet 1200, collected 2450, net +1250 [ 4d Ad ] [ two pairs, Aces and Kings -- Ad,Ac,Kh,Kd,Tc ]
+fkndummbstrd balance 850, lost 50 (folded)
+kimborman balance 3000, lost 1200 [ 9c Jc ] [ a pair of Kings -- Ac,Kh,Kd,Jc,Tc ]
+Bordeaux77 balance 3000, didn't bet (folded)
+
+***** Hand History for Game 6014691382 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 16:45:20 EDT 2007
+Table Table  126586 (Real Money) -- Seat 5 is the button
+Total number of players : 5
+Seat 1: hunttiw (6930)
+Seat 2: shankar333 (6220)
+Seat 5: fkndummbstrd (850)
+Seat 8: kimborman (3000)
+Seat 9: Bordeaux77 (3000)
+kimborman  posts small blind (50)
+Bordeaux77  posts big blind (100)
+** Dealing down cards **
+hunttiw calls (100)
+shankar333 calls (100)
+fkndummbstrd raises (550) to 550
+kimborman raises (2950) to 3000
+kimborman is all-In.
+Bordeaux77 folds.
+hunttiw folds.
+shankar333 folds.
+fkndummbstrd calls (300)
+fkndummbstrd is all-In.
+** Dealing Flop ** :  [ Ah, Ts, 3h ]
+** Dealing Turn ** :  [ Ad ]
+** Dealing River ** :  [ 5s ]
+Creating Main Pot with $2000 with fkndummbstrd
+** Summary **
+Main Pot: 2000
+Board: [ Ah Ts 3h Ad 5s  ]
+
+hunttiw balance 6830, lost 100 (folded)
+shankar333 balance 6120, lost 100 (folded)
+fkndummbstrd balance 2000, bet 850, collected 2000, net +1150 [ As 9s ] [ three of a kind, Aces -- As,Ah,Ad,Ts,9s ]
+kimborman balance 2150, bet 3000, collected 2150, lost -850 [ Jh Jc ] [ two pairs, Aces and Jacks -- Ah,Ad,Jh,Jc,Ts ]
+Bordeaux77 balance 2900, lost 100 (folded)
+
+***** Hand History for Game 6014694286 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 16:46:00 EDT 2007
+Table Table  126586 (Real Money) -- Seat 8 is the button
+Total number of players : 5
+Seat 1: hunttiw (6830)
+Seat 2: shankar333 (6120)
+Seat 5: fkndummbstrd (2000)
+Seat 8: kimborman (2150)
+Seat 9: Bordeaux77 (2900)
+Bordeaux77  posts small blind (50)
+hunttiw  posts big blind (100)
+** Dealing down cards **
+shankar333 folds.
+fkndummbstrd folds.
+kimborman folds.
+Bordeaux77 folds.
+** Summary **
+Main Pot: 100
+
+hunttiw balance 6880, bet 100, collected 150, net +50
+shankar333 balance 6120, didn't bet (folded)
+fkndummbstrd balance 2000, didn't bet (folded)
+kimborman balance 2150, didn't bet (folded)
+Bordeaux77 balance 2850, lost 50 (folded)
+
+***** Hand History for Game 6014694989 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 16:46:12 EDT 2007
+Table Table  126586 (Real Money) -- Seat 9 is the button
+Total number of players : 5
+Seat 1: hunttiw (6880)
+Seat 2: shankar333 (6120)
+Seat 5: fkndummbstrd (2000)
+Seat 8: kimborman (2150)
+Seat 9: Bordeaux77 (2850)
+hunttiw  posts small blind (50)
+shankar333  posts big blind (100)
+** Dealing down cards **
+fkndummbstrd raises (200) to 200
+kimborman folds.
+Bordeaux77 folds.
+hunttiw calls (150)
+shankar333 calls (100)
+** Dealing Flop ** :  [ Ad, 8s, Ts ]
+hunttiw checks.
+shankar333 checks.
+fkndummbstrd bets (600)
+hunttiw folds.
+shankar333 folds.
+** Summary **
+Main Pot: 600
+Board: [ Ad 8s Ts  ]
+
+hunttiw balance 6680, lost 200 (folded)
+shankar333 balance 5920, lost 200 (folded)
+fkndummbstrd balance 2400, bet 800, collected 1200, net +400
+kimborman balance 2150, didn't bet (folded)
+Bordeaux77 balance 2850, didn't bet (folded)
+
+***** Hand History for Game 6014697417 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 16:46:50 EDT 2007
+Table Table  126586 (Real Money) -- Seat 1 is the button
+Total number of players : 5
+Seat 1: hunttiw (6680)
+Seat 2: shankar333 (5920)
+Seat 5: fkndummbstrd (2400)
+Seat 8: kimborman (2150)
+Seat 9: Bordeaux77 (2850)
+shankar333  posts small blind (50)
+fkndummbstrd  posts big blind (100)
+** Dealing down cards **
+kimborman folds.
+Bordeaux77 folds.
+hunttiw folds.
+shankar333 raises (250) to 300
+fkndummbstrd raises (400) to 500
+shankar333 raises (5620) to 5920
+shankar333 is all-In.
+fkndummbstrd calls (1900)
+fkndummbstrd is all-In.
+** Dealing Flop ** :  [ Ah, Tc, Qs ]
+** Dealing Turn ** :  [ Jd ]
+** Dealing River ** :  [ 9d ]
+Creating Main Pot with $4800 with fkndummbstrd
+** Summary **
+Main Pot: 4800
+Board: [ Ah Tc Qs Jd 9d  ]
+
+hunttiw balance 6680, didn't bet (folded)
+shankar333 balance 8320, bet 5920, collected 8320, net +2400 [ Jc Js ] [ three of a kind, Jacks -- Ah,Qs,Jc,Js,Jd ]
+fkndummbstrd balance 0, lost 2400 [ Ts Th ] [ three of a kind, Tens -- Ah,Qs,Ts,Th,Tc ]
+kimborman balance 2150, didn't bet (folded)
+Bordeaux77 balance 2850, didn't bet (folded)
+
+***** Hand History for Game 6014699089 *****
+fkndummbstrd finished in 5 place.
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 16:47:15 EDT 2007
+Table Table  126586 (Real Money) -- Seat 2 is the button
+Total number of players : 4
+Seat 1: hunttiw (6680)
+Seat 2: shankar333 (8320)
+Seat 8: kimborman (2150)
+Seat 9: Bordeaux77 (2850)
+kimborman  posts big blind (100)
+** Dealing down cards **
+Bordeaux77 folds.
+hunttiw calls (100)
+shankar333 calls (100)
+kimborman checks.
+** Dealing Flop ** :  [ Jd, 8h, Js ]
+kimborman bets (100)
+hunttiw folds.
+shankar333 calls (100)
+** Dealing Turn ** :  [ 7d ]
+kimborman bets (100)
+shankar333 calls (100)
+** Dealing River ** :  [ 4s ]
+kimborman bets (100)
+shankar333 raises (500) to 500
+kimborman folds.
+** Summary **
+Main Pot: 900
+Board: [ Jd 8h Js 7d 4s  ]
+
+hunttiw balance 6580, lost 100 (folded)
+shankar333 balance 8820, bet 800, collected 1300, net +500
+kimborman balance 1750, lost 400 (folded)
+Bordeaux77 balance 2850, didn't bet (folded)
+
+***** Hand History for Game 6014701722 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 16:47:56 EDT 2007
+Table Table  126586 (Real Money) -- Seat 2 is the button
+Total number of players : 4
+Seat 1: hunttiw (6580)
+Seat 2: shankar333 (8820)
+Seat 8: kimborman (1750)
+Seat 9: Bordeaux77 (2850)
+kimborman  posts small blind (50)
+Bordeaux77  posts big blind (100)
+** Dealing down cards **
+hunttiw folds.
+shankar333 calls (100)
+kimborman raises (350) to 400
+Bordeaux77 folds.
+shankar333 calls (300)
+** Dealing Flop ** :  [ 7c, 7h, 2d ]
+kimborman checks.
+shankar333 checks.
+** Dealing Turn ** :  [ Qc ]
+kimborman checks.
+shankar333 checks.
+** Dealing River ** :  [ 6s ]
+kimborman checks.
+shankar333 checks.
+** Summary **
+Main Pot: 900
+Board: [ 7c 7h 2d Qc 6s  ]
+
+hunttiw balance 6580, didn't bet (folded)
+shankar333 balance 9320, bet 400, collected 900, net +500 [ Kc 4c ] [ a pair of Sevens with King kicker -- Kc,Qc,7c,7h,6sKc(kicker card) ]
+kimborman balance 1350, lost 400 [ Ts Jh ] [ a pair of Sevens -- Qc,Jh,Ts,7c,7h ]
+Bordeaux77 balance 2750, lost 100 (folded)
+
+***** Hand History for Game 6014703511 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 16:48:23 EDT 2007
+Table Table  126586 (Real Money) -- Seat 8 is the button
+Total number of players : 4
+Seat 1: hunttiw (6580)
+Seat 2: shankar333 (9320)
+Seat 8: kimborman (1350)
+Seat 9: Bordeaux77 (2750)
+Bordeaux77  posts small blind (50)
+hunttiw  posts big blind (100)
+** Dealing down cards **
+shankar333 calls (100)
+kimborman folds.
+Bordeaux77 calls (50)
+hunttiw checks.
+** Dealing Flop ** :  [ 9c, 5d, Kh ]
+Bordeaux77 bets (200)
+hunttiw folds.
+shankar333 calls (200)
+** Dealing Turn ** :  [ 6d ]
+Bordeaux77 bets (500)
+shankar333 folds.
+** Summary **
+Main Pot: 700
+Board: [ 9c 5d Kh 6d  ]
+
+hunttiw balance 6480, lost 100 (folded)
+shankar333 balance 9020, lost 300 (folded)
+kimborman balance 1350, didn't bet (folded)
+Bordeaux77 balance 3150, bet 800, collected 1200, net +400
+
+***** Hand History for Game 6014705699 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 16:48:56 EDT 2007
+Table Table  126586 (Real Money) -- Seat 9 is the button
+Total number of players : 4
+Seat 1: hunttiw (6480)
+Seat 2: shankar333 (9020)
+Seat 8: kimborman (1350)
+Seat 9: Bordeaux77 (3150)
+hunttiw  posts small blind (50)
+shankar333  posts big blind (100)
+** Dealing down cards **
+kimborman folds.
+Bordeaux77 raises (400) to 400
+hunttiw calls (350)
+shankar333 folds.
+** Dealing Flop ** :  [ 6d, 3c, Jh ]
+hunttiw bets (300)
+Bordeaux77 folds.
+** Summary **
+Main Pot: 900
+Board: [ 6d 3c Jh  ]
+
+hunttiw balance 6980, bet 700, collected 1200, net +500
+shankar333 balance 8920, lost 100 (folded)
+kimborman balance 1350, didn't bet (folded)
+Bordeaux77 balance 2750, lost 400 (folded)
+
+***** Hand History for Game 6014708640 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 16:49:41 EDT 2007
+Table Table  126586 (Real Money) -- Seat 1 is the button
+Total number of players : 4
+Seat 1: hunttiw (6980)
+Seat 2: shankar333 (8920)
+Seat 8: kimborman (1350)
+Seat 9: Bordeaux77 (2750)
+shankar333  posts small blind (50)
+kimborman  posts big blind (100)
+** Dealing down cards **
+Bordeaux77 folds.
+hunttiw raises (300) to 300
+shankar333 raises (1850) to 1900
+kimborman folds.
+hunttiw folds.
+** Summary **
+Main Pot: 700
+
+hunttiw balance 6680, lost 300 (folded)
+shankar333 balance 9320, bet 1900, collected 2300, net +400
+kimborman balance 1250, lost 100 (folded)
+Bordeaux77 balance 2750, didn't bet (folded)
+
+***** Hand History for Game 6014710323 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 16:50:08 EDT 2007
+Table Table  126586 (Real Money) -- Seat 2 is the button
+Total number of players : 4
+Seat 1: hunttiw (6680)
+Seat 2: shankar333 (9320)
+Seat 8: kimborman (1250)
+Seat 9: Bordeaux77 (2750)
+kimborman  posts small blind (50)
+Bordeaux77  posts big blind (100)
+** Dealing down cards **
+hunttiw calls (100)
+shankar333 calls (100)
+kimborman calls (50)
+Bordeaux77 checks.
+** Dealing Flop ** :  [ 8c, 5h, 2c ]
+kimborman checks.
+Bordeaux77 checks.
+hunttiw checks.
+shankar333 bets (100)
+kimborman folds.
+Bordeaux77 folds.
+hunttiw calls (100)
+** Dealing Turn ** :  [ Qs ]
+hunttiw bets (200)
+shankar333 calls (200)
+** Dealing River ** :  [ 3s ]
+hunttiw bets (400)
+shankar333 calls (400)
+** Summary **
+Main Pot: 1800
+Board: [ 8c 5h 2c Qs 3s  ]
+
+hunttiw balance 7680, bet 800, collected 1800, net +1000 [ Qh Jd ] [ a pair of Queens -- Qh,Qs,Jd,8c,5h ]
+
+shankar333 balance 8520, lost 800 [Didn't Show]
+kimborman balance 1150, lost 100 (folded)
+Bordeaux77 balance 2650, lost 100 (folded)
+
+***** Hand History for Game 6014715220 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 16:51:18 EDT 2007
+Table Table  126586 (Real Money) -- Seat 8 is the button
+Total number of players : 4
+Seat 1: hunttiw (7680)
+Seat 2: shankar333 (8520)
+Seat 8: kimborman (1150)
+Seat 9: Bordeaux77 (2650)
+Bordeaux77  posts small blind (50)
+hunttiw  posts big blind (100)
+** Dealing down cards **
+shankar333 folds.
+kimborman calls (100)
+Bordeaux77 calls (50)
+hunttiw checks.
+** Dealing Flop ** :  [ 3c, 6d, 9d ]
+Bordeaux77 checks.
+hunttiw bets (100)
+kimborman folds.
+Bordeaux77 folds.
+** Summary **
+Main Pot: 300
+Board: [ 3c 6d 9d  ]
+
+hunttiw balance 7880, bet 200, collected 400, net +200
+shankar333 balance 8520, didn't bet (folded)
+kimborman balance 1050, lost 100 (folded)
+Bordeaux77 balance 2550, lost 100 (folded)
+
+***** Hand History for Game 6014717497 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 16:51:47 EDT 2007
+Table Table  126586 (Real Money) -- Seat 9 is the button
+Total number of players : 4
+Seat 1: hunttiw (7880)
+Seat 2: shankar333 (8520)
+Seat 8: kimborman (1050)
+Seat 9: Bordeaux77 (2550)
+hunttiw  posts small blind (50)
+shankar333  posts big blind (100)
+** Dealing down cards **
+kimborman folds.
+Bordeaux77 folds.
+hunttiw folds.
+** Summary **
+Main Pot: 100
+
+hunttiw balance 7830, lost 50 (folded)
+shankar333 balance 8570, bet 100, collected 150, net +50
+kimborman balance 1050, didn't bet (folded)
+Bordeaux77 balance 2550, didn't bet (folded)
+
+***** Hand History for Game 6014718293 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 16:51:58 EDT 2007
+Table Table  126586 (Real Money) -- Seat 1 is the button
+Total number of players : 4
+Seat 1: hunttiw (7830)
+Seat 2: shankar333 (8570)
+Seat 8: kimborman (1050)
+Seat 9: Bordeaux77 (2550)
+shankar333  posts small blind (50)
+kimborman  posts big blind (100)
+** Dealing down cards **
+Bordeaux77 folds.
+hunttiw calls (100)
+shankar333 calls (50)
+kimborman checks.
+** Dealing Flop ** :  [ 6h, 9d, 3c ]
+shankar333 checks.
+kimborman checks.
+hunttiw checks.
+** Dealing Turn ** :  [ 7d ]
+shankar333 bets (100)
+kimborman calls (100)
+hunttiw calls (100)
+** Dealing River ** :  [ As ]
+shankar333 checks.
+kimborman checks.
+hunttiw bets (900)
+shankar333 folds.
+kimborman folds.
+** Summary **
+Main Pot: 600
+Board: [ 6h 9d 3c 7d As  ]
+
+hunttiw balance 8230, bet 1100, collected 1500, net +400
+shankar333 balance 8370, lost 200 (folded)
+kimborman balance 850, lost 200 (folded)
+Bordeaux77 balance 2550, didn't bet (folded)
+
+***** Hand History for Game 6014723511 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 16:53:07 EDT 2007
+Table Table  126586 (Real Money) -- Seat 2 is the button
+Total number of players : 4
+Seat 1: hunttiw (8230)
+Seat 2: shankar333 (8370)
+Seat 8: kimborman (850)
+Seat 9: Bordeaux77 (2550)
+kimborman  posts small blind (100)
+Bordeaux77  posts big blind (200)
+** Dealing down cards **
+hunttiw calls (200)
+shankar333 folds.
+kimborman calls (100)
+Bordeaux77 checks.
+** Dealing Flop ** :  [ Th, 4c, 8s ]
+kimborman bets (650)
+kimborman is all-In.
+Bordeaux77 folds.
+hunttiw folds.
+Creating Main Pot with $600 with kimborman
+** Summary **
+Main Pot: 600
+Board: [ Th 4c 8s  ]
+
+hunttiw balance 8030, lost 200 (folded)
+shankar333 balance 8370, didn't bet (folded)
+kimborman balance 1250, bet 850, collected 1250, net +400
+Bordeaux77 balance 2350, lost 200 (folded)
+
+***** Hand History for Game 6014727095 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 16:53:56 EDT 2007
+Table Table  126586 (Real Money) -- Seat 8 is the button
+Total number of players : 4
+Seat 1: hunttiw (8030)
+Seat 2: shankar333 (8370)
+Seat 8: kimborman (1250)
+Seat 9: Bordeaux77 (2350)
+Bordeaux77  posts small blind (100)
+hunttiw  posts big blind (200)
+** Dealing down cards **
+shankar333 folds.
+kimborman calls (200)
+Bordeaux77 folds.
+hunttiw checks.
+** Dealing Flop ** :  [ Qd, 7c, Ad ]
+hunttiw checks.
+kimborman checks.
+** Dealing Turn ** :  [ 4d ]
+hunttiw bets (600)
+kimborman folds.
+** Summary **
+Main Pot: 500
+Board: [ Qd 7c Ad 4d  ]
+
+hunttiw balance 8330, bet 800, collected 1100, net +300
+shankar333 balance 8370, didn't bet (folded)
+kimborman balance 1050, lost 200 (folded)
+Bordeaux77 balance 2250, lost 100 (folded)
+
+***** Hand History for Game 6014729235 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 16:54:25 EDT 2007
+Table Table  126586 (Real Money) -- Seat 9 is the button
+Total number of players : 4
+Seat 1: hunttiw (8330)
+Seat 2: shankar333 (8370)
+Seat 8: kimborman (1050)
+Seat 9: Bordeaux77 (2250)
+hunttiw  posts small blind (100)
+shankar333  posts big blind (200)
+** Dealing down cards **
+kimborman raises (1050) to 1050
+kimborman is all-In.
+Bordeaux77 folds.
+hunttiw folds.
+shankar333 calls (850)
+** Dealing Flop ** :  [ Qc, Js, Jd ]
+** Dealing Turn ** :  [ Ks ]
+** Dealing River ** :  [ Ts ]
+Creating Main Pot with $2200 with kimborman
+** Summary **
+Main Pot: 2200
+Board: [ Qc Js Jd Ks Ts  ]
+
+hunttiw balance 8230, lost 100 (folded)
+shankar333 balance 9520, bet 1050, collected 2200, net +1150 [ 6s As ] [ a flush, Ace high -- As,Ks,Js,Ts,6s ]
+kimborman balance 0, lost 1050 [ 6h 6d ] [ two pairs, Jacks and Sixes -- Ks,Js,Jd,6h,6d ]
+Bordeaux77 balance 2250, didn't bet (folded)
+
+***** Hand History for Game 6014731806 *****
+kimborman finished in 4 place.
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 16:55:01 EDT 2007
+Table Table  126586 (Real Money) -- Seat 1 is the button
+Total number of players : 3
+Seat 1: hunttiw (8230)
+Seat 2: shankar333 (9520)
+Seat 9: Bordeaux77 (2250)
+shankar333  posts small blind (100)
+Bordeaux77  posts big blind (200)
+** Dealing down cards **
+hunttiw folds.
+shankar333 calls (100)
+Bordeaux77 checks.
+** Dealing Flop ** :  [ Jd, 8c, 6h ]
+shankar333 bets (200)
+Bordeaux77 folds.
+** Summary **
+Main Pot: 400
+Board: [ Jd 8c 6h  ]
+
+hunttiw balance 8230, didn't bet (folded)
+shankar333 balance 9720, bet 400, collected 600, net +200
+Bordeaux77 balance 2050, lost 200 (folded)
+
+***** Hand History for Game 6014733711 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 16:55:29 EDT 2007
+Table Table  126586 (Real Money) -- Seat 2 is the button
+Total number of players : 3
+Seat 1: hunttiw (8230)
+Seat 2: shankar333 (9720)
+Seat 9: Bordeaux77 (2050)
+Bordeaux77  posts small blind (100)
+hunttiw  posts big blind (200)
+** Dealing down cards **
+shankar333 raises (1000) to 1000
+Bordeaux77 folds.
+hunttiw folds.
+** Summary **
+Main Pot: 500
+
+hunttiw balance 8030, lost 200 (folded)
+shankar333 balance 10020, bet 1000, collected 1300, net +300
+Bordeaux77 balance 1950, lost 100 (folded)
+
+***** Hand History for Game 6014735200 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 16:55:49 EDT 2007
+Table Table  126586 (Real Money) -- Seat 9 is the button
+Total number of players : 3
+Seat 1: hunttiw (8030)
+Seat 2: shankar333 (10020)
+Seat 9: Bordeaux77 (1950)
+hunttiw  posts small blind (100)
+shankar333  posts big blind (200)
+** Dealing down cards **
+shankar333: aa
+Bordeaux77 folds.
+hunttiw calls (100)
+shankar333 checks.
+** Dealing Flop ** :  [ 3h, 8c, Js ]
+hunttiw bets (200)
+shankar333 calls (200)
+** Dealing Turn ** :  [ 5d ]
+hunttiw bets (1000)
+shankar333 folds.
+** Summary **
+Main Pot: 800
+Board: [ 3h 8c Js 5d  ]
+
+hunttiw balance 8430, bet 1400, collected 1800, net +400
+shankar333 balance 9620, lost 400 (folded)
+Bordeaux77 balance 1950, didn't bet (folded)
+
+***** Hand History for Game 6014738951 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 16:56:40 EDT 2007
+Table Table  126586 (Real Money) -- Seat 1 is the button
+Total number of players : 3
+Seat 1: hunttiw (8430)
+Seat 2: shankar333 (9620)
+Seat 9: Bordeaux77 (1950)
+shankar333  posts small blind (100)
+Bordeaux77  posts big blind (200)
+** Dealing down cards **
+hunttiw folds.
+shankar333 raises (900) to 1000
+Bordeaux77 folds.
+** Summary **
+Main Pot: 400
+
+hunttiw balance 8430, didn't bet (folded)
+shankar333 balance 9820, bet 1000, collected 1200, net +200
+Bordeaux77 balance 1750, lost 200 (folded)
+
+***** Hand History for Game 6014740023 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 16:56:55 EDT 2007
+Table Table  126586 (Real Money) -- Seat 2 is the button
+Total number of players : 3
+Seat 1: hunttiw (8430)
+Seat 2: shankar333 (9820)
+Seat 9: Bordeaux77 (1750)
+Bordeaux77  posts small blind (100)
+hunttiw  posts big blind (200)
+** Dealing down cards **
+shankar333 folds.
+Bordeaux77 raises (500) to 600
+hunttiw calls (400)
+** Dealing Flop ** :  [ 2c, Jd, 3d ]
+Bordeaux77 bets (1150)
+Bordeaux77 is all-In.
+hunttiw folds.
+Creating Main Pot with $1200 with Bordeaux77
+** Summary **
+Main Pot: 1200
+Board: [ 2c Jd 3d  ]
+
+hunttiw balance 7830, lost 600 (folded)
+shankar333 balance 9820, didn't bet (folded)
+Bordeaux77 balance 2350, bet 1750, collected 2350, net +600
+
+***** Hand History for Game 6014742987 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 16:57:36 EDT 2007
+Table Table  126586 (Real Money) -- Seat 9 is the button
+Total number of players : 3
+Seat 1: hunttiw (7830)
+Seat 2: shankar333 (9820)
+Seat 9: Bordeaux77 (2350)
+hunttiw  posts small blind (100)
+shankar333  posts big blind (200)
+** Dealing down cards **
+Bordeaux77 folds.
+hunttiw calls (100)
+shankar333 raises (800) to 1000
+hunttiw calls (800)
+** Dealing Flop ** :  [ Kh, 2d, 7h ]
+hunttiw bets (400)
+shankar333 calls (400)
+** Dealing Turn ** :  [ Ac ]
+hunttiw bets (800)
+shankar333 calls (800)
+** Dealing River ** :  [ 4c ]
+hunttiw bets (1000)
+shankar333 calls (1000)
+** Summary **
+Main Pot: 6400
+Board: [ Kh 2d 7h Ac 4c  ]
+
+hunttiw balance 4630, lost 3200 [ 6s Ah ] [ a pair of Aces -- Ah,Ac,Kh,7h,6s ]
+shankar333 balance 13020, bet 3200, collected 6400, net +3200 [ As 8s ] [ a pair of Aces with Eight kicker -- As,Ac,Kh,8s,7h8s(kicker card) ]
+Bordeaux77 balance 2350, didn't bet (folded)
+
+***** Hand History for Game 6014745942 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 16:58:17 EDT 2007
+Table Table  126586 (Real Money) -- Seat 1 is the button
+Total number of players : 3
+Seat 1: hunttiw (4630)
+Seat 2: shankar333 (13020)
+Seat 9: Bordeaux77 (2350)
+shankar333  posts small blind (100)
+Bordeaux77  posts big blind (200)
+** Dealing down cards **
+hunttiw folds.
+shankar333 calls (100)
+Bordeaux77 checks.
+** Dealing Flop ** :  [ Ah, 9c, 5d ]
+shankar333 checks.
+Bordeaux77 bets (200)
+shankar333 calls (200)
+** Dealing Turn ** :  [ Th ]
+shankar333 checks.
+Bordeaux77 bets (200)
+shankar333 calls (200)
+** Dealing River ** :  [ 3d ]
+shankar333 checks.
+Bordeaux77 checks.
+** Summary **
+Main Pot: 1200
+Board: [ Ah 9c 5d Th 3d  ]
+
+hunttiw balance 4630, didn't bet (folded)
+shankar333 balance 12420, lost 600 [ Jd 8d ] [ high card Ace -- Ah,Jd,Th,9c,8d ]
+Bordeaux77 balance 2950, bet 600, collected 1200, net +600 [ 2s 9s ] [ a pair of Nines -- Ah,Th,9s,9c,5d ]
+
+***** Hand History for Game 6014749536 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 16:59:07 EDT 2007
+Table Table  126586 (Real Money) -- Seat 2 is the button
+Total number of players : 3
+Seat 1: hunttiw (4630)
+Seat 2: shankar333 (12420)
+Seat 9: Bordeaux77 (2950)
+Bordeaux77  posts small blind (100)
+hunttiw  posts big blind (200)
+** Dealing down cards **
+shankar333 folds.
+Bordeaux77 folds.
+** Summary **
+Main Pot: 200
+
+hunttiw balance 4730, bet 200, collected 300, net +100
+shankar333 balance 12420, didn't bet (folded)
+Bordeaux77 balance 2850, lost 100 (folded)
+
+***** Hand History for Game 6014750396 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 16:59:19 EDT 2007
+Table Table  126586 (Real Money) -- Seat 9 is the button
+Total number of players : 3
+Seat 1: hunttiw (4730)
+Seat 2: shankar333 (12420)
+Seat 9: Bordeaux77 (2850)
+hunttiw  posts small blind (100)
+shankar333  posts big blind (200)
+** Dealing down cards **
+Bordeaux77 folds.
+hunttiw calls (100)
+shankar333 checks.
+** Dealing Flop ** :  [ 8c, 7d, 8h ]
+hunttiw bets (200)
+shankar333 raises (2800) to 2800
+hunttiw folds.
+** Summary **
+Main Pot: 800
+Board: [ 8c 7d 8h  ]
+
+hunttiw balance 4330, lost 400 (folded)
+shankar333 balance 12820, bet 3000, collected 3400, net +400
+Bordeaux77 balance 2850, didn't bet (folded)
+
+***** Hand History for Game 6014752019 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 16:59:43 EDT 2007
+Table Table  126586 (Real Money) -- Seat 1 is the button
+Total number of players : 3
+Seat 1: hunttiw (4330)
+Seat 2: shankar333 (12820)
+Seat 9: Bordeaux77 (2850)
+shankar333  posts small blind (100)
+Bordeaux77  posts big blind (200)
+** Dealing down cards **
+hunttiw calls (200)
+shankar333 calls (100)
+Bordeaux77 checks.
+** Dealing Flop ** :  [ 5c, Qh, Js ]
+shankar333 checks.
+Bordeaux77 checks.
+hunttiw checks.
+** Dealing Turn ** :  [ 6d ]
+shankar333 checks.
+Bordeaux77 bets (800)
+hunttiw calls (800)
+shankar333 folds.
+** Dealing River ** :  [ Ks ]
+Bordeaux77 bets (600)
+hunttiw raises (1200) to 1200
+Bordeaux77 calls (600)
+** Summary **
+Main Pot: 4600
+Board: [ 5c Qh Js 6d Ks  ]
+
+hunttiw balance 6730, bet 2200, collected 4600, net +2400 [ 5h Qd ] [ two pairs, Queens and Fives -- Ks,Qd,Qh,5h,5c ]
+shankar333 balance 12620, lost 200 (folded)
+
+Bordeaux77 balance 650, lost 2200 [Didn't Show]
+
+***** Hand History for Game 6014758274 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 17:01:13 EDT 2007
+Table Table  126586 (Real Money) -- Seat 2 is the button
+Total number of players : 3
+Seat 1: hunttiw (6730)
+Seat 2: shankar333 (12620)
+Seat 9: Bordeaux77 (650)
+Bordeaux77  posts small blind (100)
+hunttiw  posts big blind (200)
+** Dealing down cards **
+shankar333 folds.
+Bordeaux77 folds.
+** Summary **
+Main Pot: 200
+
+hunttiw balance 6830, bet 200, collected 300, net +100
+shankar333 balance 12620, didn't bet (folded)
+Bordeaux77 balance 550, lost 100 (folded)
+
+***** Hand History for Game 6014759273 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 17:01:27 EDT 2007
+Table Table  126586 (Real Money) -- Seat 9 is the button
+Total number of players : 3
+Seat 1: hunttiw (6830)
+Seat 2: shankar333 (12620)
+Seat 9: Bordeaux77 (550)
+hunttiw  posts small blind (100)
+shankar333  posts big blind (200)
+** Dealing down cards **
+Bordeaux77 folds.
+hunttiw calls (100)
+shankar333 checks.
+** Dealing Flop ** :  [ 5c, Ac, Qd ]
+hunttiw checks.
+shankar333 bets (400)
+hunttiw folds.
+** Summary **
+Main Pot: 400
+Board: [ 5c Ac Qd  ]
+
+hunttiw balance 6630, lost 200 (folded)
+shankar333 balance 12820, bet 600, collected 800, net +200
+Bordeaux77 balance 550, didn't bet (folded)
+
+***** Hand History for Game 6014760744 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 17:01:48 EDT 2007
+Table Table  126586 (Real Money) -- Seat 1 is the button
+Total number of players : 3
+Seat 1: hunttiw (6630)
+Seat 2: shankar333 (12820)
+Seat 9: Bordeaux77 (550)
+shankar333  posts small blind (100)
+Bordeaux77  posts big blind (200)
+** Dealing down cards **
+hunttiw calls (200)
+shankar333 calls (100)
+Bordeaux77 raises (350) to 550
+Bordeaux77 is all-In.
+hunttiw calls (350)
+shankar333 calls (350)
+Creating Main Pot with $1650 with Bordeaux77
+** Dealing Flop ** :  [ 4c, Jc, 9c ]
+shankar333 checks.
+hunttiw bets (400)
+shankar333: why
+shankar333 folds.
+** Dealing Turn ** :  [ 6c ]
+** Dealing River ** :  [ Jh ]
+** Summary **
+Main Pot: 1650
+Board: [ 4c Jc 9c 6c Jh  ]
+
+hunttiw balance 6080, bet 950, collected 400, lost -550 [ 2h 4h ] [ two pairs, Jacks and Fours -- Jc,Jh,9c,4h,4c ]
+shankar333 balance 12270, lost 550 (folded)
+Bordeaux77 balance 1650, bet 550, collected 1650, net +1100 [ 6h 6d ] [ a full house, Sixes full of Jacks -- Jc,Jh,6h,6d,6c ]
+
+***** Hand History for Game 6014763924 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 17:02:35 EDT 2007
+Table Table  126586 (Real Money) -- Seat 2 is the button
+Total number of players : 3
+Seat 1: hunttiw (6080)
+Seat 2: shankar333 (12270)
+Seat 9: Bordeaux77 (1650)
+Bordeaux77  posts small blind (100)
+hunttiw  posts big blind (200)
+** Dealing down cards **
+shankar333: bimbo
+shankar333 raises (400) to 400
+Bordeaux77 raises (1550) to 1650
+Bordeaux77 is all-In.
+hunttiw folds.
+shankar333 calls (1250)
+** Dealing Flop ** :  [ 5h, 6d, 3s ]
+** Dealing Turn ** :  [ 5s ]
+** Dealing River ** :  [ 3h ]
+Creating Main Pot with $3500 with Bordeaux77
+** Summary **
+Main Pot: 3500
+Board: [ 5h 6d 3s 5s 3h  ]
+
+hunttiw balance 5880, lost 200 (folded)
+shankar333 balance 14120, bet 1650, collected 3500, net +1850 [ Ac 3d ] [ a full house, Threes full of Fives -- 5h,5s,3d,3s,3h ]
+Bordeaux77 balance 0, lost 1650 [ As 7h ] [ two pairs, Fives and Threes -- As,5h,5s,3s,3h ]
+
+***** Hand History for Game 6014765281 *****
+Bordeaux77 finished in 3 place and won $10.
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 17:02:54 EDT 2007
+Table Table  126586 (Real Money) -- Seat 1 is the button
+Total number of players : 2
+Seat 1: hunttiw (5880)
+Seat 2: shankar333 (14120)
+hunttiw  posts small blind (100)
+shankar333  posts big blind (200)
+** Dealing down cards **
+hunttiw calls (100)
+shankar333 checks.
+** Dealing Flop ** :  [ 2h, Jh, Ac ]
+shankar333 checks.
+hunttiw bets (600)
+shankar333 calls (600)
+** Dealing Turn ** :  [ 6h ]
+shankar333 checks.
+hunttiw checks.
+** Dealing River ** :  [ 3c ]
+shankar333 checks.
+hunttiw checks.
+** Summary **
+Main Pot: 1600
+Board: [ 2h Jh Ac 6h 3c  ]
+
+hunttiw balance 6680, bet 800, collected 1600, net +800 [ 2c 4h ] [ a pair of Twos -- Ac,Jh,6h,2c,2h ]
+shankar333 balance 13320, lost 800 [ Kc 7d ] [ high card Ace -- Ac,Kc,Jh,7d,6h ]
+
+***** Hand History for Game 6014767141 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 17:03:21 EDT 2007
+Table Table  126586 (Real Money) -- Seat 2 is the button
+Total number of players : 2
+Seat 1: hunttiw (6680)
+Seat 2: shankar333 (13320)
+shankar333  posts small blind (200)
+hunttiw  posts big blind (400)
+** Dealing down cards **
+shankar333 calls (200)
+hunttiw checks.
+** Dealing Flop ** :  [ 4d, 9c, Qh ]
+hunttiw checks.
+shankar333 bets (800)
+hunttiw folds.
+** Summary **
+Main Pot: 800
+Board: [ 4d 9c Qh  ]
+
+hunttiw balance 6280, lost 400 (folded)
+shankar333 balance 13720, bet 1200, collected 1600, net +400
+
+***** Hand History for Game 6014768026 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 17:03:34 EDT 2007
+Table Table  126586 (Real Money) -- Seat 1 is the button
+Total number of players : 2
+Seat 1: hunttiw (6280)
+Seat 2: shankar333 (13720)
+hunttiw  posts small blind (200)
+shankar333  posts big blind (400)
+** Dealing down cards **
+hunttiw folds.
+** Summary **
+Main Pot: 400
+
+hunttiw balance 6080, lost 200 (folded)
+shankar333 balance 13920, bet 400, collected 600, net +200
+
+***** Hand History for Game 6014768582 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 17:03:42 EDT 2007
+Table Table  126586 (Real Money) -- Seat 2 is the button
+Total number of players : 2
+Seat 1: hunttiw (6080)
+Seat 2: shankar333 (13920)
+shankar333  posts small blind (200)
+hunttiw  posts big blind (400)
+** Dealing down cards **
+shankar333 folds.
+** Summary **
+Main Pot: 400
+
+hunttiw balance 6280, bet 400, collected 600, net +200
+shankar333 balance 13720, lost 200 (folded)
+
+***** Hand History for Game 6014769122 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 17:03:50 EDT 2007
+Table Table  126586 (Real Money) -- Seat 1 is the button
+Total number of players : 2
+Seat 1: hunttiw (6280)
+Seat 2: shankar333 (13720)
+hunttiw  posts small blind (200)
+shankar333  posts big blind (400)
+** Dealing down cards **
+hunttiw calls (200)
+shankar333 raises (1600) to 2000
+hunttiw folds.
+** Summary **
+Main Pot: 800
+
+hunttiw balance 5880, lost 400 (folded)
+shankar333 balance 14120, bet 2000, collected 2400, net +400
+
+***** Hand History for Game 6014770024 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 17:04:04 EDT 2007
+Table Table  126586 (Real Money) -- Seat 2 is the button
+Total number of players : 2
+Seat 1: hunttiw (5880)
+Seat 2: shankar333 (14120)
+shankar333  posts small blind (200)
+hunttiw  posts big blind (400)
+** Dealing down cards **
+shankar333 calls (200)
+hunttiw checks.
+** Dealing Flop ** :  [ 9d, 2d, 9h ]
+hunttiw bets (1600)
+shankar333 folds.
+** Summary **
+Main Pot: 800
+Board: [ 9d 2d 9h  ]
+
+hunttiw balance 6280, bet 2000, collected 2400, net +400
+shankar333 balance 13720, lost 400 (folded)
+
+***** Hand History for Game 6014771217 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 17:04:21 EDT 2007
+Table Table  126586 (Real Money) -- Seat 1 is the button
+Total number of players : 2
+Seat 1: hunttiw (6280)
+Seat 2: shankar333 (13720)
+hunttiw  posts small blind (200)
+shankar333  posts big blind (400)
+** Dealing down cards **
+hunttiw raises (1000) to 1200
+shankar333 calls (800)
+** Dealing Flop ** :  [ 4s, Jd, 4c ]
+shankar333 checks.
+hunttiw checks.
+** Dealing Turn ** :  [ Qs ]
+shankar333 checks.
+hunttiw bets (1200)
+shankar333 folds.
+** Summary **
+Main Pot: 2400
+Board: [ 4s Jd 4c Qs  ]
+
+hunttiw balance 7480, bet 2400, collected 3600, net +1200
+shankar333 balance 12520, lost 1200 (folded)
+
+***** Hand History for Game 6014772607 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 17:04:42 EDT 2007
+Table Table  126586 (Real Money) -- Seat 2 is the button
+Total number of players : 2
+Seat 1: hunttiw (7480)
+Seat 2: shankar333 (12520)
+shankar333  posts small blind (200)
+hunttiw  posts big blind (400)
+** Dealing down cards **
+shankar333 calls (200)
+hunttiw checks.
+** Dealing Flop ** :  [ 9h, Kc, 3c ]
+hunttiw checks.
+shankar333 bets (800)
+hunttiw raises (1600) to 1600
+shankar333 calls (800)
+** Dealing Turn ** :  [ Js ]
+hunttiw bets (1200)
+shankar333 folds.
+** Summary **
+Main Pot: 4000
+Board: [ 9h Kc 3c Js  ]
+
+hunttiw balance 9480, bet 3200, collected 5200, net +2000
+shankar333 balance 10520, lost 2000 (folded)
+
+***** Hand History for Game 6014774382 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 17:05:08 EDT 2007
+Table Table  126586 (Real Money) -- Seat 1 is the button
+Total number of players : 2
+Seat 1: hunttiw (9480)
+Seat 2: shankar333 (10520)
+hunttiw  posts small blind (200)
+shankar333  posts big blind (400)
+** Dealing down cards **
+hunttiw raises (600) to 800
+shankar333 raises (10120) to 10520
+shankar333 is all-In.
+hunttiw folds.
+Creating Main Pot with $1600 with shankar333
+** Summary **
+Main Pot: 1600
+
+hunttiw balance 8680, lost 800 (folded)
+shankar333 balance 11320, bet 10520, collected 11320, net +800
+
+***** Hand History for Game 6014775325 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 17:05:21 EDT 2007
+Table Table  126586 (Real Money) -- Seat 2 is the button
+Total number of players : 2
+Seat 1: hunttiw (8680)
+Seat 2: shankar333 (11320)
+shankar333  posts small blind (200)
+hunttiw  posts big blind (400)
+** Dealing down cards **
+shankar333 raises (600) to 800
+hunttiw calls (400)
+** Dealing Flop ** :  [ 9c, 7c, Td ]
+hunttiw checks.
+shankar333 checks.
+** Dealing Turn ** :  [ Ad ]
+hunttiw checks.
+shankar333 bets (1600)
+hunttiw folds.
+** Summary **
+Main Pot: 1600
+Board: [ 9c 7c Td Ad  ]
+
+hunttiw balance 7880, lost 800 (folded)
+shankar333 balance 12120, bet 2400, collected 3200, net +800
+
+***** Hand History for Game 6014776538 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 17:05:39 EDT 2007
+Table Table  126586 (Real Money) -- Seat 1 is the button
+Total number of players : 2
+Seat 1: hunttiw (7880)
+Seat 2: shankar333 (12120)
+hunttiw  posts small blind (200)
+shankar333  posts big blind (400)
+** Dealing down cards **
+hunttiw calls (200)
+shankar333 checks.
+** Dealing Flop ** :  [ 6h, 9c, 3c ]
+shankar333 bets (400)
+hunttiw raises (1600) to 1600
+shankar333 raises (11320) to 11720
+shankar333 is all-In.
+hunttiw folds.
+Creating Main Pot with $4000 with shankar333
+** Summary **
+Main Pot: 4000
+Board: [ 6h 9c 3c  ]
+
+hunttiw balance 5880, lost 2000 (folded)
+shankar333 balance 14120, bet 12120, collected 14120, net +2000
+
+***** Hand History for Game 6014778386 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 17:06:07 EDT 2007
+Table Table  126586 (Real Money) -- Seat 2 is the button
+Total number of players : 2
+Seat 1: hunttiw (5880)
+Seat 2: shankar333 (14120)
+shankar333  posts small blind (200)
+hunttiw  posts big blind (400)
+** Dealing down cards **
+shankar333 folds.
+** Summary **
+Main Pot: 400
+
+hunttiw balance 6080, bet 400, collected 600, net +200
+shankar333 balance 13920, lost 200 (folded)
+
+***** Hand History for Game 6014778925 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 17:06:15 EDT 2007
+Table Table  126586 (Real Money) -- Seat 1 is the button
+Total number of players : 2
+Seat 1: hunttiw (6080)
+Seat 2: shankar333 (13920)
+hunttiw  posts small blind (200)
+shankar333  posts big blind (400)
+** Dealing down cards **
+hunttiw calls (200)
+shankar333 checks.
+** Dealing Flop ** :  [ 4h, Ts, Tc ]
+shankar333 checks.
+hunttiw bets (1600)
+shankar333 calls (1600)
+** Dealing Turn ** :  [ 3h ]
+shankar333 checks.
+hunttiw bets (2000)
+shankar333 folds.
+** Summary **
+Main Pot: 4000
+Board: [ 4h Ts Tc 3h  ]
+
+hunttiw balance 8080, bet 4000, collected 6000, net +2000
+shankar333 balance 11920, lost 2000 (folded)
+
+***** Hand History for Game 6014780618 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 17:06:40 EDT 2007
+Table Table  126586 (Real Money) -- Seat 2 is the button
+Total number of players : 2
+Seat 1: hunttiw (8080)
+Seat 2: shankar333 (11920)
+shankar333  posts small blind (200)
+hunttiw  posts big blind (400)
+** Dealing down cards **
+shankar333 folds.
+** Summary **
+Main Pot: 400
+
+hunttiw balance 8280, bet 400, collected 600, net +200
+shankar333 balance 11720, lost 200 (folded)
+
+***** Hand History for Game 6014781163 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 17:06:48 EDT 2007
+Table Table  126586 (Real Money) -- Seat 1 is the button
+Total number of players : 2
+Seat 1: hunttiw (8280)
+Seat 2: shankar333 (11720)
+hunttiw  posts small blind (200)
+shankar333  posts big blind (400)
+** Dealing down cards **
+hunttiw calls (200)
+shankar333 raises (400) to 800
+hunttiw calls (400)
+** Dealing Flop ** :  [ 3h, 9h, 3d ]
+shankar333 bets (3600)
+hunttiw folds.
+** Summary **
+Main Pot: 1600
+Board: [ 3h 9h 3d  ]
+
+hunttiw balance 7480, lost 800 (folded)
+shankar333 balance 12520, bet 4400, collected 5200, net +800
+
+***** Hand History for Game 6014782115 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 17:07:03 EDT 2007
+Table Table  126586 (Real Money) -- Seat 2 is the button
+Total number of players : 2
+Seat 1: hunttiw (7480)
+Seat 2: shankar333 (12520)
+shankar333  posts small blind (200)
+hunttiw  posts big blind (400)
+** Dealing down cards **
+shankar333 calls (200)
+hunttiw checks.
+** Dealing Flop ** :  [ Ac, Tc, 3d ]
+hunttiw checks.
+shankar333 checks.
+** Dealing Turn ** :  [ Ks ]
+hunttiw bets (400)
+shankar333 calls (400)
+** Dealing River ** :  [ 5d ]
+hunttiw checks.
+shankar333 checks.
+** Summary **
+Main Pot: 1600
+Board: [ Ac Tc 3d Ks 5d  ]
+
+hunttiw balance 8280, bet 800, collected 1600, net +800 [ 7h 6s ] [ high card Ace with Six kicker -- Ac,Ks,Tc,7h,6s ]
+
+shankar333 balance 11720, lost 800 [Didn't Show]
+
+***** Hand History for Game 6014784130 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 17:07:33 EDT 2007
+Table Table  126586 (Real Money) -- Seat 1 is the button
+Total number of players : 2
+Seat 1: hunttiw (8280)
+Seat 2: shankar333 (11720)
+hunttiw  posts small blind (200)
+shankar333  posts big blind (400)
+** Dealing down cards **
+shankar333: lol
+hunttiw raises (600) to 800
+shankar333: n1
+shankar333 calls (400)
+** Dealing Flop ** :  [ 8s, 8c, 4h ]
+shankar333 checks.
+hunttiw bets (800)
+shankar333 calls (800)
+** Dealing Turn ** :  [ Jc ]
+shankar333 checks.
+hunttiw bets (6680)
+hunttiw is all-In.
+shankar333 folds.
+Creating Main Pot with $3200 with hunttiw
+** Summary **
+Main Pot: 3200
+Board: [ 8s 8c 4h Jc  ]
+
+hunttiw balance 9880, bet 8280, collected 9880, net +1600
+shankar333 balance 10120, lost 1600 (folded)
+
+***** Hand History for Game 6014786632 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 17:08:10 EDT 2007
+Table Table  126586 (Real Money) -- Seat 2 is the button
+Total number of players : 2
+Seat 1: hunttiw (9880)
+Seat 2: shankar333 (10120)
+shankar333  posts small blind (200)
+hunttiw  posts big blind (400)
+** Dealing down cards **
+shankar333 calls (200)
+hunttiw checks.
+** Dealing Flop ** :  [ 6h, 8d, 7d ]
+hunttiw bets (1200)
+shankar333 raises (9720) to 9720
+shankar333 is all-In.
+hunttiw folds.
+Creating Main Pot with $3200 with shankar333
+** Summary **
+Main Pot: 3200
+Board: [ 6h 8d 7d  ]
+
+hunttiw balance 8280, lost 1600 (folded)
+shankar333 balance 11720, bet 10120, collected 11720, net +1600
+
+***** Hand History for Game 6014788039 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 17:08:32 EDT 2007
+Table Table  126586 (Real Money) -- Seat 1 is the button
+Total number of players : 2
+Seat 1: hunttiw (8280)
+Seat 2: shankar333 (11720)
+hunttiw  posts small blind (200)
+shankar333  posts big blind (400)
+** Dealing down cards **
+hunttiw folds.
+** Summary **
+Main Pot: 400
+
+hunttiw balance 8080, lost 200 (folded)
+shankar333 balance 11920, bet 400, collected 600, net +200
+
+***** Hand History for Game 6014788772 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33685891)  - Tue May 29 17:08:43 EDT 2007
+Table Table  126586 (Real Money) -- Seat 2 is the button
+Total number of players : 2
+Seat 1: hunttiw (8080)
+Seat 2: shankar333 (11920)
+shankar333  posts small blind (200)
+hunttiw  posts big blind (400)
+** Dealing down cards **
+shankar333 raises (11720) to 11920
+shankar333 is all-In.
+hunttiw calls (7680)
+hunttiw is all-In.
+** Dealing Flop ** :  [ Js, Ac, Qs ]
+** Dealing Turn ** :  [ 5h ]
+** Dealing River ** :  [ 5s ]
+Creating Main Pot with $16160 with hunttiw
+** Summary **
+Main Pot: 16160
+Board: [ Js Ac Qs 5h 5s  ]
+
+hunttiw balance 0, lost 8080 [ Kd Ks ] [ two pairs, Kings and Fives -- Ac,Kd,Ks,5h,5s ]
+shankar333 balance 20000, bet 11920, collected 20000, net +8080 [ Ad 2h ] [ two pairs, Aces and Fives -- Ad,Ac,Qs,5h,5s ]
+
+
+

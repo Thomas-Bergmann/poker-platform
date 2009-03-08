@@ -1,0 +1,2379 @@
+
+Hello hatoka,
+These hand histories are provided to you as an aid for your training and development. You are not permitted to share them with anyone.  We reserve the right to cease providing them or apply further restrictions at any time.
+Complete hand histories are only available to players that participated in the hand.
+You requested a transcript of Tournament #33994983.
+
+Summary
+----------
+Played on    : 16 June 2007 04:08 PM
+On Table     : Speed #1330091
+Game Type    : Texas Holdem
+Buy-In       : $5
+Fee          : $1
+You finished in  position 8
+1st place - SirMazeman -  $25
+2nd place - simon110873 -  $15
+3rd place - LayZP -  $10
+
+***** Hand History for Game 6068419924 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33994983)  - Sat Jun 16 16:08:46 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 4 is the button
+Total number of players : 10
+Seat 1: SirMazeman (2000)
+Seat 2: Floyd2K (2000)
+Seat 3: brianboud (2000)
+Seat 4: LayZP (2000)
+Seat 5: mariocal (2000)
+Seat 6: Jetlonestar (2000)
+Seat 7: prussien (2000)
+Seat 8: simon110873 (2000)
+Seat 9: hatoka (2000)
+Seat 10: maverikas (2000)
+mariocal  posts small blind (20)
+Jetlonestar  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 7h, Qh ]
+prussien could not respond in time.(disconnected)
+prussien folds.
+simon110873 folds.
+hatoka calls (40)
+maverikas folds.
+SirMazeman calls (40)
+Floyd2K calls (40)
+brianboud calls (40)
+LayZP calls (40)
+mariocal calls (20)
+Jetlonestar checks.
+** Dealing Flop ** :  [ 2s, 3d, Ah ]
+mariocal bets (160)
+Jetlonestar folds.
+hatoka folds.
+SirMazeman folds.
+Floyd2K calls (160)
+brianboud folds.
+LayZP folds.
+** Dealing Turn ** :  [ Qc ]
+mariocal bets (160)
+Floyd2K calls (160)
+** Dealing River ** :  [ 9s ]
+mariocal bets (160)
+Floyd2K calls (160)
+** Summary **
+Main Pot: 1240
+Board: [ 2s 3d Ah Qc 9s  ]
+
+SirMazeman balance 1960, lost 40 (folded)
+Floyd2K balance 1480, lost 520 [ Jh 3h ] [ a pair of Threes -- Ah,Qc,Jh,3h,3d ]
+
+brianboud balance 1960, lost 40 (folded)
+LayZP balance 1960, lost 40 (folded)
+mariocal balance 2720, bet 520, collected 1240, net +720 [ 8h Ad ] [ a pair of Aces -- Ad,Ah,Qc,9s,8h ]
+Jetlonestar balance 1960, lost 40 (folded)
+prussien balance 2000, didn't bet (folded)
+simon110873 balance 2000, didn't bet (folded)
+hatoka balance 1960, lost 40 (folded)
+maverikas balance 2000, didn't bet (folded)
+
+***** Hand History for Game 6068423363 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33994983)  - Sat Jun 16 16:09:50 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 5 is the button
+Total number of players : 10
+Seat 1: SirMazeman (1960)
+Seat 2: Floyd2K (1480)
+Seat 3: brianboud (1960)
+Seat 4: LayZP (1960)
+Seat 5: mariocal (2720)
+Seat 6: Jetlonestar (1960)
+Seat 7: prussien (2000)
+Seat 8: simon110873 (2000)
+Seat 9: hatoka (1960)
+Seat 10: maverikas (2000)
+Jetlonestar  posts small blind (20)
+prussien  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 7h, Js ]
+simon110873 folds.
+hatoka folds.
+maverikas folds.
+SirMazeman calls (40)
+Floyd2K calls (40)
+brianboud calls (40)
+LayZP folds.
+mariocal calls (40)
+Jetlonestar calls (20)
+prussien folds.
+** Dealing Flop ** :  [ Qc, 6c, 6s ]
+Jetlonestar bets (120)
+SirMazeman raises (240) to 240
+Floyd2K folds.
+brianboud folds.
+mariocal folds.
+Jetlonestar calls (120)
+** Dealing Turn ** :  [ As ]
+Jetlonestar checks.
+SirMazeman checks.
+** Dealing River ** :  [ 9c ]
+Jetlonestar checks.
+SirMazeman bets (250)
+Jetlonestar calls (250)
+** Summary **
+Main Pot: 1220
+Board: [ Qc 6c 6s As 9c  ]
+
+SirMazeman balance 2650, bet 530, collected 1220, net +690 [ 6d Qs ] [ a full house, Sixes full of Queens -- Qs,Qc,6d,6c,6s ]
+Floyd2K balance 1440, lost 40 (folded)
+brianboud balance 1920, lost 40 (folded)
+LayZP balance 1960, didn't bet (folded)
+mariocal balance 2680, lost 40 (folded)
+Jetlonestar balance 1430, lost 530 [ Qd Ks ] [ two pairs, Queens and Sixes -- As,Qd,Qc,6c,6s ]
+prussien balance 1960, lost 40 (folded)
+simon110873 balance 2000, didn't bet (folded)
+hatoka balance 1960, didn't bet (folded)
+maverikas balance 2000, didn't bet (folded)
+
+***** Hand History for Game 6068426258 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33994983)  - Sat Jun 16 16:10:40 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 6 is the button
+Total number of players : 10
+Seat 1: SirMazeman (2650)
+Seat 2: Floyd2K (1440)
+Seat 3: brianboud (1920)
+Seat 4: LayZP (1960)
+Seat 5: mariocal (2680)
+Seat 6: Jetlonestar (1430)
+Seat 7: prussien (1960)
+Seat 8: simon110873 (2000)
+Seat 9: hatoka (1960)
+Seat 10: maverikas (2000)
+prussien  posts small blind (20)
+simon110873  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 9d, 3s ]
+hatoka folds.
+maverikas folds.
+SirMazeman calls (40)
+Floyd2K folds.
+brianboud calls (40)
+LayZP folds.
+mariocal folds.
+Jetlonestar calls (40)
+prussien folds.
+simon110873 checks.
+** Dealing Flop ** :  [ 4d, Ks, 2d ]
+simon110873 checks.
+SirMazeman checks.
+brianboud checks.
+Jetlonestar bets (180)
+simon110873 folds.
+SirMazeman folds.
+brianboud folds.
+** Summary **
+Main Pot: 180
+Board: [ 4d Ks 2d  ]
+
+SirMazeman balance 2610, lost 40 (folded)
+Floyd2K balance 1440, didn't bet (folded)
+brianboud balance 1880, lost 40 (folded)
+LayZP balance 1960, didn't bet (folded)
+mariocal balance 2680, didn't bet (folded)
+Jetlonestar balance 1570, bet 220, collected 360, net +140 [ Kd 9s ] [ a pair of Kings -- Kd,Ks,9s,4d,2d ]
+prussien balance 1940, lost 20 (folded)
+simon110873 balance 1960, lost 40 (folded)
+hatoka balance 1960, didn't bet (folded)
+maverikas balance 2000, didn't bet (folded)
+
+***** Hand History for Game 6068428191 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33994983)  - Sat Jun 16 16:11:12 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 7 is the button
+Total number of players : 10
+Seat 1: SirMazeman (2610)
+Seat 2: Floyd2K (1440)
+Seat 3: brianboud (1880)
+Seat 4: LayZP (1960)
+Seat 5: mariocal (2680)
+Seat 6: Jetlonestar (1570)
+Seat 7: prussien (1940)
+Seat 8: simon110873 (1960)
+Seat 9: hatoka (1960)
+Seat 10: maverikas (2000)
+simon110873  posts small blind (20)
+hatoka  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 8s, Th ]
+maverikas folds.
+SirMazeman calls (40)
+Floyd2K folds.
+brianboud raises (80) to 80
+LayZP folds.
+mariocal raises (200) to 200
+Jetlonestar folds.
+prussien folds.
+simon110873 folds.
+hatoka folds.
+SirMazeman folds.
+brianboud calls (120)
+** Dealing Flop ** :  [ 4c, Jc, Kc ]
+brianboud checks.
+mariocal bets (240)
+brianboud raises (480) to 480
+mariocal folds.
+** Summary **
+Main Pot: 980
+Board: [ 4c Jc Kc  ]
+
+SirMazeman balance 2570, lost 40 (folded)
+Floyd2K balance 1440, didn't bet (folded)
+brianboud balance 2420, bet 680, collected 1220, net +540
+LayZP balance 1960, didn't bet (folded)
+mariocal balance 2240, lost 440 (folded)
+Jetlonestar balance 1570, didn't bet (folded)
+prussien balance 1940, didn't bet (folded)
+simon110873 balance 1940, lost 20 (folded)
+hatoka balance 1920, lost 40 (folded)
+maverikas balance 2000, didn't bet (folded)
+
+***** Hand History for Game 6068430591 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33994983)  - Sat Jun 16 16:11:54 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 8 is the button
+Total number of players : 10
+Seat 1: SirMazeman (2570)
+Seat 2: Floyd2K (1440)
+Seat 3: brianboud (2420)
+Seat 4: LayZP (1960)
+Seat 5: mariocal (2240)
+Seat 6: Jetlonestar (1570)
+Seat 7: prussien (1940)
+Seat 8: simon110873 (1940)
+Seat 9: hatoka (1920)
+Seat 10: maverikas (2000)
+hatoka  posts small blind (20)
+maverikas  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 4c, 7h ]
+SirMazeman raises (80) to 80
+Floyd2K calls (80)
+brianboud calls (80)
+LayZP folds.
+mariocal calls (80)
+Jetlonestar calls (80)
+prussien folds.
+simon110873 folds.
+hatoka folds.
+maverikas calls (40)
+** Dealing Flop ** :  [ As, 9c, 5d ]
+maverikas checks.
+SirMazeman checks.
+Floyd2K checks.
+brianboud bets (160)
+mariocal raises (400) to 400
+Jetlonestar folds.
+maverikas folds.
+SirMazeman folds.
+Floyd2K folds.
+brianboud folds.
+** Summary **
+Main Pot: 820
+Board: [ As 9c 5d  ]
+
+SirMazeman balance 2490, lost 80 (folded)
+Floyd2K balance 1360, lost 80 (folded)
+brianboud balance 2180, lost 240 (folded)
+LayZP balance 1960, didn't bet (folded)
+mariocal balance 2820, bet 480, collected 1060, net +580
+Jetlonestar balance 1490, lost 80 (folded)
+prussien balance 1940, didn't bet (folded)
+simon110873 balance 1940, didn't bet (folded)
+hatoka balance 1900, lost 20 (folded)
+maverikas balance 1920, lost 80 (folded)
+
+***** Hand History for Game 6068432933 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33994983)  - Sat Jun 16 16:12:35 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 9 is the button
+Total number of players : 10
+Seat 1: SirMazeman (2490)
+Seat 2: Floyd2K (1360)
+Seat 3: brianboud (2180)
+Seat 4: LayZP (1960)
+Seat 5: mariocal (2820)
+Seat 6: Jetlonestar (1490)
+Seat 7: prussien (1940)
+Seat 8: simon110873 (1940)
+Seat 9: hatoka (1900)
+Seat 10: maverikas (1920)
+maverikas  posts small blind (20)
+SirMazeman  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 2s, Kd ]
+Floyd2K folds.
+brianboud calls (40)
+LayZP folds.
+mariocal folds.
+Jetlonestar calls (40)
+prussien folds.
+simon110873 folds.
+hatoka folds.
+maverikas calls (20)
+SirMazeman checks.
+** Dealing Flop ** :  [ As, 9h, Jc ]
+maverikas checks.
+SirMazeman checks.
+brianboud checks.
+Jetlonestar bets (160)
+maverikas calls (160)
+SirMazeman folds.
+brianboud folds.
+** Dealing Turn ** :  [ 5h ]
+maverikas checks.
+Jetlonestar bets (120)
+maverikas calls (120)
+** Dealing River ** :  [ Ad ]
+maverikas bets (200)
+Jetlonestar calls (200)
+** Summary **
+Main Pot: 1120
+Board: [ As 9h Jc 5h Ad  ]
+
+SirMazeman balance 2450, lost 40 (folded)
+Floyd2K balance 1360, didn't bet (folded)
+brianboud balance 2140, lost 40 (folded)
+LayZP balance 1960, didn't bet (folded)
+mariocal balance 2820, didn't bet (folded)
+Jetlonestar balance 2090, bet 520, collected 1120, net +600 [ Ah 8c ] [ three of a kind, Aces -- Ah,As,Ad,Jc,9h ]
+prussien balance 1940, didn't bet (folded)
+simon110873 balance 1940, didn't bet (folded)
+hatoka balance 1900, didn't bet (folded)
+maverikas balance 1400, lost 520 [ Qc Kh ] [ a pair of Aces -- As,Ad,Kh,Qc,Jc ]
+
+***** Hand History for Game 6068435485 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33994983)  - Sat Jun 16 16:13:19 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 10 is the button
+Total number of players : 10
+Seat 1: SirMazeman (2450)
+Seat 2: Floyd2K (1360)
+Seat 3: brianboud (2140)
+Seat 4: LayZP (1960)
+Seat 5: mariocal (2820)
+Seat 6: Jetlonestar (2090)
+Seat 7: prussien (1940)
+Seat 8: simon110873 (1940)
+Seat 9: hatoka (1900)
+Seat 10: maverikas (1400)
+SirMazeman  posts small blind (20)
+Floyd2K  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ Js, Ah ]
+brianboud raises (400) to 400
+LayZP folds.
+mariocal folds.
+Jetlonestar calls (400)
+prussien folds.
+simon110873 folds.
+hatoka calls (400)
+maverikas folds.
+SirMazeman folds.
+Floyd2K folds.
+** Dealing Flop ** :  [ Qc, 8c, Qh ]
+brianboud bets (200)
+Jetlonestar raises (400) to 400
+hatoka folds.
+brianboud calls (200)
+** Dealing Turn ** :  [ 5s ]
+brianboud checks.
+Jetlonestar bets (500)
+brianboud raises (1340) to 1340
+brianboud is all-In.
+Jetlonestar folds.
+Creating Main Pot with $3060 with brianboud
+** Summary **
+Main Pot: 3060
+Board: [ Qc 8c Qh 5s  ]
+
+SirMazeman balance 2430, lost 20 (folded)
+Floyd2K balance 1320, lost 40 (folded)
+brianboud balance 3900, bet 2140, collected 3900, net +1760
+LayZP balance 1960, didn't bet (folded)
+mariocal balance 2820, didn't bet (folded)
+Jetlonestar balance 790, lost 1300 (folded)
+prussien balance 1940, didn't bet (folded)
+simon110873 balance 1940, didn't bet (folded)
+hatoka balance 1500, lost 400 (folded)
+maverikas balance 1400, didn't bet (folded)
+
+***** Hand History for Game 6068438138 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33994983)  - Sat Jun 16 16:14:06 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 1 is the button
+Total number of players : 10
+Seat 1: SirMazeman (2430)
+Seat 2: Floyd2K (1320)
+Seat 3: brianboud (3900)
+Seat 4: LayZP (1960)
+Seat 5: mariocal (2820)
+Seat 6: Jetlonestar (790)
+Seat 7: prussien (1940)
+Seat 8: simon110873 (1940)
+Seat 9: hatoka (1500)
+Seat 10: maverikas (1400)
+Floyd2K  posts small blind (30)
+brianboud  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 5s, 5c ]
+LayZP folds.
+mariocal folds.
+Jetlonestar folds.
+prussien folds.
+simon110873 folds.
+hatoka calls (60)
+maverikas calls (60)
+SirMazeman calls (60)
+Floyd2K calls (30)
+brianboud checks.
+** Dealing Flop ** :  [ 7h, 6d, 4h ]
+Floyd2K checks.
+brianboud checks.
+hatoka bets (150)
+maverikas folds.
+SirMazeman raises (500) to 500
+Floyd2K calls (500)
+brianboud folds.
+hatoka calls (350)
+** Dealing Turn ** :  [ 3c ]
+Floyd2K checks.
+hatoka bets (940)
+hatoka is all-In.
+SirMazeman folds.
+Floyd2K calls (760)
+Floyd2K is all-In.
+** Dealing River ** :  [ 9h ]
+Creating Main Pot with $3320 with Floyd2K
+** Summary **
+Main Pot: 3320
+Board: [ 7h 6d 4h 3c 9h  ]
+
+SirMazeman balance 1870, lost 560 (folded)
+Floyd2K balance 3320, bet 1320, collected 3320, net +2000 [ 5h Kh ] [ a flush, King high -- Kh,9h,7h,5h,4h ]
+brianboud balance 3840, lost 60 (folded)
+LayZP balance 1960, didn't bet (folded)
+mariocal balance 2820, didn't bet (folded)
+Jetlonestar balance 790, didn't bet (folded)
+prussien balance 1940, didn't bet (folded)
+simon110873 balance 1940, didn't bet (folded)
+hatoka balance 180, bet 1500, collected 180, lost -1320 [ 5s 5c ] [ a straight Three to Seven -- 7h,6d,5s,4h,3c ]
+maverikas balance 1340, lost 60 (folded)
+
+***** Hand History for Game 6068442001 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33994983)  - Sat Jun 16 16:15:14 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 2 is the button
+Total number of players : 10
+Seat 1: SirMazeman (1870)
+Seat 2: Floyd2K (3320)
+Seat 3: brianboud (3840)
+Seat 4: LayZP (1960)
+Seat 5: mariocal (2820)
+Seat 6: Jetlonestar (790)
+Seat 7: prussien (1940)
+Seat 8: simon110873 (1940)
+Seat 9: hatoka (180)
+Seat 10: maverikas (1340)
+brianboud  posts small blind (30)
+LayZP  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 3h, 6h ]
+mariocal folds.
+Jetlonestar folds.
+prussien folds.
+simon110873 folds.
+hatoka folds.
+maverikas folds.
+SirMazeman folds.
+Floyd2K folds.
+brianboud calls (30)
+LayZP checks.
+** Dealing Flop ** :  [ Qh, 2d, Qc ]
+brianboud bets (60)
+LayZP calls (60)
+** Dealing Turn ** :  [ Jd ]
+brianboud bets (60)
+LayZP raises (120) to 120
+brianboud calls (60)
+** Dealing River ** :  [ Th ]
+brianboud bets (60)
+LayZP raises (240) to 240
+brianboud folds.
+** Summary **
+Main Pot: 600
+Board: [ Qh 2d Qc Jd Th  ]
+
+SirMazeman balance 1870, didn't bet (folded)
+Floyd2K balance 3320, didn't bet (folded)
+brianboud balance 3540, lost 300 (folded)
+LayZP balance 2260, bet 480, collected 780, net +300
+mariocal balance 2820, didn't bet (folded)
+Jetlonestar balance 790, didn't bet (folded)
+prussien balance 1940, didn't bet (folded)
+simon110873 balance 1940, didn't bet (folded)
+hatoka balance 180, didn't bet (folded)
+maverikas balance 1340, didn't bet (folded)
+
+***** Hand History for Game 6068444102 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33994983)  - Sat Jun 16 16:15:50 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 3 is the button
+Total number of players : 10
+Seat 1: SirMazeman (1870)
+Seat 2: Floyd2K (3320)
+Seat 3: brianboud (3540)
+Seat 4: LayZP (2260)
+Seat 5: mariocal (2820)
+Seat 6: Jetlonestar (790)
+Seat 7: prussien (1940)
+Seat 8: simon110873 (1940)
+Seat 9: hatoka (180)
+Seat 10: maverikas (1340)
+LayZP  posts small blind (30)
+mariocal  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 2c, Jc ]
+Jetlonestar folds.
+prussien folds.
+simon110873 folds.
+hatoka raises (180) to 180
+hatoka is all-In.
+maverikas calls (180)
+SirMazeman folds.
+Floyd2K calls (180)
+brianboud calls (180)
+LayZP folds.
+mariocal folds.
+Creating Main Pot with $810 with hatoka
+** Dealing Flop ** :  [ Qh, Js, 4h ]
+maverikas checks.
+Floyd2K checks.
+brianboud bets (600)
+maverikas folds.
+Floyd2K folds.
+** Dealing Turn ** :  [ 2d ]
+** Dealing River ** :  [ Ks ]
+** Summary **
+Main Pot: 810
+Board: [ Qh Js 4h 2d Ks  ]
+
+SirMazeman balance 1870, didn't bet (folded)
+Floyd2K balance 3140, lost 180 (folded)
+brianboud balance 3360, bet 780, collected 600, lost -180 [ 7d 6h ] [ high card King -- Ks,Qh,Js,7d,6h ]
+LayZP balance 2230, lost 30 (folded)
+mariocal balance 2760, lost 60 (folded)
+Jetlonestar balance 790, didn't bet (folded)
+prussien balance 1940, didn't bet (folded)
+simon110873 balance 1940, didn't bet (folded)
+hatoka balance 810, bet 180, collected 810, net +630 [ 2c Jc ] [ two pairs, Jacks and Twos -- Ks,Jc,Js,2c,2d ]
+maverikas balance 1160, lost 180 (folded)
+
+***** Hand History for Game 6068446802 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33994983)  - Sat Jun 16 16:16:37 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 4 is the button
+Total number of players : 10
+Seat 1: SirMazeman (1870)
+Seat 2: Floyd2K (3140)
+Seat 3: brianboud (3360)
+Seat 4: LayZP (2230)
+Seat 5: mariocal (2760)
+Seat 6: Jetlonestar (790)
+Seat 7: prussien (1940)
+Seat 8: simon110873 (1940)
+Seat 9: hatoka (810)
+Seat 10: maverikas (1160)
+mariocal  posts small blind (30)
+Jetlonestar  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 6h, 8s ]
+prussien folds.
+simon110873 folds.
+hatoka folds.
+maverikas folds.
+SirMazeman raises (120) to 120
+Floyd2K folds.
+brianboud calls (120)
+LayZP folds.
+mariocal folds.
+Jetlonestar calls (60)
+** Dealing Flop ** :  [ 6d, 9d, Ah ]
+Jetlonestar checks.
+SirMazeman bets (250)
+brianboud raises (3240) to 3240
+brianboud is all-In.
+Jetlonestar folds.
+SirMazeman calls (1500)
+SirMazeman is all-In.
+** Dealing Turn ** :  [ 4h ]
+** Dealing River ** :  [ 6s ]
+Creating Main Pot with $3890 with SirMazeman
+** Summary **
+Main Pot: 3890
+Board: [ 6d 9d Ah 4h 6s  ]
+
+SirMazeman balance 1945, bet 1870, collected 1945, net +75 [ Ad 4d ] [ two pairs, Aces and Sixes -- Ad,Ah,9d,6d,6s ]
+Floyd2K balance 3140, didn't bet (folded)
+brianboud balance 3435, bet 3360, collected 3435, net +75 [ 5s As ] [ two pairs, Aces and Sixes -- As,Ah,9d,6d,6s ]
+LayZP balance 2230, didn't bet (folded)
+mariocal balance 2730, lost 30 (folded)
+Jetlonestar balance 670, lost 120 (folded)
+prussien balance 1940, didn't bet (folded)
+simon110873 balance 1940, didn't bet (folded)
+hatoka balance 810, didn't bet (folded)
+maverikas balance 1160, didn't bet (folded)
+
+***** Hand History for Game 6068449160 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33994983)  - Sat Jun 16 16:17:17 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 5 is the button
+Total number of players : 10
+Seat 1: SirMazeman (1945)
+Seat 2: Floyd2K (3140)
+Seat 3: brianboud (3435)
+Seat 4: LayZP (2230)
+Seat 5: mariocal (2730)
+Seat 6: Jetlonestar (670)
+Seat 7: prussien (1940)
+Seat 8: simon110873 (1940)
+Seat 9: hatoka (810)
+Seat 10: maverikas (1160)
+Jetlonestar  posts small blind (30)
+prussien  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Th, Qh ]
+simon110873 folds.
+hatoka raises (810) to 810
+hatoka is all-In.
+maverikas folds.
+SirMazeman folds.
+Floyd2K folds.
+brianboud folds.
+LayZP folds.
+mariocal folds.
+Jetlonestar folds.
+prussien folds.
+Creating Main Pot with $150 with hatoka
+** Summary **
+Main Pot: 150
+
+SirMazeman balance 1945, didn't bet (folded)
+Floyd2K balance 3140, didn't bet (folded)
+brianboud balance 3435, didn't bet (folded)
+LayZP balance 2230, didn't bet (folded)
+mariocal balance 2730, didn't bet (folded)
+Jetlonestar balance 640, lost 30 (folded)
+prussien balance 1880, lost 60 (folded)
+simon110873 balance 1940, didn't bet (folded)
+hatoka balance 900, bet 810, collected 900, net +90
+maverikas balance 1160, didn't bet (folded)
+
+***** Hand History for Game 6068451141 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33994983)  - Sat Jun 16 16:17:52 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 6 is the button
+Total number of players : 10
+Seat 1: SirMazeman (1945)
+Seat 2: Floyd2K (3140)
+Seat 3: brianboud (3435)
+Seat 4: LayZP (2230)
+Seat 5: mariocal (2730)
+Seat 6: Jetlonestar (640)
+Seat 7: prussien (1880)
+Seat 8: simon110873 (1940)
+Seat 9: hatoka (900)
+Seat 10: maverikas (1160)
+prussien  posts small blind (30)
+simon110873  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Kd, Kc ]
+hatoka raises (300) to 300
+maverikas folds.
+SirMazeman folds.
+Floyd2K folds.
+brianboud raises (3435) to 3435
+brianboud is all-In.
+LayZP folds.
+mariocal folds.
+Jetlonestar calls (640)
+Jetlonestar is all-In.
+prussien folds.
+simon110873 folds.
+hatoka calls (600)
+hatoka is all-In.
+** Dealing Flop ** :  [ 9c, 7h, 7s ]
+** Dealing Turn ** :  [ 6c ]
+** Dealing River ** :  [ 3d ]
+Creating Main Pot with $2010 with Jetlonestar
+Creating Side Pot 1 with $520 with hatoka
+** Summary **
+Main Pot: 2010 | Side Pot 1: 520
+Board: [ 9c 7h 7s 6c 3d  ]
+
+SirMazeman balance 1945, didn't bet (folded)
+Floyd2K balance 3140, didn't bet (folded)
+brianboud balance 2535, bet 3435, collected 2535, lost -900 [ 3s Ts ] [ two pairs, Sevens and Threes -- Ts,7h,7s,3s,3d ]
+LayZP balance 2230, didn't bet (folded)
+mariocal balance 2730, didn't bet (folded)
+Jetlonestar balance 0, lost 640 [ Qd Qc ] [ two pairs, Queens and Sevens -- Qd,Qc,9c,7h,7s ]
+prussien balance 1850, lost 30 (folded)
+simon110873 balance 1880, lost 60 (folded)
+hatoka balance 2530, bet 900, collected 2530, net +1630 [ Kd Kc ] [ two pairs, Kings and Sevens -- Kd,Kc,9c,7h,7s ]
+maverikas balance 1160, didn't bet (folded)
+
+***** Hand History for Game 6068453047 *****
+Jetlonestar finished in 10 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33994983)  - Sat Jun 16 16:18:25 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 7 is the button
+Total number of players : 9
+Seat 1: SirMazeman (1945)
+Seat 2: Floyd2K (3140)
+Seat 3: brianboud (2535)
+Seat 4: LayZP (2230)
+Seat 5: mariocal (2730)
+Seat 7: prussien (1850)
+Seat 8: simon110873 (1880)
+Seat 9: hatoka (2530)
+Seat 10: maverikas (1160)
+simon110873  posts small blind (30)
+hatoka  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 4s, Kd ]
+maverikas folds.
+SirMazeman calls (60)
+Floyd2K folds.
+brianboud raises (300) to 300
+LayZP raises (2230) to 2230
+LayZP is all-In.
+mariocal folds.
+prussien folds.
+simon110873 folds.
+hatoka folds.
+SirMazeman folds.
+brianboud calls (1930)
+** Dealing Flop ** :  [ Kh, Qc, Qd ]
+** Dealing Turn ** :  [ 5s ]
+** Dealing River ** :  [ Tc ]
+Creating Main Pot with $4610 with LayZP
+** Summary **
+Main Pot: 4610
+Board: [ Kh Qc Qd 5s Tc  ]
+
+SirMazeman balance 1885, lost 60 (folded)
+Floyd2K balance 3140, didn't bet (folded)
+brianboud balance 305, lost 2230 [ Td 6d ] [ two pairs, Queens and Tens -- Kh,Qc,Qd,Td,Tc ]
+LayZP balance 4610, bet 2230, collected 4610, net +2380 [ Ad Ks ] [ two pairs, Kings and Queens -- Ad,Ks,Kh,Qc,Qd ]
+mariocal balance 2730, didn't bet (folded)
+prussien balance 1850, didn't bet (folded)
+simon110873 balance 1850, lost 30 (folded)
+hatoka balance 2470, lost 60 (folded)
+maverikas balance 1160, didn't bet (folded)
+
+***** Hand History for Game 6068454685 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33994983)  - Sat Jun 16 16:18:54 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 8 is the button
+Total number of players : 9
+Seat 1: SirMazeman (1885)
+Seat 2: Floyd2K (3140)
+Seat 3: brianboud (305)
+Seat 4: LayZP (4610)
+Seat 5: mariocal (2730)
+Seat 7: prussien (1850)
+Seat 8: simon110873 (1850)
+Seat 9: hatoka (2470)
+Seat 10: maverikas (1160)
+hatoka  posts small blind (30)
+maverikas  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 9c, 7h ]
+SirMazeman folds.
+Floyd2K folds.
+brianboud raises (305) to 305
+brianboud is all-In.
+LayZP folds.
+mariocal folds.
+prussien folds.
+simon110873 calls (305)
+hatoka folds.
+maverikas folds.
+** Dealing Flop ** :  [ 9h, 5d, 2d ]
+** Dealing Turn ** :  [ 3d ]
+** Dealing River ** :  [ 2c ]
+Creating Main Pot with $700 with brianboud
+** Summary **
+Main Pot: 700
+Board: [ 9h 5d 2d 3d 2c  ]
+
+SirMazeman balance 1885, didn't bet (folded)
+Floyd2K balance 3140, didn't bet (folded)
+brianboud balance 700, bet 305, collected 700, net +395 [ 9d 4d ] [ a flush, Nine high -- 9d,5d,4d,3d,2d ]
+LayZP balance 4610, didn't bet (folded)
+mariocal balance 2730, didn't bet (folded)
+prussien balance 1850, didn't bet (folded)
+simon110873 balance 1545, lost 305 [ Ac 7c ] [ a pair of Twos -- Ac,9h,7c,2d,2c ]
+hatoka balance 2440, lost 30 (folded)
+maverikas balance 1100, lost 60 (folded)
+
+***** Hand History for Game 6068456107 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33994983)  - Sat Jun 16 16:19:18 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 9 is the button
+Total number of players : 9
+Seat 1: SirMazeman (1885)
+Seat 2: Floyd2K (3140)
+Seat 3: brianboud (700)
+Seat 4: LayZP (4610)
+Seat 5: mariocal (2730)
+Seat 7: prussien (1850)
+Seat 8: simon110873 (1545)
+Seat 9: hatoka (2440)
+Seat 10: maverikas (1100)
+maverikas  posts small blind (50)
+SirMazeman  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Tc, 5s ]
+Floyd2K calls (100)
+brianboud folds.
+LayZP folds.
+mariocal folds.
+prussien folds.
+simon110873 folds.
+hatoka folds.
+maverikas calls (50)
+SirMazeman checks.
+** Dealing Flop ** :  [ 7s, 3h, 6s ]
+maverikas checks.
+SirMazeman bets (250)
+Floyd2K calls (250)
+maverikas folds.
+** Dealing Turn ** :  [ Td ]
+SirMazeman bets (250)
+Floyd2K calls (250)
+** Dealing River ** :  [ Qs ]
+SirMazeman bets (250)
+Floyd2K calls (250)
+** Summary **
+Main Pot: 1800
+Board: [ 7s 3h 6s Td Qs  ]
+
+SirMazeman balance 2835, bet 850, collected 1800, net +950 [ 3s Js ] [ a flush, Queen high -- Qs,Js,7s,6s,3s ]
+Floyd2K balance 2290, lost 850 [ 4d 4s ] [ a pair of Fours -- Qs,Td,7s,4d,4s ]
+
+brianboud balance 700, didn't bet (folded)
+LayZP balance 4610, didn't bet (folded)
+mariocal balance 2730, didn't bet (folded)
+prussien balance 1850, didn't bet (folded)
+simon110873 balance 1545, didn't bet (folded)
+hatoka balance 2440, didn't bet (folded)
+maverikas balance 1000, lost 100 (folded)
+
+***** Hand History for Game 6068459193 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33994983)  - Sat Jun 16 16:20:12 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 10 is the button
+Total number of players : 9
+Seat 1: SirMazeman (2835)
+Seat 2: Floyd2K (2290)
+Seat 3: brianboud (700)
+Seat 4: LayZP (4610)
+Seat 5: mariocal (2730)
+Seat 7: prussien (1850)
+Seat 8: simon110873 (1545)
+Seat 9: hatoka (2440)
+Seat 10: maverikas (1000)
+SirMazeman  posts small blind (50)
+Floyd2K  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 8c, Tc ]
+brianboud calls (100)
+LayZP folds.
+mariocal folds.
+prussien folds.
+simon110873 calls (100)
+hatoka folds.
+maverikas calls (100)
+SirMazeman calls (50)
+Floyd2K checks.
+** Dealing Flop ** :  [ Ah, 2d, Jh ]
+SirMazeman checks.
+Floyd2K checks.
+brianboud bets (600)
+brianboud is all-In.
+simon110873 raises (1445) to 1445
+simon110873 is all-In.
+maverikas folds.
+SirMazeman folds.
+Floyd2K calls (1445)
+** Dealing Turn ** :  [ 2h ]
+** Dealing River ** :  [ Jd ]
+Creating Main Pot with $2300 with brianboud
+Creating Side Pot 1 with $1690 with simon110873
+** Summary **
+Main Pot: 2300 | Side Pot 1: 1690
+Board: [ Ah 2d Jh 2h Jd  ]
+
+SirMazeman balance 2735, lost 100 (folded)
+Floyd2K balance 745, lost 1545 [ As 8s ] [ two pairs, Aces and Jacks -- As,Ah,Jh,Jd,8s ]
+brianboud balance 0, lost 700 [ Th 5h ] [ a flush, Ace high -- Ah,Jh,Th,5h,2h ]
+LayZP balance 4610, didn't bet (folded)
+mariocal balance 2730, didn't bet (folded)
+prussien balance 1850, didn't bet (folded)
+simon110873 balance 3990, bet 1545, collected 3990, net +2445 [ Qc Js ] [ a full house, Jacks full of Twos -- Js,Jh,Jd,2d,2h ]
+hatoka balance 2440, didn't bet (folded)
+maverikas balance 900, lost 100 (folded)
+
+***** Hand History for Game 6068461840 *****
+brianboud finished in 9 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33994983)  - Sat Jun 16 16:20:58 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 1 is the button
+Total number of players : 8
+Seat 1: SirMazeman (2735)
+Seat 2: Floyd2K (745)
+Seat 4: LayZP (4610)
+Seat 5: mariocal (2730)
+Seat 7: prussien (1850)
+Seat 8: simon110873 (3990)
+Seat 9: hatoka (2440)
+Seat 10: maverikas (900)
+Floyd2K  posts small blind (50)
+LayZP  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 4h, Kh ]
+mariocal folds.
+prussien folds.
+simon110873 folds.
+hatoka raises (300) to 300
+maverikas folds.
+SirMazeman calls (300)
+Floyd2K raises (695) to 745
+Floyd2K is all-In.
+LayZP folds.
+hatoka calls (445)
+SirMazeman calls (445)
+Creating Main Pot with $2335 with Floyd2K
+** Dealing Flop ** :  [ Qh, Td, 7s ]
+hatoka checks.
+SirMazeman checks.
+** Dealing Turn ** :  [ Jc ]
+hatoka bets (100)
+SirMazeman raises (1990) to 1990
+SirMazeman is all-In.
+hatoka calls (1595)
+hatoka is all-In.
+** Dealing River ** :  [ 7c ]
+Creating Side Pot 1 with $3390 with hatoka
+** Summary **
+Main Pot: 2335 | Side Pot 1: 3390
+Board: [ Qh Td 7s Jc 7c  ]
+
+SirMazeman balance 3685, bet 2735, collected 3685, net +950 [ Ah 4d ] [ a pair of Sevens with Ace kicker -- Ah,Qh,Jc,7s,7cAh(kicker card) ]
+Floyd2K balance 2335, bet 745, collected 2335, net +1590 [ Jh Kc ] [ two pairs, Jacks and Sevens -- Kc,Jh,Jc,7s,7c ]
+LayZP balance 4510, lost 100 (folded)
+mariocal balance 2730, didn't bet (folded)
+prussien balance 1850, didn't bet (folded)
+simon110873 balance 3990, didn't bet (folded)
+hatoka balance 0, lost 2440 [ 4h Kh ] [ a pair of Sevens -- Kh,Qh,Jc,7s,7c ]
+maverikas balance 900, didn't bet (folded)
+
+***** Hand History for Game 6068465285 *****
+hatoka finished in 8 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33994983)  - Sat Jun 16 16:21:59 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 2 is the button
+Total number of players : 7
+Seat 1: SirMazeman (3685)
+Seat 2: Floyd2K (2335)
+Seat 4: LayZP (4510)
+Seat 5: mariocal (2730)
+Seat 7: prussien (1850)
+Seat 8: simon110873 (3990)
+Seat 10: maverikas (900)
+LayZP  posts small blind (50)
+mariocal  posts big blind (100)
+** Dealing down cards **
+prussien folds.
+simon110873 folds.
+maverikas folds.
+SirMazeman raises (200) to 200
+Floyd2K folds.
+LayZP folds.
+mariocal folds.
+** Summary **
+Main Pot: 250
+
+SirMazeman balance 3835, bet 200, collected 350, net +150
+Floyd2K balance 2335, didn't bet (folded)
+LayZP balance 4460, lost 50 (folded)
+mariocal balance 2630, lost 100 (folded)
+prussien balance 1850, didn't bet (folded)
+simon110873 balance 3990, didn't bet (folded)
+maverikas balance 900, didn't bet (folded)
+
+***** Hand History for Game 6068467126 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33994983)  - Sat Jun 16 16:22:31 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 4 is the button
+Total number of players : 7
+Seat 1: SirMazeman (3835)
+Seat 2: Floyd2K (2335)
+Seat 4: LayZP (4460)
+Seat 5: mariocal (2630)
+Seat 7: prussien (1850)
+Seat 8: simon110873 (3990)
+Seat 10: maverikas (900)
+mariocal  posts small blind (50)
+prussien  posts big blind (100)
+** Dealing down cards **
+simon110873 folds.
+maverikas folds.
+SirMazeman folds.
+Floyd2K raises (200) to 200
+LayZP folds.
+mariocal folds.
+prussien folds.
+** Summary **
+Main Pot: 250
+
+SirMazeman balance 3835, didn't bet (folded)
+Floyd2K balance 2485, bet 200, collected 350, net +150
+LayZP balance 4460, didn't bet (folded)
+mariocal balance 2580, lost 50 (folded)
+prussien balance 1750, lost 100 (folded)
+simon110873 balance 3990, didn't bet (folded)
+maverikas balance 900, didn't bet (folded)
+
+***** Hand History for Game 6068468367 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33994983)  - Sat Jun 16 16:22:53 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 5 is the button
+Total number of players : 7
+Seat 1: SirMazeman (3835)
+Seat 2: Floyd2K (2485)
+Seat 4: LayZP (4460)
+Seat 5: mariocal (2580)
+Seat 7: prussien (1750)
+Seat 8: simon110873 (3990)
+Seat 10: maverikas (900)
+prussien  posts small blind (50)
+simon110873  posts big blind (100)
+** Dealing down cards **
+maverikas folds.
+SirMazeman folds.
+Floyd2K raises (200) to 200
+LayZP folds.
+mariocal folds.
+prussien folds.
+simon110873 calls (100)
+** Dealing Flop ** :  [ 3h, 6d, Td ]
+simon110873 checks.
+Floyd2K checks.
+** Dealing Turn ** :  [ Ac ]
+simon110873 checks.
+Floyd2K checks.
+** Dealing River ** :  [ 7c ]
+simon110873 bets (100)
+Floyd2K raises (200) to 200
+simon110873 calls (100)
+** Summary **
+Main Pot: 850
+Board: [ 3h 6d Td Ac 7c  ]
+
+SirMazeman balance 3835, didn't bet (folded)
+Floyd2K balance 2510, bet 400, collected 425, net +25 [ As Qd ] [ a pair of Aces -- As,Ac,Qd,Td,7c ]
+LayZP balance 4460, didn't bet (folded)
+mariocal balance 2580, didn't bet (folded)
+prussien balance 1700, lost 50 (folded)
+simon110873 balance 4015, bet 400, collected 425, net +25 [ Qh Ah ] [ a pair of Aces -- Ah,Ac,Qh,Td,7c ]
+maverikas balance 900, didn't bet (folded)
+
+***** Hand History for Game 6068470716 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33994983)  - Sat Jun 16 16:23:35 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 7 is the button
+Total number of players : 7
+Seat 1: SirMazeman (3835)
+Seat 2: Floyd2K (2510)
+Seat 4: LayZP (4460)
+Seat 5: mariocal (2580)
+Seat 7: prussien (1700)
+Seat 8: simon110873 (4015)
+Seat 10: maverikas (900)
+simon110873  posts small blind (50)
+maverikas  posts big blind (100)
+** Dealing down cards **
+SirMazeman calls (100)
+Floyd2K folds.
+LayZP folds.
+mariocal folds.
+prussien folds.
+simon110873 folds.
+Floyd2K: lol
+maverikas checks.
+** Dealing Flop ** :  [ 7d, 7h, 3h ]
+maverikas checks.
+SirMazeman bets (500)
+maverikas raises (800) to 800
+maverikas is all-In.
+SirMazeman calls (300)
+** Dealing Turn ** :  [ Ad ]
+** Dealing River ** :  [ 7s ]
+Creating Main Pot with $1850 with maverikas
+** Summary **
+Main Pot: 1850
+Board: [ 7d 7h 3h Ad 7s  ]
+
+SirMazeman balance 2935, lost 900 [ Ts Kh ] [ three of a kind, Sevens -- Ad,Kh,7d,7h,7s ]
+Floyd2K balance 2510, didn't bet (folded)
+LayZP balance 4460, didn't bet (folded)
+mariocal balance 2580, didn't bet (folded)
+prussien balance 1700, didn't bet (folded)
+simon110873 balance 3965, lost 50 (folded)
+maverikas balance 1850, bet 900, collected 1850, net +950 [ 6d 7c ] [ four of a kind, Sevens -- Ad,7c,7d,7h,7s ]
+
+***** Hand History for Game 6068472398 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33994983)  - Sat Jun 16 16:24:05 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 8 is the button
+Total number of players : 7
+Seat 1: SirMazeman (2935)
+Seat 2: Floyd2K (2510)
+Seat 4: LayZP (4460)
+Seat 5: mariocal (2580)
+Seat 7: prussien (1700)
+Seat 8: simon110873 (3965)
+Seat 10: maverikas (1850)
+maverikas  posts small blind (50)
+SirMazeman  posts big blind (100)
+** Dealing down cards **
+Floyd2K calls (100)
+LayZP folds.
+mariocal raises (300) to 300
+prussien folds.
+simon110873 folds.
+maverikas folds.
+SirMazeman folds.
+Floyd2K calls (200)
+** Dealing Flop ** :  [ Ad, 9c, 2c ]
+Floyd2K checks.
+mariocal bets (500)
+Floyd2K folds.
+** Summary **
+Main Pot: 750
+Board: [ Ad 9c 2c  ]
+
+SirMazeman balance 2835, lost 100 (folded)
+Floyd2K balance 2210, lost 300 (folded)
+LayZP balance 4460, didn't bet (folded)
+mariocal balance 3030, bet 800, collected 1250, net +450
+prussien balance 1700, didn't bet (folded)
+simon110873 balance 3965, didn't bet (folded)
+maverikas balance 1800, lost 50 (folded)
+
+***** Hand History for Game 6068474735 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33994983)  - Sat Jun 16 16:24:46 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 10 is the button
+Total number of players : 7
+Seat 1: SirMazeman (2835)
+Seat 2: Floyd2K (2210)
+Seat 4: LayZP (4460)
+Seat 5: mariocal (3030)
+Seat 7: prussien (1700)
+Seat 8: simon110873 (3965)
+Seat 10: maverikas (1800)
+SirMazeman  posts small blind (100)
+Floyd2K  posts big blind (200)
+** Dealing down cards **
+LayZP folds.
+mariocal raises (600) to 600
+prussien folds.
+simon110873 folds.
+maverikas folds.
+SirMazeman folds.
+Floyd2K folds.
+** Summary **
+Main Pot: 500
+
+SirMazeman balance 2735, lost 100 (folded)
+Floyd2K balance 2010, lost 200 (folded)
+LayZP balance 4460, didn't bet (folded)
+mariocal balance 3330, bet 600, collected 900, net +300
+prussien balance 1700, didn't bet (folded)
+simon110873 balance 3965, didn't bet (folded)
+maverikas balance 1800, didn't bet (folded)
+
+***** Hand History for Game 6068475625 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33994983)  - Sat Jun 16 16:25:02 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 1 is the button
+Total number of players : 7
+Seat 1: SirMazeman (2735)
+Seat 2: Floyd2K (2010)
+Seat 4: LayZP (4460)
+Seat 5: mariocal (3330)
+Seat 7: prussien (1700)
+Seat 8: simon110873 (3965)
+Seat 10: maverikas (1800)
+Floyd2K  posts small blind (100)
+LayZP  posts big blind (200)
+** Dealing down cards **
+mariocal raises (400) to 400
+prussien folds.
+simon110873 folds.
+maverikas folds.
+SirMazeman folds.
+Floyd2K folds.
+LayZP folds.
+** Summary **
+Main Pot: 500
+
+SirMazeman balance 2735, didn't bet (folded)
+Floyd2K balance 1910, lost 100 (folded)
+LayZP balance 4260, lost 200 (folded)
+mariocal balance 3630, bet 400, collected 700, net +300
+prussien balance 1700, didn't bet (folded)
+simon110873 balance 3965, didn't bet (folded)
+maverikas balance 1800, didn't bet (folded)
+
+***** Hand History for Game 6068476233 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33994983)  - Sat Jun 16 16:25:13 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 2 is the button
+Total number of players : 7
+Seat 1: SirMazeman (2735)
+Seat 2: Floyd2K (1910)
+Seat 4: LayZP (4260)
+Seat 5: mariocal (3630)
+Seat 7: prussien (1700)
+Seat 8: simon110873 (3965)
+Seat 10: maverikas (1800)
+LayZP  posts small blind (100)
+mariocal  posts big blind (200)
+** Dealing down cards **
+prussien folds.
+simon110873 calls (200)
+maverikas folds.
+SirMazeman raises (400) to 400
+Floyd2K folds.
+LayZP folds.
+mariocal folds.
+simon110873 calls (200)
+** Dealing Flop ** :  [ 6d, 8s, 3s ]
+simon110873 checks.
+SirMazeman bets (500)
+simon110873 folds.
+** Summary **
+Main Pot: 1100
+Board: [ 6d 8s 3s  ]
+
+SirMazeman balance 3435, bet 900, collected 1600, net +700
+Floyd2K balance 1910, didn't bet (folded)
+LayZP balance 4160, lost 100 (folded)
+mariocal balance 3430, lost 200 (folded)
+prussien balance 1700, didn't bet (folded)
+simon110873 balance 3565, lost 400 (folded)
+maverikas balance 1800, didn't bet (folded)
+
+***** Hand History for Game 6068477949 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33994983)  - Sat Jun 16 16:25:43 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 4 is the button
+Total number of players : 7
+Seat 1: SirMazeman (3435)
+Seat 2: Floyd2K (1910)
+Seat 4: LayZP (4160)
+Seat 5: mariocal (3430)
+Seat 7: prussien (1700)
+Seat 8: simon110873 (3565)
+Seat 10: maverikas (1800)
+mariocal  posts small blind (100)
+prussien  posts big blind (200)
+** Dealing down cards **
+simon110873 folds.
+maverikas raises (600) to 600
+SirMazeman folds.
+Floyd2K folds.
+LayZP folds.
+mariocal folds.
+prussien folds.
+** Summary **
+Main Pot: 500
+
+SirMazeman balance 3435, didn't bet (folded)
+Floyd2K balance 1910, didn't bet (folded)
+LayZP balance 4160, didn't bet (folded)
+mariocal balance 3330, lost 100 (folded)
+prussien balance 1500, lost 200 (folded)
+simon110873 balance 3565, didn't bet (folded)
+maverikas balance 2100, bet 600, collected 900, net +300
+
+***** Hand History for Game 6068478869 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33994983)  - Sat Jun 16 16:25:59 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 5 is the button
+Total number of players : 7
+Seat 1: SirMazeman (3435)
+Seat 2: Floyd2K (1910)
+Seat 4: LayZP (4160)
+Seat 5: mariocal (3330)
+Seat 7: prussien (1500)
+Seat 8: simon110873 (3565)
+Seat 10: maverikas (2100)
+prussien  posts small blind (100)
+simon110873  posts big blind (200)
+** Dealing down cards **
+maverikas folds.
+SirMazeman folds.
+Floyd2K calls (200)
+LayZP folds.
+mariocal folds.
+prussien folds.
+simon110873 checks.
+** Dealing Flop ** :  [ Qs, 9c, 4s ]
+simon110873 checks.
+Floyd2K checks.
+** Dealing Turn ** :  [ 6s ]
+simon110873 checks.
+Floyd2K bets (200)
+simon110873 calls (200)
+** Dealing River ** :  [ 2s ]
+simon110873 checks.
+Floyd2K checks.
+** Summary **
+Main Pot: 900
+Board: [ Qs 9c 4s 6s 2s  ]
+
+SirMazeman balance 3435, didn't bet (folded)
+
+Floyd2K balance 1510, lost 400 [Didn't Show]
+LayZP balance 4160, didn't bet (folded)
+mariocal balance 3330, didn't bet (folded)
+prussien balance 1400, lost 100 (folded)
+simon110873 balance 4065, bet 400, collected 900, net +500 [ 3c 7s ] [ a flush, Queen high -- Qs,7s,6s,4s,2s ]
+maverikas balance 2100, didn't bet (folded)
+
+***** Hand History for Game 6068483657 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33994983)  - Sat Jun 16 16:27:24 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 7 is the button
+Total number of players : 7
+Seat 1: SirMazeman (3435)
+Seat 2: Floyd2K (1510)
+Seat 4: LayZP (4160)
+Seat 5: mariocal (3330)
+Seat 7: prussien (1400)
+Seat 8: simon110873 (4065)
+Seat 10: maverikas (2100)
+simon110873  posts small blind (100)
+maverikas  posts big blind (200)
+** Dealing down cards **
+SirMazeman folds.
+Floyd2K folds.
+LayZP folds.
+mariocal raises (600) to 600
+prussien folds.
+simon110873 folds.
+maverikas folds.
+** Summary **
+Main Pot: 500
+
+SirMazeman balance 3435, didn't bet (folded)
+Floyd2K balance 1510, didn't bet (folded)
+LayZP balance 4160, didn't bet (folded)
+mariocal balance 3630, bet 600, collected 900, net +300
+prussien balance 1400, didn't bet (folded)
+simon110873 balance 3965, lost 100 (folded)
+maverikas balance 1900, lost 200 (folded)
+
+***** Hand History for Game 6068484563 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33994983)  - Sat Jun 16 16:27:40 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 8 is the button
+Total number of players : 7
+Seat 1: SirMazeman (3435)
+Seat 2: Floyd2K (1510)
+Seat 4: LayZP (4160)
+Seat 5: mariocal (3630)
+Seat 7: prussien (1400)
+Seat 8: simon110873 (3965)
+Seat 10: maverikas (1900)
+maverikas  posts small blind (100)
+SirMazeman  posts big blind (200)
+** Dealing down cards **
+Floyd2K raises (400) to 400
+LayZP folds.
+mariocal folds.
+prussien folds.
+simon110873 folds.
+maverikas raises (1800) to 1900
+maverikas is all-In.
+SirMazeman folds.
+Floyd2K calls (1110)
+Floyd2K is all-In.
+** Dealing Flop ** :  [ Kh, 7c, 6d ]
+** Dealing Turn ** :  [ 9s ]
+** Dealing River ** :  [ 6s ]
+Creating Main Pot with $3220 with Floyd2K
+** Summary **
+Main Pot: 3220
+Board: [ Kh 7c 6d 9s 6s  ]
+
+SirMazeman balance 3235, lost 200 (folded)
+Floyd2K balance 0, lost 1510 [ Ah 7s ] [ two pairs, Sevens and Sixes -- Ah,7s,7c,6d,6s ]
+LayZP balance 4160, didn't bet (folded)
+mariocal balance 3630, didn't bet (folded)
+prussien balance 1400, didn't bet (folded)
+simon110873 balance 3965, didn't bet (folded)
+maverikas balance 3610, bet 1900, collected 3610, net +1710 [ Kd As ] [ two pairs, Kings and Sixes -- As,Kd,Kh,6d,6s ]
+
+***** Hand History for Game 6068486766 *****
+Floyd2K finished in 7 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33994983)  - Sat Jun 16 16:28:19 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 10 is the button
+Total number of players : 6
+Seat 1: SirMazeman (3235)
+Seat 4: LayZP (4160)
+Seat 5: mariocal (3630)
+Seat 7: prussien (1400)
+Seat 8: simon110873 (3965)
+Seat 10: maverikas (3610)
+SirMazeman  posts small blind (100)
+LayZP  posts big blind (200)
+** Dealing down cards **
+mariocal folds.
+prussien folds.
+simon110873 folds.
+maverikas folds.
+SirMazeman calls (100)
+LayZP checks.
+** Dealing Flop ** :  [ 7d, 3s, 8d ]
+SirMazeman bets (1000)
+LayZP raises (3960) to 3960
+LayZP is all-In.
+SirMazeman calls (2035)
+SirMazeman is all-In.
+** Dealing Turn ** :  [ 6s ]
+** Dealing River ** :  [ Ks ]
+Creating Main Pot with $6470 with SirMazeman
+** Summary **
+Main Pot: 6470
+Board: [ 7d 3s 8d 6s Ks  ]
+
+SirMazeman balance 6470, bet 3235, collected 6470, net +3235 [ Qc 8h ] [ a pair of Eights with Queen kicker -- Ks,Qc,8h,8d,7dQc(kicker card) ]
+LayZP balance 925, bet 4160, collected 925, lost -3235 [ Td 8c ] [ a pair of Eights -- Ks,Td,8c,8d,7d ]
+mariocal balance 3630, didn't bet (folded)
+prussien balance 1400, didn't bet (folded)
+simon110873 balance 3965, didn't bet (folded)
+maverikas balance 3610, didn't bet (folded)
+
+***** Hand History for Game 6068488587 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33994983)  - Sat Jun 16 16:28:50 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 1 is the button
+Total number of players : 6
+Seat 1: SirMazeman (6470)
+Seat 4: LayZP (925)
+Seat 5: mariocal (3630)
+Seat 7: prussien (1400)
+Seat 8: simon110873 (3965)
+Seat 10: maverikas (3610)
+LayZP  posts small blind (100)
+mariocal  posts big blind (200)
+** Dealing down cards **
+prussien folds.
+simon110873 folds.
+maverikas raises (600) to 600
+SirMazeman calls (600)
+LayZP folds.
+mariocal folds.
+** Dealing Flop ** :  [ 4s, 2h, 8s ]
+maverikas bets (600)
+SirMazeman folds.
+** Summary **
+Main Pot: 1500
+Board: [ 4s 2h 8s  ]
+
+SirMazeman balance 5870, lost 600 (folded)
+LayZP balance 825, lost 100 (folded)
+mariocal balance 3430, lost 200 (folded)
+prussien balance 1400, didn't bet (folded)
+simon110873 balance 3965, didn't bet (folded)
+maverikas balance 4510, bet 1200, collected 2100, net +900
+
+***** Hand History for Game 6068490223 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33994983)  - Sat Jun 16 16:29:20 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 4 is the button
+Total number of players : 6
+Seat 1: SirMazeman (5870)
+Seat 4: LayZP (825)
+Seat 5: mariocal (3430)
+Seat 7: prussien (1400)
+Seat 8: simon110873 (3965)
+Seat 10: maverikas (4510)
+mariocal  posts small blind (100)
+prussien  posts big blind (200)
+** Dealing down cards **
+simon110873 calls (200)
+maverikas folds.
+SirMazeman calls (200)
+LayZP raises (825) to 825
+LayZP is all-In.
+mariocal folds.
+prussien folds.
+simon110873 calls (625)
+SirMazeman folds.
+** Dealing Flop ** :  [ Kc, 9s, Js ]
+** Dealing Turn ** :  [ 3s ]
+** Dealing River ** :  [ 5h ]
+Creating Main Pot with $2150 with LayZP
+** Summary **
+Main Pot: 2150
+Board: [ Kc 9s Js 3s 5h  ]
+
+SirMazeman balance 5670, lost 200 (folded)
+LayZP balance 2150, bet 825, collected 2150, net +1325 [ Ac Kd ] [ a pair of Kings -- Ac,Kd,Kc,Js,9s ]
+mariocal balance 3330, lost 100 (folded)
+prussien balance 1200, lost 200 (folded)
+simon110873 balance 3140, lost 825 [ 4s 4d ] [ a pair of Fours -- Kc,Js,9s,4s,4d ]
+maverikas balance 4510, didn't bet (folded)
+
+***** Hand History for Game 6068491788 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33994983)  - Sat Jun 16 16:29:47 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 5 is the button
+Total number of players : 6
+Seat 1: SirMazeman (5670)
+Seat 4: LayZP (2150)
+Seat 5: mariocal (3330)
+Seat 7: prussien (1200)
+Seat 8: simon110873 (3140)
+Seat 10: maverikas (4510)
+prussien  posts small blind (200)
+simon110873  posts big blind (400)
+** Dealing down cards **
+maverikas folds.
+SirMazeman raises (800) to 800
+LayZP folds.
+mariocal folds.
+prussien folds.
+simon110873 folds.
+** Summary **
+Main Pot: 1000
+
+SirMazeman balance 6270, bet 800, collected 1400, net +600
+LayZP balance 2150, didn't bet (folded)
+mariocal balance 3330, didn't bet (folded)
+prussien balance 1000, lost 200 (folded)
+simon110873 balance 2740, lost 400 (folded)
+maverikas balance 4510, didn't bet (folded)
+
+***** Hand History for Game 6068492436 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33994983)  - Sat Jun 16 16:29:59 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 7 is the button
+Total number of players : 6
+Seat 1: SirMazeman (6270)
+Seat 4: LayZP (2150)
+Seat 5: mariocal (3330)
+Seat 7: prussien (1000)
+Seat 8: simon110873 (2740)
+Seat 10: maverikas (4510)
+simon110873  posts small blind (200)
+maverikas  posts big blind (400)
+** Dealing down cards **
+SirMazeman folds.
+LayZP folds.
+mariocal folds.
+prussien folds.
+simon110873 calls (200)
+maverikas raises (4110) to 4510
+maverikas is all-In.
+simon110873 calls (2340)
+simon110873 is all-In.
+** Dealing Flop ** :  [ 8d, Qh, Js ]
+** Dealing Turn ** :  [ Td ]
+** Dealing River ** :  [ As ]
+Creating Main Pot with $5480 with simon110873
+** Summary **
+Main Pot: 5480
+Board: [ 8d Qh Js Td As  ]
+
+SirMazeman balance 6270, didn't bet (folded)
+LayZP balance 2150, didn't bet (folded)
+mariocal balance 3330, didn't bet (folded)
+prussien balance 1000, didn't bet (folded)
+simon110873 balance 5480, bet 2740, collected 5480, net +2740 [ Ah 3s ] [ a pair of Aces -- Ah,As,Qh,Js,Td ]
+maverikas balance 1770, bet 4510, collected 1770, lost -2740 [ 3h 5h ] [ high card Ace -- As,Qh,Js,Td,8d ]
+
+***** Hand History for Game 6068493758 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33994983)  - Sat Jun 16 16:30:21 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 8 is the button
+Total number of players : 6
+Seat 1: SirMazeman (6270)
+Seat 4: LayZP (2150)
+Seat 5: mariocal (3330)
+Seat 7: prussien (1000)
+Seat 8: simon110873 (5480)
+Seat 10: maverikas (1770)
+maverikas  posts small blind (200)
+SirMazeman  posts big blind (400)
+** Dealing down cards **
+LayZP folds.
+mariocal raises (800) to 800
+prussien folds.
+simon110873 folds.
+maverikas raises (1570) to 1770
+maverikas is all-In.
+SirMazeman folds.
+mariocal folds.
+Creating Main Pot with $2000 with maverikas
+** Summary **
+Main Pot: 2000
+
+SirMazeman balance 5870, lost 400 (folded)
+LayZP balance 2150, didn't bet (folded)
+mariocal balance 2530, lost 800 (folded)
+prussien balance 1000, didn't bet (folded)
+simon110873 balance 5480, didn't bet (folded)
+maverikas balance 2970, bet 1770, collected 2970, net +1200
+
+***** Hand History for Game 6068494757 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33994983)  - Sat Jun 16 16:30:39 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 10 is the button
+Total number of players : 6
+Seat 1: SirMazeman (5870)
+Seat 4: LayZP (2150)
+Seat 5: mariocal (2530)
+Seat 7: prussien (1000)
+Seat 8: simon110873 (5480)
+Seat 10: maverikas (2970)
+SirMazeman  posts small blind (200)
+LayZP  posts big blind (400)
+** Dealing down cards **
+mariocal folds.
+prussien folds.
+simon110873 calls (400)
+maverikas raises (2970) to 2970
+maverikas is all-In.
+SirMazeman folds.
+LayZP folds.
+simon110873 calls (2570)
+** Dealing Flop ** :  [ 9s, 2c, Qs ]
+** Dealing Turn ** :  [ Ad ]
+** Dealing River ** :  [ 3s ]
+Creating Main Pot with $6540 with maverikas
+** Summary **
+Main Pot: 6540
+Board: [ 9s 2c Qs Ad 3s  ]
+
+SirMazeman balance 5670, lost 200 (folded)
+LayZP balance 1750, lost 400 (folded)
+mariocal balance 2530, didn't bet (folded)
+prussien balance 1000, didn't bet (folded)
+simon110873 balance 9050, bet 2970, collected 6540, net +3570 [ Ac 7s ] [ a pair of Aces -- Ac,Ad,Qs,9s,7s ]
+maverikas balance 0, lost 2970 [ 4h 4s ] [ a pair of Fours -- Ad,Qs,9s,4h,4s ]
+
+***** Hand History for Game 6068496249 *****
+maverikas finished in 6 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33994983)  - Sat Jun 16 16:31:05 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 1 is the button
+Total number of players : 5
+Seat 1: SirMazeman (5670)
+Seat 4: LayZP (1750)
+Seat 5: mariocal (2530)
+Seat 7: prussien (1000)
+Seat 8: simon110873 (9050)
+LayZP  posts small blind (200)
+mariocal  posts big blind (400)
+** Dealing down cards **
+prussien folds.
+simon110873 folds.
+SirMazeman raises (800) to 800
+LayZP folds.
+mariocal folds.
+** Summary **
+Main Pot: 1000
+
+SirMazeman balance 6270, bet 800, collected 1400, net +600
+LayZP balance 1550, lost 200 (folded)
+mariocal balance 2130, lost 400 (folded)
+prussien balance 1000, didn't bet (folded)
+simon110873 balance 9050, didn't bet (folded)
+
+***** Hand History for Game 6068497073 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33994983)  - Sat Jun 16 16:31:21 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 4 is the button
+Total number of players : 5
+Seat 1: SirMazeman (6270)
+Seat 4: LayZP (1550)
+Seat 5: mariocal (2130)
+Seat 7: prussien (1000)
+Seat 8: simon110873 (9050)
+mariocal  posts small blind (200)
+prussien  posts big blind (400)
+** Dealing down cards **
+simon110873 folds.
+SirMazeman raises (800) to 800
+LayZP folds.
+mariocal folds.
+prussien folds.
+** Summary **
+Main Pot: 1000
+
+SirMazeman balance 6870, bet 800, collected 1400, net +600
+LayZP balance 1550, didn't bet (folded)
+mariocal balance 1930, lost 200 (folded)
+prussien balance 600, lost 400 (folded)
+simon110873 balance 9050, didn't bet (folded)
+
+***** Hand History for Game 6068497744 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33994983)  - Sat Jun 16 16:31:32 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 5 is the button
+Total number of players : 5
+Seat 1: SirMazeman (6870)
+Seat 4: LayZP (1550)
+Seat 5: mariocal (1930)
+Seat 7: prussien (600)
+Seat 8: simon110873 (9050)
+prussien  posts small blind (200)
+simon110873  posts big blind (400)
+** Dealing down cards **
+SirMazeman folds.
+LayZP folds.
+mariocal raises (1930) to 1930
+mariocal is all-In.
+prussien folds.
+simon110873 calls (1530)
+** Dealing Flop ** :  [ 2s, 4d, 2h ]
+** Dealing Turn ** :  [ Jd ]
+** Dealing River ** :  [ 7d ]
+Creating Main Pot with $4060 with mariocal
+** Summary **
+Main Pot: 4060
+Board: [ 2s 4d 2h Jd 7d  ]
+
+SirMazeman balance 6870, didn't bet (folded)
+LayZP balance 1550, didn't bet (folded)
+mariocal balance 0, lost 1930 [ Kc 6h ] [ a pair of Twos -- Kc,Jd,7d,2s,2h ]
+prussien balance 400, lost 200 (folded)
+simon110873 balance 11180, bet 1930, collected 4060, net +2130 [ 3s 3c ] [ two pairs, Threes and Twos -- Jd,3s,3c,2s,2h ]
+
+***** Hand History for Game 6068498776 *****
+mariocal finished in 5 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33994983)  - Sat Jun 16 16:31:50 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 7 is the button
+Total number of players : 4
+Seat 1: SirMazeman (6870)
+Seat 4: LayZP (1550)
+Seat 7: prussien (400)
+Seat 8: simon110873 (11180)
+simon110873  posts small blind (200)
+SirMazeman  posts big blind (400)
+** Dealing down cards **
+LayZP folds.
+prussien folds.
+simon110873 folds.
+** Summary **
+Main Pot: 400
+
+SirMazeman balance 7070, bet 400, collected 600, net +200
+LayZP balance 1550, didn't bet (folded)
+prussien balance 400, didn't bet (folded)
+simon110873 balance 10980, lost 200 (folded)
+
+***** Hand History for Game 6068499221 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33994983)  - Sat Jun 16 16:31:58 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 8 is the button
+Total number of players : 4
+Seat 1: SirMazeman (7070)
+Seat 4: LayZP (1550)
+Seat 7: prussien (400)
+Seat 8: simon110873 (10980)
+SirMazeman  posts small blind (200)
+LayZP  posts big blind (400)
+** Dealing down cards **
+prussien folds.
+simon110873 folds.
+SirMazeman calls (200)
+LayZP checks.
+** Dealing Flop ** :  [ Qc, 5d, 6h ]
+SirMazeman checks.
+LayZP checks.
+** Dealing Turn ** :  [ Ts ]
+SirMazeman checks.
+LayZP checks.
+** Dealing River ** :  [ Jc ]
+SirMazeman checks.
+LayZP checks.
+** Summary **
+Main Pot: 800
+Board: [ Qc 5d 6h Ts Jc  ]
+
+SirMazeman balance 7470, bet 400, collected 800, net +400 [ 9s Ah ] [ high card Ace -- Ah,Qc,Jc,Ts,9s ]
+
+LayZP balance 1150, lost 400 [Didn't Show]
+prussien balance 400, didn't bet (folded)
+simon110873 balance 10980, didn't bet (folded)
+
+***** Hand History for Game 6068500463 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33994983)  - Sat Jun 16 16:32:21 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 1 is the button
+Total number of players : 4
+Seat 1: SirMazeman (7470)
+Seat 4: LayZP (1150)
+Seat 7: prussien (400)
+Seat 8: simon110873 (10980)
+LayZP  posts small blind (200)
+prussien  posts big blind (400)
+** Dealing down cards **
+simon110873 folds.
+SirMazeman folds.
+LayZP calls (200)
+** Dealing Flop ** :  [ 9c, Jd, 9d ]
+** Dealing Turn ** :  [ 8d ]
+** Dealing River ** :  [ 9s ]
+Creating Main Pot with $800 with prussien
+** Summary **
+Main Pot: 800
+Board: [ 9c Jd 9d 8d 9s  ]
+
+SirMazeman balance 7470, didn't bet (folded)
+LayZP balance 750, lost 400 [ 2s 4c ] [ three of a kind, Nines -- Jd,9c,9d,9s,8d ]
+prussien balance 800, bet 400, collected 800, net +400 [ 2c Kc ] [ three of a kind, Nines with King kicker -- Kc,Jd,9c,9d,9s ]
+simon110873 balance 10980, didn't bet (folded)
+
+***** Hand History for Game 6068501569 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33994983)  - Sat Jun 16 16:32:40 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 4 is the button
+Total number of players : 4
+Seat 1: SirMazeman (7470)
+Seat 4: LayZP (750)
+Seat 7: prussien (800)
+Seat 8: simon110873 (10980)
+prussien  posts small blind (200)
+simon110873  posts big blind (400)
+** Dealing down cards **
+SirMazeman folds.
+LayZP folds.
+prussien folds.
+** Summary **
+Main Pot: 400
+
+SirMazeman balance 7470, didn't bet (folded)
+LayZP balance 750, didn't bet (folded)
+prussien balance 600, lost 200 (folded)
+simon110873 balance 11180, bet 400, collected 600, net +200
+
+***** Hand History for Game 6068501973 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33994983)  - Sat Jun 16 16:32:48 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 7 is the button
+Total number of players : 4
+Seat 1: SirMazeman (7470)
+Seat 4: LayZP (750)
+Seat 7: prussien (600)
+Seat 8: simon110873 (11180)
+simon110873  posts small blind (200)
+SirMazeman  posts big blind (400)
+** Dealing down cards **
+LayZP folds.
+prussien folds.
+simon110873 folds.
+** Summary **
+Main Pot: 400
+
+SirMazeman balance 7670, bet 400, collected 600, net +200
+LayZP balance 750, didn't bet (folded)
+prussien balance 600, didn't bet (folded)
+simon110873 balance 10980, lost 200 (folded)
+
+***** Hand History for Game 6068502414 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33994983)  - Sat Jun 16 16:32:56 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 8 is the button
+Total number of players : 4
+Seat 1: SirMazeman (7670)
+Seat 4: LayZP (750)
+Seat 7: prussien (600)
+Seat 8: simon110873 (10980)
+SirMazeman  posts small blind (200)
+LayZP  posts big blind (400)
+** Dealing down cards **
+prussien folds.
+simon110873 raises (800) to 800
+SirMazeman folds.
+LayZP folds.
+** Summary **
+Main Pot: 1000
+
+SirMazeman balance 7470, lost 200 (folded)
+LayZP balance 350, lost 400 (folded)
+prussien balance 600, didn't bet (folded)
+simon110873 balance 11580, bet 800, collected 1400, net +600
+
+***** Hand History for Game 6068502978 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33994983)  - Sat Jun 16 16:33:06 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 1 is the button
+Total number of players : 4
+Seat 1: SirMazeman (7470)
+Seat 4: LayZP (350)
+Seat 7: prussien (600)
+Seat 8: simon110873 (11580)
+LayZP  posts small blind (200)
+prussien  posts big blind (400)
+** Dealing down cards **
+simon110873 folds.
+SirMazeman raises (800) to 800
+LayZP folds.
+prussien folds.
+** Summary **
+Main Pot: 1000
+
+SirMazeman balance 8070, bet 800, collected 1400, net +600
+LayZP balance 150, lost 200 (folded)
+prussien balance 200, lost 400 (folded)
+simon110873 balance 11580, didn't bet (folded)
+
+***** Hand History for Game 6068503788 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33994983)  - Sat Jun 16 16:33:20 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 4 is the button
+Total number of players : 4
+Seat 1: SirMazeman (8070)
+Seat 4: LayZP (150)
+Seat 7: prussien (200)
+Seat 8: simon110873 (11580)
+prussien  posts small blind (200)
+simon110873  posts big blind (400)
+** Dealing down cards **
+SirMazeman folds.
+LayZP folds.
+prussien is all-In.
+** Dealing Flop ** :  [ 9c, 3h, Th ]
+** Dealing Turn ** :  [ 8s ]
+** Dealing River ** :  [ Qs ]
+Creating Main Pot with $400 with prussien
+** Summary **
+Main Pot: 400
+Board: [ 9c 3h Th 8s Qs  ]
+
+SirMazeman balance 8070, didn't bet (folded)
+LayZP balance 150, didn't bet (folded)
+prussien balance 0, lost 200 [ Tc Qd ] [ two pairs, Queens and Tens -- Qd,Qs,Tc,Th,9c ]
+simon110873 balance 11780, bet 400, collected 600, net +200 [ 7h 6c ] [ a straight Six to Ten -- Th,9c,8s,7h,6c ]
+
+***** Hand History for Game 6068504506 *****
+prussien finished in 4 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33994983)  - Sat Jun 16 16:33:33 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 4 is the button
+Total number of players : 3
+Seat 1: SirMazeman (8070)
+Seat 4: LayZP (150)
+Seat 8: simon110873 (11780)
+simon110873  posts small blind (200)
+SirMazeman  posts big blind (400)
+** Dealing down cards **
+LayZP calls (150)
+LayZP is all-In.
+simon110873 calls (200)
+SirMazeman checks.
+Creating Main Pot with $450 with LayZP
+** Dealing Flop ** :  [ Ad, Qs, 5s ]
+simon110873 bets (400)
+SirMazeman calls (400)
+** Dealing Turn ** :  [ Td ]
+simon110873 checks.
+SirMazeman checks.
+** Dealing River ** :  [ Ts ]
+simon110873 bets (400)
+SirMazeman calls (400)
+** Summary **
+Main Pot: 450 | Side Pot 1: 2100
+Board: [ Ad Qs 5s Td Ts  ]
+
+
+SirMazeman balance 6870, lost 1200 [Didn't Show]
+
+LayZP balance 0, lost 150 [Didn't Show]
+simon110873 balance 13130, bet 1200, collected 2550, net +1350 [ 3s As ] [ a flush, Ace high -- As,Qs,Ts,5s,3s ]
+
+***** Hand History for Game 6068506534 *****
+LayZP finished in 3 place and won $10.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33994983)  - Sat Jun 16 16:34:09 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 1 is the button
+Total number of players : 2
+Seat 1: SirMazeman (6870)
+Seat 8: simon110873 (13130)
+SirMazeman  posts small blind (200)
+simon110873  posts big blind (400)
+** Dealing down cards **
+SirMazeman folds.
+** Summary **
+Main Pot: 400
+
+SirMazeman balance 6670, lost 200 (folded)
+simon110873 balance 13330, bet 400, collected 600, net +200
+
+***** Hand History for Game 6068507032 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33994983)  - Sat Jun 16 16:34:17 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 8 is the button
+Total number of players : 2
+Seat 1: SirMazeman (6670)
+Seat 8: simon110873 (13330)
+simon110873  posts small blind (200)
+SirMazeman  posts big blind (400)
+** Dealing down cards **
+simon110873 calls (200)
+SirMazeman raises (400) to 800
+simon110873 calls (400)
+** Dealing Flop ** :  [ 8d, 6s, 5c ]
+SirMazeman bets (2000)
+simon110873 folds.
+** Summary **
+Main Pot: 1600
+Board: [ 8d 6s 5c  ]
+
+SirMazeman balance 7470, bet 2800, collected 3600, net +800
+simon110873 balance 12530, lost 800 (folded)
+
+***** Hand History for Game 6068508167 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33994983)  - Sat Jun 16 16:34:37 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 1 is the button
+Total number of players : 2
+Seat 1: SirMazeman (7470)
+Seat 8: simon110873 (12530)
+SirMazeman  posts small blind (200)
+simon110873  posts big blind (400)
+** Dealing down cards **
+SirMazeman raises (600) to 800
+simon110873 folds.
+** Summary **
+Main Pot: 800
+
+SirMazeman balance 7870, bet 800, collected 1200, net +400
+simon110873 balance 12130, lost 400 (folded)
+
+***** Hand History for Game 6068508684 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33994983)  - Sat Jun 16 16:34:47 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 8 is the button
+Total number of players : 2
+Seat 1: SirMazeman (7870)
+Seat 8: simon110873 (12130)
+simon110873  posts small blind (200)
+SirMazeman  posts big blind (400)
+** Dealing down cards **
+simon110873 raises (600) to 800
+SirMazeman folds.
+** Summary **
+Main Pot: 800
+
+SirMazeman balance 7470, lost 400 (folded)
+simon110873 balance 12530, bet 800, collected 1200, net +400
+
+***** Hand History for Game 6068509256 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33994983)  - Sat Jun 16 16:34:57 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 1 is the button
+Total number of players : 2
+Seat 1: SirMazeman (7470)
+Seat 8: simon110873 (12530)
+SirMazeman  posts small blind (300)
+simon110873  posts big blind (600)
+** Dealing down cards **
+SirMazeman raises (900) to 1200
+simon110873 folds.
+** Summary **
+Main Pot: 1200
+
+SirMazeman balance 8070, bet 1200, collected 1800, net +600
+simon110873 balance 11930, lost 600 (folded)
+
+***** Hand History for Game 6068509785 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33994983)  - Sat Jun 16 16:35:06 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 8 is the button
+Total number of players : 2
+Seat 1: SirMazeman (8070)
+Seat 8: simon110873 (11930)
+simon110873  posts small blind (300)
+SirMazeman  posts big blind (600)
+** Dealing down cards **
+simon110873 raises (900) to 1200
+SirMazeman calls (600)
+** Dealing Flop ** :  [ Jh, 5d, 8d ]
+SirMazeman checks.
+simon110873 bets (10730)
+simon110873 is all-In.
+SirMazeman folds.
+Creating Main Pot with $2400 with simon110873
+** Summary **
+Main Pot: 2400
+Board: [ Jh 5d 8d  ]
+
+SirMazeman balance 6870, lost 1200 (folded)
+simon110873 balance 13130, bet 11930, collected 13130, net +1200
+
+***** Hand History for Game 6068510963 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33994983)  - Sat Jun 16 16:35:27 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 1 is the button
+Total number of players : 2
+Seat 1: SirMazeman (6870)
+Seat 8: simon110873 (13130)
+SirMazeman  posts small blind (300)
+simon110873  posts big blind (600)
+** Dealing down cards **
+SirMazeman raises (900) to 1200
+simon110873 raises (12530) to 13130
+simon110873 is all-In.
+SirMazeman calls (5670)
+SirMazeman is all-In.
+** Dealing Flop ** :  [ 5s, Qh, 8c ]
+** Dealing Turn ** :  [ 4s ]
+** Dealing River ** :  [ 2s ]
+Creating Main Pot with $13740 with SirMazeman
+** Summary **
+Main Pot: 13740
+Board: [ 5s Qh 8c 4s 2s  ]
+
+SirMazeman balance 13740, bet 6870, collected 13740, net +6870 [ 7s Ad ] [ high card Ace with Seven kicker -- Ad,Qh,8c,7s,5s ]
+simon110873 balance 6260, bet 13130, collected 6260, lost -6870 [ 6h As ] [ high card Ace -- As,Qh,8c,6h,5s ]
+
+***** Hand History for Game 6068512148 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33994983)  - Sat Jun 16 16:35:48 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 8 is the button
+Total number of players : 2
+Seat 1: SirMazeman (13740)
+Seat 8: simon110873 (6260)
+simon110873  posts small blind (300)
+SirMazeman  posts big blind (600)
+** Dealing down cards **
+simon110873 folds.
+** Summary **
+Main Pot: 600
+
+SirMazeman balance 14040, bet 600, collected 900, net +300
+simon110873 balance 5960, lost 300 (folded)
+
+***** Hand History for Game 6068512549 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33994983)  - Sat Jun 16 16:35:57 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 1 is the button
+Total number of players : 2
+Seat 1: SirMazeman (14040)
+Seat 8: simon110873 (5960)
+SirMazeman  posts small blind (300)
+simon110873  posts big blind (600)
+** Dealing down cards **
+SirMazeman raises (900) to 1200
+simon110873 folds.
+** Summary **
+Main Pot: 1200
+
+SirMazeman balance 14640, bet 1200, collected 1800, net +600
+simon110873 balance 5360, lost 600 (folded)
+
+***** Hand History for Game 6068512998 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33994983)  - Sat Jun 16 16:36:04 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 8 is the button
+Total number of players : 2
+Seat 1: SirMazeman (14640)
+Seat 8: simon110873 (5360)
+simon110873  posts small blind (300)
+SirMazeman  posts big blind (600)
+** Dealing down cards **
+simon110873 raises (5060) to 5360
+simon110873 is all-In.
+SirMazeman folds.
+Creating Main Pot with $1200 with simon110873
+** Summary **
+Main Pot: 1200
+
+SirMazeman balance 14040, lost 600 (folded)
+simon110873 balance 5960, bet 5360, collected 5960, net +600
+
+***** Hand History for Game 6068513539 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33994983)  - Sat Jun 16 16:36:13 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 1 is the button
+Total number of players : 2
+Seat 1: SirMazeman (14040)
+Seat 8: simon110873 (5960)
+SirMazeman  posts small blind (300)
+simon110873  posts big blind (600)
+** Dealing down cards **
+SirMazeman folds.
+** Summary **
+Main Pot: 600
+
+SirMazeman balance 13740, lost 300 (folded)
+simon110873 balance 6260, bet 600, collected 900, net +300
+
+***** Hand History for Game 6068513902 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33994983)  - Sat Jun 16 16:36:19 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 8 is the button
+Total number of players : 2
+Seat 1: SirMazeman (13740)
+Seat 8: simon110873 (6260)
+simon110873  posts small blind (300)
+SirMazeman  posts big blind (600)
+** Dealing down cards **
+simon110873 raises (5960) to 6260
+simon110873 is all-In.
+SirMazeman folds.
+Creating Main Pot with $1200 with simon110873
+** Summary **
+Main Pot: 1200
+
+SirMazeman balance 13140, lost 600 (folded)
+simon110873 balance 6860, bet 6260, collected 6860, net +600
+
+***** Hand History for Game 6068514424 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33994983)  - Sat Jun 16 16:36:29 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 1 is the button
+Total number of players : 2
+Seat 1: SirMazeman (13140)
+Seat 8: simon110873 (6860)
+SirMazeman  posts small blind (300)
+simon110873  posts big blind (600)
+** Dealing down cards **
+SirMazeman folds.
+** Summary **
+Main Pot: 600
+
+SirMazeman balance 12840, lost 300 (folded)
+simon110873 balance 7160, bet 600, collected 900, net +300
+
+***** Hand History for Game 6068514786 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33994983)  - Sat Jun 16 16:36:35 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 8 is the button
+Total number of players : 2
+Seat 1: SirMazeman (12840)
+Seat 8: simon110873 (7160)
+simon110873  posts small blind (300)
+SirMazeman  posts big blind (600)
+** Dealing down cards **
+simon110873 raises (6860) to 7160
+simon110873 is all-In.
+SirMazeman folds.
+Creating Main Pot with $1200 with simon110873
+** Summary **
+Main Pot: 1200
+
+SirMazeman balance 12240, lost 600 (folded)
+simon110873 balance 7760, bet 7160, collected 7760, net +600
+
+***** Hand History for Game 6068515348 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33994983)  - Sat Jun 16 16:36:45 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 1 is the button
+Total number of players : 2
+Seat 1: SirMazeman (12240)
+Seat 8: simon110873 (7760)
+SirMazeman  posts small blind (300)
+simon110873  posts big blind (600)
+** Dealing down cards **
+SirMazeman folds.
+** Summary **
+Main Pot: 600
+
+SirMazeman balance 11940, lost 300 (folded)
+simon110873 balance 8060, bet 600, collected 900, net +300
+
+***** Hand History for Game 6068515675 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33994983)  - Sat Jun 16 16:36:51 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 8 is the button
+Total number of players : 2
+Seat 1: SirMazeman (11940)
+Seat 8: simon110873 (8060)
+simon110873  posts small blind (300)
+SirMazeman  posts big blind (600)
+** Dealing down cards **
+simon110873 folds.
+** Summary **
+Main Pot: 600
+
+SirMazeman balance 12240, bet 600, collected 900, net +300
+simon110873 balance 7760, lost 300 (folded)
+
+***** Hand History for Game 6068516101 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33994983)  - Sat Jun 16 16:36:59 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 1 is the button
+Total number of players : 2
+Seat 1: SirMazeman (12240)
+Seat 8: simon110873 (7760)
+SirMazeman  posts small blind (300)
+simon110873  posts big blind (600)
+** Dealing down cards **
+SirMazeman folds.
+** Summary **
+Main Pot: 600
+
+SirMazeman balance 11940, lost 300 (folded)
+simon110873 balance 8060, bet 600, collected 900, net +300
+
+***** Hand History for Game 6068516500 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33994983)  - Sat Jun 16 16:37:05 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 8 is the button
+Total number of players : 2
+Seat 1: SirMazeman (11940)
+Seat 8: simon110873 (8060)
+simon110873  posts small blind (300)
+SirMazeman  posts big blind (600)
+** Dealing down cards **
+simon110873 folds.
+** Summary **
+Main Pot: 600
+
+SirMazeman balance 12240, bet 600, collected 900, net +300
+simon110873 balance 7760, lost 300 (folded)
+
+***** Hand History for Game 6068516882 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33994983)  - Sat Jun 16 16:37:12 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 1 is the button
+Total number of players : 2
+Seat 1: SirMazeman (12240)
+Seat 8: simon110873 (7760)
+SirMazeman  posts small blind (300)
+simon110873  posts big blind (600)
+** Dealing down cards **
+SirMazeman raises (900) to 1200
+simon110873 folds.
+** Summary **
+Main Pot: 1200
+
+SirMazeman balance 12840, bet 1200, collected 1800, net +600
+simon110873 balance 7160, lost 600 (folded)
+
+***** Hand History for Game 6068517422 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33994983)  - Sat Jun 16 16:37:22 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 8 is the button
+Total number of players : 2
+Seat 1: SirMazeman (12840)
+Seat 8: simon110873 (7160)
+simon110873  posts small blind (300)
+SirMazeman  posts big blind (600)
+** Dealing down cards **
+simon110873 folds.
+** Summary **
+Main Pot: 600
+
+SirMazeman balance 13140, bet 600, collected 900, net +300
+simon110873 balance 6860, lost 300 (folded)
+
+***** Hand History for Game 6068517752 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33994983)  - Sat Jun 16 16:37:28 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 1 is the button
+Total number of players : 2
+Seat 1: SirMazeman (13140)
+Seat 8: simon110873 (6860)
+SirMazeman  posts small blind (300)
+simon110873  posts big blind (600)
+** Dealing down cards **
+SirMazeman raises (900) to 1200
+simon110873 raises (6260) to 6860
+simon110873 is all-In.
+SirMazeman folds.
+Creating Main Pot with $2400 with simon110873
+** Summary **
+Main Pot: 2400
+
+SirMazeman balance 11940, lost 1200 (folded)
+simon110873 balance 8060, bet 6860, collected 8060, net +1200
+
+***** Hand History for Game 6068518460 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 33994983)  - Sat Jun 16 16:37:40 EDT 2007
+Table Speed 1330091 (Real Money) -- Seat 8 is the button
+Total number of players : 2
+Seat 1: SirMazeman (11940)
+Seat 8: simon110873 (8060)
+simon110873  posts small blind (300)
+SirMazeman  posts big blind (600)
+** Dealing down cards **
+simon110873 raises (7760) to 8060
+simon110873 is all-In.
+SirMazeman calls (7460)
+** Dealing Flop ** :  [ 9c, 5h, 3h ]
+** Dealing Turn ** :  [ 3d ]
+** Dealing River ** :  [ 9d ]
+Creating Main Pot with $16120 with simon110873
+** Summary **
+Main Pot: 16120
+Board: [ 9c 5h 3h 3d 9d  ]
+
+SirMazeman balance 20000, bet 8060, collected 16120, net +8060 [ Td Ad ] [ two pairs, Nines and Threes with Ace kicker -- Ad,9c,9d,3h,3d ]
+simon110873 balance 0, lost 8060 [ 6d Qd ] [ two pairs, Nines and Threes -- Qd,9c,9d,3h,3d ]
+
+
+

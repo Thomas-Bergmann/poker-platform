@@ -1,0 +1,3687 @@
+
+Hello hatoka,
+These hand histories are provided to you as an aid for your training and development. You are not permitted to share them with anyone.  We reserve the right to cease providing them or apply further restrictions at any time.
+Complete hand histories are only available to players that participated in the hand.
+You requested a transcript of Tournament #33598545.
+
+Summary
+----------
+Played on    : 24 May 2007 04:11 PM
+On Table     : Table  125943
+Game Type    : Texas Holdem
+Buy-In       : $5
+Fee          : $1
+You finished in  position 1
+1st place - hatoka -  $25
+2nd place - jackigan -  $15
+3rd place - miguellian -  $10
+
+***** Hand History for Game 5999310619 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:11:24 EDT 2007
+Table Table  125943 (Real Money) -- Seat 4 is the button
+Total number of players : 10
+Seat 1: alligator46 (2000)
+Seat 2: hatoka (2000)
+Seat 3: miguellian (2000)
+Seat 4: oranian_66 (2000)
+Seat 5: jackigan (2000)
+Seat 6: bramster4rea (2000)
+Seat 7: donaldstott (2000)
+Seat 8: markus123456 (2000)
+Seat 9: keihun (2000)
+Seat 10: Osi27 (2000)
+jackigan  posts small blind (20)
+bramster4rea  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 9s, 7h ]
+donaldstott calls (40)
+markus123456 folds.
+keihun folds.
+Osi27 raises (180) to 180
+alligator46 folds.
+hatoka folds.
+miguellian folds.
+oranian_66 folds.
+jackigan folds.
+bramster4rea folds.
+donaldstott calls (140)
+** Dealing Flop ** :  [ 6c, 3d, 9d ]
+donaldstott checks.
+Osi27 bets (420)
+donaldstott folds.
+** Summary **
+Main Pot: 420
+Board: [ 6c 3d 9d  ]
+
+alligator46 balance 2000, didn't bet (folded)
+hatoka balance 2000, didn't bet (folded)
+miguellian balance 2000, didn't bet (folded)
+oranian_66 balance 2000, didn't bet (folded)
+jackigan balance 1980, lost 20 (folded)
+bramster4rea balance 1960, lost 40 (folded)
+donaldstott balance 1820, lost 180 (folded)
+markus123456 balance 2000, didn't bet (folded)
+keihun balance 2000, didn't bet (folded)
+Osi27 balance 2240, bet 600, collected 840, net +240
+
+***** Hand History for Game 5999315458 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:12:33 EDT 2007
+Table Table  125943 (Real Money) -- Seat 5 is the button
+Total number of players : 10
+Seat 1: alligator46 (2000)
+Seat 2: hatoka (2000)
+Seat 3: miguellian (2000)
+Seat 4: oranian_66 (2000)
+Seat 5: jackigan (1980)
+Seat 6: bramster4rea (1960)
+Seat 7: donaldstott (1820)
+Seat 8: markus123456 (2000)
+Seat 9: keihun (2000)
+Seat 10: Osi27 (2240)
+bramster4rea  posts small blind (20)
+donaldstott  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 7h, 2d ]
+markus123456 calls (40)
+keihun calls (40)
+Osi27 folds.
+alligator46 folds.
+hatoka folds.
+miguellian calls (40)
+oranian_66 folds.
+jackigan folds.
+bramster4rea calls (20)
+donaldstott checks.
+** Dealing Flop ** :  [ Ts, 8s, 6s ]
+bramster4rea checks.
+donaldstott checks.
+markus123456 checks.
+keihun bets (40)
+miguellian folds.
+bramster4rea calls (40)
+donaldstott raises (80) to 80
+markus123456 folds.
+keihun raises (80) to 120
+bramster4rea calls (80)
+donaldstott calls (40)
+** Dealing Turn ** :  [ 4h ]
+bramster4rea checks.
+donaldstott bets (175)
+keihun calls (175)
+bramster4rea folds.
+** Dealing River ** :  [ 7d ]
+donaldstott bets (800)
+keihun raises (1665) to 1665
+keihun is all-In.
+donaldstott calls (685)
+donaldstott is all-In.
+Creating Main Pot with $3880 with donaldstott
+** Summary **
+Main Pot: 3880
+Board: [ Ts 8s 6s 4h 7d  ]
+
+alligator46 balance 2000, didn't bet (folded)
+hatoka balance 2000, didn't bet (folded)
+miguellian balance 1960, lost 40 (folded)
+oranian_66 balance 2000, didn't bet (folded)
+jackigan balance 1980, didn't bet (folded)
+bramster4rea balance 1800, lost 160 (folded)
+donaldstott balance 0, lost 1820 [ 5s Js ] [ a flush, Jack high -- Js,Ts,8s,6s,5s ]
+markus123456 balance 1960, lost 40 (folded)
+keihun balance 4060, bet 2000, collected 4060, net +2060 [ 9s Qs ] [ a flush, Queen high -- Qs,Ts,9s,8s,6s ]
+Osi27 balance 2240, didn't bet (folded)
+
+***** Hand History for Game 5999324153 *****
+donaldstott finished in 10 place.
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:14:31 EDT 2007
+Table Table  125943 (Real Money) -- Seat 6 is the button
+Total number of players : 9
+Seat 1: alligator46 (2000)
+Seat 2: hatoka (2000)
+Seat 3: miguellian (1960)
+Seat 4: oranian_66 (2000)
+Seat 5: jackigan (1980)
+Seat 6: bramster4rea (1800)
+Seat 8: markus123456 (1960)
+Seat 9: keihun (4060)
+Seat 10: Osi27 (2240)
+markus123456  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 7s, Qc ]
+keihun folds.
+Osi27 folds.
+alligator46 folds.
+hatoka folds.
+miguellian calls (40)
+oranian_66 folds.
+jackigan folds.
+bramster4rea folds.
+markus123456 checks.
+** Dealing Flop ** :  [ Jd, As, 7c ]
+markus123456 bets (80)
+miguellian folds.
+** Summary **
+Main Pot: 80
+Board: [ Jd As 7c  ]
+
+alligator46 balance 2000, didn't bet (folded)
+hatoka balance 2000, didn't bet (folded)
+miguellian balance 1920, lost 40 (folded)
+oranian_66 balance 2000, didn't bet (folded)
+jackigan balance 1980, didn't bet (folded)
+bramster4rea balance 1800, didn't bet (folded)
+markus123456 balance 2000, bet 120, collected 160, net +40
+keihun balance 4060, didn't bet (folded)
+Osi27 balance 2240, didn't bet (folded)
+
+***** Hand History for Game 5999326133 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:14:58 EDT 2007
+Table Table  125943 (Real Money) -- Seat 6 is the button
+Total number of players : 9
+Seat 1: alligator46 (2000)
+Seat 2: hatoka (2000)
+Seat 3: miguellian (1920)
+Seat 4: oranian_66 (2000)
+Seat 5: jackigan (1980)
+Seat 6: bramster4rea (1800)
+Seat 8: markus123456 (2000)
+Seat 9: keihun (4060)
+Seat 10: Osi27 (2240)
+markus123456  posts small blind (20)
+keihun  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 4c, Tc ]
+Osi27 raises (80) to 80
+alligator46 calls (80)
+hatoka folds.
+miguellian calls (80)
+oranian_66 folds.
+jackigan calls (80)
+bramster4rea folds.
+markus123456 folds.
+keihun calls (40)
+** Dealing Flop ** :  [ 6h, Ac, Qh ]
+keihun checks.
+Osi27 bets (420)
+alligator46 folds.
+miguellian folds.
+jackigan raises (1900) to 1900
+jackigan is all-In.
+keihun folds.
+Osi27 folds.
+Creating Main Pot with $1260 with jackigan
+** Summary **
+Main Pot: 1260
+Board: [ 6h Ac Qh  ]
+
+alligator46 balance 1920, lost 80 (folded)
+hatoka balance 2000, didn't bet (folded)
+miguellian balance 1840, lost 80 (folded)
+oranian_66 balance 2000, didn't bet (folded)
+jackigan balance 2740, bet 1980, collected 2740, net +760
+bramster4rea balance 1800, didn't bet (folded)
+markus123456 balance 1980, lost 20 (folded)
+keihun balance 3980, lost 80 (folded)
+Osi27 balance 1740, lost 500 (folded)
+
+***** Hand History for Game 5999331381 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:16:09 EDT 2007
+Table Table  125943 (Real Money) -- Seat 8 is the button
+Total number of players : 9
+Seat 1: alligator46 (1920)
+Seat 2: hatoka (2000)
+Seat 3: miguellian (1840)
+Seat 4: oranian_66 (2000)
+Seat 5: jackigan (2740)
+Seat 6: bramster4rea (1800)
+Seat 8: markus123456 (1980)
+Seat 9: keihun (3980)
+Seat 10: Osi27 (1740)
+keihun  posts small blind (20)
+Osi27  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 8c, Ks ]
+alligator46 folds.
+hatoka folds.
+miguellian calls (40)
+oranian_66 raises (80) to 80
+jackigan folds.
+bramster4rea folds.
+markus123456 folds.
+keihun folds.
+Osi27 calls (40)
+miguellian calls (40)
+** Dealing Flop ** :  [ 8h, Qc, 8d ]
+Osi27 bets (240)
+miguellian raises (1760) to 1760
+miguellian is all-In.
+oranian_66 calls (1760)
+Osi27 folds.
+** Dealing Turn ** :  [ As ]
+** Dealing River ** :  [ 5s ]
+Creating Main Pot with $4020 with miguellian
+** Summary **
+Main Pot: 4020
+Board: [ 8h Qc 8d As 5s  ]
+
+alligator46 balance 1920, didn't bet (folded)
+hatoka balance 2000, didn't bet (folded)
+miguellian balance 4020, bet 1840, collected 4020, net +2180 [ Ad 8s ] [ a full house, Eights full of Aces -- Ad,As,8s,8h,8d ]
+oranian_66 balance 160, lost 1840 [ Kd Qd ] [ two pairs, Queens and Eights -- As,Qd,Qc,8h,8d ]
+jackigan balance 2740, didn't bet (folded)
+bramster4rea balance 1800, didn't bet (folded)
+markus123456 balance 1980, didn't bet (folded)
+keihun balance 3960, lost 20 (folded)
+Osi27 balance 1420, lost 320 (folded)
+
+***** Hand History for Game 5999337184 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:17:27 EDT 2007
+Table Table  125943 (Real Money) -- Seat 9 is the button
+Total number of players : 9
+Seat 1: alligator46 (1920)
+Seat 2: hatoka (2000)
+Seat 3: miguellian (4020)
+Seat 4: oranian_66 (160)
+Seat 5: jackigan (2740)
+Seat 6: bramster4rea (1800)
+Seat 8: markus123456 (1980)
+Seat 9: keihun (3960)
+Seat 10: Osi27 (1420)
+Osi27  posts small blind (20)
+alligator46  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 8c, Ad ]
+Osi27: i got the q to
+hatoka raises (80) to 80
+miguellian folds.
+oranian_66: i  guessed he had that
+oranian_66 folds.
+oranian_66: but still.....
+Osi27: i knew that he has the 8
+jackigan raises (160) to 160
+bramster4rea folds.
+markus123456 folds.
+keihun folds.
+Osi27 folds.
+alligator46 folds.
+oranian_66: now i will play better
+hatoka calls (80)
+** Dealing Flop ** :  [ 4c, 5c, 9h ]
+hatoka checks.
+Osi27: good luck
+jackigan bets (240)
+hatoka folds.
+** Summary **
+Main Pot: 380
+Board: [ 4c 5c 9h  ]
+
+alligator46 balance 1880, lost 40 (folded)
+hatoka balance 1840, lost 160 (folded)
+miguellian balance 4020, didn't bet (folded)
+oranian_66 balance 160, didn't bet (folded)
+jackigan balance 2960, bet 400, collected 620, net +220
+bramster4rea balance 1800, didn't bet (folded)
+markus123456 balance 1980, didn't bet (folded)
+keihun balance 3960, didn't bet (folded)
+Osi27 balance 1400, lost 20 (folded)
+
+***** Hand History for Game 5999342054 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:18:33 EDT 2007
+Table Table  125943 (Real Money) -- Seat 10 is the button
+Total number of players : 9
+Seat 1: alligator46 (1880)
+Seat 2: hatoka (1840)
+Seat 3: miguellian (4020)
+Seat 4: oranian_66 (160)
+Seat 5: jackigan (2960)
+Seat 6: bramster4rea (1800)
+Seat 8: markus123456 (1980)
+Seat 9: keihun (3960)
+Seat 10: Osi27 (1400)
+alligator46  posts small blind (20)
+hatoka  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ Jd, Qs ]
+oranian_66: y t
+miguellian calls (40)
+oranian_66 folds.
+jackigan calls (40)
+bramster4rea folds.
+markus123456 calls (40)
+keihun folds.
+Osi27 calls (40)
+alligator46 calls (20)
+hatoka checks.
+** Dealing Flop ** :  [ 9s, Ah, Ac ]
+alligator46 checks.
+hatoka checks.
+miguellian checks.
+jackigan bets (520)
+markus123456 folds.
+Osi27 folds.
+alligator46 folds.
+hatoka folds.
+miguellian folds.
+** Summary **
+Main Pot: 240
+Board: [ 9s Ah Ac  ]
+
+alligator46 balance 1840, lost 40 (folded)
+hatoka balance 1800, lost 40 (folded)
+miguellian balance 3980, lost 40 (folded)
+oranian_66 balance 160, didn't bet (folded)
+jackigan balance 3160, bet 560, collected 760, net +200
+bramster4rea balance 1800, didn't bet (folded)
+markus123456 balance 1940, lost 40 (folded)
+keihun balance 3960, didn't bet (folded)
+Osi27 balance 1360, lost 40 (folded)
+
+***** Hand History for Game 5999346757 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:19:38 EDT 2007
+Table Table  125943 (Real Money) -- Seat 1 is the button
+Total number of players : 9
+Seat 1: alligator46 (1840)
+Seat 2: hatoka (1800)
+Seat 3: miguellian (3980)
+Seat 4: oranian_66 (160)
+Seat 5: jackigan (3160)
+Seat 6: bramster4rea (1800)
+Seat 8: markus123456 (1940)
+Seat 9: keihun (3960)
+Seat 10: Osi27 (1360)
+hatoka  posts small blind (20)
+miguellian  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ Kc, 2c ]
+oranian_66 folds.
+jackigan folds.
+bramster4rea folds.
+markus123456 folds.
+keihun folds.
+Osi27 folds.
+alligator46 calls (40)
+hatoka raises (60) to 80
+miguellian folds.
+alligator46 calls (40)
+** Dealing Flop ** :  [ Kd, Qc, Ac ]
+hatoka bets (300)
+alligator46 folds.
+** Summary **
+Main Pot: 200
+Board: [ Kd Qc Ac  ]
+
+alligator46 balance 1760, lost 80 (folded)
+hatoka balance 1920, bet 380, collected 500, net +120
+miguellian balance 3940, lost 40 (folded)
+oranian_66 balance 160, didn't bet (folded)
+jackigan balance 3160, didn't bet (folded)
+bramster4rea balance 1800, didn't bet (folded)
+markus123456 balance 1940, didn't bet (folded)
+keihun balance 3960, didn't bet (folded)
+Osi27 balance 1360, didn't bet (folded)
+
+***** Hand History for Game 5999349907 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:20:22 EDT 2007
+Table Table  125943 (Real Money) -- Seat 2 is the button
+Total number of players : 9
+Seat 1: alligator46 (1760)
+Seat 2: hatoka (1920)
+Seat 3: miguellian (3940)
+Seat 4: oranian_66 (160)
+Seat 5: jackigan (3160)
+Seat 6: bramster4rea (1800)
+Seat 8: markus123456 (1940)
+Seat 9: keihun (3960)
+Seat 10: Osi27 (1360)
+miguellian  posts small blind (20)
+oranian_66  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 7c, 6d ]
+jackigan folds.
+bramster4rea calls (40)
+markus123456 raises (520) to 520
+keihun folds.
+Osi27 folds.
+alligator46 folds.
+hatoka folds.
+miguellian folds.
+oranian_66 folds.
+bramster4rea calls (480)
+** Dealing Flop ** :  [ 2s, 5h, 8h ]
+bramster4rea bets (1280)
+bramster4rea is all-In.
+markus123456 calls (1280)
+** Dealing Turn ** :  [ 8s ]
+** Dealing River ** :  [ Ac ]
+Creating Main Pot with $3660 with bramster4rea
+** Summary **
+Main Pot: 3660
+Board: [ 2s 5h 8h 8s Ac  ]
+
+alligator46 balance 1760, didn't bet (folded)
+hatoka balance 1920, didn't bet (folded)
+miguellian balance 3920, lost 20 (folded)
+oranian_66 balance 120, lost 40 (folded)
+jackigan balance 3160, didn't bet (folded)
+bramster4rea balance 0, lost 1800 [ Qc Js ] [ a pair of Eights -- Ac,Qc,Js,8h,8s ]
+markus123456 balance 3800, bet 1800, collected 3660, net +1860 [ As Kc ] [ two pairs, Aces and Eights -- As,Ac,Kc,8h,8s ]
+keihun balance 3960, didn't bet (folded)
+Osi27 balance 1360, didn't bet (folded)
+
+***** Hand History for Game 5999353671 *****
+bramster4rea finished in 9 place.
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:21:13 EDT 2007
+Table Table  125943 (Real Money) -- Seat 3 is the button
+Total number of players : 8
+Seat 1: alligator46 (1760)
+Seat 2: hatoka (1920)
+Seat 3: miguellian (3920)
+Seat 4: oranian_66 (120)
+Seat 5: jackigan (3160)
+Seat 8: markus123456 (3800)
+Seat 9: keihun (3960)
+Seat 10: Osi27 (1360)
+oranian_66  posts small blind (20)
+jackigan  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 4d, 6d ]
+markus123456 raises (160) to 160
+keihun folds.
+Osi27 folds.
+alligator46 calls (160)
+hatoka folds.
+miguellian folds.
+oranian_66 folds.
+jackigan folds.
+** Dealing Flop ** :  [ 9c, 3c, Js ]
+markus123456 bets (120)
+alligator46 folds.
+** Summary **
+Main Pot: 380
+Board: [ 9c 3c Js  ]
+
+alligator46 balance 1600, lost 160 (folded)
+hatoka balance 1920, didn't bet (folded)
+miguellian balance 3920, didn't bet (folded)
+oranian_66 balance 100, lost 20 (folded)
+jackigan balance 3120, lost 40 (folded)
+markus123456 balance 4020, bet 280, collected 500, net +220
+keihun balance 3960, didn't bet (folded)
+Osi27 balance 1360, didn't bet (folded)
+
+***** Hand History for Game 5999355710 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:21:42 EDT 2007
+Table Table  125943 (Real Money) -- Seat 4 is the button
+Total number of players : 8
+Seat 1: alligator46 (1600)
+Seat 2: hatoka (1920)
+Seat 3: miguellian (3920)
+Seat 4: oranian_66 (100)
+Seat 5: jackigan (3120)
+Seat 8: markus123456 (4020)
+Seat 9: keihun (3960)
+Seat 10: Osi27 (1360)
+jackigan  posts small blind (30)
+markus123456  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 2h, 5s ]
+keihun calls (60)
+Osi27 folds.
+alligator46 calls (60)
+hatoka folds.
+miguellian folds.
+oranian_66 folds.
+jackigan calls (30)
+markus123456 checks.
+** Dealing Flop ** :  [ 5d, 4h, Qc ]
+jackigan bets (120)
+markus123456 folds.
+keihun folds.
+alligator46 folds.
+** Summary **
+Main Pot: 240
+Board: [ 5d 4h Qc  ]
+
+alligator46 balance 1540, lost 60 (folded)
+hatoka balance 1920, didn't bet (folded)
+miguellian balance 3920, didn't bet (folded)
+oranian_66 balance 100, didn't bet (folded)
+jackigan balance 3300, bet 180, collected 360, net +180
+markus123456 balance 3960, lost 60 (folded)
+keihun balance 3900, lost 60 (folded)
+Osi27 balance 1360, didn't bet (folded)
+
+***** Hand History for Game 5999359958 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:22:40 EDT 2007
+Table Table  125943 (Real Money) -- Seat 5 is the button
+Total number of players : 8
+Seat 1: alligator46 (1540)
+Seat 2: hatoka (1920)
+Seat 3: miguellian (3920)
+Seat 4: oranian_66 (100)
+Seat 5: jackigan (3300)
+Seat 8: markus123456 (3960)
+Seat 9: keihun (3900)
+Seat 10: Osi27 (1360)
+markus123456  posts small blind (30)
+keihun  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 4s, Qd ]
+Osi27 raises (120) to 120
+alligator46 folds.
+hatoka folds.
+miguellian folds.
+oranian_66 folds.
+jackigan folds.
+markus123456 folds.
+keihun folds.
+** Summary **
+Main Pot: 150
+
+alligator46 balance 1540, didn't bet (folded)
+hatoka balance 1920, didn't bet (folded)
+miguellian balance 3920, didn't bet (folded)
+oranian_66 balance 100, didn't bet (folded)
+jackigan balance 3300, didn't bet (folded)
+markus123456 balance 3930, lost 30 (folded)
+keihun balance 3840, lost 60 (folded)
+Osi27 balance 1450, bet 120, collected 210, net +90
+
+***** Hand History for Game 5999362012 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:23:09 EDT 2007
+Table Table  125943 (Real Money) -- Seat 8 is the button
+Total number of players : 8
+Seat 1: alligator46 (1540)
+Seat 2: hatoka (1920)
+Seat 3: miguellian (3920)
+Seat 4: oranian_66 (100)
+Seat 5: jackigan (3300)
+Seat 8: markus123456 (3930)
+Seat 9: keihun (3840)
+Seat 10: Osi27 (1450)
+keihun  posts small blind (30)
+Osi27  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Js, 7d ]
+alligator46 folds.
+hatoka folds.
+miguellian folds.
+oranian_66 folds.
+jackigan folds.
+markus123456 folds.
+keihun calls (30)
+Osi27 checks.
+** Dealing Flop ** :  [ Kc, Jd, 4c ]
+keihun checks.
+Osi27 bets (120)
+keihun folds.
+** Summary **
+Main Pot: 120
+Board: [ Kc Jd 4c  ]
+
+alligator46 balance 1540, didn't bet (folded)
+hatoka balance 1920, didn't bet (folded)
+miguellian balance 3920, didn't bet (folded)
+oranian_66 balance 100, didn't bet (folded)
+jackigan balance 3300, didn't bet (folded)
+markus123456 balance 3930, didn't bet (folded)
+keihun balance 3780, lost 60 (folded)
+Osi27 balance 1510, bet 180, collected 240, net +60 [ 4s Jc ] [ two pairs, Jacks and Fours -- Kc,Jc,Jd,4s,4c ]
+
+***** Hand History for Game 5999365742 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:24:01 EDT 2007
+Table Table  125943 (Real Money) -- Seat 9 is the button
+Total number of players : 8
+Seat 1: alligator46 (1540)
+Seat 2: hatoka (1920)
+Seat 3: miguellian (3920)
+Seat 4: oranian_66 (100)
+Seat 5: jackigan (3300)
+Seat 8: markus123456 (3930)
+Seat 9: keihun (3780)
+Seat 10: Osi27 (1510)
+Osi27  posts small blind (30)
+alligator46  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 2c, 2h ]
+hatoka raises (180) to 180
+miguellian calls (180)
+oranian_66 folds.
+jackigan folds.
+markus123456 folds.
+keihun folds.
+Osi27 calls (150)
+alligator46 calls (120)
+** Dealing Flop ** :  [ 9d, Kd, 5d ]
+Osi27 bets (720)
+alligator46 folds.
+hatoka folds.
+miguellian folds.
+** Summary **
+Main Pot: 720
+Board: [ 9d Kd 5d  ]
+
+alligator46 balance 1360, lost 180 (folded)
+hatoka balance 1740, lost 180 (folded)
+miguellian balance 3740, lost 180 (folded)
+oranian_66 balance 100, didn't bet (folded)
+jackigan balance 3300, didn't bet (folded)
+markus123456 balance 3930, didn't bet (folded)
+keihun balance 3780, didn't bet (folded)
+Osi27 balance 2050, bet 900, collected 1440, net +540
+
+***** Hand History for Game 5999368848 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:24:45 EDT 2007
+Table Table  125943 (Real Money) -- Seat 10 is the button
+Total number of players : 8
+Seat 1: alligator46 (1360)
+Seat 2: hatoka (1740)
+Seat 3: miguellian (3740)
+Seat 4: oranian_66 (100)
+Seat 5: jackigan (3300)
+Seat 8: markus123456 (3930)
+Seat 9: keihun (3780)
+Seat 10: Osi27 (2050)
+alligator46  posts small blind (30)
+hatoka  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Jh, Ah ]
+miguellian folds.
+oranian_66 raises (100) to 100
+oranian_66 is all-In.
+jackigan folds.
+markus123456 folds.
+keihun folds.
+Osi27 folds.
+alligator46 folds.
+hatoka calls (40)
+** Dealing Flop ** :  [ 6h, 9c, 5h ]
+** Dealing Turn ** :  [ Kc ]
+** Dealing River ** :  [ Ac ]
+Creating Main Pot with $230 with oranian_66
+** Summary **
+Main Pot: 230
+Board: [ 6h 9c 5h Kc Ac  ]
+
+alligator46 balance 1330, lost 30 (folded)
+hatoka balance 1640, lost 100 [ Jh Ah ] [ a pair of Aces -- Ah,Ac,Kc,Jh,9c ]
+miguellian balance 3740, didn't bet (folded)
+oranian_66 balance 230, bet 100, collected 230, net +130 [ As Ad ] [ three of a kind, Aces -- As,Ad,Ac,Kc,9c ]
+jackigan balance 3300, didn't bet (folded)
+markus123456 balance 3930, didn't bet (folded)
+keihun balance 3780, didn't bet (folded)
+Osi27 balance 2050, didn't bet (folded)
+
+***** Hand History for Game 5999370774 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:25:13 EDT 2007
+Table Table  125943 (Real Money) -- Seat 1 is the button
+Total number of players : 8
+Seat 1: alligator46 (1330)
+Seat 2: hatoka (1640)
+Seat 3: miguellian (3740)
+Seat 4: oranian_66 (230)
+Seat 5: jackigan (3300)
+Seat 8: markus123456 (3930)
+Seat 9: keihun (3780)
+Seat 10: Osi27 (2050)
+hatoka  posts small blind (30)
+miguellian  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 9h, 4d ]
+oranian_66 raises (230) to 230
+oranian_66 is all-In.
+jackigan folds.
+markus123456 folds.
+keihun folds.
+Osi27 calls (230)
+alligator46 folds.
+hatoka folds.
+miguellian calls (170)
+Creating Main Pot with $720 with oranian_66
+** Dealing Flop ** :  [ Kd, Qs, 8d ]
+miguellian checks.
+Osi27 bets (720)
+miguellian folds.
+** Dealing Turn ** :  [ Jc ]
+** Dealing River ** :  [ Qd ]
+** Summary **
+Main Pot: 720
+Board: [ Kd Qs 8d Jc Qd  ]
+
+alligator46 balance 1330, didn't bet (folded)
+hatoka balance 1610, lost 30 (folded)
+miguellian balance 3510, lost 230 (folded)
+oranian_66 balance 0, lost 230 [ 4h 4s ] [ two pairs, Queens and Fours -- Kd,Qs,Qd,4h,4s ]
+jackigan balance 3300, didn't bet (folded)
+markus123456 balance 3930, didn't bet (folded)
+keihun balance 3780, didn't bet (folded)
+Osi27 balance 2540, bet 950, collected 1440, net +490 [ Jh Ks ] [ two pairs, Kings and Queens -- Ks,Kd,Qs,Qd,Jh ]
+
+***** Hand History for Game 5999372894 *****
+oranian_66 finished in 8 place.
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:25:42 EDT 2007
+Table Table  125943 (Real Money) -- Seat 2 is the button
+Total number of players : 7
+Seat 1: alligator46 (1330)
+Seat 2: hatoka (1610)
+Seat 3: miguellian (3510)
+Seat 5: jackigan (3300)
+Seat 8: markus123456 (3930)
+Seat 9: keihun (3780)
+Seat 10: Osi27 (2540)
+miguellian  posts small blind (30)
+jackigan  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 7d, 3c ]
+markus123456 folds.
+keihun folds.
+Osi27 folds.
+alligator46 folds.
+hatoka folds.
+miguellian folds.
+** Summary **
+Main Pot: 60
+
+alligator46 balance 1330, didn't bet (folded)
+hatoka balance 1610, didn't bet (folded)
+miguellian balance 3480, lost 30 (folded)
+jackigan balance 3330, bet 60, collected 90, net +30
+markus123456 balance 3930, didn't bet (folded)
+keihun balance 3780, didn't bet (folded)
+Osi27 balance 2540, didn't bet (folded)
+
+***** Hand History for Game 5999373815 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:25:55 EDT 2007
+Table Table  125943 (Real Money) -- Seat 3 is the button
+Total number of players : 7
+Seat 1: alligator46 (1330)
+Seat 2: hatoka (1610)
+Seat 3: miguellian (3480)
+Seat 5: jackigan (3330)
+Seat 8: markus123456 (3930)
+Seat 9: keihun (3780)
+Seat 10: Osi27 (2540)
+jackigan  posts small blind (30)
+markus123456  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ As, 8s ]
+keihun folds.
+Osi27 calls (60)
+alligator46 folds.
+hatoka raises (120) to 120
+miguellian folds.
+jackigan folds.
+markus123456 calls (60)
+Osi27 calls (60)
+** Dealing Flop ** :  [ 3c, Ks, 3s ]
+markus123456 bets (60)
+Osi27 calls (60)
+hatoka raises (240) to 240
+markus123456 folds.
+Osi27 calls (180)
+** Dealing Turn ** :  [ 6s ]
+Osi27 checks.
+hatoka bets (200)
+Osi27 calls (200)
+** Dealing River ** :  [ 2d ]
+Osi27 checks.
+hatoka bets (350)
+Osi27 calls (350)
+** Summary **
+Main Pot: 2030
+Board: [ 3c Ks 3s 6s 2d  ]
+
+alligator46 balance 1330, didn't bet (folded)
+hatoka balance 2730, bet 910, collected 2030, net +1120 [ As 8s ] [ a flush, Ace high -- As,Ks,8s,6s,3s ]
+miguellian balance 3480, didn't bet (folded)
+jackigan balance 3300, lost 30 (folded)
+markus123456 balance 3750, lost 180 (folded)
+keihun balance 3780, didn't bet (folded)
+Osi27 balance 1630, lost 910 [ 4c Kh ] [ two pairs, Kings and Threes -- Kh,Ks,6s,3c,3s ]
+
+
+***** Hand History for Game 5999378897 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:27:07 EDT 2007
+Table Table  125943 (Real Money) -- Seat 5 is the button
+Total number of players : 7
+Seat 1: alligator46 (1330)
+Seat 2: hatoka (2730)
+Seat 3: miguellian (3480)
+Seat 5: jackigan (3300)
+Seat 8: markus123456 (3750)
+Seat 9: keihun (3780)
+Seat 10: Osi27 (1630)
+markus123456  posts small blind (30)
+keihun  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 4c, As ]
+Osi27 raises (120) to 120
+alligator46 folds.
+hatoka folds.
+miguellian folds.
+jackigan folds.
+markus123456 calls (90)
+keihun folds.
+** Dealing Flop ** :  [ Ac, 9h, Qh ]
+markus123456 checks.
+Osi27 bets (300)
+markus123456 folds.
+** Summary **
+Main Pot: 300
+Board: [ Ac 9h Qh  ]
+
+alligator46 balance 1330, didn't bet (folded)
+hatoka balance 2730, didn't bet (folded)
+miguellian balance 3480, didn't bet (folded)
+jackigan balance 3300, didn't bet (folded)
+markus123456 balance 3630, lost 120 (folded)
+keihun balance 3720, lost 60 (folded)
+Osi27 balance 1810, bet 420, collected 600, net +180
+
+***** Hand History for Game 5999382079 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:27:51 EDT 2007
+Table Table  125943 (Real Money) -- Seat 8 is the button
+Total number of players : 7
+Seat 1: alligator46 (1330)
+Seat 2: hatoka (2730)
+Seat 3: miguellian (3480)
+Seat 5: jackigan (3300)
+Seat 8: markus123456 (3630)
+Seat 9: keihun (3720)
+Seat 10: Osi27 (1810)
+keihun  posts small blind (30)
+Osi27  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 9h, 6d ]
+alligator46 folds.
+hatoka folds.
+miguellian folds.
+jackigan folds.
+markus123456 folds.
+keihun calls (30)
+Osi27 checks.
+** Dealing Flop ** :  [ 4c, 9d, Qs ]
+keihun checks.
+Osi27 bets (120)
+keihun folds.
+** Summary **
+Main Pot: 120
+Board: [ 4c 9d Qs  ]
+
+alligator46 balance 1330, didn't bet (folded)
+hatoka balance 2730, didn't bet (folded)
+miguellian balance 3480, didn't bet (folded)
+jackigan balance 3300, didn't bet (folded)
+markus123456 balance 3630, didn't bet (folded)
+keihun balance 3660, lost 60 (folded)
+Osi27 balance 1870, bet 180, collected 240, net +60 [ 4d 9s ] [ two pairs, Nines and Fours -- Qs,9s,9d,4d,4c ]
+
+***** Hand History for Game 5999384172 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:28:21 EDT 2007
+Table Table  125943 (Real Money) -- Seat 9 is the button
+Total number of players : 7
+Seat 1: alligator46 (1330)
+Seat 2: hatoka (2730)
+Seat 3: miguellian (3480)
+Seat 5: jackigan (3300)
+Seat 8: markus123456 (3630)
+Seat 9: keihun (3660)
+Seat 10: Osi27 (1870)
+Osi27  posts small blind (30)
+alligator46  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 4d, Qd ]
+hatoka calls (60)
+miguellian folds.
+jackigan folds.
+markus123456 folds.
+keihun calls (60)
+Osi27 calls (30)
+alligator46 checks.
+** Dealing Flop ** :  [ 7d, Js, 6d ]
+Osi27 bets (240)
+alligator46 calls (240)
+hatoka calls (240)
+keihun folds.
+** Dealing Turn ** :  [ Kd ]
+Osi27 checks.
+alligator46 checks.
+hatoka bets (500)
+Osi27: flush again?
+Osi27 folds.
+alligator46 calls (500)
+** Dealing River ** :  [ 8h ]
+alligator46 checks.
+hatoka bets (600)
+alligator46 folds.
+** Summary **
+Main Pot: 1960
+Board: [ 7d Js 6d Kd 8h  ]
+
+alligator46 balance 530, lost 800 (folded)
+hatoka balance 3890, bet 1400, collected 2560, net +1160
+miguellian balance 3480, didn't bet (folded)
+jackigan balance 3300, didn't bet (folded)
+markus123456 balance 3630, didn't bet (folded)
+keihun balance 3600, lost 60 (folded)
+Osi27 balance 1570, lost 300 (folded)
+
+***** Hand History for Game 5999389067 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:29:29 EDT 2007
+Table Table  125943 (Real Money) -- Seat 10 is the button
+Total number of players : 7
+Seat 1: alligator46 (530)
+Seat 2: hatoka (3890)
+Seat 3: miguellian (3480)
+Seat 5: jackigan (3300)
+Seat 8: markus123456 (3630)
+Seat 9: keihun (3600)
+Seat 10: Osi27 (1570)
+alligator46  posts small blind (30)
+hatoka  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 2h, 2c ]
+miguellian calls (60)
+jackigan folds.
+markus123456 raises (240) to 240
+keihun folds.
+Osi27 folds.
+alligator46 calls (210)
+hatoka folds.
+miguellian calls (180)
+** Dealing Flop ** :  [ Kd, 6d, Ks ]
+alligator46 checks.
+miguellian bets (300)
+markus123456 calls (300)
+alligator46 calls (290)
+alligator46 is all-In.
+Creating Main Pot with $1650 with alligator46
+** Dealing Turn ** :  [ Td ]
+miguellian checks.
+markus123456 checks.
+** Dealing River ** :  [ Qc ]
+miguellian checks.
+markus123456 checks.
+** Summary **
+Main Pot: 1650 | Side Pot 1: 20
+Board: [ Kd 6d Ks Td Qc  ]
+
+alligator46 balance 0, lost 530 [ 5c 5s ] [ two pairs, Kings and Fives -- Kd,Ks,Qc,5c,5s ]
+
+hatoka balance 3830, lost 60 (folded)
+miguellian balance 4610, bet 540, collected 1670, net +1130 [ Jh Kc ] [ three of a kind, Kings -- Kc,Kd,Ks,Qc,Jh ]
+jackigan balance 3300, didn't bet (folded)
+markus123456 balance 3090, lost 540 [ Ad Ts ] [ two pairs, Kings and Tens -- Ad,Kd,Ks,Ts,Td ]
+
+keihun balance 3600, didn't bet (folded)
+Osi27 balance 1570, didn't bet (folded)
+
+***** Hand History for Game 5999393222 *****
+alligator46 finished in 7 place.
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:30:26 EDT 2007
+Table Table  125943 (Real Money) -- Seat 10 is the button
+Total number of players : 6
+Seat 2: hatoka (3830)
+Seat 3: miguellian (4610)
+Seat 5: jackigan (3300)
+Seat 8: markus123456 (3090)
+Seat 9: keihun (3600)
+Seat 10: Osi27 (1570)
+hatoka  posts small blind (30)
+miguellian  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 5d, 6d ]
+jackigan calls (60)
+markus123456 calls (60)
+keihun folds.
+Osi27 folds.
+hatoka folds.
+miguellian checks.
+** Dealing Flop ** :  [ Jd, 8d, 4d ]
+miguellian bets (240)
+jackigan folds.
+markus123456 folds.
+** Summary **
+Main Pot: 210
+Board: [ Jd 8d 4d  ]
+
+hatoka balance 3800, lost 30 (folded)
+miguellian balance 4760, bet 300, collected 450, net +150
+jackigan balance 3240, lost 60 (folded)
+markus123456 balance 3030, lost 60 (folded)
+keihun balance 3600, didn't bet (folded)
+Osi27 balance 1570, didn't bet (folded)
+
+***** Hand History for Game 5999394834 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:30:49 EDT 2007
+Table Table  125943 (Real Money) -- Seat 2 is the button
+Total number of players : 6
+Seat 2: hatoka (3800)
+Seat 3: miguellian (4760)
+Seat 5: jackigan (3240)
+Seat 8: markus123456 (3030)
+Seat 9: keihun (3600)
+Seat 10: Osi27 (1570)
+miguellian  posts small blind (30)
+jackigan  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 7s, 9c ]
+markus123456 calls (60)
+keihun folds.
+Osi27 folds.
+hatoka folds.
+miguellian raises (330) to 360
+jackigan folds.
+markus123456 folds.
+** Summary **
+Main Pot: 180
+
+hatoka balance 3800, didn't bet (folded)
+miguellian balance 4880, bet 360, collected 480, net +120
+jackigan balance 3180, lost 60 (folded)
+markus123456 balance 2970, lost 60 (folded)
+keihun balance 3600, didn't bet (folded)
+Osi27 balance 1570, didn't bet (folded)
+
+***** Hand History for Game 5999396575 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:31:13 EDT 2007
+Table Table  125943 (Real Money) -- Seat 3 is the button
+Total number of players : 6
+Seat 2: hatoka (3800)
+Seat 3: miguellian (4880)
+Seat 5: jackigan (3180)
+Seat 8: markus123456 (2970)
+Seat 9: keihun (3600)
+Seat 10: Osi27 (1570)
+jackigan  posts small blind (30)
+markus123456  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 8s, 4d ]
+keihun folds.
+Osi27 calls (60)
+hatoka folds.
+miguellian calls (60)
+jackigan calls (30)
+markus123456 checks.
+** Dealing Flop ** :  [ 5s, Ks, Jd ]
+jackigan checks.
+markus123456 bets (180)
+Osi27 raises (360) to 360
+miguellian folds.
+jackigan folds.
+markus123456 calls (180)
+** Dealing Turn ** :  [ 9h ]
+markus123456 bets (300)
+Osi27 raises (600) to 600
+markus123456 calls (300)
+** Dealing River ** :  [ 3h ]
+markus123456 checks.
+Osi27 bets (550)
+Osi27 is all-In.
+markus123456 calls (550)
+Creating Main Pot with $3260 with Osi27
+** Summary **
+Main Pot: 3260
+Board: [ 5s Ks Jd 9h 3h  ]
+
+hatoka balance 3800, didn't bet (folded)
+miguellian balance 4820, lost 60 (folded)
+jackigan balance 3120, lost 60 (folded)
+markus123456 balance 1400, lost 1570 [ 2h Kd ] [ a pair of Kings -- Kd,Ks,Jd,9h,5s ]
+keihun balance 3600, didn't bet (folded)
+Osi27 balance 3260, bet 1570, collected 3260, net +1690 [ 5h Js ] [ two pairs, Jacks and Fives -- Ks,Js,Jd,5h,5s ]
+
+***** Hand History for Game 5999400370 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:32:06 EDT 2007
+Table Table  125943 (Real Money) -- Seat 5 is the button
+Total number of players : 6
+Seat 2: hatoka (3800)
+Seat 3: miguellian (4820)
+Seat 5: jackigan (3120)
+Seat 8: markus123456 (1400)
+Seat 9: keihun (3600)
+Seat 10: Osi27 (3260)
+markus123456  posts small blind (50)
+keihun  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Kh, 4h ]
+Osi27 calls (100)
+hatoka calls (100)
+miguellian folds.
+Osi27: nice call
+jackigan calls (100)
+markus123456 raises (350) to 400
+keihun folds.
+Osi27 folds.
+hatoka folds.
+jackigan folds.
+** Summary **
+Main Pot: 500
+
+hatoka balance 3700, lost 100 (folded)
+miguellian balance 4820, didn't bet (folded)
+jackigan balance 3020, lost 100 (folded)
+markus123456 balance 1800, bet 400, collected 800, net +400
+keihun balance 3500, lost 100 (folded)
+Osi27 balance 3160, lost 100 (folded)
+
+***** Hand History for Game 5999403223 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:32:48 EDT 2007
+Table Table  125943 (Real Money) -- Seat 8 is the button
+Total number of players : 6
+Seat 2: hatoka (3700)
+Seat 3: miguellian (4820)
+Seat 5: jackigan (3020)
+Seat 8: markus123456 (1800)
+Seat 9: keihun (3500)
+Seat 10: Osi27 (3160)
+keihun  posts small blind (50)
+Osi27  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Ac, Qc ]
+hatoka raises (300) to 300
+miguellian folds.
+jackigan folds.
+markus123456 calls (300)
+keihun folds.
+Osi27 folds.
+** Dealing Flop ** :  [ 7d, 5d, 2c ]
+hatoka bets (500)
+markus123456 raises (1500) to 1500
+markus123456 is all-In.
+hatoka calls (1000)
+** Dealing Turn ** :  [ 5h ]
+** Dealing River ** :  [ Js ]
+Creating Main Pot with $3750 with markus123456
+** Summary **
+Main Pot: 3750
+Board: [ 7d 5d 2c 5h Js  ]
+
+hatoka balance 1900, lost 1800 [ Ac Qc ] [ a pair of Fives -- Ac,Qc,Js,5d,5h ]
+miguellian balance 4820, didn't bet (folded)
+jackigan balance 3020, didn't bet (folded)
+markus123456 balance 3750, bet 1800, collected 3750, net +1950 [ Ts Tc ] [ two pairs, Tens and Fives -- Js,Ts,Tc,5d,5h ]
+keihun balance 3450, lost 50 (folded)
+Osi27 balance 3060, lost 100 (folded)
+
+***** Hand History for Game 5999406969 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:33:40 EDT 2007
+Table Table  125943 (Real Money) -- Seat 9 is the button
+Total number of players : 6
+Seat 2: hatoka (1900)
+Seat 3: miguellian (4820)
+Seat 5: jackigan (3020)
+Seat 8: markus123456 (3750)
+Seat 9: keihun (3450)
+Seat 10: Osi27 (3060)
+Osi27  posts small blind (50)
+hatoka  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Qd, Qc ]
+miguellian folds.
+jackigan folds.
+markus123456 folds.
+keihun calls (100)
+Osi27 calls (50)
+hatoka raises (300) to 400
+keihun folds.
+Osi27 calls (300)
+** Dealing Flop ** :  [ 7c, Jh, 8d ]
+Osi27 checks.
+hatoka bets (500)
+Osi27 folds.
+** Summary **
+Main Pot: 900
+Board: [ 7c Jh 8d  ]
+
+hatoka balance 2400, bet 900, collected 1400, net +500
+miguellian balance 4820, didn't bet (folded)
+jackigan balance 3020, didn't bet (folded)
+markus123456 balance 3750, didn't bet (folded)
+keihun balance 3350, lost 100 (folded)
+Osi27 balance 2660, lost 400 (folded)
+
+***** Hand History for Game 5999410365 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:34:29 EDT 2007
+Table Table  125943 (Real Money) -- Seat 10 is the button
+Total number of players : 6
+Seat 2: hatoka (2400)
+Seat 3: miguellian (4820)
+Seat 5: jackigan (3020)
+Seat 8: markus123456 (3750)
+Seat 9: keihun (3350)
+Seat 10: Osi27 (2660)
+hatoka  posts small blind (50)
+miguellian  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 5c, 3h ]
+jackigan folds.
+markus123456 folds.
+keihun folds.
+Osi27 raises (350) to 350
+hatoka folds.
+miguellian folds.
+** Summary **
+Main Pot: 250
+
+hatoka balance 2350, lost 50 (folded)
+miguellian balance 4720, lost 100 (folded)
+jackigan balance 3020, didn't bet (folded)
+markus123456 balance 3750, didn't bet (folded)
+keihun balance 3350, didn't bet (folded)
+Osi27 balance 2810, bet 350, collected 500, net +150
+
+***** Hand History for Game 5999411657 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:34:48 EDT 2007
+Table Table  125943 (Real Money) -- Seat 2 is the button
+Total number of players : 6
+Seat 2: hatoka (2350)
+Seat 3: miguellian (4720)
+Seat 5: jackigan (3020)
+Seat 8: markus123456 (3750)
+Seat 9: keihun (3350)
+Seat 10: Osi27 (2810)
+miguellian  posts small blind (50)
+jackigan  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Qh, 2s ]
+markus123456 raises (200) to 200
+keihun folds.
+Osi27 folds.
+hatoka folds.
+miguellian folds.
+jackigan folds.
+** Summary **
+Main Pot: 250
+
+hatoka balance 2350, didn't bet (folded)
+miguellian balance 4670, lost 50 (folded)
+jackigan balance 2920, lost 100 (folded)
+markus123456 balance 3900, bet 200, collected 350, net +150
+keihun balance 3350, didn't bet (folded)
+Osi27 balance 2810, didn't bet (folded)
+
+***** Hand History for Game 5999413512 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:35:15 EDT 2007
+Table Table  125943 (Real Money) -- Seat 3 is the button
+Total number of players : 6
+Seat 2: hatoka (2350)
+Seat 3: miguellian (4670)
+Seat 5: jackigan (2920)
+Seat 8: markus123456 (3900)
+Seat 9: keihun (3350)
+Seat 10: Osi27 (2810)
+jackigan  posts small blind (50)
+markus123456  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Ts, 2h ]
+keihun folds.
+Osi27 calls (100)
+hatoka folds.
+miguellian folds.
+jackigan calls (50)
+markus123456 checks.
+** Dealing Flop ** :  [ 2d, 7c, 4s ]
+jackigan checks.
+markus123456 checks.
+Osi27 bets (300)
+jackigan folds.
+markus123456 folds.
+** Summary **
+Main Pot: 300
+Board: [ 2d 7c 4s  ]
+
+hatoka balance 2350, didn't bet (folded)
+miguellian balance 4670, didn't bet (folded)
+jackigan balance 2820, lost 100 (folded)
+markus123456 balance 3800, lost 100 (folded)
+keihun balance 3350, didn't bet (folded)
+Osi27 balance 3010, bet 400, collected 600, net +200
+
+***** Hand History for Game 5999417377 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:36:11 EDT 2007
+Table Table  125943 (Real Money) -- Seat 5 is the button
+Total number of players : 6
+Seat 2: hatoka (2350)
+Seat 3: miguellian (4670)
+Seat 5: jackigan (2820)
+Seat 8: markus123456 (3800)
+Seat 9: keihun (3350)
+Seat 10: Osi27 (3010)
+markus123456  posts small blind (50)
+keihun  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Tc, Ah ]
+Osi27 calls (100)
+hatoka raises (300) to 300
+miguellian folds.
+jackigan folds.
+markus123456 folds.
+keihun folds.
+Osi27 calls (200)
+** Dealing Flop ** :  [ Qs, 6h, 6s ]
+Osi27 checks.
+hatoka bets (600)
+Osi27 folds.
+** Summary **
+Main Pot: 750
+Board: [ Qs 6h 6s  ]
+
+hatoka balance 2800, bet 900, collected 1350, net +450
+miguellian balance 4670, didn't bet (folded)
+jackigan balance 2820, didn't bet (folded)
+markus123456 balance 3750, lost 50 (folded)
+keihun balance 3250, lost 100 (folded)
+Osi27 balance 2710, lost 300 (folded)
+
+***** Hand History for Game 5999419377 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:36:39 EDT 2007
+Table Table  125943 (Real Money) -- Seat 8 is the button
+Total number of players : 6
+Seat 2: hatoka (2800)
+Seat 3: miguellian (4670)
+Seat 5: jackigan (2820)
+Seat 8: markus123456 (3750)
+Seat 9: keihun (3250)
+Seat 10: Osi27 (2710)
+keihun  posts small blind (50)
+Osi27  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Qc, Ac ]
+hatoka raises (300) to 300
+miguellian folds.
+jackigan folds.
+markus123456 folds.
+keihun folds.
+Osi27 raises (400) to 500
+hatoka calls (200)
+** Dealing Flop ** :  [ Ts, Qh, 5h ]
+Osi27 bets (1100)
+hatoka raises (2300) to 2300
+hatoka is all-In.
+Osi27 calls (1110)
+Osi27 is all-In.
+** Dealing Turn ** :  [ 7d ]
+** Dealing River ** :  [ 7s ]
+Creating Main Pot with $5470 with Osi27
+** Summary **
+Main Pot: 5470
+Board: [ Ts Qh 5h 7d 7s  ]
+
+hatoka balance 5560, bet 2800, collected 5560, net +2760 [ Qc Ac ] [ two pairs, Queens and Sevens -- Ac,Qc,Qh,7d,7s ]
+miguellian balance 4670, didn't bet (folded)
+jackigan balance 2820, didn't bet (folded)
+markus123456 balance 3750, didn't bet (folded)
+keihun balance 3200, lost 50 (folded)
+Osi27 balance 0, lost 2710 [ 5c Ad ] [ two pairs, Sevens and Fives -- Ad,7d,7s,5c,5h ]
+
+***** Hand History for Game 5999422696 *****
+Osi27 finished in 6 place.
+markus123456: nice call
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:37:26 EDT 2007
+Table Table  125943 (Real Money) -- Seat 9 is the button
+Total number of players : 5
+Seat 2: hatoka (5560)
+Seat 3: miguellian (4670)
+Seat 5: jackigan (2820)
+Seat 8: markus123456 (3750)
+Seat 9: keihun (3200)
+hatoka  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 3c, Qc ]
+miguellian calls (100)
+jackigan folds.
+markus123456 folds.
+keihun folds.
+hatoka raises (100) to 200
+miguellian calls (100)
+** Dealing Flop ** :  [ 9d, 5c, Ad ]
+hatoka checks.
+miguellian checks.
+** Dealing Turn ** :  [ 2c ]
+hatoka bets (100)
+miguellian calls (100)
+** Dealing River ** :  [ Ah ]
+hatoka checks.
+miguellian checks.
+** Summary **
+Main Pot: 600
+Board: [ 9d 5c Ad 2c Ah  ]
+
+hatoka balance 5260, lost 300 [ 3c Qc ] [ a pair of Aces -- Ad,Ah,Qc,9d,5c ]
+miguellian balance 4970, bet 300, collected 600, net +300 [ 6c 6d ] [ two pairs, Aces and Sixes -- Ad,Ah,9d,6c,6d ]
+jackigan balance 2820, didn't bet (folded)
+markus123456 balance 3750, didn't bet (folded)
+keihun balance 3200, didn't bet (folded)
+
+***** Hand History for Game 5999425960 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:38:12 EDT 2007
+Table Table  125943 (Real Money) -- Seat 9 is the button
+Total number of players : 5
+Seat 2: hatoka (5260)
+Seat 3: miguellian (4970)
+Seat 5: jackigan (2820)
+Seat 8: markus123456 (3750)
+Seat 9: keihun (3200)
+hatoka  posts small blind (50)
+miguellian  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 2h, 9d ]
+jackigan raises (300) to 300
+markus123456 folds.
+keihun folds.
+hatoka folds.
+miguellian folds.
+** Summary **
+Main Pot: 250
+
+hatoka balance 5210, lost 50 (folded)
+miguellian balance 4870, lost 100 (folded)
+jackigan balance 2970, bet 300, collected 450, net +150
+markus123456 balance 3750, didn't bet (folded)
+keihun balance 3200, didn't bet (folded)
+
+***** Hand History for Game 5999426975 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:38:27 EDT 2007
+Table Table  125943 (Real Money) -- Seat 2 is the button
+Total number of players : 5
+Seat 2: hatoka (5210)
+Seat 3: miguellian (4870)
+Seat 5: jackigan (2970)
+Seat 8: markus123456 (3750)
+Seat 9: keihun (3200)
+miguellian  posts small blind (50)
+jackigan  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 3h, Tc ]
+markus123456 folds.
+keihun folds.
+hatoka folds.
+miguellian folds.
+** Summary **
+Main Pot: 100
+
+hatoka balance 5210, didn't bet (folded)
+miguellian balance 4820, lost 50 (folded)
+jackigan balance 3020, bet 100, collected 150, net +50
+markus123456 balance 3750, didn't bet (folded)
+keihun balance 3200, didn't bet (folded)
+
+***** Hand History for Game 5999427523 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:38:34 EDT 2007
+Table Table  125943 (Real Money) -- Seat 3 is the button
+Total number of players : 5
+Seat 2: hatoka (5210)
+Seat 3: miguellian (4820)
+Seat 5: jackigan (3020)
+Seat 8: markus123456 (3750)
+Seat 9: keihun (3200)
+jackigan  posts small blind (50)
+markus123456  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 9h, 5c ]
+keihun folds.
+hatoka folds.
+miguellian calls (100)
+jackigan folds.
+markus123456 raises (300) to 400
+miguellian folds.
+** Summary **
+Main Pot: 250
+
+hatoka balance 5210, didn't bet (folded)
+miguellian balance 4720, lost 100 (folded)
+jackigan balance 2970, lost 50 (folded)
+markus123456 balance 3900, bet 400, collected 550, net +150
+keihun balance 3200, didn't bet (folded)
+
+***** Hand History for Game 5999428746 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:38:53 EDT 2007
+Table Table  125943 (Real Money) -- Seat 5 is the button
+Total number of players : 5
+Seat 2: hatoka (5210)
+Seat 3: miguellian (4720)
+Seat 5: jackigan (2970)
+Seat 8: markus123456 (3900)
+Seat 9: keihun (3200)
+markus123456  posts small blind (50)
+keihun  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 9s, 5h ]
+hatoka folds.
+miguellian folds.
+jackigan raises (300) to 300
+markus123456 calls (250)
+keihun folds.
+** Dealing Flop ** :  [ Ts, Tc, Jd ]
+markus123456 bets (200)
+jackigan raises (500) to 500
+markus123456 calls (300)
+** Dealing Turn ** :  [ 7d ]
+markus123456 bets (300)
+jackigan calls (300)
+** Dealing River ** :  [ 2h ]
+markus123456 bets (500)
+jackigan folds.
+** Summary **
+Main Pot: 2300
+Board: [ Ts Tc Jd 7d 2h  ]
+
+hatoka balance 5210, didn't bet (folded)
+miguellian balance 4720, didn't bet (folded)
+jackigan balance 1870, lost 1100 (folded)
+markus123456 balance 5100, bet 1600, collected 2800, net +1200
+keihun balance 3100, lost 100 (folded)
+
+***** Hand History for Game 5999431887 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:39:38 EDT 2007
+Table Table  125943 (Real Money) -- Seat 8 is the button
+Total number of players : 5
+Seat 2: hatoka (5210)
+Seat 3: miguellian (4720)
+Seat 5: jackigan (1870)
+Seat 8: markus123456 (5100)
+Seat 9: keihun (3100)
+keihun  posts small blind (50)
+hatoka  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 4s, Jc ]
+miguellian folds.
+jackigan folds.
+markus123456 folds.
+keihun calls (50)
+hatoka checks.
+** Dealing Flop ** :  [ Ad, Ks, Qc ]
+keihun checks.
+hatoka checks.
+** Dealing Turn ** :  [ 5d ]
+keihun checks.
+hatoka bets (300)
+keihun folds.
+** Summary **
+Main Pot: 200
+Board: [ Ad Ks Qc 5d  ]
+
+hatoka balance 5310, bet 400, collected 500, net +100
+miguellian balance 4720, didn't bet (folded)
+jackigan balance 1870, didn't bet (folded)
+markus123456 balance 5100, didn't bet (folded)
+keihun balance 3000, lost 100 (folded)
+
+***** Hand History for Game 5999434199 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:40:12 EDT 2007
+Table Table  125943 (Real Money) -- Seat 9 is the button
+Total number of players : 5
+Seat 2: hatoka (5310)
+Seat 3: miguellian (4720)
+Seat 5: jackigan (1870)
+Seat 8: markus123456 (5100)
+Seat 9: keihun (3000)
+hatoka  posts small blind (50)
+miguellian  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ As, Jd ]
+jackigan folds.
+markus123456 folds.
+keihun folds.
+hatoka raises (350) to 400
+miguellian folds.
+** Summary **
+Main Pot: 200
+
+hatoka balance 5410, bet 400, collected 500, net +100
+miguellian balance 4620, lost 100 (folded)
+jackigan balance 1870, didn't bet (folded)
+markus123456 balance 5100, didn't bet (folded)
+keihun balance 3000, didn't bet (folded)
+
+***** Hand History for Game 5999435779 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:40:34 EDT 2007
+Table Table  125943 (Real Money) -- Seat 2 is the button
+Total number of players : 5
+Seat 2: hatoka (5410)
+Seat 3: miguellian (4620)
+Seat 5: jackigan (1870)
+Seat 8: markus123456 (5100)
+Seat 9: keihun (3000)
+miguellian  posts small blind (50)
+jackigan  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 9h, 6s ]
+markus123456 folds.
+keihun folds.
+hatoka folds.
+miguellian raises (150) to 200
+jackigan folds.
+** Summary **
+Main Pot: 200
+
+hatoka balance 5410, didn't bet (folded)
+miguellian balance 4720, bet 200, collected 300, net +100
+jackigan balance 1770, lost 100 (folded)
+markus123456 balance 5100, didn't bet (folded)
+keihun balance 3000, didn't bet (folded)
+
+***** Hand History for Game 5999436783 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:40:49 EDT 2007
+Table Table  125943 (Real Money) -- Seat 3 is the button
+Total number of players : 5
+Seat 2: hatoka (5410)
+Seat 3: miguellian (4720)
+Seat 5: jackigan (1770)
+Seat 8: markus123456 (5100)
+Seat 9: keihun (3000)
+jackigan  posts small blind (50)
+markus123456  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Js, 6d ]
+keihun folds.
+hatoka folds.
+miguellian raises (200) to 200
+jackigan folds.
+markus123456 folds.
+** Summary **
+Main Pot: 250
+
+hatoka balance 5410, didn't bet (folded)
+miguellian balance 4870, bet 200, collected 350, net +150
+jackigan balance 1720, lost 50 (folded)
+markus123456 balance 5000, lost 100 (folded)
+keihun balance 3000, didn't bet (folded)
+
+***** Hand History for Game 5999437939 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:41:06 EDT 2007
+Table Table  125943 (Real Money) -- Seat 5 is the button
+Total number of players : 5
+Seat 2: hatoka (5410)
+Seat 3: miguellian (4870)
+Seat 5: jackigan (1720)
+Seat 8: markus123456 (5000)
+Seat 9: keihun (3000)
+markus123456  posts small blind (50)
+keihun  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 3s, 5d ]
+hatoka folds.
+miguellian folds.
+jackigan folds.
+markus123456 calls (50)
+keihun checks.
+** Dealing Flop ** :  [ 4c, Qs, Kc ]
+markus123456 bets (100)
+keihun folds.
+** Summary **
+Main Pot: 200
+Board: [ 4c Qs Kc  ]
+
+hatoka balance 5410, didn't bet (folded)
+miguellian balance 4870, didn't bet (folded)
+jackigan balance 1720, didn't bet (folded)
+markus123456 balance 5100, bet 200, collected 300, net +100
+keihun balance 2900, lost 100 (folded)
+
+***** Hand History for Game 5999439067 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:41:22 EDT 2007
+Table Table  125943 (Real Money) -- Seat 8 is the button
+Total number of players : 5
+Seat 2: hatoka (5410)
+Seat 3: miguellian (4870)
+Seat 5: jackigan (1720)
+Seat 8: markus123456 (5100)
+Seat 9: keihun (2900)
+keihun  posts small blind (50)
+hatoka  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 7h, Js ]
+miguellian folds.
+jackigan folds.
+markus123456 raises (300) to 300
+keihun folds.
+hatoka folds.
+** Summary **
+Main Pot: 250
+
+hatoka balance 5310, lost 100 (folded)
+miguellian balance 4870, didn't bet (folded)
+jackigan balance 1720, didn't bet (folded)
+markus123456 balance 5250, bet 300, collected 450, net +150
+keihun balance 2850, lost 50 (folded)
+
+***** Hand History for Game 5999440205 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:41:39 EDT 2007
+Table Table  125943 (Real Money) -- Seat 9 is the button
+Total number of players : 5
+Seat 2: hatoka (5310)
+Seat 3: miguellian (4870)
+Seat 5: jackigan (1720)
+Seat 8: markus123456 (5250)
+Seat 9: keihun (2850)
+hatoka  posts small blind (50)
+miguellian  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 6h, Js ]
+jackigan folds.
+markus123456 calls (100)
+keihun folds.
+hatoka calls (50)
+miguellian checks.
+** Dealing Flop ** :  [ 8h, 6s, Th ]
+hatoka bets (100)
+miguellian raises (200) to 200
+markus123456 calls (200)
+hatoka calls (100)
+** Dealing Turn ** :  [ 9d ]
+hatoka checks.
+miguellian bets (300)
+markus123456 calls (300)
+hatoka calls (300)
+** Dealing River ** :  [ 5c ]
+hatoka checks.
+miguellian checks.
+markus123456 checks.
+** Summary **
+Main Pot: 1800
+Board: [ 8h 6s Th 9d 5c  ]
+
+hatoka balance 4710, lost 600 [ 6h Js ] [ a pair of Sixes -- Js,Th,9d,6h,6s ]
+miguellian balance 4270, lost 600 [ Ts 4h ] [ a pair of Tens -- Ts,Th,9d,8h,6s ]
+jackigan balance 1720, didn't bet (folded)
+markus123456 balance 6450, bet 600, collected 1800, net +1200 [ Tc Jc ] [ a pair of Tens with Jack kicker -- Jc,Tc,Th,9d,8hJc(kicker card) ]
+keihun balance 2850, didn't bet (folded)
+
+***** Hand History for Game 5999443550 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:42:27 EDT 2007
+Table Table  125943 (Real Money) -- Seat 2 is the button
+Total number of players : 5
+Seat 2: hatoka (4710)
+Seat 3: miguellian (4270)
+Seat 5: jackigan (1720)
+Seat 8: markus123456 (6450)
+Seat 9: keihun (2850)
+miguellian  posts small blind (100)
+jackigan  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Kc, 5s ]
+markus123456 calls (200)
+keihun calls (200)
+hatoka folds.
+miguellian folds.
+jackigan checks.
+** Dealing Flop ** :  [ Qd, Jh, 8d ]
+jackigan checks.
+markus123456 bets (200)
+keihun folds.
+jackigan folds.
+** Summary **
+Main Pot: 700
+Board: [ Qd Jh 8d  ]
+
+hatoka balance 4710, didn't bet (folded)
+miguellian balance 4170, lost 100 (folded)
+jackigan balance 1520, lost 200 (folded)
+markus123456 balance 6950, bet 400, collected 900, net +500
+keihun balance 2650, lost 200 (folded)
+
+***** Hand History for Game 5999445842 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:42:59 EDT 2007
+Table Table  125943 (Real Money) -- Seat 3 is the button
+Total number of players : 5
+Seat 2: hatoka (4710)
+Seat 3: miguellian (4170)
+Seat 5: jackigan (1520)
+Seat 8: markus123456 (6950)
+Seat 9: keihun (2650)
+jackigan  posts small blind (100)
+markus123456  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Ac, 3s ]
+keihun folds.
+hatoka raises (400) to 400
+miguellian folds.
+jackigan folds.
+markus123456 calls (200)
+** Dealing Flop ** :  [ Kc, 4h, 5c ]
+markus123456 checks.
+hatoka bets (500)
+markus123456 folds.
+** Summary **
+Main Pot: 900
+Board: [ Kc 4h 5c  ]
+
+hatoka balance 5210, bet 900, collected 1400, net +500
+miguellian balance 4170, didn't bet (folded)
+jackigan balance 1420, lost 100 (folded)
+markus123456 balance 6550, lost 400 (folded)
+keihun balance 2650, didn't bet (folded)
+
+***** Hand History for Game 5999447810 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:43:29 EDT 2007
+Table Table  125943 (Real Money) -- Seat 5 is the button
+Total number of players : 5
+Seat 2: hatoka (5210)
+Seat 3: miguellian (4170)
+Seat 5: jackigan (1420)
+Seat 8: markus123456 (6550)
+Seat 9: keihun (2650)
+markus123456  posts small blind (100)
+keihun  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 7c, Ac ]
+hatoka raises (600) to 600
+miguellian folds.
+jackigan folds.
+markus123456 folds.
+keihun folds.
+** Summary **
+Main Pot: 500
+
+hatoka balance 5510, bet 600, collected 900, net +300
+miguellian balance 4170, didn't bet (folded)
+jackigan balance 1420, didn't bet (folded)
+markus123456 balance 6450, lost 100 (folded)
+keihun balance 2450, lost 200 (folded)
+
+***** Hand History for Game 5999448981 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:43:46 EDT 2007
+Table Table  125943 (Real Money) -- Seat 8 is the button
+Total number of players : 5
+Seat 2: hatoka (5510)
+Seat 3: miguellian (4170)
+Seat 5: jackigan (1420)
+Seat 8: markus123456 (6450)
+Seat 9: keihun (2450)
+keihun  posts small blind (100)
+hatoka  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 7c, 5c ]
+miguellian calls (200)
+jackigan folds.
+markus123456 folds.
+keihun folds.
+hatoka checks.
+** Dealing Flop ** :  [ As, 4d, 6c ]
+hatoka bets (200)
+miguellian calls (200)
+** Dealing Turn ** :  [ Ah ]
+hatoka checks.
+miguellian bets (600)
+hatoka folds.
+** Summary **
+Main Pot: 900
+Board: [ As 4d 6c Ah  ]
+
+hatoka balance 5110, lost 400 (folded)
+miguellian balance 4670, bet 1000, collected 1500, net +500
+jackigan balance 1420, didn't bet (folded)
+markus123456 balance 6450, didn't bet (folded)
+keihun balance 2350, lost 100 (folded)
+
+***** Hand History for Game 5999451296 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:44:21 EDT 2007
+Table Table  125943 (Real Money) -- Seat 9 is the button
+Total number of players : 5
+Seat 2: hatoka (5110)
+Seat 3: miguellian (4670)
+Seat 5: jackigan (1420)
+Seat 8: markus123456 (6450)
+Seat 9: keihun (2350)
+hatoka  posts small blind (100)
+miguellian  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Ts, 8c ]
+jackigan raises (1420) to 1420
+jackigan is all-In.
+markus123456 folds.
+keihun folds.
+hatoka folds.
+miguellian folds.
+Creating Main Pot with $500 with jackigan
+** Summary **
+Main Pot: 500
+
+hatoka balance 5010, lost 100 (folded)
+miguellian balance 4470, lost 200 (folded)
+jackigan balance 1720, bet 1420, collected 1720, net +300
+markus123456 balance 6450, didn't bet (folded)
+keihun balance 2350, didn't bet (folded)
+
+***** Hand History for Game 5999453146 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:44:48 EDT 2007
+Table Table  125943 (Real Money) -- Seat 2 is the button
+Total number of players : 5
+Seat 2: hatoka (5010)
+Seat 3: miguellian (4470)
+Seat 5: jackigan (1720)
+Seat 8: markus123456 (6450)
+Seat 9: keihun (2350)
+miguellian  posts small blind (100)
+jackigan  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Qd, 9c ]
+markus123456 raises (600) to 600
+keihun folds.
+hatoka folds.
+miguellian folds.
+jackigan folds.
+** Summary **
+Main Pot: 500
+
+hatoka balance 5010, didn't bet (folded)
+miguellian balance 4370, lost 100 (folded)
+jackigan balance 1520, lost 200 (folded)
+markus123456 balance 6750, bet 600, collected 900, net +300
+keihun balance 2350, didn't bet (folded)
+
+***** Hand History for Game 5999454334 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:45:05 EDT 2007
+Table Table  125943 (Real Money) -- Seat 3 is the button
+Total number of players : 5
+Seat 2: hatoka (5010)
+Seat 3: miguellian (4370)
+Seat 5: jackigan (1520)
+Seat 8: markus123456 (6750)
+Seat 9: keihun (2350)
+jackigan  posts small blind (100)
+markus123456  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 9h, Qd ]
+keihun calls (200)
+hatoka calls (200)
+miguellian folds.
+jackigan folds.
+markus123456 checks.
+** Dealing Flop ** :  [ Js, 4s, 5c ]
+markus123456 checks.
+keihun bets (200)
+hatoka folds.
+markus123456 folds.
+** Summary **
+Main Pot: 700
+Board: [ Js 4s 5c  ]
+
+hatoka balance 4810, lost 200 (folded)
+miguellian balance 4370, didn't bet (folded)
+jackigan balance 1420, lost 100 (folded)
+markus123456 balance 6550, lost 200 (folded)
+keihun balance 2850, bet 400, collected 900, net +500
+
+***** Hand History for Game 5999456449 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:45:35 EDT 2007
+Table Table  125943 (Real Money) -- Seat 5 is the button
+Total number of players : 5
+Seat 2: hatoka (4810)
+Seat 3: miguellian (4370)
+Seat 5: jackigan (1420)
+Seat 8: markus123456 (6550)
+Seat 9: keihun (2850)
+markus123456  posts small blind (100)
+keihun  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Kh, 2s ]
+hatoka folds.
+miguellian raises (600) to 600
+jackigan raises (1420) to 1420
+jackigan is all-In.
+markus123456 folds.
+keihun folds.
+miguellian calls (820)
+** Dealing Flop ** :  [ 5s, 8h, 7s ]
+** Dealing Turn ** :  [ 6h ]
+** Dealing River ** :  [ 6s ]
+Creating Main Pot with $3140 with jackigan
+** Summary **
+Main Pot: 3140
+Board: [ 5s 8h 7s 6h 6s  ]
+
+hatoka balance 4810, didn't bet (folded)
+miguellian balance 2950, lost 1420 [ Js Ah ] [ a pair of Sixes -- Ah,Js,8h,6h,6s ]
+jackigan balance 3140, bet 1420, collected 3140, net +1720 [ Ac Ad ] [ two pairs, Aces and Sixes -- Ac,Ad,8h,6h,6s ]
+markus123456 balance 6450, lost 100 (folded)
+keihun balance 2650, lost 200 (folded)
+
+***** Hand History for Game 5999458382 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:46:07 EDT 2007
+Table Table  125943 (Real Money) -- Seat 8 is the button
+Total number of players : 5
+Seat 2: hatoka (4810)
+Seat 3: miguellian (2950)
+Seat 5: jackigan (3140)
+Seat 8: markus123456 (6450)
+Seat 9: keihun (2650)
+keihun  posts small blind (100)
+hatoka  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 4s, Ks ]
+miguellian folds.
+jackigan folds.
+markus123456 folds.
+keihun folds.
+** Summary **
+Main Pot: 200
+
+hatoka balance 4910, bet 200, collected 300, net +100
+miguellian balance 2950, didn't bet (folded)
+jackigan balance 3140, didn't bet (folded)
+markus123456 balance 6450, didn't bet (folded)
+keihun balance 2550, lost 100 (folded)
+
+***** Hand History for Game 5999459293 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:46:24 EDT 2007
+Table Table  125943 (Real Money) -- Seat 9 is the button
+Total number of players : 5
+Seat 2: hatoka (4910)
+Seat 3: miguellian (2950)
+Seat 5: jackigan (3140)
+Seat 8: markus123456 (6450)
+Seat 9: keihun (2550)
+hatoka  posts small blind (100)
+miguellian  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 2s, Td ]
+jackigan folds.
+markus123456 raises (400) to 400
+keihun folds.
+hatoka folds.
+miguellian folds.
+** Summary **
+Main Pot: 500
+
+hatoka balance 4810, lost 100 (folded)
+miguellian balance 2750, lost 200 (folded)
+jackigan balance 3140, didn't bet (folded)
+markus123456 balance 6750, bet 400, collected 700, net +300
+keihun balance 2550, didn't bet (folded)
+
+***** Hand History for Game 5999460121 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:46:39 EDT 2007
+Table Table  125943 (Real Money) -- Seat 2 is the button
+Total number of players : 5
+Seat 2: hatoka (4810)
+Seat 3: miguellian (2750)
+Seat 5: jackigan (3140)
+Seat 8: markus123456 (6750)
+Seat 9: keihun (2550)
+miguellian  posts small blind (100)
+jackigan  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Qc, Jc ]
+markus123456 folds.
+keihun folds.
+hatoka raises (600) to 600
+miguellian calls (500)
+jackigan folds.
+** Dealing Flop ** :  [ 4d, 5d, 8d ]
+miguellian checks.
+hatoka checks.
+** Dealing Turn ** :  [ Qd ]
+miguellian checks.
+hatoka bets (600)
+miguellian raises (1800) to 1800
+hatoka folds.
+** Summary **
+Main Pot: 2600
+Board: [ 4d 5d 8d Qd  ]
+
+hatoka balance 3610, lost 1200 (folded)
+miguellian balance 4150, bet 2400, collected 3800, net +1400
+jackigan balance 2940, lost 200 (folded)
+markus123456 balance 6750, didn't bet (folded)
+keihun balance 2550, didn't bet (folded)
+
+***** Hand History for Game 5999463592 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:47:37 EDT 2007
+Table Table  125943 (Real Money) -- Seat 3 is the button
+Total number of players : 5
+Seat 2: hatoka (3610)
+Seat 3: miguellian (4150)
+Seat 5: jackigan (2940)
+Seat 8: markus123456 (6750)
+Seat 9: keihun (2550)
+jackigan  posts small blind (100)
+markus123456  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 7h, Ah ]
+keihun folds.
+hatoka raises (400) to 400
+miguellian folds.
+jackigan folds.
+markus123456 folds.
+** Summary **
+Main Pot: 500
+
+hatoka balance 3910, bet 400, collected 700, net +300
+miguellian balance 4150, didn't bet (folded)
+jackigan balance 2840, lost 100 (folded)
+markus123456 balance 6550, lost 200 (folded)
+keihun balance 2550, didn't bet (folded)
+
+***** Hand History for Game 5999464801 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:47:58 EDT 2007
+Table Table  125943 (Real Money) -- Seat 5 is the button
+Total number of players : 5
+Seat 2: hatoka (3910)
+Seat 3: miguellian (4150)
+Seat 5: jackigan (2840)
+Seat 8: markus123456 (6550)
+Seat 9: keihun (2550)
+markus123456  posts small blind (100)
+keihun  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Ah, 5d ]
+hatoka raises (400) to 400
+miguellian folds.
+jackigan folds.
+markus123456 folds.
+keihun folds.
+** Summary **
+Main Pot: 500
+
+hatoka balance 4210, bet 400, collected 700, net +300
+miguellian balance 4150, didn't bet (folded)
+jackigan balance 2840, didn't bet (folded)
+markus123456 balance 6450, lost 100 (folded)
+keihun balance 2350, lost 200 (folded)
+
+***** Hand History for Game 5999465854 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:48:15 EDT 2007
+Table Table  125943 (Real Money) -- Seat 8 is the button
+Total number of players : 5
+Seat 2: hatoka (4210)
+Seat 3: miguellian (4150)
+Seat 5: jackigan (2840)
+Seat 8: markus123456 (6450)
+Seat 9: keihun (2350)
+keihun  posts small blind (100)
+hatoka  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Qh, 7c ]
+miguellian folds.
+jackigan folds.
+markus123456 calls (200)
+keihun folds.
+hatoka checks.
+** Dealing Flop ** :  [ 8c, 5d, Js ]
+hatoka checks.
+markus123456 bets (200)
+hatoka folds.
+** Summary **
+Main Pot: 500
+Board: [ 8c 5d Js  ]
+
+hatoka balance 4010, lost 200 (folded)
+miguellian balance 4150, didn't bet (folded)
+jackigan balance 2840, didn't bet (folded)
+markus123456 balance 6750, bet 400, collected 700, net +300
+keihun balance 2250, lost 100 (folded)
+
+***** Hand History for Game 5999467136 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:48:37 EDT 2007
+Table Table  125943 (Real Money) -- Seat 9 is the button
+Total number of players : 5
+Seat 2: hatoka (4010)
+Seat 3: miguellian (4150)
+Seat 5: jackigan (2840)
+Seat 8: markus123456 (6750)
+Seat 9: keihun (2250)
+hatoka  posts small blind (100)
+miguellian  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 3s, 6h ]
+jackigan folds.
+markus123456 folds.
+keihun calls (200)
+hatoka folds.
+miguellian checks.
+** Dealing Flop ** :  [ 9c, 5c, 4d ]
+miguellian bets (200)
+keihun folds.
+** Summary **
+Main Pot: 500
+Board: [ 9c 5c 4d  ]
+
+hatoka balance 3910, lost 100 (folded)
+miguellian balance 4450, bet 400, collected 700, net +300
+jackigan balance 2840, didn't bet (folded)
+markus123456 balance 6750, didn't bet (folded)
+keihun balance 2050, lost 200 (folded)
+
+***** Hand History for Game 5999468466 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:48:59 EDT 2007
+Table Table  125943 (Real Money) -- Seat 2 is the button
+Total number of players : 5
+Seat 2: hatoka (3910)
+Seat 3: miguellian (4450)
+Seat 5: jackigan (2840)
+Seat 8: markus123456 (6750)
+Seat 9: keihun (2050)
+miguellian  posts small blind (100)
+jackigan  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Tc, 5c ]
+markus123456 folds.
+keihun folds.
+hatoka raises (400) to 400
+miguellian calls (300)
+jackigan folds.
+** Dealing Flop ** :  [ 6c, 7c, Jc ]
+miguellian checks.
+hatoka bets (1000)
+miguellian folds.
+** Summary **
+Main Pot: 1000
+Board: [ 6c 7c Jc  ]
+
+hatoka balance 4510, bet 1400, collected 2000, net +600
+miguellian balance 4050, lost 400 (folded)
+jackigan balance 2640, lost 200 (folded)
+markus123456 balance 6750, didn't bet (folded)
+keihun balance 2050, didn't bet (folded)
+
+***** Hand History for Game 5999470262 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:49:30 EDT 2007
+Table Table  125943 (Real Money) -- Seat 3 is the button
+Total number of players : 5
+Seat 2: hatoka (4510)
+Seat 3: miguellian (4050)
+Seat 5: jackigan (2640)
+Seat 8: markus123456 (6750)
+Seat 9: keihun (2050)
+jackigan  posts small blind (100)
+markus123456  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Tc, Kc ]
+keihun folds.
+hatoka raises (600) to 600
+miguellian folds.
+jackigan folds.
+markus123456 folds.
+** Summary **
+Main Pot: 500
+
+hatoka balance 4810, bet 600, collected 900, net +300
+miguellian balance 4050, didn't bet (folded)
+jackigan balance 2540, lost 100 (folded)
+markus123456 balance 6550, lost 200 (folded)
+keihun balance 2050, didn't bet (folded)
+
+***** Hand History for Game 5999471212 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:49:46 EDT 2007
+Table Table  125943 (Real Money) -- Seat 5 is the button
+Total number of players : 5
+Seat 2: hatoka (4810)
+Seat 3: miguellian (4050)
+Seat 5: jackigan (2540)
+Seat 8: markus123456 (6550)
+Seat 9: keihun (2050)
+markus123456  posts small blind (100)
+keihun  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 8s, 4s ]
+hatoka folds.
+miguellian calls (200)
+jackigan folds.
+markus123456 raises (300) to 400
+keihun folds.
+miguellian calls (200)
+** Dealing Flop ** :  [ 5h, Td, 6d ]
+markus123456 bets (200)
+miguellian calls (200)
+** Dealing Turn ** :  [ Qh ]
+markus123456 bets (200)
+miguellian raises (600) to 600
+markus123456 folds.
+** Summary **
+Main Pot: 1800
+Board: [ 5h Td 6d Qh  ]
+
+hatoka balance 4810, didn't bet (folded)
+miguellian balance 5050, bet 1200, collected 2200, net +1000
+jackigan balance 2540, didn't bet (folded)
+markus123456 balance 5750, lost 800 (folded)
+keihun balance 1850, lost 200 (folded)
+
+***** Hand History for Game 5999474227 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:50:36 EDT 2007
+Table Table  125943 (Real Money) -- Seat 8 is the button
+Total number of players : 5
+Seat 2: hatoka (4810)
+Seat 3: miguellian (5050)
+Seat 5: jackigan (2540)
+Seat 8: markus123456 (5750)
+Seat 9: keihun (1850)
+keihun  posts small blind (100)
+hatoka  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Tc, Th ]
+miguellian folds.
+jackigan raises (600) to 600
+markus123456 folds.
+keihun folds.
+hatoka raises (1800) to 2000
+jackigan folds.
+** Summary **
+Main Pot: 1300
+
+hatoka balance 5510, bet 2000, collected 2700, net +700
+miguellian balance 5050, didn't bet (folded)
+jackigan balance 1940, lost 600 (folded)
+markus123456 balance 5750, didn't bet (folded)
+keihun balance 1750, lost 100 (folded)
+
+***** Hand History for Game 5999476570 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:51:11 EDT 2007
+Table Table  125943 (Real Money) -- Seat 9 is the button
+Total number of players : 5
+Seat 2: hatoka (5510)
+Seat 3: miguellian (5050)
+Seat 5: jackigan (1940)
+Seat 8: markus123456 (5750)
+Seat 9: keihun (1750)
+hatoka  posts small blind (100)
+miguellian  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 5d, Qc ]
+jackigan folds.
+markus123456 folds.
+keihun folds.
+hatoka calls (100)
+miguellian checks.
+** Dealing Flop ** :  [ 9h, Jd, 4s ]
+hatoka checks.
+miguellian checks.
+** Dealing Turn ** :  [ Jc ]
+hatoka bets (200)
+miguellian folds.
+** Summary **
+Main Pot: 400
+Board: [ 9h Jd 4s Jc  ]
+
+hatoka balance 5710, bet 400, collected 600, net +200
+miguellian balance 4850, lost 200 (folded)
+jackigan balance 1940, didn't bet (folded)
+markus123456 balance 5750, didn't bet (folded)
+keihun balance 1750, didn't bet (folded)
+
+***** Hand History for Game 5999478474 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:51:40 EDT 2007
+Table Table  125943 (Real Money) -- Seat 2 is the button
+Total number of players : 5
+Seat 2: hatoka (5710)
+Seat 3: miguellian (4850)
+Seat 5: jackigan (1940)
+Seat 8: markus123456 (5750)
+Seat 9: keihun (1750)
+miguellian  posts small blind (100)
+jackigan  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ Qd, 6s ]
+markus123456 folds.
+keihun folds.
+hatoka folds.
+miguellian calls (100)
+jackigan checks.
+** Dealing Flop ** :  [ 7h, 5d, 2d ]
+miguellian bets (200)
+jackigan raises (600) to 600
+miguellian folds.
+** Summary **
+Main Pot: 800
+Board: [ 7h 5d 2d  ]
+
+hatoka balance 5710, didn't bet (folded)
+miguellian balance 4450, lost 400 (folded)
+jackigan balance 2340, bet 800, collected 1200, net +400
+markus123456 balance 5750, didn't bet (folded)
+keihun balance 1750, didn't bet (folded)
+
+***** Hand History for Game 5999481610 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:52:26 EDT 2007
+Table Table  125943 (Real Money) -- Seat 3 is the button
+Total number of players : 5
+Seat 2: hatoka (5710)
+Seat 3: miguellian (4450)
+Seat 5: jackigan (2340)
+Seat 8: markus123456 (5750)
+Seat 9: keihun (1750)
+jackigan  posts small blind (100)
+markus123456  posts big blind (200)
+** Dealing down cards **
+Dealt to hatoka [ 8d, Qc ]
+keihun folds.
+hatoka calls (200)
+miguellian calls (200)
+jackigan folds.
+markus123456 raises (400) to 600
+hatoka folds.
+miguellian folds.
+** Summary **
+Main Pot: 700
+
+hatoka balance 5510, lost 200 (folded)
+miguellian balance 4250, lost 200 (folded)
+jackigan balance 2240, lost 100 (folded)
+markus123456 balance 6250, bet 600, collected 1100, net +500
+keihun balance 1750, didn't bet (folded)
+
+***** Hand History for Game 5999484182 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:53:03 EDT 2007
+Table Table  125943 (Real Money) -- Seat 5 is the button
+Total number of players : 5
+Seat 2: hatoka (5510)
+Seat 3: miguellian (4250)
+Seat 5: jackigan (2240)
+Seat 8: markus123456 (6250)
+Seat 9: keihun (1750)
+markus123456  posts small blind (200)
+keihun  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 2h, 5s ]
+hatoka folds.
+miguellian folds.
+jackigan raises (2240) to 2240
+jackigan is all-In.
+markus123456 folds.
+keihun folds.
+Creating Main Pot with $1000 with jackigan
+** Summary **
+Main Pot: 1000
+
+hatoka balance 5510, didn't bet (folded)
+miguellian balance 4250, didn't bet (folded)
+jackigan balance 2840, bet 2240, collected 2840, net +600
+markus123456 balance 6050, lost 200 (folded)
+keihun balance 1350, lost 400 (folded)
+
+***** Hand History for Game 5999485923 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:53:29 EDT 2007
+Table Table  125943 (Real Money) -- Seat 8 is the button
+Total number of players : 5
+Seat 2: hatoka (5510)
+Seat 3: miguellian (4250)
+Seat 5: jackigan (2840)
+Seat 8: markus123456 (6050)
+Seat 9: keihun (1350)
+keihun  posts small blind (200)
+hatoka  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 3h, 5c ]
+miguellian raises (800) to 800
+jackigan folds.
+markus123456 folds.
+keihun folds.
+hatoka folds.
+** Summary **
+Main Pot: 1000
+
+hatoka balance 5110, lost 400 (folded)
+miguellian balance 4850, bet 800, collected 1400, net +600
+jackigan balance 2840, didn't bet (folded)
+markus123456 balance 6050, didn't bet (folded)
+keihun balance 1150, lost 200 (folded)
+
+***** Hand History for Game 5999486892 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:53:44 EDT 2007
+Table Table  125943 (Real Money) -- Seat 9 is the button
+Total number of players : 5
+Seat 2: hatoka (5110)
+Seat 3: miguellian (4850)
+Seat 5: jackigan (2840)
+Seat 8: markus123456 (6050)
+Seat 9: keihun (1150)
+hatoka  posts small blind (200)
+miguellian  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ Qh, 6c ]
+jackigan folds.
+markus123456 folds.
+keihun folds.
+hatoka raises (600) to 800
+miguellian calls (400)
+** Dealing Flop ** :  [ 3s, 8s, Qs ]
+hatoka bets (400)
+miguellian folds.
+** Summary **
+Main Pot: 1600
+Board: [ 3s 8s Qs  ]
+
+hatoka balance 5910, bet 1200, collected 2000, net +800
+miguellian balance 4050, lost 800 (folded)
+jackigan balance 2840, didn't bet (folded)
+markus123456 balance 6050, didn't bet (folded)
+keihun balance 1150, didn't bet (folded)
+
+***** Hand History for Game 5999488882 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:54:14 EDT 2007
+Table Table  125943 (Real Money) -- Seat 2 is the button
+Total number of players : 5
+Seat 2: hatoka (5910)
+Seat 3: miguellian (4050)
+Seat 5: jackigan (2840)
+Seat 8: markus123456 (6050)
+Seat 9: keihun (1150)
+miguellian  posts small blind (200)
+jackigan  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ Kd, As ]
+markus123456 folds.
+keihun folds.
+hatoka raises (1500) to 1500
+jackigan: gg ppl ty
+miguellian folds.
+jackigan folds.
+** Summary **
+Main Pot: 1000
+
+hatoka balance 6510, bet 1500, collected 2100, net +600
+miguellian balance 3850, lost 200 (folded)
+jackigan balance 2440, lost 400 (folded)
+markus123456 balance 6050, didn't bet (folded)
+keihun balance 1150, didn't bet (folded)
+
+***** Hand History for Game 5999490158 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:54:33 EDT 2007
+Table Table  125943 (Real Money) -- Seat 3 is the button
+Total number of players : 5
+Seat 2: hatoka (6510)
+Seat 3: miguellian (3850)
+Seat 5: jackigan (2440)
+Seat 8: markus123456 (6050)
+Seat 9: keihun (1150)
+jackigan  posts small blind (200)
+markus123456  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 4h, Ah ]
+keihun folds.
+hatoka raises (800) to 800
+miguellian folds.
+jackigan raises (1000) to 1200
+markus123456 folds.
+hatoka calls (400)
+** Dealing Flop ** :  [ Jh, Qs, 4d ]
+jackigan bets (1240)
+jackigan is all-In.
+hatoka calls (1240)
+** Dealing Turn ** :  [ 5c ]
+** Dealing River ** :  [ 8d ]
+Creating Main Pot with $5280 with jackigan
+** Summary **
+Main Pot: 5280
+Board: [ Jh Qs 4d 5c 8d  ]
+
+hatoka balance 4070, lost 2440 [ 4h Ah ] [ a pair of Fours -- Ah,Qs,Jh,4h,4d ]
+miguellian balance 3850, didn't bet (folded)
+jackigan balance 5280, bet 2440, collected 5280, net +2840 [ Kh Kc ] [ a pair of Kings -- Kh,Kc,Qs,Jh,8d ]
+markus123456 balance 5650, lost 400 (folded)
+keihun balance 1150, didn't bet (folded)
+
+***** Hand History for Game 5999492827 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:55:14 EDT 2007
+Table Table  125943 (Real Money) -- Seat 5 is the button
+Total number of players : 5
+Seat 2: hatoka (4070)
+Seat 3: miguellian (3850)
+Seat 5: jackigan (5280)
+Seat 8: markus123456 (5650)
+Seat 9: keihun (1150)
+markus123456  posts small blind (200)
+keihun  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 7h, Th ]
+hatoka folds.
+miguellian folds.
+jackigan raises (1200) to 1200
+markus123456 folds.
+keihun calls (750)
+keihun is all-In.
+** Dealing Flop ** :  [ 6s, Ah, 8c ]
+** Dealing Turn ** :  [ 2s ]
+** Dealing River ** :  [ 2h ]
+Creating Main Pot with $2500 with keihun
+** Summary **
+Main Pot: 2500
+Board: [ 6s Ah 8c 2s 2h  ]
+
+hatoka balance 4070, didn't bet (folded)
+miguellian balance 3850, didn't bet (folded)
+jackigan balance 6630, bet 1200, collected 2550, net +1350 [ 6h 6d ] [ a full house, Sixes full of Twos -- 6h,6d,6s,2s,2h ]
+markus123456 balance 5450, lost 200 (folded)
+keihun balance 0, lost 1150 [ Qs Kc ] [ a pair of Twos -- Ah,Kc,Qs,2s,2h ]
+
+***** Hand History for Game 5999494364 *****
+keihun finished in 5 place.
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:55:36 EDT 2007
+Table Table  125943 (Real Money) -- Seat 8 is the button
+Total number of players : 4
+Seat 2: hatoka (4070)
+Seat 3: miguellian (3850)
+Seat 5: jackigan (6630)
+Seat 8: markus123456 (5450)
+hatoka  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 3d, 6s ]
+miguellian folds.
+jackigan folds.
+markus123456 calls (400)
+hatoka checks.
+** Dealing Flop ** :  [ Ad, Kh, Ts ]
+hatoka checks.
+markus123456 bets (400)
+hatoka folds.
+** Summary **
+Main Pot: 800
+Board: [ Ad Kh Ts  ]
+
+hatoka balance 3670, lost 400 (folded)
+miguellian balance 3850, didn't bet (folded)
+jackigan balance 6630, didn't bet (folded)
+markus123456 balance 5850, bet 800, collected 1200, net +400
+
+***** Hand History for Game 5999495710 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:55:58 EDT 2007
+Table Table  125943 (Real Money) -- Seat 8 is the button
+Total number of players : 4
+Seat 2: hatoka (3670)
+Seat 3: miguellian (3850)
+Seat 5: jackigan (6630)
+Seat 8: markus123456 (5850)
+hatoka  posts small blind (200)
+miguellian  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 4c, 2h ]
+jackigan folds.
+markus123456 folds.
+hatoka folds.
+** Summary **
+Main Pot: 400
+
+hatoka balance 3470, lost 200 (folded)
+miguellian balance 4050, bet 400, collected 600, net +200
+jackigan balance 6630, didn't bet (folded)
+markus123456 balance 5850, didn't bet (folded)
+
+***** Hand History for Game 5999496228 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:56:06 EDT 2007
+Table Table  125943 (Real Money) -- Seat 2 is the button
+Total number of players : 4
+Seat 2: hatoka (3470)
+Seat 3: miguellian (4050)
+Seat 5: jackigan (6630)
+Seat 8: markus123456 (5850)
+miguellian  posts small blind (200)
+jackigan  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 9c, 2d ]
+markus123456 raises (1200) to 1200
+hatoka folds.
+miguellian folds.
+jackigan folds.
+** Summary **
+Main Pot: 1000
+
+hatoka balance 3470, didn't bet (folded)
+miguellian balance 3850, lost 200 (folded)
+jackigan balance 6230, lost 400 (folded)
+markus123456 balance 6450, bet 1200, collected 1800, net +600
+
+***** Hand History for Game 5999497114 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:56:20 EDT 2007
+Table Table  125943 (Real Money) -- Seat 3 is the button
+Total number of players : 4
+Seat 2: hatoka (3470)
+Seat 3: miguellian (3850)
+Seat 5: jackigan (6230)
+Seat 8: markus123456 (6450)
+jackigan  posts small blind (200)
+markus123456  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 3h, 4s ]
+hatoka folds.
+miguellian raises (800) to 800
+jackigan folds.
+markus123456 folds.
+** Summary **
+Main Pot: 1000
+
+hatoka balance 3470, didn't bet (folded)
+miguellian balance 4450, bet 800, collected 1400, net +600
+jackigan balance 6030, lost 200 (folded)
+markus123456 balance 6050, lost 400 (folded)
+
+***** Hand History for Game 5999498202 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:56:37 EDT 2007
+Table Table  125943 (Real Money) -- Seat 5 is the button
+Total number of players : 4
+Seat 2: hatoka (3470)
+Seat 3: miguellian (4450)
+Seat 5: jackigan (6030)
+Seat 8: markus123456 (6050)
+markus123456  posts small blind (200)
+hatoka  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ Tc, 9c ]
+miguellian folds.
+jackigan folds.
+markus123456 calls (200)
+hatoka checks.
+** Dealing Flop ** :  [ 2h, Qs, 3h ]
+markus123456 checks.
+hatoka bets (400)
+markus123456 calls (400)
+** Dealing Turn ** :  [ 3c ]
+markus123456 checks.
+hatoka bets (400)
+markus123456 folds.
+** Summary **
+Main Pot: 1600
+Board: [ 2h Qs 3h 3c  ]
+
+hatoka balance 4270, bet 1200, collected 2000, net +800
+miguellian balance 4450, didn't bet (folded)
+jackigan balance 6030, didn't bet (folded)
+markus123456 balance 5250, lost 800 (folded)
+
+***** Hand History for Game 5999500440 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:57:12 EDT 2007
+Table Table  125943 (Real Money) -- Seat 8 is the button
+Total number of players : 4
+Seat 2: hatoka (4270)
+Seat 3: miguellian (4450)
+Seat 5: jackigan (6030)
+Seat 8: markus123456 (5250)
+hatoka  posts small blind (200)
+miguellian  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 2h, 7d ]
+jackigan folds.
+markus123456 folds.
+hatoka folds.
+** Summary **
+Main Pot: 400
+
+hatoka balance 4070, lost 200 (folded)
+miguellian balance 4650, bet 400, collected 600, net +200
+jackigan balance 6030, didn't bet (folded)
+markus123456 balance 5250, didn't bet (folded)
+
+***** Hand History for Game 5999501457 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:57:27 EDT 2007
+Table Table  125943 (Real Money) -- Seat 2 is the button
+Total number of players : 4
+Seat 2: hatoka (4070)
+Seat 3: miguellian (4650)
+Seat 5: jackigan (6030)
+Seat 8: markus123456 (5250)
+miguellian  posts small blind (200)
+jackigan  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ Ad, 4s ]
+markus123456 folds.
+hatoka raises (800) to 800
+miguellian raises (2600) to 2800
+jackigan folds.
+hatoka folds.
+** Summary **
+Main Pot: 2000
+
+hatoka balance 3270, lost 800 (folded)
+miguellian balance 5850, bet 2800, collected 4000, net +1200
+jackigan balance 5630, lost 400 (folded)
+markus123456 balance 5250, didn't bet (folded)
+
+***** Hand History for Game 5999502581 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:57:45 EDT 2007
+Table Table  125943 (Real Money) -- Seat 3 is the button
+Total number of players : 4
+Seat 2: hatoka (3270)
+Seat 3: miguellian (5850)
+Seat 5: jackigan (5630)
+Seat 8: markus123456 (5250)
+jackigan  posts small blind (200)
+markus123456  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 6d, Ad ]
+hatoka raises (800) to 800
+miguellian calls (800)
+jackigan folds.
+markus123456 calls (400)
+** Dealing Flop ** :  [ As, Kd, 4s ]
+markus123456 checks.
+hatoka bets (1000)
+miguellian folds.
+markus123456 folds.
+** Summary **
+Main Pot: 2600
+Board: [ As Kd 4s  ]
+
+hatoka balance 5070, bet 1800, collected 3600, net +1800
+miguellian balance 5050, lost 800 (folded)
+jackigan balance 5430, lost 200 (folded)
+markus123456 balance 4450, lost 800 (folded)
+
+***** Hand History for Game 5999504513 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:58:16 EDT 2007
+Table Table  125943 (Real Money) -- Seat 5 is the button
+Total number of players : 4
+Seat 2: hatoka (5070)
+Seat 3: miguellian (5050)
+Seat 5: jackigan (5430)
+Seat 8: markus123456 (4450)
+markus123456  posts small blind (200)
+hatoka  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 4d, 9h ]
+miguellian folds.
+jackigan folds.
+markus123456 calls (200)
+hatoka checks.
+** Dealing Flop ** :  [ 2h, Ks, 5h ]
+markus123456 bets (800)
+hatoka folds.
+** Summary **
+Main Pot: 800
+Board: [ 2h Ks 5h  ]
+
+hatoka balance 4670, lost 400 (folded)
+miguellian balance 5050, didn't bet (folded)
+jackigan balance 5430, didn't bet (folded)
+markus123456 balance 4850, bet 1200, collected 1600, net +400
+
+***** Hand History for Game 5999505546 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:58:32 EDT 2007
+Table Table  125943 (Real Money) -- Seat 8 is the button
+Total number of players : 4
+Seat 2: hatoka (4670)
+Seat 3: miguellian (5050)
+Seat 5: jackigan (5430)
+Seat 8: markus123456 (4850)
+hatoka  posts small blind (200)
+miguellian  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 7h, Qh ]
+jackigan raises (1200) to 1200
+markus123456 folds.
+hatoka folds.
+miguellian calls (800)
+** Dealing Flop ** :  [ Kd, 2d, 7c ]
+miguellian checks.
+jackigan bets (1600)
+miguellian folds.
+** Summary **
+Main Pot: 2600
+Board: [ Kd 2d 7c  ]
+
+hatoka balance 4470, lost 200 (folded)
+miguellian balance 3850, lost 1200 (folded)
+jackigan balance 6830, bet 2800, collected 4200, net +1400
+markus123456 balance 4850, didn't bet (folded)
+
+***** Hand History for Game 5999508476 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 16:59:19 EDT 2007
+Table Table  125943 (Real Money) -- Seat 2 is the button
+Total number of players : 4
+Seat 2: hatoka (4470)
+Seat 3: miguellian (3850)
+Seat 5: jackigan (6830)
+Seat 8: markus123456 (4850)
+miguellian  posts small blind (200)
+jackigan  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 5c, 3c ]
+markus123456 folds.
+hatoka folds.
+miguellian calls (200)
+jackigan checks.
+** Dealing Flop ** :  [ 9h, 2s, As ]
+miguellian checks.
+jackigan checks.
+** Dealing Turn ** :  [ Jc ]
+miguellian checks.
+jackigan checks.
+** Dealing River ** :  [ 9s ]
+miguellian checks.
+jackigan checks.
+** Summary **
+Main Pot: 800
+Board: [ 9h 2s As Jc 9s  ]
+
+hatoka balance 4470, didn't bet (folded)
+miguellian balance 4250, bet 400, collected 800, net +400 [ Kc 5h ] [ a pair of Nines with King kicker -- As,Kc,Jc,9h,9sKc(kicker card) ]
+jackigan balance 6430, lost 400 [ 3d 7c ] [ a pair of Nines -- As,Jc,9h,9s,7c ]
+
+markus123456 balance 4850, didn't bet (folded)
+
+***** Hand History for Game 5999511218 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 17:00:02 EDT 2007
+Table Table  125943 (Real Money) -- Seat 3 is the button
+Total number of players : 4
+Seat 2: hatoka (4470)
+Seat 3: miguellian (4250)
+Seat 5: jackigan (6430)
+Seat 8: markus123456 (4850)
+jackigan  posts small blind (200)
+markus123456  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 4c, 3h ]
+hatoka folds.
+miguellian folds.
+jackigan folds.
+** Summary **
+Main Pot: 400
+
+hatoka balance 4470, didn't bet (folded)
+miguellian balance 4250, didn't bet (folded)
+jackigan balance 6230, lost 200 (folded)
+markus123456 balance 5050, bet 400, collected 600, net +200
+
+***** Hand History for Game 5999511967 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 17:00:14 EDT 2007
+Table Table  125943 (Real Money) -- Seat 5 is the button
+Total number of players : 4
+Seat 2: hatoka (4470)
+Seat 3: miguellian (4250)
+Seat 5: jackigan (6230)
+Seat 8: markus123456 (5050)
+markus123456  posts small blind (200)
+hatoka  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ Jd, 2c ]
+miguellian folds.
+jackigan folds.
+markus123456 folds.
+** Summary **
+Main Pot: 400
+
+hatoka balance 4670, bet 400, collected 600, net +200
+miguellian balance 4250, didn't bet (folded)
+jackigan balance 6230, didn't bet (folded)
+markus123456 balance 4850, lost 200 (folded)
+
+***** Hand History for Game 5999512909 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 17:00:29 EDT 2007
+Table Table  125943 (Real Money) -- Seat 8 is the button
+Total number of players : 4
+Seat 2: hatoka (4670)
+Seat 3: miguellian (4250)
+Seat 5: jackigan (6230)
+Seat 8: markus123456 (4850)
+hatoka  posts small blind (200)
+miguellian  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 8h, 8s ]
+jackigan folds.
+markus123456 raises (800) to 800
+hatoka raises (1300) to 1500
+miguellian folds.
+markus123456 folds.
+** Summary **
+Main Pot: 2000
+
+hatoka balance 5870, bet 1500, collected 2700, net +1200
+miguellian balance 3850, lost 400 (folded)
+jackigan balance 6230, didn't bet (folded)
+markus123456 balance 4050, lost 800 (folded)
+
+***** Hand History for Game 5999514462 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 17:00:53 EDT 2007
+Table Table  125943 (Real Money) -- Seat 2 is the button
+Total number of players : 4
+Seat 2: hatoka (5870)
+Seat 3: miguellian (3850)
+Seat 5: jackigan (6230)
+Seat 8: markus123456 (4050)
+miguellian  posts small blind (200)
+jackigan  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ Ad, Jd ]
+markus123456 folds.
+hatoka raises (1600) to 1600
+miguellian folds.
+jackigan folds.
+** Summary **
+Main Pot: 1000
+
+hatoka balance 6470, bet 1600, collected 2200, net +600
+miguellian balance 3650, lost 200 (folded)
+jackigan balance 5830, lost 400 (folded)
+markus123456 balance 4050, didn't bet (folded)
+
+***** Hand History for Game 5999516031 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 17:01:18 EDT 2007
+Table Table  125943 (Real Money) -- Seat 3 is the button
+Total number of players : 4
+Seat 2: hatoka (6470)
+Seat 3: miguellian (3650)
+Seat 5: jackigan (5830)
+Seat 8: markus123456 (4050)
+jackigan  posts small blind (200)
+markus123456  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ Qc, 3s ]
+hatoka folds.
+miguellian folds.
+jackigan folds.
+** Summary **
+Main Pot: 400
+
+hatoka balance 6470, didn't bet (folded)
+miguellian balance 3650, didn't bet (folded)
+jackigan balance 5630, lost 200 (folded)
+markus123456 balance 4250, bet 400, collected 600, net +200
+
+***** Hand History for Game 5999516479 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 17:01:25 EDT 2007
+Table Table  125943 (Real Money) -- Seat 5 is the button
+Total number of players : 4
+Seat 2: hatoka (6470)
+Seat 3: miguellian (3650)
+Seat 5: jackigan (5630)
+Seat 8: markus123456 (4250)
+markus123456  posts small blind (200)
+hatoka  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 2c, 8s ]
+miguellian folds.
+jackigan folds.
+markus123456 calls (200)
+hatoka checks.
+** Dealing Flop ** :  [ 9c, Qh, 6h ]
+markus123456 bets (400)
+hatoka folds.
+** Summary **
+Main Pot: 800
+Board: [ 9c Qh 6h  ]
+
+hatoka balance 6070, lost 400 (folded)
+miguellian balance 3650, didn't bet (folded)
+jackigan balance 5630, didn't bet (folded)
+markus123456 balance 4650, bet 800, collected 1200, net +400
+
+***** Hand History for Game 5999517704 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 17:01:44 EDT 2007
+Table Table  125943 (Real Money) -- Seat 8 is the button
+Total number of players : 4
+Seat 2: hatoka (6070)
+Seat 3: miguellian (3650)
+Seat 5: jackigan (5630)
+Seat 8: markus123456 (4650)
+hatoka  posts small blind (200)
+miguellian  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ 6c, 7d ]
+jackigan folds.
+markus123456 calls (400)
+hatoka folds.
+miguellian checks.
+** Dealing Flop ** :  [ 3h, As, 9d ]
+miguellian checks.
+markus123456 bets (400)
+jackigan: tight game :)
+miguellian calls (400)
+** Dealing Turn ** :  [ 3d ]
+miguellian bets (800)
+markus123456 calls (800)
+** Dealing River ** :  [ Kh ]
+miguellian bets (2000)
+markus123456 folds.
+** Summary **
+Main Pot: 3400
+Board: [ 3h As 9d 3d Kh  ]
+
+hatoka balance 5870, lost 200 (folded)
+miguellian balance 5450, bet 3600, collected 5400, net +1800
+jackigan balance 5630, didn't bet (folded)
+markus123456 balance 3050, lost 1600 (folded)
+
+***** Hand History for Game 5999521491 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 17:02:45 EDT 2007
+Table Table  125943 (Real Money) -- Seat 2 is the button
+Total number of players : 4
+Seat 2: hatoka (5870)
+Seat 3: miguellian (5450)
+Seat 5: jackigan (5630)
+Seat 8: markus123456 (3050)
+miguellian  posts small blind (200)
+jackigan  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ Qh, 4d ]
+markus123456 folds.
+hatoka folds.
+miguellian folds.
+** Summary **
+Main Pot: 400
+
+hatoka balance 5870, didn't bet (folded)
+miguellian balance 5250, lost 200 (folded)
+jackigan balance 5830, bet 400, collected 600, net +200
+markus123456 balance 3050, didn't bet (folded)
+
+***** Hand History for Game 5999522295 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 17:02:58 EDT 2007
+Table Table  125943 (Real Money) -- Seat 3 is the button
+Total number of players : 4
+Seat 2: hatoka (5870)
+Seat 3: miguellian (5250)
+Seat 5: jackigan (5830)
+Seat 8: markus123456 (3050)
+jackigan  posts small blind (200)
+markus123456  posts big blind (400)
+** Dealing down cards **
+Dealt to hatoka [ Kc, 7c ]
+hatoka raises (800) to 800
+miguellian folds.
+jackigan folds.
+markus123456 folds.
+** Summary **
+Main Pot: 1000
+
+hatoka balance 6470, bet 800, collected 1400, net +600
+miguellian balance 5250, didn't bet (folded)
+jackigan balance 5630, lost 200 (folded)
+markus123456 balance 2650, lost 400 (folded)
+
+***** Hand History for Game 5999523399 *****
+600/1200 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 17:03:16 EDT 2007
+Table Table  125943 (Real Money) -- Seat 5 is the button
+Total number of players : 4
+Seat 2: hatoka (6470)
+Seat 3: miguellian (5250)
+Seat 5: jackigan (5630)
+Seat 8: markus123456 (2650)
+markus123456  posts small blind (300)
+hatoka  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ 2h, 3c ]
+miguellian folds.
+jackigan folds.
+markus123456 folds.
+** Summary **
+Main Pot: 600
+
+hatoka balance 6770, bet 600, collected 900, net +300
+miguellian balance 5250, didn't bet (folded)
+jackigan balance 5630, didn't bet (folded)
+markus123456 balance 2350, lost 300 (folded)
+
+***** Hand History for Game 5999524084 *****
+600/1200 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 17:03:27 EDT 2007
+Table Table  125943 (Real Money) -- Seat 8 is the button
+Total number of players : 4
+Seat 2: hatoka (6770)
+Seat 3: miguellian (5250)
+Seat 5: jackigan (5630)
+Seat 8: markus123456 (2350)
+hatoka  posts small blind (300)
+miguellian  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ Ad, Ts ]
+jackigan folds.
+markus123456 folds.
+hatoka raises (900) to 1200
+miguellian folds.
+** Summary **
+Main Pot: 1200
+
+hatoka balance 7370, bet 1200, collected 1800, net +600
+miguellian balance 4650, lost 600 (folded)
+jackigan balance 5630, didn't bet (folded)
+markus123456 balance 2350, didn't bet (folded)
+
+***** Hand History for Game 5999525211 *****
+600/1200 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 17:03:46 EDT 2007
+Table Table  125943 (Real Money) -- Seat 2 is the button
+Total number of players : 4
+Seat 2: hatoka (7370)
+Seat 3: miguellian (4650)
+Seat 5: jackigan (5630)
+Seat 8: markus123456 (2350)
+miguellian  posts small blind (300)
+jackigan  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ 4d, 5s ]
+markus123456 raises (1200) to 1200
+hatoka folds.
+miguellian folds.
+jackigan raises (5030) to 5630
+jackigan is all-In.
+markus123456 calls (1150)
+markus123456 is all-In.
+** Dealing Flop ** :  [ Js, Jh, 4c ]
+** Dealing Turn ** :  [ As ]
+** Dealing River ** :  [ 7c ]
+Creating Main Pot with $5000 with markus123456
+** Summary **
+Main Pot: 5000
+Board: [ Js Jh 4c As 7c  ]
+
+hatoka balance 7370, didn't bet (folded)
+miguellian balance 4350, lost 300 (folded)
+jackigan balance 8280, bet 5630, collected 8280, net +2650 [ Kc Jc ] [ three of a kind, Jacks -- As,Kc,Jc,Js,Jh ]
+markus123456 balance 0, lost 2350 [ 5d 5h ] [ two pairs, Jacks and Fives -- As,Js,Jh,5d,5h ]
+
+***** Hand History for Game 5999526788 *****
+markus123456 finished in 4 place.
+600/1200 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 17:04:10 EDT 2007
+Table Table  125943 (Real Money) -- Seat 3 is the button
+Total number of players : 3
+Seat 2: hatoka (7370)
+Seat 3: miguellian (4350)
+Seat 5: jackigan (8280)
+jackigan  posts small blind (300)
+hatoka  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ 8d, Ad ]
+miguellian calls (600)
+jackigan: gg
+jackigan folds.
+hatoka raises (1400) to 2000
+miguellian folds.
+** Summary **
+Main Pot: 1500
+
+hatoka balance 8270, bet 2000, collected 2900, net +900
+miguellian balance 3750, lost 600 (folded)
+jackigan balance 7980, lost 300 (folded)
+
+***** Hand History for Game 5999528347 *****
+600/1200 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 17:04:36 EDT 2007
+Table Table  125943 (Real Money) -- Seat 5 is the button
+Total number of players : 3
+Seat 2: hatoka (8270)
+Seat 3: miguellian (3750)
+Seat 5: jackigan (7980)
+hatoka  posts small blind (300)
+miguellian  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ Kh, 8s ]
+jackigan folds.
+hatoka raises (900) to 1200
+miguellian folds.
+** Summary **
+Main Pot: 1200
+
+hatoka balance 8870, bet 1200, collected 1800, net +600
+miguellian balance 3150, lost 600 (folded)
+jackigan balance 7980, didn't bet (folded)
+
+***** Hand History for Game 5999529060 *****
+600/1200 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 17:04:48 EDT 2007
+Table Table  125943 (Real Money) -- Seat 2 is the button
+Total number of players : 3
+Seat 2: hatoka (8870)
+Seat 3: miguellian (3150)
+Seat 5: jackigan (7980)
+miguellian  posts small blind (300)
+jackigan  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ 9d, 7c ]
+hatoka folds.
+miguellian folds.
+** Summary **
+Main Pot: 600
+
+hatoka balance 8870, didn't bet (folded)
+miguellian balance 2850, lost 300 (folded)
+jackigan balance 8280, bet 600, collected 900, net +300
+
+***** Hand History for Game 5999529670 *****
+600/1200 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 17:04:58 EDT 2007
+Table Table  125943 (Real Money) -- Seat 3 is the button
+Total number of players : 3
+Seat 2: hatoka (8870)
+Seat 3: miguellian (2850)
+Seat 5: jackigan (8280)
+jackigan  posts small blind (300)
+hatoka  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ 2s, Jc ]
+miguellian folds.
+jackigan raises (1500) to 1800
+hatoka folds.
+** Summary **
+Main Pot: 1200
+
+hatoka balance 8270, lost 600 (folded)
+miguellian balance 2850, didn't bet (folded)
+jackigan balance 8880, bet 1800, collected 2400, net +600
+
+***** Hand History for Game 5999530604 *****
+600/1200 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 17:05:14 EDT 2007
+Table Table  125943 (Real Money) -- Seat 5 is the button
+Total number of players : 3
+Seat 2: hatoka (8270)
+Seat 3: miguellian (2850)
+Seat 5: jackigan (8880)
+hatoka  posts small blind (300)
+miguellian  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ As, Qh ]
+jackigan folds.
+hatoka raises (900) to 1200
+miguellian raises (2250) to 2850
+miguellian is all-In.
+hatoka calls (1650)
+** Dealing Flop ** :  [ Js, 3h, 4d ]
+** Dealing Turn ** :  [ Kd ]
+** Dealing River ** :  [ 2h ]
+Creating Main Pot with $5700 with miguellian
+** Summary **
+Main Pot: 5700
+Board: [ Js 3h 4d Kd 2h  ]
+
+hatoka balance 5420, lost 2850 [ As Qh ] [ high card Ace -- As,Kd,Qh,Js,4d ]
+miguellian balance 5700, bet 2850, collected 5700, net +2850 [ Th Ks ] [ a pair of Kings -- Ks,Kd,Js,Th,4d ]
+jackigan balance 8880, didn't bet (folded)
+
+***** Hand History for Game 5999531927 *****
+600/1200 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 17:05:34 EDT 2007
+Table Table  125943 (Real Money) -- Seat 2 is the button
+Total number of players : 3
+Seat 2: hatoka (5420)
+Seat 3: miguellian (5700)
+Seat 5: jackigan (8880)
+miguellian  posts small blind (300)
+jackigan  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ 4d, Jh ]
+hatoka folds.
+miguellian calls (300)
+jackigan raises (8280) to 8880
+jackigan is all-In.
+miguellian folds.
+Creating Main Pot with $1200 with jackigan
+** Summary **
+Main Pot: 1200
+
+hatoka balance 5420, didn't bet (folded)
+miguellian balance 5100, lost 600 (folded)
+jackigan balance 9480, bet 8880, collected 9480, net +600
+
+***** Hand History for Game 5999533244 *****
+600/1200 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 17:05:56 EDT 2007
+Table Table  125943 (Real Money) -- Seat 3 is the button
+Total number of players : 3
+Seat 2: hatoka (5420)
+Seat 3: miguellian (5100)
+Seat 5: jackigan (9480)
+jackigan  posts small blind (300)
+hatoka  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ Js, 4d ]
+miguellian folds.
+jackigan folds.
+** Summary **
+Main Pot: 600
+
+hatoka balance 5720, bet 600, collected 900, net +300
+miguellian balance 5100, didn't bet (folded)
+jackigan balance 9180, lost 300 (folded)
+
+***** Hand History for Game 5999533889 *****
+600/1200 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 17:06:06 EDT 2007
+Table Table  125943 (Real Money) -- Seat 5 is the button
+Total number of players : 3
+Seat 2: hatoka (5720)
+Seat 3: miguellian (5100)
+Seat 5: jackigan (9180)
+hatoka  posts small blind (300)
+miguellian  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ 9c, Th ]
+jackigan folds.
+hatoka raises (900) to 1200
+miguellian folds.
+** Summary **
+Main Pot: 1200
+
+hatoka balance 6320, bet 1200, collected 1800, net +600
+miguellian balance 4500, lost 600 (folded)
+jackigan balance 9180, didn't bet (folded)
+
+***** Hand History for Game 5999534523 *****
+600/1200 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 17:06:16 EDT 2007
+Table Table  125943 (Real Money) -- Seat 2 is the button
+Total number of players : 3
+Seat 2: hatoka (6320)
+Seat 3: miguellian (4500)
+Seat 5: jackigan (9180)
+miguellian  posts small blind (300)
+jackigan  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ Qc, 8s ]
+hatoka folds.
+miguellian calls (300)
+jackigan raises (8580) to 9180
+jackigan is all-In.
+miguellian folds.
+Creating Main Pot with $1200 with jackigan
+** Summary **
+Main Pot: 1200
+
+hatoka balance 6320, didn't bet (folded)
+miguellian balance 3900, lost 600 (folded)
+jackigan balance 9780, bet 9180, collected 9780, net +600
+
+***** Hand History for Game 5999535456 *****
+600/1200 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 17:06:31 EDT 2007
+Table Table  125943 (Real Money) -- Seat 3 is the button
+Total number of players : 3
+Seat 2: hatoka (6320)
+Seat 3: miguellian (3900)
+Seat 5: jackigan (9780)
+jackigan  posts small blind (300)
+hatoka  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ 7d, 6h ]
+miguellian calls (600)
+jackigan raises (9480) to 9780
+jackigan is all-In.
+hatoka folds.
+miguellian calls (3300)
+miguellian is all-In.
+** Dealing Flop ** :  [ Tc, Ad, 4h ]
+** Dealing Turn ** :  [ 8d ]
+** Dealing River ** :  [ 9d ]
+Creating Main Pot with $8400 with miguellian
+** Summary **
+Main Pot: 8400
+Board: [ Tc Ad 4h 8d 9d  ]
+
+hatoka balance 5720, lost 600 (folded)
+miguellian balance 0, lost 3900 [ Th Qh ] [ a pair of Tens -- Ad,Qh,Th,Tc,9d ]
+jackigan balance 14280, bet 9780, collected 14280, net +4500 [ Jd Ac ] [ a pair of Aces -- Ac,Ad,Jd,Tc,9d ]
+
+***** Hand History for Game 5999536647 *****
+miguellian finished in 3 place and won $10.
+600/1200 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 17:06:51 EDT 2007
+Table Table  125943 (Real Money) -- Seat 2 is the button
+Total number of players : 2
+Seat 2: hatoka (5720)
+Seat 5: jackigan (14280)
+hatoka  posts small blind (300)
+jackigan  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ 4d, 2d ]
+jackigan: gg
+hatoka folds.
+** Summary **
+Main Pot: 600
+
+hatoka balance 5420, lost 300 (folded)
+jackigan balance 14580, bet 600, collected 900, net +300
+
+***** Hand History for Game 5999537200 *****
+600/1200 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 17:07:00 EDT 2007
+Table Table  125943 (Real Money) -- Seat 5 is the button
+Total number of players : 2
+Seat 2: hatoka (5420)
+Seat 5: jackigan (14580)
+jackigan  posts small blind (300)
+hatoka  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ Ah, 4d ]
+jackigan calls (300)
+hatoka raises (600) to 1200
+jackigan calls (600)
+** Dealing Flop ** :  [ 3d, Jd, Ac ]
+hatoka: thx
+hatoka bets (1600)
+jackigan calls (1600)
+** Dealing Turn ** :  [ Td ]
+hatoka bets (2620)
+hatoka is all-In.
+jackigan calls (2620)
+** Dealing River ** :  [ 6s ]
+Creating Main Pot with $10840 with hatoka
+** Summary **
+Main Pot: 10840
+Board: [ 3d Jd Ac Td 6s  ]
+
+hatoka balance 10840, bet 5420, collected 10840, net +5420 [ Ah 4d ] [ a pair of Aces -- Ah,Ac,Jd,Td,6s ]
+jackigan balance 9160, lost 5420 [ 8h Qd ] [ high card Ace -- Ac,Qd,Jd,Td,8h ]
+
+***** Hand History for Game 5999539913 *****
+600/1200 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 17:07:43 EDT 2007
+Table Table  125943 (Real Money) -- Seat 2 is the button
+Total number of players : 2
+Seat 2: hatoka (10840)
+Seat 5: jackigan (9160)
+hatoka  posts small blind (300)
+jackigan  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ 3d, Jd ]
+hatoka raises (900) to 1200
+jackigan raises (8560) to 9160
+jackigan is all-In.
+hatoka folds.
+Creating Main Pot with $2400 with jackigan
+** Summary **
+Main Pot: 2400
+
+hatoka balance 9640, lost 1200 (folded)
+jackigan balance 10360, bet 9160, collected 10360, net +1200
+
+***** Hand History for Game 5999540773 *****
+600/1200 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 17:07:57 EDT 2007
+Table Table  125943 (Real Money) -- Seat 5 is the button
+Total number of players : 2
+Seat 2: hatoka (9640)
+Seat 5: jackigan (10360)
+jackigan  posts small blind (300)
+hatoka  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ 5s, 6s ]
+jackigan folds.
+** Summary **
+Main Pot: 600
+
+hatoka balance 9940, bet 600, collected 900, net +300
+jackigan balance 10060, lost 300 (folded)
+
+***** Hand History for Game 5999541277 *****
+600/1200 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 17:08:05 EDT 2007
+Table Table  125943 (Real Money) -- Seat 2 is the button
+Total number of players : 2
+Seat 2: hatoka (9940)
+Seat 5: jackigan (10060)
+hatoka  posts small blind (300)
+jackigan  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ 5c, 2d ]
+hatoka folds.
+** Summary **
+Main Pot: 600
+
+hatoka balance 9640, lost 300 (folded)
+jackigan balance 10360, bet 600, collected 900, net +300
+
+***** Hand History for Game 5999541687 *****
+600/1200 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 17:08:11 EDT 2007
+Table Table  125943 (Real Money) -- Seat 5 is the button
+Total number of players : 2
+Seat 2: hatoka (9640)
+Seat 5: jackigan (10360)
+jackigan  posts small blind (300)
+hatoka  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ 2d, 3h ]
+jackigan: gg btw
+jackigan folds.
+** Summary **
+Main Pot: 600
+
+hatoka balance 9940, bet 600, collected 900, net +300
+jackigan balance 10060, lost 300 (folded)
+
+***** Hand History for Game 5999542446 *****
+600/1200 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 17:08:23 EDT 2007
+Table Table  125943 (Real Money) -- Seat 2 is the button
+Total number of players : 2
+Seat 2: hatoka (9940)
+Seat 5: jackigan (10060)
+hatoka  posts small blind (300)
+jackigan  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ 6h, 2c ]
+hatoka folds.
+** Summary **
+Main Pot: 600
+
+hatoka balance 9640, lost 300 (folded)
+jackigan balance 10360, bet 600, collected 900, net +300
+
+***** Hand History for Game 5999543065 *****
+600/1200 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 17:08:33 EDT 2007
+Table Table  125943 (Real Money) -- Seat 5 is the button
+Total number of players : 2
+Seat 2: hatoka (9640)
+Seat 5: jackigan (10360)
+jackigan  posts small blind (300)
+hatoka  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ Tc, 4c ]
+jackigan raises (900) to 1200
+hatoka calls (600)
+** Dealing Flop ** :  [ 2c, 4d, 4h ]
+hatoka checks.
+jackigan bets (1200)
+hatoka raises (2400) to 2400
+jackigan raises (7960) to 9160
+jackigan is all-In.
+hatoka calls (6040)
+hatoka is all-In.
+** Dealing Turn ** :  [ 6d ]
+** Dealing River ** :  [ Jh ]
+Creating Main Pot with $19280 with hatoka
+** Summary **
+Main Pot: 19280
+Board: [ 2c 4d 4h 6d Jh  ]
+
+hatoka balance 19280, bet 9640, collected 19280, net +9640 [ Tc 4c ] [ three of a kind, Fours -- Jh,Tc,4c,4d,4h ]
+jackigan balance 720, bet 10360, collected 720, lost -9640 [ 7d 8s ] [ a pair of Fours -- Jh,8s,7d,4d,4h ]
+
+***** Hand History for Game 5999545186 *****
+600/1200 Tourney Texas Hold'em Game Table (NL) (Tournament 33598545)  - Thu May 24 17:09:08 EDT 2007
+Table Table  125943 (Real Money) -- Seat 2 is the button
+Total number of players : 2
+Seat 2: hatoka (19280)
+Seat 5: jackigan (720)
+hatoka  posts small blind (300)
+jackigan  posts big blind (600)
+** Dealing down cards **
+Dealt to hatoka [ Ah, Jh ]
+hatoka raises (900) to 1200
+jackigan calls (120)
+jackigan is all-In.
+** Dealing Flop ** :  [ 4c, Qh, 3s ]
+** Dealing Turn ** :  [ Qs ]
+** Dealing River ** :  [ 5c ]
+Creating Main Pot with $1440 with jackigan
+** Summary **
+Main Pot: 1440
+Board: [ 4c Qh 3s Qs 5c  ]
+
+hatoka balance 20000, bet 1200, collected 1920, net +720 [ Ah Jh ] [ a pair of Queens with Ace kicker -- Ah,Qh,Qs,Jh,5cAh(kicker card) ]
+jackigan balance 0, lost 720 [ Ks 2s ] [ a pair of Queens -- Ks,Qh,Qs,5c,4c ]
+
+
+

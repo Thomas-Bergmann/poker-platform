@@ -1,0 +1,2544 @@
+
+Hello hatoka,
+These hand histories are provided to you as an aid for your training and development. You are not permitted to share them with anyone.  We reserve the right to cease providing them or apply further restrictions at any time.
+Complete hand histories are only available to players that participated in the hand.
+You requested a transcript of Tournament #34079047.
+
+Summary
+----------
+Played on    : 21 June 2007 03:15 PM
+On Table     : Speed #1330107
+Game Type    : Texas Holdem
+Buy-In       : $5
+Fee          : $1
+You finished in  position 8
+1st place - Gunnarnesen -  $25
+2nd place - AchillesWin -  $15
+3rd place - billy_rossco -  $10
+
+***** Hand History for Game 6083035471 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:15:57 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 8 is the button
+Total number of players : 10
+Seat 1: Sular75 (2000)
+Seat 2: Porkypie (2000)
+Seat 3: digger1113 (2000)
+Seat 4: hatoka (2000)
+Seat 5: MrLoeken (2000)
+Seat 6: zzzbaff (2000)
+Seat 7: AchillesWin (2000)
+Seat 8: Gunnarnesen (2000)
+Seat 9: billy_rossco (2000)
+Seat 10: GamblerThe1 (2000)
+billy_rossco  posts small blind (20)
+GamblerThe1  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 8c, Qd ]
+Sular75 calls (40)
+Porkypie calls (40)
+digger1113 folds.
+hatoka folds.
+MrLoeken folds.
+zzzbaff calls (40)
+AchillesWin folds.
+Gunnarnesen calls (40)
+billy_rossco calls (20)
+GamblerThe1 checks.
+** Dealing Flop ** :  [ 9s, 8h, Ah ]
+billy_rossco checks.
+GamblerThe1 checks.
+Sular75 checks.
+Porkypie bets (80)
+zzzbaff calls (80)
+Gunnarnesen folds.
+billy_rossco folds.
+GamblerThe1 folds.
+Sular75 calls (80)
+** Dealing Turn ** :  [ 4c ]
+Sular75 checks.
+Porkypie bets (120)
+zzzbaff calls (120)
+Sular75 calls (120)
+** Dealing River ** :  [ 6h ]
+Sular75 checks.
+Porkypie checks.
+zzzbaff checks.
+** Summary **
+Main Pot: 840
+Board: [ 9s 8h Ah 4c 6h  ]
+
+Sular75 balance 1760, lost 240 [ 5c As ] [ a pair of Aces -- As,Ah,9s,8h,6h ]
+Porkypie balance 1760, lost 240 [ Ac 7s ] [ a pair of Aces with Seven kicker -- Ac,Ah,9s,8h,7s7s(kicker card) ]
+digger1113 balance 2000, didn't bet (folded)
+hatoka balance 2000, didn't bet (folded)
+MrLoeken balance 2000, didn't bet (folded)
+zzzbaff balance 2600, bet 240, collected 840, net +600 [ Ad Qc ] [ a pair of Aces with Queen kicker -- Ad,Ah,Qc,9s,8hQc(kicker card) ]
+AchillesWin balance 2000, didn't bet (folded)
+Gunnarnesen balance 1960, lost 40 (folded)
+billy_rossco balance 1960, lost 40 (folded)
+GamblerThe1 balance 1960, lost 40 (folded)
+
+***** Hand History for Game 6083040036 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:17:18 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 9 is the button
+Total number of players : 10
+Seat 1: Sular75 (1760)
+Seat 2: Porkypie (1760)
+Seat 3: digger1113 (2000)
+Seat 4: hatoka (2000)
+Seat 5: MrLoeken (2000)
+Seat 6: zzzbaff (2600)
+Seat 7: AchillesWin (2000)
+Seat 8: Gunnarnesen (1960)
+Seat 9: billy_rossco (1960)
+Seat 10: GamblerThe1 (1960)
+GamblerThe1  posts small blind (20)
+Sular75  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ Qc, 7s ]
+Porkypie folds.
+digger1113 folds.
+hatoka folds.
+MrLoeken calls (40)
+zzzbaff calls (40)
+AchillesWin calls (40)
+Gunnarnesen folds.
+billy_rossco folds.
+GamblerThe1 raises (180) to 200
+Sular75 folds.
+MrLoeken calls (160)
+zzzbaff calls (160)
+AchillesWin calls (160)
+** Dealing Flop ** :  [ 5c, Kd, 4s ]
+GamblerThe1 bets (360)
+MrLoeken folds.
+zzzbaff folds.
+AchillesWin folds.
+** Summary **
+Main Pot: 840
+Board: [ 5c Kd 4s  ]
+
+Sular75 balance 1720, lost 40 (folded)
+Porkypie balance 1760, didn't bet (folded)
+digger1113 balance 2000, didn't bet (folded)
+hatoka balance 2000, didn't bet (folded)
+MrLoeken balance 1800, lost 200 (folded)
+zzzbaff balance 2400, lost 200 (folded)
+AchillesWin balance 1800, lost 200 (folded)
+Gunnarnesen balance 1960, didn't bet (folded)
+billy_rossco balance 1960, didn't bet (folded)
+GamblerThe1 balance 2600, bet 560, collected 1200, net +640
+
+***** Hand History for Game 6083042879 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:18:07 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 10 is the button
+Total number of players : 10
+Seat 1: Sular75 (1720)
+Seat 2: Porkypie (1760)
+Seat 3: digger1113 (2000)
+Seat 4: hatoka (2000)
+Seat 5: MrLoeken (1800)
+Seat 6: zzzbaff (2400)
+Seat 7: AchillesWin (1800)
+Seat 8: Gunnarnesen (1960)
+Seat 9: billy_rossco (1960)
+Seat 10: GamblerThe1 (2600)
+Sular75  posts small blind (20)
+Porkypie  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ Td, 2c ]
+digger1113 folds.
+hatoka folds.
+MrLoeken folds.
+zzzbaff calls (40)
+AchillesWin folds.
+Gunnarnesen calls (40)
+billy_rossco calls (40)
+GamblerThe1 folds.
+Sular75 folds.
+Porkypie checks.
+** Dealing Flop ** :  [ 6d, Qh, Ad ]
+Porkypie checks.
+zzzbaff checks.
+Gunnarnesen bets (180)
+billy_rossco folds.
+Porkypie folds.
+zzzbaff calls (180)
+** Dealing Turn ** :  [ Ah ]
+zzzbaff checks.
+Gunnarnesen bets (200)
+zzzbaff calls (200)
+** Dealing River ** :  [ 2h ]
+zzzbaff checks.
+Gunnarnesen bets (120)
+zzzbaff calls (120)
+** Summary **
+Main Pot: 1180
+Board: [ 6d Qh Ad Ah 2h  ]
+
+Sular75 balance 1700, lost 20 (folded)
+Porkypie balance 1720, lost 40 (folded)
+digger1113 balance 2000, didn't bet (folded)
+hatoka balance 2000, didn't bet (folded)
+MrLoeken balance 1800, didn't bet (folded)
+zzzbaff balance 1860, lost 540 [ Tc Th ] [ two pairs, Aces and Tens -- Ad,Ah,Qh,Tc,Th ]
+
+AchillesWin balance 1800, didn't bet (folded)
+Gunnarnesen balance 2600, bet 540, collected 1180, net +640 [ 7h As ] [ three of a kind, Aces -- As,Ad,Ah,Qh,7h ]
+billy_rossco balance 1920, lost 40 (folded)
+GamblerThe1 balance 2600, didn't bet (folded)
+
+***** Hand History for Game 6083047479 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:19:26 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 1 is the button
+Total number of players : 10
+Seat 1: Sular75 (1700)
+Seat 2: Porkypie (1720)
+Seat 3: digger1113 (2000)
+Seat 4: hatoka (2000)
+Seat 5: MrLoeken (1800)
+Seat 6: zzzbaff (1860)
+Seat 7: AchillesWin (1800)
+Seat 8: Gunnarnesen (2600)
+Seat 9: billy_rossco (1920)
+Seat 10: GamblerThe1 (2600)
+Porkypie  posts small blind (20)
+digger1113  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 8c, Qc ]
+hatoka calls (40)
+MrLoeken folds.
+zzzbaff folds.
+AchillesWin raises (200) to 200
+Gunnarnesen folds.
+billy_rossco folds.
+GamblerThe1 folds.
+Sular75 folds.
+Porkypie folds.
+digger1113 calls (160)
+hatoka folds.
+** Dealing Flop ** :  [ 7s, Ts, Qh ]
+digger1113 checks.
+AchillesWin bets (400)
+digger1113 folds.
+** Summary **
+Main Pot: 460
+Board: [ 7s Ts Qh  ]
+
+Sular75 balance 1700, didn't bet (folded)
+Porkypie balance 1700, lost 20 (folded)
+digger1113 balance 1800, lost 200 (folded)
+hatoka balance 1960, lost 40 (folded)
+MrLoeken balance 1800, didn't bet (folded)
+zzzbaff balance 1860, didn't bet (folded)
+AchillesWin balance 2060, bet 600, collected 860, net +260
+Gunnarnesen balance 2600, didn't bet (folded)
+billy_rossco balance 1920, didn't bet (folded)
+GamblerThe1 balance 2600, didn't bet (folded)
+
+***** Hand History for Game 6083050658 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:20:20 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 2 is the button
+Total number of players : 10
+Seat 1: Sular75 (1700)
+Seat 2: Porkypie (1700)
+Seat 3: digger1113 (1800)
+Seat 4: hatoka (1960)
+Seat 5: MrLoeken (1800)
+Seat 6: zzzbaff (1860)
+Seat 7: AchillesWin (2060)
+Seat 8: Gunnarnesen (2600)
+Seat 9: billy_rossco (1920)
+Seat 10: GamblerThe1 (2600)
+digger1113  posts small blind (20)
+hatoka  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ Ts, 2c ]
+MrLoeken folds.
+zzzbaff folds.
+AchillesWin folds.
+Gunnarnesen calls (40)
+billy_rossco raises (120) to 120
+GamblerThe1 calls (120)
+Sular75 folds.
+Porkypie folds.
+digger1113 folds.
+hatoka folds.
+Gunnarnesen folds.
+** Dealing Flop ** :  [ 8c, 3h, 3c ]
+billy_rossco bets (200)
+GamblerThe1 folds.
+** Summary **
+Main Pot: 340
+Board: [ 8c 3h 3c  ]
+
+Sular75 balance 1700, didn't bet (folded)
+Porkypie balance 1700, didn't bet (folded)
+digger1113 balance 1780, lost 20 (folded)
+hatoka balance 1920, lost 40 (folded)
+MrLoeken balance 1800, didn't bet (folded)
+zzzbaff balance 1860, didn't bet (folded)
+AchillesWin balance 2060, didn't bet (folded)
+Gunnarnesen balance 2560, lost 40 (folded)
+billy_rossco balance 2140, bet 320, collected 540, net +220
+GamblerThe1 balance 2480, lost 120 (folded)
+
+***** Hand History for Game 6083052765 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:20:57 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 3 is the button
+Total number of players : 10
+Seat 1: Sular75 (1700)
+Seat 2: Porkypie (1700)
+Seat 3: digger1113 (1780)
+Seat 4: hatoka (1920)
+Seat 5: MrLoeken (1800)
+Seat 6: zzzbaff (1860)
+Seat 7: AchillesWin (2060)
+Seat 8: Gunnarnesen (2560)
+Seat 9: billy_rossco (2140)
+Seat 10: GamblerThe1 (2480)
+hatoka  posts small blind (30)
+MrLoeken  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Jh, 4c ]
+zzzbaff calls (60)
+AchillesWin folds.
+Gunnarnesen folds.
+billy_rossco folds.
+GamblerThe1 folds.
+Sular75 folds.
+Porkypie folds.
+digger1113 calls (60)
+hatoka folds.
+MrLoeken checks.
+** Dealing Flop ** :  [ 5s, Jd, 7c ]
+MrLoeken bets (240)
+zzzbaff folds.
+digger1113 calls (240)
+** Dealing Turn ** :  [ 3c ]
+MrLoeken bets (300)
+digger1113 raises (600) to 600
+MrLoeken raises (1200) to 1500
+MrLoeken is all-In.
+digger1113 calls (880)
+digger1113 is all-In.
+** Dealing River ** :  [ Th ]
+Creating Main Pot with $3650 with digger1113
+** Summary **
+Main Pot: 3650
+Board: [ 5s Jd 7c 3c Th  ]
+
+Sular75 balance 1700, didn't bet (folded)
+Porkypie balance 1700, didn't bet (folded)
+digger1113 balance 3650, bet 1780, collected 3650, net +1870 [ Qs Jc ] [ a pair of Jacks with Queen kicker -- Qs,Jc,Jd,Th,7cQs(kicker card) ]
+hatoka balance 1890, lost 30 (folded)
+MrLoeken balance 20, bet 1800, collected 20, lost -1780 [ Js 9d ] [ a pair of Jacks -- Js,Jd,Th,9d,7c ]
+zzzbaff balance 1800, lost 60 (folded)
+AchillesWin balance 2060, didn't bet (folded)
+Gunnarnesen balance 2560, didn't bet (folded)
+billy_rossco balance 2140, didn't bet (folded)
+GamblerThe1 balance 2480, didn't bet (folded)
+
+***** Hand History for Game 6083056430 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:22:01 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 4 is the button
+Total number of players : 10
+Seat 1: Sular75 (1700)
+Seat 2: Porkypie (1700)
+Seat 3: digger1113 (3650)
+Seat 4: hatoka (1890)
+Seat 5: MrLoeken (20)
+Seat 6: zzzbaff (1800)
+Seat 7: AchillesWin (2060)
+Seat 8: Gunnarnesen (2560)
+Seat 9: billy_rossco (2140)
+Seat 10: GamblerThe1 (2480)
+MrLoeken  posts small blind (20)
+zzzbaff  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 8h, Kd ]
+AchillesWin folds.
+Gunnarnesen folds.
+billy_rossco folds.
+GamblerThe1 folds.
+Sular75 calls (60)
+Porkypie calls (60)
+digger1113 calls (60)
+hatoka folds.
+MrLoeken is all-In.
+zzzbaff checks.
+Creating Main Pot with $100 with MrLoeken
+** Dealing Flop ** :  [ Jd, 2c, 2s ]
+zzzbaff checks.
+Sular75 bets (60)
+Porkypie folds.
+digger1113 raises (120) to 120
+zzzbaff folds.
+Sular75 calls (60)
+** Dealing Turn ** :  [ 3c ]
+Sular75 checks.
+digger1113 bets (500)
+Sular75 calls (500)
+** Dealing River ** :  [ Td ]
+Sular75 checks.
+digger1113 checks.
+** Summary **
+Main Pot: 100 | Side Pot 1: 1400
+Board: [ Jd 2c 2s 3c Td  ]
+
+Sular75 balance 2520, bet 680, collected 1500, net +820 [ Jh Ac ] [ two pairs, Jacks and Twos with Ace kicker -- Ac,Jh,Jd,2c,2s ]
+Porkypie balance 1640, lost 60 (folded)
+digger1113 balance 2970, lost 680 [ Qh Jc ] [ two pairs, Jacks and Twos -- Qh,Jc,Jd,2c,2s ]
+
+hatoka balance 1890, didn't bet (folded)
+MrLoeken balance 0, lost 20 [ 8s 6d ] [ a pair of Twos -- Jd,Td,8s,2c,2s ]
+
+zzzbaff balance 1740, lost 60 (folded)
+AchillesWin balance 2060, didn't bet (folded)
+Gunnarnesen balance 2560, didn't bet (folded)
+billy_rossco balance 2140, didn't bet (folded)
+GamblerThe1 balance 2480, didn't bet (folded)
+
+***** Hand History for Game 6083062178 *****
+MrLoeken finished in 10 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:23:41 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 4 is the button
+Total number of players : 9
+Seat 1: Sular75 (2520)
+Seat 2: Porkypie (1640)
+Seat 3: digger1113 (2970)
+Seat 4: hatoka (1890)
+Seat 6: zzzbaff (1740)
+Seat 7: AchillesWin (2060)
+Seat 8: Gunnarnesen (2560)
+Seat 9: billy_rossco (2140)
+Seat 10: GamblerThe1 (2480)
+zzzbaff  posts small blind (30)
+AchillesWin  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 2h, 7h ]
+Gunnarnesen calls (60)
+billy_rossco folds.
+GamblerThe1 raises (300) to 300
+Sular75 folds.
+Porkypie folds.
+digger1113 calls (300)
+hatoka folds.
+zzzbaff folds.
+AchillesWin folds.
+Gunnarnesen folds.
+** Dealing Flop ** :  [ Jd, Ks, 7c ]
+GamblerThe1 bets (240)
+digger1113 calls (240)
+** Dealing Turn ** :  [ 3s ]
+GamblerThe1 bets (420)
+digger1113 folds.
+** Summary **
+Main Pot: 1230
+Board: [ Jd Ks 7c 3s  ]
+
+Sular75 balance 2520, didn't bet (folded)
+Porkypie balance 1640, didn't bet (folded)
+digger1113 balance 2430, lost 540 (folded)
+hatoka balance 1890, didn't bet (folded)
+zzzbaff balance 1710, lost 30 (folded)
+AchillesWin balance 2000, lost 60 (folded)
+Gunnarnesen balance 2500, lost 60 (folded)
+billy_rossco balance 2140, didn't bet (folded)
+GamblerThe1 balance 3170, bet 960, collected 1650, net +690
+
+***** Hand History for Game 6083064919 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:24:29 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 6 is the button
+Total number of players : 9
+Seat 1: Sular75 (2520)
+Seat 2: Porkypie (1640)
+Seat 3: digger1113 (2430)
+Seat 4: hatoka (1890)
+Seat 6: zzzbaff (1710)
+Seat 7: AchillesWin (2000)
+Seat 8: Gunnarnesen (2500)
+Seat 9: billy_rossco (2140)
+Seat 10: GamblerThe1 (3170)
+AchillesWin  posts small blind (30)
+Gunnarnesen  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Ac, 7s ]
+billy_rossco folds.
+GamblerThe1 folds.
+Sular75 folds.
+Porkypie folds.
+digger1113 calls (60)
+hatoka calls (60)
+zzzbaff could not respond in time.(disconnected)
+zzzbaff folds.
+AchillesWin folds.
+Gunnarnesen checks.
+** Dealing Flop ** :  [ 8s, 6d, Jd ]
+Gunnarnesen checks.
+digger1113 bets (120)
+hatoka folds.
+Gunnarnesen folds.
+** Summary **
+Main Pot: 210
+Board: [ 8s 6d Jd  ]
+
+Sular75 balance 2520, didn't bet (folded)
+Porkypie balance 1640, didn't bet (folded)
+digger1113 balance 2580, bet 180, collected 330, net +150
+hatoka balance 1830, lost 60 (folded)
+zzzbaff balance 1710, didn't bet (folded)
+AchillesWin balance 1970, lost 30 (folded)
+Gunnarnesen balance 2440, lost 60 (folded)
+billy_rossco balance 2140, didn't bet (folded)
+GamblerThe1 balance 3170, didn't bet (folded)
+
+***** Hand History for Game 6083068517 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:25:34 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 7 is the button
+Total number of players : 9
+Seat 1: Sular75 (2520)
+Seat 2: Porkypie (1640)
+Seat 3: digger1113 (2580)
+Seat 4: hatoka (1830)
+Seat 6: zzzbaff (1710)
+Seat 7: AchillesWin (1970)
+Seat 8: Gunnarnesen (2440)
+Seat 9: billy_rossco (2140)
+Seat 10: GamblerThe1 (3170)
+Gunnarnesen  posts small blind (30)
+billy_rossco  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 3h, 6s ]
+GamblerThe1 folds.
+Sular75 folds.
+Porkypie raises (120) to 120
+digger1113 calls (120)
+hatoka folds.
+zzzbaff folds.
+AchillesWin folds.
+Gunnarnesen folds.
+billy_rossco calls (60)
+** Dealing Flop ** :  [ 6h, 2d, Ts ]
+billy_rossco bets (180)
+Porkypie raises (600) to 600
+digger1113 folds.
+billy_rossco raises (1840) to 2020
+billy_rossco is all-In.
+Porkypie calls (920)
+Porkypie is all-In.
+** Dealing Turn ** :  [ 3s ]
+** Dealing River ** :  [ 8h ]
+Creating Main Pot with $3430 with Porkypie
+** Summary **
+Main Pot: 3430
+Board: [ 6h 2d Ts 3s 8h  ]
+
+Sular75 balance 2520, didn't bet (folded)
+Porkypie balance 0, lost 1640 [ Ah Ac ] [ a pair of Aces -- Ah,Ac,Ts,8h,6h ]
+digger1113 balance 2460, lost 120 (folded)
+hatoka balance 1830, didn't bet (folded)
+zzzbaff balance 1710, didn't bet (folded)
+AchillesWin balance 1970, didn't bet (folded)
+Gunnarnesen balance 2410, lost 30 (folded)
+billy_rossco balance 3930, bet 2140, collected 3930, net +1790 [ 2h 2s ] [ three of a kind, Twos -- Ts,8h,2h,2s,2d ]
+GamblerThe1 balance 3170, didn't bet (folded)
+
+***** Hand History for Game 6083071545 *****
+Porkypie finished in 9 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:26:27 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 8 is the button
+Total number of players : 8
+Seat 1: Sular75 (2520)
+Seat 3: digger1113 (2460)
+Seat 4: hatoka (1830)
+Seat 6: zzzbaff (1710)
+Seat 7: AchillesWin (1970)
+Seat 8: Gunnarnesen (2410)
+Seat 9: billy_rossco (3930)
+Seat 10: GamblerThe1 (3170)
+billy_rossco  posts small blind (50)
+GamblerThe1  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Qd, Kd ]
+Sular75 calls (100)
+digger1113 calls (100)
+hatoka calls (100)
+zzzbaff folds.
+AchillesWin calls (100)
+Gunnarnesen calls (100)
+billy_rossco folds.
+GamblerThe1 checks.
+** Dealing Flop ** :  [ 4c, 2s, Th ]
+GamblerThe1 bets (600)
+Sular75 folds.
+digger1113 folds.
+hatoka folds.
+AchillesWin folds.
+Gunnarnesen folds.
+** Summary **
+Main Pot: 650
+Board: [ 4c 2s Th  ]
+
+Sular75 balance 2420, lost 100 (folded)
+digger1113 balance 2360, lost 100 (folded)
+hatoka balance 1730, lost 100 (folded)
+zzzbaff balance 1710, didn't bet (folded)
+AchillesWin balance 1870, lost 100 (folded)
+Gunnarnesen balance 2310, lost 100 (folded)
+billy_rossco balance 3880, lost 50 (folded)
+GamblerThe1 balance 3720, bet 700, collected 1250, net +550
+
+***** Hand History for Game 6083074202 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:27:14 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 9 is the button
+Total number of players : 8
+Seat 1: Sular75 (2420)
+Seat 3: digger1113 (2360)
+Seat 4: hatoka (1730)
+Seat 6: zzzbaff (1710)
+Seat 7: AchillesWin (1870)
+Seat 8: Gunnarnesen (2310)
+Seat 9: billy_rossco (3880)
+Seat 10: GamblerThe1 (3720)
+GamblerThe1  posts small blind (50)
+Sular75  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Th, Qs ]
+digger1113 folds.
+hatoka folds.
+zzzbaff folds.
+AchillesWin folds.
+Gunnarnesen folds.
+billy_rossco folds.
+GamblerThe1 calls (50)
+Sular75 raises (100) to 200
+GamblerThe1 calls (100)
+** Dealing Flop ** :  [ 8h, 3s, 3h ]
+GamblerThe1 checks.
+Sular75 bets (300)
+GamblerThe1 folds.
+** Summary **
+Main Pot: 400
+Board: [ 8h 3s 3h  ]
+
+Sular75 balance 2620, bet 500, collected 700, net +200
+digger1113 balance 2360, didn't bet (folded)
+hatoka balance 1730, didn't bet (folded)
+zzzbaff balance 1710, didn't bet (folded)
+AchillesWin balance 1870, didn't bet (folded)
+Gunnarnesen balance 2310, didn't bet (folded)
+billy_rossco balance 3880, didn't bet (folded)
+GamblerThe1 balance 3520, lost 200 (folded)
+
+***** Hand History for Game 6083076079 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:27:48 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 10 is the button
+Total number of players : 8
+Seat 1: Sular75 (2620)
+Seat 3: digger1113 (2360)
+Seat 4: hatoka (1730)
+Seat 6: zzzbaff (1710)
+Seat 7: AchillesWin (1870)
+Seat 8: Gunnarnesen (2310)
+Seat 9: billy_rossco (3880)
+Seat 10: GamblerThe1 (3520)
+Sular75  posts small blind (50)
+digger1113  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 5d, 9s ]
+hatoka folds.
+zzzbaff folds.
+AchillesWin folds.
+Gunnarnesen raises (600) to 600
+billy_rossco folds.
+GamblerThe1 calls (600)
+Sular75 folds.
+digger1113 folds.
+** Dealing Flop ** :  [ 3h, 5h, Ac ]
+Gunnarnesen bets (1710)
+Gunnarnesen is all-In.
+GamblerThe1 calls (1710)
+** Dealing Turn ** :  [ 2d ]
+** Dealing River ** :  [ 9c ]
+Creating Main Pot with $4770 with Gunnarnesen
+** Summary **
+Main Pot: 4770
+Board: [ 3h 5h Ac 2d 9c  ]
+
+Sular75 balance 2570, lost 50 (folded)
+digger1113 balance 2260, lost 100 (folded)
+hatoka balance 1730, didn't bet (folded)
+zzzbaff balance 1710, didn't bet (folded)
+AchillesWin balance 1870, didn't bet (folded)
+Gunnarnesen balance 4770, bet 2310, collected 4770, net +2460 [ As Ad ] [ three of a kind, Aces -- As,Ad,Ac,9c,5h ]
+billy_rossco balance 3880, didn't bet (folded)
+GamblerThe1 balance 1210, lost 2310 [ Ah Kc ] [ a pair of Aces -- Ah,Ac,Kc,9c,5h ]
+
+***** Hand History for Game 6083077535 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:28:14 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 1 is the button
+Total number of players : 8
+Seat 1: Sular75 (2570)
+Seat 3: digger1113 (2260)
+Seat 4: hatoka (1730)
+Seat 6: zzzbaff (1710)
+Seat 7: AchillesWin (1870)
+Seat 8: Gunnarnesen (4770)
+Seat 9: billy_rossco (3880)
+Seat 10: GamblerThe1 (1210)
+digger1113  posts small blind (50)
+hatoka  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 3h, 6d ]
+zzzbaff folds.
+AchillesWin folds.
+Gunnarnesen folds.
+billy_rossco folds.
+GamblerThe1 folds.
+Sular75 folds.
+digger1113 folds.
+** Summary **
+Main Pot: 100
+
+Sular75 balance 2570, didn't bet (folded)
+digger1113 balance 2210, lost 50 (folded)
+hatoka balance 1780, bet 100, collected 150, net +50
+zzzbaff balance 1710, didn't bet (folded)
+AchillesWin balance 1870, didn't bet (folded)
+Gunnarnesen balance 4770, didn't bet (folded)
+billy_rossco balance 3880, didn't bet (folded)
+GamblerThe1 balance 1210, didn't bet (folded)
+
+***** Hand History for Game 6083078145 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:28:24 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 3 is the button
+Total number of players : 8
+Seat 1: Sular75 (2570)
+Seat 3: digger1113 (2210)
+Seat 4: hatoka (1780)
+Seat 6: zzzbaff (1710)
+Seat 7: AchillesWin (1870)
+Seat 8: Gunnarnesen (4770)
+Seat 9: billy_rossco (3880)
+Seat 10: GamblerThe1 (1210)
+hatoka  posts small blind (50)
+zzzbaff  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 4c, Kd ]
+AchillesWin folds.
+Gunnarnesen folds.
+billy_rossco folds.
+GamblerThe1 folds.
+Sular75 folds.
+digger1113 calls (100)
+hatoka raises (150) to 200
+zzzbaff folds.
+digger1113 calls (100)
+** Dealing Flop ** :  [ Ac, 6d, 5d ]
+hatoka bets (100)
+digger1113 calls (100)
+** Dealing Turn ** :  [ Qh ]
+hatoka checks.
+digger1113 checks.
+** Dealing River ** :  [ Ts ]
+hatoka bets (500)
+digger1113 folds.
+** Summary **
+Main Pot: 700
+Board: [ Ac 6d 5d Qh Ts  ]
+
+Sular75 balance 2570, didn't bet (folded)
+digger1113 balance 1910, lost 300 (folded)
+hatoka balance 2180, bet 800, collected 1200, net +400
+zzzbaff balance 1610, lost 100 (folded)
+AchillesWin balance 1870, didn't bet (folded)
+Gunnarnesen balance 4770, didn't bet (folded)
+billy_rossco balance 3880, didn't bet (folded)
+GamblerThe1 balance 1210, didn't bet (folded)
+
+***** Hand History for Game 6083080420 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:29:04 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 4 is the button
+Total number of players : 8
+Seat 1: Sular75 (2570)
+Seat 3: digger1113 (1910)
+Seat 4: hatoka (2180)
+Seat 6: zzzbaff (1610)
+Seat 7: AchillesWin (1870)
+Seat 8: Gunnarnesen (4770)
+Seat 9: billy_rossco (3880)
+Seat 10: GamblerThe1 (1210)
+zzzbaff  posts small blind (50)
+AchillesWin  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 3d, Qh ]
+Gunnarnesen calls (100)
+billy_rossco folds.
+GamblerThe1 folds.
+Sular75 calls (100)
+digger1113 folds.
+hatoka folds.
+zzzbaff folds.
+AchillesWin checks.
+** Dealing Flop ** :  [ 5c, 5s, 3c ]
+AchillesWin bets (100)
+Gunnarnesen folds.
+Sular75 calls (100)
+** Dealing Turn ** :  [ Qc ]
+AchillesWin checks.
+Sular75 bets (100)
+AchillesWin folds.
+** Summary **
+Main Pot: 550
+Board: [ 5c 5s 3c Qc  ]
+
+Sular75 balance 2920, bet 300, collected 650, net +350
+digger1113 balance 1910, didn't bet (folded)
+hatoka balance 2180, didn't bet (folded)
+zzzbaff balance 1560, lost 50 (folded)
+AchillesWin balance 1670, lost 200 (folded)
+Gunnarnesen balance 4670, lost 100 (folded)
+billy_rossco balance 3880, didn't bet (folded)
+GamblerThe1 balance 1210, didn't bet (folded)
+
+***** Hand History for Game 6083082727 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:29:44 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 6 is the button
+Total number of players : 8
+Seat 1: Sular75 (2920)
+Seat 3: digger1113 (1910)
+Seat 4: hatoka (2180)
+Seat 6: zzzbaff (1560)
+Seat 7: AchillesWin (1670)
+Seat 8: Gunnarnesen (4670)
+Seat 9: billy_rossco (3880)
+Seat 10: GamblerThe1 (1210)
+AchillesWin  posts small blind (50)
+Gunnarnesen  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 3d, 7d ]
+billy_rossco folds.
+GamblerThe1 calls (100)
+Sular75 calls (100)
+digger1113 calls (100)
+hatoka folds.
+zzzbaff folds.
+AchillesWin folds.
+Gunnarnesen checks.
+** Dealing Flop ** :  [ As, 5d, 8h ]
+Gunnarnesen checks.
+GamblerThe1 checks.
+Sular75 bets (200)
+digger1113 folds.
+Gunnarnesen calls (200)
+GamblerThe1 folds.
+** Dealing Turn ** :  [ Qs ]
+Gunnarnesen bets (400)
+Sular75 folds.
+** Summary **
+Main Pot: 850
+Board: [ As 5d 8h Qs  ]
+
+Sular75 balance 2620, lost 300 (folded)
+digger1113 balance 1810, lost 100 (folded)
+hatoka balance 2180, didn't bet (folded)
+zzzbaff balance 1560, didn't bet (folded)
+AchillesWin balance 1620, lost 50 (folded)
+Gunnarnesen balance 5220, bet 700, collected 1250, net +550
+billy_rossco balance 3880, didn't bet (folded)
+GamblerThe1 balance 1110, lost 100 (folded)
+
+***** Hand History for Game 6083086165 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:30:41 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 7 is the button
+Total number of players : 8
+Seat 1: Sular75 (2620)
+Seat 3: digger1113 (1810)
+Seat 4: hatoka (2180)
+Seat 6: zzzbaff (1560)
+Seat 7: AchillesWin (1620)
+Seat 8: Gunnarnesen (5220)
+Seat 9: billy_rossco (3880)
+Seat 10: GamblerThe1 (1110)
+Gunnarnesen  posts small blind (50)
+billy_rossco  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Qc, Qs ]
+GamblerThe1 folds.
+Sular75 raises (200) to 200
+digger1113 folds.
+hatoka raises (500) to 500
+zzzbaff folds.
+AchillesWin folds.
+Gunnarnesen folds.
+billy_rossco folds.
+Sular75 raises (600) to 800
+hatoka raises (1680) to 2180
+hatoka is all-In.
+Sular75 calls (1380)
+** Dealing Flop ** :  [ 3s, 7d, 8d ]
+** Dealing Turn ** :  [ Kc ]
+** Dealing River ** :  [ 4h ]
+Creating Main Pot with $4510 with hatoka
+** Summary **
+Main Pot: 4510
+Board: [ 3s 7d 8d Kc 4h  ]
+
+Sular75 balance 4950, bet 2180, collected 4510, net +2330 [ Ks Kd ] [ three of a kind, Kings -- Ks,Kd,Kc,8d,7d ]
+digger1113 balance 1810, didn't bet (folded)
+hatoka balance 0, lost 2180 [ Qc Qs ] [ a pair of Queens -- Kc,Qc,Qs,8d,7d ]
+zzzbaff balance 1560, didn't bet (folded)
+AchillesWin balance 1620, didn't bet (folded)
+Gunnarnesen balance 5170, lost 50 (folded)
+billy_rossco balance 3780, lost 100 (folded)
+GamblerThe1 balance 1110, didn't bet (folded)
+
+***** Hand History for Game 6083088197 *****
+hatoka finished in 8 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:31:16 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 8 is the button
+Total number of players : 7
+Seat 1: Sular75 (4950)
+Seat 3: digger1113 (1810)
+Seat 6: zzzbaff (1560)
+Seat 7: AchillesWin (1620)
+Seat 8: Gunnarnesen (5170)
+Seat 9: billy_rossco (3780)
+Seat 10: GamblerThe1 (1110)
+billy_rossco  posts small blind (50)
+GamblerThe1  posts big blind (100)
+** Dealing down cards **
+Sular75 calls (100)
+digger1113 folds.
+zzzbaff folds.
+AchillesWin raises (1620) to 1620
+AchillesWin is all-In.
+Gunnarnesen folds.
+billy_rossco folds.
+GamblerThe1 folds.
+Sular75 folds.
+Creating Main Pot with $350 with AchillesWin
+** Summary **
+Main Pot: 350
+
+Sular75 balance 4850, lost 100 (folded)
+digger1113 balance 1810, didn't bet (folded)
+zzzbaff balance 1560, didn't bet (folded)
+AchillesWin balance 1870, bet 1620, collected 1870, net +250
+Gunnarnesen balance 5170, didn't bet (folded)
+billy_rossco balance 3730, lost 50 (folded)
+GamblerThe1 balance 1010, lost 100 (folded)
+
+***** Hand History for Game 6083089308 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:31:35 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 9 is the button
+Total number of players : 7
+Seat 1: Sular75 (4850)
+Seat 3: digger1113 (1810)
+Seat 6: zzzbaff (1560)
+Seat 7: AchillesWin (1870)
+Seat 8: Gunnarnesen (5170)
+Seat 9: billy_rossco (3730)
+Seat 10: GamblerThe1 (1010)
+GamblerThe1  posts small blind (100)
+Sular75  posts big blind (200)
+** Dealing down cards **
+digger1113 calls (200)
+zzzbaff folds.
+AchillesWin folds.
+Gunnarnesen folds.
+billy_rossco folds.
+GamblerThe1 folds.
+Sular75 raises (200) to 400
+digger1113 calls (200)
+** Dealing Flop ** :  [ Js, 9h, 8d ]
+Sular75 checks.
+digger1113 checks.
+** Dealing Turn ** :  [ Kd ]
+Sular75 bets (200)
+digger1113 folds.
+** Summary **
+Main Pot: 900
+Board: [ Js 9h 8d Kd  ]
+
+Sular75 balance 5350, bet 600, collected 1100, net +500
+digger1113 balance 1410, lost 400 (folded)
+zzzbaff balance 1560, didn't bet (folded)
+AchillesWin balance 1870, didn't bet (folded)
+Gunnarnesen balance 5170, didn't bet (folded)
+billy_rossco balance 3730, didn't bet (folded)
+GamblerThe1 balance 910, lost 100 (folded)
+
+***** Hand History for Game 6083091549 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:32:12 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 10 is the button
+Total number of players : 7
+Seat 1: Sular75 (5350)
+Seat 3: digger1113 (1410)
+Seat 6: zzzbaff (1560)
+Seat 7: AchillesWin (1870)
+Seat 8: Gunnarnesen (5170)
+Seat 9: billy_rossco (3730)
+Seat 10: GamblerThe1 (910)
+Sular75  posts small blind (100)
+digger1113  posts big blind (200)
+** Dealing down cards **
+zzzbaff folds.
+AchillesWin folds.
+Gunnarnesen calls (200)
+billy_rossco folds.
+GamblerThe1 folds.
+Sular75 folds.
+digger1113 raises (200) to 400
+Gunnarnesen calls (200)
+** Dealing Flop ** :  [ 9c, 5c, 4h ]
+digger1113 bets (1010)
+digger1113 is all-In.
+Gunnarnesen folds.
+Creating Main Pot with $900 with digger1113
+** Summary **
+Main Pot: 900
+Board: [ 9c 5c 4h  ]
+
+Sular75 balance 5250, lost 100 (folded)
+digger1113 balance 1910, bet 1410, collected 1910, net +500
+zzzbaff balance 1560, didn't bet (folded)
+AchillesWin balance 1870, didn't bet (folded)
+Gunnarnesen balance 4770, lost 400 (folded)
+billy_rossco balance 3730, didn't bet (folded)
+GamblerThe1 balance 910, didn't bet (folded)
+
+***** Hand History for Game 6083093163 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:32:41 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 1 is the button
+Total number of players : 7
+Seat 1: Sular75 (5250)
+Seat 3: digger1113 (1910)
+Seat 6: zzzbaff (1560)
+Seat 7: AchillesWin (1870)
+Seat 8: Gunnarnesen (4770)
+Seat 9: billy_rossco (3730)
+Seat 10: GamblerThe1 (910)
+digger1113  posts small blind (100)
+zzzbaff  posts big blind (200)
+** Dealing down cards **
+AchillesWin raises (1870) to 1870
+AchillesWin is all-In.
+Gunnarnesen folds.
+billy_rossco folds.
+GamblerThe1 folds.
+Sular75 folds.
+digger1113 folds.
+zzzbaff folds.
+Creating Main Pot with $500 with AchillesWin
+** Summary **
+Main Pot: 500
+
+Sular75 balance 5250, didn't bet (folded)
+digger1113 balance 1810, lost 100 (folded)
+zzzbaff balance 1360, lost 200 (folded)
+AchillesWin balance 2170, bet 1870, collected 2170, net +300
+Gunnarnesen balance 4770, didn't bet (folded)
+billy_rossco balance 3730, didn't bet (folded)
+GamblerThe1 balance 910, didn't bet (folded)
+
+***** Hand History for Game 6083094197 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:32:57 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 3 is the button
+Total number of players : 7
+Seat 1: Sular75 (5250)
+Seat 3: digger1113 (1810)
+Seat 6: zzzbaff (1360)
+Seat 7: AchillesWin (2170)
+Seat 8: Gunnarnesen (4770)
+Seat 9: billy_rossco (3730)
+Seat 10: GamblerThe1 (910)
+zzzbaff  posts small blind (100)
+AchillesWin  posts big blind (200)
+** Dealing down cards **
+Gunnarnesen folds.
+billy_rossco folds.
+GamblerThe1 folds.
+Sular75 folds.
+digger1113 raises (600) to 600
+zzzbaff folds.
+AchillesWin folds.
+** Summary **
+Main Pot: 500
+
+Sular75 balance 5250, didn't bet (folded)
+digger1113 balance 2110, bet 600, collected 900, net +300
+zzzbaff balance 1260, lost 100 (folded)
+AchillesWin balance 1970, lost 200 (folded)
+Gunnarnesen balance 4770, didn't bet (folded)
+billy_rossco balance 3730, didn't bet (folded)
+GamblerThe1 balance 910, didn't bet (folded)
+
+***** Hand History for Game 6083094960 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:33:11 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 6 is the button
+Total number of players : 7
+Seat 1: Sular75 (5250)
+Seat 3: digger1113 (2110)
+Seat 6: zzzbaff (1260)
+Seat 7: AchillesWin (1970)
+Seat 8: Gunnarnesen (4770)
+Seat 9: billy_rossco (3730)
+Seat 10: GamblerThe1 (910)
+AchillesWin  posts small blind (100)
+Gunnarnesen  posts big blind (200)
+** Dealing down cards **
+billy_rossco folds.
+GamblerThe1 folds.
+Sular75 calls (200)
+digger1113 folds.
+zzzbaff folds.
+AchillesWin raises (300) to 400
+Gunnarnesen folds.
+Sular75 calls (200)
+** Dealing Flop ** :  [ 5h, 4c, 4s ]
+AchillesWin bets (1570)
+AchillesWin is all-In.
+Sular75 folds.
+Creating Main Pot with $1000 with AchillesWin
+** Summary **
+Main Pot: 1000
+Board: [ 5h 4c 4s  ]
+
+Sular75 balance 4850, lost 400 (folded)
+digger1113 balance 2110, didn't bet (folded)
+zzzbaff balance 1260, didn't bet (folded)
+AchillesWin balance 2570, bet 1970, collected 2570, net +600
+Gunnarnesen balance 4570, lost 200 (folded)
+billy_rossco balance 3730, didn't bet (folded)
+GamblerThe1 balance 910, didn't bet (folded)
+
+***** Hand History for Game 6083096770 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:33:41 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 7 is the button
+Total number of players : 7
+Seat 1: Sular75 (4850)
+Seat 3: digger1113 (2110)
+Seat 6: zzzbaff (1260)
+Seat 7: AchillesWin (2570)
+Seat 8: Gunnarnesen (4570)
+Seat 9: billy_rossco (3730)
+Seat 10: GamblerThe1 (910)
+Gunnarnesen  posts small blind (100)
+billy_rossco  posts big blind (200)
+** Dealing down cards **
+GamblerThe1 folds.
+Sular75 folds.
+digger1113 calls (200)
+zzzbaff folds.
+AchillesWin folds.
+Gunnarnesen folds.
+billy_rossco checks.
+** Dealing Flop ** :  [ Ad, 7c, 2d ]
+billy_rossco checks.
+digger1113 bets (800)
+billy_rossco raises (3530) to 3530
+billy_rossco is all-In.
+digger1113 calls (1110)
+digger1113 is all-In.
+** Dealing Turn ** :  [ Jh ]
+** Dealing River ** :  [ 3c ]
+Creating Main Pot with $4320 with digger1113
+** Summary **
+Main Pot: 4320
+Board: [ Ad 7c 2d Jh 3c  ]
+
+Sular75 balance 4850, didn't bet (folded)
+digger1113 balance 0, lost 2110 [ 9d Qd ] [ high card Ace -- Ad,Qd,Jh,9d,7c ]
+zzzbaff balance 1260, didn't bet (folded)
+AchillesWin balance 2570, didn't bet (folded)
+Gunnarnesen balance 4470, lost 100 (folded)
+billy_rossco balance 5940, bet 3730, collected 5940, net +2210 [ 2c 7h ] [ two pairs, Sevens and Twos -- Ad,7h,7c,2c,2d ]
+GamblerThe1 balance 910, didn't bet (folded)
+
+***** Hand History for Game 6083098852 *****
+digger1113 finished in 7 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:34:16 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 8 is the button
+Total number of players : 6
+Seat 1: Sular75 (4850)
+Seat 6: zzzbaff (1260)
+Seat 7: AchillesWin (2570)
+Seat 8: Gunnarnesen (4470)
+Seat 9: billy_rossco (5940)
+Seat 10: GamblerThe1 (910)
+billy_rossco  posts small blind (100)
+GamblerThe1  posts big blind (200)
+** Dealing down cards **
+Sular75 folds.
+zzzbaff folds.
+AchillesWin raises (400) to 400
+Gunnarnesen folds.
+billy_rossco calls (300)
+GamblerThe1 calls (200)
+** Dealing Flop ** :  [ Ah, Jc, 2d ]
+billy_rossco bets (600)
+GamblerThe1 calls (510)
+GamblerThe1 is all-In.
+AchillesWin folds.
+** Dealing Turn ** :  [ 5c ]
+** Dealing River ** :  [ 9h ]
+Creating Main Pot with $2220 with GamblerThe1
+** Summary **
+Main Pot: 2220
+Board: [ Ah Jc 2d 5c 9h  ]
+
+Sular75 balance 4850, didn't bet (folded)
+zzzbaff balance 1260, didn't bet (folded)
+AchillesWin balance 2170, lost 400 (folded)
+Gunnarnesen balance 4470, didn't bet (folded)
+billy_rossco balance 5030, bet 1000, collected 90, lost -910 [ Ac Kd ] [ a pair of Aces -- Ac,Ah,Kd,Jc,9h ]
+GamblerThe1 balance 2220, bet 910, collected 2220, net +1310 [ 2c 2s ] [ three of a kind, Twos -- Ah,Jc,2c,2s,2d ]
+
+***** Hand History for Game 6083101069 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:34:54 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 9 is the button
+Total number of players : 6
+Seat 1: Sular75 (4850)
+Seat 6: zzzbaff (1260)
+Seat 7: AchillesWin (2170)
+Seat 8: Gunnarnesen (4470)
+Seat 9: billy_rossco (5030)
+Seat 10: GamblerThe1 (2220)
+GamblerThe1  posts small blind (100)
+Sular75  posts big blind (200)
+** Dealing down cards **
+zzzbaff folds.
+AchillesWin folds.
+Gunnarnesen folds.
+billy_rossco raises (400) to 400
+GamblerThe1 folds.
+Sular75 folds.
+** Summary **
+Main Pot: 500
+
+Sular75 balance 4650, lost 200 (folded)
+zzzbaff balance 1260, didn't bet (folded)
+AchillesWin balance 2170, didn't bet (folded)
+Gunnarnesen balance 4470, didn't bet (folded)
+billy_rossco balance 5330, bet 400, collected 700, net +300
+GamblerThe1 balance 2120, lost 100 (folded)
+
+***** Hand History for Game 6083101995 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:35:09 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 10 is the button
+Total number of players : 6
+Seat 1: Sular75 (4650)
+Seat 6: zzzbaff (1260)
+Seat 7: AchillesWin (2170)
+Seat 8: Gunnarnesen (4470)
+Seat 9: billy_rossco (5330)
+Seat 10: GamblerThe1 (2120)
+Sular75  posts small blind (100)
+zzzbaff  posts big blind (200)
+** Dealing down cards **
+AchillesWin folds.
+Gunnarnesen folds.
+billy_rossco folds.
+GamblerThe1 folds.
+Sular75 folds.
+** Summary **
+Main Pot: 200
+
+Sular75 balance 4550, lost 100 (folded)
+zzzbaff balance 1360, bet 200, collected 300, net +100
+AchillesWin balance 2170, didn't bet (folded)
+Gunnarnesen balance 4470, didn't bet (folded)
+billy_rossco balance 5330, didn't bet (folded)
+GamblerThe1 balance 2120, didn't bet (folded)
+
+***** Hand History for Game 6083102943 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:35:25 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 1 is the button
+Total number of players : 6
+Seat 1: Sular75 (4550)
+Seat 6: zzzbaff (1360)
+Seat 7: AchillesWin (2170)
+Seat 8: Gunnarnesen (4470)
+Seat 9: billy_rossco (5330)
+Seat 10: GamblerThe1 (2120)
+zzzbaff  posts small blind (100)
+AchillesWin  posts big blind (200)
+** Dealing down cards **
+Gunnarnesen calls (200)
+billy_rossco folds.
+GamblerThe1 folds.
+Sular75 calls (200)
+zzzbaff calls (100)
+AchillesWin checks.
+** Dealing Flop ** :  [ Qh, 4d, Ks ]
+zzzbaff checks.
+AchillesWin bets (200)
+Gunnarnesen raises (600) to 600
+Sular75 calls (600)
+zzzbaff calls (600)
+AchillesWin folds.
+** Dealing Turn ** :  [ 6c ]
+zzzbaff checks.
+Gunnarnesen bets (3670)
+Gunnarnesen is all-In.
+Sular75 calls (3670)
+zzzbaff folds.
+** Dealing River ** :  [ 9d ]
+Creating Main Pot with $10140 with Gunnarnesen
+** Summary **
+Main Pot: 10140
+Board: [ Qh 4d Ks 6c 9d  ]
+
+Sular75 balance 80, lost 4470 [ 6s Kc ] [ two pairs, Kings and Sixes -- Kc,Ks,Qh,6s,6c ]
+zzzbaff balance 560, lost 800 (folded)
+AchillesWin balance 1770, lost 400 (folded)
+Gunnarnesen balance 10140, bet 4470, collected 10140, net +5670 [ Qs Kd ] [ two pairs, Kings and Queens -- Kd,Ks,Qs,Qh,9d ]
+billy_rossco balance 5330, didn't bet (folded)
+GamblerThe1 balance 2120, didn't bet (folded)
+
+***** Hand History for Game 6083105993 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:36:16 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 6 is the button
+Total number of players : 6
+Seat 1: Sular75 (80)
+Seat 6: zzzbaff (560)
+Seat 7: AchillesWin (1770)
+Seat 8: Gunnarnesen (10140)
+Seat 9: billy_rossco (5330)
+Seat 10: GamblerThe1 (2120)
+AchillesWin  posts small blind (100)
+Gunnarnesen  posts big blind (200)
+** Dealing down cards **
+billy_rossco folds.
+GamblerThe1 folds.
+Sular75 calls (80)
+Sular75 is all-In.
+zzzbaff raises (560) to 560
+zzzbaff is all-In.
+AchillesWin folds.
+Gunnarnesen folds.
+** Dealing Flop ** :  [ Jd, 5d, 2s ]
+** Dealing Turn ** :  [ Ad ]
+** Dealing River ** :  [ Jh ]
+Creating Main Pot with $320 with Sular75
+Creating Side Pot 1 with $260 with zzzbaff
+** Summary **
+Main Pot: 320 | Side Pot 1: 260
+Board: [ Jd 5d 2s Ad Jh  ]
+
+Sular75 balance 0, lost 80 [ 7h Ks ] [ a pair of Jacks -- Ad,Ks,Jd,Jh,7h ]
+zzzbaff balance 940, bet 560, collected 940, net +380 [ Kd Qd ] [ a flush, Ace high -- Ad,Kd,Qd,Jd,5d ]
+AchillesWin balance 1670, lost 100 (folded)
+Gunnarnesen balance 9940, lost 200 (folded)
+billy_rossco balance 5330, didn't bet (folded)
+GamblerThe1 balance 2120, didn't bet (folded)
+
+***** Hand History for Game 6083107327 *****
+Sular75 finished in 6 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:36:39 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 7 is the button
+Total number of players : 5
+Seat 6: zzzbaff (940)
+Seat 7: AchillesWin (1670)
+Seat 8: Gunnarnesen (9940)
+Seat 9: billy_rossco (5330)
+Seat 10: GamblerThe1 (2120)
+Gunnarnesen  posts small blind (200)
+billy_rossco  posts big blind (400)
+** Dealing down cards **
+GamblerThe1 folds.
+zzzbaff folds.
+AchillesWin raises (1670) to 1670
+AchillesWin is all-In.
+Gunnarnesen folds.
+billy_rossco folds.
+Creating Main Pot with $1000 with AchillesWin
+** Summary **
+Main Pot: 1000
+
+zzzbaff balance 940, didn't bet (folded)
+AchillesWin balance 2270, bet 1670, collected 2270, net +600
+Gunnarnesen balance 9740, lost 200 (folded)
+billy_rossco balance 4930, lost 400 (folded)
+GamblerThe1 balance 2120, didn't bet (folded)
+
+***** Hand History for Game 6083108239 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:36:54 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 8 is the button
+Total number of players : 5
+Seat 6: zzzbaff (940)
+Seat 7: AchillesWin (2270)
+Seat 8: Gunnarnesen (9740)
+Seat 9: billy_rossco (4930)
+Seat 10: GamblerThe1 (2120)
+billy_rossco  posts small blind (200)
+GamblerThe1  posts big blind (400)
+** Dealing down cards **
+zzzbaff folds.
+AchillesWin folds.
+Gunnarnesen folds.
+billy_rossco folds.
+** Summary **
+Main Pot: 400
+
+zzzbaff balance 940, didn't bet (folded)
+AchillesWin balance 2270, didn't bet (folded)
+Gunnarnesen balance 9740, didn't bet (folded)
+billy_rossco balance 4730, lost 200 (folded)
+GamblerThe1 balance 2320, bet 400, collected 600, net +200
+
+***** Hand History for Game 6083108940 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:37:05 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 9 is the button
+Total number of players : 5
+Seat 6: zzzbaff (940)
+Seat 7: AchillesWin (2270)
+Seat 8: Gunnarnesen (9740)
+Seat 9: billy_rossco (4730)
+Seat 10: GamblerThe1 (2320)
+GamblerThe1  posts small blind (200)
+zzzbaff  posts big blind (400)
+** Dealing down cards **
+AchillesWin folds.
+Gunnarnesen folds.
+billy_rossco folds.
+GamblerThe1 raises (1000) to 1200
+zzzbaff calls (540)
+zzzbaff is all-In.
+** Dealing Flop ** :  [ 7s, 3h, Th ]
+** Dealing Turn ** :  [ 6d ]
+** Dealing River ** :  [ 9d ]
+Creating Main Pot with $1880 with zzzbaff
+** Summary **
+Main Pot: 1880
+Board: [ 7s 3h Th 6d 9d  ]
+
+zzzbaff balance 0, lost 940 [ Js 5d ] [ high card Jack -- Js,Th,9d,7s,6d ]
+AchillesWin balance 2270, didn't bet (folded)
+Gunnarnesen balance 9740, didn't bet (folded)
+billy_rossco balance 4730, didn't bet (folded)
+GamblerThe1 balance 3260, bet 1200, collected 2140, net +940 [ 7h 7d ] [ three of a kind, Sevens -- Th,9d,7h,7d,7s ]
+
+***** Hand History for Game 6083110570 *****
+zzzbaff finished in 5 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:37:32 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 10 is the button
+Total number of players : 4
+Seat 7: AchillesWin (2270)
+Seat 8: Gunnarnesen (9740)
+Seat 9: billy_rossco (4730)
+Seat 10: GamblerThe1 (3260)
+AchillesWin  posts big blind (400)
+** Dealing down cards **
+Gunnarnesen folds.
+billy_rossco raises (1200) to 1200
+GamblerThe1 folds.
+AchillesWin folds.
+** Summary **
+Main Pot: 800
+
+AchillesWin balance 1870, lost 400 (folded)
+Gunnarnesen balance 9740, didn't bet (folded)
+billy_rossco balance 5130, bet 1200, collected 1600, net +400
+GamblerThe1 balance 3260, didn't bet (folded)
+
+***** Hand History for Game 6083111504 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:37:47 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 10 is the button
+Total number of players : 4
+Seat 7: AchillesWin (1870)
+Seat 8: Gunnarnesen (9740)
+Seat 9: billy_rossco (5130)
+Seat 10: GamblerThe1 (3260)
+AchillesWin  posts small blind (200)
+Gunnarnesen  posts big blind (400)
+** Dealing down cards **
+billy_rossco folds.
+GamblerThe1 folds.
+AchillesWin raises (600) to 800
+Gunnarnesen folds.
+** Summary **
+Main Pot: 800
+
+AchillesWin balance 2270, bet 800, collected 1200, net +400
+Gunnarnesen balance 9340, lost 400 (folded)
+billy_rossco balance 5130, didn't bet (folded)
+GamblerThe1 balance 3260, didn't bet (folded)
+
+***** Hand History for Game 6083112439 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:38:03 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 7 is the button
+Total number of players : 4
+Seat 7: AchillesWin (2270)
+Seat 8: Gunnarnesen (9340)
+Seat 9: billy_rossco (5130)
+Seat 10: GamblerThe1 (3260)
+Gunnarnesen  posts small blind (200)
+billy_rossco  posts big blind (400)
+** Dealing down cards **
+GamblerThe1 calls (400)
+AchillesWin raises (2270) to 2270
+AchillesWin is all-In.
+Gunnarnesen folds.
+billy_rossco calls (1870)
+GamblerThe1 folds.
+** Dealing Flop ** :  [ 3c, 5c, Ts ]
+** Dealing Turn ** :  [ 4d ]
+** Dealing River ** :  [ As ]
+Creating Main Pot with $5140 with AchillesWin
+** Summary **
+Main Pot: 5140
+Board: [ 3c 5c Ts 4d As  ]
+
+AchillesWin balance 5140, bet 2270, collected 5140, net +2870 [ Ad Ks ] [ a pair of Aces with King kicker -- Ad,As,Ks,Ts,5cKs(kicker card) ]
+Gunnarnesen balance 9140, lost 200 (folded)
+billy_rossco balance 2860, lost 2270 [ Jh Ah ] [ a pair of Aces -- Ah,As,Jh,Ts,5c ]
+GamblerThe1 balance 2860, lost 400 (folded)
+
+***** Hand History for Game 6083113925 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:38:27 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 8 is the button
+Total number of players : 4
+Seat 7: AchillesWin (5140)
+Seat 8: Gunnarnesen (9140)
+Seat 9: billy_rossco (2860)
+Seat 10: GamblerThe1 (2860)
+billy_rossco  posts small blind (200)
+GamblerThe1  posts big blind (400)
+** Dealing down cards **
+AchillesWin folds.
+Gunnarnesen folds.
+billy_rossco calls (200)
+GamblerThe1 checks.
+** Dealing Flop ** :  [ 8h, 6c, 4c ]
+billy_rossco checks.
+GamblerThe1 checks.
+** Dealing Turn ** :  [ Ad ]
+billy_rossco checks.
+GamblerThe1 bets (800)
+billy_rossco folds.
+** Summary **
+Main Pot: 800
+Board: [ 8h 6c 4c Ad  ]
+
+AchillesWin balance 5140, didn't bet (folded)
+Gunnarnesen balance 9140, didn't bet (folded)
+billy_rossco balance 2460, lost 400 (folded)
+GamblerThe1 balance 3260, bet 1200, collected 1600, net +400
+
+***** Hand History for Game 6083115467 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:38:53 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 9 is the button
+Total number of players : 4
+Seat 7: AchillesWin (5140)
+Seat 8: Gunnarnesen (9140)
+Seat 9: billy_rossco (2460)
+Seat 10: GamblerThe1 (3260)
+GamblerThe1  posts small blind (200)
+AchillesWin  posts big blind (400)
+** Dealing down cards **
+Gunnarnesen folds.
+billy_rossco folds.
+GamblerThe1 folds.
+** Summary **
+Main Pot: 400
+
+AchillesWin balance 5340, bet 400, collected 600, net +200
+Gunnarnesen balance 9140, didn't bet (folded)
+billy_rossco balance 2460, didn't bet (folded)
+GamblerThe1 balance 3060, lost 200 (folded)
+
+***** Hand History for Game 6083116226 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:39:06 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 10 is the button
+Total number of players : 4
+Seat 7: AchillesWin (5340)
+Seat 8: Gunnarnesen (9140)
+Seat 9: billy_rossco (2460)
+Seat 10: GamblerThe1 (3060)
+AchillesWin  posts small blind (200)
+Gunnarnesen  posts big blind (400)
+** Dealing down cards **
+billy_rossco folds.
+GamblerThe1 raises (1200) to 1200
+AchillesWin folds.
+Gunnarnesen folds.
+** Summary **
+Main Pot: 1000
+
+AchillesWin balance 5140, lost 200 (folded)
+Gunnarnesen balance 8740, lost 400 (folded)
+billy_rossco balance 2460, didn't bet (folded)
+GamblerThe1 balance 3660, bet 1200, collected 1800, net +600
+
+***** Hand History for Game 6083117363 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:39:25 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 7 is the button
+Total number of players : 4
+Seat 7: AchillesWin (5140)
+Seat 8: Gunnarnesen (8740)
+Seat 9: billy_rossco (2460)
+Seat 10: GamblerThe1 (3660)
+Gunnarnesen  posts small blind (200)
+billy_rossco  posts big blind (400)
+** Dealing down cards **
+GamblerThe1 calls (400)
+AchillesWin folds.
+Gunnarnesen calls (200)
+billy_rossco checks.
+** Dealing Flop ** :  [ 5h, Ts, Qh ]
+Gunnarnesen checks.
+billy_rossco bets (2060)
+billy_rossco is all-In.
+GamblerThe1 folds.
+Gunnarnesen folds.
+Creating Main Pot with $1200 with billy_rossco
+** Summary **
+Main Pot: 1200
+Board: [ 5h Ts Qh  ]
+
+AchillesWin balance 5140, didn't bet (folded)
+Gunnarnesen balance 8340, lost 400 (folded)
+billy_rossco balance 3260, bet 2460, collected 3260, net +800
+GamblerThe1 balance 3260, lost 400 (folded)
+
+***** Hand History for Game 6083118710 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:39:48 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 8 is the button
+Total number of players : 4
+Seat 7: AchillesWin (5140)
+Seat 8: Gunnarnesen (8340)
+Seat 9: billy_rossco (3260)
+Seat 10: GamblerThe1 (3260)
+billy_rossco  posts small blind (200)
+GamblerThe1  posts big blind (400)
+** Dealing down cards **
+AchillesWin folds.
+Gunnarnesen folds.
+billy_rossco folds.
+** Summary **
+Main Pot: 400
+
+AchillesWin balance 5140, didn't bet (folded)
+Gunnarnesen balance 8340, didn't bet (folded)
+billy_rossco balance 3060, lost 200 (folded)
+GamblerThe1 balance 3460, bet 400, collected 600, net +200
+
+***** Hand History for Game 6083119177 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:39:56 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 9 is the button
+Total number of players : 4
+Seat 7: AchillesWin (5140)
+Seat 8: Gunnarnesen (8340)
+Seat 9: billy_rossco (3060)
+Seat 10: GamblerThe1 (3460)
+GamblerThe1  posts small blind (200)
+AchillesWin  posts big blind (400)
+** Dealing down cards **
+Gunnarnesen calls (400)
+billy_rossco folds.
+GamblerThe1 calls (200)
+AchillesWin raises (4740) to 5140
+AchillesWin is all-In.
+Gunnarnesen folds.
+GamblerThe1 folds.
+Creating Main Pot with $1200 with AchillesWin
+** Summary **
+Main Pot: 1200
+
+AchillesWin balance 5940, bet 5140, collected 5940, net +800
+Gunnarnesen balance 7940, lost 400 (folded)
+billy_rossco balance 3060, didn't bet (folded)
+GamblerThe1 balance 3060, lost 400 (folded)
+
+***** Hand History for Game 6083120203 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:40:13 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 10 is the button
+Total number of players : 4
+Seat 7: AchillesWin (5940)
+Seat 8: Gunnarnesen (7940)
+Seat 9: billy_rossco (3060)
+Seat 10: GamblerThe1 (3060)
+AchillesWin  posts small blind (200)
+Gunnarnesen  posts big blind (400)
+** Dealing down cards **
+billy_rossco folds.
+GamblerThe1 raises (1200) to 1200
+AchillesWin calls (1000)
+Gunnarnesen folds.
+** Dealing Flop ** :  [ Kh, 7c, 2s ]
+AchillesWin bets (4740)
+AchillesWin is all-In.
+GamblerThe1 folds.
+Creating Main Pot with $2800 with AchillesWin
+** Summary **
+Main Pot: 2800
+Board: [ Kh 7c 2s  ]
+
+AchillesWin balance 7540, bet 5940, collected 7540, net +1600
+Gunnarnesen balance 7540, lost 400 (folded)
+billy_rossco balance 3060, didn't bet (folded)
+GamblerThe1 balance 1860, lost 1200 (folded)
+
+***** Hand History for Game 6083121756 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:40:38 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 7 is the button
+Total number of players : 4
+Seat 7: AchillesWin (7540)
+Seat 8: Gunnarnesen (7540)
+Seat 9: billy_rossco (3060)
+Seat 10: GamblerThe1 (1860)
+Gunnarnesen  posts small blind (200)
+billy_rossco  posts big blind (400)
+** Dealing down cards **
+GamblerThe1 raises (1860) to 1860
+GamblerThe1 is all-In.
+AchillesWin calls (1860)
+Gunnarnesen calls (1660)
+billy_rossco folds.
+Creating Main Pot with $5980 with GamblerThe1
+** Dealing Flop ** :  [ Tc, 7d, 3c ]
+Gunnarnesen bets (5680)
+Gunnarnesen is all-In.
+AchillesWin folds.
+** Dealing Turn ** :  [ As ]
+** Dealing River ** :  [ 7s ]
+** Summary **
+Main Pot: 5980
+Board: [ Tc 7d 3c As 7s  ]
+
+AchillesWin balance 5680, lost 1860 (folded)
+Gunnarnesen balance 11660, bet 7540, collected 11660, net +4120 [ Kc Kd ] [ two pairs, Kings and Sevens -- As,Kc,Kd,7d,7s ]
+billy_rossco balance 2660, lost 400 (folded)
+GamblerThe1 balance 0, lost 1860 [ Qh Js ] [ a pair of Sevens -- As,Qh,Js,7d,7s ]
+
+***** Hand History for Game 6083123320 *****
+GamblerThe1 finished in 4 place.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:41:04 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 8 is the button
+Total number of players : 3
+Seat 7: AchillesWin (5680)
+Seat 8: Gunnarnesen (11660)
+Seat 9: billy_rossco (2660)
+billy_rossco  posts small blind (200)
+AchillesWin  posts big blind (400)
+** Dealing down cards **
+Gunnarnesen folds.
+billy_rossco folds.
+** Summary **
+Main Pot: 400
+
+AchillesWin balance 5880, bet 400, collected 600, net +200
+Gunnarnesen balance 11660, didn't bet (folded)
+billy_rossco balance 2460, lost 200 (folded)
+
+***** Hand History for Game 6083123781 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:41:12 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 9 is the button
+Total number of players : 3
+Seat 7: AchillesWin (5880)
+Seat 8: Gunnarnesen (11660)
+Seat 9: billy_rossco (2460)
+AchillesWin  posts small blind (200)
+Gunnarnesen  posts big blind (400)
+** Dealing down cards **
+billy_rossco folds.
+AchillesWin raises (600) to 800
+Gunnarnesen calls (400)
+** Dealing Flop ** :  [ Kd, As, 7h ]
+AchillesWin bets (400)
+Gunnarnesen calls (400)
+** Dealing Turn ** :  [ Js ]
+AchillesWin checks.
+Gunnarnesen bets (400)
+AchillesWin folds.
+** Summary **
+Main Pot: 2400
+Board: [ Kd As 7h Js  ]
+
+AchillesWin balance 4680, lost 1200 (folded)
+Gunnarnesen balance 12860, bet 1600, collected 2800, net +1200
+billy_rossco balance 2460, didn't bet (folded)
+
+***** Hand History for Game 6083125457 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:41:40 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 7 is the button
+Total number of players : 3
+Seat 7: AchillesWin (4680)
+Seat 8: Gunnarnesen (12860)
+Seat 9: billy_rossco (2460)
+Gunnarnesen  posts small blind (300)
+billy_rossco  posts big blind (600)
+** Dealing down cards **
+AchillesWin folds.
+Gunnarnesen calls (300)
+billy_rossco raises (1860) to 2460
+billy_rossco is all-In.
+Gunnarnesen folds.
+Creating Main Pot with $1200 with billy_rossco
+** Summary **
+Main Pot: 1200
+
+AchillesWin balance 4680, didn't bet (folded)
+Gunnarnesen balance 12260, lost 600 (folded)
+billy_rossco balance 3060, bet 2460, collected 3060, net +600
+
+***** Hand History for Game 6083126446 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:41:56 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 8 is the button
+Total number of players : 3
+Seat 7: AchillesWin (4680)
+Seat 8: Gunnarnesen (12260)
+Seat 9: billy_rossco (3060)
+billy_rossco  posts small blind (300)
+AchillesWin  posts big blind (600)
+** Dealing down cards **
+Gunnarnesen raises (1200) to 1200
+billy_rossco raises (2760) to 3060
+billy_rossco is all-In.
+AchillesWin folds.
+Gunnarnesen calls (1860)
+** Dealing Flop ** :  [ 7h, 2s, 8h ]
+** Dealing Turn ** :  [ As ]
+** Dealing River ** :  [ 8c ]
+Creating Main Pot with $6720 with billy_rossco
+** Summary **
+Main Pot: 6720
+Board: [ 7h 2s 8h As 8c  ]
+
+AchillesWin balance 4080, lost 600 (folded)
+Gunnarnesen balance 15920, bet 3060, collected 6720, net +3660 [ Ah Qd ] [ two pairs, Aces and Eights -- Ah,As,Qd,8h,8c ]
+billy_rossco balance 0, lost 3060 [ Kh Kc ] [ two pairs, Kings and Eights -- As,Kh,Kc,8h,8c ]
+
+***** Hand History for Game 6083127576 *****
+billy_rossco finished in 3 place and won $10.
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:42:15 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 7 is the button
+Total number of players : 2
+Seat 7: AchillesWin (4080)
+Seat 8: Gunnarnesen (15920)
+AchillesWin  posts small blind (300)
+Gunnarnesen  posts big blind (600)
+** Dealing down cards **
+AchillesWin folds.
+** Summary **
+Main Pot: 600
+
+AchillesWin balance 3780, lost 300 (folded)
+Gunnarnesen balance 16220, bet 600, collected 900, net +300
+
+***** Hand History for Game 6083127993 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:42:22 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 8 is the button
+Total number of players : 2
+Seat 7: AchillesWin (3780)
+Seat 8: Gunnarnesen (16220)
+Gunnarnesen  posts small blind (300)
+AchillesWin  posts big blind (600)
+** Dealing down cards **
+Gunnarnesen calls (300)
+AchillesWin checks.
+** Dealing Flop ** :  [ Kh, 5s, Jc ]
+AchillesWin bets (3180)
+AchillesWin is all-In.
+Gunnarnesen calls (3180)
+** Dealing Turn ** :  [ 2h ]
+** Dealing River ** :  [ 2c ]
+Creating Main Pot with $7560 with AchillesWin
+** Summary **
+Main Pot: 7560
+Board: [ Kh 5s Jc 2h 2c  ]
+
+AchillesWin balance 7560, bet 3780, collected 7560, net +3780 [ Js 5h ] [ two pairs, Jacks and Fives -- Kh,Js,Jc,5h,5s ]
+Gunnarnesen balance 12440, lost 3780 [ Th Qd ] [ a pair of Twos -- Kh,Qd,Jc,2h,2c ]
+
+***** Hand History for Game 6083129132 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:42:41 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 7 is the button
+Total number of players : 2
+Seat 7: AchillesWin (7560)
+Seat 8: Gunnarnesen (12440)
+AchillesWin  posts small blind (300)
+Gunnarnesen  posts big blind (600)
+** Dealing down cards **
+AchillesWin raises (7260) to 7560
+AchillesWin is all-In.
+Gunnarnesen folds.
+Creating Main Pot with $1200 with AchillesWin
+** Summary **
+Main Pot: 1200
+
+AchillesWin balance 8160, bet 7560, collected 8160, net +600
+Gunnarnesen balance 11840, lost 600 (folded)
+
+***** Hand History for Game 6083129714 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:42:51 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 8 is the button
+Total number of players : 2
+Seat 7: AchillesWin (8160)
+Seat 8: Gunnarnesen (11840)
+Gunnarnesen  posts small blind (300)
+AchillesWin  posts big blind (600)
+** Dealing down cards **
+Gunnarnesen calls (300)
+AchillesWin checks.
+** Dealing Flop ** :  [ 8d, 8c, Qc ]
+AchillesWin checks.
+Gunnarnesen bets (600)
+AchillesWin folds.
+** Summary **
+Main Pot: 1200
+Board: [ 8d 8c Qc  ]
+
+AchillesWin balance 7560, lost 600 (folded)
+Gunnarnesen balance 12440, bet 1200, collected 1800, net +600
+
+***** Hand History for Game 6083130575 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:43:06 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 7 is the button
+Total number of players : 2
+Seat 7: AchillesWin (7560)
+Seat 8: Gunnarnesen (12440)
+AchillesWin  posts small blind (300)
+Gunnarnesen  posts big blind (600)
+** Dealing down cards **
+AchillesWin calls (300)
+Gunnarnesen checks.
+** Dealing Flop ** :  [ Ah, 7s, Ks ]
+Gunnarnesen checks.
+AchillesWin checks.
+** Dealing Turn ** :  [ 6h ]
+Gunnarnesen bets (600)
+AchillesWin raises (1200) to 1200
+Gunnarnesen folds.
+** Summary **
+Main Pot: 2400
+Board: [ Ah 7s Ks 6h  ]
+
+AchillesWin balance 8760, bet 1800, collected 3000, net +1200
+Gunnarnesen balance 11240, lost 1200 (folded)
+
+***** Hand History for Game 6083131714 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:43:25 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 8 is the button
+Total number of players : 2
+Seat 7: AchillesWin (8760)
+Seat 8: Gunnarnesen (11240)
+Gunnarnesen  posts small blind (300)
+AchillesWin  posts big blind (600)
+** Dealing down cards **
+Gunnarnesen calls (300)
+AchillesWin checks.
+** Dealing Flop ** :  [ 4c, 2d, 7h ]
+AchillesWin checks.
+Gunnarnesen bets (1200)
+AchillesWin folds.
+** Summary **
+Main Pot: 1200
+Board: [ 4c 2d 7h  ]
+
+AchillesWin balance 8160, lost 600 (folded)
+Gunnarnesen balance 11840, bet 1800, collected 2400, net +600
+
+***** Hand History for Game 6083132820 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:43:43 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 7 is the button
+Total number of players : 2
+Seat 7: AchillesWin (8160)
+Seat 8: Gunnarnesen (11840)
+AchillesWin  posts small blind (300)
+Gunnarnesen  posts big blind (600)
+** Dealing down cards **
+AchillesWin folds.
+** Summary **
+Main Pot: 600
+
+AchillesWin balance 7860, lost 300 (folded)
+Gunnarnesen balance 12140, bet 600, collected 900, net +300
+
+***** Hand History for Game 6083133343 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:43:52 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 8 is the button
+Total number of players : 2
+Seat 7: AchillesWin (7860)
+Seat 8: Gunnarnesen (12140)
+Gunnarnesen  posts small blind (300)
+AchillesWin  posts big blind (600)
+** Dealing down cards **
+Gunnarnesen folds.
+** Summary **
+Main Pot: 600
+
+AchillesWin balance 8160, bet 600, collected 900, net +300
+Gunnarnesen balance 11840, lost 300 (folded)
+
+***** Hand History for Game 6083133719 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:43:58 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 7 is the button
+Total number of players : 2
+Seat 7: AchillesWin (8160)
+Seat 8: Gunnarnesen (11840)
+AchillesWin  posts small blind (300)
+Gunnarnesen  posts big blind (600)
+** Dealing down cards **
+AchillesWin raises (7860) to 8160
+AchillesWin is all-In.
+Gunnarnesen folds.
+Creating Main Pot with $1200 with AchillesWin
+** Summary **
+Main Pot: 1200
+
+AchillesWin balance 8760, bet 8160, collected 8760, net +600
+Gunnarnesen balance 11240, lost 600 (folded)
+
+***** Hand History for Game 6083134410 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:44:10 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 8 is the button
+Total number of players : 2
+Seat 7: AchillesWin (8760)
+Seat 8: Gunnarnesen (11240)
+Gunnarnesen  posts small blind (300)
+AchillesWin  posts big blind (600)
+** Dealing down cards **
+Gunnarnesen calls (300)
+AchillesWin checks.
+** Dealing Flop ** :  [ Tc, Js, 5c ]
+AchillesWin checks.
+Gunnarnesen checks.
+** Dealing Turn ** :  [ 4d ]
+AchillesWin bets (600)
+Gunnarnesen calls (600)
+** Dealing River ** :  [ 6c ]
+AchillesWin checks.
+Gunnarnesen checks.
+** Summary **
+Main Pot: 2400
+Board: [ Tc Js 5c 4d 6c  ]
+
+AchillesWin balance 9960, bet 1200, collected 2400, net +1200 [ 2s 4c ] [ a pair of Fours -- Js,Tc,6c,4c,4d ]
+
+Gunnarnesen balance 10040, lost 1200 [Didn't Show]
+
+***** Hand History for Game 6083135821 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:44:33 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 7 is the button
+Total number of players : 2
+Seat 7: AchillesWin (9960)
+Seat 8: Gunnarnesen (10040)
+AchillesWin  posts small blind (300)
+Gunnarnesen  posts big blind (600)
+** Dealing down cards **
+AchillesWin calls (300)
+Gunnarnesen checks.
+** Dealing Flop ** :  [ 8c, 4s, 2d ]
+Gunnarnesen bets (600)
+AchillesWin folds.
+** Summary **
+Main Pot: 1200
+Board: [ 8c 4s 2d  ]
+
+AchillesWin balance 9360, lost 600 (folded)
+Gunnarnesen balance 10640, bet 1200, collected 1800, net +600
+
+***** Hand History for Game 6083137147 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:44:56 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 8 is the button
+Total number of players : 2
+Seat 7: AchillesWin (9360)
+Seat 8: Gunnarnesen (10640)
+Gunnarnesen  posts small blind (300)
+AchillesWin  posts big blind (600)
+** Dealing down cards **
+Gunnarnesen calls (300)
+AchillesWin checks.
+** Dealing Flop ** :  [ 3s, Tc, Ts ]
+AchillesWin checks.
+Gunnarnesen bets (600)
+AchillesWin raises (1200) to 1200
+Gunnarnesen folds.
+** Summary **
+Main Pot: 2400
+Board: [ 3s Tc Ts  ]
+
+AchillesWin balance 10560, bet 1800, collected 3000, net +1200
+Gunnarnesen balance 9440, lost 1200 (folded)
+
+***** Hand History for Game 6083139152 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:45:20 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 7 is the button
+Total number of players : 2
+Seat 7: AchillesWin (10560)
+Seat 8: Gunnarnesen (9440)
+AchillesWin  posts small blind (300)
+Gunnarnesen  posts big blind (600)
+** Dealing down cards **
+AchillesWin folds.
+** Summary **
+Main Pot: 600
+
+AchillesWin balance 10260, lost 300 (folded)
+Gunnarnesen balance 9740, bet 600, collected 900, net +300
+
+***** Hand History for Game 6083140255 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:45:29 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 8 is the button
+Total number of players : 2
+Seat 7: AchillesWin (10260)
+Seat 8: Gunnarnesen (9740)
+Gunnarnesen  posts small blind (300)
+AchillesWin  posts big blind (600)
+** Dealing down cards **
+Gunnarnesen folds.
+** Summary **
+Main Pot: 600
+
+AchillesWin balance 10560, bet 600, collected 900, net +300
+Gunnarnesen balance 9440, lost 300 (folded)
+
+***** Hand History for Game 6083140619 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:45:35 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 7 is the button
+Total number of players : 2
+Seat 7: AchillesWin (10560)
+Seat 8: Gunnarnesen (9440)
+AchillesWin  posts small blind (300)
+Gunnarnesen  posts big blind (600)
+** Dealing down cards **
+AchillesWin raises (900) to 1200
+Gunnarnesen raises (1200) to 1800
+AchillesWin calls (600)
+** Dealing Flop ** :  [ 9h, Ts, 5c ]
+Gunnarnesen checks.
+AchillesWin bets (8760)
+AchillesWin is all-In.
+Gunnarnesen folds.
+Creating Main Pot with $3600 with AchillesWin
+** Summary **
+Main Pot: 3600
+Board: [ 9h Ts 5c  ]
+
+AchillesWin balance 12360, bet 10560, collected 12360, net +1800
+Gunnarnesen balance 7640, lost 1800 (folded)
+
+***** Hand History for Game 6083141877 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:45:56 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 8 is the button
+Total number of players : 2
+Seat 7: AchillesWin (12360)
+Seat 8: Gunnarnesen (7640)
+Gunnarnesen  posts small blind (300)
+AchillesWin  posts big blind (600)
+** Dealing down cards **
+Gunnarnesen calls (300)
+AchillesWin raises (600) to 1200
+Gunnarnesen calls (600)
+** Dealing Flop ** :  [ 6d, 8c, Qs ]
+AchillesWin checks.
+Gunnarnesen checks.
+** Dealing Turn ** :  [ 2s ]
+AchillesWin checks.
+Gunnarnesen checks.
+** Dealing River ** :  [ 8s ]
+AchillesWin bets (600)
+Gunnarnesen folds.
+** Summary **
+Main Pot: 2400
+Board: [ 6d 8c Qs 2s 8s  ]
+
+AchillesWin balance 13560, bet 1800, collected 3000, net +1200
+Gunnarnesen balance 6440, lost 1200 (folded)
+
+***** Hand History for Game 6083143421 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:46:21 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 7 is the button
+Total number of players : 2
+Seat 7: AchillesWin (13560)
+Seat 8: Gunnarnesen (6440)
+AchillesWin  posts small blind (300)
+Gunnarnesen  posts big blind (600)
+** Dealing down cards **
+AchillesWin folds.
+** Summary **
+Main Pot: 600
+
+AchillesWin balance 13260, lost 300 (folded)
+Gunnarnesen balance 6740, bet 600, collected 900, net +300
+
+***** Hand History for Game 6083143964 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:46:31 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 8 is the button
+Total number of players : 2
+Seat 7: AchillesWin (13260)
+Seat 8: Gunnarnesen (6740)
+Gunnarnesen  posts small blind (300)
+AchillesWin  posts big blind (600)
+** Dealing down cards **
+Gunnarnesen calls (300)
+AchillesWin raises (600) to 1200
+Gunnarnesen calls (600)
+** Dealing Flop ** :  [ Jc, 8c, Th ]
+AchillesWin bets (600)
+Gunnarnesen raises (5540) to 5540
+Gunnarnesen is all-In.
+AchillesWin calls (4940)
+** Dealing Turn ** :  [ 2c ]
+** Dealing River ** :  [ 2s ]
+Creating Main Pot with $13480 with Gunnarnesen
+** Summary **
+Main Pot: 13480
+Board: [ Jc 8c Th 2c 2s  ]
+
+AchillesWin balance 6520, lost 6740 [ Tc Ks ] [ two pairs, Tens and Twos -- Ks,Tc,Th,2c,2s ]
+Gunnarnesen balance 13480, bet 6740, collected 13480, net +6740 [ 4h Jh ] [ two pairs, Jacks and Twos -- Jh,Jc,Th,2c,2s ]
+
+***** Hand History for Game 6083145619 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:46:59 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 7 is the button
+Total number of players : 2
+Seat 7: AchillesWin (6520)
+Seat 8: Gunnarnesen (13480)
+AchillesWin  posts ante (25)
+Gunnarnesen  posts ante (25)
+AchillesWin  posts small blind (400)
+Gunnarnesen  posts big blind (800)
+** Dealing down cards **
+AchillesWin raises (6095) to 6495
+AchillesWin is all-In.
+Gunnarnesen folds.
+Creating Main Pot with $1650 with AchillesWin
+** Summary **
+Main Pot: 1650
+
+AchillesWin balance 7345, bet 6520, collected 7345, net +825
+Gunnarnesen balance 12655, lost 825 (folded)
+
+***** Hand History for Game 6083146411 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:47:12 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 8 is the button
+Total number of players : 2
+Seat 7: AchillesWin (7345)
+Seat 8: Gunnarnesen (12655)
+AchillesWin  posts ante (25)
+Gunnarnesen  posts ante (25)
+Gunnarnesen  posts small blind (400)
+AchillesWin  posts big blind (800)
+** Dealing down cards **
+Gunnarnesen calls (400)
+AchillesWin checks.
+** Dealing Flop ** :  [ 6h, 9s, Qd ]
+AchillesWin checks.
+Gunnarnesen bets (1650)
+AchillesWin folds.
+** Summary **
+Main Pot: 1650
+Board: [ 6h 9s Qd  ]
+
+AchillesWin balance 6520, lost 825 (folded)
+Gunnarnesen balance 13480, bet 2475, collected 3300, net +825
+
+***** Hand History for Game 6083147416 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:47:28 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 7 is the button
+Total number of players : 2
+Seat 7: AchillesWin (6520)
+Seat 8: Gunnarnesen (13480)
+AchillesWin  posts ante (25)
+Gunnarnesen  posts ante (25)
+AchillesWin  posts small blind (400)
+Gunnarnesen  posts big blind (800)
+** Dealing down cards **
+AchillesWin raises (6095) to 6495
+AchillesWin is all-In.
+Gunnarnesen folds.
+Creating Main Pot with $1650 with AchillesWin
+** Summary **
+Main Pot: 1650
+
+AchillesWin balance 7345, bet 6520, collected 7345, net +825
+Gunnarnesen balance 12655, lost 825 (folded)
+
+***** Hand History for Game 6083148197 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:47:39 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 8 is the button
+Total number of players : 2
+Seat 7: AchillesWin (7345)
+Seat 8: Gunnarnesen (12655)
+AchillesWin  posts ante (25)
+Gunnarnesen  posts ante (25)
+Gunnarnesen  posts small blind (400)
+AchillesWin  posts big blind (800)
+** Dealing down cards **
+Gunnarnesen calls (400)
+AchillesWin checks.
+** Dealing Flop ** :  [ 4s, 5h, Kc ]
+AchillesWin checks.
+Gunnarnesen checks.
+** Dealing Turn ** :  [ 5c ]
+AchillesWin checks.
+Gunnarnesen checks.
+** Dealing River ** :  [ As ]
+AchillesWin bets (800)
+Gunnarnesen folds.
+** Summary **
+Main Pot: 1650
+Board: [ 4s 5h Kc 5c As  ]
+
+AchillesWin balance 8170, bet 1625, collected 2450, net +825
+Gunnarnesen balance 11830, lost 825 (folded)
+
+***** Hand History for Game 6083149942 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:48:03 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 7 is the button
+Total number of players : 2
+Seat 7: AchillesWin (8170)
+Seat 8: Gunnarnesen (11830)
+AchillesWin  posts ante (25)
+Gunnarnesen  posts ante (25)
+AchillesWin  posts small blind (400)
+Gunnarnesen  posts big blind (800)
+** Dealing down cards **
+AchillesWin folds.
+** Summary **
+Main Pot: 850
+
+AchillesWin balance 7745, lost 425 (folded)
+Gunnarnesen balance 12255, bet 825, collected 1250, net +425
+
+***** Hand History for Game 6083150690 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:48:13 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 8 is the button
+Total number of players : 2
+Seat 7: AchillesWin (7745)
+Seat 8: Gunnarnesen (12255)
+AchillesWin  posts ante (25)
+Gunnarnesen  posts ante (25)
+Gunnarnesen  posts small blind (400)
+AchillesWin  posts big blind (800)
+** Dealing down cards **
+Gunnarnesen folds.
+** Summary **
+Main Pot: 850
+
+AchillesWin balance 8170, bet 825, collected 1250, net +425
+Gunnarnesen balance 11830, lost 425 (folded)
+
+***** Hand History for Game 6083151618 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:48:23 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 7 is the button
+Total number of players : 2
+Seat 7: AchillesWin (8170)
+Seat 8: Gunnarnesen (11830)
+AchillesWin  posts ante (25)
+Gunnarnesen  posts ante (25)
+AchillesWin  posts small blind (400)
+Gunnarnesen  posts big blind (800)
+** Dealing down cards **
+AchillesWin folds.
+** Summary **
+Main Pot: 850
+
+AchillesWin balance 7745, lost 425 (folded)
+Gunnarnesen balance 12255, bet 825, collected 1250, net +425
+
+***** Hand History for Game 6083152520 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:48:33 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 8 is the button
+Total number of players : 2
+Seat 7: AchillesWin (7745)
+Seat 8: Gunnarnesen (12255)
+AchillesWin  posts ante (25)
+Gunnarnesen  posts ante (25)
+Gunnarnesen  posts small blind (400)
+AchillesWin  posts big blind (800)
+** Dealing down cards **
+Gunnarnesen calls (400)
+AchillesWin checks.
+** Dealing Flop ** :  [ 5h, Qh, 4h ]
+AchillesWin checks.
+Gunnarnesen checks.
+** Dealing Turn ** :  [ Ts ]
+AchillesWin bets (800)
+Gunnarnesen calls (800)
+** Dealing River ** :  [ As ]
+AchillesWin checks.
+Gunnarnesen bets (800)
+AchillesWin calls (800)
+** Summary **
+Main Pot: 4850
+Board: [ 5h Qh 4h Ts As  ]
+
+
+AchillesWin balance 5320, lost 2425 [Didn't Show]
+Gunnarnesen balance 14680, bet 2425, collected 4850, net +2425 [ Td Js ] [ a pair of Tens -- As,Qh,Js,Td,Ts ]
+
+***** Hand History for Game 6083154885 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:48:58 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 7 is the button
+Total number of players : 2
+Seat 7: AchillesWin (5320)
+Seat 8: Gunnarnesen (14680)
+AchillesWin  posts ante (25)
+Gunnarnesen  posts ante (25)
+AchillesWin  posts small blind (400)
+Gunnarnesen  posts big blind (800)
+** Dealing down cards **
+AchillesWin folds.
+** Summary **
+Main Pot: 850
+
+AchillesWin balance 4895, lost 425 (folded)
+Gunnarnesen balance 15105, bet 825, collected 1250, net +425
+
+***** Hand History for Game 6083155745 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:49:06 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 8 is the button
+Total number of players : 2
+Seat 7: AchillesWin (4895)
+Seat 8: Gunnarnesen (15105)
+AchillesWin  posts ante (25)
+Gunnarnesen  posts ante (25)
+Gunnarnesen  posts small blind (400)
+AchillesWin  posts big blind (800)
+** Dealing down cards **
+Gunnarnesen calls (400)
+AchillesWin raises (800) to 1600
+Gunnarnesen folds.
+** Summary **
+Main Pot: 1650
+
+AchillesWin balance 5720, bet 1625, collected 2450, net +825
+Gunnarnesen balance 14280, lost 825 (folded)
+
+***** Hand History for Game 6083157283 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:49:22 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 7 is the button
+Total number of players : 2
+Seat 7: AchillesWin (5720)
+Seat 8: Gunnarnesen (14280)
+AchillesWin  posts ante (25)
+Gunnarnesen  posts ante (25)
+AchillesWin  posts small blind (400)
+Gunnarnesen  posts big blind (800)
+** Dealing down cards **
+AchillesWin calls (400)
+Gunnarnesen checks.
+** Dealing Flop ** :  [ 2h, 9c, 9d ]
+Gunnarnesen bets (800)
+AchillesWin folds.
+** Summary **
+Main Pot: 1650
+Board: [ 2h 9c 9d  ]
+
+AchillesWin balance 4895, lost 825 (folded)
+Gunnarnesen balance 15105, bet 1625, collected 2450, net +825
+
+***** Hand History for Game 6083159497 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:49:43 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 8 is the button
+Total number of players : 2
+Seat 7: AchillesWin (4895)
+Seat 8: Gunnarnesen (15105)
+AchillesWin  posts ante (25)
+Gunnarnesen  posts ante (25)
+Gunnarnesen  posts small blind (400)
+AchillesWin  posts big blind (800)
+** Dealing down cards **
+Gunnarnesen calls (400)
+AchillesWin checks.
+** Dealing Flop ** :  [ Qs, 9d, 6h ]
+AchillesWin checks.
+Gunnarnesen bets (800)
+AchillesWin raises (1600) to 1600
+Gunnarnesen raises (1600) to 2400
+AchillesWin folds.
+** Summary **
+Main Pot: 4850
+Board: [ Qs 9d 6h  ]
+
+AchillesWin balance 2470, lost 2425 (folded)
+Gunnarnesen balance 17530, bet 3225, collected 5650, net +2425
+
+***** Hand History for Game 6083162600 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:50:14 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 7 is the button
+Total number of players : 2
+Seat 7: AchillesWin (2470)
+Seat 8: Gunnarnesen (17530)
+AchillesWin  posts ante (25)
+Gunnarnesen  posts ante (25)
+AchillesWin  posts small blind (400)
+Gunnarnesen  posts big blind (800)
+** Dealing down cards **
+AchillesWin raises (2000) to 2400
+Gunnarnesen calls (1600)
+** Dealing Flop ** :  [ Kh, 3c, Ts ]
+Gunnarnesen checks.
+AchillesWin bets (45)
+AchillesWin is all-In.
+Gunnarnesen calls (45)
+** Dealing Turn ** :  [ 4c ]
+** Dealing River ** :  [ 8c ]
+Creating Main Pot with $4940 with AchillesWin
+** Summary **
+Main Pot: 4940
+Board: [ Kh 3c Ts 4c 8c  ]
+
+AchillesWin balance 4940, bet 2470, collected 4940, net +2470 [ Tc Qd ] [ a pair of Tens -- Kh,Qd,Tc,Ts,8c ]
+Gunnarnesen balance 15060, lost 2470 [ 4s Ac ] [ a pair of Fours -- Ac,Kh,Ts,4s,4c ]
+
+***** Hand History for Game 6083164803 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:50:35 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 8 is the button
+Total number of players : 2
+Seat 7: AchillesWin (4940)
+Seat 8: Gunnarnesen (15060)
+AchillesWin  posts ante (25)
+Gunnarnesen  posts ante (25)
+Gunnarnesen  posts small blind (400)
+AchillesWin  posts big blind (800)
+** Dealing down cards **
+Gunnarnesen calls (400)
+AchillesWin checks.
+** Dealing Flop ** :  [ Jd, 2h, Qc ]
+AchillesWin checks.
+Gunnarnesen bets (800)
+AchillesWin folds.
+** Summary **
+Main Pot: 1650
+Board: [ Jd 2h Qc  ]
+
+AchillesWin balance 4115, lost 825 (folded)
+Gunnarnesen balance 15885, bet 1625, collected 2450, net +825
+
+***** Hand History for Game 6083166528 *****
+0/0 Tourney Texas Hold'em Game Table (NL) (Tournament 34079047)  - Thu Jun 21 15:50:52 EDT 2007
+Table Speed 1330107 (Real Money) -- Seat 7 is the button
+Total number of players : 2
+Seat 7: AchillesWin (4115)
+Seat 8: Gunnarnesen (15885)
+AchillesWin  posts ante (25)
+Gunnarnesen  posts ante (25)
+AchillesWin  posts small blind (400)
+Gunnarnesen  posts big blind (800)
+** Dealing down cards **
+AchillesWin calls (400)
+Gunnarnesen checks.
+** Dealing Flop ** :  [ 7c, 7d, Ts ]
+Gunnarnesen bets (800)
+AchillesWin raises (3290) to 3290
+AchillesWin is all-In.
+Gunnarnesen calls (2490)
+** Dealing Turn ** :  [ Jd ]
+** Dealing River ** :  [ Tc ]
+Creating Main Pot with $8230 with AchillesWin
+** Summary **
+Main Pot: 8230
+Board: [ 7c 7d Ts Jd Tc  ]
+
+AchillesWin balance 0, lost 4115 [ Jc 4c ] [ two pairs, Jacks and Tens -- Jc,Jd,Ts,Tc,7c ]
+Gunnarnesen balance 20000, bet 4115, collected 8230, net +4115 [ 7h Qs ] [ a full house, Sevens full of Tens -- Ts,Tc,7h,7c,7d ]
+
+
+

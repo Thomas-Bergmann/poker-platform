@@ -1,0 +1,2902 @@
+
+Hello hatoka,
+These hand histories are provided to you as an aid for your training and development. You are not permitted to share them with anyone.  We reserve the right to cease providing them or apply further restrictions at any time.
+Complete hand histories are only available to players that participated in the hand.
+You requested a transcript of Tournament #33280552.
+
+Summary
+----------
+Played on    : 06 May 2007 09:07 AM
+On Table     : Table  126651
+Game Type    : Texas Holdem
+Buy-In       : $5
+Fee          : $1
+You finished in  position 9
+1st place - hellbart -  $25
+2nd place - Rueckraum -  $15
+3rd place - Peedebee -  $10
+
+***** Hand History for Game 5942820813 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33280552)  - Sun May 06 09:07:35 EDT 2007
+Table Table  126651 (Real Money) -- Seat 6 is the button
+Total number of players : 10
+Seat 1: kineser (2000)
+Seat 2: norad13 (2000)
+Seat 3: Peedebee (2000)
+Seat 4: hellbart (2000)
+Seat 5: Matthieu1980 (2000)
+Seat 6: PlugNPay (2000)
+Seat 7: Davmark (2000)
+Seat 8: Rueckraum (2000)
+Seat 9: hatoka (2000)
+Seat 10: basilisk1869 (2000)
+Davmark  posts small blind (20)
+Rueckraum  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 8c, Qc ]
+hatoka calls (40)
+basilisk1869 folds.
+kineser folds.
+norad13 raises (80) to 80
+Peedebee raises (120) to 120
+hellbart folds.
+Matthieu1980 folds.
+PlugNPay folds.
+Davmark folds.
+Rueckraum folds.
+hatoka folds.
+norad13 calls (40)
+** Dealing Flop ** :  [ Qh, Ac, Kd ]
+norad13 bets (440)
+Peedebee raises (1280) to 1280
+norad13 calls (840)
+** Dealing Turn ** :  [ Ks ]
+norad13 bets (40)
+Peedebee raises (600) to 600
+Peedebee is all-In.
+norad13 calls (560)
+norad13 is all-In.
+** Dealing River ** :  [ Ad ]
+Creating Main Pot with $4100 with norad13,Peedebee
+** Summary **
+Main Pot: 4100
+Board: [ Qh Ac Kd Ks Ad  ]
+
+kineser balance 2000, didn't bet (folded)
+norad13 balance 2050, bet 2000, collected 2050, net +50 [ Qd Ah ] [ a full house, Aces full of Kings -- Ah,Ac,Ad,Kd,Ks ]
+Peedebee balance 2050, bet 2000, collected 2050, net +50 [ 4h As ] [ a full house, Aces full of Kings -- As,Ac,Ad,Kd,Ks ]
+hellbart balance 2000, didn't bet (folded)
+Matthieu1980 balance 2000, didn't bet (folded)
+PlugNPay balance 2000, didn't bet (folded)
+Davmark balance 1980, lost 20 (folded)
+Rueckraum balance 1960, lost 40 (folded)
+hatoka balance 1960, lost 40 (folded)
+basilisk1869 balance 2000, didn't bet (folded)
+
+***** Hand History for Game 5942824566 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33280552)  - Sun May 06 09:09:09 EDT 2007
+Table Table  126651 (Real Money) -- Seat 7 is the button
+Total number of players : 10
+Seat 1: kineser (2000)
+Seat 2: norad13 (2050)
+Seat 3: Peedebee (2050)
+Seat 4: hellbart (2000)
+Seat 5: Matthieu1980 (2000)
+Seat 6: PlugNPay (2000)
+Seat 7: Davmark (1980)
+Seat 8: Rueckraum (1960)
+Seat 9: hatoka (1960)
+Seat 10: basilisk1869 (2000)
+Rueckraum  posts small blind (20)
+hatoka  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ Kc, 5h ]
+basilisk1869 folds.
+Peedebee: omg
+kineser folds.
+norad13 raises (80) to 80
+Peedebee calls (80)
+hellbart folds.
+Matthieu1980 calls (80)
+PlugNPay folds.
+Davmark folds.
+Rueckraum folds.
+hatoka folds.
+** Dealing Flop ** :  [ Ad, Qs, 8h ]
+norad13 bets (40)
+Peedebee calls (40)
+Matthieu1980 calls (40)
+** Dealing Turn ** :  [ Qc ]
+norad13 bets (40)
+Peedebee calls (40)
+Matthieu1980 raises (280) to 280
+norad13 calls (240)
+Peedebee folds.
+** Dealing River ** :  [ 7h ]
+norad13 bets (40)
+Matthieu1980 raises (320) to 320
+norad13 calls (280)
+** Summary **
+Main Pot: 1660
+Board: [ Ad Qs 8h Qc 7h  ]
+
+kineser balance 2000, didn't bet (folded)
+norad13 balance 1330, lost 720 [ 9h 9d ] [ two pairs, Queens and Nines -- Ad,Qs,Qc,9h,9d ]
+
+Peedebee balance 1890, lost 160 (folded)
+hellbart balance 2000, didn't bet (folded)
+Matthieu1980 balance 2940, bet 720, collected 1660, net +940 [ 8d 8c ] [ a full house, Eights full of Queens -- Qs,Qc,8d,8c,8h ]
+PlugNPay balance 2000, didn't bet (folded)
+Davmark balance 1980, didn't bet (folded)
+Rueckraum balance 1940, lost 20 (folded)
+hatoka balance 1920, lost 40 (folded)
+basilisk1869 balance 2000, didn't bet (folded)
+
+***** Hand History for Game 5942827742 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33280552)  - Sun May 06 09:10:22 EDT 2007
+Table Table  126651 (Real Money) -- Seat 8 is the button
+Total number of players : 10
+Seat 1: kineser (2000)
+Seat 2: norad13 (1330)
+Seat 3: Peedebee (1890)
+Seat 4: hellbart (2000)
+Seat 5: Matthieu1980 (2940)
+Seat 6: PlugNPay (2000)
+Seat 7: Davmark (1980)
+Seat 8: Rueckraum (1940)
+Seat 9: hatoka (1920)
+Seat 10: basilisk1869 (2000)
+hatoka  posts small blind (20)
+basilisk1869  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ Jh, 7d ]
+kineser folds.
+norad13 calls (40)
+Peedebee folds.
+hellbart folds.
+Matthieu1980 raises (160) to 160
+PlugNPay raises (2000) to 2000
+PlugNPay is all-In.
+Davmark folds.
+Rueckraum folds.
+hatoka folds.
+basilisk1869 folds.
+norad13 calls (1290)
+norad13 is all-In.
+Matthieu1980 folds.
+** Dealing Flop ** :  [ Jd, 8c, Kc ]
+** Dealing Turn ** :  [ 3c ]
+** Dealing River ** :  [ 2c ]
+Creating Main Pot with $2880 with norad13
+** Summary **
+Main Pot: 2880
+Board: [ Jd 8c Kc 3c 2c  ]
+
+kineser balance 2000, didn't bet (folded)
+norad13 balance 0, lost 1330 [ Kh 5h ] [ a pair of Kings -- Kh,Kc,Jd,8c,5h ]
+Peedebee balance 1890, didn't bet (folded)
+hellbart balance 2000, didn't bet (folded)
+Matthieu1980 balance 2780, lost 160 (folded)
+PlugNPay balance 3550, bet 2000, collected 3550, net +1550 [ As Ad ] [ a pair of Aces -- As,Ad,Kc,Jd,8c ]
+Davmark balance 1980, didn't bet (folded)
+Rueckraum balance 1940, didn't bet (folded)
+hatoka balance 1900, lost 20 (folded)
+basilisk1869 balance 1960, lost 40 (folded)
+
+***** Hand History for Game 5942829366 *****
+norad13 finished in 10 place.
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33280552)  - Sun May 06 09:11:01 EDT 2007
+Table Table  126651 (Real Money) -- Seat 9 is the button
+Total number of players : 9
+Seat 1: kineser (2000)
+Seat 3: Peedebee (1890)
+Seat 4: hellbart (2000)
+Seat 5: Matthieu1980 (2780)
+Seat 6: PlugNPay (3550)
+Seat 7: Davmark (1980)
+Seat 8: Rueckraum (1940)
+Seat 9: hatoka (1900)
+Seat 10: basilisk1869 (1960)
+basilisk1869  posts small blind (20)
+kineser  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 6d, 4h ]
+Matthieu1980: puh i had qq
+Matthieu1980: had a strange feeling lol
+Peedebee calls (40)
+hellbart calls (40)
+PlugNPay: lol
+Matthieu1980 calls (40)
+PlugNPay calls (40)
+Davmark raises (80) to 80
+Rueckraum folds.
+hatoka folds.
+basilisk1869 folds.
+kineser folds.
+Peedebee calls (40)
+hellbart calls (40)
+Matthieu1980 calls (40)
+PlugNPay calls (40)
+** Dealing Flop ** :  [ 5s, Jh, 8d ]
+Peedebee bets (40)
+hellbart folds.
+PlugNPay: You felt right...
+Matthieu1980 raises (120) to 120
+PlugNPay calls (120)
+Davmark folds.
+Peedebee calls (80)
+** Dealing Turn ** :  [ 8h ]
+Peedebee bets (1690)
+Peedebee is all-In.
+Matthieu1980 folds.
+PlugNPay folds.
+Creating Main Pot with $820 with Peedebee
+** Summary **
+Main Pot: 820
+Board: [ 5s Jh 8d 8h  ]
+
+kineser balance 1960, lost 40 (folded)
+Peedebee balance 2510, bet 1890, collected 2510, net +620
+hellbart balance 1920, lost 80 (folded)
+Matthieu1980 balance 2580, lost 200 (folded)
+PlugNPay balance 3350, lost 200 (folded)
+Davmark balance 1900, lost 80 (folded)
+Rueckraum balance 1940, didn't bet (folded)
+hatoka balance 1900, didn't bet (folded)
+basilisk1869 balance 1940, lost 20 (folded)
+
+***** Hand History for Game 5942832527 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33280552)  - Sun May 06 09:12:14 EDT 2007
+Table Table  126651 (Real Money) -- Seat 10 is the button
+Total number of players : 9
+Seat 1: kineser (1960)
+Seat 3: Peedebee (2510)
+Seat 4: hellbart (1920)
+Seat 5: Matthieu1980 (2580)
+Seat 6: PlugNPay (3350)
+Seat 7: Davmark (1900)
+Seat 8: Rueckraum (1940)
+Seat 9: hatoka (1900)
+Seat 10: basilisk1869 (1940)
+kineser  posts small blind (20)
+Peedebee  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ Qd, 2h ]
+hellbart folds.
+Matthieu1980 folds.
+PlugNPay calls (40)
+Davmark calls (40)
+Rueckraum folds.
+hatoka folds.
+basilisk1869 folds.
+kineser folds.
+Peedebee checks.
+** Dealing Flop ** :  [ Jh, 3d, Js ]
+Peedebee checks.
+PlugNPay bets (300)
+Davmark folds.
+Peedebee folds.
+** Summary **
+Main Pot: 140
+Board: [ Jh 3d Js  ]
+
+kineser balance 1940, lost 20 (folded)
+Peedebee balance 2470, lost 40 (folded)
+hellbart balance 1920, didn't bet (folded)
+Matthieu1980 balance 2580, didn't bet (folded)
+PlugNPay balance 3450, bet 340, collected 440, net +100
+Davmark balance 1860, lost 40 (folded)
+Rueckraum balance 1940, didn't bet (folded)
+hatoka balance 1900, didn't bet (folded)
+basilisk1869 balance 1940, didn't bet (folded)
+
+***** Hand History for Game 5942834435 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33280552)  - Sun May 06 09:12:59 EDT 2007
+Table Table  126651 (Real Money) -- Seat 1 is the button
+Total number of players : 9
+Seat 1: kineser (1940)
+Seat 3: Peedebee (2470)
+Seat 4: hellbart (1920)
+Seat 5: Matthieu1980 (2580)
+Seat 6: PlugNPay (3450)
+Seat 7: Davmark (1860)
+Seat 8: Rueckraum (1940)
+Seat 9: hatoka (1900)
+Seat 10: basilisk1869 (1940)
+Peedebee  posts small blind (20)
+hellbart  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 9d, Kh ]
+Matthieu1980 folds.
+PlugNPay raises (80) to 80
+Davmark calls (80)
+Rueckraum folds.
+hatoka calls (80)
+basilisk1869 folds.
+kineser raises (320) to 320
+Peedebee folds.
+hellbart folds.
+PlugNPay calls (240)
+Davmark calls (240)
+hatoka folds.
+** Dealing Flop ** :  [ Td, 4h, Th ]
+PlugNPay checks.
+Davmark checks.
+kineser bets (560)
+PlugNPay calls (560)
+Davmark folds.
+** Dealing Turn ** :  [ 5s ]
+PlugNPay checks.
+kineser checks.
+** Dealing River ** :  [ 5h ]
+PlugNPay checks.
+kineser bets (1060)
+kineser is all-In.
+PlugNPay folds.
+Creating Main Pot with $2220 with kineser
+** Summary **
+Main Pot: 2220
+Board: [ Td 4h Th 5s 5h  ]
+
+kineser balance 3280, bet 1940, collected 3280, net +1340
+Peedebee balance 2450, lost 20 (folded)
+hellbart balance 1880, lost 40 (folded)
+Matthieu1980 balance 2580, didn't bet (folded)
+PlugNPay balance 2570, lost 880 (folded)
+Davmark balance 1540, lost 320 (folded)
+Rueckraum balance 1940, didn't bet (folded)
+hatoka balance 1820, lost 80 (folded)
+basilisk1869 balance 1940, didn't bet (folded)
+
+***** Hand History for Game 5942837335 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33280552)  - Sun May 06 09:14:05 EDT 2007
+Table Table  126651 (Real Money) -- Seat 3 is the button
+Total number of players : 9
+Seat 1: kineser (3280)
+Seat 3: Peedebee (2450)
+Seat 4: hellbart (1880)
+Seat 5: Matthieu1980 (2580)
+Seat 6: PlugNPay (2570)
+Seat 7: Davmark (1540)
+Seat 8: Rueckraum (1940)
+Seat 9: hatoka (1820)
+Seat 10: basilisk1869 (1940)
+hellbart  posts small blind (20)
+Matthieu1980  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 5c, 9h ]
+PlugNPay raises (80) to 80
+Davmark calls (80)
+Rueckraum folds.
+hatoka folds.
+basilisk1869 calls (80)
+kineser folds.
+Peedebee folds.
+hellbart folds.
+Matthieu1980 calls (40)
+** Dealing Flop ** :  [ 2c, Js, 6d ]
+Matthieu1980 checks.
+PlugNPay bets (300)
+Davmark raises (600) to 600
+basilisk1869 folds.
+Matthieu1980 folds.
+PlugNPay calls (300)
+** Dealing Turn ** :  [ 7c ]
+PlugNPay checks.
+Davmark checks.
+** Dealing River ** :  [ Ah ]
+PlugNPay checks.
+Davmark checks.
+** Summary **
+Main Pot: 1540
+Board: [ 2c Js 6d 7c Ah  ]
+
+kineser balance 3280, didn't bet (folded)
+Peedebee balance 2450, didn't bet (folded)
+hellbart balance 1860, lost 20 (folded)
+Matthieu1980 balance 2500, lost 80 (folded)
+PlugNPay balance 1890, lost 680 [ 7s 8s ] [ a pair of Sevens -- Ah,Js,8s,7s,7c ]
+Davmark balance 2400, bet 680, collected 1540, net +860 [ Ts Jh ] [ a pair of Jacks -- Ah,Jh,Js,Ts,7c ]
+Rueckraum balance 1940, didn't bet (folded)
+hatoka balance 1820, didn't bet (folded)
+basilisk1869 balance 1860, lost 80 (folded)
+
+***** Hand History for Game 5942839664 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33280552)  - Sun May 06 09:14:59 EDT 2007
+Table Table  126651 (Real Money) -- Seat 4 is the button
+Total number of players : 9
+Seat 1: kineser (3280)
+Seat 3: Peedebee (2450)
+Seat 4: hellbart (1860)
+Seat 5: Matthieu1980 (2500)
+Seat 6: PlugNPay (1890)
+Seat 7: Davmark (2400)
+Seat 8: Rueckraum (1940)
+Seat 9: hatoka (1820)
+Seat 10: basilisk1869 (1860)
+Matthieu1980  posts small blind (20)
+PlugNPay  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 5d, 7h ]
+Davmark calls (40)
+Rueckraum folds.
+hatoka folds.
+basilisk1869 raises (120) to 120
+kineser folds.
+Peedebee calls (120)
+hellbart calls (120)
+Matthieu1980 folds.
+PlugNPay folds.
+Davmark folds.
+** Dealing Flop ** :  [ 4c, 8h, 5c ]
+basilisk1869 checks.
+Peedebee checks.
+hellbart checks.
+** Dealing Turn ** :  [ 9h ]
+basilisk1869 bets (40)
+Peedebee raises (800) to 800
+hellbart folds.
+basilisk1869 folds.
+** Summary **
+Main Pot: 540
+Board: [ 4c 8h 5c 9h  ]
+
+kineser balance 3280, didn't bet (folded)
+Peedebee balance 2830, bet 920, collected 1300, net +380
+hellbart balance 1740, lost 120 (folded)
+Matthieu1980 balance 2480, lost 20 (folded)
+PlugNPay balance 1850, lost 40 (folded)
+Davmark balance 2360, lost 40 (folded)
+Rueckraum balance 1940, didn't bet (folded)
+hatoka balance 1820, didn't bet (folded)
+basilisk1869 balance 1700, lost 160 (folded)
+
+***** Hand History for Game 5942842298 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33280552)  - Sun May 06 09:15:59 EDT 2007
+Table Table  126651 (Real Money) -- Seat 5 is the button
+Total number of players : 9
+Seat 1: kineser (3280)
+Seat 3: Peedebee (2830)
+Seat 4: hellbart (1740)
+Seat 5: Matthieu1980 (2480)
+Seat 6: PlugNPay (1850)
+Seat 7: Davmark (2360)
+Seat 8: Rueckraum (1940)
+Seat 9: hatoka (1820)
+Seat 10: basilisk1869 (1700)
+PlugNPay  posts small blind (20)
+Davmark  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ Kh, 3s ]
+Rueckraum calls (40)
+hatoka folds.
+basilisk1869 folds.
+kineser calls (40)
+Peedebee folds.
+hellbart calls (40)
+Matthieu1980 calls (40)
+PlugNPay folds.
+Davmark checks.
+** Dealing Flop ** :  [ Ah, Jd, 5s ]
+Davmark checks.
+Rueckraum checks.
+kineser checks.
+hellbart checks.
+Matthieu1980 bets (200)
+Davmark folds.
+Rueckraum folds.
+kineser folds.
+hellbart folds.
+** Summary **
+Main Pot: 220
+Board: [ Ah Jd 5s  ]
+
+kineser balance 3240, lost 40 (folded)
+Peedebee balance 2830, didn't bet (folded)
+hellbart balance 1700, lost 40 (folded)
+Matthieu1980 balance 2660, bet 240, collected 420, net +180
+PlugNPay balance 1830, lost 20 (folded)
+Davmark balance 2320, lost 40 (folded)
+Rueckraum balance 1900, lost 40 (folded)
+hatoka balance 1820, didn't bet (folded)
+basilisk1869 balance 1700, didn't bet (folded)
+
+***** Hand History for Game 5942844924 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33280552)  - Sun May 06 09:16:59 EDT 2007
+Table Table  126651 (Real Money) -- Seat 6 is the button
+Total number of players : 9
+Seat 1: kineser (3240)
+Seat 3: Peedebee (2830)
+Seat 4: hellbart (1700)
+Seat 5: Matthieu1980 (2660)
+Seat 6: PlugNPay (1830)
+Seat 7: Davmark (2320)
+Seat 8: Rueckraum (1900)
+Seat 9: hatoka (1820)
+Seat 10: basilisk1869 (1700)
+Davmark  posts small blind (20)
+Rueckraum  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 4h, 8d ]
+hatoka folds.
+basilisk1869 folds.
+kineser folds.
+Peedebee calls (40)
+hellbart folds.
+Matthieu1980 folds.
+PlugNPay folds.
+Davmark calls (20)
+Rueckraum checks.
+** Dealing Flop ** :  [ 6c, 2s, Kh ]
+Davmark checks.
+Rueckraum checks.
+Peedebee bets (40)
+Davmark calls (40)
+Rueckraum folds.
+** Dealing Turn ** :  [ 3d ]
+Davmark checks.
+Peedebee bets (40)
+Davmark folds.
+** Summary **
+Main Pot: 200
+Board: [ 6c 2s Kh 3d  ]
+
+kineser balance 3240, didn't bet (folded)
+Peedebee balance 2950, bet 120, collected 240, net +120
+hellbart balance 1700, didn't bet (folded)
+Matthieu1980 balance 2660, didn't bet (folded)
+PlugNPay balance 1830, didn't bet (folded)
+Davmark balance 2240, lost 80 (folded)
+Rueckraum balance 1860, lost 40 (folded)
+hatoka balance 1820, didn't bet (folded)
+basilisk1869 balance 1700, didn't bet (folded)
+
+***** Hand History for Game 5942848013 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33280552)  - Sun May 06 09:18:10 EDT 2007
+Table Table  126651 (Real Money) -- Seat 7 is the button
+Total number of players : 9
+Seat 1: kineser (3240)
+Seat 3: Peedebee (2950)
+Seat 4: hellbart (1700)
+Seat 5: Matthieu1980 (2660)
+Seat 6: PlugNPay (1830)
+Seat 7: Davmark (2240)
+Seat 8: Rueckraum (1860)
+Seat 9: hatoka (1820)
+Seat 10: basilisk1869 (1700)
+Rueckraum  posts small blind (30)
+hatoka  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Jd, 7h ]
+basilisk1869 folds.
+kineser calls (60)
+Peedebee folds.
+hellbart raises (180) to 180
+Matthieu1980 folds.
+PlugNPay folds.
+Davmark folds.
+Rueckraum folds.
+hatoka folds.
+kineser calls (120)
+** Dealing Flop ** :  [ Td, Ts, 4c ]
+kineser checks.
+hellbart checks.
+** Dealing Turn ** :  [ 6s ]
+kineser checks.
+hellbart bets (180)
+kineser raises (780) to 780
+hellbart folds.
+** Summary **
+Main Pot: 810
+Board: [ Td Ts 4c 6s  ]
+
+kineser balance 3690, bet 960, collected 1410, net +450
+Peedebee balance 2950, didn't bet (folded)
+hellbart balance 1340, lost 360 (folded)
+Matthieu1980 balance 2660, didn't bet (folded)
+PlugNPay balance 1830, didn't bet (folded)
+Davmark balance 2240, didn't bet (folded)
+Rueckraum balance 1830, lost 30 (folded)
+hatoka balance 1760, lost 60 (folded)
+basilisk1869 balance 1700, didn't bet (folded)
+
+***** Hand History for Game 5942850424 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33280552)  - Sun May 06 09:19:06 EDT 2007
+Table Table  126651 (Real Money) -- Seat 8 is the button
+Total number of players : 9
+Seat 1: kineser (3690)
+Seat 3: Peedebee (2950)
+Seat 4: hellbart (1340)
+Seat 5: Matthieu1980 (2660)
+Seat 6: PlugNPay (1830)
+Seat 7: Davmark (2240)
+Seat 8: Rueckraum (1830)
+Seat 9: hatoka (1760)
+Seat 10: basilisk1869 (1700)
+hatoka  posts small blind (30)
+basilisk1869  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 3h, Th ]
+kineser folds.
+Peedebee folds.
+hellbart calls (60)
+Matthieu1980 raises (240) to 240
+PlugNPay folds.
+Davmark folds.
+Rueckraum folds.
+hatoka folds.
+basilisk1869 calls (180)
+hellbart calls (180)
+** Dealing Flop ** :  [ Ah, Qc, 2d ]
+basilisk1869 checks.
+hellbart checks.
+Matthieu1980 bets (480)
+basilisk1869 raises (960) to 960
+hellbart folds.
+Matthieu1980 folds.
+** Summary **
+Main Pot: 1710
+Board: [ Ah Qc 2d  ]
+
+kineser balance 3690, didn't bet (folded)
+Peedebee balance 2950, didn't bet (folded)
+hellbart balance 1100, lost 240 (folded)
+Matthieu1980 balance 1940, lost 720 (folded)
+PlugNPay balance 1830, didn't bet (folded)
+Davmark balance 2240, didn't bet (folded)
+Rueckraum balance 1830, didn't bet (folded)
+hatoka balance 1730, lost 30 (folded)
+basilisk1869 balance 2690, bet 1200, collected 2190, net +990
+
+***** Hand History for Game 5942852878 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33280552)  - Sun May 06 09:20:02 EDT 2007
+Table Table  126651 (Real Money) -- Seat 9 is the button
+Total number of players : 9
+Seat 1: kineser (3690)
+Seat 3: Peedebee (2950)
+Seat 4: hellbart (1100)
+Seat 5: Matthieu1980 (1940)
+Seat 6: PlugNPay (1830)
+Seat 7: Davmark (2240)
+Seat 8: Rueckraum (1830)
+Seat 9: hatoka (1730)
+Seat 10: basilisk1869 (2690)
+basilisk1869  posts small blind (30)
+kineser  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Kc, Qh ]
+Peedebee folds.
+hellbart calls (60)
+Matthieu1980 folds.
+PlugNPay calls (60)
+Davmark raises (120) to 120
+Rueckraum folds.
+hatoka calls (120)
+basilisk1869 folds.
+kineser folds.
+hellbart calls (60)
+PlugNPay calls (60)
+** Dealing Flop ** :  [ 6c, 6d, 8h ]
+hellbart checks.
+PlugNPay bets (1710)
+PlugNPay is all-In.
+Davmark folds.
+hatoka folds.
+hellbart folds.
+Creating Main Pot with $570 with PlugNPay
+** Summary **
+Main Pot: 570
+Board: [ 6c 6d 8h  ]
+
+kineser balance 3630, lost 60 (folded)
+Peedebee balance 2950, didn't bet (folded)
+hellbart balance 980, lost 120 (folded)
+Matthieu1980 balance 1940, didn't bet (folded)
+PlugNPay balance 2280, bet 1830, collected 2280, net +450 [ 6h 8s ] [ a full house, Sixes full of Eights -- 8s,8h,6h,6c,6d ]
+Davmark balance 2120, lost 120 (folded)
+Rueckraum balance 1830, didn't bet (folded)
+hatoka balance 1610, lost 120 (folded)
+basilisk1869 balance 2660, lost 30 (folded)
+
+***** Hand History for Game 5942855913 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33280552)  - Sun May 06 09:21:13 EDT 2007
+Table Table  126651 (Real Money) -- Seat 10 is the button
+Total number of players : 9
+Seat 1: kineser (3630)
+Seat 3: Peedebee (2950)
+Seat 4: hellbart (980)
+Seat 5: Matthieu1980 (1940)
+Seat 6: PlugNPay (2280)
+Seat 7: Davmark (2120)
+Seat 8: Rueckraum (1830)
+Seat 9: hatoka (1610)
+Seat 10: basilisk1869 (2660)
+kineser  posts small blind (30)
+Peedebee  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Kd, 4s ]
+hellbart folds.
+Matthieu1980 folds.
+PlugNPay folds.
+Davmark folds.
+Rueckraum folds.
+hatoka folds.
+basilisk1869 folds.
+kineser calls (30)
+Peedebee checks.
+** Dealing Flop ** :  [ Ad, 3h, As ]
+kineser bets (180)
+Peedebee folds.
+** Summary **
+Main Pot: 120
+Board: [ Ad 3h As  ]
+
+kineser balance 3690, bet 240, collected 300, net +60
+Peedebee balance 2890, lost 60 (folded)
+hellbart balance 980, didn't bet (folded)
+Matthieu1980 balance 1940, didn't bet (folded)
+PlugNPay balance 2280, didn't bet (folded)
+Davmark balance 2120, didn't bet (folded)
+Rueckraum balance 1830, didn't bet (folded)
+hatoka balance 1610, didn't bet (folded)
+basilisk1869 balance 2660, didn't bet (folded)
+
+***** Hand History for Game 5942857369 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33280552)  - Sun May 06 09:21:49 EDT 2007
+Table Table  126651 (Real Money) -- Seat 1 is the button
+Total number of players : 9
+Seat 1: kineser (3690)
+Seat 3: Peedebee (2890)
+Seat 4: hellbart (980)
+Seat 5: Matthieu1980 (1940)
+Seat 6: PlugNPay (2280)
+Seat 7: Davmark (2120)
+Seat 8: Rueckraum (1830)
+Seat 9: hatoka (1610)
+Seat 10: basilisk1869 (2660)
+Peedebee  posts small blind (30)
+hellbart  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 2c, Th ]
+Matthieu1980 folds.
+PlugNPay folds.
+Davmark folds.
+Rueckraum folds.
+hatoka folds.
+basilisk1869 folds.
+kineser folds.
+Peedebee calls (30)
+hellbart checks.
+** Dealing Flop ** :  [ Qc, 9d, 4d ]
+Peedebee checks.
+hellbart checks.
+** Dealing Turn ** :  [ 3d ]
+Peedebee checks.
+hellbart bets (60)
+Peedebee calls (60)
+** Dealing River ** :  [ Qd ]
+Peedebee checks.
+hellbart bets (240)
+Peedebee folds.
+** Summary **
+Main Pot: 240
+Board: [ Qc 9d 4d 3d Qd  ]
+
+kineser balance 3690, didn't bet (folded)
+Peedebee balance 2770, lost 120 (folded)
+hellbart balance 1100, bet 360, collected 480, net +120
+Matthieu1980 balance 1940, didn't bet (folded)
+PlugNPay balance 2280, didn't bet (folded)
+Davmark balance 2120, didn't bet (folded)
+Rueckraum balance 1830, didn't bet (folded)
+hatoka balance 1610, didn't bet (folded)
+basilisk1869 balance 2660, didn't bet (folded)
+
+***** Hand History for Game 5942859594 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33280552)  - Sun May 06 09:22:40 EDT 2007
+Table Table  126651 (Real Money) -- Seat 3 is the button
+Total number of players : 9
+Seat 1: kineser (3690)
+Seat 3: Peedebee (2770)
+Seat 4: hellbart (1100)
+Seat 5: Matthieu1980 (1940)
+Seat 6: PlugNPay (2280)
+Seat 7: Davmark (2120)
+Seat 8: Rueckraum (1830)
+Seat 9: hatoka (1610)
+Seat 10: basilisk1869 (2660)
+hellbart  posts small blind (30)
+Matthieu1980  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 6d, Td ]
+PlugNPay folds.
+Davmark folds.
+Rueckraum calls (60)
+hatoka calls (60)
+basilisk1869 calls (60)
+kineser folds.
+Peedebee calls (60)
+hellbart calls (30)
+Matthieu1980 checks.
+** Dealing Flop ** :  [ 9h, 3d, 2h ]
+hellbart checks.
+Matthieu1980 checks.
+Rueckraum checks.
+hatoka checks.
+basilisk1869 bets (100)
+Peedebee raises (300) to 300
+hellbart folds.
+Matthieu1980 folds.
+Rueckraum raises (1770) to 1770
+Rueckraum is all-In.
+hatoka folds.
+basilisk1869 folds.
+Peedebee folds.
+Creating Main Pot with $1060 with Rueckraum
+** Summary **
+Main Pot: 1060
+Board: [ 9h 3d 2h  ]
+
+kineser balance 3690, didn't bet (folded)
+Peedebee balance 2410, lost 360 (folded)
+hellbart balance 1040, lost 60 (folded)
+Matthieu1980 balance 1880, lost 60 (folded)
+PlugNPay balance 2280, didn't bet (folded)
+Davmark balance 2120, didn't bet (folded)
+Rueckraum balance 2530, bet 1830, collected 2530, net +700
+hatoka balance 1550, lost 60 (folded)
+basilisk1869 balance 2500, lost 160 (folded)
+
+***** Hand History for Game 5942863094 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33280552)  - Sun May 06 09:24:01 EDT 2007
+Table Table  126651 (Real Money) -- Seat 4 is the button
+Total number of players : 9
+Seat 1: kineser (3690)
+Seat 3: Peedebee (2410)
+Seat 4: hellbart (1040)
+Seat 5: Matthieu1980 (1880)
+Seat 6: PlugNPay (2280)
+Seat 7: Davmark (2120)
+Seat 8: Rueckraum (2530)
+Seat 9: hatoka (1550)
+Seat 10: basilisk1869 (2500)
+Matthieu1980  posts small blind (30)
+PlugNPay  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 3s, 4h ]
+Davmark calls (60)
+Rueckraum folds.
+hatoka folds.
+basilisk1869 folds.
+kineser calls (60)
+Peedebee folds.
+hellbart folds.
+Matthieu1980 calls (30)
+PlugNPay checks.
+** Dealing Flop ** :  [ Ac, 4d, 8h ]
+Matthieu1980 bets (120)
+PlugNPay folds.
+Davmark calls (120)
+kineser folds.
+** Dealing Turn ** :  [ 7h ]
+Matthieu1980 bets (180)
+Davmark calls (180)
+** Dealing River ** :  [ 6d ]
+Matthieu1980 checks.
+Davmark bets (300)
+Matthieu1980 calls (300)
+** Summary **
+Main Pot: 1440
+Board: [ Ac 4d 8h 7h 6d  ]
+
+kineser balance 3630, lost 60 (folded)
+Peedebee balance 2410, didn't bet (folded)
+hellbart balance 1040, didn't bet (folded)
+Matthieu1980 balance 1220, lost 660 [ 2h As ] [ a pair of Aces -- As,Ac,8h,7h,6d ]
+
+PlugNPay balance 2220, lost 60 (folded)
+Davmark balance 2900, bet 660, collected 1440, net +780 [ 5c Ah ] [ a straight Four to Eight -- 8h,7h,6d,5c,4d ]
+Rueckraum balance 2530, didn't bet (folded)
+hatoka balance 1550, didn't bet (folded)
+basilisk1869 balance 2500, didn't bet (folded)
+
+***** Hand History for Game 5942865904 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33280552)  - Sun May 06 09:25:05 EDT 2007
+Table Table  126651 (Real Money) -- Seat 5 is the button
+Total number of players : 9
+Seat 1: kineser (3630)
+Seat 3: Peedebee (2410)
+Seat 4: hellbart (1040)
+Seat 5: Matthieu1980 (1220)
+Seat 6: PlugNPay (2220)
+Seat 7: Davmark (2900)
+Seat 8: Rueckraum (2530)
+Seat 9: hatoka (1550)
+Seat 10: basilisk1869 (2500)
+PlugNPay  posts small blind (30)
+Davmark  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 6h, Th ]
+Rueckraum folds.
+hatoka calls (60)
+basilisk1869 folds.
+kineser folds.
+Peedebee calls (60)
+hellbart folds.
+Matthieu1980 folds.
+PlugNPay folds.
+Davmark checks.
+** Dealing Flop ** :  [ Qc, 5h, Jc ]
+Davmark checks.
+hatoka checks.
+Peedebee bets (180)
+Davmark folds.
+hatoka folds.
+** Summary **
+Main Pot: 210
+Board: [ Qc 5h Jc  ]
+
+kineser balance 3630, didn't bet (folded)
+Peedebee balance 2560, bet 240, collected 390, net +150
+hellbart balance 1040, didn't bet (folded)
+Matthieu1980 balance 1220, didn't bet (folded)
+PlugNPay balance 2190, lost 30 (folded)
+Davmark balance 2840, lost 60 (folded)
+Rueckraum balance 2530, didn't bet (folded)
+hatoka balance 1490, lost 60 (folded)
+basilisk1869 balance 2500, didn't bet (folded)
+
+***** Hand History for Game 5942868028 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33280552)  - Sun May 06 09:25:54 EDT 2007
+Table Table  126651 (Real Money) -- Seat 6 is the button
+Total number of players : 9
+Seat 1: kineser (3630)
+Seat 3: Peedebee (2560)
+Seat 4: hellbart (1040)
+Seat 5: Matthieu1980 (1220)
+Seat 6: PlugNPay (2190)
+Seat 7: Davmark (2840)
+Seat 8: Rueckraum (2530)
+Seat 9: hatoka (1490)
+Seat 10: basilisk1869 (2500)
+Davmark  posts small blind (30)
+Rueckraum  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Qc, 8c ]
+hatoka calls (60)
+basilisk1869 calls (60)
+kineser calls (60)
+Peedebee folds.
+hellbart calls (60)
+Matthieu1980 calls (60)
+PlugNPay calls (60)
+Davmark calls (30)
+Rueckraum checks.
+** Dealing Flop ** :  [ 8d, Jd, Th ]
+Davmark checks.
+Rueckraum checks.
+hatoka bets (60)
+basilisk1869 folds.
+kineser raises (3570) to 3570
+kineser is all-In.
+hellbart folds.
+Matthieu1980 folds.
+PlugNPay calls (2130)
+PlugNPay is all-In.
+Davmark folds.
+Rueckraum folds.
+hatoka folds.
+** Dealing Turn ** :  [ Jh ]
+** Dealing River ** :  [ 9h ]
+Creating Main Pot with $4800 with PlugNPay
+** Summary **
+Main Pot: 4800
+Board: [ 8d Jd Th Jh 9h  ]
+
+kineser balance 1440, bet 3630, collected 1440, lost -2190 [ Ad 3d ] [ a pair of Jacks -- Ad,Jd,Jh,Th,9h ]
+Peedebee balance 2560, didn't bet (folded)
+hellbart balance 980, lost 60 (folded)
+Matthieu1980 balance 1160, lost 60 (folded)
+PlugNPay balance 4800, bet 2190, collected 4800, net +2610 [ Js 7s ] [ a straight Seven to Jack -- Js,Th,9h,8d,7s ]
+Davmark balance 2780, lost 60 (folded)
+Rueckraum balance 2470, lost 60 (folded)
+hatoka balance 1370, lost 120 (folded)
+basilisk1869 balance 2440, lost 60 (folded)
+
+***** Hand History for Game 5942871266 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33280552)  - Sun May 06 09:27:09 EDT 2007
+Table Table  126651 (Real Money) -- Seat 7 is the button
+Total number of players : 9
+Seat 1: kineser (1440)
+Seat 3: Peedebee (2560)
+Seat 4: hellbart (980)
+Seat 5: Matthieu1980 (1160)
+Seat 6: PlugNPay (4800)
+Seat 7: Davmark (2780)
+Seat 8: Rueckraum (2470)
+Seat 9: hatoka (1370)
+Seat 10: basilisk1869 (2440)
+Rueckraum  posts small blind (30)
+hatoka  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Td, Ks ]
+basilisk1869 folds.
+kineser folds.
+Peedebee folds.
+hellbart calls (60)
+Matthieu1980 folds.
+PlugNPay folds.
+Davmark folds.
+Rueckraum calls (30)
+hatoka raises (120) to 180
+hellbart calls (120)
+Rueckraum folds.
+** Dealing Flop ** :  [ 2h, Qh, 6d ]
+hatoka bets (200)
+hellbart folds.
+** Summary **
+Main Pot: 420
+Board: [ 2h Qh 6d  ]
+
+kineser balance 1440, didn't bet (folded)
+Peedebee balance 2560, didn't bet (folded)
+hellbart balance 800, lost 180 (folded)
+Matthieu1980 balance 1160, didn't bet (folded)
+PlugNPay balance 4800, didn't bet (folded)
+Davmark balance 2780, didn't bet (folded)
+Rueckraum balance 2410, lost 60 (folded)
+hatoka balance 1610, bet 380, collected 620, net +240
+basilisk1869 balance 2440, didn't bet (folded)
+
+***** Hand History for Game 5942873395 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33280552)  - Sun May 06 09:27:57 EDT 2007
+Table Table  126651 (Real Money) -- Seat 8 is the button
+Total number of players : 9
+Seat 1: kineser (1440)
+Seat 3: Peedebee (2560)
+Seat 4: hellbart (800)
+Seat 5: Matthieu1980 (1160)
+Seat 6: PlugNPay (4800)
+Seat 7: Davmark (2780)
+Seat 8: Rueckraum (2410)
+Seat 9: hatoka (1610)
+Seat 10: basilisk1869 (2440)
+hatoka  posts small blind (30)
+basilisk1869  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Kd, 8d ]
+kineser folds.
+Peedebee folds.
+hellbart calls (60)
+Matthieu1980 folds.
+PlugNPay folds.
+Davmark folds.
+Rueckraum folds.
+hatoka calls (30)
+basilisk1869 raises (120) to 180
+hellbart calls (120)
+hatoka calls (120)
+** Dealing Flop ** :  [ 7h, Ac, 6d ]
+hatoka checks.
+basilisk1869 bets (150)
+hellbart calls (150)
+hatoka folds.
+** Dealing Turn ** :  [ 6c ]
+basilisk1869 bets (240)
+hellbart raises (470) to 470
+hellbart is all-In.
+basilisk1869 calls (230)
+** Dealing River ** :  [ Tc ]
+Creating Main Pot with $1780 with hellbart
+** Summary **
+Main Pot: 1780
+Board: [ 7h Ac 6d 6c Tc  ]
+
+kineser balance 1440, didn't bet (folded)
+Peedebee balance 2560, didn't bet (folded)
+hellbart balance 1780, bet 800, collected 1780, net +980 [ Th As ] [ two pairs, Aces and Tens -- As,Ac,Th,Tc,7h ]
+Matthieu1980 balance 1160, didn't bet (folded)
+PlugNPay balance 4800, didn't bet (folded)
+Davmark balance 2780, didn't bet (folded)
+Rueckraum balance 2410, didn't bet (folded)
+hatoka balance 1430, lost 180 (folded)
+basilisk1869 balance 1640, lost 800 [ Ks Ad ] [ two pairs, Aces and Sixes -- Ad,Ac,Ks,6d,6c ]
+
+***** Hand History for Game 5942876151 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33280552)  - Sun May 06 09:29:00 EDT 2007
+Table Table  126651 (Real Money) -- Seat 9 is the button
+Total number of players : 9
+Seat 1: kineser (1440)
+Seat 3: Peedebee (2560)
+Seat 4: hellbart (1780)
+Seat 5: Matthieu1980 (1160)
+Seat 6: PlugNPay (4800)
+Seat 7: Davmark (2780)
+Seat 8: Rueckraum (2410)
+Seat 9: hatoka (1430)
+Seat 10: basilisk1869 (1640)
+basilisk1869  posts small blind (50)
+kineser  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Th, Ad ]
+Peedebee calls (100)
+hellbart calls (100)
+Matthieu1980 folds.
+PlugNPay folds.
+Davmark folds.
+Rueckraum folds.
+hatoka raises (500) to 500
+basilisk1869 folds.
+kineser folds.
+Peedebee raises (800) to 900
+hellbart folds.
+hatoka calls (400)
+** Dealing Flop ** :  [ 9s, Qc, Jd ]
+Peedebee bets (600)
+hatoka calls (530)
+hatoka is all-In.
+** Dealing Turn ** :  [ Td ]
+** Dealing River ** :  [ 6c ]
+Creating Main Pot with $3110 with hatoka
+** Summary **
+Main Pot: 3110
+Board: [ 9s Qc Jd Td 6c  ]
+
+kineser balance 1340, lost 100 (folded)
+Peedebee balance 4240, bet 1500, collected 3180, net +1680 [ Ts Qd ] [ two pairs, Queens and Tens -- Qd,Qc,Jd,Ts,Td ]
+hellbart balance 1680, lost 100 (folded)
+Matthieu1980 balance 1160, didn't bet (folded)
+PlugNPay balance 4800, didn't bet (folded)
+Davmark balance 2780, didn't bet (folded)
+Rueckraum balance 2410, didn't bet (folded)
+hatoka balance 0, lost 1430 [ Th Ad ] [ a pair of Tens -- Ad,Qc,Jd,Th,Td ]
+basilisk1869 balance 1590, lost 50 (folded)
+
+***** Hand History for Game 5942879488 *****
+hatoka finished in 9 place.
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33280552)  - Sun May 06 09:30:17 EDT 2007
+Table Table  126651 (Real Money) -- Seat 10 is the button
+Total number of players : 8
+Seat 1: kineser (1340)
+Seat 3: Peedebee (4240)
+Seat 4: hellbart (1680)
+Seat 5: Matthieu1980 (1160)
+Seat 6: PlugNPay (4800)
+Seat 7: Davmark (2780)
+Seat 8: Rueckraum (2410)
+Seat 10: basilisk1869 (1590)
+kineser  posts small blind (50)
+Peedebee  posts big blind (100)
+** Dealing down cards **
+hellbart calls (100)
+Matthieu1980 folds.
+PlugNPay folds.
+Davmark folds.
+Rueckraum folds.
+basilisk1869 folds.
+kineser calls (50)
+Peedebee checks.
+** Dealing Flop ** :  [ 7h, Qh, Js ]
+kineser bets (1240)
+kineser is all-In.
+Peedebee folds.
+hellbart folds.
+Creating Main Pot with $300 with kineser
+** Summary **
+Main Pot: 300
+Board: [ 7h Qh Js  ]
+
+kineser balance 1540, bet 1340, collected 1540, net +200
+Peedebee balance 4140, lost 100 (folded)
+hellbart balance 1580, lost 100 (folded)
+Matthieu1980 balance 1160, didn't bet (folded)
+PlugNPay balance 4800, didn't bet (folded)
+Davmark balance 2780, didn't bet (folded)
+Rueckraum balance 2410, didn't bet (folded)
+basilisk1869 balance 1590, didn't bet (folded)
+
+***** Hand History for Game 5942881183 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33280552)  - Sun May 06 09:30:54 EDT 2007
+Table Table  126651 (Real Money) -- Seat 1 is the button
+Total number of players : 8
+Seat 1: kineser (1540)
+Seat 3: Peedebee (4140)
+Seat 4: hellbart (1580)
+Seat 5: Matthieu1980 (1160)
+Seat 6: PlugNPay (4800)
+Seat 7: Davmark (2780)
+Seat 8: Rueckraum (2410)
+Seat 10: basilisk1869 (1590)
+Peedebee  posts small blind (50)
+hellbart  posts big blind (100)
+** Dealing down cards **
+Matthieu1980 folds.
+PlugNPay raises (200) to 200
+Davmark folds.
+Rueckraum folds.
+basilisk1869 folds.
+kineser calls (200)
+Peedebee folds.
+hellbart calls (100)
+** Dealing Flop ** :  [ 4c, Td, 2s ]
+hellbart checks.
+PlugNPay bets (1380)
+kineser folds.
+hellbart folds.
+** Summary **
+Main Pot: 650
+Board: [ 4c Td 2s  ]
+
+kineser balance 1340, lost 200 (folded)
+Peedebee balance 4090, lost 50 (folded)
+hellbart balance 1380, lost 200 (folded)
+Matthieu1980 balance 1160, didn't bet (folded)
+PlugNPay balance 5250, bet 1580, collected 2030, net +450
+Davmark balance 2780, didn't bet (folded)
+Rueckraum balance 2410, didn't bet (folded)
+basilisk1869 balance 1590, didn't bet (folded)
+
+***** Hand History for Game 5942883201 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33280552)  - Sun May 06 09:31:40 EDT 2007
+Table Table  126651 (Real Money) -- Seat 3 is the button
+Total number of players : 8
+Seat 1: kineser (1340)
+Seat 3: Peedebee (4090)
+Seat 4: hellbart (1380)
+Seat 5: Matthieu1980 (1160)
+Seat 6: PlugNPay (5250)
+Seat 7: Davmark (2780)
+Seat 8: Rueckraum (2410)
+Seat 10: basilisk1869 (1590)
+hellbart  posts small blind (50)
+Matthieu1980  posts big blind (100)
+** Dealing down cards **
+PlugNPay calls (100)
+Davmark folds.
+Rueckraum folds.
+basilisk1869 folds.
+kineser raises (200) to 200
+Peedebee raises (500) to 500
+hellbart folds.
+Matthieu1980 folds.
+PlugNPay calls (400)
+kineser raises (1140) to 1340
+kineser is all-In.
+Peedebee calls (840)
+PlugNPay calls (840)
+Creating Main Pot with $4170 with kineser
+** Dealing Flop ** :  [ Ac, As, 4c ]
+PlugNPay checks.
+Peedebee checks.
+** Dealing Turn ** :  [ 8c ]
+PlugNPay checks.
+Peedebee checks.
+** Dealing River ** :  [ Qc ]
+PlugNPay checks.
+Peedebee bets (2750)
+Peedebee is all-In.
+PlugNPay calls (2750)
+Creating Side Pot 1 with $5500 with Peedebee
+** Summary **
+Main Pot: 4170 | Side Pot 1: 5500
+Board: [ Ac As 4c 8c Qc  ]
+
+kineser balance 4170, bet 1340, collected 4170, net +2830 [ Kd Kc ] [ a flush, Ace high with King kicker -- Ac,Kc,Qc,8c,4c ]
+Peedebee balance 5500, bet 4090, collected 5500, net +1410 [ Ks Tc ] [ a flush, Ace high with Ten kicker -- Ac,Qc,Tc,8c,4c ]
+hellbart balance 1330, lost 50 (folded)
+Matthieu1980 balance 1060, lost 100 (folded)
+PlugNPay balance 1160, lost 4090 [ 5d 5c ] [ a flush, Ace high -- Ac,Qc,8c,5c,4c ]
+Davmark balance 2780, didn't bet (folded)
+Rueckraum balance 2410, didn't bet (folded)
+basilisk1869 balance 1590, didn't bet (folded)
+
+***** Hand History for Game 5942887235 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33280552)  - Sun May 06 09:33:13 EDT 2007
+Table Table  126651 (Real Money) -- Seat 4 is the button
+Total number of players : 8
+Seat 1: kineser (4170)
+Seat 3: Peedebee (5500)
+Seat 4: hellbart (1330)
+Seat 5: Matthieu1980 (1060)
+Seat 6: PlugNPay (1160)
+Seat 7: Davmark (2780)
+Seat 8: Rueckraum (2410)
+Seat 10: basilisk1869 (1590)
+Matthieu1980  posts small blind (50)
+PlugNPay  posts big blind (100)
+** Dealing down cards **
+Davmark folds.
+Rueckraum folds.
+basilisk1869 folds.
+kineser folds.
+Peedebee calls (100)
+hellbart calls (100)
+Matthieu1980 calls (50)
+PlugNPay checks.
+** Dealing Flop ** :  [ 9d, 3s, Ad ]
+Matthieu1980 checks.
+PlugNPay bets (100)
+Peedebee calls (100)
+hellbart calls (100)
+Matthieu1980 calls (100)
+** Dealing Turn ** :  [ 6d ]
+Matthieu1980 checks.
+PlugNPay bets (100)
+Peedebee calls (100)
+hellbart folds.
+Matthieu1980 folds.
+** Dealing River ** :  [ Jh ]
+PlugNPay bets (100)
+Peedebee calls (100)
+** Summary **
+Main Pot: 1200
+Board: [ 9d 3s Ad 6d Jh  ]
+
+kineser balance 4170, didn't bet (folded)
+Peedebee balance 6300, bet 400, collected 1200, net +800 [ Jd Ts ] [ a pair of Jacks -- Ad,Jd,Jh,Ts,9d ]
+hellbart balance 1130, lost 200 (folded)
+Matthieu1980 balance 860, lost 200 (folded)
+PlugNPay balance 760, lost 400 [ 5s 9c ] [ a pair of Nines -- Ad,Jh,9c,9d,6d ]
+Davmark balance 2780, didn't bet (folded)
+Rueckraum balance 2410, didn't bet (folded)
+basilisk1869 balance 1590, didn't bet (folded)
+
+***** Hand History for Game 5942890216 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33280552)  - Sun May 06 09:34:21 EDT 2007
+Table Table  126651 (Real Money) -- Seat 5 is the button
+Total number of players : 8
+Seat 1: kineser (4170)
+Seat 3: Peedebee (6300)
+Seat 4: hellbart (1130)
+Seat 5: Matthieu1980 (860)
+Seat 6: PlugNPay (760)
+Seat 7: Davmark (2780)
+Seat 8: Rueckraum (2410)
+Seat 10: basilisk1869 (1590)
+PlugNPay  posts small blind (50)
+Davmark  posts big blind (100)
+** Dealing down cards **
+Rueckraum folds.
+basilisk1869 folds.
+kineser calls (100)
+Peedebee folds.
+hellbart raises (200) to 200
+Matthieu1980 folds.
+PlugNPay folds.
+Davmark calls (100)
+kineser calls (100)
+** Dealing Flop ** :  [ Jc, 9s, Qh ]
+Davmark checks.
+kineser bets (300)
+hellbart calls (300)
+Davmark folds.
+** Dealing Turn ** :  [ 6c ]
+kineser bets (3670)
+kineser is all-In.
+hellbart folds.
+Creating Main Pot with $1250 with kineser
+** Summary **
+Main Pot: 1250
+Board: [ Jc 9s Qh 6c  ]
+
+kineser balance 4920, bet 4170, collected 4920, net +750
+Peedebee balance 6300, didn't bet (folded)
+hellbart balance 630, lost 500 (folded)
+Matthieu1980 balance 860, didn't bet (folded)
+PlugNPay balance 710, lost 50 (folded)
+Davmark balance 2580, lost 200 (folded)
+Rueckraum balance 2410, didn't bet (folded)
+basilisk1869 balance 1590, didn't bet (folded)
+
+***** Hand History for Game 5942893483 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33280552)  - Sun May 06 09:35:34 EDT 2007
+Table Table  126651 (Real Money) -- Seat 6 is the button
+Total number of players : 8
+Seat 1: kineser (4920)
+Seat 3: Peedebee (6300)
+Seat 4: hellbart (630)
+Seat 5: Matthieu1980 (860)
+Seat 6: PlugNPay (710)
+Seat 7: Davmark (2580)
+Seat 8: Rueckraum (2410)
+Seat 10: basilisk1869 (1590)
+Davmark  posts small blind (50)
+Rueckraum  posts big blind (100)
+** Dealing down cards **
+basilisk1869 folds.
+kineser folds.
+Peedebee calls (100)
+hellbart folds.
+Matthieu1980 raises (860) to 860
+Matthieu1980 is all-In.
+PlugNPay calls (710)
+PlugNPay is all-In.
+Davmark folds.
+Rueckraum folds.
+Peedebee calls (760)
+** Dealing Flop ** :  [ Kd, Qh, Ad ]
+** Dealing Turn ** :  [ Ah ]
+** Dealing River ** :  [ 5h ]
+Creating Main Pot with $2280 with PlugNPay
+Creating Side Pot 1 with $300 with Matthieu1980
+** Summary **
+Main Pot: 2280 | Side Pot 1: 300
+Board: [ Kd Qh Ad Ah 5h  ]
+
+kineser balance 4920, didn't bet (folded)
+Peedebee balance 5440, lost 860 [ 2c 2s ] [ two pairs, Aces and Twos -- Ad,Ah,Kd,2c,2s ]
+hellbart balance 630, didn't bet (folded)
+Matthieu1980 balance 2580, bet 860, collected 2580, net +1720 [ Ac 4c ] [ three of a kind, Aces -- Ac,Ad,Ah,Kd,Qh ]
+PlugNPay balance 0, lost 710 [ Kc Th ] [ two pairs, Aces and Kings -- Ad,Ah,Kc,Kd,Qh ]
+Davmark balance 2530, lost 50 (folded)
+Rueckraum balance 2310, lost 100 (folded)
+basilisk1869 balance 1590, didn't bet (folded)
+
+***** Hand History for Game 5942895582 *****
+PlugNPay finished in 8 place.
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33280552)  - Sun May 06 09:36:21 EDT 2007
+Table Table  126651 (Real Money) -- Seat 7 is the button
+Total number of players : 7
+Seat 1: kineser (4920)
+Seat 3: Peedebee (5440)
+Seat 4: hellbart (630)
+Seat 5: Matthieu1980 (2580)
+Seat 7: Davmark (2530)
+Seat 8: Rueckraum (2310)
+Seat 10: basilisk1869 (1590)
+Rueckraum  posts small blind (50)
+basilisk1869  posts big blind (100)
+** Dealing down cards **
+kineser folds.
+Peedebee folds.
+hellbart folds.
+Matthieu1980 raises (300) to 300
+Davmark folds.
+Rueckraum raises (650) to 700
+basilisk1869 folds.
+Matthieu1980 calls (400)
+** Dealing Flop ** :  [ Kd, 8d, Ah ]
+Rueckraum checks.
+Matthieu1980 checks.
+** Dealing Turn ** :  [ Tc ]
+Rueckraum bets (700)
+Matthieu1980 calls (700)
+** Dealing River ** :  [ 9h ]
+Rueckraum bets (910)
+Rueckraum is all-In.
+Matthieu1980 calls (910)
+Creating Main Pot with $4720 with Rueckraum
+** Summary **
+Main Pot: 4720
+Board: [ Kd 8d Ah Tc 9h  ]
+
+kineser balance 4920, didn't bet (folded)
+Peedebee balance 5440, didn't bet (folded)
+hellbart balance 630, didn't bet (folded)
+Matthieu1980 balance 270, lost 2310 [ Ad Jd ] [ a pair of Aces -- Ad,Ah,Kd,Jd,Tc ]
+Davmark balance 2530, didn't bet (folded)
+Rueckraum balance 4720, bet 2310, collected 4720, net +2410 [ Kc Ks ] [ three of a kind, Kings -- Ah,Kc,Ks,Kd,Tc ]
+basilisk1869 balance 1490, lost 100 (folded)
+
+***** Hand History for Game 5942897646 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33280552)  - Sun May 06 09:37:09 EDT 2007
+Table Table  126651 (Real Money) -- Seat 8 is the button
+Total number of players : 7
+Seat 1: kineser (4920)
+Seat 3: Peedebee (5440)
+Seat 4: hellbart (630)
+Seat 5: Matthieu1980 (270)
+Seat 7: Davmark (2530)
+Seat 8: Rueckraum (4720)
+Seat 10: basilisk1869 (1490)
+basilisk1869  posts small blind (50)
+kineser  posts big blind (100)
+** Dealing down cards **
+Peedebee calls (100)
+hellbart folds.
+Matthieu1980 raises (270) to 270
+Matthieu1980 is all-In.
+Davmark folds.
+Rueckraum folds.
+basilisk1869 folds.
+kineser folds.
+Peedebee calls (170)
+** Dealing Flop ** :  [ 8h, Th, Jh ]
+** Dealing Turn ** :  [ 5c ]
+** Dealing River ** :  [ Td ]
+Creating Main Pot with $690 with Matthieu1980
+** Summary **
+Main Pot: 690
+Board: [ 8h Th Jh 5c Td  ]
+
+kineser balance 4820, lost 100 (folded)
+Peedebee balance 5860, bet 270, collected 690, net +420 [ 7h Kh ] [ a flush, King high -- Kh,Jh,Th,8h,7h ]
+hellbart balance 630, didn't bet (folded)
+Matthieu1980 balance 0, lost 270 [ 7d Ac ] [ a pair of Tens -- Ac,Jh,Th,Td,8h ]
+Davmark balance 2530, didn't bet (folded)
+Rueckraum balance 4720, didn't bet (folded)
+basilisk1869 balance 1440, lost 50 (folded)
+
+***** Hand History for Game 5942898653 *****
+Matthieu1980 finished in 7 place.
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33280552)  - Sun May 06 09:37:32 EDT 2007
+Table Table  126651 (Real Money) -- Seat 10 is the button
+Total number of players : 6
+Seat 1: kineser (4820)
+Seat 3: Peedebee (5860)
+Seat 4: hellbart (630)
+Seat 7: Davmark (2530)
+Seat 8: Rueckraum (4720)
+Seat 10: basilisk1869 (1440)
+kineser  posts small blind (50)
+Peedebee  posts big blind (100)
+** Dealing down cards **
+hellbart folds.
+Davmark folds.
+Rueckraum calls (100)
+basilisk1869 folds.
+kineser folds.
+Peedebee raises (100) to 200
+Rueckraum calls (100)
+** Dealing Flop ** :  [ 5s, Td, 5h ]
+Peedebee bets (100)
+Rueckraum folds.
+** Summary **
+Main Pot: 450
+Board: [ 5s Td 5h  ]
+
+kineser balance 4770, lost 50 (folded)
+Peedebee balance 6110, bet 300, collected 550, net +250
+hellbart balance 630, didn't bet (folded)
+Davmark balance 2530, didn't bet (folded)
+Rueckraum balance 4520, lost 200 (folded)
+basilisk1869 balance 1440, didn't bet (folded)
+
+***** Hand History for Game 5942899709 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33280552)  - Sun May 06 09:37:56 EDT 2007
+Table Table  126651 (Real Money) -- Seat 1 is the button
+Total number of players : 6
+Seat 1: kineser (4770)
+Seat 3: Peedebee (6110)
+Seat 4: hellbart (630)
+Seat 7: Davmark (2530)
+Seat 8: Rueckraum (4520)
+Seat 10: basilisk1869 (1440)
+Peedebee  posts small blind (50)
+hellbart  posts big blind (100)
+** Dealing down cards **
+Davmark calls (100)
+Rueckraum folds.
+basilisk1869 raises (400) to 400
+kineser folds.
+Peedebee calls (350)
+hellbart folds.
+Davmark calls (300)
+** Dealing Flop ** :  [ 4c, 5d, 9s ]
+Peedebee checks.
+Davmark checks.
+basilisk1869 bets (300)
+Peedebee calls (300)
+Davmark folds.
+** Dealing Turn ** :  [ Jh ]
+Peedebee checks.
+basilisk1869 checks.
+** Dealing River ** :  [ 2c ]
+Peedebee bets (800)
+basilisk1869 calls (740)
+basilisk1869 is all-In.
+Creating Main Pot with $3380 with basilisk1869
+** Summary **
+Main Pot: 3380
+Board: [ 4c 5d 9s Jh 2c  ]
+
+kineser balance 4770, didn't bet (folded)
+Peedebee balance 8050, bet 1500, collected 3440, net +1940 [ 6s Jc ] [ a pair of Jacks -- Jc,Jh,9s,6s,5d ]
+hellbart balance 530, lost 100 (folded)
+Davmark balance 2130, lost 400 (folded)
+Rueckraum balance 4520, didn't bet (folded)
+basilisk1869 balance 0, lost 1440 [ Ah Qd ] [ high card Ace -- Ah,Qd,Jh,9s,5d ]
+
+***** Hand History for Game 5942902680 *****
+basilisk1869 finished in 6 place.
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33280552)  - Sun May 06 09:39:05 EDT 2007
+Table Table  126651 (Real Money) -- Seat 3 is the button
+Total number of players : 5
+Seat 1: kineser (4770)
+Seat 3: Peedebee (8050)
+Seat 4: hellbart (530)
+Seat 7: Davmark (2130)
+Seat 8: Rueckraum (4520)
+hellbart  posts small blind (100)
+Davmark  posts big blind (200)
+** Dealing down cards **
+Rueckraum folds.
+kineser folds.
+Peedebee folds.
+hellbart calls (100)
+Davmark checks.
+** Dealing Flop ** :  [ 4d, 4c, Qd ]
+hellbart checks.
+Davmark checks.
+** Dealing Turn ** :  [ 9h ]
+hellbart checks.
+Davmark checks.
+** Dealing River ** :  [ 8h ]
+hellbart checks.
+Davmark checks.
+** Summary **
+Main Pot: 400
+Board: [ 4d 4c Qd 9h 8h  ]
+
+kineser balance 4770, didn't bet (folded)
+Peedebee balance 8050, didn't bet (folded)
+hellbart balance 730, bet 200, collected 400, net +200 [ Jd 8s ] [ two pairs, Eights and Fours -- Qd,8s,8h,4d,4c ]
+
+Davmark balance 1930, lost 200 [Didn't Show]
+Rueckraum balance 4520, didn't bet (folded)
+
+***** Hand History for Game 5942904261 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33280552)  - Sun May 06 09:39:41 EDT 2007
+Table Table  126651 (Real Money) -- Seat 4 is the button
+Total number of players : 5
+Seat 1: kineser (4770)
+Seat 3: Peedebee (8050)
+Seat 4: hellbart (730)
+Seat 7: Davmark (1930)
+Seat 8: Rueckraum (4520)
+Davmark  posts small blind (100)
+Rueckraum  posts big blind (200)
+** Dealing down cards **
+kineser folds.
+Peedebee folds.
+hellbart folds.
+Davmark calls (100)
+Rueckraum checks.
+** Dealing Flop ** :  [ 7s, 6d, 6h ]
+Davmark checks.
+Rueckraum checks.
+** Dealing Turn ** :  [ Qc ]
+Davmark checks.
+Rueckraum bets (200)
+Davmark folds.
+** Summary **
+Main Pot: 400
+Board: [ 7s 6d 6h Qc  ]
+
+kineser balance 4770, didn't bet (folded)
+Peedebee balance 8050, didn't bet (folded)
+hellbart balance 730, didn't bet (folded)
+Davmark balance 1730, lost 200 (folded)
+Rueckraum balance 4720, bet 400, collected 600, net +200
+
+***** Hand History for Game 5942905901 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33280552)  - Sun May 06 09:40:18 EDT 2007
+Table Table  126651 (Real Money) -- Seat 7 is the button
+Total number of players : 5
+Seat 1: kineser (4770)
+Seat 3: Peedebee (8050)
+Seat 4: hellbart (730)
+Seat 7: Davmark (1730)
+Seat 8: Rueckraum (4720)
+Rueckraum  posts small blind (100)
+kineser  posts big blind (200)
+** Dealing down cards **
+Peedebee folds.
+hellbart folds.
+Davmark folds.
+Rueckraum calls (100)
+kineser checks.
+** Dealing Flop ** :  [ 4h, Ad, Tc ]
+Rueckraum checks.
+kineser checks.
+** Dealing Turn ** :  [ 2h ]
+Rueckraum checks.
+kineser checks.
+** Dealing River ** :  [ 5h ]
+Rueckraum checks.
+kineser checks.
+** Summary **
+Main Pot: 400
+Board: [ 4h Ad Tc 2h 5h  ]
+
+kineser balance 4970, bet 200, collected 400, net +200 [ 4c Ks ] [ a pair of Fours -- Ad,Ks,Tc,4c,4h ]
+Peedebee balance 8050, didn't bet (folded)
+hellbart balance 730, didn't bet (folded)
+Davmark balance 1730, didn't bet (folded)
+Rueckraum balance 4520, lost 200 [ 6s Qs ] [ high card Ace -- Ad,Qs,Tc,6s,5h ]
+
+***** Hand History for Game 5942907146 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33280552)  - Sun May 06 09:40:46 EDT 2007
+Table Table  126651 (Real Money) -- Seat 8 is the button
+Total number of players : 5
+Seat 1: kineser (4970)
+Seat 3: Peedebee (8050)
+Seat 4: hellbart (730)
+Seat 7: Davmark (1730)
+Seat 8: Rueckraum (4520)
+kineser  posts small blind (100)
+Peedebee  posts big blind (200)
+** Dealing down cards **
+hellbart folds.
+Davmark folds.
+Rueckraum folds.
+kineser calls (100)
+Peedebee checks.
+** Dealing Flop ** :  [ 7s, 5s, Js ]
+kineser checks.
+Peedebee checks.
+** Dealing Turn ** :  [ 3d ]
+kineser checks.
+Peedebee checks.
+** Dealing River ** :  [ 8h ]
+kineser checks.
+Peedebee checks.
+** Summary **
+Main Pot: 400
+Board: [ 7s 5s Js 3d 8h  ]
+
+kineser balance 4770, lost 200 [ 9c Kh ] [ high card King -- Kh,Js,9c,8h,7s ]
+Peedebee balance 8250, bet 200, collected 400, net +200 [ 8s 2h ] [ a pair of Eights -- Js,8s,8h,7s,5s ]
+hellbart balance 730, didn't bet (folded)
+Davmark balance 1730, didn't bet (folded)
+Rueckraum balance 4520, didn't bet (folded)
+
+***** Hand History for Game 5942908767 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33280552)  - Sun May 06 09:41:23 EDT 2007
+Table Table  126651 (Real Money) -- Seat 1 is the button
+Total number of players : 5
+Seat 1: kineser (4770)
+Seat 3: Peedebee (8250)
+Seat 4: hellbart (730)
+Seat 7: Davmark (1730)
+Seat 8: Rueckraum (4520)
+Peedebee  posts small blind (100)
+hellbart  posts big blind (200)
+** Dealing down cards **
+Davmark folds.
+Rueckraum folds.
+kineser calls (200)
+Peedebee calls (100)
+hellbart checks.
+** Dealing Flop ** :  [ 5c, Jd, 5s ]
+Peedebee bets (200)
+hellbart calls (200)
+kineser folds.
+** Dealing Turn ** :  [ 3d ]
+Peedebee bets (400)
+hellbart calls (330)
+hellbart is all-In.
+** Dealing River ** :  [ 8c ]
+Creating Main Pot with $1660 with hellbart
+** Summary **
+Main Pot: 1660
+Board: [ 5c Jd 5s 3d 8c  ]
+
+kineser balance 4570, lost 200 (folded)
+Peedebee balance 7520, bet 800, collected 70, lost -730 [ 9d Jc ] [ two pairs, Jacks and Fives -- Jc,Jd,9d,5c,5s ]
+hellbart balance 1660, bet 730, collected 1660, net +930 [ 9h 5d ] [ three of a kind, Fives -- Jd,9h,5d,5c,5s ]
+Davmark balance 1730, didn't bet (folded)
+Rueckraum balance 4520, didn't bet (folded)
+
+***** Hand History for Game 5942910853 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33280552)  - Sun May 06 09:42:11 EDT 2007
+Table Table  126651 (Real Money) -- Seat 3 is the button
+Total number of players : 5
+Seat 1: kineser (4570)
+Seat 3: Peedebee (7520)
+Seat 4: hellbart (1660)
+Seat 7: Davmark (1730)
+Seat 8: Rueckraum (4520)
+hellbart  posts small blind (100)
+Davmark  posts big blind (200)
+** Dealing down cards **
+Rueckraum folds.
+kineser folds.
+Peedebee calls (200)
+hellbart calls (100)
+Davmark checks.
+** Dealing Flop ** :  [ 7s, Jd, Td ]
+hellbart checks.
+Davmark bets (600)
+Peedebee raises (1400) to 1400
+hellbart folds.
+Davmark raises (930) to 1530
+Davmark is all-In.
+Peedebee calls (130)
+** Dealing Turn ** :  [ 5c ]
+** Dealing River ** :  [ Kh ]
+Creating Main Pot with $3660 with Davmark
+** Summary **
+Main Pot: 3660
+Board: [ 7s Jd Td 5c Kh  ]
+
+kineser balance 4570, didn't bet (folded)
+Peedebee balance 5790, lost 1730 [ 8d Kd ] [ a pair of Kings -- Kd,Kh,Jd,Td,8d ]
+hellbart balance 1460, lost 200 (folded)
+Davmark balance 3660, bet 1730, collected 3660, net +1930 [ Jh 5d ] [ two pairs, Jacks and Fives -- Kh,Jh,Jd,5d,5c ]
+Rueckraum balance 4520, didn't bet (folded)
+
+***** Hand History for Game 5942913199 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33280552)  - Sun May 06 09:43:05 EDT 2007
+Table Table  126651 (Real Money) -- Seat 4 is the button
+Total number of players : 5
+Seat 1: kineser (4570)
+Seat 3: Peedebee (5790)
+Seat 4: hellbart (1460)
+Seat 7: Davmark (3660)
+Seat 8: Rueckraum (4520)
+Davmark  posts small blind (100)
+Rueckraum  posts big blind (200)
+** Dealing down cards **
+kineser calls (200)
+Peedebee folds.
+hellbart folds.
+Davmark calls (100)
+Rueckraum checks.
+** Dealing Flop ** :  [ 2d, 7c, 4h ]
+Davmark checks.
+Rueckraum checks.
+kineser checks.
+** Dealing Turn ** :  [ Qc ]
+Davmark checks.
+Rueckraum checks.
+kineser checks.
+** Dealing River ** :  [ Qd ]
+Davmark checks.
+Rueckraum bets (400)
+kineser calls (400)
+Davmark folds.
+** Summary **
+Main Pot: 1400
+Board: [ 2d 7c 4h Qc Qd  ]
+
+kineser balance 5370, bet 600, collected 1400, net +800 [ Ah Kh ] [ a pair of Queens with Ace kicker -- Ah,Kh,Qc,Qd,7cAh(kicker card) ]
+Peedebee balance 5790, didn't bet (folded)
+hellbart balance 1460, didn't bet (folded)
+Davmark balance 3460, lost 200 (folded)
+Rueckraum balance 3920, lost 600 [ 6h 5s ] [ a pair of Queens -- Qc,Qd,7c,6h,5s ]
+
+***** Hand History for Game 5942916366 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33280552)  - Sun May 06 09:44:17 EDT 2007
+Table Table  126651 (Real Money) -- Seat 7 is the button
+Total number of players : 5
+Seat 1: kineser (5370)
+Seat 3: Peedebee (5790)
+Seat 4: hellbart (1460)
+Seat 7: Davmark (3460)
+Seat 8: Rueckraum (3920)
+Rueckraum  posts small blind (100)
+kineser  posts big blind (200)
+** Dealing down cards **
+Peedebee folds.
+hellbart folds.
+Davmark calls (200)
+Rueckraum calls (100)
+kineser checks.
+** Dealing Flop ** :  [ 7c, Ks, As ]
+Rueckraum checks.
+kineser checks.
+Davmark checks.
+** Dealing Turn ** :  [ 9s ]
+Rueckraum checks.
+kineser checks.
+Davmark checks.
+** Dealing River ** :  [ Kc ]
+Rueckraum checks.
+kineser checks.
+Davmark checks.
+** Summary **
+Main Pot: 600
+Board: [ 7c Ks As 9s Kc  ]
+
+kineser balance 5770, bet 200, collected 600, net +400 [ 7h 2h ] [ two pairs, Kings and Sevens -- As,Ks,Kc,7h,7c ]
+Peedebee balance 5790, didn't bet (folded)
+hellbart balance 1460, didn't bet (folded)
+
+Davmark balance 3260, lost 200 [Didn't Show]
+Rueckraum balance 3720, lost 200 [ 5d Qd ] [ a pair of Kings -- As,Ks,Kc,Qd,9s ]
+
+***** Hand History for Game 5942919595 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33280552)  - Sun May 06 09:45:30 EDT 2007
+Table Table  126651 (Real Money) -- Seat 8 is the button
+Total number of players : 5
+Seat 1: kineser (5770)
+Seat 3: Peedebee (5790)
+Seat 4: hellbart (1460)
+Seat 7: Davmark (3260)
+Seat 8: Rueckraum (3720)
+kineser  posts small blind (100)
+Peedebee  posts big blind (200)
+** Dealing down cards **
+hellbart folds.
+Davmark folds.
+Rueckraum folds.
+kineser folds.
+** Summary **
+Main Pot: 200
+
+kineser balance 5670, lost 100 (folded)
+Peedebee balance 5890, bet 200, collected 300, net +100
+hellbart balance 1460, didn't bet (folded)
+Davmark balance 3260, didn't bet (folded)
+Rueckraum balance 3720, didn't bet (folded)
+
+***** Hand History for Game 5942920318 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33280552)  - Sun May 06 09:45:47 EDT 2007
+Table Table  126651 (Real Money) -- Seat 1 is the button
+Total number of players : 5
+Seat 1: kineser (5670)
+Seat 3: Peedebee (5890)
+Seat 4: hellbart (1460)
+Seat 7: Davmark (3260)
+Seat 8: Rueckraum (3720)
+Peedebee  posts small blind (100)
+hellbart  posts big blind (200)
+** Dealing down cards **
+Davmark folds.
+Rueckraum folds.
+kineser folds.
+Peedebee calls (100)
+hellbart checks.
+** Dealing Flop ** :  [ Qs, Th, 4s ]
+Peedebee checks.
+hellbart bets (200)
+Peedebee calls (200)
+** Dealing Turn ** :  [ Td ]
+Peedebee checks.
+hellbart bets (200)
+Peedebee folds.
+** Summary **
+Main Pot: 800
+Board: [ Qs Th 4s Td  ]
+
+kineser balance 5670, didn't bet (folded)
+Peedebee balance 5490, lost 400 (folded)
+hellbart balance 1860, bet 600, collected 1000, net +400
+Davmark balance 3260, didn't bet (folded)
+Rueckraum balance 3720, didn't bet (folded)
+
+***** Hand History for Game 5942922369 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33280552)  - Sun May 06 09:46:35 EDT 2007
+Table Table  126651 (Real Money) -- Seat 3 is the button
+Total number of players : 5
+Seat 1: kineser (5670)
+Seat 3: Peedebee (5490)
+Seat 4: hellbart (1860)
+Seat 7: Davmark (3260)
+Seat 8: Rueckraum (3720)
+hellbart  posts small blind (100)
+Davmark  posts big blind (200)
+** Dealing down cards **
+Rueckraum folds.
+kineser folds.
+Peedebee calls (200)
+hellbart calls (100)
+Davmark checks.
+** Dealing Flop ** :  [ Jh, 4s, 8s ]
+hellbart checks.
+Davmark checks.
+Peedebee bets (200)
+hellbart folds.
+Davmark folds.
+** Summary **
+Main Pot: 600
+Board: [ Jh 4s 8s  ]
+
+kineser balance 5670, didn't bet (folded)
+Peedebee balance 5890, bet 400, collected 800, net +400
+hellbart balance 1660, lost 200 (folded)
+Davmark balance 3060, lost 200 (folded)
+Rueckraum balance 3720, didn't bet (folded)
+
+***** Hand History for Game 5942923709 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33280552)  - Sun May 06 09:47:06 EDT 2007
+Table Table  126651 (Real Money) -- Seat 4 is the button
+Total number of players : 5
+Seat 1: kineser (5670)
+Seat 3: Peedebee (5890)
+Seat 4: hellbart (1660)
+Seat 7: Davmark (3060)
+Seat 8: Rueckraum (3720)
+Davmark  posts small blind (100)
+Rueckraum  posts big blind (200)
+** Dealing down cards **
+kineser calls (200)
+Peedebee folds.
+hellbart folds.
+Davmark calls (100)
+Rueckraum checks.
+** Dealing Flop ** :  [ 5d, 2c, 2d ]
+Davmark checks.
+Rueckraum checks.
+kineser checks.
+** Dealing Turn ** :  [ 6d ]
+Davmark checks.
+Rueckraum checks.
+kineser checks.
+** Dealing River ** :  [ Jd ]
+Davmark checks.
+Rueckraum checks.
+kineser bets (2000)
+Davmark folds.
+Rueckraum folds.
+** Summary **
+Main Pot: 600
+Board: [ 5d 2c 2d 6d Jd  ]
+
+kineser balance 6070, bet 2200, collected 2600, net +400
+Peedebee balance 5890, didn't bet (folded)
+hellbart balance 1660, didn't bet (folded)
+Davmark balance 2860, lost 200 (folded)
+Rueckraum balance 3520, lost 200 (folded)
+
+***** Hand History for Game 5942926111 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33280552)  - Sun May 06 09:48:03 EDT 2007
+Table Table  126651 (Real Money) -- Seat 7 is the button
+Total number of players : 5
+Seat 1: kineser (6070)
+Seat 3: Peedebee (5890)
+Seat 4: hellbart (1660)
+Seat 7: Davmark (2860)
+Seat 8: Rueckraum (3520)
+Rueckraum  posts small blind (100)
+kineser  posts big blind (200)
+** Dealing down cards **
+Peedebee calls (200)
+hellbart calls (200)
+Davmark folds.
+Rueckraum calls (100)
+kineser checks.
+** Dealing Flop ** :  [ Kd, 3s, 8s ]
+Rueckraum bets (200)
+kineser folds.
+Peedebee calls (200)
+hellbart calls (200)
+** Dealing Turn ** :  [ 9d ]
+Rueckraum bets (600)
+Peedebee calls (600)
+hellbart calls (600)
+** Dealing River ** :  [ 7d ]
+Rueckraum checks.
+Peedebee bets (2600)
+hellbart calls (660)
+hellbart is all-In.
+Rueckraum calls (2520)
+Rueckraum is all-In.
+Creating Main Pot with $5180 with hellbart
+Creating Side Pot 1 with $3720 with Rueckraum
+** Summary **
+Main Pot: 5180 | Side Pot 1: 3720
+Board: [ Kd 3s 8s 9d 7d  ]
+
+kineser balance 5870, lost 200 (folded)
+Peedebee balance 2370, bet 3600, collected 80, lost -3520 [ 4s Js ] [ high card King -- Kd,Js,9d,8s,7d ]
+hellbart balance 5180, bet 1660, collected 5180, net +3520 [ 8h 8c ] [ three of a kind, Eights -- Kd,9d,8h,8c,8s ]
+Davmark balance 2860, didn't bet (folded)
+Rueckraum balance 3720, bet 3520, collected 3720, net +200 [ Kc 8d ] [ two pairs, Kings and Eights -- Kc,Kd,9d,8d,8s ]
+
+***** Hand History for Game 5942929352 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33280552)  - Sun May 06 09:49:19 EDT 2007
+Table Table  126651 (Real Money) -- Seat 8 is the button
+Total number of players : 5
+Seat 1: kineser (5870)
+Seat 3: Peedebee (2370)
+Seat 4: hellbart (5180)
+Seat 7: Davmark (2860)
+Seat 8: Rueckraum (3720)
+kineser  posts small blind (200)
+Peedebee  posts big blind (400)
+** Dealing down cards **
+hellbart folds.
+Davmark folds.
+Rueckraum folds.
+kineser calls (200)
+Peedebee raises (400) to 800
+kineser folds.
+** Summary **
+Main Pot: 800
+
+kineser balance 5470, lost 400 (folded)
+Peedebee balance 2770, bet 800, collected 1200, net +400
+hellbart balance 5180, didn't bet (folded)
+Davmark balance 2860, didn't bet (folded)
+Rueckraum balance 3720, didn't bet (folded)
+
+***** Hand History for Game 5942930723 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33280552)  - Sun May 06 09:49:52 EDT 2007
+Table Table  126651 (Real Money) -- Seat 1 is the button
+Total number of players : 5
+Seat 1: kineser (5470)
+Seat 3: Peedebee (2770)
+Seat 4: hellbart (5180)
+Seat 7: Davmark (2860)
+Seat 8: Rueckraum (3720)
+Peedebee  posts small blind (200)
+hellbart  posts big blind (400)
+** Dealing down cards **
+Davmark folds.
+Rueckraum folds.
+kineser folds.
+Peedebee raises (600) to 800
+hellbart folds.
+** Summary **
+Main Pot: 800
+
+kineser balance 5470, didn't bet (folded)
+Peedebee balance 3170, bet 800, collected 1200, net +400
+hellbart balance 4780, lost 400 (folded)
+Davmark balance 2860, didn't bet (folded)
+Rueckraum balance 3720, didn't bet (folded)
+
+***** Hand History for Game 5942931325 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33280552)  - Sun May 06 09:50:05 EDT 2007
+Table Table  126651 (Real Money) -- Seat 3 is the button
+Total number of players : 5
+Seat 1: kineser (5470)
+Seat 3: Peedebee (3170)
+Seat 4: hellbart (4780)
+Seat 7: Davmark (2860)
+Seat 8: Rueckraum (3720)
+hellbart  posts small blind (200)
+Davmark  posts big blind (400)
+** Dealing down cards **
+Rueckraum folds.
+kineser folds.
+Peedebee raises (800) to 800
+hellbart calls (600)
+Davmark folds.
+** Dealing Flop ** :  [ 4d, Kc, Ah ]
+hellbart checks.
+Peedebee bets (2370)
+Peedebee is all-In.
+hellbart folds.
+Creating Main Pot with $2000 with Peedebee
+** Summary **
+Main Pot: 2000
+Board: [ 4d Kc Ah  ]
+
+kineser balance 5470, didn't bet (folded)
+Peedebee balance 4370, bet 3170, collected 4370, net +1200
+hellbart balance 3980, lost 800 (folded)
+Davmark balance 2460, lost 400 (folded)
+Rueckraum balance 3720, didn't bet (folded)
+
+***** Hand History for Game 5942933125 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33280552)  - Sun May 06 09:50:47 EDT 2007
+Table Table  126651 (Real Money) -- Seat 4 is the button
+Total number of players : 5
+Seat 1: kineser (5470)
+Seat 3: Peedebee (4370)
+Seat 4: hellbart (3980)
+Seat 7: Davmark (2460)
+Seat 8: Rueckraum (3720)
+Davmark  posts small blind (200)
+Rueckraum  posts big blind (400)
+** Dealing down cards **
+kineser folds.
+Peedebee folds.
+hellbart folds.
+Davmark calls (200)
+Rueckraum checks.
+** Dealing Flop ** :  [ Qd, 2h, Js ]
+Davmark checks.
+Rueckraum checks.
+** Dealing Turn ** :  [ 8d ]
+Davmark checks.
+Rueckraum checks.
+** Dealing River ** :  [ 5h ]
+Davmark checks.
+Rueckraum bets (800)
+Davmark folds.
+** Summary **
+Main Pot: 800
+Board: [ Qd 2h Js 8d 5h  ]
+
+kineser balance 5470, didn't bet (folded)
+Peedebee balance 4370, didn't bet (folded)
+hellbart balance 3980, didn't bet (folded)
+Davmark balance 2060, lost 400 (folded)
+Rueckraum balance 4120, bet 1200, collected 1600, net +400
+
+***** Hand History for Game 5942934690 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33280552)  - Sun May 06 09:51:24 EDT 2007
+Table Table  126651 (Real Money) -- Seat 7 is the button
+Total number of players : 5
+Seat 1: kineser (5470)
+Seat 3: Peedebee (4370)
+Seat 4: hellbart (3980)
+Seat 7: Davmark (2060)
+Seat 8: Rueckraum (4120)
+Rueckraum  posts small blind (200)
+kineser  posts big blind (400)
+** Dealing down cards **
+Peedebee folds.
+hellbart folds.
+Davmark folds.
+Rueckraum raises (800) to 1000
+kineser folds.
+** Summary **
+Main Pot: 800
+
+kineser balance 5070, lost 400 (folded)
+Peedebee balance 4370, didn't bet (folded)
+hellbart balance 3980, didn't bet (folded)
+Davmark balance 2060, didn't bet (folded)
+Rueckraum balance 4520, bet 1000, collected 1400, net +400
+
+***** Hand History for Game 5942935623 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33280552)  - Sun May 06 09:51:45 EDT 2007
+Table Table  126651 (Real Money) -- Seat 8 is the button
+Total number of players : 5
+Seat 1: kineser (5070)
+Seat 3: Peedebee (4370)
+Seat 4: hellbart (3980)
+Seat 7: Davmark (2060)
+Seat 8: Rueckraum (4520)
+kineser  posts small blind (200)
+Peedebee  posts big blind (400)
+** Dealing down cards **
+hellbart folds.
+Davmark folds.
+Rueckraum folds.
+kineser folds.
+** Summary **
+Main Pot: 400
+
+kineser balance 4870, lost 200 (folded)
+Peedebee balance 4570, bet 400, collected 600, net +200
+hellbart balance 3980, didn't bet (folded)
+Davmark balance 2060, didn't bet (folded)
+Rueckraum balance 4520, didn't bet (folded)
+
+***** Hand History for Game 5942936032 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33280552)  - Sun May 06 09:51:54 EDT 2007
+Table Table  126651 (Real Money) -- Seat 1 is the button
+Total number of players : 5
+Seat 1: kineser (4870)
+Seat 3: Peedebee (4570)
+Seat 4: hellbart (3980)
+Seat 7: Davmark (2060)
+Seat 8: Rueckraum (4520)
+Peedebee  posts small blind (200)
+hellbart  posts big blind (400)
+** Dealing down cards **
+Davmark folds.
+Rueckraum folds.
+kineser calls (400)
+Peedebee raises (600) to 800
+hellbart folds.
+kineser calls (400)
+** Dealing Flop ** :  [ 9d, 6d, 3h ]
+Peedebee bets (400)
+kineser folds.
+** Summary **
+Main Pot: 2000
+Board: [ 9d 6d 3h  ]
+
+kineser balance 4070, lost 800 (folded)
+Peedebee balance 5770, bet 1200, collected 2400, net +1200
+hellbart balance 3580, lost 400 (folded)
+Davmark balance 2060, didn't bet (folded)
+Rueckraum balance 4520, didn't bet (folded)
+
+***** Hand History for Game 5942937313 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33280552)  - Sun May 06 09:52:24 EDT 2007
+Table Table  126651 (Real Money) -- Seat 3 is the button
+Total number of players : 5
+Seat 1: kineser (4070)
+Seat 3: Peedebee (5770)
+Seat 4: hellbart (3580)
+Seat 7: Davmark (2060)
+Seat 8: Rueckraum (4520)
+hellbart  posts small blind (200)
+Davmark  posts big blind (400)
+** Dealing down cards **
+Rueckraum folds.
+kineser folds.
+Peedebee folds.
+hellbart calls (200)
+Davmark checks.
+** Dealing Flop ** :  [ 6h, 4d, 3h ]
+hellbart checks.
+Davmark bets (800)
+hellbart folds.
+** Summary **
+Main Pot: 800
+Board: [ 6h 4d 3h  ]
+
+kineser balance 4070, didn't bet (folded)
+Peedebee balance 5770, didn't bet (folded)
+hellbart balance 3180, lost 400 (folded)
+Davmark balance 2460, bet 1200, collected 1600, net +400
+Rueckraum balance 4520, didn't bet (folded)
+
+***** Hand History for Game 5942938550 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33280552)  - Sun May 06 09:52:53 EDT 2007
+Table Table  126651 (Real Money) -- Seat 4 is the button
+Total number of players : 5
+Seat 1: kineser (4070)
+Seat 3: Peedebee (5770)
+Seat 4: hellbart (3180)
+Seat 7: Davmark (2460)
+Seat 8: Rueckraum (4520)
+Davmark  posts small blind (200)
+Rueckraum  posts big blind (400)
+** Dealing down cards **
+kineser folds.
+Peedebee calls (400)
+hellbart folds.
+Davmark calls (200)
+Rueckraum checks.
+** Dealing Flop ** :  [ Kh, Kc, 5d ]
+Davmark checks.
+Rueckraum checks.
+Peedebee checks.
+** Dealing Turn ** :  [ 9d ]
+Davmark checks.
+Rueckraum checks.
+Peedebee checks.
+** Dealing River ** :  [ 8s ]
+Davmark checks.
+Rueckraum bets (400)
+Peedebee raises (800) to 800
+Davmark folds.
+Rueckraum calls (400)
+** Summary **
+Main Pot: 2800
+Board: [ Kh Kc 5d 9d 8s  ]
+
+kineser balance 4070, didn't bet (folded)
+Peedebee balance 5970, bet 1200, collected 1400, net +200 [ Qh 9c ] [ two pairs, Kings and Nines -- Kh,Kc,Qh,9c,9d ]
+hellbart balance 3180, didn't bet (folded)
+Davmark balance 2060, lost 400 (folded)
+Rueckraum balance 4720, bet 1200, collected 1400, net +200 [ 9s Qc ] [ two pairs, Kings and Nines -- Kh,Kc,Qc,9s,9d ]
+
+***** Hand History for Game 5942940224 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33280552)  - Sun May 06 09:53:31 EDT 2007
+Table Table  126651 (Real Money) -- Seat 7 is the button
+Total number of players : 5
+Seat 1: kineser (4070)
+Seat 3: Peedebee (5970)
+Seat 4: hellbart (3180)
+Seat 7: Davmark (2060)
+Seat 8: Rueckraum (4720)
+Rueckraum  posts small blind (200)
+kineser  posts big blind (400)
+** Dealing down cards **
+Peedebee folds.
+hellbart calls (400)
+Davmark folds.
+Rueckraum calls (200)
+kineser checks.
+** Dealing Flop ** :  [ 8c, Jc, 5c ]
+Rueckraum checks.
+kineser checks.
+hellbart bets (800)
+Rueckraum folds.
+kineser folds.
+** Summary **
+Main Pot: 1200
+Board: [ 8c Jc 5c  ]
+
+kineser balance 3670, lost 400 (folded)
+Peedebee balance 5970, didn't bet (folded)
+hellbart balance 3980, bet 1200, collected 2000, net +800
+Davmark balance 2060, didn't bet (folded)
+Rueckraum balance 4320, lost 400 (folded)
+
+***** Hand History for Game 5942941538 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33280552)  - Sun May 06 09:54:02 EDT 2007
+Table Table  126651 (Real Money) -- Seat 8 is the button
+Total number of players : 5
+Seat 1: kineser (3670)
+Seat 3: Peedebee (5970)
+Seat 4: hellbart (3980)
+Seat 7: Davmark (2060)
+Seat 8: Rueckraum (4320)
+kineser  posts small blind (200)
+Peedebee  posts big blind (400)
+** Dealing down cards **
+hellbart folds.
+Davmark folds.
+Rueckraum folds.
+kineser folds.
+** Summary **
+Main Pot: 400
+
+kineser balance 3470, lost 200 (folded)
+Peedebee balance 6170, bet 400, collected 600, net +200
+hellbart balance 3980, didn't bet (folded)
+Davmark balance 2060, didn't bet (folded)
+Rueckraum balance 4320, didn't bet (folded)
+
+***** Hand History for Game 5942942209 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33280552)  - Sun May 06 09:54:17 EDT 2007
+Table Table  126651 (Real Money) -- Seat 1 is the button
+Total number of players : 5
+Seat 1: kineser (3470)
+Seat 3: Peedebee (6170)
+Seat 4: hellbart (3980)
+Seat 7: Davmark (2060)
+Seat 8: Rueckraum (4320)
+Peedebee  posts small blind (200)
+hellbart  posts big blind (400)
+** Dealing down cards **
+Davmark folds.
+Rueckraum folds.
+kineser folds.
+Peedebee raises (600) to 800
+hellbart calls (400)
+** Dealing Flop ** :  [ 2d, 4h, Qs ]
+Peedebee bets (400)
+hellbart calls (400)
+** Dealing Turn ** :  [ Tc ]
+Peedebee bets (400)
+hellbart calls (400)
+** Dealing River ** :  [ 4s ]
+Peedebee bets (400)
+hellbart raises (1600) to 1600
+Peedebee calls (1200)
+** Summary **
+Main Pot: 6400
+Board: [ 2d 4h Qs Tc 4s  ]
+
+kineser balance 3470, didn't bet (folded)
+
+Peedebee balance 2970, lost 3200 [Didn't Show]
+hellbart balance 7180, bet 3200, collected 6400, net +3200 [ 4d 5h ] [ three of a kind, Fours -- Qs,Tc,4d,4h,4s ]
+Davmark balance 2060, didn't bet (folded)
+Rueckraum balance 4320, didn't bet (folded)
+
+***** Hand History for Game 5942944083 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33280552)  - Sun May 06 09:55:01 EDT 2007
+Table Table  126651 (Real Money) -- Seat 3 is the button
+Total number of players : 5
+Seat 1: kineser (3470)
+Seat 3: Peedebee (2970)
+Seat 4: hellbart (7180)
+Seat 7: Davmark (2060)
+Seat 8: Rueckraum (4320)
+hellbart  posts small blind (200)
+Davmark  posts big blind (400)
+** Dealing down cards **
+Rueckraum folds.
+kineser folds.
+Peedebee folds.
+hellbart folds.
+** Summary **
+Main Pot: 400
+
+kineser balance 3470, didn't bet (folded)
+Peedebee balance 2970, didn't bet (folded)
+hellbart balance 6980, lost 200 (folded)
+Davmark balance 2260, bet 400, collected 600, net +200
+Rueckraum balance 4320, didn't bet (folded)
+
+***** Hand History for Game 5942944635 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33280552)  - Sun May 06 09:55:13 EDT 2007
+Table Table  126651 (Real Money) -- Seat 4 is the button
+Total number of players : 5
+Seat 1: kineser (3470)
+Seat 3: Peedebee (2970)
+Seat 4: hellbart (6980)
+Seat 7: Davmark (2260)
+Seat 8: Rueckraum (4320)
+Davmark  posts small blind (200)
+Rueckraum  posts big blind (400)
+** Dealing down cards **
+kineser calls (400)
+Peedebee folds.
+hellbart calls (400)
+Davmark folds.
+Rueckraum checks.
+** Dealing Flop ** :  [ Tc, Kc, 3s ]
+Rueckraum checks.
+kineser checks.
+hellbart checks.
+** Dealing Turn ** :  [ 9c ]
+Rueckraum checks.
+kineser checks.
+hellbart bets (1600)
+Rueckraum folds.
+kineser folds.
+** Summary **
+Main Pot: 1400
+Board: [ Tc Kc 3s 9c  ]
+
+kineser balance 3070, lost 400 (folded)
+Peedebee balance 2970, didn't bet (folded)
+hellbart balance 7980, bet 2000, collected 3000, net +1000
+Davmark balance 2060, lost 200 (folded)
+Rueckraum balance 3920, lost 400 (folded)
+
+***** Hand History for Game 5942947284 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33280552)  - Sun May 06 09:56:15 EDT 2007
+Table Table  126651 (Real Money) -- Seat 7 is the button
+Total number of players : 5
+Seat 1: kineser (3070)
+Seat 3: Peedebee (2970)
+Seat 4: hellbart (7980)
+Seat 7: Davmark (2060)
+Seat 8: Rueckraum (3920)
+Rueckraum  posts small blind (200)
+kineser  posts big blind (400)
+** Dealing down cards **
+Peedebee raises (800) to 800
+hellbart folds.
+Davmark folds.
+Rueckraum folds.
+kineser folds.
+** Summary **
+Main Pot: 1000
+
+kineser balance 2670, lost 400 (folded)
+Peedebee balance 3570, bet 800, collected 1400, net +600
+hellbart balance 7980, didn't bet (folded)
+Davmark balance 2060, didn't bet (folded)
+Rueckraum balance 3720, lost 200 (folded)
+
+***** Hand History for Game 5942947893 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33280552)  - Sun May 06 09:56:29 EDT 2007
+Table Table  126651 (Real Money) -- Seat 8 is the button
+Total number of players : 5
+Seat 1: kineser (2670)
+Seat 3: Peedebee (3570)
+Seat 4: hellbart (7980)
+Seat 7: Davmark (2060)
+Seat 8: Rueckraum (3720)
+kineser  posts small blind (200)
+Peedebee  posts big blind (400)
+** Dealing down cards **
+hellbart folds.
+Davmark folds.
+Rueckraum folds.
+kineser folds.
+** Summary **
+Main Pot: 400
+
+kineser balance 2470, lost 200 (folded)
+Peedebee balance 3770, bet 400, collected 600, net +200
+hellbart balance 7980, didn't bet (folded)
+Davmark balance 2060, didn't bet (folded)
+Rueckraum balance 3720, didn't bet (folded)
+
+***** Hand History for Game 5942948496 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33280552)  - Sun May 06 09:56:43 EDT 2007
+Table Table  126651 (Real Money) -- Seat 1 is the button
+Total number of players : 5
+Seat 1: kineser (2470)
+Seat 3: Peedebee (3770)
+Seat 4: hellbart (7980)
+Seat 7: Davmark (2060)
+Seat 8: Rueckraum (3720)
+Peedebee  posts small blind (200)
+hellbart  posts big blind (400)
+** Dealing down cards **
+Davmark raises (800) to 800
+Rueckraum folds.
+kineser folds.
+Peedebee calls (600)
+hellbart calls (400)
+** Dealing Flop ** :  [ 2s, 2c, 9h ]
+Peedebee checks.
+hellbart checks.
+Davmark bets (1260)
+Davmark is all-In.
+Peedebee calls (1260)
+hellbart calls (1260)
+Creating Main Pot with $6180 with Davmark
+** Dealing Turn ** :  [ 5h ]
+Peedebee checks.
+hellbart checks.
+** Dealing River ** :  [ 7h ]
+Peedebee checks.
+hellbart bets (1200)
+Peedebee folds.
+** Summary **
+Main Pot: 6180
+Board: [ 2s 2c 9h 5h 7h  ]
+
+kineser balance 2470, didn't bet (folded)
+Peedebee balance 1710, lost 2060 (folded)
+hellbart balance 12100, bet 3260, collected 7380, net +4120 [ Tc Th ] [ two pairs, Tens and Twos -- Tc,Th,9h,2s,2c ]
+Davmark balance 0, lost 2060 [ Kh As ] [ a pair of Twos -- As,Kh,9h,2s,2c ]
+Rueckraum balance 3720, didn't bet (folded)
+
+***** Hand History for Game 5942950928 *****
+Davmark finished in 5 place.
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33280552)  - Sun May 06 09:57:38 EDT 2007
+Table Table  126651 (Real Money) -- Seat 3 is the button
+Total number of players : 4
+Seat 1: kineser (2470)
+Seat 3: Peedebee (1710)
+Seat 4: hellbart (12100)
+Seat 8: Rueckraum (3720)
+hellbart  posts small blind (200)
+Rueckraum  posts big blind (400)
+** Dealing down cards **
+kineser folds.
+Peedebee raises (800) to 800
+hellbart raises (1000) to 1200
+Rueckraum folds.
+Peedebee calls (400)
+** Dealing Flop ** :  [ Kd, Ah, 9h ]
+hellbart bets (800)
+Peedebee calls (510)
+Peedebee is all-In.
+** Dealing Turn ** :  [ 7h ]
+** Dealing River ** :  [ Js ]
+Creating Main Pot with $3820 with Peedebee
+** Summary **
+Main Pot: 3820
+Board: [ Kd Ah 9h 7h Js  ]
+
+kineser balance 2470, didn't bet (folded)
+Peedebee balance 3820, bet 1710, collected 3820, net +2110 [ As 8d ] [ a pair of Aces -- As,Ah,Kd,Js,9h ]
+hellbart balance 10390, bet 2000, collected 290, lost -1710 [ Qc Jh ] [ a pair of Jacks -- Ah,Kd,Qc,Jh,Js ]
+Rueckraum balance 3320, lost 400 (folded)
+
+***** Hand History for Game 5942952545 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33280552)  - Sun May 06 09:58:15 EDT 2007
+Table Table  126651 (Real Money) -- Seat 4 is the button
+Total number of players : 4
+Seat 1: kineser (2470)
+Seat 3: Peedebee (3820)
+Seat 4: hellbart (10390)
+Seat 8: Rueckraum (3320)
+Rueckraum  posts small blind (200)
+kineser  posts big blind (400)
+** Dealing down cards **
+Peedebee folds.
+hellbart calls (400)
+Rueckraum folds.
+kineser checks.
+** Dealing Flop ** :  [ Ad, 9s, 7d ]
+kineser checks.
+hellbart bets (2400)
+kineser folds.
+** Summary **
+Main Pot: 1000
+Board: [ Ad 9s 7d  ]
+
+kineser balance 2070, lost 400 (folded)
+Peedebee balance 3820, didn't bet (folded)
+hellbart balance 10990, bet 2800, collected 3400, net +600
+Rueckraum balance 3120, lost 200 (folded)
+
+***** Hand History for Game 5942954182 *****
+400/800 Tourney Texas Hold'em Game Table (NL) (Tournament 33280552)  - Sun May 06 09:58:52 EDT 2007
+Table Table  126651 (Real Money) -- Seat 8 is the button
+Total number of players : 4
+Seat 1: kineser (2070)
+Seat 3: Peedebee (3820)
+Seat 4: hellbart (10990)
+Seat 8: Rueckraum (3120)
+kineser  posts small blind (200)
+Peedebee  posts big blind (400)
+** Dealing down cards **
+hellbart calls (400)
+Rueckraum folds.
+kineser calls (200)
+Peedebee checks.
+** Dealing Flop ** :  [ 8s, 6c, Td ]
+kineser bets (1670)
+kineser is all-In.
+Peedebee folds.
+hellbart calls (1670)
+** Dealing Turn ** :  [ As ]
+** Dealing River ** :  [ 5c ]
+Creating Main Pot with $4540 with kineser
+** Summary **
+Main Pot: 4540
+Board: [ 8s 6c Td As 5c  ]
+
+kineser balance 0, lost 2070 [ Kh Qc ] [ high card Ace -- As,Kh,Qc,Td,8s ]
+Peedebee balance 3420, lost 400 (folded)
+hellbart balance 13460, bet 2070, collected 4540, net +2470 [ 8c Ah ] [ two pairs, Aces and Eights -- Ah,As,Td,8c,8s ]
+Rueckraum balance 3120, didn't bet (folded)
+
+***** Hand History for Game 5942955547 *****
+kineser finished in 4 place.
+600/1200 Tourney Texas Hold'em Game Table (NL) (Tournament 33280552)  - Sun May 06 09:59:24 EDT 2007
+Table Table  126651 (Real Money) -- Seat 8 is the button
+Total number of players : 3
+Seat 3: Peedebee (3420)
+Seat 4: hellbart (13460)
+Seat 8: Rueckraum (3120)
+Peedebee  posts small blind (300)
+hellbart  posts big blind (600)
+** Dealing down cards **
+Rueckraum folds.
+Peedebee raises (2100) to 2400
+hellbart folds.
+** Summary **
+Main Pot: 1200
+
+Peedebee balance 4020, bet 2400, collected 3000, net +600
+hellbart balance 12860, lost 600 (folded)
+Rueckraum balance 3120, didn't bet (folded)
+
+***** Hand History for Game 5942956344 *****
+600/1200 Tourney Texas Hold'em Game Table (NL) (Tournament 33280552)  - Sun May 06 09:59:43 EDT 2007
+Table Table  126651 (Real Money) -- Seat 3 is the button
+Total number of players : 3
+Seat 3: Peedebee (4020)
+Seat 4: hellbart (12860)
+Seat 8: Rueckraum (3120)
+hellbart  posts small blind (300)
+Rueckraum  posts big blind (600)
+** Dealing down cards **
+Peedebee raises (1200) to 1200
+hellbart raises (12560) to 12860
+hellbart is all-In.
+Rueckraum folds.
+Peedebee calls (2820)
+Peedebee is all-In.
+** Dealing Flop ** :  [ 7s, 8c, Kc ]
+** Dealing Turn ** :  [ Td ]
+** Dealing River ** :  [ 2h ]
+Creating Main Pot with $8640 with Peedebee
+** Summary **
+Main Pot: 8640
+Board: [ 7s 8c Kc Td 2h  ]
+
+Peedebee balance 0, lost 4020 [ 7c Ac ] [ a pair of Sevens -- Ac,Kc,Td,7c,7s ]
+hellbart balance 17480, bet 12860, collected 17480, net +4620 [ Kd Jd ] [ a pair of Kings -- Kd,Kc,Jd,Td,8c ]
+Rueckraum balance 2520, lost 600 (folded)
+
+***** Hand History for Game 5942957188 *****
+Peedebee finished in 3 place and won $10.
+600/1200 Tourney Texas Hold'em Game Table (NL) (Tournament 33280552)  - Sun May 06 10:00:02 EDT 2007
+Table Table  126651 (Real Money) -- Seat 8 is the button
+Total number of players : 2
+Seat 4: hellbart (17480)
+Seat 8: Rueckraum (2520)
+Rueckraum  posts small blind (300)
+hellbart  posts big blind (600)
+** Dealing down cards **
+Rueckraum folds.
+** Summary **
+Main Pot: 600
+
+hellbart balance 17780, bet 600, collected 900, net +300
+Rueckraum balance 2220, lost 300 (folded)
+
+***** Hand History for Game 5942957466 *****
+600/1200 Tourney Texas Hold'em Game Table (NL) (Tournament 33280552)  - Sun May 06 10:00:08 EDT 2007
+Table Table  126651 (Real Money) -- Seat 4 is the button
+Total number of players : 2
+Seat 4: hellbart (17780)
+Seat 8: Rueckraum (2220)
+hellbart  posts small blind (300)
+Rueckraum  posts big blind (600)
+** Dealing down cards **
+hellbart raises (6900) to 7200
+Rueckraum calls (1620)
+Rueckraum is all-In.
+** Dealing Flop ** :  [ Qd, As, Jc ]
+** Dealing Turn ** :  [ Qh ]
+** Dealing River ** :  [ Td ]
+Creating Main Pot with $4440 with Rueckraum
+** Summary **
+Main Pot: 4440
+Board: [ Qd As Jc Qh Td  ]
+
+hellbart balance 15560, bet 7200, collected 4980, lost -2220 [ Jd 8c ] [ two pairs, Queens and Jacks -- As,Qd,Qh,Jd,Jc ]
+Rueckraum balance 4440, bet 2220, collected 4440, net +2220 [ Kd 3s ] [ a straight Ten to Ace -- As,Kd,Qd,Jc,Td ]
+
+***** Hand History for Game 5942958139 *****
+600/1200 Tourney Texas Hold'em Game Table (NL) (Tournament 33280552)  - Sun May 06 10:00:23 EDT 2007
+Table Table  126651 (Real Money) -- Seat 8 is the button
+Total number of players : 2
+Seat 4: hellbart (15560)
+Seat 8: Rueckraum (4440)
+Rueckraum  posts small blind (300)
+hellbart  posts big blind (600)
+** Dealing down cards **
+Rueckraum folds.
+** Summary **
+Main Pot: 600
+
+hellbart balance 15860, bet 600, collected 900, net +300
+Rueckraum balance 4140, lost 300 (folded)
+
+***** Hand History for Game 5942958429 *****
+600/1200 Tourney Texas Hold'em Game Table (NL) (Tournament 33280552)  - Sun May 06 10:00:30 EDT 2007
+Table Table  126651 (Real Money) -- Seat 4 is the button
+Total number of players : 2
+Seat 4: hellbart (15860)
+Seat 8: Rueckraum (4140)
+hellbart  posts small blind (300)
+Rueckraum  posts big blind (600)
+** Dealing down cards **
+hellbart calls (300)
+Rueckraum checks.
+** Dealing Flop ** :  [ 8s, 9h, Jh ]
+Rueckraum bets (3540)
+Rueckraum is all-In.
+hellbart folds.
+Creating Main Pot with $1200 with Rueckraum
+** Summary **
+Main Pot: 1200
+Board: [ 8s 9h Jh  ]
+
+hellbart balance 15260, lost 600 (folded)
+Rueckraum balance 4740, bet 4140, collected 4740, net +600
+
+***** Hand History for Game 5942959137 *****
+600/1200 Tourney Texas Hold'em Game Table (NL) (Tournament 33280552)  - Sun May 06 10:00:47 EDT 2007
+Table Table  126651 (Real Money) -- Seat 8 is the button
+Total number of players : 2
+Seat 4: hellbart (15260)
+Seat 8: Rueckraum (4740)
+Rueckraum  posts small blind (300)
+hellbart  posts big blind (600)
+** Dealing down cards **
+Rueckraum folds.
+** Summary **
+Main Pot: 600
+
+hellbart balance 15560, bet 600, collected 900, net +300
+Rueckraum balance 4440, lost 300 (folded)
+
+***** Hand History for Game 5942959419 *****
+600/1200 Tourney Texas Hold'em Game Table (NL) (Tournament 33280552)  - Sun May 06 10:00:54 EDT 2007
+Table Table  126651 (Real Money) -- Seat 4 is the button
+Total number of players : 2
+Seat 4: hellbart (15560)
+Seat 8: Rueckraum (4440)
+hellbart  posts small blind (300)
+Rueckraum  posts big blind (600)
+** Dealing down cards **
+hellbart raises (900) to 1200
+Rueckraum folds.
+** Summary **
+Main Pot: 1200
+
+hellbart balance 16160, bet 1200, collected 1800, net +600
+Rueckraum balance 3840, lost 600 (folded)
+
+***** Hand History for Game 5942960118 *****
+600/1200 Tourney Texas Hold'em Game Table (NL) (Tournament 33280552)  - Sun May 06 10:01:09 EDT 2007
+Table Table  126651 (Real Money) -- Seat 8 is the button
+Total number of players : 2
+Seat 4: hellbart (16160)
+Seat 8: Rueckraum (3840)
+Rueckraum  posts small blind (300)
+hellbart  posts big blind (600)
+** Dealing down cards **
+Rueckraum folds.
+** Summary **
+Main Pot: 600
+
+hellbart balance 16460, bet 600, collected 900, net +300
+Rueckraum balance 3540, lost 300 (folded)
+
+***** Hand History for Game 5942960465 *****
+600/1200 Tourney Texas Hold'em Game Table (NL) (Tournament 33280552)  - Sun May 06 10:01:18 EDT 2007
+Table Table  126651 (Real Money) -- Seat 4 is the button
+Total number of players : 2
+Seat 4: hellbart (16460)
+Seat 8: Rueckraum (3540)
+hellbart  posts small blind (300)
+Rueckraum  posts big blind (600)
+** Dealing down cards **
+hellbart calls (300)
+Rueckraum checks.
+** Dealing Flop ** :  [ Jd, 4c, 5s ]
+Rueckraum bets (2940)
+Rueckraum is all-In.
+hellbart calls (2940)
+** Dealing Turn ** :  [ 6d ]
+** Dealing River ** :  [ 9c ]
+Creating Main Pot with $7080 with Rueckraum
+** Summary **
+Main Pot: 7080
+Board: [ Jd 4c 5s 6d 9c  ]
+
+hellbart balance 20000, bet 3540, collected 7080, net +3540 [ 4s Jc ] [ two pairs, Jacks and Fours -- Jc,Jd,9c,4s,4c ]
+Rueckraum balance 0, lost 3540 [ 8h 4d ] [ a pair of Fours -- Jd,9c,8h,4d,4c ]
+
+
+

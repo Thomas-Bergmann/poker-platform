@@ -1,0 +1,1977 @@
+
+Hello hatoka,
+These hand histories are provided to you as an aid for your training and development. You are not permitted to share them with anyone.  We reserve the right to cease providing them or apply further restrictions at any time.
+Complete hand histories are only available to players that participated in the hand.
+You requested a transcript of Tournament #33209283.
+
+Summary
+----------
+Played on    : 02 May 2007 07:36 AM
+On Table     : Table  126510
+Game Type    : Texas Holdem
+Buy-In       : $5
+Fee          : $1
+You finished in  position 3
+1st place - Duyvo08 -  $25
+2nd place - Staecher -  $15
+3rd place - hatoka -  $10
+
+***** Hand History for Game 5930297618 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33209283)  - Wed May 02 07:36:35 EDT 2007
+Table Table  126510 (Real Money) -- Seat 9 is the button
+Total number of players : 10
+Seat 1: JackFlash17 (2000)
+Seat 2: pkmalaak (2000)
+Seat 3: Aimar24 (2000)
+Seat 4: Staecher (2000)
+Seat 5: stas_zuev (2000)
+Seat 6: hatoka (2000)
+Seat 7: Duyvo08 (2000)
+Seat 8: communista79 (2000)
+Seat 9: JacobTheDane (2000)
+Seat 10: malanka (2000)
+malanka  posts small blind (20)
+JackFlash17  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 5c, 2h ]
+pkmalaak raises (2000) to 2000
+pkmalaak is all-In.
+Aimar24 folds.
+Staecher folds.
+stas_zuev folds.
+hatoka folds.
+Duyvo08 folds.
+communista79 folds.
+JacobTheDane folds.
+malanka folds.
+JackFlash17 folds.
+Creating Main Pot with $100 with pkmalaak
+** Summary **
+Main Pot: 100
+
+JackFlash17 balance 1960, lost 40 (folded)
+pkmalaak balance 2060, bet 2000, collected 2060, net +60
+Aimar24 balance 2000, didn't bet (folded)
+Staecher balance 2000, didn't bet (folded)
+stas_zuev balance 2000, didn't bet (folded)
+hatoka balance 2000, didn't bet (folded)
+Duyvo08 balance 2000, didn't bet (folded)
+communista79 balance 2000, didn't bet (folded)
+JacobTheDane balance 2000, didn't bet (folded)
+malanka balance 1980, lost 20 (folded)
+
+***** Hand History for Game 5930298902 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33209283)  - Wed May 02 07:37:19 EDT 2007
+Table Table  126510 (Real Money) -- Seat 10 is the button
+Total number of players : 10
+Seat 1: JackFlash17 (1960)
+Seat 2: pkmalaak (2060)
+Seat 3: Aimar24 (2000)
+Seat 4: Staecher (2000)
+Seat 5: stas_zuev (2000)
+Seat 6: hatoka (2000)
+Seat 7: Duyvo08 (2000)
+Seat 8: communista79 (2000)
+Seat 9: JacobTheDane (2000)
+Seat 10: malanka (1980)
+JackFlash17  posts small blind (20)
+pkmalaak  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 4c, Kc ]
+Aimar24 folds.
+Staecher folds.
+stas_zuev folds.
+hatoka folds.
+Duyvo08 calls (40)
+communista79 folds.
+JacobTheDane raises (120) to 120
+malanka folds.
+JackFlash17 folds.
+pkmalaak folds.
+Duyvo08 calls (80)
+** Dealing Flop ** :  [ 7c, 9h, 2h ]
+Duyvo08 bets (180)
+JacobTheDane raises (360) to 360
+Duyvo08 calls (180)
+** Dealing Turn ** :  [ 9c ]
+Duyvo08 checks.
+JacobTheDane bets (1000)
+Duyvo08 raises (1520) to 1520
+Duyvo08 is all-In.
+JacobTheDane calls (520)
+JacobTheDane is all-In.
+** Dealing River ** :  [ 6h ]
+Creating Main Pot with $4060 with Duyvo08,JacobTheDane
+** Summary **
+Main Pot: 4060
+Board: [ 7c 9h 2h 9c 6h  ]
+
+JackFlash17 balance 1940, lost 20 (folded)
+pkmalaak balance 2020, lost 40 (folded)
+Aimar24 balance 2000, didn't bet (folded)
+Staecher balance 2000, didn't bet (folded)
+stas_zuev balance 2000, didn't bet (folded)
+hatoka balance 2000, didn't bet (folded)
+Duyvo08 balance 4060, bet 2000, collected 4060, net +2060 [ Tc Ts ] [ two pairs, Tens and Nines -- Tc,Ts,9h,9c,7c ]
+communista79 balance 2000, didn't bet (folded)
+JacobTheDane balance 0, lost 2000 [ Qc Jc ] [ a pair of Nines -- Qc,Jc,9h,9c,7c ]
+malanka balance 1980, didn't bet (folded)
+
+***** Hand History for Game 5930301524 *****
+JacobTheDane finished in 10 place.
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33209283)  - Wed May 02 07:38:44 EDT 2007
+Table Table  126510 (Real Money) -- Seat 1 is the button
+Total number of players : 9
+Seat 1: JackFlash17 (1940)
+Seat 2: pkmalaak (2020)
+Seat 3: Aimar24 (2000)
+Seat 4: Staecher (2000)
+Seat 5: stas_zuev (2000)
+Seat 6: hatoka (2000)
+Seat 7: Duyvo08 (4060)
+Seat 8: communista79 (2000)
+Seat 10: malanka (1980)
+pkmalaak  posts small blind (20)
+Aimar24  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 2h, 6s ]
+Staecher folds.
+stas_zuev folds.
+hatoka folds.
+Duyvo08 folds.
+communista79 calls (40)
+malanka folds.
+JackFlash17 raises (200) to 200
+pkmalaak folds.
+Aimar24 folds.
+communista79 folds.
+** Summary **
+Main Pot: 140
+
+JackFlash17 balance 2040, bet 200, collected 300, net +100
+pkmalaak balance 2000, lost 20 (folded)
+Aimar24 balance 1960, lost 40 (folded)
+Staecher balance 2000, didn't bet (folded)
+stas_zuev balance 2000, didn't bet (folded)
+hatoka balance 2000, didn't bet (folded)
+Duyvo08 balance 4060, didn't bet (folded)
+communista79 balance 1960, lost 40 (folded)
+malanka balance 1980, didn't bet (folded)
+
+***** Hand History for Game 5930302853 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33209283)  - Wed May 02 07:39:26 EDT 2007
+Table Table  126510 (Real Money) -- Seat 2 is the button
+Total number of players : 9
+Seat 1: JackFlash17 (2040)
+Seat 2: pkmalaak (2000)
+Seat 3: Aimar24 (1960)
+Seat 4: Staecher (2000)
+Seat 5: stas_zuev (2000)
+Seat 6: hatoka (2000)
+Seat 7: Duyvo08 (4060)
+Seat 8: communista79 (1960)
+Seat 10: malanka (1980)
+Aimar24  posts small blind (20)
+Staecher  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 7d, Ad ]
+stas_zuev raises (200) to 200
+hatoka calls (200)
+Duyvo08 folds.
+communista79 folds.
+malanka folds.
+JackFlash17 folds.
+pkmalaak calls (200)
+Aimar24 folds.
+Staecher folds.
+** Dealing Flop ** :  [ 6d, 6s, Qc ]
+stas_zuev checks.
+hatoka checks.
+pkmalaak checks.
+** Dealing Turn ** :  [ 2d ]
+stas_zuev checks.
+hatoka bets (500)
+pkmalaak calls (500)
+stas_zuev folds.
+** Dealing River ** :  [ Js ]
+hatoka checks.
+pkmalaak checks.
+** Summary **
+Main Pot: 1660
+Board: [ 6d 6s Qc 2d Js  ]
+
+JackFlash17 balance 2040, didn't bet (folded)
+pkmalaak balance 1300, lost 700 [ 5d 3d ] [ a pair of Sixes -- Qc,Js,6d,6s,5d ]
+
+Aimar24 balance 1940, lost 20 (folded)
+Staecher balance 1960, lost 40 (folded)
+stas_zuev balance 1800, lost 200 (folded)
+hatoka balance 2960, bet 700, collected 1660, net +960 [ 7d Ad ] [ a pair of Sixes with Ace kicker -- Ad,Qc,Js,6d,6sAd(kicker card) ]
+Duyvo08 balance 4060, didn't bet (folded)
+communista79 balance 1960, didn't bet (folded)
+malanka balance 1980, didn't bet (folded)
+
+***** Hand History for Game 5930305384 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33209283)  - Wed May 02 07:40:45 EDT 2007
+Table Table  126510 (Real Money) -- Seat 3 is the button
+Total number of players : 9
+Seat 1: JackFlash17 (2040)
+Seat 2: pkmalaak (1300)
+Seat 3: Aimar24 (1940)
+Seat 4: Staecher (1960)
+Seat 5: stas_zuev (1800)
+Seat 6: hatoka (2960)
+Seat 7: Duyvo08 (4060)
+Seat 8: communista79 (1960)
+Seat 10: malanka (1980)
+Staecher  posts small blind (20)
+stas_zuev  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 5d, 9d ]
+hatoka folds.
+Duyvo08 calls (40)
+communista79 calls (40)
+malanka calls (40)
+JackFlash17 folds.
+pkmalaak calls (40)
+Aimar24 raises (540) to 540
+Staecher folds.
+stas_zuev folds.
+Duyvo08 folds.
+communista79 folds.
+malanka folds.
+pkmalaak raises (1260) to 1300
+pkmalaak is all-In.
+Aimar24 calls (760)
+** Dealing Flop ** :  [ 3c, 5h, 9h ]
+** Dealing Turn ** :  [ 6c ]
+** Dealing River ** :  [ 2d ]
+Creating Main Pot with $2780 with pkmalaak
+** Summary **
+Main Pot: 2780
+Board: [ 3c 5h 9h 6c 2d  ]
+
+JackFlash17 balance 2040, didn't bet (folded)
+pkmalaak balance 2780, bet 1300, collected 2780, net +1480 [ 6d 8h ] [ a pair of Sixes -- 9h,8h,6d,6c,5h ]
+Aimar24 balance 640, lost 1300 [ As Qh ] [ high card Ace -- As,Qh,9h,6c,5h ]
+Staecher balance 1940, lost 20 (folded)
+stas_zuev balance 1760, lost 40 (folded)
+hatoka balance 2960, didn't bet (folded)
+Duyvo08 balance 4020, lost 40 (folded)
+communista79 balance 1920, lost 40 (folded)
+malanka balance 1940, lost 40 (folded)
+
+***** Hand History for Game 5930306651 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33209283)  - Wed May 02 07:41:25 EDT 2007
+Table Table  126510 (Real Money) -- Seat 4 is the button
+Total number of players : 9
+Seat 1: JackFlash17 (2040)
+Seat 2: pkmalaak (2780)
+Seat 3: Aimar24 (640)
+Seat 4: Staecher (1940)
+Seat 5: stas_zuev (1760)
+Seat 6: hatoka (2960)
+Seat 7: Duyvo08 (4020)
+Seat 8: communista79 (1920)
+Seat 10: malanka (1940)
+stas_zuev  posts small blind (20)
+hatoka  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ Js, 8h ]
+Duyvo08 calls (40)
+communista79 folds.
+malanka raises (80) to 80
+JackFlash17 folds.
+pkmalaak raises (2780) to 2780
+pkmalaak is all-In.
+Aimar24 calls (640)
+Aimar24 is all-In.
+Staecher folds.
+stas_zuev folds.
+hatoka folds.
+Duyvo08 folds.
+malanka calls (1860)
+malanka is all-In.
+** Dealing Flop ** :  [ 9d, 8d, 5c ]
+** Dealing Turn ** :  [ Kc ]
+** Dealing River ** :  [ 6c ]
+Creating Main Pot with $2020 with Aimar24
+Creating Side Pot 1 with $2600 with malanka
+** Summary **
+Main Pot: 2020 | Side Pot 1: 2600
+Board: [ 9d 8d 5c Kc 6c  ]
+
+JackFlash17 balance 2040, didn't bet (folded)
+pkmalaak balance 5460, bet 2780, collected 5460, net +2680 [ 9h 5s ] [ two pairs, Nines and Fives -- Kc,9h,9d,5s,5c ]
+Aimar24 balance 0, lost 640 [ 2c 2h ] [ a pair of Twos -- Kc,9d,8d,2c,2h ]
+Staecher balance 1940, didn't bet (folded)
+stas_zuev balance 1740, lost 20 (folded)
+hatoka balance 2920, lost 40 (folded)
+Duyvo08 balance 3980, lost 40 (folded)
+communista79 balance 1920, didn't bet (folded)
+malanka balance 0, lost 1940 [ 3h 3d ] [ a pair of Threes -- Kc,9d,8d,3h,3d ]
+
+***** Hand History for Game 5930307825 *****
+Aimar24 finished in 9 place.
+malanka finished in 8 place.
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33209283)  - Wed May 02 07:42:02 EDT 2007
+Table Table  126510 (Real Money) -- Seat 5 is the button
+Total number of players : 7
+Seat 1: JackFlash17 (2040)
+Seat 2: pkmalaak (5460)
+Seat 4: Staecher (1940)
+Seat 5: stas_zuev (1740)
+Seat 6: hatoka (2920)
+Seat 7: Duyvo08 (3980)
+Seat 8: communista79 (1920)
+hatoka  posts small blind (20)
+Duyvo08  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 7h, 3c ]
+communista79 folds.
+JackFlash17 calls (40)
+pkmalaak raises (5460) to 5460
+pkmalaak is all-In.
+Staecher folds.
+stas_zuev calls (1740)
+stas_zuev is all-In.
+hatoka folds.
+Duyvo08 folds.
+JackFlash17 folds.
+** Dealing Flop ** :  [ Qc, 7s, Qh ]
+** Dealing Turn ** :  [ 2h ]
+** Dealing River ** :  [ Ah ]
+Creating Main Pot with $3580 with stas_zuev
+** Summary **
+Main Pot: 3580
+Board: [ Qc 7s Qh 2h Ah  ]
+
+JackFlash17 balance 2000, lost 40 (folded)
+pkmalaak balance 3720, bet 5460, collected 3720, lost -1740 [ 9c Ad ] [ two pairs, Aces and Queens -- Ad,Ah,Qc,Qh,9c ]
+Staecher balance 1940, didn't bet (folded)
+stas_zuev balance 3580, bet 1740, collected 3580, net +1840 [ Qd Jd ] [ three of a kind, Queens -- Ah,Qd,Qc,Qh,Jd ]
+hatoka balance 2900, lost 20 (folded)
+Duyvo08 balance 3940, lost 40 (folded)
+communista79 balance 1920, didn't bet (folded)
+
+***** Hand History for Game 5930309136 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33209283)  - Wed May 02 07:42:43 EDT 2007
+Table Table  126510 (Real Money) -- Seat 6 is the button
+Total number of players : 7
+Seat 1: JackFlash17 (2000)
+Seat 2: pkmalaak (3720)
+Seat 4: Staecher (1940)
+Seat 5: stas_zuev (3580)
+Seat 6: hatoka (2900)
+Seat 7: Duyvo08 (3940)
+Seat 8: communista79 (1920)
+Duyvo08  posts small blind (20)
+communista79  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ Jh, 3c ]
+JackFlash17 folds.
+pkmalaak raises (3720) to 3720
+pkmalaak is all-In.
+Staecher folds.
+stas_zuev folds.
+hatoka folds.
+Duyvo08 folds.
+communista79 folds.
+Creating Main Pot with $100 with pkmalaak
+** Summary **
+Main Pot: 100
+
+JackFlash17 balance 2000, didn't bet (folded)
+pkmalaak balance 3780, bet 3720, collected 3780, net +60
+Staecher balance 1940, didn't bet (folded)
+stas_zuev balance 3580, didn't bet (folded)
+hatoka balance 2900, didn't bet (folded)
+Duyvo08 balance 3920, lost 20 (folded)
+communista79 balance 1880, lost 40 (folded)
+
+***** Hand History for Game 5930310450 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33209283)  - Wed May 02 07:43:25 EDT 2007
+Table Table  126510 (Real Money) -- Seat 7 is the button
+Total number of players : 7
+Seat 1: JackFlash17 (2000)
+Seat 2: pkmalaak (3780)
+Seat 4: Staecher (1940)
+Seat 5: stas_zuev (3580)
+Seat 6: hatoka (2900)
+Seat 7: Duyvo08 (3920)
+Seat 8: communista79 (1880)
+communista79  posts small blind (20)
+JackFlash17  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 3h, 5h ]
+pkmalaak raises (3780) to 3780
+pkmalaak is all-In.
+Staecher calls (1940)
+Staecher is all-In.
+stas_zuev folds.
+hatoka folds.
+Duyvo08 folds.
+communista79 folds.
+JackFlash17 folds.
+** Dealing Flop ** :  [ Th, 2d, Qd ]
+** Dealing Turn ** :  [ 9c ]
+** Dealing River ** :  [ 5d ]
+Creating Main Pot with $3940 with Staecher
+** Summary **
+Main Pot: 3940
+Board: [ Th 2d Qd 9c 5d  ]
+
+JackFlash17 balance 1960, lost 40 (folded)
+pkmalaak balance 1840, bet 3780, collected 1840, lost -1940 [ Ah 7h ] [ high card Ace -- Ah,Qd,Th,9c,7h ]
+Staecher balance 3940, bet 1940, collected 3940, net +2000 [ Tc Kh ] [ a pair of Tens -- Kh,Qd,Tc,Th,9c ]
+stas_zuev balance 3580, didn't bet (folded)
+hatoka balance 2900, didn't bet (folded)
+Duyvo08 balance 3920, didn't bet (folded)
+communista79 balance 1860, lost 20 (folded)
+
+***** Hand History for Game 5930311162 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33209283)  - Wed May 02 07:43:47 EDT 2007
+Table Table  126510 (Real Money) -- Seat 8 is the button
+Total number of players : 7
+Seat 1: JackFlash17 (1960)
+Seat 2: pkmalaak (1840)
+Seat 4: Staecher (3940)
+Seat 5: stas_zuev (3580)
+Seat 6: hatoka (2900)
+Seat 7: Duyvo08 (3920)
+Seat 8: communista79 (1860)
+JackFlash17  posts small blind (20)
+pkmalaak  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ 4d, 9h ]
+Staecher folds.
+stas_zuev folds.
+hatoka folds.
+Duyvo08 folds.
+communista79 raises (80) to 80
+JackFlash17 folds.
+pkmalaak raises (1800) to 1840
+pkmalaak is all-In.
+communista79 calls (1760)
+** Dealing Flop ** :  [ 9d, Kh, Ad ]
+** Dealing Turn ** :  [ 8d ]
+** Dealing River ** :  [ 5s ]
+Creating Main Pot with $3700 with pkmalaak
+** Summary **
+Main Pot: 3700
+Board: [ 9d Kh Ad 8d 5s  ]
+
+JackFlash17 balance 1940, lost 20 (folded)
+pkmalaak balance 0, lost 1840 [ Th 6c ] [ high card Ace -- Ad,Kh,Th,9d,8d ]
+Staecher balance 3940, didn't bet (folded)
+stas_zuev balance 3580, didn't bet (folded)
+hatoka balance 2900, didn't bet (folded)
+Duyvo08 balance 3920, didn't bet (folded)
+communista79 balance 3720, bet 1840, collected 3700, net +1860 [ Ts Qd ] [ high card Ace with Queen kicker -- Ad,Kh,Qd,Ts,9d ]
+
+***** Hand History for Game 5930312073 *****
+pkmalaak finished in 7 place.
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33209283)  - Wed May 02 07:44:16 EDT 2007
+Table Table  126510 (Real Money) -- Seat 1 is the button
+Total number of players : 6
+Seat 1: JackFlash17 (1940)
+Seat 4: Staecher (3940)
+Seat 5: stas_zuev (3580)
+Seat 6: hatoka (2900)
+Seat 7: Duyvo08 (3920)
+Seat 8: communista79 (3720)
+Staecher  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ As, 5h ]
+stas_zuev calls (40)
+hatoka raises (120) to 120
+Duyvo08 folds.
+Staecher: nice
+communista79 folds.
+JackFlash17 calls (120)
+Staecher folds.
+stas_zuev calls (80)
+** Dealing Flop ** :  [ 8h, 9c, 6c ]
+stas_zuev checks.
+hatoka checks.
+JackFlash17 checks.
+** Dealing Turn ** :  [ Ad ]
+stas_zuev checks.
+hatoka bets (200)
+JackFlash17 folds.
+stas_zuev folds.
+** Summary **
+Main Pot: 400
+Board: [ 8h 9c 6c Ad  ]
+
+JackFlash17 balance 1820, lost 120 (folded)
+Staecher balance 3900, lost 40 (folded)
+stas_zuev balance 3460, lost 120 (folded)
+hatoka balance 3180, bet 320, collected 600, net +280
+Duyvo08 balance 3920, didn't bet (folded)
+communista79 balance 3720, didn't bet (folded)
+
+***** Hand History for Game 5930313668 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33209283)  - Wed May 02 07:45:07 EDT 2007
+Table Table  126510 (Real Money) -- Seat 1 is the button
+Total number of players : 6
+Seat 1: JackFlash17 (1820)
+Seat 4: Staecher (3900)
+Seat 5: stas_zuev (3460)
+Seat 6: hatoka (3180)
+Seat 7: Duyvo08 (3920)
+Seat 8: communista79 (3720)
+Staecher  posts small blind (20)
+stas_zuev  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ Tc, 8h ]
+hatoka folds.
+Duyvo08 folds.
+communista79 calls (40)
+JackFlash17 folds.
+Staecher calls (20)
+stas_zuev checks.
+** Dealing Flop ** :  [ 8d, 6d, As ]
+Staecher checks.
+stas_zuev checks.
+communista79 bets (40)
+Staecher folds.
+stas_zuev folds.
+** Summary **
+Main Pot: 120
+Board: [ 8d 6d As  ]
+
+JackFlash17 balance 1820, didn't bet (folded)
+Staecher balance 3860, lost 40 (folded)
+stas_zuev balance 3420, lost 40 (folded)
+hatoka balance 3180, didn't bet (folded)
+Duyvo08 balance 3920, didn't bet (folded)
+communista79 balance 3800, bet 80, collected 160, net +80
+
+***** Hand History for Game 5930314718 *****
+40/80 Tourney Texas Hold'em Game Table (NL) (Tournament 33209283)  - Wed May 02 07:45:39 EDT 2007
+Table Table  126510 (Real Money) -- Seat 4 is the button
+Total number of players : 6
+Seat 1: JackFlash17 (1820)
+Seat 4: Staecher (3860)
+Seat 5: stas_zuev (3420)
+Seat 6: hatoka (3180)
+Seat 7: Duyvo08 (3920)
+Seat 8: communista79 (3800)
+stas_zuev  posts small blind (20)
+hatoka  posts big blind (40)
+** Dealing down cards **
+Dealt to hatoka [ Ks, Ad ]
+Duyvo08 calls (40)
+communista79 calls (40)
+JackFlash17 calls (40)
+Staecher calls (40)
+stas_zuev calls (20)
+hatoka raises (260) to 300
+Duyvo08 folds.
+communista79 calls (260)
+JackFlash17 folds.
+Staecher folds.
+stas_zuev calls (260)
+** Dealing Flop ** :  [ Js, Qc, Kh ]
+stas_zuev checks.
+hatoka bets (500)
+communista79 calls (500)
+stas_zuev folds.
+** Dealing Turn ** :  [ 5h ]
+hatoka bets (700)
+communista79 raises (1840) to 1840
+hatoka calls (1140)
+** Dealing River ** :  [ 7c ]
+hatoka bets (540)
+hatoka is all-In.
+communista79 calls (540)
+Creating Main Pot with $6780 with hatoka
+** Summary **
+Main Pot: 6780
+Board: [ Js Qc Kh 5h 7c  ]
+
+JackFlash17 balance 1780, lost 40 (folded)
+Staecher balance 3820, lost 40 (folded)
+stas_zuev balance 3120, lost 300 (folded)
+hatoka balance 6780, bet 3180, collected 6780, net +3600 [ Ks Ad ] [ a pair of Kings with Ace kicker -- Ad,Ks,Kh,Qc,JsAd(kicker card) ]
+Duyvo08 balance 3880, lost 40 (folded)
+communista79 balance 620, lost 3180 [ Tc Kd ] [ a pair of Kings -- Kd,Kh,Qc,Js,Tc ]
+
+***** Hand History for Game 5930318411 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33209283)  - Wed May 02 07:47:36 EDT 2007
+Table Table  126510 (Real Money) -- Seat 5 is the button
+Total number of players : 6
+Seat 1: JackFlash17 (1780)
+Seat 4: Staecher (3820)
+Seat 5: stas_zuev (3120)
+Seat 6: hatoka (6780)
+Seat 7: Duyvo08 (3880)
+Seat 8: communista79 (620)
+hatoka  posts small blind (30)
+Duyvo08  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Ac, 6d ]
+communista79 folds.
+JackFlash17 folds.
+Staecher raises (240) to 240
+stas_zuev folds.
+hatoka folds.
+Duyvo08 calls (180)
+** Dealing Flop ** :  [ 9c, 8d, 8h ]
+Duyvo08 checks.
+Staecher bets (800)
+Duyvo08 folds.
+** Summary **
+Main Pot: 510
+Board: [ 9c 8d 8h  ]
+
+JackFlash17 balance 1780, didn't bet (folded)
+Staecher balance 4090, bet 1040, collected 1310, net +270
+stas_zuev balance 3120, didn't bet (folded)
+hatoka balance 6750, lost 30 (folded)
+Duyvo08 balance 3640, lost 240 (folded)
+communista79 balance 620, didn't bet (folded)
+
+***** Hand History for Game 5930319834 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33209283)  - Wed May 02 07:48:19 EDT 2007
+Table Table  126510 (Real Money) -- Seat 6 is the button
+Total number of players : 6
+Seat 1: JackFlash17 (1780)
+Seat 4: Staecher (4090)
+Seat 5: stas_zuev (3120)
+Seat 6: hatoka (6750)
+Seat 7: Duyvo08 (3640)
+Seat 8: communista79 (620)
+Duyvo08  posts small blind (30)
+communista79  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Td, 8d ]
+JackFlash17 calls (60)
+Staecher folds.
+stas_zuev folds.
+hatoka calls (60)
+Duyvo08 calls (30)
+communista79 checks.
+** Dealing Flop ** :  [ 4h, 5c, Kc ]
+Duyvo08 bets (180)
+communista79 folds.
+JackFlash17 folds.
+hatoka folds.
+** Summary **
+Main Pot: 240
+Board: [ 4h 5c Kc  ]
+
+JackFlash17 balance 1720, lost 60 (folded)
+Staecher balance 4090, didn't bet (folded)
+stas_zuev balance 3120, didn't bet (folded)
+hatoka balance 6690, lost 60 (folded)
+Duyvo08 balance 3820, bet 240, collected 420, net +180
+communista79 balance 560, lost 60 (folded)
+
+***** Hand History for Game 5930320911 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33209283)  - Wed May 02 07:48:53 EDT 2007
+Table Table  126510 (Real Money) -- Seat 7 is the button
+Total number of players : 6
+Seat 1: JackFlash17 (1720)
+Seat 4: Staecher (4090)
+Seat 5: stas_zuev (3120)
+Seat 6: hatoka (6690)
+Seat 7: Duyvo08 (3820)
+Seat 8: communista79 (560)
+communista79  posts small blind (30)
+JackFlash17  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 4s, Kh ]
+Staecher folds.
+stas_zuev folds.
+hatoka folds.
+Duyvo08 calls (60)
+communista79 calls (30)
+JackFlash17 checks.
+** Dealing Flop ** :  [ Ac, Ah, 7c ]
+communista79 bets (500)
+communista79 is all-In.
+JackFlash17 raises (1660) to 1660
+JackFlash17 is all-In.
+Duyvo08 folds.
+** Dealing Turn ** :  [ Qh ]
+** Dealing River ** :  [ 9d ]
+Creating Main Pot with $1180 with communista79
+** Summary **
+Main Pot: 1180
+Board: [ Ac Ah 7c Qh 9d  ]
+
+JackFlash17 balance 2340, bet 1720, collected 2340, net +620 [ As 8c ] [ three of a kind, Aces -- As,Ac,Ah,Qh,9d ]
+Staecher balance 4090, didn't bet (folded)
+stas_zuev balance 3120, didn't bet (folded)
+hatoka balance 6690, didn't bet (folded)
+Duyvo08 balance 3760, lost 60 (folded)
+communista79 balance 0, lost 560 [ 4d Jc ] [ a pair of Aces -- Ac,Ah,Qh,Jc,9d ]
+
+***** Hand History for Game 5930322022 *****
+communista79 finished in 6 place.
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33209283)  - Wed May 02 07:49:28 EDT 2007
+Table Table  126510 (Real Money) -- Seat 7 is the button
+Total number of players : 5
+Seat 1: JackFlash17 (2340)
+Seat 4: Staecher (4090)
+Seat 5: stas_zuev (3120)
+Seat 6: hatoka (6690)
+Seat 7: Duyvo08 (3760)
+JackFlash17  posts small blind (30)
+Staecher  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 2h, 5s ]
+stas_zuev raises (240) to 240
+hatoka folds.
+Duyvo08 folds.
+JackFlash17 calls (210)
+Staecher folds.
+** Dealing Flop ** :  [ 7s, 3s, Tc ]
+JackFlash17 checks.
+stas_zuev bets (60)
+JackFlash17 folds.
+** Summary **
+Main Pot: 540
+Board: [ 7s 3s Tc  ]
+
+JackFlash17 balance 2100, lost 240 (folded)
+Staecher balance 4030, lost 60 (folded)
+stas_zuev balance 3420, bet 300, collected 600, net +300
+hatoka balance 6690, didn't bet (folded)
+Duyvo08 balance 3760, didn't bet (folded)
+
+***** Hand History for Game 5930322765 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33209283)  - Wed May 02 07:49:52 EDT 2007
+Table Table  126510 (Real Money) -- Seat 1 is the button
+Total number of players : 5
+Seat 1: JackFlash17 (2100)
+Seat 4: Staecher (4030)
+Seat 5: stas_zuev (3420)
+Seat 6: hatoka (6690)
+Seat 7: Duyvo08 (3760)
+Staecher  posts small blind (30)
+stas_zuev  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ Tc, 6h ]
+hatoka folds.
+Duyvo08 calls (60)
+JackFlash17 folds.
+Staecher calls (30)
+stas_zuev checks.
+** Dealing Flop ** :  [ 5c, Td, 7s ]
+Staecher bets (60)
+stas_zuev calls (60)
+Duyvo08 folds.
+** Dealing Turn ** :  [ 9d ]
+Staecher bets (240)
+stas_zuev calls (240)
+** Dealing River ** :  [ Kd ]
+Staecher checks.
+stas_zuev checks.
+** Summary **
+Main Pot: 780
+Board: [ 5c Td 7s 9d Kd  ]
+
+JackFlash17 balance 2100, didn't bet (folded)
+Staecher balance 4450, bet 360, collected 780, net +420 [ 6d 8s ] [ a straight Six to Ten -- Td,9d,8s,7s,6d ]
+stas_zuev balance 3060, lost 360 [ 8c 4s ] [ high card King -- Kd,Td,9d,8c,7s ]
+
+hatoka balance 6690, didn't bet (folded)
+Duyvo08 balance 3700, lost 60 (folded)
+
+***** Hand History for Game 5930324443 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33209283)  - Wed May 02 07:50:43 EDT 2007
+Table Table  126510 (Real Money) -- Seat 4 is the button
+Total number of players : 5
+Seat 1: JackFlash17 (2100)
+Seat 4: Staecher (4450)
+Seat 5: stas_zuev (3060)
+Seat 6: hatoka (6690)
+Seat 7: Duyvo08 (3700)
+stas_zuev  posts small blind (30)
+hatoka  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 5c, 9s ]
+Duyvo08 calls (60)
+JackFlash17 raises (240) to 240
+Staecher folds.
+stas_zuev folds.
+hatoka folds.
+Duyvo08 folds.
+** Summary **
+Main Pot: 210
+
+JackFlash17 balance 2250, bet 240, collected 390, net +150
+Staecher balance 4450, didn't bet (folded)
+stas_zuev balance 3030, lost 30 (folded)
+hatoka balance 6630, lost 60 (folded)
+Duyvo08 balance 3640, lost 60 (folded)
+
+***** Hand History for Game 5930325339 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33209283)  - Wed May 02 07:51:11 EDT 2007
+Table Table  126510 (Real Money) -- Seat 5 is the button
+Total number of players : 5
+Seat 1: JackFlash17 (2250)
+Seat 4: Staecher (4450)
+Seat 5: stas_zuev (3030)
+Seat 6: hatoka (6630)
+Seat 7: Duyvo08 (3640)
+hatoka  posts small blind (30)
+Duyvo08  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 7h, 2c ]
+JackFlash17 calls (60)
+Staecher folds.
+stas_zuev calls (60)
+hatoka folds.
+Duyvo08 checks.
+** Dealing Flop ** :  [ Qc, 5c, 6c ]
+Duyvo08 checks.
+JackFlash17 bets (180)
+stas_zuev calls (180)
+Duyvo08 folds.
+** Dealing Turn ** :  [ As ]
+JackFlash17 bets (360)
+stas_zuev calls (360)
+** Dealing River ** :  [ 4h ]
+JackFlash17 bets (300)
+stas_zuev calls (300)
+** Summary **
+Main Pot: 1890
+Board: [ Qc 5c 6c As 4h  ]
+
+JackFlash17 balance 3240, bet 900, collected 1890, net +990 [ 5d 6h ] [ two pairs, Sixes and Fives -- As,6h,6c,5d,5c ]
+Staecher balance 4450, didn't bet (folded)
+stas_zuev balance 2130, lost 900 [ Qh Jc ] [ a pair of Queens -- As,Qh,Qc,Jc,6c ]
+
+hatoka balance 6600, lost 30 (folded)
+Duyvo08 balance 3580, lost 60 (folded)
+
+***** Hand History for Game 5930327162 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33209283)  - Wed May 02 07:52:06 EDT 2007
+Table Table  126510 (Real Money) -- Seat 6 is the button
+Total number of players : 5
+Seat 1: JackFlash17 (3240)
+Seat 4: Staecher (4450)
+Seat 5: stas_zuev (2130)
+Seat 6: hatoka (6600)
+Seat 7: Duyvo08 (3580)
+Duyvo08  posts small blind (30)
+JackFlash17  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 6d, Qd ]
+Staecher folds.
+stas_zuev folds.
+hatoka raises (120) to 120
+Duyvo08 calls (90)
+JackFlash17 calls (60)
+** Dealing Flop ** :  [ 8h, 9s, 9c ]
+Duyvo08 bets (160)
+JackFlash17 folds.
+hatoka folds.
+** Summary **
+Main Pot: 360
+Board: [ 8h 9s 9c  ]
+
+JackFlash17 balance 3120, lost 120 (folded)
+Staecher balance 4450, didn't bet (folded)
+stas_zuev balance 2130, didn't bet (folded)
+hatoka balance 6480, lost 120 (folded)
+Duyvo08 balance 3820, bet 280, collected 520, net +240
+
+***** Hand History for Game 5930329008 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33209283)  - Wed May 02 07:53:02 EDT 2007
+Table Table  126510 (Real Money) -- Seat 7 is the button
+Total number of players : 5
+Seat 1: JackFlash17 (3120)
+Seat 4: Staecher (4450)
+Seat 5: stas_zuev (2130)
+Seat 6: hatoka (6480)
+Seat 7: Duyvo08 (3820)
+JackFlash17  posts small blind (30)
+Staecher  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 2d, 7h ]
+stas_zuev calls (60)
+hatoka folds.
+Duyvo08 calls (60)
+JackFlash17 calls (30)
+Staecher checks.
+** Dealing Flop ** :  [ 2h, 5h, As ]
+JackFlash17 checks.
+Staecher checks.
+stas_zuev checks.
+Duyvo08 bets (160)
+JackFlash17 folds.
+Staecher folds.
+stas_zuev folds.
+** Summary **
+Main Pot: 240
+Board: [ 2h 5h As  ]
+
+JackFlash17 balance 3060, lost 60 (folded)
+Staecher balance 4390, lost 60 (folded)
+stas_zuev balance 2070, lost 60 (folded)
+hatoka balance 6480, didn't bet (folded)
+Duyvo08 balance 4000, bet 220, collected 400, net +180
+
+***** Hand History for Game 5930330574 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33209283)  - Wed May 02 07:53:51 EDT 2007
+Table Table  126510 (Real Money) -- Seat 1 is the button
+Total number of players : 5
+Seat 1: JackFlash17 (3060)
+Seat 4: Staecher (4390)
+Seat 5: stas_zuev (2070)
+Seat 6: hatoka (6480)
+Seat 7: Duyvo08 (4000)
+Staecher  posts small blind (30)
+stas_zuev  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 8h, 5d ]
+hatoka folds.
+Duyvo08 folds.
+JackFlash17 folds.
+Staecher calls (30)
+stas_zuev checks.
+** Dealing Flop ** :  [ 2h, 7d, 5c ]
+Staecher bets (60)
+stas_zuev calls (60)
+** Dealing Turn ** :  [ 7s ]
+Staecher bets (180)
+stas_zuev folds.
+** Summary **
+Main Pot: 240
+Board: [ 2h 7d 5c 7s  ]
+
+JackFlash17 balance 3060, didn't bet (folded)
+Staecher balance 4510, bet 300, collected 420, net +120
+stas_zuev balance 1950, lost 120 (folded)
+hatoka balance 6480, didn't bet (folded)
+Duyvo08 balance 4000, didn't bet (folded)
+
+***** Hand History for Game 5930332298 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33209283)  - Wed May 02 07:54:43 EDT 2007
+Table Table  126510 (Real Money) -- Seat 4 is the button
+Total number of players : 5
+Seat 1: JackFlash17 (3060)
+Seat 4: Staecher (4510)
+Seat 5: stas_zuev (1950)
+Seat 6: hatoka (6480)
+Seat 7: Duyvo08 (4000)
+stas_zuev  posts small blind (30)
+hatoka  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 2c, 8d ]
+Duyvo08 folds.
+JackFlash17 calls (60)
+Staecher folds.
+stas_zuev calls (30)
+hatoka checks.
+** Dealing Flop ** :  [ 2s, Tc, 3d ]
+stas_zuev bets (240)
+hatoka folds.
+JackFlash17 raises (3000) to 3000
+JackFlash17 is all-In.
+stas_zuev calls (1650)
+stas_zuev is all-In.
+** Dealing Turn ** :  [ 3s ]
+** Dealing River ** :  [ 9c ]
+Creating Main Pot with $3960 with stas_zuev
+** Summary **
+Main Pot: 3960
+Board: [ 2s Tc 3d 3s 9c  ]
+
+JackFlash17 balance 5070, bet 3060, collected 5070, net +2010 [ 9s Th ] [ two pairs, Tens and Nines -- Th,Tc,9s,9c,3d ]
+Staecher balance 4510, didn't bet (folded)
+stas_zuev balance 0, lost 1950 [ Qd Td ] [ two pairs, Tens and Threes -- Qd,Td,Tc,3d,3s ]
+hatoka balance 6420, lost 60 (folded)
+Duyvo08 balance 4000, didn't bet (folded)
+
+***** Hand History for Game 5930333610 *****
+stas_zuev finished in 5 place.
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33209283)  - Wed May 02 07:55:23 EDT 2007
+Table Table  126510 (Real Money) -- Seat 4 is the button
+Total number of players : 4
+Seat 1: JackFlash17 (5070)
+Seat 4: Staecher (4510)
+Seat 6: hatoka (6420)
+Seat 7: Duyvo08 (4000)
+hatoka  posts small blind (30)
+Duyvo08  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 4c, Jd ]
+JackFlash17 folds.
+Staecher folds.
+hatoka calls (30)
+Duyvo08 checks.
+** Dealing Flop ** :  [ 9h, Ts, 2c ]
+hatoka bets (120)
+Duyvo08 folds.
+** Summary **
+Main Pot: 120
+Board: [ 9h Ts 2c  ]
+
+JackFlash17 balance 5070, didn't bet (folded)
+Staecher balance 4510, didn't bet (folded)
+hatoka balance 6480, bet 180, collected 240, net +60
+Duyvo08 balance 3940, lost 60 (folded)
+
+***** Hand History for Game 5930334792 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33209283)  - Wed May 02 07:55:59 EDT 2007
+Table Table  126510 (Real Money) -- Seat 6 is the button
+Total number of players : 4
+Seat 1: JackFlash17 (5070)
+Seat 4: Staecher (4510)
+Seat 6: hatoka (6480)
+Seat 7: Duyvo08 (3940)
+Duyvo08  posts small blind (30)
+JackFlash17  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 7c, Ac ]
+Staecher folds.
+hatoka raises (120) to 120
+Duyvo08 folds.
+JackFlash17 calls (60)
+** Dealing Flop ** :  [ 8h, Jh, 5d ]
+JackFlash17 checks.
+hatoka checks.
+** Dealing Turn ** :  [ 2s ]
+JackFlash17 checks.
+hatoka checks.
+** Dealing River ** :  [ As ]
+JackFlash17 checks.
+hatoka bets (200)
+JackFlash17 folds.
+** Summary **
+Main Pot: 270
+Board: [ 8h Jh 5d 2s As  ]
+
+JackFlash17 balance 4950, lost 120 (folded)
+Staecher balance 4510, didn't bet (folded)
+hatoka balance 6630, bet 320, collected 470, net +150
+Duyvo08 balance 3910, lost 30 (folded)
+
+***** Hand History for Game 5930336513 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33209283)  - Wed May 02 07:56:51 EDT 2007
+Table Table  126510 (Real Money) -- Seat 7 is the button
+Total number of players : 4
+Seat 1: JackFlash17 (4950)
+Seat 4: Staecher (4510)
+Seat 6: hatoka (6630)
+Seat 7: Duyvo08 (3910)
+JackFlash17  posts small blind (30)
+Staecher  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 3c, Jh ]
+hatoka folds.
+Duyvo08 folds.
+JackFlash17 raises (270) to 300
+Staecher calls (240)
+** Dealing Flop ** :  [ Kc, 9h, Ah ]
+JackFlash17 checks.
+Staecher bets (500)
+JackFlash17 raises (4650) to 4650
+JackFlash17 is all-In.
+Staecher calls (3710)
+Staecher is all-In.
+** Dealing Turn ** :  [ 2d ]
+** Dealing River ** :  [ Kh ]
+Creating Main Pot with $9020 with Staecher
+** Summary **
+Main Pot: 9020
+Board: [ Kc 9h Ah 2d Kh  ]
+
+JackFlash17 balance 440, bet 4950, collected 440, lost -4510 [ Jd Js ] [ two pairs, Kings and Jacks -- Ah,Kc,Kh,Jd,Js ]
+Staecher balance 9020, bet 4510, collected 9020, net +4510 [ 7c Ac ] [ two pairs, Aces and Kings -- Ac,Ah,Kc,Kh,9h ]
+hatoka balance 6630, didn't bet (folded)
+Duyvo08 balance 3910, didn't bet (folded)
+
+***** Hand History for Game 5930337849 *****
+60/120 Tourney Texas Hold'em Game Table (NL) (Tournament 33209283)  - Wed May 02 07:57:32 EDT 2007
+Table Table  126510 (Real Money) -- Seat 1 is the button
+Total number of players : 4
+Seat 1: JackFlash17 (440)
+Seat 4: Staecher (9020)
+Seat 6: hatoka (6630)
+Seat 7: Duyvo08 (3910)
+Staecher  posts small blind (30)
+hatoka  posts big blind (60)
+** Dealing down cards **
+Dealt to hatoka [ 8d, 7d ]
+Duyvo08 folds.
+JackFlash17 calls (60)
+Staecher calls (30)
+hatoka checks.
+** Dealing Flop ** :  [ 5h, 7c, Js ]
+Staecher checks.
+hatoka bets (500)
+JackFlash17 folds.
+Staecher folds.
+** Summary **
+Main Pot: 180
+Board: [ 5h 7c Js  ]
+
+JackFlash17 balance 380, lost 60 (folded)
+Staecher balance 8960, lost 60 (folded)
+hatoka balance 6750, bet 560, collected 680, net +120
+Duyvo08 balance 3910, didn't bet (folded)
+
+***** Hand History for Game 5930338891 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33209283)  - Wed May 02 07:58:04 EDT 2007
+Table Table  126510 (Real Money) -- Seat 4 is the button
+Total number of players : 4
+Seat 1: JackFlash17 (380)
+Seat 4: Staecher (8960)
+Seat 6: hatoka (6750)
+Seat 7: Duyvo08 (3910)
+hatoka  posts small blind (50)
+Duyvo08  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Th, Jd ]
+JackFlash17 folds.
+Staecher folds.
+hatoka raises (150) to 200
+Duyvo08 calls (100)
+** Dealing Flop ** :  [ 3s, 2c, Td ]
+hatoka bets (400)
+Duyvo08 folds.
+** Summary **
+Main Pot: 400
+Board: [ 3s 2c Td  ]
+
+JackFlash17 balance 380, didn't bet (folded)
+Staecher balance 8960, didn't bet (folded)
+hatoka balance 6950, bet 600, collected 800, net +200
+Duyvo08 balance 3710, lost 200 (folded)
+
+***** Hand History for Game 5930339615 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33209283)  - Wed May 02 07:58:26 EDT 2007
+Table Table  126510 (Real Money) -- Seat 6 is the button
+Total number of players : 4
+Seat 1: JackFlash17 (380)
+Seat 4: Staecher (8960)
+Seat 6: hatoka (6950)
+Seat 7: Duyvo08 (3710)
+Duyvo08  posts small blind (50)
+JackFlash17  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 3s, 5c ]
+Staecher folds.
+hatoka folds.
+Duyvo08 folds.
+** Summary **
+Main Pot: 100
+
+JackFlash17 balance 430, bet 100, collected 150, net +50
+Staecher balance 8960, didn't bet (folded)
+hatoka balance 6950, didn't bet (folded)
+Duyvo08 balance 3660, lost 50 (folded)
+
+***** Hand History for Game 5930340220 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33209283)  - Wed May 02 07:58:44 EDT 2007
+Table Table  126510 (Real Money) -- Seat 7 is the button
+Total number of players : 4
+Seat 1: JackFlash17 (430)
+Seat 4: Staecher (8960)
+Seat 6: hatoka (6950)
+Seat 7: Duyvo08 (3660)
+JackFlash17  posts small blind (50)
+Staecher  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Kd, 7h ]
+hatoka raises (200) to 200
+Duyvo08 calls (200)
+JackFlash17 folds.
+Staecher folds.
+** Dealing Flop ** :  [ Kh, Td, As ]
+hatoka bets (300)
+Duyvo08 raises (600) to 600
+hatoka calls (300)
+** Dealing Turn ** :  [ 3c ]
+hatoka checks.
+Duyvo08 checks.
+** Dealing River ** :  [ 9h ]
+hatoka bets (500)
+Duyvo08 raises (1000) to 1000
+hatoka calls (500)
+** Summary **
+Main Pot: 3750
+Board: [ Kh Td As 3c 9h  ]
+
+JackFlash17 balance 380, lost 50 (folded)
+Staecher balance 8860, lost 100 (folded)
+hatoka balance 5150, lost 1800 [ Kd 7h ] [ a pair of Kings -- As,Kd,Kh,Td,9h ]
+
+Duyvo08 balance 5610, bet 1800, collected 3750, net +1950 [ Qs Jh ] [ a straight Ten to Ace -- As,Kh,Qs,Jh,Td ]
+
+***** Hand History for Game 5930343155 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33209283)  - Wed May 02 08:00:14 EDT 2007
+Table Table  126510 (Real Money) -- Seat 1 is the button
+Total number of players : 4
+Seat 1: JackFlash17 (380)
+Seat 4: Staecher (8860)
+Seat 6: hatoka (5150)
+Seat 7: Duyvo08 (5610)
+Staecher  posts small blind (50)
+hatoka  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Qh, 2s ]
+Duyvo08 folds.
+JackFlash17 folds.
+Staecher calls (50)
+hatoka checks.
+** Dealing Flop ** :  [ Ad, Td, 2c ]
+Staecher bets (250)
+hatoka folds.
+** Summary **
+Main Pot: 200
+Board: [ Ad Td 2c  ]
+
+JackFlash17 balance 380, didn't bet (folded)
+Staecher balance 8960, bet 350, collected 450, net +100
+hatoka balance 5050, lost 100 (folded)
+Duyvo08 balance 5610, didn't bet (folded)
+
+***** Hand History for Game 5930343951 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33209283)  - Wed May 02 08:00:37 EDT 2007
+Table Table  126510 (Real Money) -- Seat 4 is the button
+Total number of players : 4
+Seat 1: JackFlash17 (380)
+Seat 4: Staecher (8960)
+Seat 6: hatoka (5050)
+Seat 7: Duyvo08 (5610)
+hatoka  posts small blind (50)
+Duyvo08  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 4d, Ks ]
+JackFlash17 folds.
+Staecher calls (100)
+hatoka folds.
+Duyvo08 raises (100) to 200
+Staecher calls (100)
+** Dealing Flop ** :  [ Ac, 3c, 3d ]
+Duyvo08 bets (410)
+Staecher folds.
+** Summary **
+Main Pot: 450
+Board: [ Ac 3c 3d  ]
+
+JackFlash17 balance 380, didn't bet (folded)
+Staecher balance 8760, lost 200 (folded)
+hatoka balance 5000, lost 50 (folded)
+Duyvo08 balance 5860, bet 610, collected 860, net +250
+
+***** Hand History for Game 5930345183 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33209283)  - Wed May 02 08:01:16 EDT 2007
+Table Table  126510 (Real Money) -- Seat 6 is the button
+Total number of players : 4
+Seat 1: JackFlash17 (380)
+Seat 4: Staecher (8760)
+Seat 6: hatoka (5000)
+Seat 7: Duyvo08 (5860)
+Duyvo08  posts small blind (50)
+JackFlash17  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Jh, Js ]
+Staecher folds.
+hatoka raises (400) to 400
+Duyvo08 folds.
+JackFlash17 folds.
+** Summary **
+Main Pot: 250
+
+JackFlash17 balance 280, lost 100 (folded)
+Staecher balance 8760, didn't bet (folded)
+hatoka balance 5150, bet 400, collected 550, net +150
+Duyvo08 balance 5810, lost 50 (folded)
+
+***** Hand History for Game 5930345789 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33209283)  - Wed May 02 08:01:35 EDT 2007
+Table Table  126510 (Real Money) -- Seat 7 is the button
+Total number of players : 4
+Seat 1: JackFlash17 (280)
+Seat 4: Staecher (8760)
+Seat 6: hatoka (5150)
+Seat 7: Duyvo08 (5810)
+JackFlash17  posts small blind (50)
+Staecher  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Ah, Jd ]
+hatoka raises (300) to 300
+Duyvo08 folds.
+JackFlash17 calls (230)
+JackFlash17 is all-In.
+Staecher calls (200)
+Creating Main Pot with $840 with JackFlash17
+** Dealing Flop ** :  [ 8s, 3d, Js ]
+Staecher checks.
+hatoka bets (500)
+Staecher folds.
+** Dealing Turn ** :  [ 9s ]
+** Dealing River ** :  [ 8d ]
+** Summary **
+Main Pot: 840 | Side Pot 1: 40
+Board: [ 8s 3d Js 9s 8d  ]
+
+JackFlash17 balance 0, lost 280 [ Tc 9c ] [ two pairs, Nines and Eights -- Js,9c,9s,8s,8d ]
+Staecher balance 8460, lost 300 (folded)
+hatoka balance 5730, bet 800, collected 1380, net +580 [ Ah Jd ] [ two pairs, Jacks and Eights -- Ah,Jd,Js,8s,8d ]
+Duyvo08 balance 5810, didn't bet (folded)
+
+***** Hand History for Game 5930347047 *****
+JackFlash17 finished in 4 place.
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33209283)  - Wed May 02 08:02:14 EDT 2007
+Table Table  126510 (Real Money) -- Seat 7 is the button
+Total number of players : 3
+Seat 4: Staecher (8460)
+Seat 6: hatoka (5730)
+Seat 7: Duyvo08 (5810)
+Staecher  posts small blind (50)
+hatoka  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 6c, 7h ]
+Duyvo08 folds.
+Staecher calls (50)
+hatoka checks.
+** Dealing Flop ** :  [ Ad, 4h, 7s ]
+Staecher checks.
+hatoka bets (100)
+Staecher folds.
+** Summary **
+Main Pot: 200
+Board: [ Ad 4h 7s  ]
+
+Staecher balance 8360, lost 100 (folded)
+hatoka balance 5830, bet 200, collected 300, net +100
+Duyvo08 balance 5810, didn't bet (folded)
+
+***** Hand History for Game 5930347804 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33209283)  - Wed May 02 08:02:37 EDT 2007
+Table Table  126510 (Real Money) -- Seat 4 is the button
+Total number of players : 3
+Seat 4: Staecher (8360)
+Seat 6: hatoka (5830)
+Seat 7: Duyvo08 (5810)
+hatoka  posts small blind (50)
+Duyvo08  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 5s, 9h ]
+Staecher folds.
+hatoka folds.
+** Summary **
+Main Pot: 100
+
+Staecher balance 8360, didn't bet (folded)
+hatoka balance 5780, lost 50 (folded)
+Duyvo08 balance 5860, bet 100, collected 150, net +50
+
+***** Hand History for Game 5930348759 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33209283)  - Wed May 02 08:03:05 EDT 2007
+Table Table  126510 (Real Money) -- Seat 6 is the button
+Total number of players : 3
+Seat 4: Staecher (8360)
+Seat 6: hatoka (5780)
+Seat 7: Duyvo08 (5860)
+Duyvo08  posts small blind (50)
+Staecher  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 4d, 8d ]
+hatoka folds.
+Duyvo08 raises (150) to 200
+Staecher calls (100)
+** Dealing Flop ** :  [ Qh, 8c, 5d ]
+Duyvo08 bets (100)
+Staecher calls (100)
+** Dealing Turn ** :  [ Qc ]
+Duyvo08 bets (260)
+Staecher folds.
+** Summary **
+Main Pot: 600
+Board: [ Qh 8c 5d Qc  ]
+
+Staecher balance 8060, lost 300 (folded)
+hatoka balance 5780, didn't bet (folded)
+Duyvo08 balance 6160, bet 560, collected 860, net +300
+
+***** Hand History for Game 5930349923 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33209283)  - Wed May 02 08:03:41 EDT 2007
+Table Table  126510 (Real Money) -- Seat 7 is the button
+Total number of players : 3
+Seat 4: Staecher (8060)
+Seat 6: hatoka (5780)
+Seat 7: Duyvo08 (6160)
+Staecher  posts small blind (50)
+hatoka  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Ah, 4h ]
+Duyvo08 folds.
+Staecher calls (50)
+hatoka raises (100) to 200
+Staecher calls (100)
+** Dealing Flop ** :  [ Ac, 2d, Qc ]
+Staecher checks.
+hatoka bets (400)
+Staecher folds.
+** Summary **
+Main Pot: 400
+Board: [ Ac 2d Qc  ]
+
+Staecher balance 7860, lost 200 (folded)
+hatoka balance 5980, bet 600, collected 800, net +200
+Duyvo08 balance 6160, didn't bet (folded)
+
+***** Hand History for Game 5930351028 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33209283)  - Wed May 02 08:04:15 EDT 2007
+Table Table  126510 (Real Money) -- Seat 4 is the button
+Total number of players : 3
+Seat 4: Staecher (7860)
+Seat 6: hatoka (5980)
+Seat 7: Duyvo08 (6160)
+hatoka  posts small blind (50)
+Duyvo08  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 5c, 3d ]
+Staecher folds.
+hatoka folds.
+** Summary **
+Main Pot: 100
+
+Staecher balance 7860, didn't bet (folded)
+hatoka balance 5930, lost 50 (folded)
+Duyvo08 balance 6210, bet 100, collected 150, net +50
+
+***** Hand History for Game 5930351468 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33209283)  - Wed May 02 08:04:27 EDT 2007
+Table Table  126510 (Real Money) -- Seat 6 is the button
+Total number of players : 3
+Seat 4: Staecher (7860)
+Seat 6: hatoka (5930)
+Seat 7: Duyvo08 (6210)
+Duyvo08  posts small blind (50)
+Staecher  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Jh, 8s ]
+hatoka raises (200) to 200
+Duyvo08 folds.
+Staecher calls (100)
+** Dealing Flop ** :  [ 2s, 5c, Th ]
+Staecher bets (300)
+hatoka folds.
+** Summary **
+Main Pot: 450
+Board: [ 2s 5c Th  ]
+
+Staecher balance 8110, bet 500, collected 750, net +250
+hatoka balance 5730, lost 200 (folded)
+Duyvo08 balance 6160, lost 50 (folded)
+
+***** Hand History for Game 5930352453 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33209283)  - Wed May 02 08:04:57 EDT 2007
+Table Table  126510 (Real Money) -- Seat 7 is the button
+Total number of players : 3
+Seat 4: Staecher (8110)
+Seat 6: hatoka (5730)
+Seat 7: Duyvo08 (6160)
+Staecher  posts small blind (50)
+hatoka  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 2s, As ]
+Duyvo08 calls (100)
+Staecher calls (50)
+hatoka raises (200) to 300
+Duyvo08 calls (200)
+Staecher folds.
+** Dealing Flop ** :  [ 3s, 9s, Jc ]
+hatoka bets (500)
+Duyvo08 raises (1000) to 1000
+hatoka calls (500)
+** Dealing Turn ** :  [ 5c ]
+hatoka checks.
+Duyvo08 checks.
+** Dealing River ** :  [ Th ]
+hatoka checks.
+Duyvo08 checks.
+** Summary **
+Main Pot: 2700
+Board: [ 3s 9s Jc 5c Th  ]
+
+Staecher balance 8010, lost 100 (folded)
+hatoka balance 4430, lost 1300 [ 2s As ] [ high card Ace -- As,Jc,Th,9s,5c ]
+Duyvo08 balance 7560, bet 1300, collected 2700, net +1400 [ Ts Kh ] [ a pair of Tens -- Kh,Jc,Ts,Th,9s ]
+
+***** Hand History for Game 5930354375 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33209283)  - Wed May 02 08:05:53 EDT 2007
+Table Table  126510 (Real Money) -- Seat 4 is the button
+Total number of players : 3
+Seat 4: Staecher (8010)
+Seat 6: hatoka (4430)
+Seat 7: Duyvo08 (7560)
+hatoka  posts small blind (50)
+Duyvo08  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 9s, 3c ]
+Staecher folds.
+hatoka folds.
+** Summary **
+Main Pot: 100
+
+Staecher balance 8010, didn't bet (folded)
+hatoka balance 4380, lost 50 (folded)
+Duyvo08 balance 7610, bet 100, collected 150, net +50
+
+***** Hand History for Game 5930354934 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33209283)  - Wed May 02 08:06:10 EDT 2007
+Table Table  126510 (Real Money) -- Seat 6 is the button
+Total number of players : 3
+Seat 4: Staecher (8010)
+Seat 6: hatoka (4380)
+Seat 7: Duyvo08 (7610)
+Duyvo08  posts small blind (50)
+Staecher  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 5s, 6s ]
+hatoka raises (200) to 200
+Duyvo08 calls (150)
+Staecher folds.
+** Dealing Flop ** :  [ Qc, Th, 7s ]
+Duyvo08 bets (210)
+hatoka folds.
+** Summary **
+Main Pot: 500
+Board: [ Qc Th 7s  ]
+
+Staecher balance 7910, lost 100 (folded)
+hatoka balance 4180, lost 200 (folded)
+Duyvo08 balance 7910, bet 410, collected 710, net +300
+
+***** Hand History for Game 5930355959 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33209283)  - Wed May 02 08:06:42 EDT 2007
+Table Table  126510 (Real Money) -- Seat 7 is the button
+Total number of players : 3
+Seat 4: Staecher (7910)
+Seat 6: hatoka (4180)
+Seat 7: Duyvo08 (7910)
+Staecher  posts small blind (50)
+hatoka  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ 8s, 6s ]
+Duyvo08 folds.
+Staecher raises (250) to 300
+hatoka folds.
+** Summary **
+Main Pot: 200
+
+Staecher balance 8010, bet 300, collected 400, net +100
+hatoka balance 4080, lost 100 (folded)
+Duyvo08 balance 7910, didn't bet (folded)
+
+***** Hand History for Game 5930356778 *****
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33209283)  - Wed May 02 08:07:06 EDT 2007
+Table Table  126510 (Real Money) -- Seat 4 is the button
+Total number of players : 3
+Seat 4: Staecher (8010)
+Seat 6: hatoka (4080)
+Seat 7: Duyvo08 (7910)
+hatoka  posts small blind (50)
+Duyvo08  posts big blind (100)
+** Dealing down cards **
+Dealt to hatoka [ Td, 4h ]
+Staecher folds.
+hatoka raises (150) to 200
+Duyvo08 raises (200) to 300
+hatoka calls (100)
+** Dealing Flop ** :  [ 7h, Tc, 3c ]
+hatoka bets (500)
+Duyvo08 calls (500)
+** Dealing Turn ** :  [ 3d ]
+hatoka bets (700)
+Duyvo08 raises (7110) to 7110
+Duyvo08 is all-In.
+hatoka calls (2580)
+hatoka is all-In.
+** Dealing River ** :  [ 8d ]
+Creating Main Pot with $8160 with hatoka
+** Summary **
+Main Pot: 8160
+Board: [ 7h Tc 3c 3d 8d  ]
+
+Staecher balance 8010, didn't bet (folded)
+hatoka balance 0, lost 4080 [ Td 4h ] [ two pairs, Tens and Threes -- Td,Tc,8d,3c,3d ]
+Duyvo08 balance 11990, bet 7910, collected 11990, net +4080 [ Ah 3h ] [ three of a kind, Threes -- Ah,Tc,3h,3c,3d ]
+
+***** Hand History for Game 5930358696 *****
+hatoka finished in 3 place and won $10.
+100/200 Tourney Texas Hold'em Game Table (NL) (Tournament 33209283)  - Wed May 02 08:08:03 EDT 2007
+Table Table  126510 (Real Money) -- Seat 7 is the button
+Total number of players : 2
+Seat 4: Staecher (8010)
+Seat 7: Duyvo08 (11990)
+Duyvo08  posts small blind (50)
+Staecher  posts big blind (100)
+** Dealing down cards **
+Duyvo08 raises (150) to 200
+Staecher calls (100)
+** Dealing Flop ** :  [ 3d, Jd, Kd ]
+Staecher bets (400)
+Duyvo08 folds.
+** Summary **
+Main Pot: 400
+Board: [ 3d Jd Kd  ]
+
+Staecher balance 8210, bet 600, collected 800, net +200
+Duyvo08 balance 11790, lost 200 (folded)
+
+***** Hand History for Game 5930359467 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33209283)  - Wed May 02 08:08:26 EDT 2007
+Table Table  126510 (Real Money) -- Seat 4 is the button
+Total number of players : 2
+Seat 4: Staecher (8210)
+Seat 7: Duyvo08 (11790)
+Staecher  posts small blind (100)
+Duyvo08  posts big blind (200)
+** Dealing down cards **
+Staecher raises (700) to 800
+Duyvo08 raises (1200) to 1400
+Staecher calls (600)
+** Dealing Flop ** :  [ 4c, 2s, 6c ]
+Duyvo08 bets (10390)
+Duyvo08 is all-In.
+Staecher folds.
+Creating Main Pot with $2800 with Duyvo08
+** Summary **
+Main Pot: 2800
+Board: [ 4c 2s 6c  ]
+
+Staecher balance 6810, lost 1400 (folded)
+Duyvo08 balance 13190, bet 11790, collected 13190, net +1400
+
+***** Hand History for Game 5930360614 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33209283)  - Wed May 02 08:09:02 EDT 2007
+Table Table  126510 (Real Money) -- Seat 7 is the button
+Total number of players : 2
+Seat 4: Staecher (6810)
+Seat 7: Duyvo08 (13190)
+Duyvo08  posts small blind (100)
+Staecher  posts big blind (200)
+** Dealing down cards **
+Duyvo08 calls (100)
+Staecher checks.
+** Dealing Flop ** :  [ 8s, Td, Kh ]
+Staecher bets (500)
+Duyvo08 folds.
+** Summary **
+Main Pot: 400
+Board: [ 8s Td Kh  ]
+
+Staecher balance 7010, bet 700, collected 900, net +200
+Duyvo08 balance 12990, lost 200 (folded)
+
+***** Hand History for Game 5930361195 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33209283)  - Wed May 02 08:09:18 EDT 2007
+Table Table  126510 (Real Money) -- Seat 4 is the button
+Total number of players : 2
+Seat 4: Staecher (7010)
+Seat 7: Duyvo08 (12990)
+Staecher  posts small blind (100)
+Duyvo08  posts big blind (200)
+** Dealing down cards **
+Staecher raises (300) to 400
+Duyvo08 raises (400) to 600
+Staecher calls (200)
+** Dealing Flop ** :  [ 5s, Kd, Tc ]
+Duyvo08 checks.
+Staecher bets (800)
+Duyvo08 raises (1600) to 1600
+Staecher calls (800)
+** Dealing Turn ** :  [ 5h ]
+Duyvo08 bets (810)
+Staecher folds.
+** Summary **
+Main Pot: 4400
+Board: [ 5s Kd Tc 5h  ]
+
+Staecher balance 4810, lost 2200 (folded)
+Duyvo08 balance 15190, bet 3010, collected 5210, net +2200
+
+***** Hand History for Game 5930362480 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33209283)  - Wed May 02 08:09:58 EDT 2007
+Table Table  126510 (Real Money) -- Seat 7 is the button
+Total number of players : 2
+Seat 4: Staecher (4810)
+Seat 7: Duyvo08 (15190)
+Duyvo08  posts small blind (100)
+Staecher  posts big blind (200)
+** Dealing down cards **
+Duyvo08 calls (100)
+Staecher checks.
+** Dealing Flop ** :  [ 7s, 7h, Ah ]
+Staecher checks.
+Duyvo08 bets (200)
+Staecher folds.
+** Summary **
+Main Pot: 400
+Board: [ 7s 7h Ah  ]
+
+Staecher balance 4610, lost 200 (folded)
+Duyvo08 balance 15390, bet 400, collected 600, net +200 [ 9d 9c ] [ two pairs, Nines and Sevens -- Ah,9d,9c,7s,7h ]
+
+***** Hand History for Game 5930363157 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33209283)  - Wed May 02 08:10:17 EDT 2007
+Table Table  126510 (Real Money) -- Seat 4 is the button
+Total number of players : 2
+Seat 4: Staecher (4610)
+Seat 7: Duyvo08 (15390)
+Staecher  posts small blind (100)
+Duyvo08  posts big blind (200)
+** Dealing down cards **
+Staecher raises (300) to 400
+Duyvo08 raises (400) to 600
+Staecher raises (3810) to 4210
+Duyvo08 calls (3610)
+** Dealing Flop ** :  [ 8c, 3h, 8s ]
+Duyvo08 bets (400)
+Staecher calls (400)
+Staecher is all-In.
+** Dealing Turn ** :  [ 4c ]
+** Dealing River ** :  [ Ts ]
+Creating Main Pot with $9220 with Staecher
+** Summary **
+Main Pot: 9220
+Board: [ 8c 3h 8s 4c Ts  ]
+
+Staecher balance 9220, bet 4610, collected 9220, net +4610 [ As 6d ] [ a pair of Eights with Ace kicker -- As,Ts,8c,8s,6dAs(kicker card) ]
+Duyvo08 balance 10780, lost 4610 [ Kh Qs ] [ a pair of Eights -- Kh,Qs,Ts,8c,8s ]
+
+***** Hand History for Game 5930364147 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33209283)  - Wed May 02 08:10:48 EDT 2007
+Table Table  126510 (Real Money) -- Seat 7 is the button
+Total number of players : 2
+Seat 4: Staecher (9220)
+Seat 7: Duyvo08 (10780)
+Duyvo08  posts small blind (100)
+Staecher  posts big blind (200)
+** Dealing down cards **
+Duyvo08 raises (300) to 400
+Staecher folds.
+** Summary **
+Main Pot: 400
+
+Staecher balance 9020, lost 200 (folded)
+Duyvo08 balance 10980, bet 400, collected 600, net +200
+
+***** Hand History for Game 5930364581 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33209283)  - Wed May 02 08:11:01 EDT 2007
+Table Table  126510 (Real Money) -- Seat 4 is the button
+Total number of players : 2
+Seat 4: Staecher (9020)
+Seat 7: Duyvo08 (10980)
+Staecher  posts small blind (100)
+Duyvo08  posts big blind (200)
+** Dealing down cards **
+Staecher calls (100)
+Duyvo08 checks.
+** Dealing Flop ** :  [ Jh, Jd, 7c ]
+Duyvo08 checks.
+Staecher bets (400)
+Duyvo08 folds.
+** Summary **
+Main Pot: 400
+Board: [ Jh Jd 7c  ]
+
+Staecher balance 9220, bet 600, collected 800, net +200
+Duyvo08 balance 10780, lost 200 (folded)
+
+***** Hand History for Game 5930365453 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33209283)  - Wed May 02 08:11:26 EDT 2007
+Table Table  126510 (Real Money) -- Seat 7 is the button
+Total number of players : 2
+Seat 4: Staecher (9220)
+Seat 7: Duyvo08 (10780)
+Duyvo08  posts small blind (100)
+Staecher  posts big blind (200)
+** Dealing down cards **
+Duyvo08 calls (100)
+Staecher raises (800) to 1000
+Duyvo08 folds.
+** Summary **
+Main Pot: 400
+
+Staecher balance 9420, bet 1000, collected 1200, net +200
+Duyvo08 balance 10580, lost 200 (folded)
+
+***** Hand History for Game 5930366205 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33209283)  - Wed May 02 08:11:49 EDT 2007
+Table Table  126510 (Real Money) -- Seat 4 is the button
+Total number of players : 2
+Seat 4: Staecher (9420)
+Seat 7: Duyvo08 (10580)
+Staecher  posts small blind (100)
+Duyvo08  posts big blind (200)
+** Dealing down cards **
+Staecher folds.
+** Summary **
+Main Pot: 200
+
+Staecher balance 9320, lost 100 (folded)
+Duyvo08 balance 10680, bet 200, collected 300, net +100
+
+***** Hand History for Game 5930366564 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33209283)  - Wed May 02 08:12:00 EDT 2007
+Table Table  126510 (Real Money) -- Seat 7 is the button
+Total number of players : 2
+Seat 4: Staecher (9320)
+Seat 7: Duyvo08 (10680)
+Duyvo08  posts small blind (100)
+Staecher  posts big blind (200)
+** Dealing down cards **
+Duyvo08 calls (100)
+Staecher checks.
+** Dealing Flop ** :  [ 3s, 5h, 2h ]
+Staecher bets (400)
+Duyvo08 raises (800) to 800
+Staecher calls (400)
+** Dealing Turn ** :  [ 7c ]
+Staecher bets (200)
+Duyvo08 calls (200)
+** Dealing River ** :  [ Qd ]
+Staecher bets (200)
+Duyvo08 raises (2480) to 2480
+Staecher folds.
+** Summary **
+Main Pot: 2800
+Board: [ 3s 5h 2h 7c Qd  ]
+
+Staecher balance 7920, lost 1400 (folded)
+Duyvo08 balance 12080, bet 3680, collected 5080, net +1400
+
+***** Hand History for Game 5930368382 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33209283)  - Wed May 02 08:12:54 EDT 2007
+Table Table  126510 (Real Money) -- Seat 4 is the button
+Total number of players : 2
+Seat 4: Staecher (7920)
+Seat 7: Duyvo08 (12080)
+Staecher  posts small blind (100)
+Duyvo08  posts big blind (200)
+** Dealing down cards **
+Staecher calls (100)
+Duyvo08 checks.
+** Dealing Flop ** :  [ 6d, Jc, 5d ]
+Duyvo08 checks.
+Staecher checks.
+** Dealing Turn ** :  [ 5h ]
+Duyvo08 checks.
+Staecher checks.
+** Dealing River ** :  [ 2d ]
+Duyvo08 bets (880)
+Staecher folds.
+** Summary **
+Main Pot: 400
+Board: [ 6d Jc 5d 5h 2d  ]
+
+Staecher balance 7720, lost 200 (folded)
+Duyvo08 balance 12280, bet 1080, collected 1280, net +200
+
+***** Hand History for Game 5930369446 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33209283)  - Wed May 02 08:13:25 EDT 2007
+Table Table  126510 (Real Money) -- Seat 7 is the button
+Total number of players : 2
+Seat 4: Staecher (7720)
+Seat 7: Duyvo08 (12280)
+Duyvo08  posts small blind (100)
+Staecher  posts big blind (200)
+** Dealing down cards **
+Duyvo08 calls (100)
+Staecher checks.
+** Dealing Flop ** :  [ 3c, 9c, 3h ]
+Staecher checks.
+Duyvo08 bets (280)
+Staecher calls (280)
+** Dealing Turn ** :  [ Jh ]
+Staecher bets (200)
+Duyvo08 calls (200)
+** Dealing River ** :  [ 2h ]
+Staecher bets (1500)
+Duyvo08 folds.
+** Summary **
+Main Pot: 1360
+Board: [ 3c 9c 3h Jh 2h  ]
+
+Staecher balance 8400, bet 2180, collected 2860, net +680
+Duyvo08 balance 11600, lost 680 (folded)
+
+***** Hand History for Game 5930371139 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33209283)  - Wed May 02 08:14:15 EDT 2007
+Table Table  126510 (Real Money) -- Seat 4 is the button
+Total number of players : 2
+Seat 4: Staecher (8400)
+Seat 7: Duyvo08 (11600)
+Staecher  posts small blind (100)
+Duyvo08  posts big blind (200)
+** Dealing down cards **
+Staecher calls (100)
+Duyvo08 raises (200) to 400
+Staecher calls (200)
+** Dealing Flop ** :  [ 2h, 5h, 9c ]
+Duyvo08 bets (1200)
+Staecher folds.
+** Summary **
+Main Pot: 800
+Board: [ 2h 5h 9c  ]
+
+Staecher balance 8000, lost 400 (folded)
+Duyvo08 balance 12000, bet 1600, collected 2000, net +400
+
+***** Hand History for Game 5930371989 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33209283)  - Wed May 02 08:14:40 EDT 2007
+Table Table  126510 (Real Money) -- Seat 7 is the button
+Total number of players : 2
+Seat 4: Staecher (8000)
+Seat 7: Duyvo08 (12000)
+Duyvo08  posts small blind (100)
+Staecher  posts big blind (200)
+** Dealing down cards **
+Duyvo08 calls (100)
+Staecher raises (200) to 400
+Duyvo08 calls (200)
+** Dealing Flop ** :  [ 4h, 6d, 9s ]
+Staecher bets (900)
+Duyvo08 raises (11600) to 11600
+Duyvo08 is all-In.
+Staecher folds.
+Creating Main Pot with $2600 with Duyvo08
+** Summary **
+Main Pot: 2600
+Board: [ 4h 6d 9s  ]
+
+Staecher balance 6700, lost 1300 (folded)
+Duyvo08 balance 13300, bet 12000, collected 13300, net +1300
+
+***** Hand History for Game 5930373521 *****
+200/400 Tourney Texas Hold'em Game Table (NL) (Tournament 33209283)  - Wed May 02 08:15:27 EDT 2007
+Table Table  126510 (Real Money) -- Seat 4 is the button
+Total number of players : 2
+Seat 4: Staecher (6700)
+Seat 7: Duyvo08 (13300)
+Staecher  posts small blind (100)
+Duyvo08  posts big blind (200)
+** Dealing down cards **
+Staecher raises (300) to 400
+Duyvo08 raises (1000) to 1200
+Staecher raises (6300) to 6700
+Staecher is all-In.
+Duyvo08 calls (5500)
+** Dealing Flop ** :  [ Ts, Qs, 9c ]
+** Dealing Turn ** :  [ 9h ]
+** Dealing River ** :  [ Qc ]
+Creating Main Pot with $13400 with Staecher
+** Summary **
+Main Pot: 13400
+Board: [ Ts Qs 9c 9h Qc  ]
+
+Staecher balance 0, lost 6700 [ 7c 7s ] [ two pairs, Queens and Nines -- Qs,Qc,Ts,9c,9h ]
+Duyvo08 balance 20000, bet 6700, collected 13400, net +6700 [ Qd Ad ] [ a full house, Queens full of Nines -- Qd,Qs,Qc,9c,9h ]
+
+
+
