@@ -1,0 +1,13 @@
+<div *ngIf="selectedSeat === seat" class="gameSeat selectedSeat" >
+    <gameSeatCards [seat]="seat"></gameSeatCards>
+    <gameSeatCoins [seat]="seat"></gameSeatCoins>
+    <gameSeatState [seat]="seat"></gameSeatState>
+    <gameSeatRank  [seat]="seat"></gameSeatRank>
+    <gameSeatPlayer [seat]="seat"></gameSeatPlayer>
+</div>
+<div *ngIf="selectedSeat !== seat" class="gameSeat unselectedSeat" >
+    <gameSeatCards [seat]="seat"></gameSeatCards>
+    <gameSeatCoins [seat]="seat"></gameSeatCoins>
+    <gameSeatState [seat]="seat"></gameSeatState>
+    <gameSeatPlayer [seat]="seat"></gameSeatPlayer>
+</div>

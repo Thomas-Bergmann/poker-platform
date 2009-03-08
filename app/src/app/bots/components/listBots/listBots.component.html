@@ -1,0 +1,5 @@
+<cardBot *ngFor="let bot of bots"
+  [bot]="bot"
+  [selectedBot]="selectedBot"
+  (click)="select(bot)"
+></cardBot>

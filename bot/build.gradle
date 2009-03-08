@@ -1,0 +1,39 @@
+publishing {
+    publications {
+        mvn(MavenPublication) {
+            from components.java
+        }
+    }
+}
+
+dependencies {
+    implementation project(':common')
+    implementation project(':poker')
+
+    implementation 'org.apache.httpcomponents:httpclient'
+
+    implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
+    implementation 'org.springframework.boot:spring-boot-starter-web'
+    implementation 'org.springframework.boot:spring-boot-starter-security'
+
+    implementation 'javax.validation:validation-api'
+
+    runtimeOnly 'javax.xml.bind:jaxb-api'
+    runtimeOnly 'org.glassfish.jaxb:jaxb-runtime'
+    runtimeOnly 'javax.activation:javax.activation-api'
+    // logging, see logback.xml
+    runtimeOnly 'net.logstash.logback:logstash-logback-encoder'
+
+	//Test
+    testImplementation ('org.springframework.boot:spring-boot-starter-test') {
+        exclude group: 'com.vaadin.external.google', module: 'android-json'
+    }
+}
+
+task startPokerBot(type: JavaExec) {
+    group = "Execution"
+    description = "Start Poker Bot"
+    classpath = sourceSets.main.runtimeClasspath
+    main = "de.hatoka.poker.bot.PokerBot"
+    args 'http://tbergmann.localdev.intershop.de:8090/','bot:bot@d585020e-58fe-4c06-ac3a-9cd18bbc34f4','bot-key'
+}

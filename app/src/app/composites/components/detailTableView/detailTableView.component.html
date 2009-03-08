@@ -1,0 +1,28 @@
+<div class="outerbox">
+  <div class="header">Tables</div>
+  <div class="tables" *ngIf="tables">
+    <listTables
+      [tables]="tables"
+      [selectedTable]="selectedTable"
+      (selectTable)="onSelectTable($event)">
+    ></listTables>
+  </div>
+</div>
+<div class="outerbox" *ngIf="selectedTable">
+  <div class="header">Seats of {{selectedTable.name}}</div>
+  <div class="seats" *ngIf="seats">
+    <listSeats
+      [seats]="seats"
+      (selectSeat)="onSelectSeat($event)">
+    ></listSeats>
+    </div>
+</div>
+<div class="outerbox" *ngIf="selectedTable">
+  <div class="header">Add seat to {{selectedTable.name}}</div>
+  <div class="add_seat">
+    <addSeat
+      [table]="selectedTable"
+      [players]="players"
+    ></addSeat>
+  </div>
+</div>

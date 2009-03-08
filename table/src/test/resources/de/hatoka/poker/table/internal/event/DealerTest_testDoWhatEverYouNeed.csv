@@ -1,0 +1,2 @@
+event_type,event_data
+Start,"{""seats"":[""seat:0@table:DealerInfoTest"",""seat:1@table:DealerInfoTest""],""coins-on-seat"":{""seat:0@table:DealerInfoTest"":500,""seat:1@table:DealerInfoTest"":200},""button"":""seat:0@table:DealerInfoTest"",""deck"":""seed: 123456 index: 0 cards: 8c 4d 2h 3c Ad 8h Jc 7h Jh 6s Tc Qd 6c 4c Ts Qc 7s 7c Jd Qh Qs 2s 9c Ah 5c Kd Th As 9h 4h 5s 2c Ac 5h Kh 3d 8d 7d 9s Kc 6h 4s Td Ks 5d 6d 3s 2d 8s 3h Js 9d"",""pot"":""{\""coinsOfPlayer\"":{},\""sub-pods\"":[]}"",""blind-small"":5,""blind-big"":10}"

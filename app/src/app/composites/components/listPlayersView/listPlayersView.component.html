@@ -1,0 +1,9 @@
+<div class="outerbox">
+  <div class="header">Players</div>
+  <div class="players">
+    <listPlayers
+      [players$]="players$"
+      (selectPlayer)="onSelectPlayer($event)">
+    ></listPlayers>
+  </div>
+</div>

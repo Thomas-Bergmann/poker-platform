@@ -1,0 +1,5 @@
+<cardPlayer *ngFor="let player of players$ | async"
+  [player]="player"
+  [selectedPlayer]="selectedPlayer"
+  (click)="select(player)"
+></cardPlayer>

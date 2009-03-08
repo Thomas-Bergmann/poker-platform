@@ -1,0 +1,39 @@
+<div class="outerbox" *ngIf="selectedGame === undefined && selectedTable">
+  <div class="header">Table is quite</div>
+  <div class="seats">
+    <gameSeat *ngFor="let seat of seats"
+        [seat]="seat"
+    ></gameSeat>
+  </div>
+</div>
+<div class="outerbox" *ngIf="selectedGame && selectedTable">
+  <div class="header">Game #{{selectedGame.gameno}}@{{selectedTable.name}}</div>
+  <div class="play">
+    <div class="seats">
+      <gameSeat *ngFor="let seat of seats" [seat]="seat"
+        [selectedSeat]="selectedSeat"
+      ></gameSeat>
+    </div>
+    <div class="board">
+      <gameBoard [game]="selectedGame"></gameBoard>
+    </div>
+    <div class="gameActions">
+      <actionBoxGame *ngIf="selectedSeat !== undefined && selectedSeat.hasAction" [seat]="selectedSeat" 
+      (call)="onCall(selectedSeat)"
+      (check)="onCheck(selectedSeat)"
+      (fold)="onFold(selectedSeat)"
+      (raise)="onRaise($event)"
+      ></actionBoxGame>
+    </div>
+  </div>
+  <div class="actions">
+    <div class="tableActions">
+      <actionBoxTable *ngIf="selectedSeat" [seat]="selectedSeat"
+        (rebuy)="onRebuy(selectedSeat)"
+        (comeIn)="onComeIn(selectedSeat)"
+        (standUp)="onStandUp(selectedSeat)"
+        (leave)="onLeave(selectedSeat)"
+      ></actionBoxTable>
+    </div>
+  </div>
+</div>

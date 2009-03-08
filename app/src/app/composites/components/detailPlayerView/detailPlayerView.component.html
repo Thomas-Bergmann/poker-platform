@@ -1,0 +1,25 @@
+<div class="outerbox">
+  <div class="header">Players</div>
+  <div class="players">
+    <listPlayers
+      [players$]="players$"
+      (selectPlayer)="onSelectPlayer($event)">
+    ></listPlayers>
+  </div>
+</div>
+<div class="outerbox">
+  <div class="header">Bots</div>
+  <div class="bots" *ngIf="bots !== undefined">
+    <listBots
+      [bots]="bots"
+    ></listBots>
+  </div>
+</div>
+<div class="outerbox">
+  <div class="header">Add Bot</div>
+  <div class="bots" *ngIf="selectedPlayer !== undefined">
+    <addBot
+    [player]="selectedPlayer"
+    ></addBot>
+  </div>
+</div>

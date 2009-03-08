@@ -1,0 +1,10 @@
+rootProject.name = 'de.hatoka.poker'
+
+include "common"
+include "user"
+include "oidc"
+include "poker"
+include "player"
+include "table"
+include "service"
+include "bot"

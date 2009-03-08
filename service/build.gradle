@@ -1,0 +1,78 @@
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+        classpath "com.microsoft.sqlserver:mssql-jdbc:${versionMicrosoftSqlserverMssqlJdbc}"
+        classpath 'org.owasp:dependency-check-gradle:7.0.0'
+    }
+}
+plugins {
+    id 'org.springframework.boot' version '2.2.6.RELEASE'
+    id "org.flywaydb.flyway" version "8.0.5"
+    id 'war'
+}
+
+apply plugin: 'org.owasp.dependencycheck'
+
+ext {
+    bootMainClass = 'de.hatoka.poker.service.Application'
+}
+
+flyway {
+    url = 'jdbc:sqlserver://<database-server>;databaseName=<database-name>'
+    user = '<database-user>'
+    password = '<database-password>'
+}
+
+springBoot.mainClassName = ext.bootMainClass
+
+bootRun {
+	System.setProperty("spring.profiles.active", "production")
+    systemProperties System.properties
+}
+
+bootWar {
+    mainClassName "${bootMainClass}"
+    destinationDirectory = file("$rootDir/build/libs/webapps")
+    archiveFileName = 'ROOT.war'
+    rootSpec.exclude('**/application-development.properties')
+}
+
+dependencies {
+    implementation project(':common')
+    implementation project(':user')
+    implementation project(':oidc')
+    implementation project(':player')
+    implementation project(':table')
+
+    implementation 'org.springframework.boot:spring-boot-starter-web'
+    implementation 'org.springframework.boot:spring-boot-starter-security'
+    implementation 'org.springframework.boot:spring-boot-starter-actuator'
+
+    implementation 'com.jayway.jsonpath:json-path'
+    implementation 'org.springdoc:springdoc-openapi-ui'
+    implementation 'org.springdoc:springdoc-openapi-webmvc-core'
+    implementation 'ch.qos.logback:logback-classic'
+    implementation 'ch.qos.logback:logback-core'
+    implementation 'org.codehaus.janino:janino'
+
+    runtimeOnly 'io.micrometer:micrometer-core'
+    runtimeOnly 'io.micrometer:micrometer-registry-prometheus'
+    runtimeOnly 'org.springframework.boot:spring-boot-starter-tomcat'
+    runtimeOnly 'javax.xml.bind:jaxb-api'
+    runtimeOnly 'org.glassfish.jaxb:jaxb-runtime'
+    runtimeOnly 'javax.activation:javax.activation-api'
+    // logging, see logback.xml
+    runtimeOnly 'net.logstash.logback:logstash-logback-encoder'
+
+    //Database
+    runtimeOnly 'com.microsoft.sqlserver:mssql-jdbc'
+    runtimeOnly 'org.flywaydb:flyway-core'
+
+	//Test
+    testImplementation 'org.apache.commons:commons-lang3'
+    testRuntimeOnly 'com.h2database:h2'
+}
+
+apply from: 'docker.gradle'

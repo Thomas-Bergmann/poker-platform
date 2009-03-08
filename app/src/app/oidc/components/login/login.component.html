@@ -1,0 +1,10 @@
+<div class="outerbox">
+  <div class="header">Login or Register via Identity Providers</div>
+</div>
+<div class="outerbox">
+  <div class="oidc">
+    <div *ngFor="let identityProvider of identityProviders$ | async">
+      <identityProvider [identityProvider]="identityProvider"  (click)="_selectProvider(identityProvider)"></identityProvider>
+    </div>
+  </div>
+</div>

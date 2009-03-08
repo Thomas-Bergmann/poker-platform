@@ -1,0 +1,9 @@
+<div class="gameSeatState" *ngIf="!isOut">
+    <div class="hasAction" *ngIf="hasAction" title="has-action">&nbsp;</div>
+    <div class="isAllIn" *ngIf="isAllIn" title="player is all in">All-In</div>
+    <div class="onButton" *ngIf="onButton" title="is-button">&nbsp;</div>
+    <div class="isIn" *ngIf="isIn" title="is-in"></div>
+</div>
+<div class="gameSeatState" *ngIf="isOut">
+    <div class="isOut" *ngIf="isOut" title="player is out">&nbsp;</div>
+</div>

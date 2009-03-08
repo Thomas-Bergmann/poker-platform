@@ -1,0 +1,5 @@
+<cardSeat *ngFor="let seat of seats"
+  [seat]="seat"
+  [selectedSeat]="selectedSeat"
+  (click)="select(seat)"
+></cardSeat>

@@ -1,0 +1,10 @@
+<div class="addSeat">
+    <div class="flex">
+        <div class="box">
+            <selectPlayer [players]="players"
+            (selectedPlayer)="_selectPlayer($event)"
+            ></selectPlayer>
+            <br /><input type="submit" value="add" (click)="_addSeat()" />
+        </div>
+    </div>
+</div>

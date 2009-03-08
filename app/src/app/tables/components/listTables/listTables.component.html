@@ -1,0 +1,5 @@
+<cardTable *ngFor="let table of tables"
+  [table]="table"
+  [selectedTable]="selectedTable"
+  (click)="select(table)"
+></cardTable>

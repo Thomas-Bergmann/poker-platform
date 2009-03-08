@@ -1,0 +1,6 @@
+<div class="actionBoxTable">
+    <div class="botton" *ngIf="isOut" (click)="onComeIn()">Sit down</div>
+    <div class="botton" *ngIf="isIn" (click)="onRebuy()">Rebuy</div>
+    <div class="botton" *ngIf="isIn" (click)="onStandUp()">Stand up</div>
+    <div class="botton" (click)="onLeave()">Leave</div>
+</div>

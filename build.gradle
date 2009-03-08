@@ -1,0 +1,95 @@
+plugins {
+    id 'java-library'
+    id 'maven-publish'
+    id "io.spring.dependency-management" version "1.0.11.RELEASE"
+}
+
+allprojects {
+    group = 'de.hatoka.poker'
+    version = '1.0.0-LOCAL'
+
+    apply plugin: 'maven-publish'
+    apply plugin: 'jacoco'
+
+    sourceCompatibility = 17
+    targetCompatibility = 17
+
+    repositories { mavenCentral() }
+
+    jacoco { toolVersion = '0.8.8' }
+}
+
+subprojects {
+    apply plugin: 'java'
+
+    // need to exclude to avoid Class path containing multiple SLF4J bindings
+    configurations {
+        all.collect { configuration ->
+            configuration.exclude group: 'org.slf4j', module: 'slf4j-simple'
+        }
+    }
+
+    apply plugin: 'io.spring.dependency-management'
+    dependencies {
+        dependencyManagement {
+            imports { mavenBom("org.springframework.boot:spring-boot-dependencies:2.6.7") }
+            importedProperties['javax-jaxb.version']
+
+            dependencies {
+                dependency "org.springdoc:springdoc-openapi-ui:1.6.8"
+                dependency "org.springdoc:springdoc-openapi-webmvc-core:1.6.8"
+
+                // https://mvnrepository.com/artifact/com.nimbusds/nimbus-jose-jwt
+                dependency 'com.nimbusds:nimbus-jose-jwt:9.15.2'
+
+                dependency "net.logstash.logback:logstash-logback-encoder:7.2"
+
+                dependency 'org.apache.httpcomponents:httpclient:4.5.13'
+                dependency 'org.glassfish.jersey.core:jersey-client:2.37'
+                dependency 'org.glassfish.jersey.core:jersey-common:2.37'
+                dependency 'org.glassfish.jersey.inject:jersey-hk2:2.37'
+                dependency 'org.glassfish.jersey.media:jersey-media-json-jackson:2.37'
+                dependency 'org.json:json:20220320'
+                dependency 'javax.validation:validation-api:2.0.1.Final'
+                dependency 'jakarta.ws.rs:jakarta.ws.rs-api:2.1.6'
+            }
+        }
+    }
+
+    test {
+        useJUnitPlatform {
+            excludeEngines 'junit-vintage'
+        }
+    }
+
+    jacocoTestReport {
+        reports {
+            csv.required = false
+            xml.required = true
+            html.required = true
+            html.destination (new File("${buildDir}/reports/jacoco/html"))
+        }
+    }
+
+    jar {
+        manifest {
+            attributes 'Implementation-Title': name,
+                   'Implementation-Version': project.version
+        }
+    }
+}
+
+repositories {
+    mavenCentral()
+}
+
+// based on http://www.jroller.com/aalmiray/entry/gradle_glam_jacoco_coveralls
+task jacocoReport(type: org.gradle.testing.jacoco.tasks.JacocoReport) {
+    dependsOn = subprojects.jacocoTestReport
+    reports {
+        csv.required = false
+        xml.required = false
+        html.required = true
+        html.destination (new File("${buildDir}/reports/jacoco/html"))
+    }
+}

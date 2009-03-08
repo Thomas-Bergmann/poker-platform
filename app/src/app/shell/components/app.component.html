@@ -1,0 +1,11 @@
+<h1>HATOKA Poker</h1>
+<div class="navigation">
+  <nav>
+    <a routerLink="/tables" routerLinkActive="active">Tables</a>
+    <a routerLink="/players" routerLinkActive="active">Players</a>
+  </nav>
+</div>
+<div [@routeAnimation]="getAnimationData(routerOutlet)">
+  <router-outlet #routerOutlet="outlet"></router-outlet>
+</div>
+<router-outlet name="popup"></router-outlet>

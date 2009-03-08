@@ -1,0 +1,9 @@
+version: "3"
+services:
+  app:
+    hostname: hatoka-poker-app
+    image: "local/hatoka/poker-app:latest"
+    ports:
+      - "4200:80"
+    volumes:
+      - ./app/.config.json:/usr/share/nginx/html/assets/config/config.json

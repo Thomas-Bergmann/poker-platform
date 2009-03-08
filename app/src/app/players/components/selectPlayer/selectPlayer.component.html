@@ -1,0 +1,6 @@
+<select [(ngModel)]="selectedPlayer" (ngModelChange)="select($event)" >
+  <option value="">-- choose player --</option>
+  <option *ngFor="let player of players"
+    [ngValue]="player"
+>{{player.name}}</option>
+</select>

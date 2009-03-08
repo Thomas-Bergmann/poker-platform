@@ -1,0 +1,14 @@
+<div class="actionBoxGame">
+    <div class="fold" (click)="onFold()">Fold</div>
+    <div class="check" (click)="onCheck()"*ngIf="callSize == 0">Check</div>
+    <div class="call" (click)="onCall()" *ngIf="callSize > 0">Call <span>{{callSize}}</span></div>
+</div>
+<div class="actionBoxGame">
+    <div class="raise" (click)="onRaiseMin()" *ngIf="raiseMin < raiseAllIn">Min <span>{{raiseMin}}</span></div>
+    <div class="raise" (click)="onRaiseHalf()"*ngIf="raiseMin < raiseHalfPotSize && raiseHalfPotSize < raiseTwoThirdPotSize && raiseHalfPotSize < raiseAllIn">1/2 <span>{{raiseHalfPotSize}}</span></div>
+    <div class="raise" (click)="onRaiseTwoThird()" *ngIf="raiseMin < raiseTwoThirdPotSize && raiseTwoThirdPotSize < raisePotSize && raiseTwoThirdPotSize < raiseAllIn">2/3 <span>{{raiseTwoThirdPotSize}}</span></div>
+    <div class="raise" (click)="onRaisePot()" *ngIf="raisePotSize < raiseAllIn">Pot <span>{{raisePotSize}}</span></div>
+    <div class="raise" (click)="onRaiseToPotSize()" *ngIf="raiseToPotSize < raiseAllIn">Pot Size <span>{{raiseToPotSize}}</span></div>
+    <div class="raise" (click)="onRaiseToPotAll()" *ngIf="raiseToPotSize < raiseToPotAll && raiseToPotAll < raiseAllIn">Pot All <span>{{raiseToPotAll}}</span></div>
+    <div class="raise" (click)="onRaiseAllIn()">All-In <span>{{raiseAllIn}}</span></div>
+</div>

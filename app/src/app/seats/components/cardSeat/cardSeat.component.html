@@ -1,0 +1,8 @@
+<div class="cardSeat">
+    <div class="flex">
+        <div class="name">{{ seat.name }}</div>
+        <div class="selectedSeat" *ngIf="seat == selectedSeat" title="selected">&nbsp;</div>
+        <div class="isOut" *ngIf="isOut" title="is-out">&nbsp;</div>
+        <div class="isIn" *ngIf="isIn" title="is-in">&nbsp;</div>
+    </div>
+</div>
