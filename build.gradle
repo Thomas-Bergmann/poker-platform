@@ -36,8 +36,8 @@ subprojects {
             importedProperties['javax-jaxb.version']
 
             dependencies {
-                dependency "org.springdoc:springdoc-openapi-ui:1.6.8"
-                dependency "org.springdoc:springdoc-openapi-webmvc-core:1.6.8"
+                dependency "org.springdoc:springdoc-openapi-ui:${versionSpringDoc}"
+                dependency "org.springdoc:springdoc-openapi-webmvc-core:${versionSpringDoc}"
 
                 // https://mvnrepository.com/artifact/com.nimbusds/nimbus-jose-jwt
                 dependency 'com.nimbusds:nimbus-jose-jwt:9.15.2'
@@ -45,13 +45,16 @@ subprojects {
                 dependency "net.logstash.logback:logstash-logback-encoder:7.2"
 
                 dependency 'org.apache.httpcomponents:httpclient:4.5.13'
-                dependency 'org.glassfish.jersey.core:jersey-client:2.37'
-                dependency 'org.glassfish.jersey.core:jersey-common:2.39'
-                dependency 'org.glassfish.jersey.inject:jersey-hk2:2.37'
-                dependency 'org.glassfish.jersey.media:jersey-media-json-jackson:2.37'
+                dependency "org.glassfish.jersey.core:jersey-client:${versionGlassfishJersey}"
+                dependency "org.glassfish.jersey.core:jersey-common:${versionGlassfishJersey}"
+                dependency "org.glassfish.jersey.inject:jersey-hk2:${versionGlassfishJersey}"
+                dependency "org.glassfish.jersey.media:jersey-media-json-jackson:${versionGlassfishJersey}"
                 dependency 'org.json:json:20220320'
                 dependency 'javax.validation:validation-api:2.0.1.Final'
                 dependency 'jakarta.ws.rs:jakarta.ws.rs-api:2.1.6'
+
+                dependency 'org.flywaydb:flyway-core:8.0.5'
+                dependency "com.microsoft.sqlserver:mssql-jdbc:${versionMicrosoftSqlserverMssqlJdbc}"
             }
         }
     }
