@@ -1,8 +1,21 @@
 # Poker Platform #
 
-This poker platform allows to play poker with humans or bots.
-You can play as human or can write a bot, which uses the service to get information about the game.
+Have you ever played poker at an online casino and have ask you
 
+## Could I write a bot who plays poker? ##
+and
+## How well will such a bot play, against humans or other bots? ##
+
+This poker platform allows to play poker with humans or bots to improve your skills at poker and programming.
+
+You can play as human or can write a bot, the service brings both together and holds all necessary information about the game.
+
+# Hosting #
+The service can and will be hosted if that makes any sense in the future.
+The bots will be hosted by your self or runs on your local machine.
+
+# Collaboration #
+If you are interested to push that project or have any questions, please create a ticket or pick one.
 ## Poker Service ##
 
 The service:
@@ -17,15 +30,16 @@ All played games will be stored and are reproducable. This includes:
 
 ## Poker App ##
 
-The App allows human to interact with the service.
+The App allows humans to interact with the service.
 
 The App:
 * allows to login via previously registered OIDC providers
 * can create bot accounts
+* allows to play poker
 
 ## Poker Bot ##
 
-An initial bot implementation shows how to interact with the service. The bot interacts with the REST API as well, so implementations are not limited to that example.
+An initial bot implementation shows how to interact with the service. The bot interacts with the REST API as well as the App, so implementations are not limited to that example. Have a look to the sub-project "bot". For sure, you can create your own bot in your github repo or somewhere else.
 
 # Structure of Project #
 
