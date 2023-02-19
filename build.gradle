@@ -32,7 +32,7 @@ subprojects {
     apply plugin: 'io.spring.dependency-management'
     dependencies {
         dependencyManagement {
-            imports { mavenBom("org.springframework.boot:spring-boot-dependencies:2.6.7") }
+            imports { mavenBom("org.springframework.boot:spring-boot-dependencies:2.7.8") }
             importedProperties['javax-jaxb.version']
 
             dependencies {
