@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "cloud-tenant": {
+    "poker-app": {
       "projectType": "application",
       "schematics": {
         "@schematics/angular:component": {
@@ -20,7 +20,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/cloud-tenant",
+            "outputPath": "dist/poker-app",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
@@ -68,18 +68,18 @@
         "serve": {
           "builder": "@angular-devkit/build-angular:dev-server",
           "options": {
-            "browserTarget": "cloud-tenant:build"
+            "browserTarget": "poker-app:build"
           },
           "configurations": {
             "production": {
-              "browserTarget": "cloud-tenant:build:production"
+              "browserTarget": "poker-app:build:production"
             }
           }
         },
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "cloud-tenant:build"
+            "browserTarget": "poker-app:build"
           }
         },
         "test": {
@@ -116,11 +116,11 @@
           "builder": "@angular-devkit/build-angular:protractor",
           "options": {
             "protractorConfig": "e2e/protractor.conf.js",
-            "devServerTarget": "cloud-tenant:serve"
+            "devServerTarget": "poker-app:serve"
           },
           "configurations": {
             "production": {
-              "devServerTarget": "cloud-tenant:serve:production"
+              "devServerTarget": "poker-app:serve:production"
             }
           }
         }
