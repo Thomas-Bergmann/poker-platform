@@ -22,6 +22,9 @@ public class PokerStrategyImpl implements PokerStrategy
 {
     @Autowired
     private RemotePlayerFactory remotePlayerFactory;
+    @Autowired
+    private PokerStrategyFactory strategyFactory;
+
     private final PokerServiceClient client;
 
     public PokerStrategyImpl(PokerServiceClient client)
@@ -50,8 +53,14 @@ public class PokerStrategyImpl implements PokerStrategy
                 if (remotePlayer.hasAction())
                 {
                     LoggerFactory.getLogger(getClass()).debug("bot has action.");
-                    remotePlayer.call();
-                    LoggerFactory.getLogger(getClass()).info("bot has called.");
+                    if (game.getInfo().getBoardCards().isEmpty())
+                    {
+                        strategyFactory.createFirstRoundStategy(remotePlayer).run();
+                    }
+                    else
+                    {
+                        remotePlayer.call();
+                    }
                 }
                 else
                 {
