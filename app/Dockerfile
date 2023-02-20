@@ -1,6 +1,6 @@
 ARG VERSION_APP=latest
 
-FROM node:12-alpine as builder
+FROM node:18-alpine as builder
 RUN npm install -g @angular/cli
 
 # dependencies of app-project
