@@ -49,4 +49,10 @@ public class RestControllerErrorSupport
         String logMessage = "error-key: " + errorKey + " " + errorMessage;
         throw new RestControllerException(HttpStatus.INTERNAL_SERVER_ERROR, logMessage);
     }
+
+    public void throwUnauthorizedException(String errorKey, String errorMessage)
+    {
+        String logMessage = "error-key: " + errorKey + " " + errorMessage;
+        throw new RestControllerException(HttpStatus.UNAUTHORIZED, logMessage);
+    }
 }
