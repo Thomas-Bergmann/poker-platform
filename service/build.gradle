@@ -8,16 +8,12 @@ buildscript {
     }
 }
 plugins {
-    id 'org.springframework.boot' version '2.2.6.RELEASE'
+    id 'org.springframework.boot' version '2.7.9'
     id "org.flywaydb.flyway" version "8.0.5"
     id 'war'
 }
 
 apply plugin: 'org.owasp.dependencycheck'
-
-ext {
-    bootMainClass = 'de.hatoka.poker.service.Application'
-}
 
 flyway {
     url = 'jdbc:sqlserver://<database-server>;databaseName=<database-name>'
@@ -25,7 +21,7 @@ flyway {
     password = '<database-password>'
 }
 
-springBoot.mainClassName = ext.bootMainClass
+springBoot.mainClass = 'de.hatoka.poker.service.Application'
 
 bootRun {
 	System.setProperty("spring.profiles.active", "production")
@@ -33,7 +29,6 @@ bootRun {
 }
 
 bootWar {
-    mainClassName "${bootMainClass}"
     destinationDirectory = file("$rootDir/build/libs/webapps")
     archiveFileName = 'ROOT.war'
     rootSpec.exclude('**/application-development.properties')
