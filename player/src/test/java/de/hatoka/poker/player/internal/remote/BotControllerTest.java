@@ -23,8 +23,8 @@ import org.springframework.test.context.junit.jupiter.SpringExtension;
 import de.hatoka.common.capi.rest.test.TestSecurityConfiguration;
 import de.hatoka.poker.player.capi.business.PlayerBORepository;
 import de.hatoka.poker.player.capi.business.PlayerRef;
+import de.hatoka.poker.player.capi.remote.BotRO;
 import de.hatoka.poker.player.capi.remote.PlayerDataRO;
-import de.hatoka.poker.player.capi.remote.PlayerRO;
 import de.hatoka.user.capi.business.UserRef;
 import tests.de.hatoka.poker.player.PlayerTestApplication;
 import tests.de.hatoka.poker.player.PlayerTestConfiguration;
@@ -62,10 +62,12 @@ public class BotControllerTest
     {
         putBot(PLAYER_REF1);
 
-        PlayerRO ro = getPlayer(PLAYER_REF1);
+        BotRO ro = getBot(PLAYER_REF1);
         assertNotNull(ro, "bot created and found");
+        assertNotNull(ro.getData(), "bot contains data");
         assertNotNull(ro.getInfo(), "bot contains info");
-        assertEquals("name-1", ro.getInfo().getNickName());
+        assertEquals("name-1", ro.getData().getNickName());
+        assertNotNull(ro.getData().getApiKey(), "bot contains api key");
         deleteBot(PLAYER_REF1);
     }
 
@@ -75,17 +77,17 @@ public class BotControllerTest
         putBot(PLAYER_REF1);
         putBot(PLAYER_REF2);
 
-        List<PlayerRO> bots = getBots();
+        List<BotRO> bots = getBots();
         assertEquals(2, bots.size());
         deleteBot(PLAYER_REF1);
         deleteBot(PLAYER_REF2);
     }
 
-    private List<PlayerRO> getBots()
+    private List<BotRO> getBots()
     {
         Map<String, String> urlParams = new HashMap<>();
         urlParams.put(BotController.PATH_VAR_PLAYERID, OWNER_REF.getLocalRef());
-        return Arrays.asList(this.restTemplate.getForObject(BotController.PATH_ROOT, PlayerRO[].class, urlParams));
+        return Arrays.asList(this.restTemplate.getForObject(BotController.PATH_ROOT, BotRO[].class, urlParams));
     }
 
     private Map<String, String> createURIParameter(PlayerRef ref)
@@ -96,9 +98,9 @@ public class BotControllerTest
         return urlParams;
     }
 
-    private PlayerRO getPlayer(PlayerRef ref)
+    private BotRO getBot(PlayerRef ref)
     {
-        return this.restTemplate.getForObject(BotController.PATH_BOT, PlayerRO.class, createURIParameter(ref));
+        return this.restTemplate.getForObject(BotController.PATH_BOT, BotRO.class, createURIParameter(ref));
     }
 
     private void putBot(PlayerRef ref)

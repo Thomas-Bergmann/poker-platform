@@ -40,7 +40,7 @@ task prepareDockerFile(type: Dockerfile) {
     description "Preares the Dockerfile."
 
     destFile = new File(dockerDir, 'Dockerfile')
-    from 'eclipse-temurin:17.0.3_7-jre'
+    from 'eclipse-temurin:17.0.4.1_1-jre'
 
     //@deprecated
     environmentVariable "SPRING_PROFILES_ACTIVE", "production"

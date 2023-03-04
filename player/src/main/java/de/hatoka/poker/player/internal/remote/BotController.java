@@ -20,8 +20,8 @@ import de.hatoka.common.capi.rest.RestControllerErrorSupport;
 import de.hatoka.poker.player.capi.business.PlayerBO;
 import de.hatoka.poker.player.capi.business.PlayerBORepository;
 import de.hatoka.poker.player.capi.business.PlayerRef;
-import de.hatoka.poker.player.capi.remote.PlayerDataRO;
-import de.hatoka.poker.player.capi.remote.PlayerRO;
+import de.hatoka.poker.player.capi.remote.BotDataRO;
+import de.hatoka.poker.player.capi.remote.BotRO;
 import de.hatoka.user.capi.business.UserRef;
 
 @RestController
@@ -37,22 +37,22 @@ public class BotController
     @Autowired
     private PlayerBORepository playerRepository;
     @Autowired
-    private PlayerBO2RO playerBO2RO;
+    private PlayerBO2BotRO playerBO2BotRO;
 
     @Autowired
     private RestControllerErrorSupport errorSupport;
 
     @ResponseStatus(HttpStatus.OK)
     @GetMapping
-    public List<PlayerRO> getBots(@PathVariable(PATH_VAR_PLAYERID) String playerID)
+    public List<BotRO> getBots(@PathVariable(PATH_VAR_PLAYERID) String playerID)
     {
         PlayerRef playerRef = PlayerRef.humanRef(playerID);
-        return playerBO2RO.apply(playerRepository.getBots(playerRef.getUserRef()));
+        return playerBO2BotRO.apply(playerRepository.getBots(playerRef.getUserRef()));
     }
 
     @PutMapping(value = PATH_SUB_BOT, consumes = { APPLICATION_JSON_VALUE })
     @ResponseStatus(HttpStatus.CREATED)
-    public void createBot(@PathVariable(PATH_VAR_PLAYERID) String playerID, @PathVariable(PATH_VAR_BOTID) String botID, @RequestBody PlayerDataRO input)
+    public void createBot(@PathVariable(PATH_VAR_PLAYERID) String playerID, @PathVariable(PATH_VAR_BOTID) String botID, @RequestBody BotDataRO input)
     {
         PlayerRef playerRef = PlayerRef.botRef(playerID, botID);
         Optional<PlayerBO> playerOpt = playerRepository.findPlayer(playerRef);
@@ -66,7 +66,7 @@ public class BotController
 
     @GetMapping(PATH_SUB_BOT)
     @ResponseStatus(HttpStatus.OK)
-    public PlayerRO getBot(@PathVariable(PATH_VAR_PLAYERID) String playerID, @PathVariable(PATH_VAR_BOTID) String botID)
+    public BotRO getBot(@PathVariable(PATH_VAR_PLAYERID) String playerID, @PathVariable(PATH_VAR_BOTID) String botID)
     {
         PlayerRef playerRef = PlayerRef.botRef(playerID, botID);
         Optional<PlayerBO> playerOpt = playerRepository.findPlayer(playerRef);
@@ -74,7 +74,7 @@ public class BotController
         {
             errorSupport.throwNotFoundException("notfound.player", playerRef.toString());
         }
-        return playerBO2RO.apply(playerOpt.get());
+        return playerBO2BotRO.apply(playerOpt.get());
     }
 
     @DeleteMapping(PATH_SUB_BOT)

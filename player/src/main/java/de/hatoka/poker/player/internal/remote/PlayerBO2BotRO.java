@@ -7,23 +7,24 @@ import java.util.stream.Collectors;
 import org.springframework.stereotype.Component;
 
 import de.hatoka.poker.player.capi.business.PlayerBO;
-import de.hatoka.poker.player.capi.remote.PlayerDataRO;
-import de.hatoka.poker.player.capi.remote.PlayerInfoRO;
-import de.hatoka.poker.player.capi.remote.PlayerRO;
+import de.hatoka.poker.player.capi.remote.BotDataRO;
+import de.hatoka.poker.player.capi.remote.BotInfoRO;
+import de.hatoka.poker.player.capi.remote.BotRO;
 
 @Component
-public class PlayerBO2RO
+public class PlayerBO2BotRO
 {
-    public PlayerRO apply(PlayerBO player)
+    public BotRO apply(PlayerBO player)
     {
-        PlayerDataRO data = new PlayerDataRO();
+        BotDataRO data = new BotDataRO();
         data.setOwnerRef(player.getOwnerRef().getGlobalRef());
         data.setNickName(player.getNickName());
+        data.setApiKey(player.getApiKey());
 
-        PlayerInfoRO info = new PlayerInfoRO();
+        BotInfoRO info = new BotInfoRO();
         info.setBalance(player.getBalance());
 
-        PlayerRO result = new PlayerRO();
+        BotRO result = new BotRO();
         result.setRefGlobal(player.getRef().getGlobalRef());
         result.setRefLocal(player.getRef().getLocalRef());
         result.setData(data);
@@ -31,8 +32,8 @@ public class PlayerBO2RO
         return result;
     }
 
-    public List<PlayerRO> apply(Collection<PlayerBO> projects)
+    public List<BotRO> apply(Collection<PlayerBO> bots)
     {
-        return projects.stream().map(this::apply).collect(Collectors.toList());
+        return bots.stream().map(this::apply).collect(Collectors.toList());
     }
 }

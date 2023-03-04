@@ -3,6 +3,7 @@ package de.hatoka.poker.player.internal.business;
 import java.util.Collection;
 import java.util.List;
 import java.util.Optional;
+import java.util.UUID;
 import java.util.stream.Collectors;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -51,6 +52,7 @@ public class PlayerBORepositoryImpl implements PlayerBORepository
         po.setNickName(botName);
         po.setType(PlayerType.COMPUTE.name());
         po.setUserRef(userRef.getGlobalRef());
+        po.setApiKey(UUID.randomUUID().toString());
         return playerBOFactory.get(playerDao.save(po));
     }
 
