@@ -6,17 +6,11 @@ import { Player } from 'src/app/players/store';
 import { ApiService } from 'src/app/core/service';
 
 export class PlayerDataRO {
+  'nick-name' : string = "";
   'owner-ref' : string = "";
-  init(player : Player)
-  {
-    this['owner-ref'] = player.ownerRef;
-    return this;
-  }
 }
 interface PlayerInfoRO {
-  'nick-name' : string;
   balance : number;
-  type: string;
 }
 
 interface PlayerRO {
@@ -44,5 +38,5 @@ export class PlayerService {
 
 function convertPlayerRO(ro : PlayerRO): Player
 {
-  return new Player().init(ro.refGlobal, ro.refLocal, ro.data['owner-ref'], ro.info['nick-name']);
+  return new Player().init(ro.refGlobal, ro.refLocal, ro.data['owner-ref'], ro.data['nick-name']);
 }

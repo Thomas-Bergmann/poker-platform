@@ -30,15 +30,20 @@ public class PlayerPO implements Serializable
     @Column(name = "name_nick", nullable = false)
     private String nickname;
 
+    @NotNull
     @Column(name = "balance", nullable = false)
     private int balance = 0;
 
+    @NotNull
     @Column(name = "type", nullable = false)
     private String type;
 
     @NotNull
     @Column(name = "owner_ref", nullable = false)
     private String userref;
+
+    @Column(name = "api_key", nullable = true)
+    private String apiKey;
 
     public PlayerPO()
     {
@@ -106,5 +111,15 @@ public class PlayerPO implements Serializable
     public void setUserRef(String userRef)
     {
         this.userref = userRef;
+    }
+
+    public String getApiKey()
+    {
+        return apiKey;
+    }
+
+    public void setApiKey(String apiKey)
+    {
+        this.apiKey = apiKey;
     }
 }

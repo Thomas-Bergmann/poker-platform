@@ -1,5 +1,7 @@
 package de.hatoka.poker.player.internal.business;
 
+import java.util.UUID;
+
 import javax.transaction.Transactional;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -129,6 +131,23 @@ public class PlayerBOImpl implements PlayerBO
     {
         playerPO.setNickName(nickName);
         savePO();
+    }
+
+    @Override
+    public String getApiKey()
+    {
+        checkAPIKey();
+        return playerPO.getApiKey();
+    }
+
+    private void checkAPIKey()
+    {
+        String key = playerPO.getApiKey();
+        if (key == null || key.isBlank())
+        {
+            playerPO.setApiKey(UUID.randomUUID().toString());
+            savePO();
+        }
     }
 }
 

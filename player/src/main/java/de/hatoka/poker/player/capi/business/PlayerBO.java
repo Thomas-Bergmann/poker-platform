@@ -63,4 +63,9 @@ public interface PlayerBO
      * @param coins
      */
     void moveCoinsFromSeatToPlayer(String globalRef, int coins);
+
+    /**
+     * @return api key for bot
+     */
+    String getApiKey();
 }

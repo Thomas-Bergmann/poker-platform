@@ -4,7 +4,7 @@ import javax.validation.constraints.NotNull;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 
-public class PlayerInfoRO
+public class BotInfoRO
 {
     @JsonProperty("balance")
     @NotNull
