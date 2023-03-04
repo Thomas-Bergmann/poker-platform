@@ -3,11 +3,12 @@ name: Build App
 on:
   push:
     branches:
-      - 'feature/app/*'
-      - 'main'
-    pull_request:
-      branches:
-      - 'main'
+    - 'feature/build/*'
+    - 'feature/app/*'
+    - 'main'
+  pull_request:
+    branches:
+    - 'main'
 
 env:
   NODE_VERSION: 18.14.1
