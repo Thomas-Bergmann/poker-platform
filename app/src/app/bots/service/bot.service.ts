@@ -6,17 +6,19 @@ import { Bot } from 'src/app/bots/store';
 import { ApiService } from 'src/app/core/service';
 
 export class BotDataRO {
+  'nick-name' : string = "";
   'owner-ref' : string = "";
+  'api-key' : string = "";
   init(bot : Bot)
   {
     this['owner-ref'] = bot.ownerRef;
+    this['nick-name'] = bot.name;
+    this['api-key'] = bot.apiKey;
     return this;
   }
 }
 interface BotInfoRO {
-  'nick-name' : string;
   balance : number;
-  type: string;
 }
 
 interface BotRO {
@@ -65,5 +67,5 @@ export class BotService {
 
 function convertBotRO(ro : BotRO): Bot
 {
-  return new Bot().init(ro.refGlobal, ro.refLocal, ro.data['owner-ref'], ro.info['nick-name'], ro.info.type);
+  return new Bot().init(ro.refGlobal, ro.refLocal, ro.data['owner-ref'], ro.data['nick-name'], ro.data['api-key']);
 }
