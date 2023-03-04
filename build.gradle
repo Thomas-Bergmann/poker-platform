@@ -52,6 +52,7 @@ subprojects {
                 dependency 'org.json:json:20220320'
                 dependency 'javax.validation:validation-api:2.0.1.Final'
                 dependency 'jakarta.ws.rs:jakarta.ws.rs-api:2.1.6'
+                dependency 'io.jsonwebtoken:jjwt:0.9.1'
 
                 dependency 'org.flywaydb:flyway-core:8.0.5'
                 dependency "com.microsoft.sqlserver:mssql-jdbc:${versionMicrosoftSqlserverMssqlJdbc}"

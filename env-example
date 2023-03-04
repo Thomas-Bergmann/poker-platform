@@ -1,0 +1,5 @@
+#configure your db properties here
+DATASOURCE_URL=jdbc:sqlserver://localhost:1433;database=db;user=user;password=secret;encrypt=true;trustServerCertificate=true
+ALLOW_CORS_ORIGINS=http://localhost:4200
+OIDC_IDENTITY_PROVIDER_TOKEN=secret
+JWT_SECRET=secret
