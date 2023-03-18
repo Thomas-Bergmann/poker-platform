@@ -1,4 +1,4 @@
-package de.hatoka.poker.player.internal.remote;
+package de.hatoka.poker.security;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertNotEquals;
@@ -27,12 +27,12 @@ import de.hatoka.poker.remote.OAuthBotAuthenticationRO;
 import de.hatoka.poker.remote.OAuthRefreshRO;
 import de.hatoka.poker.remote.OAuthTokenResponse;
 import de.hatoka.user.capi.business.UserRef;
-import tests.de.hatoka.poker.player.PlayerTestApplication;
-import tests.de.hatoka.poker.player.PlayerTestConfiguration;
+import tests.de.hatoka.poker.security.SecurityTestApplication;
+import tests.de.hatoka.poker.security.SecurityTestConfiguration;
 
 @ExtendWith(SpringExtension.class)
-@SpringBootTest(classes = { PlayerTestApplication.class }, webEnvironment = WebEnvironment.RANDOM_PORT)
-@ContextConfiguration(classes = { PlayerTestConfiguration.class, TestSecurityConfiguration.class })
+@SpringBootTest(classes = { SecurityTestApplication.class }, webEnvironment = WebEnvironment.RANDOM_PORT)
+@ContextConfiguration(classes = { SecurityTestConfiguration.class, TestSecurityConfiguration.class })
 @ActiveProfiles("test")
 public class BotTokenControllerTest
 {

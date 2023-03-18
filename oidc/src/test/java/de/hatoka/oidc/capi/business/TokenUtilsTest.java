@@ -11,9 +11,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit.jupiter.SpringExtension;
 
-import de.hatoka.oidc.capi.business.TokenUsage;
-import de.hatoka.oidc.capi.business.TokenUtils;
-import de.hatoka.oidc.internal.remote.IdentityProviderTokenResponse;
+import de.hatoka.oidc.capi.remote.TokenResponse;
 import tests.de.hatoka.oidc.OidcTestConfiguration;
 
 @ExtendWith(SpringExtension.class)
@@ -28,7 +26,7 @@ class TokenUtilsTest
     @Test
     void testCreateTokenForSubject()
     {
-        IdentityProviderTokenResponse tokenReponse = underTest.createTokenForSubject(SUBJECT);
+        TokenResponse tokenReponse = underTest.createTokenForSubject(SUBJECT);
         String accessToken = tokenReponse.getAccessToken();
         assertEquals(TOKEN_PREFIX, accessToken.substring(0, 2));
         assertTrue(underTest.isTokenValid(accessToken, TokenUsage.access, SUBJECT, Collections.emptyMap()));
@@ -37,9 +35,9 @@ class TokenUtilsTest
     @Test
     void testCreateTokenFromRefreshToken() throws InterruptedException
     {
-        IdentityProviderTokenResponse tokenResponse = underTest.createTokenForSubject(SUBJECT);
+        TokenResponse tokenResponse = underTest.createTokenForSubject(SUBJECT);
         Thread.sleep(1200);
-        IdentityProviderTokenResponse refreshResponse = underTest.createTokenFromRefreshToken(tokenResponse.getRefreshToken());
+        TokenResponse refreshResponse = underTest.createTokenFromRefreshToken(tokenResponse.getRefreshToken());
         assertTrue(underTest.isTokenValid(refreshResponse.getAccessToken(), TokenUsage.access, SUBJECT, Collections.emptyMap()));
         assertEquals(underTest.getAuthenticatedAt(tokenResponse.getAccessToken()), underTest.getAuthenticatedAt(refreshResponse.getAccessToken()));
     }

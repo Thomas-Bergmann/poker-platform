@@ -1,4 +1,4 @@
-package de.hatoka.poker.player.internal.remote;
+package de.hatoka.poker.security;
 
 import static org.springframework.util.MimeTypeUtils.APPLICATION_JSON_VALUE;
 
@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import de.hatoka.common.capi.rest.RestControllerErrorSupport;
 import de.hatoka.oidc.capi.business.TokenUtils;
-import de.hatoka.oidc.internal.remote.IdentityProviderTokenResponse;
+import de.hatoka.oidc.capi.remote.TokenResponse;
 import de.hatoka.poker.player.capi.business.PlayerBO;
 import de.hatoka.poker.player.capi.business.PlayerBORepository;
 import de.hatoka.poker.player.capi.business.PlayerRef;
@@ -38,7 +38,7 @@ public class BotTokenController
 
     @PostMapping(value = PATH_SUB_BOT_TOKEN, consumes = { APPLICATION_JSON_VALUE })
     @ResponseStatus(HttpStatus.OK)
-    public IdentityProviderTokenResponse createTokenForBot(@RequestBody OAuthBotAuthenticationRO input)
+    public TokenResponse createTokenForBot(@RequestBody OAuthBotAuthenticationRO input)
     {
         PlayerRef playerRef = PlayerRef.globalRef(input.getBotRef());
         Optional<PlayerBO> playerOpt = playerRepository.findPlayer(playerRef);
@@ -56,7 +56,7 @@ public class BotTokenController
 
     @PostMapping(value = PATH_SUB_BOT_REFRESH, consumes = { APPLICATION_JSON_VALUE })
     @ResponseStatus(HttpStatus.OK)
-    public IdentityProviderTokenResponse createTokenFromRefresh(@RequestBody OAuthRefreshRO input)
+    public TokenResponse createTokenFromRefresh(@RequestBody OAuthRefreshRO input)
     {
         return tokenUtils.createTokenFromRefreshToken(input.getRefreshToken());
     }
