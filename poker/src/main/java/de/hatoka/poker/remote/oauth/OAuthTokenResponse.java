@@ -1,33 +1,28 @@
-package de.hatoka.oidc.capi.remote;
+package de.hatoka.poker.remote.oauth;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 
-/**
- * TokenResponse contains
- * <ul>
- * <li>token type for access token</li>
- * <li>access token</li>
- * <li>id token</li>
- * <li>refresh token - to create a new access token</li>
- * </ul>
- */
-public class TokenResponse
+public class OAuthTokenResponse
 {
     @JsonProperty("token_type")
-    private String tokenType = "bearer";
+    private String tokenType;
     @JsonProperty("access_token")
     private String accessToken;
-    @JsonProperty("id_token")
-    private String idToken;
     @JsonProperty("refresh_token")
     private String refreshToken;
+    @JsonProperty("id_token")
+    private String idToken;
 
     @JsonProperty("expires_in")
     private Long expiresIn;
     @JsonProperty("refresh_expires_in")
     private Long refreshExpiresIn;
+
     @JsonProperty("not-before-policy")
-    private Long notBeforePolicy = System.currentTimeMillis();
+    private Long notBeforePolicy;
+
+    @JsonProperty("session_state")
+    private String sessionState;
 
     @JsonProperty("scope")
     private String scope;
@@ -52,16 +47,6 @@ public class TokenResponse
         this.accessToken = accessToken;
     }
 
-    public String getIdToken()
-    {
-        return idToken;
-    }
-
-    public void setIdToken(String idToken)
-    {
-        this.idToken = idToken;
-    }
-
     public String getRefreshToken()
     {
         return refreshToken;
@@ -70,6 +55,16 @@ public class TokenResponse
     public void setRefreshToken(String refreshToken)
     {
         this.refreshToken = refreshToken;
+    }
+
+    public String getIdToken()
+    {
+        return idToken;
+    }
+
+    public void setIdToken(String idToken)
+    {
+        this.idToken = idToken;
     }
 
     public Long getExpiresIn()
@@ -100,6 +95,16 @@ public class TokenResponse
     public void setNotBeforePolicy(Long notBeforePolicy)
     {
         this.notBeforePolicy = notBeforePolicy;
+    }
+
+    public String getSessionState()
+    {
+        return sessionState;
+    }
+
+    public void setSessionState(String sessionState)
+    {
+        this.sessionState = sessionState;
     }
 
     public String getScope()

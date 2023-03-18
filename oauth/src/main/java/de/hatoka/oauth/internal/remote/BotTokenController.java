@@ -1,4 +1,4 @@
-package de.hatoka.poker.security;
+package de.hatoka.oauth.internal.remote;
 
 import static org.springframework.util.MimeTypeUtils.APPLICATION_JSON_VALUE;
 
@@ -13,13 +13,13 @@ import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.web.bind.annotation.RestController;
 
 import de.hatoka.common.capi.rest.RestControllerErrorSupport;
-import de.hatoka.oidc.capi.business.TokenUtils;
-import de.hatoka.oidc.capi.remote.TokenResponse;
+import de.hatoka.oauth.capi.business.TokenUtils;
 import de.hatoka.poker.player.capi.business.PlayerBO;
 import de.hatoka.poker.player.capi.business.PlayerBORepository;
 import de.hatoka.poker.player.capi.business.PlayerRef;
-import de.hatoka.poker.remote.OAuthBotAuthenticationRO;
-import de.hatoka.poker.remote.OAuthRefreshRO;
+import de.hatoka.poker.remote.oauth.OAuthBotAuthenticationRO;
+import de.hatoka.poker.remote.oauth.OAuthRefreshRO;
+import de.hatoka.poker.remote.oauth.OAuthTokenResponse;
 
 @RestController
 @RequestMapping(value = BotTokenController.PATH_ROOT, produces = { APPLICATION_JSON_VALUE })
@@ -38,7 +38,7 @@ public class BotTokenController
 
     @PostMapping(value = PATH_SUB_BOT_TOKEN, consumes = { APPLICATION_JSON_VALUE })
     @ResponseStatus(HttpStatus.OK)
-    public TokenResponse createTokenForBot(@RequestBody OAuthBotAuthenticationRO input)
+    public OAuthTokenResponse createTokenForBot(@RequestBody OAuthBotAuthenticationRO input)
     {
         PlayerRef playerRef = PlayerRef.globalRef(input.getBotRef());
         Optional<PlayerBO> playerOpt = playerRepository.findPlayer(playerRef);
@@ -56,7 +56,7 @@ public class BotTokenController
 
     @PostMapping(value = PATH_SUB_BOT_REFRESH, consumes = { APPLICATION_JSON_VALUE })
     @ResponseStatus(HttpStatus.OK)
-    public TokenResponse createTokenFromRefresh(@RequestBody OAuthRefreshRO input)
+    public OAuthTokenResponse createTokenFromRefresh(@RequestBody OAuthRefreshRO input)
     {
         return tokenUtils.createTokenFromRefreshToken(input.getRefreshToken());
     }

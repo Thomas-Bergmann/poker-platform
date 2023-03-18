@@ -1,4 +1,4 @@
-package de.hatoka.poker.security;
+package de.hatoka.oauth.internal.remote;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertNotEquals;
@@ -23,16 +23,16 @@ import org.springframework.test.context.junit.jupiter.SpringExtension;
 import de.hatoka.common.capi.rest.test.TestSecurityConfiguration;
 import de.hatoka.poker.player.capi.business.PlayerBO;
 import de.hatoka.poker.player.capi.business.PlayerBORepository;
-import de.hatoka.poker.remote.OAuthBotAuthenticationRO;
-import de.hatoka.poker.remote.OAuthRefreshRO;
-import de.hatoka.poker.remote.OAuthTokenResponse;
+import de.hatoka.poker.remote.oauth.OAuthBotAuthenticationRO;
+import de.hatoka.poker.remote.oauth.OAuthRefreshRO;
+import de.hatoka.poker.remote.oauth.OAuthTokenResponse;
 import de.hatoka.user.capi.business.UserRef;
-import tests.de.hatoka.poker.security.SecurityTestApplication;
-import tests.de.hatoka.poker.security.SecurityTestConfiguration;
+import tests.de.hatoka.oauth.OAuthTestApplication;
+import tests.de.hatoka.oauth.OAuthTestConfiguration;
 
 @ExtendWith(SpringExtension.class)
-@SpringBootTest(classes = { SecurityTestApplication.class }, webEnvironment = WebEnvironment.RANDOM_PORT)
-@ContextConfiguration(classes = { SecurityTestConfiguration.class, TestSecurityConfiguration.class })
+@SpringBootTest(classes = { OAuthTestApplication.class }, webEnvironment = WebEnvironment.RANDOM_PORT)
+@ContextConfiguration(classes = { OAuthTestConfiguration.class, TestSecurityConfiguration.class })
 @ActiveProfiles("test")
 public class BotTokenControllerTest
 {

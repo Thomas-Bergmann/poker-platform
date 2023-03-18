@@ -11,6 +11,8 @@ import org.springframework.web.servlet.config.annotation.CorsRegistry;
 import org.springframework.web.servlet.config.annotation.InterceptorRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 
+import de.hatoka.oauth.internal.remote.PolicyEnforcerInterceptor;
+
 @Configuration
 @ComponentScan(basePackageClasses = { PolicyEnforcerInterceptor.class})
 @Order(100)

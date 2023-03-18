@@ -1,10 +1,8 @@
 package de.hatoka.oidc.internal.remote;
 
 import java.net.URI;
-import java.util.HashSet;
 import java.util.List;
 import java.util.Optional;
-import java.util.Set;
 import java.util.stream.Collectors;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -14,7 +12,6 @@ import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
-import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestHeader;
@@ -31,7 +28,6 @@ import de.hatoka.oidc.capi.remote.IdentityProviderDataRO;
 import de.hatoka.oidc.capi.remote.IdentityProviderInfoRO;
 import de.hatoka.oidc.capi.remote.IdentityProviderRO;
 import de.hatoka.oidc.capi.remote.OIDCUserInfo;
-import de.hatoka.oidc.capi.remote.TokenResponse;
 
 @RestController
 @RequestMapping(value = IdentityProviderController.PATH_ROOT, produces = { MediaType.APPLICATION_JSON_VALUE})
@@ -103,31 +99,6 @@ public class IdentityProviderController
     }
 
     @ResponseStatus(HttpStatus.OK)
-    @PostMapping(value = SUB_PATH_TOKEN)
-    public TokenResponse generateToken(@PathVariable(PATH_VAR_IDP) String idpLocalRefString, @RequestHeader(HttpHeaders.AUTHORIZATION) String bearerToken, UriComponentsBuilder uriBuilder)
-    {
-        Optional<IdentityProviderBO> opt = getIdentityProvider(idpLocalRefString);
-        if (!opt.isPresent())
-        {
-            errorSupport.throwNotFoundException("idp.notfound", idpLocalRefString);
-        }
-        IdentityProviderBO idp = opt.get();
-        if (!bearerToken.toLowerCase().startsWith(BEARER_PREFIX))
-        {
-            errorSupport.throwNotFoundException("idp.bearer.idtoken.notfound", bearerToken);
-        }
-        String idToken = bearerToken.substring(BEARER_PREFIX.length()).trim();
-        return idp.generateToken(getTokenURI(uriBuilder, idp).toString(), idToken, getScopes(uriBuilder));
-    }
-
-    private Set<String> getScopes(UriComponentsBuilder uriBuilder)
-    {
-        Set<String> result = new HashSet<>();
-        result.add(getResourceURI(uriBuilder).toString());
-        return result;
-    }
-
-    @ResponseStatus(HttpStatus.OK)
     @GetMapping(value = SUB_PATH_USERINFO)
     public OIDCUserInfo getUserInfo(@PathVariable(PATH_VAR_IDP) String idpLocalRefString, @RequestHeader(HttpHeaders.AUTHORIZATION) String bearerToken, UriComponentsBuilder uriBuilder)
     {
@@ -176,9 +147,5 @@ public class IdentityProviderController
     private URI getTokenURI(UriComponentsBuilder uriBuilder, IdentityProviderBO provider)
     {
         return uriBuilder.replaceQuery(null).replacePath(PATH_ROOT + "/" + provider.getRef().getLocalRef() + METHOD_TOKEN).build().toUri();
-    }
-    private URI getResourceURI(UriComponentsBuilder uriBuilder)
-    {
-        return uriBuilder.replaceQuery(null).replacePath(null).build().toUri();
     }
 }

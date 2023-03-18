@@ -1,4 +1,4 @@
-package de.hatoka.oidc.capi.business;
+package de.hatoka.oauth.capi.business;
 
 import java.util.Map;
 

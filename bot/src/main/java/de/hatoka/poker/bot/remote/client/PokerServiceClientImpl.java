@@ -15,12 +15,12 @@ import org.springframework.http.MediaType;
 import org.springframework.stereotype.Component;
 import org.springframework.web.client.RestTemplate;
 
-import de.hatoka.poker.remote.OAuthTokenResponse;
-import de.hatoka.poker.remote.OAuthBotAuthenticationRO;
 import de.hatoka.poker.remote.GameRO;
 import de.hatoka.poker.remote.PlayerGameActionRO;
 import de.hatoka.poker.remote.SeatRO;
 import de.hatoka.poker.remote.TableRO;
+import de.hatoka.poker.remote.oauth.OAuthBotAuthenticationRO;
+import de.hatoka.poker.remote.oauth.OAuthTokenResponse;
 
 @Component
 @Scope(ConfigurableBeanFactory.SCOPE_PROTOTYPE)

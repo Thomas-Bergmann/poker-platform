@@ -1,4 +1,4 @@
-package de.hatoka.poker.security;
+package de.hatoka.oauth.internal.remote;
 
 import java.net.URI;
 import java.util.Enumeration;
@@ -16,9 +16,9 @@ import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Component;
 import org.springframework.web.servlet.HandlerInterceptor;
 
+import de.hatoka.oauth.capi.business.TokenUsage;
+import de.hatoka.oauth.capi.business.TokenUtils;
 import de.hatoka.oidc.capi.IdentityProviderConfiguration;
-import de.hatoka.oidc.capi.business.TokenUsage;
-import de.hatoka.oidc.capi.business.TokenUtils;
 import de.hatoka.oidc.internal.remote.IdentityProviderController;
 
 @Component

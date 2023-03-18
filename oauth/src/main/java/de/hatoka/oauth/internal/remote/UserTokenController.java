@@ -1,4 +1,4 @@
-package de.hatoka.poker.security;
+package de.hatoka.oauth.internal.remote;
 
 import static org.springframework.util.MimeTypeUtils.APPLICATION_JSON_VALUE;
 
@@ -16,19 +16,15 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.util.UriComponentsBuilder;
 
 import de.hatoka.common.capi.rest.RestControllerErrorSupport;
+import de.hatoka.oauth.capi.business.TokenUtils;
+import de.hatoka.oauth.capi.remote.OAuthUserAuthenticationRO;
 import de.hatoka.oidc.capi.business.IdentityProviderBO;
 import de.hatoka.oidc.capi.business.IdentityProviderBORepository;
 import de.hatoka.oidc.capi.business.IdentityProviderRef;
-import de.hatoka.oidc.capi.business.TokenUtils;
 import de.hatoka.oidc.capi.remote.OIDCUserInfo;
-import de.hatoka.oidc.capi.remote.TokenResponse;
-import de.hatoka.oidc.internal.remote.IdentityProviderTokenResponse;
-import de.hatoka.poker.player.capi.business.PlayerBO;
 import de.hatoka.poker.player.capi.business.PlayerBORepository;
-import de.hatoka.poker.player.capi.business.PlayerRef;
-import de.hatoka.poker.remote.OAuthBotAuthenticationRO;
-import de.hatoka.poker.remote.OAuthRefreshRO;
-import de.hatoka.poker.remote.OAuthUserAuthenticationRO;
+import de.hatoka.poker.remote.oauth.OAuthRefreshRO;
+import de.hatoka.poker.remote.oauth.OAuthTokenResponse;
 
 @RestController
 @RequestMapping(value = UserTokenController.PATH_ROOT, produces = { APPLICATION_JSON_VALUE })
@@ -50,7 +46,7 @@ public class UserTokenController
 
     @PostMapping(value = PATH_SUB_TOKEN, consumes = { APPLICATION_JSON_VALUE })
     @ResponseStatus(HttpStatus.OK)
-    public TokenResponse generateTokenForUser(@RequestHeader(HttpHeaders.AUTHORIZATION) String bearerToken, @RequestBody OAuthUserAuthenticationRO input, UriComponentsBuilder uriBuilder)
+    public OAuthTokenResponse generateTokenForUser(@RequestHeader(HttpHeaders.AUTHORIZATION) String bearerToken, @RequestBody OAuthUserAuthenticationRO input, UriComponentsBuilder uriBuilder)
     {
         Optional<IdentityProviderBO> opt = getIdentityProvider(input.getIdpRef());
         if (!opt.isPresent())
@@ -69,7 +65,7 @@ public class UserTokenController
 
     @PostMapping(value = PATH_SUB_REFRESH, consumes = { APPLICATION_JSON_VALUE })
     @ResponseStatus(HttpStatus.OK)
-    public TokenResponse createTokenFromRefresh(@RequestBody OAuthRefreshRO input)
+    public OAuthTokenResponse createTokenFromRefresh(@RequestBody OAuthRefreshRO input)
     {
         return tokenUtils.createTokenFromRefreshToken(input.getRefreshToken());
     }

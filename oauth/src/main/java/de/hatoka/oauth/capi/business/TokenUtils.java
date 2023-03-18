@@ -1,4 +1,4 @@
-package de.hatoka.oidc.capi.business;
+package de.hatoka.oauth.capi.business;
 
 import java.util.Collections;
 import java.util.Date;
@@ -11,7 +11,7 @@ import org.springframework.security.oauth2.core.OAuth2AuthenticationException;
 import org.springframework.security.oauth2.core.OAuth2Error;
 import org.springframework.stereotype.Component;
 
-import de.hatoka.oidc.capi.remote.TokenResponse;
+import de.hatoka.poker.remote.oauth.OAuthTokenResponse;
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.SignatureAlgorithm;
@@ -39,9 +39,9 @@ public class TokenUtils
      * @param subject
      * @return token response includes access, refresh and id token for given subject
      */
-    public TokenResponse createTokenForSubject(String subject)
+    public OAuthTokenResponse createTokenForSubject(String subject)
     {
-        TokenResponse result = new TokenResponse();
+        OAuthTokenResponse result = new OAuthTokenResponse();
         result.setTokenType(TOKEN_TYPE_BEARER);
         Map<String, Object> claims = Collections.emptyMap();
         long now = getNow();
@@ -59,7 +59,7 @@ public class TokenUtils
      * @param refreshToken
      * @return a new token response with given refresh token
      */
-    public TokenResponse createTokenFromRefreshToken(String refreshToken)
+    public OAuthTokenResponse createTokenFromRefreshToken(String refreshToken)
     {
         if (isTokenExpired(refreshToken))
         {
@@ -73,7 +73,7 @@ public class TokenUtils
             throw new OAuth2AuthenticationException(oauth2Error);
         }
         String subject = getSubjectFromToken(refreshToken);
-        TokenResponse result = new TokenResponse();
+        OAuthTokenResponse result = new OAuthTokenResponse();
         result.setTokenType(TOKEN_TYPE_BEARER);
         Map<String, Object> claims = Collections.emptyMap();
         result.setIdToken(generateIdToken(meta, subject, claims));

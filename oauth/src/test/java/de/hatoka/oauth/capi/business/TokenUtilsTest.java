@@ -1,4 +1,4 @@
-package de.hatoka.oidc.capi.business;
+package de.hatoka.oauth.capi.business;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertTrue;
@@ -11,11 +11,11 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit.jupiter.SpringExtension;
 
-import de.hatoka.oidc.capi.remote.TokenResponse;
-import tests.de.hatoka.oidc.OidcTestConfiguration;
+import de.hatoka.poker.remote.oauth.OAuthTokenResponse;
+import tests.de.hatoka.oauth.OAuthTestConfiguration;
 
 @ExtendWith(SpringExtension.class)
-@ContextConfiguration(classes = { OidcTestConfiguration.class })
+@ContextConfiguration(classes = { OAuthTestConfiguration.class })
 class TokenUtilsTest
 {
     private static final String SUBJECT = "a-subject";
@@ -26,7 +26,7 @@ class TokenUtilsTest
     @Test
     void testCreateTokenForSubject()
     {
-        TokenResponse tokenReponse = underTest.createTokenForSubject(SUBJECT);
+        OAuthTokenResponse tokenReponse = underTest.createTokenForSubject(SUBJECT);
         String accessToken = tokenReponse.getAccessToken();
         assertEquals(TOKEN_PREFIX, accessToken.substring(0, 2));
         assertTrue(underTest.isTokenValid(accessToken, TokenUsage.access, SUBJECT, Collections.emptyMap()));
@@ -35,9 +35,9 @@ class TokenUtilsTest
     @Test
     void testCreateTokenFromRefreshToken() throws InterruptedException
     {
-        TokenResponse tokenResponse = underTest.createTokenForSubject(SUBJECT);
+        OAuthTokenResponse tokenResponse = underTest.createTokenForSubject(SUBJECT);
         Thread.sleep(1200);
-        TokenResponse refreshResponse = underTest.createTokenFromRefreshToken(tokenResponse.getRefreshToken());
+        OAuthTokenResponse refreshResponse = underTest.createTokenFromRefreshToken(tokenResponse.getRefreshToken());
         assertTrue(underTest.isTokenValid(refreshResponse.getAccessToken(), TokenUsage.access, SUBJECT, Collections.emptyMap()));
         assertEquals(underTest.getAuthenticatedAt(tokenResponse.getAccessToken()), underTest.getAuthenticatedAt(refreshResponse.getAccessToken()));
     }

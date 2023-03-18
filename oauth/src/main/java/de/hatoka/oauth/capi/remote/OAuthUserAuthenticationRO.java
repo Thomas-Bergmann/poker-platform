@@ -1,4 +1,4 @@
-package de.hatoka.poker.remote;
+package de.hatoka.oauth.capi.remote;
 
 import javax.validation.constraints.NotNull;
 

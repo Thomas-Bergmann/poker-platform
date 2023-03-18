@@ -9,6 +9,7 @@ import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Import;
 
 import de.hatoka.common.capi.CommonConfiguration;
+import de.hatoka.oauth.capi.OAuthConfiguration;
 import de.hatoka.oidc.capi.IdentityProviderConfiguration;
 import de.hatoka.poker.player.capi.PlayerConfiguration;
 import de.hatoka.poker.security.CorsConfiguration;
@@ -20,7 +21,8 @@ import de.hatoka.user.capi.UserConfiguration;
 @ComponentScan
 @Import(value = { CorsConfiguration.class, WebSecurityConfiguration.class,
                 IdentityProviderConfiguration.class, CommonConfiguration.class, UserConfiguration.class,
-                PlayerConfiguration.class, TableConfiguration.class 
+                PlayerConfiguration.class, TableConfiguration.class, 
+                OAuthConfiguration.class
                 })
 public class Application extends SpringBootServletInitializer
 {

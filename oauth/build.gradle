@@ -1,0 +1,30 @@
+dependencies {
+    implementation project(':common')
+    implementation project(':oidc')
+    implementation project(':user')
+    implementation project(':player')
+    implementation project(':poker')
+
+    implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
+    implementation 'org.springframework.boot:spring-boot-starter-web'
+    implementation 'org.springframework.boot:spring-boot-starter-security'
+    implementation 'org.springframework.boot:spring-boot-starter-oauth2-client'
+
+    implementation 'javax.validation:validation-api'
+    implementation 'com.nimbusds:nimbus-jose-jwt'
+    implementation 'jakarta.ws.rs:jakarta.ws.rs-api'
+    implementation 'io.jsonwebtoken:jjwt'
+
+    runtimeOnly 'org.glassfish.jersey.core:jersey-client'
+    runtimeOnly 'org.glassfish.jersey.core:jersey-common'
+    runtimeOnly 'org.glassfish.jersey.inject:jersey-hk2'
+    runtimeOnly 'org.glassfish.jersey.media:jersey-media-json-jackson'
+
+	//Test
+    testImplementation ('org.springframework.boot:spring-boot-starter-test') {
+        exclude group: 'com.vaadin.external.google', module: 'android-json'
+    }
+
+    //Database
+    testRuntimeOnly 'com.h2database:h2'
+}
