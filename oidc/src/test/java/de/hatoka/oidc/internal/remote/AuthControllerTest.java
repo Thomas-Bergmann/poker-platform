@@ -47,6 +47,7 @@ public class AuthControllerTest
     private static final URI URI_TOKEN_KEYCLOAK = URI.create("https://keycloak/auth/realms/realm/openid-connect/token");
     private static final IdentityProviderRef IDP_REF_KEYCLOAK = IdentityProviderRef.valueOfLocal("keycloak");
     private static final IdentityProviderRef IDP_REF_AZURE = IdentityProviderRef.valueOfLocal("microsoft");
+    private static final String BEARER_LC = IdentityProviderController.BEARER_PREFIX;
 
     @Autowired
     private TestRestTemplate restTemplate;
@@ -110,7 +111,7 @@ public class AuthControllerTest
     private MultiValueMap<String, String> getHeaders()
     {
         HttpHeaders result = new HttpHeaders();
-        result.add(HttpHeaders.AUTHORIZATION, IdentityProviderInterceptor.BEARER_LC + configuration.getOidcAuthenticationToken());
+        result.add(HttpHeaders.AUTHORIZATION, BEARER_LC + configuration.getOidcAuthenticationToken());
         return result;
     }
 

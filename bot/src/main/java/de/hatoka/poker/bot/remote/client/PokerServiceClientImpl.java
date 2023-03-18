@@ -111,7 +111,7 @@ public class PokerServiceClientImpl implements PokerServiceClient
         authData.setApiKey(botKey);
         RestTemplate restTemplate = restTemplateBuilder.build();
         OAuthTokenResponse result = restTemplate.exchange(serviceURI + PATH_TOKEN, HttpMethod.POST,
-                        new HttpEntity<>(authData, getHeaders()), OAuthTokenResponse.class).getBody();
+                        new HttpEntity<>(authData), OAuthTokenResponse.class).getBody();
         return result.getAccessToken();
     }
 

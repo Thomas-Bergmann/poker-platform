@@ -1,4 +1,4 @@
-package de.hatoka.oidc.internal.remote;
+package de.hatoka.oidc.capi.business;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertTrue;
@@ -11,6 +11,9 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit.jupiter.SpringExtension;
 
+import de.hatoka.oidc.capi.business.TokenUsage;
+import de.hatoka.oidc.capi.business.TokenUtils;
+import de.hatoka.oidc.internal.remote.IdentityProviderTokenResponse;
 import tests.de.hatoka.oidc.OidcTestConfiguration;
 
 @ExtendWith(SpringExtension.class)

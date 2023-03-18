@@ -13,8 +13,8 @@ import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.web.bind.annotation.RestController;
 
 import de.hatoka.common.capi.rest.RestControllerErrorSupport;
+import de.hatoka.oidc.capi.business.TokenUtils;
 import de.hatoka.oidc.internal.remote.IdentityProviderTokenResponse;
-import de.hatoka.oidc.internal.remote.TokenUtils;
 import de.hatoka.poker.player.capi.business.PlayerBO;
 import de.hatoka.poker.player.capi.business.PlayerBORepository;
 import de.hatoka.poker.player.capi.business.PlayerRef;

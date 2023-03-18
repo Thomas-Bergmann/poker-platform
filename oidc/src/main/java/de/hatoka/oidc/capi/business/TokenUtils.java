@@ -1,4 +1,4 @@
-package de.hatoka.oidc.internal.remote;
+package de.hatoka.oidc.capi.business;
 
 import java.util.Collections;
 import java.util.Date;
@@ -11,6 +11,7 @@ import org.springframework.security.oauth2.core.OAuth2AuthenticationException;
 import org.springframework.security.oauth2.core.OAuth2Error;
 import org.springframework.stereotype.Component;
 
+import de.hatoka.oidc.internal.remote.IdentityProviderTokenResponse;
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.SignatureAlgorithm;
@@ -118,15 +119,33 @@ public class TokenUtils
         return generateToken(meta.setUsage(TokenUsage.refresh), subject, claims, JWT_REFRESH_TOKEN_VALIDITY);
     }
 
+    /**
+     * @param token
+     * @return true if token is not expired
+     */
+    public boolean isTokenValid(String token)
+    {
+        return !isTokenExpired(token);
+    }
+
+    /**
+     * @param token
+     * @param usage
+     * @return true if token is not expired and define usage is correct
+     */
+    public boolean isTokenValid(String token, TokenUsage usage)
+    {
+        return isTokenValid(token) &&  usage == getClaimFromToken(token, CLAIM_METADATA_PROVIDER).getUsage();
+    }
+
     public boolean isTokenValid(String token, TokenUsage usage, String subject, Map<String, Object> claims)
     {
-        return !isTokenExpired(token) && subject.equals(getSubjectFromToken(token))
-                        && usage == getClaimFromToken(token, CLAIM_METADATA_PROVIDER).getUsage();
+        return isTokenValid(token, usage) && subject.equals(getSubjectFromToken(token));
     }
 
     /**
      * @param token jwt token
-     * @return true if token has expired or checked before
+     * @return true if token has expired or checked before (JWT token must be signed with secret)
      */
     private boolean isTokenExpired(String token)
     {

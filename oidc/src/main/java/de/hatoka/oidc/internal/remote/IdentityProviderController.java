@@ -37,14 +37,14 @@ import de.hatoka.oidc.capi.remote.TokenResponse;
 @RequestMapping(value = IdentityProviderController.PATH_ROOT, produces = { MediaType.APPLICATION_JSON_VALUE})
 public class IdentityProviderController
 {
-    private static final String BEARER_PREFIX = "bearer ";
+    public static final String BEARER_PREFIX = "bearer ";
     public static final String PATH_ROOT = "/auth/idps";
     public static final String PATH_VAR_IDP = "idpRef";
     public static final String SUB_PATH_IDP = "/{" + PATH_VAR_IDP + "}";
     public static final String PATH_IDP = PATH_ROOT + SUB_PATH_IDP;
     public static final String SUB_PATH_AUTH     = SUB_PATH_IDP + "/auth";
     public static final String SUB_PATH_REDIRECT = SUB_PATH_IDP + "/redirect";
-    /* package */ static final String METHOD_TOKEN    = "/token";
+    public static final String METHOD_TOKEN    = "/token";
     public static final String SUB_PATH_TOKEN    = SUB_PATH_IDP + METHOD_TOKEN;
     public static final String PARAMETER_PUBLIC = "public";
     public static final String PARAMETER_CODE = "code";

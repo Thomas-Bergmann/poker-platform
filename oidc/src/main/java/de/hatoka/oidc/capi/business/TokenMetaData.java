@@ -1,4 +1,4 @@
-package de.hatoka.oidc.internal.remote;
+package de.hatoka.oidc.capi.business;
 
 import java.util.Map;
 
