@@ -47,6 +47,7 @@ public class AuthControllerTest
     private static final URI URI_TOKEN_KEYCLOAK = URI.create("https://keycloak/auth/realms/realm/openid-connect/token");
     private static final IdentityProviderRef IDP_REF_KEYCLOAK = IdentityProviderRef.valueOfLocal("keycloak");
     private static final IdentityProviderRef IDP_REF_AZURE = IdentityProviderRef.valueOfLocal("microsoft");
+    private static final String BEARER_LC = IdentityProviderController.BEARER_PREFIX;
 
     @Autowired
     private TestRestTemplate restTemplate;
@@ -83,7 +84,7 @@ public class AuthControllerTest
         // test controller in localhost context
         URI accessTokenURI = URI.create(idpKeycloak.getInfo().getAuthorizationUri());
         assertEquals("localhost", accessTokenURI.getHost());
-        assertEquals("/auth/idps/"+IDP_REF_KEYCLOAK.getLocalRef()+"/token", accessTokenURI.getPath());
+        assertEquals("/auth/users/token", accessTokenURI.getPath());
 
         deleteIdentityProvider(IDP_REF_KEYCLOAK);
         deleteIdentityProvider(IDP_REF_AZURE);
@@ -99,7 +100,6 @@ public class AuthControllerTest
         // data.setOpenIDConfigurationURI(openIdConfigURI.toString());
         data.setAuthenticationURI(authURI.toString());
         data.setTokenURI(tokenURI.toString());
-        data.setTokenValidityPeriod(60L);
         return data;
     }
     private List<IdentityProviderRO> getIdentityProviders()
@@ -110,7 +110,7 @@ public class AuthControllerTest
     private MultiValueMap<String, String> getHeaders()
     {
         HttpHeaders result = new HttpHeaders();
-        result.add(HttpHeaders.AUTHORIZATION, IdentityProviderInterceptor.BEARER_LC + configuration.getOidcAuthenticationToken());
+        result.add(HttpHeaders.AUTHORIZATION, BEARER_LC + configuration.getOidcAuthenticationToken());
         return result;
     }
 

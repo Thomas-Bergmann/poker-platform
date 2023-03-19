@@ -1,9 +1,7 @@
 package de.hatoka.poker.bot.remote.client;
 
 import java.util.Arrays;
-import java.util.HashMap;
 import java.util.List;
-import java.util.Map;
 import java.util.Optional;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -21,16 +19,16 @@ import de.hatoka.poker.remote.GameRO;
 import de.hatoka.poker.remote.PlayerGameActionRO;
 import de.hatoka.poker.remote.SeatRO;
 import de.hatoka.poker.remote.TableRO;
+import de.hatoka.poker.remote.oauth.OAuthBotAuthenticationRO;
+import de.hatoka.poker.remote.oauth.OAuthTokenResponse;
 
 @Component
 @Scope(ConfigurableBeanFactory.SCOPE_PROTOTYPE)
 public class PokerServiceClientImpl implements PokerServiceClient
 {
-    private static final String PATH_TOKEN = "/auth";
+    private static final String PATH_TOKEN = "/auth/bots/token";
     private static final String PATH_TABLES = "/tables";
     private static final String PATH_SEATS = "/tables/{table}/seats";
-    private static final String PATH_VAR_BOT_REF = "ref";
-    private static final String PATH_VAR_BOT_KEY = "key";
 
     @Autowired
     private RestTemplateBuilder restTemplateBuilder;
@@ -108,10 +106,13 @@ public class PokerServiceClientImpl implements PokerServiceClient
 
     private String getBearerToken()
     {
-        Map<String, String> urlParams = new HashMap<>();
-        urlParams.put(PATH_VAR_BOT_REF, botRef);
-        urlParams.put(PATH_VAR_BOT_KEY, botKey);
-        return "";
+        OAuthBotAuthenticationRO authData = new OAuthBotAuthenticationRO();
+        authData.setBotRef(botRef);
+        authData.setApiKey(botKey);
+        RestTemplate restTemplate = restTemplateBuilder.build();
+        OAuthTokenResponse result = restTemplate.exchange(serviceURI + PATH_TOKEN, HttpMethod.POST,
+                        new HttpEntity<>(authData), OAuthTokenResponse.class).getBody();
+        return result.getAccessToken();
     }
 
     private HttpHeaders getHeaders()

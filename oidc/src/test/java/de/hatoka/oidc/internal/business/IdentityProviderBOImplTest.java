@@ -50,7 +50,6 @@ class IdentityProviderBOImplTest
         // avoid lookup data.setOpenIDConfigurationURI(configURI.toString());
         data.setAuthenticationURI(authURI.toString());
         data.setTokenURI(tokenURI.toString());
-        data.setTokenValidityPeriod(60L);
         IdentityProviderBO idp = repo.createIdentityProvider(TEST_REF, data);
         assertEquals(authURI, URI.create(idp.getData().getAuthenticationURI()));
     }

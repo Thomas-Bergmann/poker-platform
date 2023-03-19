@@ -1,9 +1,6 @@
 package de.hatoka.oidc.internal.business;
 
 import java.text.ParseException;
-import java.util.Date;
-import java.util.Optional;
-import java.util.Set;
 import java.util.UUID;
 
 import javax.transaction.Transactional;
@@ -12,7 +9,6 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.config.ConfigurableBeanFactory;
-import org.springframework.context.ApplicationEventPublisher;
 import org.springframework.context.annotation.Scope;
 import org.springframework.security.oauth2.client.registration.ClientRegistration;
 import org.springframework.security.oauth2.core.AuthorizationGrantType;
@@ -20,23 +16,14 @@ import org.springframework.security.oauth2.core.ClientAuthenticationMethod;
 import org.springframework.security.oauth2.core.oidc.IdTokenClaimNames;
 import org.springframework.stereotype.Component;
 
-import com.nimbusds.jose.JOSEException;
-import com.nimbusds.jose.JWSAlgorithm;
-import com.nimbusds.jose.JWSHeader;
-import com.nimbusds.jose.JWSSigner;
-import com.nimbusds.jose.crypto.MACSigner;
 import com.nimbusds.jwt.JWT;
 import com.nimbusds.jwt.JWTClaimsSet;
 import com.nimbusds.jwt.JWTParser;
-import com.nimbusds.jwt.SignedJWT;
 
-import de.hatoka.common.capi.configuration.DateProvider;
 import de.hatoka.oidc.capi.business.IdentityProviderBO;
 import de.hatoka.oidc.capi.business.IdentityProviderRef;
-import de.hatoka.oidc.capi.event.UserTokenGeneratedEvent;
 import de.hatoka.oidc.capi.remote.IdentityProviderDataRO;
 import de.hatoka.oidc.capi.remote.OIDCUserInfo;
-import de.hatoka.oidc.capi.remote.TokenResponse;
 import de.hatoka.oidc.internal.persistence.IdentityProviderDao;
 import de.hatoka.oidc.internal.persistence.IdentityProviderPO;
 import de.hatoka.oidc.internal.persistence.IdentityProviderUserMapDao;
@@ -60,11 +47,7 @@ public class IdentityProviderBOImpl implements IdentityProviderBO
     @Autowired
     private UserBORepository userRepo;
     @Autowired
-    private DateProvider dateProvider;
-    @Autowired
     private IdentityProviderClient identityProviderClient;
-    @Autowired
-    private ApplicationEventPublisher applicationEventPublisher;
 
     private IdentityProviderPO identityProviderPO;
 
@@ -108,44 +91,6 @@ public class IdentityProviderBOImpl implements IdentityProviderBO
     {
         identityProviderDao.delete(identityProviderPO);
         identityProviderPO = null;
-    }
-
-    @Override
-    public TokenResponse generateToken(String issuer, String idToken, Set<String> scopes)
-    {
-        UserRef userRef = null;
-        try
-        {
-            JWTClaimsSet claimsSet = getClaimsFromIdToken(idToken);
-            userRef = getUserRef(claimsSet);
-            updateUserInfo(userRef, claimsSet);
-        }
-        catch(ParseException e)
-        {
-            throw new IllegalStateException("can't parse id token.", e);
-        }
-        TokenResponse result = new TokenResponse();
-        long validitySeconds = identityProviderPO.getTokenValidityPeriod();
-        result.setExpiresIn(validitySeconds);
-        result.setRefreshExpiresIn(validitySeconds * 3);
-        result.setAccessToken(generateAccessJWToken(issuer, scopes, userRef, result.getExpiresIn()).serialize());
-        result.setRefreshToken(
-                        generateRefreshJWToken(issuer, scopes, userRef, result.getRefreshExpiresIn()).serialize());
-        result.setIdToken(generateIdentityJWToken(issuer, scopes, userRef, validitySeconds).serialize());
-        // inform other about token generation by user
-        applicationEventPublisher.publishEvent(new UserTokenGeneratedEvent(this, userRef, result));
-        return result;
-    }
-
-    private void updateUserInfo(UserRef userRef, JWTClaimsSet claimsSet)
-    {
-        Optional<UserBO> userOpt = userRepo.findUser(userRef);
-        if (userOpt.isEmpty())
-        {
-            return;
-        }
-        UserBO user = userOpt.get();
-        user.updateUserInfo(map(claimsSet));
     }
 
     public OIDCUserInfo getUserInfo(String idToken)
@@ -205,27 +150,6 @@ public class IdentityProviderBOImpl implements IdentityProviderBO
         return null;
     }
 
-    private UserRef getUserRef(JWTClaimsSet claimsSet) throws ParseException
-    {
-        // claims: [sub, email_verified, iss, typ, preferred_username, given_name, nonce, aud, acr, azp, auth_time,
-        // name,
-        // exp, session_state, iat, family_name, jti, email]
-        String subject = claimsSet.getStringClaim("sub");
-        String userName = claimsSet.getStringClaim("preferred_username");
-        Optional<IdentityProviderUserMapPO> userMapOpt = userMapDao.findByIdentityProviderIDAndSubject(
-                        identityProviderPO.getInternalId(), subject);
-        UserRef userRef = null;
-        if (!userMapOpt.isPresent())
-        {
-            userRef = createUser(subject, userName);
-        }
-        else
-        {
-            userRef = UserRef.globalRef(userMapOpt.get().getUserRef());
-        }
-        return userRef;
-    }
-
     @Transactional
     private UserRef createUser(String subject, String userName)
     {
@@ -240,51 +164,6 @@ public class IdentityProviderBOImpl implements IdentityProviderBO
         return userRef;
     }
 
-    private SignedJWT generateIdentityJWToken(String issuer, Set<String> scopes, UserRef userRef, long expires)
-    {
-        return generateAccessJWToken(issuer, scopes, userRef, expires);
-    }
-
-    private SignedJWT generateRefreshJWToken(String issuer, Set<String> scopes, UserRef userRef, long expires)
-    {
-        return generateAccessJWToken(issuer, scopes, userRef, expires);
-    }
-
-    private SignedJWT generateAccessJWToken(String issuer, Set<String> scopes, UserRef userRef, long expires)
-    {
-        String secret = identityProviderPO.getAccessTokenSecret();
-        String clientid = identityProviderPO.getPublicClientId();
-        if (null == clientid || null == secret || expires < 0)
-        {
-            throw new IllegalStateException("Unable to create JWT with wrong configuration.");
-        }
-        try
-        {
-            Date now = dateProvider.get();
-            StringBuilder scopesBuilder = new StringBuilder();
-            for (String scope : scopes)
-            {
-                scopesBuilder = scopesBuilder.append(scope).append(" ");
-            }
-            JWTClaimsSet.Builder claimsSet = new JWTClaimsSet.Builder();
-            claimsSet.issuer(issuer);
-            claimsSet.subject(userRef.getGlobalRef());
-            claimsSet.audience(clientid);
-            claimsSet.issueTime(now);
-            claimsSet.expirationTime(new Date(now.getTime() + (expires * 1000)));
-            claimsSet.notBeforeTime(now);
-            claimsSet.claim("scope", scopesBuilder.toString());
-            JWSSigner signer = new MACSigner(secret);
-            SignedJWT result = new SignedJWT(new JWSHeader(JWSAlgorithm.HS256), claimsSet.build());
-            result.sign(signer);
-            return result;
-        }
-        catch(JOSEException e)
-        {
-            throw new IllegalStateException("Unable to sign JWT.", e);
-        }
-    }
-
     private JWTClaimsSet getClaimsFromIdToken(String idToken) throws ParseException
     {
         JWT jwt = JWTParser.parse(idToken);
@@ -297,12 +176,6 @@ public class IdentityProviderBOImpl implements IdentityProviderBO
     public String getName()
     {
         return identityProviderPO.getName();
-    }
-
-    @Override
-    public Long getTokenValidityPeriod()
-    {
-        return identityProviderPO.getTokenValidityPeriod();
     }
 
     @Override
@@ -322,7 +195,6 @@ public class IdentityProviderBOImpl implements IdentityProviderBO
                         : identityProviderPO.getPublicTokenIssuer());
         result.setUserInfoURI(identityProviderPO.getPublicUserInfoURI() == null ? metaData.getUserInfoEndpoint()
                         : identityProviderPO.getPublicUserInfoURI());
-        result.setTokenValidityPeriod(identityProviderPO.getTokenValidityPeriod());
 
         result.setPrivateClientId(identityProviderPO.getPrivateClientId());
         result.setPrivateClientSecret(identityProviderPO.getPrivateClientSecret().isBlank() ? "(empty)" : "(provided)");

@@ -16,18 +16,21 @@ export class OIDCInterceptor implements HttpInterceptor {
       if (t !== undefined)
       {
         this.access_token = t;
+        // console.log("access token received", this.access_token);
       }
     });
     this.store.select(selectResources).subscribe( r => {
       if (r !== undefined)
       {
         this.uri_prefixes = r;
+        // console.log("access scopes received", this.uri_prefixes);
       }
     });
   }
 
   public intercept(req: HttpRequest<any>, next: HttpHandler): Observable<HttpEvent<any>> {
     let url = req.url.toLowerCase();
+    // console.log("interceptor started", url);
     if (!this.isAuthorizationHeaderEmpty(req))
     {
       // console.log("interceptor ignored - Authorization header set", url);

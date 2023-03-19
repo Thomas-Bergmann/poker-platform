@@ -2,7 +2,6 @@ package de.hatoka.oidc.internal.persistence;
 
 import java.io.Serializable;
 import java.util.Objects;
-import java.util.UUID;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
@@ -34,13 +33,6 @@ public class IdentityProviderPO implements Serializable
     @NotNull
     @Column(name = "name", nullable = false)
     private String name;
-
-    /**
-     * token validity period in seconds
-     */
-    @NotNull
-    @Column(name = "token_validity", nullable = false)
-    private long tokenValidityPeriod = 60;
 
     /**
      * APP and SERVICE AUTHENTICATION
@@ -76,10 +68,6 @@ public class IdentityProviderPO implements Serializable
     @NotNull
     @Column(name = "private_client_secret", nullable = false)
     private String privateClientSecret;
-
-    @NotNull
-    @Column(name = "access_token_secret", nullable = false)
-    private String accessTokenSecret = UUID.randomUUID().toString();
 
     public Long getInternalId()
     {
@@ -150,16 +138,6 @@ public class IdentityProviderPO implements Serializable
         return Objects.equals(globalRef, other.globalRef);
     }
 
-    public long getTokenValidityPeriod()
-    {
-        return tokenValidityPeriod;
-    }
-
-    public void setTokenValidityPeriod(long tokenValidityPeriod)
-    {
-        this.tokenValidityPeriod = tokenValidityPeriod;
-    }
-
     public String getPublicTokenURI()
     {
         return publicTokenURI;
@@ -168,16 +146,6 @@ public class IdentityProviderPO implements Serializable
     public void setPublicTokenURI(String publicTokenURI)
     {
         this.publicTokenURI = publicTokenURI;
-    }
-
-    public String getAccessTokenSecret()
-    {
-        return accessTokenSecret;
-    }
-
-    public void setAccessTokenSecret(String accessTokenSecret)
-    {
-        this.accessTokenSecret = accessTokenSecret;
     }
 
     public String getPublicUserInfoURI()

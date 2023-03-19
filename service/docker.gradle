@@ -82,6 +82,7 @@ task prepareDockerEnv() {
     doLast() {
         dockerEnvFile.write "DATASOURCE_URL=${getConfigurationProperty 'SPRING_DATASOURCE_URL', 'spring.datasource.url'}\n"
         dockerEnvFile.write "ALLOW_CORS_ORIGINS=*\n"
+        dockerEnvFile.write "JWT_SECRET=secret\n"
         dockerEnvFile.append "\n"
     }
 
