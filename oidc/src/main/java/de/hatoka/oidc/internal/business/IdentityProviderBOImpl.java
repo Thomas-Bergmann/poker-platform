@@ -179,12 +179,6 @@ public class IdentityProviderBOImpl implements IdentityProviderBO
     }
 
     @Override
-    public Long getTokenValidityPeriod()
-    {
-        return identityProviderPO.getTokenValidityPeriod();
-    }
-
-    @Override
     public IdentityProviderDataRO getData()
     {
         IdentityProviderMetaDataResponse metaData = getMetaData();
@@ -201,7 +195,6 @@ public class IdentityProviderBOImpl implements IdentityProviderBO
                         : identityProviderPO.getPublicTokenIssuer());
         result.setUserInfoURI(identityProviderPO.getPublicUserInfoURI() == null ? metaData.getUserInfoEndpoint()
                         : identityProviderPO.getPublicUserInfoURI());
-        result.setTokenValidityPeriod(identityProviderPO.getTokenValidityPeriod());
 
         result.setPrivateClientId(identityProviderPO.getPrivateClientId());
         result.setPrivateClientSecret(identityProviderPO.getPrivateClientSecret().isBlank() ? "(empty)" : "(provided)");

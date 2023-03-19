@@ -30,9 +30,11 @@ export class OIDCFacade {
       this.authenticationService.getTokenForCodeFlow(p).then((idToken) =>
       {
         this.authorizationService.getAccessToken(p, idToken).then((tokenResponse) => {
-          var claims = this.getClaims(tokenResponse.access_token);
+          // access token will stored at interceptor
           this.store.dispatch(setAccessToken({ token : tokenResponse.access_token}));
-          this.store.dispatch(addResources({ resources : this.getScopes(claims)}));
+          // response.scope will contain list of URIs assigned to that token
+          this.store.dispatch(addResources({ resources : this.getScopes(tokenResponse.scope)}));
+          var claims = this.getClaims(tokenResponse.access_token);
           this.store.dispatch(defineUser({ user : this.getUser(claims)}));
         });
       });
@@ -47,8 +49,7 @@ export class OIDCFacade {
     // console.log("claims from access_token", claims);
     return claims;
   }
-  private getScopes(claims:any):string[] {
-    var scopes : string = claims.scope;
+  private getScopes(scopes : string):string[] {
     return scopes.split(" ");
   }
   private getUser(claims:any):string {

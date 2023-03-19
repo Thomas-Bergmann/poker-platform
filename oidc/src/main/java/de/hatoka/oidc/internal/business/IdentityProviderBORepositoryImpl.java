@@ -45,7 +45,6 @@ public class IdentityProviderBORepositoryImpl implements IdentityProviderBORepos
         identityProviderPO.setPrivateClientSecret(data.getPrivateClientSecret());
 
         identityProviderPO.setName(data.getName());
-        identityProviderPO.setTokenValidityPeriod(data.getTokenValidityPeriod());
         return factory.get(identityProviderDao.save(identityProviderPO));
     }
 

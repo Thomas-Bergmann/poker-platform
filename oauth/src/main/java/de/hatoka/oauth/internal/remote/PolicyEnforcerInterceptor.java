@@ -52,14 +52,17 @@ public class PolicyEnforcerInterceptor implements HandlerInterceptor
                 logger.trace("Client allowed to access uri '{}'' with method '{}'", uri.getPath(), request.getMethod());
                 return true;
             }
-            // allow retrieving token from identity provider
-            if (HttpMethod.POST.matches(request.getMethod()) && uri.getPath().endsWith(IdentityProviderController.METHOD_TOKEN))
-            {
-                logger.trace("Client allowed to access uri '{}'' with method '{}'", uri.getPath(), request.getMethod());
-                return true;
-            }
             if(bearer.isPresent() && bearer.get().equals(oidcConfig.getOidcAuthenticationToken()))
             {
+                return true;
+            }
+        }
+        else if (uri.getPath().startsWith(BotTokenController.PATH_ROOT) || uri.getPath().startsWith(UserTokenController.PATH_ROOT))
+        {
+            // allow retrieving token from token controllers
+            if (HttpMethod.POST.matches(request.getMethod()))
+            {
+                logger.trace("Client allowed to access tokens via '{}'' with method '{}'", uri.getPath(), request.getMethod());
                 return true;
             }
         }

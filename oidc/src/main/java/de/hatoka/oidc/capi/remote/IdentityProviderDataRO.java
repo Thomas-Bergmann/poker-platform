@@ -11,13 +11,6 @@ public class IdentityProviderDataRO
     private String name;
 
     /**
-     * Token validity period in seconds
-     */
-    @NotNull
-    @JsonProperty("tokenValidity")
-    private Long tokenValidityPeriod;
-
-    /**
      * Client Identifier
      */
     @NotNull
@@ -129,16 +122,6 @@ public class IdentityProviderDataRO
     public void setTokenIssuer(String tokenIssuer)
     {
         this.tokenIssuer = tokenIssuer;
-    }
-
-    public Long getTokenValidityPeriod()
-    {
-        return tokenValidityPeriod;
-    }
-
-    public void setTokenValidityPeriod(Long tokenValidityPeriod)
-    {
-        this.tokenValidityPeriod = tokenValidityPeriod;
     }
 
     public String getPrivateClientId()

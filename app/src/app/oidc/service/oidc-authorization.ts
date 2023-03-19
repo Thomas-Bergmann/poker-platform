@@ -20,9 +20,15 @@ export class OIDCAuthorizationService {
           'Authorization': 'Bearer ' + idToken,
         }),
       }
+      var data : OAuthUserAuthenticationRO  = new OAuthUserAuthenticationRO();
+      data.idp = provider.localRef;
       this.http
-        .post<TokenResponse>(provider.authorizationURI, '', httpOptions)
+        .post<TokenResponse>(provider.authorizationURI, data, httpOptions)
         .subscribe((tokenResponse) => resolve(tokenResponse));
     });
   }
 }
+
+ class OAuthUserAuthenticationRO {
+  "idp" : string
+ }

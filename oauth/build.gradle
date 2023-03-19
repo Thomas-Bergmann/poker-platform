@@ -3,6 +3,7 @@ dependencies {
     implementation project(':oidc')
     implementation project(':user')
     implementation project(':player')
+    implementation project(':table')
     implementation project(':poker')
 
     implementation 'org.springframework.boot:spring-boot-starter-data-jpa'

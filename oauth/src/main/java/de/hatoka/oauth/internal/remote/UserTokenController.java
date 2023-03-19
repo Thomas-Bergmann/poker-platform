@@ -2,8 +2,11 @@ package de.hatoka.oauth.internal.remote;
 
 import static org.springframework.util.MimeTypeUtils.APPLICATION_JSON_VALUE;
 
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Optional;
 
+import org.apache.logging.log4j.util.Strings;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;
@@ -22,9 +25,10 @@ import de.hatoka.oidc.capi.business.IdentityProviderBO;
 import de.hatoka.oidc.capi.business.IdentityProviderBORepository;
 import de.hatoka.oidc.capi.business.IdentityProviderRef;
 import de.hatoka.oidc.capi.remote.OIDCUserInfo;
-import de.hatoka.poker.player.capi.business.PlayerBORepository;
+import de.hatoka.poker.player.internal.remote.PlayerController;
 import de.hatoka.poker.remote.oauth.OAuthRefreshRO;
 import de.hatoka.poker.remote.oauth.OAuthTokenResponse;
+import de.hatoka.poker.table.internal.remote.TableController;
 
 @RestController
 @RequestMapping(value = UserTokenController.PATH_ROOT, produces = { APPLICATION_JSON_VALUE })
@@ -37,8 +41,6 @@ public class UserTokenController
 
     @Autowired
     private IdentityProviderBORepository idpRepository;
-    @Autowired
-    private PlayerBORepository playerRepository;
     @Autowired
     private RestControllerErrorSupport errorSupport;
     @Autowired
@@ -60,7 +62,22 @@ public class UserTokenController
         }
         String idToken = bearerToken.substring(BEARER_PREFIX.length()).trim();
         OIDCUserInfo userInfo = idp.getUserInfo(idToken);
-        return tokenUtils.createTokenForSubject(userInfo.getSubject());
+        OAuthTokenResponse result = tokenUtils.createTokenForSubject(userInfo.getSubject());
+        result.setScope(getScopes(uriBuilder));
+        return result;
+    }
+
+    /**
+     * Client like to have space separated list of URI to define assignment from uri to token
+     * @param uriBuilder
+     * @return
+     */
+    private String getScopes(UriComponentsBuilder uriBuilder)
+    {
+        List<String> uris = new ArrayList<>();
+        uris.add(uriBuilder.replaceQuery(null).replacePath(PlayerController.PATH_ROOT).build().toUri().toString());
+        uris.add(uriBuilder.replaceQuery(null).replacePath(TableController.PATH_ROOT).build().toUri().toString());
+        return Strings.join(uris, ' ');
     }
 
     @PostMapping(value = PATH_SUB_REFRESH, consumes = { APPLICATION_JSON_VALUE })

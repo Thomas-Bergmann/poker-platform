@@ -27,7 +27,8 @@ public interface IdentityProviderBO
      */
     OIDCUserInfo getUserInfo(String idToken);
 
-    Long getTokenValidityPeriod();
-
+    /**
+     * @return data which can be set to identify users at external identity provider
+     */
     IdentityProviderDataRO getData();
 }

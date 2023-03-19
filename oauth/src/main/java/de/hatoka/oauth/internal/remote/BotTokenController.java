@@ -26,8 +26,8 @@ import de.hatoka.poker.remote.oauth.OAuthTokenResponse;
 public class BotTokenController
 {
     public static final String PATH_ROOT = "/auth/bots";
-    public static final String PATH_SUB_BOT_TOKEN = "/token";
-    public static final String PATH_SUB_BOT_REFRESH = "/refresh";
+    public static final String PATH_SUB_TOKEN = "/token";
+    public static final String PATH_SUB_REFRESH = "/refresh";
 
     @Autowired
     private PlayerBORepository playerRepository;
@@ -36,7 +36,7 @@ public class BotTokenController
     @Autowired
     private TokenUtils tokenUtils;
 
-    @PostMapping(value = PATH_SUB_BOT_TOKEN, consumes = { APPLICATION_JSON_VALUE })
+    @PostMapping(value = PATH_SUB_TOKEN, consumes = { APPLICATION_JSON_VALUE })
     @ResponseStatus(HttpStatus.OK)
     public OAuthTokenResponse createTokenForBot(@RequestBody OAuthBotAuthenticationRO input)
     {
@@ -54,7 +54,7 @@ public class BotTokenController
         return tokenUtils.createTokenForSubject(bot.getRef().getGlobalRef());
     }
 
-    @PostMapping(value = PATH_SUB_BOT_REFRESH, consumes = { APPLICATION_JSON_VALUE })
+    @PostMapping(value = PATH_SUB_REFRESH, consumes = { APPLICATION_JSON_VALUE })
     @ResponseStatus(HttpStatus.OK)
     public OAuthTokenResponse createTokenFromRefresh(@RequestBody OAuthRefreshRO input)
     {

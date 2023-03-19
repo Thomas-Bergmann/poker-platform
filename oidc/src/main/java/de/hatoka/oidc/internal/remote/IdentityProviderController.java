@@ -34,14 +34,13 @@ import de.hatoka.oidc.capi.remote.OIDCUserInfo;
 public class IdentityProviderController
 {
     public static final String BEARER_PREFIX = "bearer ";
+    public static final String PATH_TOKEN    = "/auth/users/token";
     public static final String PATH_ROOT = "/auth/idps";
     public static final String PATH_VAR_IDP = "idpRef";
     public static final String SUB_PATH_IDP = "/{" + PATH_VAR_IDP + "}";
     public static final String PATH_IDP = PATH_ROOT + SUB_PATH_IDP;
     public static final String SUB_PATH_AUTH     = SUB_PATH_IDP + "/auth";
     public static final String SUB_PATH_REDIRECT = SUB_PATH_IDP + "/redirect";
-    public static final String METHOD_TOKEN    = "/token";
-    public static final String SUB_PATH_TOKEN    = SUB_PATH_IDP + METHOD_TOKEN;
     public static final String PARAMETER_PUBLIC = "public";
     public static final String PARAMETER_CODE = "code";
     public static final String QUERY_PATH_IDPS = PATH_ROOT;
@@ -127,11 +126,11 @@ public class IdentityProviderController
         return idpBO2RO.apply(group, getServerUris(uriBuilder, group));
     }
 
-    private IdentityProviderInfoRO getServerUris(UriComponentsBuilder uriBuilder, IdentityProviderBO group)
+    private IdentityProviderInfoRO getServerUris(UriComponentsBuilder uriBuilder, IdentityProviderBO provider)
     {
         IdentityProviderInfoRO result = new IdentityProviderInfoRO();
-        result.setAuthorizationUri(this.getTokenURI(uriBuilder, group).toString());
-        result.setUserInfoUri(this.getUserInfoURI(uriBuilder, group).toString());
+        result.setAuthorizationUri(this.getTokenURI(uriBuilder, provider).toString());
+        result.setUserInfoUri(this.getUserInfoURI(uriBuilder, provider).toString());
         return result;
     }
 
@@ -146,6 +145,6 @@ public class IdentityProviderController
     }
     private URI getTokenURI(UriComponentsBuilder uriBuilder, IdentityProviderBO provider)
     {
-        return uriBuilder.replaceQuery(null).replacePath(PATH_ROOT + "/" + provider.getRef().getLocalRef() + METHOD_TOKEN).build().toUri();
+        return uriBuilder.replaceQuery(null).replacePath(PATH_TOKEN).build().toUri();
     }
 }
