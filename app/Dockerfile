@@ -25,11 +25,11 @@ FROM nginx:1.15.3-alpine
 RUN rm -rf /usr/share/nginx/html/*
 
 ## From ‘builder’ stage copy over the artifacts in dist folder to default nginx public folder
-COPY --from=builder /workspace/app-project/dist/app-project /usr/share/nginx/html
+COPY --from=builder /workspace/app-project/dist/poker-app /usr/share/nginx/html
 COPY nginx/default.conf /etc/nginx/conf.d
 
 EXPOSE 80
-VOLUME [/usr/share/nginx/html/assets/config/config.json]
+VOLUME [/usr/share/nginx/html/assets/config]
 
 HEALTHCHECK --interval=30s --timeout=30s --start-period=5s --retries=3 CMD [ "curl http://localhost:80" ]
 

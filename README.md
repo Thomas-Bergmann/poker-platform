@@ -109,6 +109,23 @@ app structure
 * service JDK 17
 * app typescript with angular 15
 
+## Docker
+
+docker images can be built from service `local/hatoka/poker-service:latest`
+```
+gw buildImage
+```
+
+and from app `local/hatoka/poker-app:latest`
+```
+cd app
+docker build . -t local/hatoka/poker-app:latest
+```
+
+starting the containers
+```
+docker compose -f docker-compose-all.yml up
+```
 
 # License
 
