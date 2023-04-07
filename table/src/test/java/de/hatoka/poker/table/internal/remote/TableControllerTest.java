@@ -8,6 +8,7 @@ package de.hatoka.poker.table.internal.remote;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertNotNull;
+import static org.junit.jupiter.api.Assertions.assertTrue;
 
 import java.util.Arrays;
 import java.util.HashMap;
@@ -22,11 +23,13 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.boot.test.context.SpringBootTest.WebEnvironment;
 import org.springframework.boot.test.web.client.TestRestTemplate;
+import org.springframework.http.HttpEntity;
+import org.springframework.http.HttpMethod;
+import org.springframework.http.ResponseEntity;
 import org.springframework.test.context.ActiveProfiles;
 import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit.jupiter.SpringExtension;
 
-import de.hatoka.common.capi.rest.test.TestSecurityConfiguration;
 import de.hatoka.poker.remote.TableCreateRO;
 import de.hatoka.poker.remote.TableRO;
 import de.hatoka.poker.rules.PokerLimit;
@@ -38,7 +41,7 @@ import tests.de.hatoka.poker.table.TableTestConfiguration;
 
 @ExtendWith(SpringExtension.class)
 @SpringBootTest(classes = { TableTestApplication.class }, webEnvironment = WebEnvironment.RANDOM_PORT)
-@ContextConfiguration(classes = { TableTestConfiguration.class, TestSecurityConfiguration.class })
+@ContextConfiguration(classes = { TableTestConfiguration.class })
 @ActiveProfiles("test")
 public class TableControllerTest
 {
@@ -106,7 +109,10 @@ public class TableControllerTest
 
     private void putTable(TableRef ref, TableCreateRO data)
     {
-        this.restTemplate.put(TableController.PATH_TABLE, data, createURIParameter(ref));
+        HttpEntity<TableCreateRO> entity = new HttpEntity<>(data);
+        ResponseEntity<Void> response = this.restTemplate.exchange(TableController.PATH_TABLE, HttpMethod.PUT, entity , Void.class, createURIParameter(ref));
+        assertTrue(response.getStatusCode().is2xxSuccessful(), "returned with " + response.getStatusCodeValue());
+        // this.restTemplate.put(TableController.PATH_TABLE, data, createURIParameter(ref));
     }
 
     private void deleteTable(TableRef ref)

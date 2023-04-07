@@ -28,7 +28,6 @@ import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit.jupiter.SpringExtension;
 import org.springframework.util.MultiValueMap;
 
-import de.hatoka.common.capi.rest.test.TestSecurityConfiguration;
 import de.hatoka.oidc.capi.IdentityProviderConfiguration;
 import de.hatoka.oidc.capi.business.IdentityProviderRef;
 import de.hatoka.oidc.capi.remote.IdentityProviderDataRO;
@@ -38,7 +37,7 @@ import tests.de.hatoka.oidc.OidcTestConfiguration;
 
 @ExtendWith(SpringExtension.class)
 @SpringBootTest(classes = { OidcTestApplication.class }, webEnvironment = WebEnvironment.RANDOM_PORT)
-@ContextConfiguration(classes = { OidcTestConfiguration.class, TestSecurityConfiguration.class })
+@ContextConfiguration(classes = { OidcTestConfiguration.class })
 @ActiveProfiles("test")
 public class AuthControllerTest
 {

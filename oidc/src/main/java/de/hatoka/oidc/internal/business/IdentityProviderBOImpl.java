@@ -3,8 +3,6 @@ package de.hatoka.oidc.internal.business;
 import java.text.ParseException;
 import java.util.UUID;
 
-import javax.transaction.Transactional;
-
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -33,6 +31,7 @@ import de.hatoka.oidc.internal.remote.IdentityProviderMetaDataResponse;
 import de.hatoka.user.capi.business.UserBO;
 import de.hatoka.user.capi.business.UserBORepository;
 import de.hatoka.user.capi.business.UserRef;
+import jakarta.transaction.Transactional;
 
 @Component
 @Scope(ConfigurableBeanFactory.SCOPE_PROTOTYPE)

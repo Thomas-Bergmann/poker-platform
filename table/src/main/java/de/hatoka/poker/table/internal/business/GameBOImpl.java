@@ -3,8 +3,6 @@ package de.hatoka.poker.table.internal.business;
 import java.util.List;
 import java.util.stream.Collectors;
 
-import javax.transaction.Transactional;
-
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.config.ConfigurableBeanFactory;
@@ -23,6 +21,7 @@ import de.hatoka.poker.table.capi.event.history.seat.PlayerEvent;
 import de.hatoka.poker.table.internal.json.GameEventType;
 import de.hatoka.poker.table.internal.persistence.GameEventDao;
 import de.hatoka.poker.table.internal.persistence.GameEventPO;
+import jakarta.transaction.Transactional;
 
 @Component
 @Scope(ConfigurableBeanFactory.SCOPE_PROTOTYPE)

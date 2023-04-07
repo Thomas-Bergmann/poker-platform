@@ -11,7 +11,7 @@ dependencies {
 
     implementation 'javax.validation:validation-api'
     // to activate PATCH method
-	implementation 'org.apache.httpcomponents:httpclient'
+	implementation 'org.apache.httpcomponents.client5:httpclient5'
 
 	//Test
     testImplementation ('org.springframework.boot:spring-boot-starter-test') {

@@ -1,10 +1,13 @@
 package de.hatoka.oauth.capi.business;
 
+import java.security.Key;
 import java.util.Collections;
 import java.util.Date;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.function.Function;
+
+import javax.crypto.spec.SecretKeySpec;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.security.oauth2.core.OAuth2AuthenticationException;
@@ -13,8 +16,10 @@ import org.springframework.stereotype.Component;
 
 import de.hatoka.poker.remote.oauth.OAuthTokenResponse;
 import io.jsonwebtoken.Claims;
+import io.jsonwebtoken.JwtParser;
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.SignatureAlgorithm;
+import jakarta.xml.bind.DatatypeConverter;
 
 @Component
 public class TokenUtils
@@ -86,6 +91,7 @@ public class TokenUtils
 
     /**
      * Generates an identity token (can be used to get information about player or bot
+     * 
      * @param meta
      * @param subject
      * @param claims
@@ -98,6 +104,7 @@ public class TokenUtils
 
     /**
      * Generates an access token (can be used to get access to non authorization resources
+     * 
      * @param meta
      * @param subject
      * @param claims
@@ -110,6 +117,7 @@ public class TokenUtils
 
     /**
      * Generates a refresh token (can be used to generate a new access token, without transferring credentials again)
+     * 
      * @param subject
      * @param claims
      * @return jwt token
@@ -135,7 +143,7 @@ public class TokenUtils
      */
     public boolean isTokenValid(String token, TokenUsage usage)
     {
-        return isTokenValid(token) &&  usage == getClaimFromToken(token, CLAIM_METADATA_PROVIDER).getUsage();
+        return isTokenValid(token) && usage == getClaimFromToken(token, CLAIM_METADATA_PROVIDER).getUsage();
     }
 
     public boolean isTokenValid(String token, TokenUsage usage, String subject, Map<String, Object> claims)
@@ -150,7 +158,8 @@ public class TokenUtils
     private boolean isTokenExpired(String token)
     {
         Date now = new Date(getNow());
-        return getClaimFromToken(token, Claims::getExpiration).before(now) && getClaimFromToken(token, Claims::getNotBefore).after(now);
+        return getClaimFromToken(token, Claims::getExpiration).before(now)
+                        && getClaimFromToken(token, Claims::getNotBefore).after(now);
     }
 
     private long getNow()
@@ -185,7 +194,23 @@ public class TokenUtils
     // for retrieveing any information from token we will need the secret key
     private Claims getAllClaimsFromToken(String token)
     {
-        return Jwts.parser().setSigningKey(secret).parseClaimsJws(token).getBody();
+        return getJwtParser().parseClaimsJws(token).getBody();
+    }
+
+    private JwtParser getJwtParser()
+    {
+        return Jwts.parserBuilder().setSigningKey(getKey()).build();
+    }
+
+    private Key getKey()
+    {
+        byte[] secretBytes = DatatypeConverter.parseBase64Binary(secret);
+        return new SecretKeySpec(secretBytes, getAlgoritm().getJcaName());
+    }
+
+    private SignatureAlgorithm getAlgoritm()
+    {
+        return SignatureAlgorithm.HS256;
     }
 
     // while creating the token -
@@ -200,13 +225,14 @@ public class TokenUtils
         Map<String, Object> withMetaClaims = new HashMap<>();
         withMetaClaims.putAll(claims);
         withMetaClaims.put(CLAIM_TOKEN_META, meta.setIssuedAt(now));
+
         return Jwts.builder()
                    .setClaims(withMetaClaims)
                    .setSubject(subject)
                    .setNotBefore(new Date(now))
                    .setIssuedAt(new Date(now))
                    .setExpiration(new Date(now + validity))
-                   .signWith(SignatureAlgorithm.HS512, secret)
+                   .signWith(getKey(), getAlgoritm())
                    .compact();
     }
 

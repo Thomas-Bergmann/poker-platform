@@ -19,7 +19,6 @@ import org.springframework.test.context.ActiveProfiles;
 import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit.jupiter.SpringExtension;
 
-import de.hatoka.common.capi.rest.test.TestSecurityConfiguration;
 import de.hatoka.poker.player.capi.business.PlayerBORepository;
 import de.hatoka.poker.player.capi.remote.PlayerRO;
 import de.hatoka.user.capi.business.UserRef;
@@ -28,7 +27,7 @@ import tests.de.hatoka.poker.player.PlayerTestConfiguration;
 
 @ExtendWith(SpringExtension.class)
 @SpringBootTest(classes = { PlayerTestApplication.class }, webEnvironment = WebEnvironment.RANDOM_PORT)
-@ContextConfiguration(classes = { PlayerTestConfiguration.class, TestSecurityConfiguration.class })
+@ContextConfiguration(classes = { PlayerTestConfiguration.class })
 @ActiveProfiles("test")
 public class PlayerControllerTest
 {

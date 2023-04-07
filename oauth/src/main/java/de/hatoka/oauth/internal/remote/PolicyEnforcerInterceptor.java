@@ -4,9 +4,6 @@ import java.net.URI;
 import java.util.Enumeration;
 import java.util.Optional;
 
-import javax.servlet.http.HttpServletRequest;
-import javax.servlet.http.HttpServletResponse;
-
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -20,6 +17,8 @@ import de.hatoka.oauth.capi.business.TokenUsage;
 import de.hatoka.oauth.capi.business.TokenUtils;
 import de.hatoka.oidc.capi.IdentityProviderConfiguration;
 import de.hatoka.oidc.internal.remote.IdentityProviderController;
+import jakarta.servlet.http.HttpServletRequest;
+import jakarta.servlet.http.HttpServletResponse;
 
 @Component
 public class PolicyEnforcerInterceptor implements HandlerInterceptor
