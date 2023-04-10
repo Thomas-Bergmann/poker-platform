@@ -8,7 +8,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.ComponentScan;
 
 import de.hatoka.poker.bot.remote.client.PokerClientFactory;
-import de.hatoka.poker.bot.remote.client.PokerServiceClient;
+import de.hatoka.poker.bot.remote.client.BotServiceClient;
 import de.hatoka.poker.bot.strategy.PokerStrategy;
 import de.hatoka.poker.bot.strategy.PokerStrategyFactory;
 
@@ -69,7 +69,7 @@ public class BotApplication implements CommandLineRunner
     
     public void run(String serviceURI, String botRef, String botKey)
     {
-        PokerServiceClient client = clientFactory.create(serviceURI, botRef, botKey);
+        BotServiceClient client = clientFactory.create(serviceURI, botRef, botKey);
         PokerStrategy strategy = strategyFactory.create(client);
         strategy.run();
     }

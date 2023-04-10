@@ -27,6 +27,7 @@ import de.hatoka.poker.table.capi.event.history.lifecycle.TransferEvent;
 import de.hatoka.poker.table.capi.event.history.pot.CollectCoinsEvent;
 import de.hatoka.poker.table.capi.event.history.seat.BetEvent;
 import de.hatoka.poker.table.capi.event.history.seat.BlindEvent;
+import de.hatoka.poker.table.capi.event.history.seat.FoldEvent;
 import de.hatoka.poker.table.capi.event.history.seat.SetEvent;
 
 public class DealerInGameImpl implements DealerInGame
@@ -505,5 +506,20 @@ public class DealerInGameImpl implements DealerInGame
         result.setCoinsOnSeatAfterGame(afterGame);
         result.setCoinsOnSeatDiffOfGame(diffGame);
         return result;
+    }
+
+    @Override
+    public Optional<SeatRef> getSeatWithAction()
+    {
+        return game.getSeatHasAction();
+    }
+
+    @Override
+    public void abort(SeatRef seatRef)
+    {
+        FoldEvent result = new FoldEvent();
+        result.setSeat(seatRef);
+        result.setByDealer(true);
+        game.publishEvent(result);
     }
 }

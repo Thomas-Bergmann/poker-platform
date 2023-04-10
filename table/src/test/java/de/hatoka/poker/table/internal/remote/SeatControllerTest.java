@@ -19,7 +19,6 @@ import org.springframework.test.context.ActiveProfiles;
 import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit.jupiter.SpringExtension;
 
-import de.hatoka.common.capi.rest.test.TestSecurityConfiguration;
 import de.hatoka.poker.player.capi.business.PlayerBORepository;
 import de.hatoka.poker.player.capi.business.PlayerRef;
 import de.hatoka.poker.remote.SeatDataRO;
@@ -35,7 +34,7 @@ import tests.de.hatoka.poker.table.TableTestConfiguration;
 
 @ExtendWith(SpringExtension.class)
 @SpringBootTest(classes = { TableTestApplication.class }, webEnvironment = WebEnvironment.RANDOM_PORT)
-@ContextConfiguration(classes = { TableTestConfiguration.class, TestSecurityConfiguration.class })
+@ContextConfiguration(classes = { TableTestConfiguration.class })
 @ActiveProfiles("test")
 public class SeatControllerTest
 {

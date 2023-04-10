@@ -56,15 +56,14 @@ dependencies {
     runtimeOnly 'io.micrometer:micrometer-core'
     runtimeOnly 'io.micrometer:micrometer-registry-prometheus'
     runtimeOnly 'org.springframework.boot:spring-boot-starter-tomcat'
-    runtimeOnly 'javax.xml.bind:jaxb-api'
     runtimeOnly 'org.glassfish.jaxb:jaxb-runtime'
-    runtimeOnly 'javax.activation:javax.activation-api'
     // logging, see logback.xml
     runtimeOnly 'net.logstash.logback:logstash-logback-encoder'
 
     //Database
     runtimeOnly 'com.microsoft.sqlserver:mssql-jdbc'
     runtimeOnly 'org.flywaydb:flyway-core'
+    runtimeOnly 'org.flywaydb:flyway-sqlserver'
 
 	//Test
     testImplementation ('org.springframework.boot:spring-boot-starter-test') {

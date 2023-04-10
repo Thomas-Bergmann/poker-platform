@@ -249,4 +249,16 @@ public class DealerInGameImplTest
         assertEquals(CheckEvent.class, events.get(24).getClass());
         assertTrue(dealerInfo.hasDealerAction());
     }
+
+    @Test
+    @Timeout(10)
+    public void testDealerNoActive() throws IOException, URISyntaxException
+    {
+        GameInfo dealerInfo = getGameInfo("DealerTest_noActive.csv");
+        List<GameEvent> events = dealerInfo.getEvents(GameEvent.class).toList();
+        assertEquals(StartEvent.class, events.get(0).getClass());
+        assertTrue(dealerInfo.getSeatHasAction().isPresent());
+        // dealer needs to check that this seat has not left the table
+        assertEquals(0, dealerInfo.getSeatHasAction().get().getPosition());
+    }
 }

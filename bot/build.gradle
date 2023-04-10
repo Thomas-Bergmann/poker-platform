@@ -18,9 +18,7 @@ dependencies {
 
     implementation 'javax.validation:validation-api'
 
-    runtimeOnly 'javax.xml.bind:jaxb-api'
     runtimeOnly 'org.glassfish.jaxb:jaxb-runtime'
-    runtimeOnly 'javax.activation:javax.activation-api'
     // logging, see logback.xml
     runtimeOnly 'net.logstash.logback:logstash-logback-encoder'
 

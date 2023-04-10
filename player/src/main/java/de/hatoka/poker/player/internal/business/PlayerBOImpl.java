@@ -2,8 +2,6 @@ package de.hatoka.poker.player.internal.business;
 
 import java.util.UUID;
 
-import javax.transaction.Transactional;
-
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.config.ConfigurableBeanFactory;
 import org.springframework.context.annotation.Scope;
@@ -15,6 +13,7 @@ import de.hatoka.poker.player.capi.business.PlayerType;
 import de.hatoka.poker.player.internal.persistence.PlayerDao;
 import de.hatoka.poker.player.internal.persistence.PlayerPO;
 import de.hatoka.user.capi.business.UserRef;
+import jakarta.transaction.Transactional;
 
 @Component
 @Scope(ConfigurableBeanFactory.SCOPE_PROTOTYPE)

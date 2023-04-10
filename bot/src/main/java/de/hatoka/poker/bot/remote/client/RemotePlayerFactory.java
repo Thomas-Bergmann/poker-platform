@@ -9,5 +9,5 @@ public interface RemotePlayerFactory
      * @param client for bot
      * @return possible actions for player on table
      */
-    RemotePlayer create(SeatRO seat, PokerServiceClient client);
+    RemotePlayer create(SeatRO seat, BotServiceClient client);
 }

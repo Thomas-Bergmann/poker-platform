@@ -11,6 +11,9 @@ public class FoldEvent implements PublicGameEvent, PlayerEvent
     @JsonProperty("seat")
     private String seat;
 
+    @JsonProperty("by-dealer")
+    private boolean byDealer = false;
+
     @JsonIgnore
     public SeatRef getSeat()
     {
@@ -21,5 +24,15 @@ public class FoldEvent implements PublicGameEvent, PlayerEvent
     public void setSeat(SeatRef seat)
     {
         this.seat = seat.getGlobalRef();
+    }
+
+    public boolean isByDealer()
+    {
+        return byDealer;
+    }
+
+    public void setByDealer(boolean byDealer)
+    {
+        this.byDealer = byDealer;
     }
 }

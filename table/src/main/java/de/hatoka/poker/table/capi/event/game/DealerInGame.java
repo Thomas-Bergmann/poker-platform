@@ -1,5 +1,8 @@
 package de.hatoka.poker.table.capi.event.game;
 
+import java.util.Optional;
+
+import de.hatoka.poker.table.capi.business.SeatRef;
 import de.hatoka.poker.table.capi.event.history.lifecycle.TransferEvent;
 
 /**
@@ -121,4 +124,15 @@ public interface DealerInGame
      *         directly.
      */
     TransferEvent getTransfer();
+
+    /**
+     * @return seat who has action currently, to check that the player is still on table.
+     */
+    Optional<SeatRef> getSeatWithAction();
+
+    /**
+     * Dealer aborts game for player (e.g. stand-up or timeout)
+     * @param seatRef seat is disqualified
+     */
+    void abort(SeatRef seatRef);
 }

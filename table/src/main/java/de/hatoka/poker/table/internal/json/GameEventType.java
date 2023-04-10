@@ -4,6 +4,7 @@ import de.hatoka.poker.table.capi.event.history.GameEvent;
 import de.hatoka.poker.table.capi.event.history.card.BoardCardsEvent;
 import de.hatoka.poker.table.capi.event.history.card.BurnCardEvent;
 import de.hatoka.poker.table.capi.event.history.card.HoleCardsEvent;
+import de.hatoka.poker.table.capi.event.history.lifecycle.ErrorEvent;
 import de.hatoka.poker.table.capi.event.history.lifecycle.PublicStartEvent;
 import de.hatoka.poker.table.capi.event.history.lifecycle.ShowdownEvent;
 import de.hatoka.poker.table.capi.event.history.lifecycle.StartEvent;
@@ -34,6 +35,7 @@ public enum GameEventType
     Showdown(ShowdownEvent.class, new JsonSerializer<ShowdownEvent>(ShowdownEvent.class)),
     PublicPotEvent(PublicPotEvent.class, new JsonSerializer<PublicPotEvent>(PublicPotEvent.class)),
     TransferEvent(TransferEvent.class, new JsonSerializer<TransferEvent>(TransferEvent.class)),
+    ErrorEvent(ErrorEvent.class, new JsonSerializer<ErrorEvent>(ErrorEvent.class)),
     ;
     private final Class<? extends GameEvent> eventClass;
     private final JsonSerializer<? extends GameEvent> serializer;

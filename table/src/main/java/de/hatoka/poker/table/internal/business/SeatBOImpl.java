@@ -3,8 +3,6 @@ package de.hatoka.poker.table.internal.business;
 import java.util.Objects;
 import java.util.Optional;
 
-import javax.transaction.Transactional;
-
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.config.ConfigurableBeanFactory;
 import org.springframework.context.annotation.Scope;
@@ -18,6 +16,7 @@ import de.hatoka.poker.table.capi.business.SeatRef;
 import de.hatoka.poker.table.capi.business.TableBO;
 import de.hatoka.poker.table.internal.persistence.SeatDao;
 import de.hatoka.poker.table.internal.persistence.SeatPO;
+import jakarta.transaction.Transactional;
 
 @Component
 @Scope(ConfigurableBeanFactory.SCOPE_PROTOTYPE)

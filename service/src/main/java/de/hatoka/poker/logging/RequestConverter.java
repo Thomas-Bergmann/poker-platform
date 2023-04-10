@@ -1,13 +1,12 @@
 package de.hatoka.poker.logging;
 
-import javax.servlet.http.HttpServletRequest;
-
 import org.springframework.web.context.request.RequestAttributes;
 import org.springframework.web.context.request.RequestContextHolder;
 import org.springframework.web.context.request.ServletRequestAttributes;
 
 import ch.qos.logback.classic.pattern.ClassicConverter;
 import ch.qos.logback.classic.spi.ILoggingEvent;
+import jakarta.servlet.http.HttpServletRequest;
 
 public class RequestConverter extends ClassicConverter
 {

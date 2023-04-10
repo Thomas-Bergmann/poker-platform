@@ -10,8 +10,11 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 
 import de.hatoka.poker.base.Deck;
 import de.hatoka.poker.base.Pot;
+import de.hatoka.poker.player.capi.business.PlayerBO;
+import de.hatoka.poker.player.capi.business.PlayerRef;
 import de.hatoka.poker.table.capi.business.SeatBO;
 import de.hatoka.poker.table.capi.business.SeatRef;
+import de.hatoka.poker.table.capi.business.TableRef;
 import de.hatoka.poker.table.capi.event.history.DealerEvent;
 import de.hatoka.poker.table.capi.event.history.GameEvent;
 import de.hatoka.poker.table.capi.event.history.PrivateGameEvent;
@@ -22,14 +25,40 @@ public class StartEvent implements ChangedPotEvent, DealerEvent, PrivateGameEven
     /**
      * Contains players/seats (seat ref) taking part of game
      */
+    @JsonProperty("table")
+    private String table;
+
+    /**
+     * Contains players/seats (seat ref) taking part of game
+     */
     @JsonProperty("seats")
+    @Deprecated
     private List<String> seats;
 
     /**
      * Contains players/seats (seat ref) taking part of game
      */
+    @JsonProperty("seats-no")
+    private List<Integer> seatsNumbers;
+
+    /**
+     * Contains players/seats (seat ref) taking part of game
+     */
     @JsonProperty("coins-on-seat")
+    @Deprecated
     private Map<String, Integer> coinsOnSeat;
+
+    /**
+     * Contains players/seats (seat ref) taking part of game
+     */
+    @JsonProperty("seat-coins")
+    private Map<Integer, Integer> seatCoins;
+
+    /**
+     * Contains players/seats (seat ref) taking part of game
+     */
+    @JsonProperty("seat-player")
+    private Map<Integer, String> seatPlayer;
 
     /**
      * Contains player/seat (seat ref) of dealer
@@ -42,7 +71,7 @@ public class StartEvent implements ChangedPotEvent, DealerEvent, PrivateGameEven
      */
     @JsonProperty("deck")
     private String deck;
-    
+
     /**
      * Contains the pot after blinds
      */
@@ -61,26 +90,47 @@ public class StartEvent implements ChangedPotEvent, DealerEvent, PrivateGameEven
     @JsonProperty("blind-big")
     private Integer bigBlind;
 
+
+    private SeatRef getSeatRef(Integer position)
+    {
+        return SeatRef.localRef(TableRef.globalRef(table), position);
+    }
+    
     @JsonIgnore
     public List<SeatRef> getSeats()
     {
-        return seats.stream().map(SeatRef::globalRef).toList();
+        if(this.seats != null)
+        {
+            return seats.stream().map(SeatRef::globalRef).toList();
+        }
+        return seatsNumbers.stream().map(this::getSeatRef).toList();
     }
 
     @JsonIgnore
     public void setSeats(List<SeatBO> seats)
     {
-        this.seats = seats.stream().map(SeatBO::getRef).map(SeatRef::getGlobalRef).toList();
-        Map<String, Integer> result = new HashMap<>();
-        seats.forEach(s -> result.put(s.getRef().getGlobalRef(), s.getAmountOfCoinsOnSeat()));
-        this.coinsOnSeat = result;
+        this.table = seats.get(0).getRef().getTableRef().getGlobalRef();
+        this.seatsNumbers = seats.stream().map(SeatBO::getPosition).toList();
+        Map<Integer, Integer> seatCoins = new HashMap<>();
+        seats.forEach(s -> seatCoins.put(s.getPosition(), s.getAmountOfCoinsOnSeat()));
+        this.seatCoins = seatCoins;
+        Map<Integer, String> seatPlayer = new HashMap<>();
+        seats.forEach(s -> seatPlayer.put(s.getPosition(), s.getPlayer().map(PlayerBO::getRef).map(PlayerRef::getGlobalRef).orElse(null)));
+        this.seatPlayer = seatPlayer;
     }
 
     @JsonIgnore
     public Map<SeatRef, Integer> getCoinsOnSeats()
     {
         Map<SeatRef, Integer> result = new HashMap<>();
-        coinsOnSeat.forEach((k,v) -> result.put(SeatRef.globalRef(k), v));
+        if (this.coinsOnSeat != null)
+        {
+            coinsOnSeat.forEach((k,v) -> result.put(SeatRef.globalRef(k), v));
+        }
+        else
+        {
+            seatCoins.forEach((k,v) -> result.put(this.getSeatRef(k), v));
+        }
         return result;
     }
 
@@ -117,6 +167,7 @@ public class StartEvent implements ChangedPotEvent, DealerEvent, PrivateGameEven
     @JsonIgnore
     public void setOnButton(SeatRef onButton)
     {
+        this.table = onButton.getTableRef().getGlobalRef();
         this.onButton = onButton.getGlobalRef();
     }
 
@@ -145,4 +196,23 @@ public class StartEvent implements ChangedPotEvent, DealerEvent, PrivateGameEven
     {
         this.bigBlind = bigBlind;
     }
+
+    public String getTable()
+    {
+        return table;
+    }
+
+    public void setTable(String table)
+    {
+        this.table = table;
+    }
+
+    @JsonIgnore
+    public Map<SeatRef, PlayerRef> getPlayers()
+    {
+        Map<SeatRef, PlayerRef> result = new HashMap<>();
+        seatPlayer.forEach((k,v) -> result.put(this.getSeatRef(k), PlayerRef.globalRef(v)));
+        return result;
+    }
+
 }

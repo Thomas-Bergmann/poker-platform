@@ -14,8 +14,11 @@ dependencies {
     implementation 'javax.validation:validation-api'
     implementation 'com.nimbusds:nimbus-jose-jwt'
     implementation 'jakarta.ws.rs:jakarta.ws.rs-api'
-    implementation 'io.jsonwebtoken:jjwt'
+    implementation 'jakarta.xml.bind:jakarta.xml.bind-api'
+    implementation 'io.jsonwebtoken:jjwt-api'
 
+    runtimeOnly 'io.jsonwebtoken:jjwt-impl'
+    runtimeOnly 'io.jsonwebtoken:jjwt-jackson'
     runtimeOnly 'org.glassfish.jersey.core:jersey-client'
     runtimeOnly 'org.glassfish.jersey.core:jersey-common'
     runtimeOnly 'org.glassfish.jersey.inject:jersey-hk2'

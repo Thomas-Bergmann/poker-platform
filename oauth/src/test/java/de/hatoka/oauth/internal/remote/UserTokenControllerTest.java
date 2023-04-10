@@ -22,7 +22,6 @@ import org.springframework.test.context.ActiveProfiles;
 import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit.jupiter.SpringExtension;
 
-import de.hatoka.common.capi.rest.test.TestSecurityConfiguration;
 import de.hatoka.oauth.capi.remote.OAuthUserAuthenticationRO;
 import de.hatoka.oidc.capi.business.IdentityProviderBORepository;
 import de.hatoka.oidc.capi.business.IdentityProviderRef;
@@ -36,7 +35,7 @@ import tests.de.hatoka.oauth.OAuthTestConfiguration;
 
 @ExtendWith(SpringExtension.class)
 @SpringBootTest(classes = { OAuthTestApplication.class }, webEnvironment = WebEnvironment.RANDOM_PORT)
-@ContextConfiguration(classes = { OAuthTestConfiguration.class, TestSecurityConfiguration.class })
+@ContextConfiguration(classes = { OAuthTestConfiguration.class })
 @ActiveProfiles("test")
 public class UserTokenControllerTest
 {

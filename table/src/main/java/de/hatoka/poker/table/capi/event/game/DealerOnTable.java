@@ -1,5 +1,6 @@
 package de.hatoka.poker.table.capi.event.game;
 
+import de.hatoka.poker.table.capi.business.SeatRef;
 import de.hatoka.poker.table.capi.event.history.lifecycle.TransferEvent;
 
 public interface DealerOnTable
@@ -18,4 +19,10 @@ public interface DealerOnTable
      * Dealer transfers win/lost money to seat
      */
     void transfer(TransferEvent transfer);
+
+    /**
+     * @param seatRef
+     * @return true of seat is still on table
+     */
+    boolean isOnTable(SeatRef seatRef);
 }
