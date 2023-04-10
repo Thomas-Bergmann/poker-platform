@@ -489,15 +489,13 @@ public class DealerInGameImpl implements DealerInGame
         {
             abort();
         }
-        doWhatEverYouNeed();
-        // not clear - who needs to react
-        return true;
+        return doWhatEverYouNeed();
     }
 
     @Override
     public boolean canTransfer()
     {
-        return game.getEvents(ShowdownEvent.class).findAny().isPresent();
+        return game.getEvents(ShowdownEvent.class).findAny().isPresent() && game.getEvents(TransferEvent.class).findAny().isEmpty();
     }
 
     @Override

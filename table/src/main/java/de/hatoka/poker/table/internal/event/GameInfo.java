@@ -496,7 +496,7 @@ public class GameInfo
 
     public boolean hasDealerAction()
     {
-        return getSeatHasAction().isEmpty();
+        return getSeatHasAction().isEmpty() && getEvents(TransferEvent.class).findAny().isEmpty();
     }
 
     /**

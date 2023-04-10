@@ -31,6 +31,19 @@ public interface BotServiceClient
     void joinTable(TableRO table);
     
     /**
+     * Bot sits down again
+     * @param seat
+     */
+    void sitIn(SeatRO seat);
+
+    /**
+     * Bot sits down again
+     * @param seat
+     * @param table
+     */
+    void rebuy(SeatRO seat, TableRO table);
+
+    /**
      * @param seat seat of table
      * @return game information from seat perspective
      */

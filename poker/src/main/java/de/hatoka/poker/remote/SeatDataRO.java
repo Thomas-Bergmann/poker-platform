@@ -14,7 +14,7 @@ public class SeatDataRO
      * Coins of seat, if changed/submitted actions buyin, buyout, rebuy are applied 
      */
     @JsonProperty("coins-onseat")
-    private Integer coinsOnSeat = 0;
+    private Integer coinsOnSeat;
 
     /**
      * Player is not active, if changed to true player will be part of next game, change to false will immediately fold and out

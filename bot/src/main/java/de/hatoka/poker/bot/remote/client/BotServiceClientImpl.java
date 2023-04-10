@@ -101,6 +101,27 @@ public class BotServiceClientImpl implements BotServiceClient
     }
 
     @Override
+    public void sitIn(SeatRO seat)
+    {
+        SeatDataRO data = new SeatDataRO();
+        data.setPlayerRef(botRef);
+        data.setSittingOut(false);
+        RestTemplate restTemplate = restTemplateBuilder.build();
+        restTemplate.exchange(serviceURI + seat.getResourceURI(), HttpMethod.PATCH, new HttpEntity<>(data, getHeaders()), SeatRO.class);
+    }
+
+    @Override
+    public void rebuy(SeatRO seat, TableRO table)
+    {
+        SeatDataRO data = new SeatDataRO();
+        data.setPlayerRef(botRef);
+        data.setSittingOut(false);
+        data.setCoinsOnSeat(table.getInfo().getMaxBuyIn());
+        RestTemplate restTemplate = restTemplateBuilder.build();
+        restTemplate.exchange(serviceURI + seat.getResourceURI(), HttpMethod.PATCH, new HttpEntity<>(data, getHeaders()), SeatRO.class);
+    }
+
+    @Override
     public void doAction(SeatRO seat, PlayerGameActionRO action)
     {
         RestTemplate restTemplate = restTemplateBuilder.build();

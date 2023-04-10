@@ -37,8 +37,12 @@ public class PokerStrategyImpl implements PokerStrategy
     public void run()
     {
         List<TableRO> tables = client.getTables();
-        Optional<TableRO> tableOpt = tables.stream().filter(t -> "NO_LIMIT".equals(t.getInfo().getLimit())).filter(t -> "TEXAS_HOLDEM".equals(t.getInfo().getVariant())).findAny();
-        if (tableOpt.isPresent()) {
+        Optional<TableRO> tableOpt = tables.stream()
+                                           .filter(t -> "NO_LIMIT".equals(t.getInfo().getLimit()))
+                                           .filter(t -> "TEXAS_HOLDEM".equals(t.getInfo().getVariant()))
+                                           .findAny();
+        if (tableOpt.isPresent())
+        {
             runOnTable(tableOpt.get());
         }
     }
@@ -51,7 +55,18 @@ public class PokerStrategyImpl implements PokerStrategy
         if (seatOpt.isPresent())
         {
             SeatRO seat = seatOpt.get();
-            while (seat.getData().getCoinsOnSeat() > 0)
+            if (seat.getData().isSittingOut())
+            {
+                if (seat.getData().getCoinsOnSeat() > 0)
+                {
+                    client.sitIn(seat);
+                }
+                else
+                {
+                    client.rebuy(seat, table);
+                }
+            }
+            while(seat.getData().getCoinsOnSeat() > 0)
             {
                 runOnSeat(seat);
             }
@@ -74,14 +89,20 @@ public class PokerStrategyImpl implements PokerStrategy
         }
         else
         {
-            Optional<SeatRO> seatWithAction = game.getInfo().getSeats().stream().filter(s -> s.getInfo().isHasAction()).findAny();
+            Optional<SeatRO> seatWithAction = game.getInfo()
+                                                  .getSeats()
+                                                  .stream()
+                                                  .filter(s -> s.getInfo().isHasAction())
+                                                  .findAny();
             if (seatWithAction.isEmpty())
             {
-                LoggerFactory.getLogger(getClass()).warn("bot has not the action. Bug - no one has action - or only one player at table.");
+                LoggerFactory.getLogger(getClass())
+                             .warn("bot has not the action. Bug - no one has action - or only one player at table.");
             }
             else
             {
-                LoggerFactory.getLogger(getClass()).debug("player '{}' has the action.", seatWithAction.get().getInfo().getName());
+                LoggerFactory.getLogger(getClass())
+                             .debug("player '{}' has the action.", seatWithAction.get().getInfo().getName());
                 sleep();
             }
         }
@@ -110,10 +131,10 @@ public class PokerStrategyImpl implements PokerStrategy
         }
         else
         {
-            LoggerFactory.getLogger(getClass()).debug("Cards on board {}.", boardCards); 
+            LoggerFactory.getLogger(getClass()).debug("Cards on board {}.", boardCards);
             action = remotePlayer.call();
         }
-        LoggerFactory.getLogger(getClass()).debug("Player did action {} on game {}.", action, game.getRefLocal()); 
+        LoggerFactory.getLogger(getClass()).debug("Player did action {} on game {}.", action, game.getRefLocal());
         remotePlayer.submit(action);
     }
 }
