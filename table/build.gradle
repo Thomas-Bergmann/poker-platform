@@ -10,8 +10,6 @@ dependencies {
     implementation 'org.springframework.boot:spring-boot-starter-security'
 
     implementation 'javax.validation:validation-api'
-    // to activate PATCH method
-	implementation 'org.apache.httpcomponents.client5:httpclient5'
 
 	//Test
     testImplementation ('org.springframework.boot:spring-boot-starter-test') {
@@ -20,4 +18,6 @@ dependencies {
 
     //Database
     testRuntimeOnly 'com.h2database:h2'
+    // to activate PATCH method
+    testRuntimeOnly 'org.apache.httpcomponents.client5:httpclient5'
 }

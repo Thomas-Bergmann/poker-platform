@@ -1,9 +1,9 @@
 package de.hatoka.poker.table.capi.event.game;
 
-import de.hatoka.poker.table.PlayerActions;
 import de.hatoka.poker.table.capi.business.SeatBO;
 import de.hatoka.poker.table.capi.business.SeatRef;
 import de.hatoka.poker.table.internal.event.GameInfo;
+import de.hatoka.poker.table.internal.event.PlayerActions;
 import de.hatoka.poker.table.internal.event.PlayerGameInfo;
 
 public interface PlayerFactory

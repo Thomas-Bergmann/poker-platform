@@ -46,4 +46,18 @@ public class PlayerGameActionRO
     {
         this.betTo = betTo;
     }
+
+    @Override
+    public String toString()
+    {
+        StringBuilder s = new StringBuilder("PlayerGameActionRO [");
+        s = s.append(action);
+        if (betTo != null && betTo > 0)
+        {
+            s = s.append("(" + betTo + ")");
+        }
+        s = s.append("]");
+        return s.toString();
+    }
+
 }

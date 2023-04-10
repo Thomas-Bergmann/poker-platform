@@ -31,7 +31,7 @@ class PokerStrategyFirstRoundImplTest
     void testBetWithPocketsEights()
     {
         when(remotePlayer.getHoleCards()).thenReturn(Card.deserialize("8h 8s"));
-        underTest.run();
+        underTest.calculateAction();
         verify(remotePlayer, times(1)).betTo(anyInt());
         verify(remotePlayer, times(0)).fold();
     }
@@ -40,7 +40,7 @@ class PokerStrategyFirstRoundImplTest
     void testBetWithAce()
     {
         when(remotePlayer.getHoleCards()).thenReturn(Card.deserialize("Ah Ts"));
-        underTest.run();
+        underTest.calculateAction();
         verify(remotePlayer, times(1)).betTo(anyInt());
         verify(remotePlayer, times(0)).fold();
     }
@@ -49,7 +49,7 @@ class PokerStrategyFirstRoundImplTest
     void testBetSuitedConnectorsHigh()
     {
         when(remotePlayer.getHoleCards()).thenReturn(Card.deserialize("Js Ts"));
-        underTest.run();
+        underTest.calculateAction();
         verify(remotePlayer, times(1)).betTo(anyInt());
         verify(remotePlayer, times(0)).fold();
     }
@@ -58,7 +58,7 @@ class PokerStrategyFirstRoundImplTest
     void testCallWithPocketsSeven()
     {
         when(remotePlayer.getHoleCards()).thenReturn(Card.deserialize("7h 7s"));
-        underTest.run();
+        underTest.calculateAction();
         verify(remotePlayer, times(0)).betTo(anyInt());
         verify(remotePlayer, times(1)).call();
         verify(remotePlayer, times(0)).fold();
@@ -68,7 +68,7 @@ class PokerStrategyFirstRoundImplTest
     void testBetSuitedConnectorsLow()
     {
         when(remotePlayer.getHoleCards()).thenReturn(Card.deserialize("4s 3s"));
-        underTest.run();
+        underTest.calculateAction();
         verify(remotePlayer, times(1)).call();
         verify(remotePlayer, times(0)).fold();
     }
@@ -77,8 +77,8 @@ class PokerStrategyFirstRoundImplTest
     void testFoldSuitedBelowQueen()
     {
         when(remotePlayer.getHoleCards()).thenReturn(Card.deserialize("Js 9s"));
-        underTest.run();
+        underTest.calculateAction();
         verify(remotePlayer, times(0)).betTo(anyInt());
-        verify(remotePlayer, times(1)).fold();
+        verify(remotePlayer, times(1)).call();
     }
 }

@@ -20,7 +20,6 @@ import org.springframework.web.bind.annotation.RestController;
 import de.hatoka.common.capi.rest.RestControllerErrorSupport;
 import de.hatoka.poker.remote.GameRO;
 import de.hatoka.poker.remote.PlayerGameActionRO;
-import de.hatoka.poker.table.PlayerActions;
 import de.hatoka.poker.table.capi.business.GameBO;
 import de.hatoka.poker.table.capi.business.SeatBO;
 import de.hatoka.poker.table.capi.business.SeatRef;
@@ -31,6 +30,7 @@ import de.hatoka.poker.table.capi.event.game.Dealer;
 import de.hatoka.poker.table.capi.event.game.DealerFactory;
 import de.hatoka.poker.table.capi.event.game.PlayerFactory;
 import de.hatoka.poker.table.internal.event.GameInfo;
+import de.hatoka.poker.table.internal.event.PlayerActions;
 
 @RestController
 @RequestMapping(value = GameController.PATH_ROOT, produces = { APPLICATION_JSON_VALUE })

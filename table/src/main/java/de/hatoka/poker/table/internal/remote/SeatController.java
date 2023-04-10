@@ -93,7 +93,7 @@ public class SeatController
             errorSupport.throwNotFoundException("notfound.player", input.getPlayerRef());
         }
         SeatBO seat = seatRepository.createSeat();
-        seat.join(playerOpt.get(), input.getCoinsOnSeat());
+        seat.join(playerOpt.get(), input.getCoinsOnSeat() == null ? 0 : input.getCoinsOnSeat());
         Dealer dealer = dealerFactory.get(seat.getTable());
         dealer.doWhatEverYouNeed();
         return seatBO2RO.apply(seat);

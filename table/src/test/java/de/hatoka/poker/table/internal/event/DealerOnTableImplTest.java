@@ -21,7 +21,6 @@ import de.hatoka.poker.player.capi.business.PlayerBORepository;
 import de.hatoka.poker.player.capi.business.PlayerRef;
 import de.hatoka.poker.rules.PokerLimit;
 import de.hatoka.poker.rules.PokerVariant;
-import de.hatoka.poker.table.PlayerActions;
 import de.hatoka.poker.table.capi.business.SeatBO;
 import de.hatoka.poker.table.capi.business.SeatBORepository;
 import de.hatoka.poker.table.capi.business.TableBO;

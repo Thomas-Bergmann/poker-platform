@@ -124,7 +124,7 @@ public class DealerInGameImpl implements DealerInGame
     {
         Pot pot = game.getPot();
         ShowdownEvent event = new ShowdownEvent();
-        if (isOneLeft())
+        if (isOneLeftAndNoAllIn())
         {
             List<SeatRef> seats = game.filterActiveSeats(game.getSeats());
             Map<SeatRef, Integer> seatPayment = new HashMap<>();
@@ -296,7 +296,8 @@ public class DealerInGameImpl implements DealerInGame
         if (startWith.isEmpty())
         {
             result.addAll(game.getSeats());
-        } else
+        }
+        else
         {
             SeatRef aggressor = startWith.get();
             List<SeatRef> allSeats = game.getSeats();
@@ -424,10 +425,23 @@ public class DealerInGameImpl implements DealerInGame
     }
 
     @Override
-    public boolean isOneLeft()
+    public boolean isOneLeftAndNoAllIn()
     {
         List<SeatRef> seats = game.filterActiveSeats(game.getSeats());
-        return seats.size() == 1;
+        if (seats.size() == 1)
+        {
+            List<SeatRef> allInSeats = getAllInSeats();
+            if (allInSeats.isEmpty())
+            {
+                return true;
+            }
+            if (allInSeats.size() > 1)
+            {
+                return false;
+            }
+            return allInSeats.get(0).equals(seats.get(0)) ? true : false;
+        }
+        return false;
     }
 
     @Override
@@ -475,15 +489,13 @@ public class DealerInGameImpl implements DealerInGame
         {
             abort();
         }
-        doWhatEverYouNeed();
-        // not clear - who needs to react
-        return true;
+        return doWhatEverYouNeed();
     }
 
     @Override
     public boolean canTransfer()
     {
-        return game.getEvents(ShowdownEvent.class).findAny().isPresent();
+        return game.getEvents(ShowdownEvent.class).findAny().isPresent() && game.getEvents(TransferEvent.class).findAny().isEmpty();
     }
 
     @Override

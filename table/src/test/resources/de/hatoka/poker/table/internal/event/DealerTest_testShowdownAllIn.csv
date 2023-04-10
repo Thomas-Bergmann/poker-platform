@@ -1,0 +1,13 @@
+event_type,event_data
+Start,"{""table"":""table:46411bd6-752a-4d8d-9549-488328207d8e"",""seats"":null,""seats-no"":[2,3],""coins-on-seat"":null,""seat-coins"":{""2"":170,""3"":695},""seat-player"":{""2"":""bot:bot@d585020e-58fe-4c06-ac3a-9cd18bbc34f4"",""3"":""bot:robot@d585020e-58fe-4c06-ac3a-9cd18bbc34f4""},""button"":""seat:3@table:46411bd6-752a-4d8d-9549-488328207d8e"",""deck"":""seed: -492075968122622752 index: 0 cards: Kd Ts As Ac 4c Jc 3h 8c 2c 2d Qc 7c Js 5c Th Jh Kc Ks Ah 2h Qd 6d 9d 6h Qh Tc 6s 3s Kh 5d 4s 9c 2s 7s 4d 7h Jd 9h 5h 3d 8s Ad 4h 9s 8d 5s 6c 8h 7d 3c Td Qs"",""pot"":""{\""coinsOfPlayer\"":{},\""sub-pods\"":[]}"",""blind-small"":5,""blind-big"":10}"
+Blind,"{""seat"":""seat:3@table:46411bd6-752a-4d8d-9549-488328207d8e"",""coins"":5,""allin"":false,""big"":false}"
+Blind,"{""seat"":""seat:2@table:46411bd6-752a-4d8d-9549-488328207d8e"",""coins"":10,""allin"":false,""big"":true}"
+HoleCard,"{""cards"":""Kd As"",""seat"":""seat:2@table:46411bd6-752a-4d8d-9549-488328207d8e""}"
+HoleCard,"{""cards"":""Ts Ac"",""seat"":""seat:3@table:46411bd6-752a-4d8d-9549-488328207d8e""}"
+Bet,"{""seat"":""seat:2@table:46411bd6-752a-4d8d-9549-488328207d8e"",""coins"":20,""allin"":false}"
+Bet,"{""seat"":""seat:3@table:46411bd6-752a-4d8d-9549-488328207d8e"",""coins"":85,""allin"":false}"
+Raise,"{""seat"":""seat:2@table:46411bd6-752a-4d8d-9549-488328207d8e"",""coins"":140,""allin"":true}"
+Bet,"{""seat"":""seat:3@table:46411bd6-752a-4d8d-9549-488328207d8e"",""coins"":420,""allin"":false}"
+CollectCoins,"{""pot"":""{\""coinsOfPlayer\"":{\""seat:2@table:46411bd6-752a-4d8d-9549-488328207d8e\"":170,\""seat:3@table:46411bd6-752a-4d8d-9549-488328207d8e\"":510},\""sub-pods\"":[{\""seats\"":[\""seat:2@table:46411bd6-752a-4d8d-9549-488328207d8e\"",\""seat:3@table:46411bd6-752a-4d8d-9549-488328207d8e\""],\""coins\"":340},{\""seats\"":[\""seat:3@table:46411bd6-752a-4d8d-9549-488328207d8e\""],\""coins\"":340}]}""}"
+Showdown,"{""winner"":{""seat:3@table:46411bd6-752a-4d8d-9549-488328207d8e"":680},""cards-hole"":null,""cards-hand"":null,""muck"":null}"
+TransferEvent,"{""coins-before"":{""seat:2@table:46411bd6-752a-4d8d-9549-488328207d8e"":170,""seat:3@table:46411bd6-752a-4d8d-9549-488328207d8e"":695},""coins-diff"":{""seat:2@table:46411bd6-752a-4d8d-9549-488328207d8e"":-170,""seat:3@table:46411bd6-752a-4d8d-9549-488328207d8e"":170},""coins-after"":{""seat:2@table:46411bd6-752a-4d8d-9549-488328207d8e"":0,""seat:3@table:46411bd6-752a-4d8d-9549-488328207d8e"":865}}"

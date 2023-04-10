@@ -1,4 +1,4 @@
-package de.hatoka.poker.table;
+package de.hatoka.poker.table.internal.event;
 
 public interface PlayerActions
 {
