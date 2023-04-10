@@ -9,7 +9,7 @@ buildscript {
 }
 plugins {
     id 'org.springframework.boot' version '2.7.10'
-    id "org.flywaydb.flyway" version "9.16.2"
+    id "org.flywaydb.flyway" version "9.16.3"
     id 'war'
 }
 
