@@ -17,12 +17,11 @@ updates:
       - "dependencies"
     schedule:
       interval: "weekly"
-    ignore:
+    #  ignore:
       # Ignore all major updates for now until additional version ignores are working
       # Security updates are not affected by this ignore filter and still will be updated
-      - dependency-name: "*"
-        update-types: [ "version-update:semver-major" ]
-      - dependency-name: "*org.flywaydb"
+    #  - dependency-name: "*"
+    #    update-types: [ "version-update:semver-major" ]
   - package-ecosystem: "npm" # See documentation for possible values
     target-branch: "main"
     open-pull-requests-limit: 2 # Allow up globally to 2 simultaneously open pull requests for dependencies
