@@ -9,7 +9,7 @@ import org.springframework.beans.factory.config.ConfigurableBeanFactory;
 import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Component;
 
-import de.hatoka.poker.bot.remote.client.PokerServiceClient;
+import de.hatoka.poker.bot.remote.client.BotServiceClient;
 import de.hatoka.poker.bot.remote.client.RemotePlayer;
 import de.hatoka.poker.bot.remote.client.RemotePlayerFactory;
 import de.hatoka.poker.remote.GameRO;
@@ -25,9 +25,9 @@ public class PokerStrategyImpl implements PokerStrategy
     @Autowired
     private PokerStrategyFactory strategyFactory;
 
-    private final PokerServiceClient client;
+    private final BotServiceClient client;
 
-    public PokerStrategyImpl(PokerServiceClient client)
+    public PokerStrategyImpl(BotServiceClient client)
     {
         this.client = client;
     }
@@ -64,12 +64,22 @@ public class PokerStrategyImpl implements PokerStrategy
                 }
                 else
                 {
-                    LoggerFactory.getLogger(getClass()).debug("bot has not the action.");
+                    Optional<SeatRO> seatWithAction = game.getInfo().getSeats().stream().filter(s -> s.getInfo().isHasAction()).findAny();
+                    if (seatWithAction.isEmpty())
+                    {
+                        LoggerFactory.getLogger(getClass()).debug("bot has not the action. Bug - no one has action - or only one player at table.");
+                    }
+                    else
+                    {
+                        LoggerFactory.getLogger(getClass()).debug("player {} has the action.", seatWithAction.get().getInfo().getName());
+                    }
                 }
             }
             else
             {
                 LoggerFactory.getLogger(getClass()).warn("bot not on seat.");
+                client.joinTable(table);
+                LoggerFactory.getLogger(getClass()).warn("bot joined table.");
             }
         }
     }

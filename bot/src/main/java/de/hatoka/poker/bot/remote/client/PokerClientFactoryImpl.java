@@ -8,7 +8,7 @@ public class PokerClientFactoryImpl implements PokerClientFactory
 {
     @Lookup
     @Override
-    public PokerServiceClient create(String serviceURI, String botRef, String botKey)
+    public BotServiceClient create(String serviceURI, String botRef, String botKey)
     {
         // done by @Lookup
         return null;

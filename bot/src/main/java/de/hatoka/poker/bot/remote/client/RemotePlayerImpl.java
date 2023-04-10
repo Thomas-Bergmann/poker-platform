@@ -20,11 +20,11 @@ import de.hatoka.poker.remote.SeatRO;
 @Scope(ConfigurableBeanFactory.SCOPE_PROTOTYPE)
 public class RemotePlayerImpl implements RemotePlayer
 {
-    private final PokerServiceClient client;
+    private final BotServiceClient client;
     private final SeatRO seat;
     private final String seatRef;
 
-    public RemotePlayerImpl(SeatRO seat, PokerServiceClient client)
+    public RemotePlayerImpl(SeatRO seat, BotServiceClient client)
     {
         this.client = client;
         this.seat = seat;

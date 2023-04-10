@@ -17,6 +17,7 @@ import org.springframework.web.client.RestTemplate;
 
 import de.hatoka.poker.remote.GameRO;
 import de.hatoka.poker.remote.PlayerGameActionRO;
+import de.hatoka.poker.remote.SeatDataRO;
 import de.hatoka.poker.remote.SeatRO;
 import de.hatoka.poker.remote.TableRO;
 import de.hatoka.poker.remote.oauth.OAuthBotAuthenticationRO;
@@ -24,7 +25,7 @@ import de.hatoka.poker.remote.oauth.OAuthTokenResponse;
 
 @Component
 @Scope(ConfigurableBeanFactory.SCOPE_PROTOTYPE)
-public class PokerServiceClientImpl implements PokerServiceClient
+public class BotServiceClientImpl implements BotServiceClient
 {
     private static final String PATH_TOKEN = "/auth/bots/token";
     private static final String PATH_TABLES = "/tables";
@@ -41,7 +42,7 @@ public class PokerServiceClientImpl implements PokerServiceClient
     private long nextUpdate = 0L;
     private String gameSeatURI = null;
 
-    public PokerServiceClientImpl(String serviceURI, String botRef, String botKey)
+    public BotServiceClientImpl(String serviceURI, String botRef, String botKey)
     {
         this.serviceURI = serviceURI;
         this.botRef = botRef;
@@ -87,6 +88,16 @@ public class PokerServiceClientImpl implements PokerServiceClient
         RestTemplate restTemplate = restTemplateBuilder.build();
         return Arrays.asList(restTemplate.exchange(serviceURI + PATH_SEATS, HttpMethod.GET,
                         new HttpEntity<>(getHeaders()), SeatRO[].class, table.getRefLocal()).getBody());
+    }
+
+    @Override
+    public void joinTable(TableRO table)
+    {
+        SeatDataRO data = new SeatDataRO();
+        data.setPlayerRef(botRef);
+        data.setCoinsOnSeat(500);
+        RestTemplate restTemplate = restTemplateBuilder.build();
+        restTemplate.exchange(serviceURI + PATH_SEATS + "/joinTable", HttpMethod.POST, new HttpEntity<>(data, getHeaders()), GameRO.class, table.getRefLocal());
     }
 
     @Override

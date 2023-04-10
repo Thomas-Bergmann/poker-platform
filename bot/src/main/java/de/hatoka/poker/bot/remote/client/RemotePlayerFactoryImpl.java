@@ -10,7 +10,7 @@ public class RemotePlayerFactoryImpl implements RemotePlayerFactory
 {
     @Lookup
     @Override
-    public RemotePlayer create(SeatRO seat, PokerServiceClient client)
+    public RemotePlayer create(SeatRO seat, BotServiceClient client)
     {
         // done by @Lookup
         return null;

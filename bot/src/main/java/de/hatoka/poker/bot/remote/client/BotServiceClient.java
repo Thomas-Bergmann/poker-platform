@@ -8,13 +8,33 @@ import de.hatoka.poker.remote.PlayerGameActionRO;
 import de.hatoka.poker.remote.SeatRO;
 import de.hatoka.poker.remote.TableRO;
 
-public interface PokerServiceClient
+/**
+ * PokerServiceClient has the context of the bot 
+ */
+public interface BotServiceClient
 {
+    /**
+     * @return all existing tables
+     */
     List<TableRO> getTables();
 
+    /**
+     * @param table table information
+     * @return all seats of a table
+     */
     List<SeatRO> getSeats(TableRO table);
 
-    GameRO getGame(SeatRO seatRO);
+    /**
+     * Bot joins a table
+     * @param table table information
+     */
+    void joinTable(TableRO table);
+    
+    /**
+     * @param seat seat of table
+     * @return game information from seat perspective
+     */
+    GameRO getGame(SeatRO seat);
 
     /**
      * @param seats seats of table
@@ -31,5 +51,10 @@ public interface PokerServiceClient
         return getBotSeat(getSeats(table));
     }
 
+    /**
+     * Bot does a play action
+     * @param seat
+     * @param action
+     */
     void doAction(SeatRO seat, PlayerGameActionRO action);
 }
