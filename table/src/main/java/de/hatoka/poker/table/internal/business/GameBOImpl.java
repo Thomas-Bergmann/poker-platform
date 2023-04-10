@@ -16,6 +16,7 @@ import de.hatoka.poker.table.capi.business.SeatRef;
 import de.hatoka.poker.table.capi.business.TableBO;
 import de.hatoka.poker.table.capi.event.history.DealerEvent;
 import de.hatoka.poker.table.capi.event.history.GameEvent;
+import de.hatoka.poker.table.capi.event.history.lifecycle.ErrorEvent;
 import de.hatoka.poker.table.capi.event.history.lifecycle.TransferEvent;
 import de.hatoka.poker.table.capi.event.history.seat.PlayerEvent;
 import de.hatoka.poker.table.internal.json.GameEventType;
@@ -46,7 +47,7 @@ public class GameBOImpl implements GameBO
         switch(GameEventType.valueOf(event.getClass()))
         {
             case TransferEvent:
-                transfer((TransferEvent) event);
+                transfer((TransferEvent)event);
                 break;
             default:
                 break;
@@ -60,9 +61,22 @@ public class GameBOImpl implements GameBO
         saveEvent(event);
     }
 
+    @Transactional
     private void transfer(TransferEvent event)
     {
-        event.getCoinsOnSeatDiffOfGame().forEach((seat, coins) -> getSeat(seat).updateCoinsOnSeat(coins));
+        event.getCoinsOnSeatDiffOfGame().forEach((seat, coins) -> updateCoins(seat, coins));
+    }
+
+    private void updateCoins(SeatRef seat, Integer coins)
+    {
+        try
+        {
+            getSeat(seat).updateCoinsOnSeat(coins);
+        }
+        catch(Exception e)
+        {
+            saveEvent(ErrorEvent.valueOf(e));
+        }
     }
 
     private void saveEvent(GameEvent event)

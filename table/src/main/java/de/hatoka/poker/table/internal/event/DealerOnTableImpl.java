@@ -51,7 +51,7 @@ public class DealerOnTableImpl implements DealerOnTable
             return allSeats.get(0);
         }
         // find old dealer and get next position in list
-        int newPosition = getSeatPosition(lastDealerOpt.get(), allSeats) + 1;
+        int newPosition = getPositionOfDealer(lastDealerOpt.get(), allSeats) + 1;
         if (newPosition < 0 || newPosition >= allSeats.size())
         {
             newPosition = 0;
@@ -59,7 +59,12 @@ public class DealerOnTableImpl implements DealerOnTable
         return allSeats.get(newPosition);
     }
 
-    private int getSeatPosition(SeatRef seat, List<SeatRef> seats)
+    /**
+     * @param seat seat reference to last dealer
+     * @param seats list of all seats on table 
+     * @return position of seat on table or 0 if seat (old dealer was not found on list)
+     */
+    private int getPositionOfDealer(SeatRef seat, List<SeatRef> seats)
     {
         int result = -1;
         for (int i = 0; result < 0 && i < seats.size(); i++)
@@ -102,5 +107,11 @@ public class DealerOnTableImpl implements DealerOnTable
     {
         GameInfo game = currentGame.get();
         game.publishEvent(transfer);
+    }
+
+    @Override
+    public boolean isOnTable(SeatRef seatRef)
+    {
+        return table.getAllSeats().stream().filter(seatRef::equals).findAny().isPresent();
     }
 }

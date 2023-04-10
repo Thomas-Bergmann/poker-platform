@@ -71,7 +71,7 @@ public class PokerStrategyImpl implements PokerStrategy
                     }
                     else
                     {
-                        LoggerFactory.getLogger(getClass()).debug("player {} has the action.", seatWithAction.get().getInfo().getName());
+                        LoggerFactory.getLogger(getClass()).debug("player '{}' has the action.", seatWithAction.get().getInfo().getName());
                     }
                 }
             }
