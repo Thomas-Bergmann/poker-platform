@@ -113,7 +113,7 @@ public class PokerStrategyImpl implements PokerStrategy
             LoggerFactory.getLogger(getClass()).debug("Cards on board {}.", boardCards); 
             action = remotePlayer.call();
         }
-        LoggerFactory.getLogger(getClass()).debug("Player did action {}.", action); 
+        LoggerFactory.getLogger(getClass()).debug("Player did action {} on game {}.", action, game.getRefLocal()); 
         remotePlayer.submit(action);
     }
 }

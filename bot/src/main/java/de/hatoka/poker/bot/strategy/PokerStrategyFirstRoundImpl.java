@@ -44,10 +44,15 @@ public class PokerStrategyFirstRoundImpl implements PokerStrategyFirstRound
             }
             return remotePlayer.call();
         }
-        // raise - AK to A10
-        if (Image.ACE.equals(cards.get(0).getImage()) && isGreater(cards.get(1).getImage(), Image.NINE))
+        // has an ACE
+        if (Image.ACE.equals(cards.get(0).getImage()))
         {
-            return raiseOrBet(getRaiseToPotSize());
+            // raise - AK to A10
+            if (isGreater(cards.get(1).getImage(), Image.NINE))
+            {
+                return raiseOrBet(getRaiseToPotSize());
+            }
+            return remotePlayer.call();
         }
         if (areConnected(cards))
         {
@@ -55,6 +60,10 @@ public class PokerStrategyFirstRoundImpl implements PokerStrategyFirstRound
             {
                 return raiseOrBet(getRaiseToPotSize());
             }
+            return remotePlayer.call();
+        }
+        if (areSuited(cards))
+        {
             return remotePlayer.call();
         }
         return remotePlayer.fold();

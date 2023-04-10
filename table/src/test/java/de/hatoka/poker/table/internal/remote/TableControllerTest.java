@@ -111,7 +111,7 @@ public class TableControllerTest
     {
         HttpEntity<TableCreateRO> entity = new HttpEntity<>(data);
         ResponseEntity<Void> response = this.restTemplate.exchange(TableController.PATH_TABLE, HttpMethod.PUT, entity , Void.class, createURIParameter(ref));
-        assertTrue(response.getStatusCode().is2xxSuccessful(), "returned with " + response.getStatusCodeValue());
+        assertTrue(response.getStatusCode().is2xxSuccessful(), "returned with " + response.getStatusCode());
         // this.restTemplate.put(TableController.PATH_TABLE, data, createURIParameter(ref));
     }
 

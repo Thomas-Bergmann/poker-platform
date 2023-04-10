@@ -2,7 +2,6 @@ package de.hatoka.poker.table.internal.event;
 
 import org.springframework.stereotype.Component;
 
-import de.hatoka.poker.table.PlayerActions;
 import de.hatoka.poker.table.capi.business.GameBO;
 import de.hatoka.poker.table.capi.business.SeatBO;
 import de.hatoka.poker.table.capi.business.SeatRef;

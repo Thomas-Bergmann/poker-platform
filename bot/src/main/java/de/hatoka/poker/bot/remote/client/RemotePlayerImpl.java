@@ -45,11 +45,19 @@ public class RemotePlayerImpl implements RemotePlayer
     @Override
     public PlayerGameActionRO betTo(int coins)
     {
+        if (getCurrentSeat().get().getData().getCoinsOnSeat() < coins)
+        {
+            return allIn();
+        }
         return PlayerGameActionRO.valueOf(Action.bet, coins);
     }
 
     public PlayerGameActionRO raiseTo(int coins)
     {
+        if (getCurrentSeat().get().getData().getCoinsOnSeat() < coins)
+        {
+            return allIn();
+        }
         return PlayerGameActionRO.valueOf(Action.raise, coins);
     }
 

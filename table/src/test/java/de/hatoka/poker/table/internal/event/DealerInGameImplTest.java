@@ -17,7 +17,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit.jupiter.SpringExtension;
 
-import de.hatoka.poker.table.PlayerActions;
 import de.hatoka.poker.table.capi.business.SeatRef;
 import de.hatoka.poker.table.capi.event.game.DealerInGame;
 import de.hatoka.poker.table.capi.event.game.PlayerFactory;

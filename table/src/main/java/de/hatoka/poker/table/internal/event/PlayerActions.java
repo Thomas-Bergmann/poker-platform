@@ -1,48 +1,40 @@
-package de.hatoka.poker.table;
-
-import de.hatoka.poker.remote.PlayerGameActionRO;
+package de.hatoka.poker.table.internal.event;
 
 public interface PlayerActions
 {
     /**
      * checks - mean no additional coins
      */
-    PlayerGameActionRO check();
+    void check();
     
     /**
      * call - requested amount of coins to have same coins in play as player with highest amount
      * @return coins moved to table
      */
-    PlayerGameActionRO call();
+    void call();
     
     /**
      * Player bets additional coins (in case of paid blinds or earlier bets, these coins will not be added) 
      * @param coins
      */
-    PlayerGameActionRO betTo(int coins);
+    void betTo(int coins);
 
     /**
      * Player bets additional coins (in case of paid blinds or earlier bets, these coins will not be added) 
      * @param coins
      */
-    default PlayerGameActionRO raiseTo(int coins)
+    default void raiseTo(int coins)
     {
-        return betTo(coins);
+        betTo(coins);
     }
 
     /**
      * Player raises or call with all coins on seat
      */
-    PlayerGameActionRO allIn();
+    void allIn();
 
     /**
      * Player gives up
      */
-    PlayerGameActionRO fold();
-    
-    /**
-     * Player submits action to server
-     * @param action
-     */
-    void submit(PlayerGameActionRO action);
+    void fold();
 }

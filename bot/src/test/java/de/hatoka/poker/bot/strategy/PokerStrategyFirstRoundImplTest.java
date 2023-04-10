@@ -79,6 +79,6 @@ class PokerStrategyFirstRoundImplTest
         when(remotePlayer.getHoleCards()).thenReturn(Card.deserialize("Js 9s"));
         underTest.calculateAction();
         verify(remotePlayer, times(0)).betTo(anyInt());
-        verify(remotePlayer, times(1)).fold();
+        verify(remotePlayer, times(1)).call();
     }
 }

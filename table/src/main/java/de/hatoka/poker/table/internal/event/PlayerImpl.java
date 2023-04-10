@@ -1,6 +1,5 @@
 package de.hatoka.poker.table.internal.event;
 
-import de.hatoka.poker.table.PlayerActions;
 import de.hatoka.poker.table.capi.event.history.seat.BetEvent;
 import de.hatoka.poker.table.capi.event.history.seat.CallEvent;
 import de.hatoka.poker.table.capi.event.history.seat.CheckEvent;
