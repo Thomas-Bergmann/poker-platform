@@ -12,6 +12,7 @@ import org.springframework.stereotype.Component;
 import de.hatoka.poker.base.Card;
 import de.hatoka.poker.base.Image;
 import de.hatoka.poker.bot.remote.client.RemotePlayer;
+import de.hatoka.poker.remote.PlayerGameActionRO;
 import de.hatoka.poker.remote.SeatInfoRO;
 import de.hatoka.poker.remote.SeatRO;
 
@@ -27,11 +28,11 @@ public class PokerStrategyFirstRoundImpl implements PokerStrategyFirstRound
     }
 
     @Override
-    public void run()
+    public PlayerGameActionRO calculateAction()
     {
         List<Card> cards = getSortedCardsByImage();
         LoggerFactory.getLogger(getClass()).debug("got cards {}.", cards);
-        int raiseTo = getRaiseToPotSize();
+
         Optional<Image> pockets = getPocketPair(cards);
         // raise - if pocket pair >=8
         // call - if pocket pair < 8
@@ -39,33 +40,24 @@ public class PokerStrategyFirstRoundImpl implements PokerStrategyFirstRound
         {
             if (isGreater(pockets.get(), Image.SEVEN))
             {
-                raiseOrBet(raiseTo);
+                return raiseOrBet(getRaiseToPotSize());
             }
-            else
-            {
-                remotePlayer.call();
-            }
-            return;
+            return remotePlayer.call();
         }
         // raise - AK to A10
         if (Image.ACE.equals(cards.get(0).getImage()) && isGreater(cards.get(1).getImage(), Image.NINE))
         {
-            raiseOrBet(raiseTo);
-            return;
+            return raiseOrBet(getRaiseToPotSize());
         }
         if (areConnected(cards))
         {
             if (areSuited(cards) && isGreater(cards.get(0).getImage(), Image.TEN))
             {
-                raiseOrBet(raiseTo);
+                return raiseOrBet(getRaiseToPotSize());
             }
-            else
-            {
-                remotePlayer.call();
-            }
-            return;
+            return remotePlayer.call();
         }
-        remotePlayer.fold();
+        return remotePlayer.fold();
     }
 
     private boolean areSuited(List<Card> cards)
@@ -92,16 +84,13 @@ public class PokerStrategyFirstRoundImpl implements PokerStrategyFirstRound
         return cards;
     }
 
-    private void raiseOrBet(int raiseTo)
+    private PlayerGameActionRO raiseOrBet(int raiseTo)
     {
         if (getLastBet() > 0)
         {
-            remotePlayer.raiseTo(raiseTo);
+            return remotePlayer.raiseTo(raiseTo);
         }
-        else
-        {
-            remotePlayer.betTo(raiseTo);
-        }
+        return remotePlayer.betTo(raiseTo);
     }
 
     private boolean isGreater(Image a, Image b)
@@ -111,7 +100,7 @@ public class PokerStrategyFirstRoundImpl implements PokerStrategyFirstRound
 
     private int getRaiseToPotSize()
     {
-        return remotePlayer.getPotSize() + getLastBet();
+        return remotePlayer.getPotSize() + getLastBet() * 3;
     }
 
     private int getLastBet()

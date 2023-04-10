@@ -95,7 +95,7 @@ public class BotServiceClientImpl implements BotServiceClient
     {
         SeatDataRO data = new SeatDataRO();
         data.setPlayerRef(botRef);
-        data.setCoinsOnSeat(500);
+        data.setCoinsOnSeat(table.getInfo().getMaxBuyIn());
         RestTemplate restTemplate = restTemplateBuilder.build();
         restTemplate.exchange(serviceURI + PATH_SEATS + "/joinTable", HttpMethod.POST, new HttpEntity<>(data, getHeaders()), GameRO.class, table.getRefLocal());
     }

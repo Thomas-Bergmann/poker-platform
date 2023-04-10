@@ -4,7 +4,6 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Optional;
 
-import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.config.ConfigurableBeanFactory;
 import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Component;
@@ -32,42 +31,42 @@ public class RemotePlayerImpl implements RemotePlayer
     }
 
     @Override
-    public void check()
+    public PlayerGameActionRO check()
     {
-        doAction(PlayerGameActionRO.valueOf(Action.check));
+        return PlayerGameActionRO.valueOf(Action.check);
     }
 
     @Override
-    public void call()
+    public PlayerGameActionRO call()
     {
-        doAction(PlayerGameActionRO.valueOf(Action.call));
-        LoggerFactory.getLogger(getClass()).info("bot has called.");
+        return PlayerGameActionRO.valueOf(Action.call);
     }
 
     @Override
-    public void betTo(int coins)
+    public PlayerGameActionRO betTo(int coins)
     {
-        doAction(PlayerGameActionRO.valueOf(Action.bet, coins));
+        return PlayerGameActionRO.valueOf(Action.bet, coins);
     }
 
-    public void raiseTo(int coins)
+    public PlayerGameActionRO raiseTo(int coins)
     {
-        doAction(PlayerGameActionRO.valueOf(Action.raise, coins));
-    }
-
-    @Override
-    public void allIn()
-    {
-        doAction(PlayerGameActionRO.valueOf(Action.allin));
+        return PlayerGameActionRO.valueOf(Action.raise, coins);
     }
 
     @Override
-    public void fold()
+    public PlayerGameActionRO allIn()
     {
-        doAction(PlayerGameActionRO.valueOf(Action.fold));
+        return PlayerGameActionRO.valueOf(Action.allin);
     }
 
-    private void doAction(PlayerGameActionRO action)
+    @Override
+    public PlayerGameActionRO fold()
+    {
+        return PlayerGameActionRO.valueOf(Action.fold);
+    }
+
+    @Override
+    public void submit(PlayerGameActionRO action)
     {
         client.doAction(seat, action);
     }
