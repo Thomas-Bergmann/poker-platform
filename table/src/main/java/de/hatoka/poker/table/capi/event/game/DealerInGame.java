@@ -44,7 +44,7 @@ public interface DealerInGame
     default void flop()
     {
         collectCoins();
-        if (isOneLeft())
+        if (isOneLeftAndNoAllIn())
         {
             payout();
         }
@@ -58,7 +58,7 @@ public interface DealerInGame
     default void turn()
     {
         collectCoins();
-        if (isOneLeft())
+        if (isOneLeftAndNoAllIn())
         {
             payout();
         }
@@ -72,7 +72,7 @@ public interface DealerInGame
     default void river()
     {
         collectCoins();
-        if (isOneLeft())
+        if (isOneLeftAndNoAllIn())
         {
             payout();
         }
@@ -83,7 +83,10 @@ public interface DealerInGame
         }
     }
 
-    boolean isOneLeft();
+    /**
+     * @return true if the game is over and only one is left, and no-others are all-in
+     */
+    boolean isOneLeftAndNoAllIn();
 
     /**
      * Collect coins from seats (players) to pots on table

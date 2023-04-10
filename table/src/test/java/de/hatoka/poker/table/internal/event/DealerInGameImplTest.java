@@ -21,7 +21,9 @@ import de.hatoka.poker.table.capi.business.SeatRef;
 import de.hatoka.poker.table.capi.event.game.DealerInGame;
 import de.hatoka.poker.table.capi.event.game.PlayerFactory;
 import de.hatoka.poker.table.capi.event.history.GameEvent;
+import de.hatoka.poker.table.capi.event.history.lifecycle.ShowdownEvent;
 import de.hatoka.poker.table.capi.event.history.lifecycle.StartEvent;
+import de.hatoka.poker.table.capi.event.history.pot.CollectCoinsEvent;
 import de.hatoka.poker.table.capi.event.history.seat.BetEvent;
 import de.hatoka.poker.table.capi.event.history.seat.CallEvent;
 import de.hatoka.poker.table.capi.event.history.seat.CheckEvent;
@@ -259,5 +261,21 @@ public class DealerInGameImplTest
         assertTrue(dealerInfo.getSeatHasAction().isPresent());
         // dealer needs to check that this seat has not left the table
         assertEquals(0, dealerInfo.getSeatHasAction().get().getPosition());
+    }
+
+    @Test
+    @Timeout(10)
+    public void testDealerShowdownAllIn() throws IOException, URISyntaxException
+    {
+        GameInfo dealerInfo = getGameInfo("DealerTest_testShowdownAllIn.csv", 10);
+        List<GameEvent> events = dealerInfo.getEvents(GameEvent.class).toList();
+        assertEquals(StartEvent.class, events.get(0).getClass());
+        assertEquals(CollectCoinsEvent.class, events.get(9).getClass());
+        DealerInGame dealer = new DealerInGameImpl(dealerInfo);
+        dealer.doWhatEverYouNeed();
+        List<ShowdownEvent> showdowns = dealerInfo.getEvents(ShowdownEvent.class).toList();
+        assertEquals(1, showdowns.size());
+        assertEquals(340, showdowns.get(0).getWinner().get(SeatRef.globalRef("seat:2@table:46411bd6-752a-4d8d-9549-488328207d8e")));
+        assertEquals(5, showdowns.get(0).getCardsBestHand().get(SeatRef.globalRef("seat:2@table:46411bd6-752a-4d8d-9549-488328207d8e")).size());
     }
 }
