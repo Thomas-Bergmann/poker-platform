@@ -25,6 +25,7 @@ import de.hatoka.poker.table.capi.event.history.lifecycle.ShowdownEvent;
 import de.hatoka.poker.table.capi.event.history.lifecycle.StartEvent;
 import de.hatoka.poker.table.capi.event.history.pot.CollectCoinsEvent;
 import de.hatoka.poker.table.capi.event.history.seat.BetEvent;
+import de.hatoka.poker.table.capi.event.history.seat.BlindEvent;
 import de.hatoka.poker.table.capi.event.history.seat.CallEvent;
 import de.hatoka.poker.table.capi.event.history.seat.CheckEvent;
 import tests.de.hatoka.poker.table.TableTestConfiguration;
@@ -277,5 +278,18 @@ public class DealerInGameImplTest
         assertEquals(1, showdowns.size());
         assertEquals(340, showdowns.get(0).getWinner().get(SeatRef.globalRef("seat:2@table:46411bd6-752a-4d8d-9549-488328207d8e")));
         assertEquals(5, showdowns.get(0).getCardsBestHand().get(SeatRef.globalRef("seat:2@table:46411bd6-752a-4d8d-9549-488328207d8e")).size());
+    }
+
+    @Test
+    @Timeout(10)
+    public void testSmallBlindWithSmall() throws IOException, URISyntaxException
+    {
+        GameInfo dealerInfo = getGameInfo("DealerTest_testSmallBlind.csv");
+        List<GameEvent> events = dealerInfo.getEvents(GameEvent.class).toList();
+        assertEquals(StartEvent.class, events.get(0).getClass());
+        DealerInGame dealer = new DealerInGameImpl(dealerInfo);
+        dealer.doWhatEverYouNeed();
+        List<BlindEvent> blinds = dealerInfo.getEvents(BlindEvent.class).toList();
+        assertEquals(2, blinds.size());
     }
 }

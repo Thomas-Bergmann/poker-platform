@@ -53,18 +53,28 @@ public class DealerInGameImpl implements DealerInGame
             bigBlindSeat = smallBlindSeat;
             smallBlindSeat = rem;
         }
-        BlindEvent smallBlindEvent = new BlindEvent();
-        smallBlindEvent.setCoins(game.getNextSmallBlind());
-        smallBlindEvent.setSeat(smallBlindSeat);
-        smallBlindEvent.setIsBigBlind(false);
-
-        BlindEvent bigBlindEvent = new BlindEvent();
-        bigBlindEvent.setCoins(game.getNextBigBlind());
-        bigBlindEvent.setSeat(bigBlindSeat);
-        bigBlindEvent.setIsBigBlind(true);
+        BlindEvent smallBlindEvent = createBlindEvent(smallBlindSeat, game.getNextSmallBlind(), false);
+        BlindEvent bigBlindEvent = createBlindEvent(bigBlindSeat, game.getNextBigBlind(), true);
 
         game.publishEvent((DealerEvent)smallBlindEvent);
         game.publishEvent((DealerEvent)bigBlindEvent);
+    }
+
+    private BlindEvent createBlindEvent(SeatRef seatRef, int blind, boolean isBigBlind)
+    {
+        int coinsOnSeatBigBlind = game.getCoinsOnSeat(seatRef);
+        boolean isAllIn = false;
+        if (blind >= coinsOnSeatBigBlind)
+        {
+            blind = coinsOnSeatBigBlind;
+            isAllIn = true;
+        }
+        BlindEvent blindEvent = new BlindEvent();
+        blindEvent.setCoins(blind);
+        blindEvent.setSeat(seatRef);
+        blindEvent.setIsBigBlind(isBigBlind);
+        blindEvent.setIsAllIn(isAllIn);
+        return blindEvent;
     }
 
     @Override
