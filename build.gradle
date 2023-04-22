@@ -79,7 +79,7 @@ subprojects {
             csv.required = false
             xml.required = true
             html.required = true
-            html.destination (new File("${buildDir}/reports/jacoco/html"))
+            html.outputLocation = new File("${buildDir}/reports/jacoco/html")
         }
     }
 
@@ -102,6 +102,6 @@ task jacocoReport(type: org.gradle.testing.jacoco.tasks.JacocoReport) {
         csv.required = false
         xml.required = false
         html.required = true
-        html.destination (new File("${buildDir}/reports/jacoco/html"))
+        html.outputLocation = new File("${buildDir}/reports/jacoco/html")
     }
 }
