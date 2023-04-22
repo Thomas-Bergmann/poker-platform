@@ -33,6 +33,6 @@ task startPokerBot(type: JavaExec) {
     group = "Execution"
     description = "Start Poker Bot"
     classpath = sourceSets.main.runtimeClasspath
-    main = "de.hatoka.poker.bot.PokerBot"
+    mainClass = "de.hatoka.poker.bot.PokerBot"
     args 'http://tbergmann.localdev.intershop.de:8090/','bot:bot@d585020e-58fe-4c06-ac3a-9cd18bbc34f4','bot-key'
 }
