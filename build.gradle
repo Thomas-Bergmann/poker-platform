@@ -23,7 +23,7 @@ def versionMicrosoftSqlserverMssqlJdbc="11.2.3.jre17"
 def versionGlassfishJersey="3.1.1"
 def versionSpringDoc="1.7.0"
 def versionJJWT="0.11.5"
-def versionFlyway="9.16.3"
+def versionFlyway="9.17.0"
 
 subprojects {
     apply plugin: 'java'
