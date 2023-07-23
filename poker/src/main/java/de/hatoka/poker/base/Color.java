@@ -29,7 +29,7 @@ public enum Color
         this.englishName = englishName;
     }
 
-    protected int getIndex()
+    public int getIndex()
     {
         return index;
     }

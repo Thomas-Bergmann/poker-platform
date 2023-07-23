@@ -1,4 +1,4 @@
-package de.hatoka.poker.bot.strategy;
+package de.hatoka.poker.bot.strategy.predefined;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -12,23 +12,34 @@ import org.springframework.stereotype.Component;
 import de.hatoka.poker.base.Card;
 import de.hatoka.poker.base.Image;
 import de.hatoka.poker.bot.remote.client.RemotePlayer;
+import de.hatoka.poker.bot.strategy.PokerStrategyDecisionMaker;
+import de.hatoka.poker.remote.GameRO;
 import de.hatoka.poker.remote.PlayerGameActionRO;
 import de.hatoka.poker.remote.SeatInfoRO;
 import de.hatoka.poker.remote.SeatRO;
 
 @Component
 @Scope(ConfigurableBeanFactory.SCOPE_PROTOTYPE)
-public class PokerStrategyFirstRoundImpl implements PokerStrategyFirstRound
+public class FastForwardDecisionMakerImpl implements PokerStrategyDecisionMaker
 {
     private final RemotePlayer remotePlayer;
 
-    public PokerStrategyFirstRoundImpl(RemotePlayer remotePlayer)
+    public FastForwardDecisionMakerImpl(RemotePlayer remotePlayer)
     {
         this.remotePlayer = remotePlayer;
     }
 
     @Override
-    public PlayerGameActionRO calculateAction()
+    public PlayerGameActionRO calculateAction(GameRO game)
+    {
+        if (Card.deserialize(game.getInfo().getBoardCards()).isEmpty())
+        {
+            return calculatePreFlopAction();
+        }
+        return remotePlayer.call();
+    }
+
+    public PlayerGameActionRO calculatePreFlopAction()
     {
         List<Card> cards = getSortedCardsByImage();
         LoggerFactory.getLogger(getClass()).debug("got cards {}.", cards);

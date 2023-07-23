@@ -14,7 +14,11 @@ allprojects {
     sourceCompatibility = 17
     targetCompatibility = 17
 
-    repositories { mavenCentral() }
+    repositories {
+        // mavenLocal()
+        mavenCentral()
+        // maven { url "https://s01.oss.sonatype.org/content/repositories/releases" }
+	}
 
     jacoco { toolVersion = '0.8.8' }
 }
@@ -49,6 +53,8 @@ subprojects {
                 dependency 'com.nimbusds:nimbus-jose-jwt:9.31'
 
                 dependency "net.logstash.logback:logstash-logback-encoder:7.4"
+
+                dependency 'de.hatoka.neuralnetwork:neuralnetwork:2.0.0'
 
                 dependency "org.glassfish.jersey.core:jersey-client:${versionGlassfishJersey}"
                 dependency "org.glassfish.jersey.core:jersey-common:${versionGlassfishJersey}"
