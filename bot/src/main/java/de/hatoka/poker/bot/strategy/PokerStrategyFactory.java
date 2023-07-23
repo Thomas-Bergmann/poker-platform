@@ -6,5 +6,5 @@ import de.hatoka.poker.bot.remote.client.RemotePlayer;
 public interface PokerStrategyFactory
 {
     PokerStrategy create(BotServiceClient client);
-    PokerStrategyFirstRound createFirstRoundStategy(RemotePlayer remotePlayer);
+    PokerStrategyDecisionMaker createDecisionMaker(RemotePlayer remotePlayer);
 }

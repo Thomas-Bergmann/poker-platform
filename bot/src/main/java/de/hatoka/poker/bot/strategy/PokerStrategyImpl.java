@@ -123,17 +123,7 @@ public class PokerStrategyImpl implements PokerStrategy
 
     private void runOnAction(GameRO game, RemotePlayer remotePlayer)
     {
-        PlayerGameActionRO action;
-        String boardCards = game.getInfo().getBoardCards();
-        if (boardCards.isEmpty())
-        {
-            action = strategyFactory.createFirstRoundStategy(remotePlayer).calculateAction();
-        }
-        else
-        {
-            LoggerFactory.getLogger(getClass()).debug("Cards on board {}.", boardCards);
-            action = remotePlayer.call();
-        }
+        PlayerGameActionRO action = strategyFactory.createDecisionMaker(remotePlayer).calculateAction(game);
         LoggerFactory.getLogger(getClass()).debug("Player did action {} on game {}.", action, game.getRefLocal());
         remotePlayer.submit(action);
     }

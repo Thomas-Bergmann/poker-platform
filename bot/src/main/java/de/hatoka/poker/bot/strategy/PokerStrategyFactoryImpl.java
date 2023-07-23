@@ -5,6 +5,7 @@ import org.springframework.stereotype.Component;
 
 import de.hatoka.poker.bot.remote.client.BotServiceClient;
 import de.hatoka.poker.bot.remote.client.RemotePlayer;
+import de.hatoka.poker.bot.strategy.neural.NeuralDecisionMaker;
 
 @Component
 public class PokerStrategyFactoryImpl implements PokerStrategyFactory
@@ -17,11 +18,9 @@ public class PokerStrategyFactoryImpl implements PokerStrategyFactory
         return null;
     }
 
-    @Lookup
     @Override
-    public PokerStrategyFirstRound createFirstRoundStategy(RemotePlayer remotePlayer)
+    public PokerStrategyDecisionMaker createDecisionMaker(RemotePlayer remotePlayer)
     {
-        // done by @Lookup
-        return null;
+        return new NeuralDecisionMaker(remotePlayer);
     }
 }
