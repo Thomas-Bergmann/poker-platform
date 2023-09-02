@@ -45,10 +45,7 @@ dependencies {
     implementation 'org.springframework.boot:spring-boot-starter-web'
     implementation 'org.springframework.boot:spring-boot-starter-security'
     implementation 'org.springframework.boot:spring-boot-starter-actuator'
-
     implementation 'com.jayway.jsonpath:json-path'
-    implementation 'org.springdoc:springdoc-openapi-ui'
-    implementation 'org.springdoc:springdoc-openapi-webmvc-core'
     implementation 'ch.qos.logback:logback-classic'
     implementation 'ch.qos.logback:logback-core'
     implementation 'org.codehaus.janino:janino'
@@ -56,6 +53,8 @@ dependencies {
     runtimeOnly 'io.micrometer:micrometer-core'
     runtimeOnly 'io.micrometer:micrometer-registry-prometheus'
     runtimeOnly 'org.springframework.boot:spring-boot-starter-tomcat'
+    runtimeOnly 'org.springdoc:springdoc-openapi-starter-webmvc-api'
+    runtimeOnly 'org.springdoc:springdoc-openapi-starter-webmvc-ui'
     runtimeOnly 'org.glassfish.jaxb:jaxb-runtime'
     // logging, see logback.xml
     runtimeOnly 'net.logstash.logback:logstash-logback-encoder'

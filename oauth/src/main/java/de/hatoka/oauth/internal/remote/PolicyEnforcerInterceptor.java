@@ -42,6 +42,11 @@ public class PolicyEnforcerInterceptor implements HandlerInterceptor
             return true;
         }
         URI uri = URI.create(request.getRequestURI());
+        if (uri.getPath().startsWith("/actuator"))
+        {
+            logger.trace("Client allowed to access uri '{}'' with method '{}'", uri.getPath(), request.getMethod());
+            return true;
+        }
         Optional<String> bearer = getBearerToken(request);
         if (uri.getPath().startsWith(IdentityProviderController.PATH_ROOT))
         {
