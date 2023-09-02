@@ -1,5 +1,6 @@
 package de.hatoka.poker.table.capi.event.history.lifecycle;
 
+import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
@@ -7,6 +8,7 @@ import java.util.Optional;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonProperty;
+import com.fasterxml.jackson.annotation.JsonSetter;
 
 import de.hatoka.poker.base.Deck;
 import de.hatoka.poker.base.Pot;
@@ -19,52 +21,39 @@ import de.hatoka.poker.table.capi.event.history.DealerEvent;
 import de.hatoka.poker.table.capi.event.history.GameEvent;
 import de.hatoka.poker.table.capi.event.history.PrivateGameEvent;
 import de.hatoka.poker.table.capi.event.history.pot.ChangedPotEvent;
+import de.hatoka.user.capi.business.UserRef;
 
 public class StartEvent implements ChangedPotEvent, DealerEvent, PrivateGameEvent
 {
     /**
-     * Contains players/seats (seat ref) taking part of game
+     * table reference
      */
     @JsonProperty("table")
     private String table;
 
     /**
-     * Contains players/seats (seat ref) taking part of game
+     * Contains seats (seat number) taking part of game
      */
-    @JsonProperty("seats")
-    @Deprecated
-    private List<String> seats;
-
-    /**
-     * Contains players/seats (seat ref) taking part of game
-     */
-    @JsonProperty("seats-no")
+    @JsonProperty("seats-order")
     private List<Integer> seatsNumbers;
 
     /**
-     * Contains players/seats (seat ref) taking part of game
-     */
-    @JsonProperty("coins-on-seat")
-    @Deprecated
-    private Map<String, Integer> coinsOnSeat;
-
-    /**
-     * Contains players/seats (seat ref) taking part of game
+     * Contains coins per seat (seat number)
      */
     @JsonProperty("seat-coins")
     private Map<Integer, Integer> seatCoins;
 
     /**
-     * Contains players/seats (seat ref) taking part of game
+     * Contains players of seat (seat number)
      */
     @JsonProperty("seat-player")
     private Map<Integer, String> seatPlayer;
 
     /**
-     * Contains player/seat (seat ref) of dealer
+     * Contains seat (seat number) of dealer
      */
     @JsonProperty("button")
-    private String onButton;
+    private Integer onButton;
 
     /**
      * Contains the whole deck at the end of the event
@@ -93,16 +82,12 @@ public class StartEvent implements ChangedPotEvent, DealerEvent, PrivateGameEven
 
     private SeatRef getSeatRef(Integer position)
     {
-        return SeatRef.localRef(TableRef.globalRef(table), position);
+        return SeatRef.localRef(getTableRef(), position);
     }
     
     @JsonIgnore
     public List<SeatRef> getSeats()
     {
-        if(this.seats != null)
-        {
-            return seats.stream().map(SeatRef::globalRef).toList();
-        }
         return seatsNumbers.stream().map(this::getSeatRef).toList();
     }
 
@@ -123,14 +108,7 @@ public class StartEvent implements ChangedPotEvent, DealerEvent, PrivateGameEven
     public Map<SeatRef, Integer> getCoinsOnSeats()
     {
         Map<SeatRef, Integer> result = new HashMap<>();
-        if (this.coinsOnSeat != null)
-        {
-            coinsOnSeat.forEach((k,v) -> result.put(SeatRef.globalRef(k), v));
-        }
-        else
-        {
-            seatCoins.forEach((k,v) -> result.put(this.getSeatRef(k), v));
-        }
+        seatCoins.forEach((k,v) -> result.put(this.getSeatRef(k), v));
         return result;
     }
 
@@ -161,14 +139,14 @@ public class StartEvent implements ChangedPotEvent, DealerEvent, PrivateGameEven
     @JsonIgnore
     public SeatRef getOnButton()
     {
-        return SeatRef.globalRef(onButton);
+        return SeatRef.localRef(getTableRef(), onButton);
     }
 
     @JsonIgnore
     public void setOnButton(SeatRef onButton)
     {
-        this.table = onButton.getTableRef().getGlobalRef();
-        this.onButton = onButton.getGlobalRef();
+        setTableRef(onButton.getTableRef());
+        this.onButton = onButton.getPosition();
     }
 
     @Override
@@ -197,14 +175,16 @@ public class StartEvent implements ChangedPotEvent, DealerEvent, PrivateGameEven
         this.bigBlind = bigBlind;
     }
 
-    public String getTable()
+    @JsonIgnore
+    public TableRef getTableRef()
     {
-        return table;
+        return TableRef.globalRef(table);
     }
 
-    public void setTable(String table)
+    @JsonIgnore
+    public void setTableRef(TableRef tableRef)
     {
-        this.table = table;
+        this.table = tableRef.getGlobalRef();
     }
 
     @JsonIgnore
@@ -215,4 +195,60 @@ public class StartEvent implements ChangedPotEvent, DealerEvent, PrivateGameEven
         return result;
     }
 
+    @JsonSetter("seats-no")
+    @Deprecated
+    public void setSeatNo(List<Integer> seats)
+    {
+        this.seatsNumbers = seats;
+    }
+
+    @JsonSetter("seats")
+    @Deprecated
+    public void setSeatRefs(List<String> seats)
+    {
+        // ignore for new content
+        if (seats == null)
+        {
+            return;
+        }
+        seatPlayer = new HashMap<>();
+        seatsNumbers = new ArrayList<>();
+        for(String s : seats)
+        {
+            SeatRef seatRef = SeatRef.globalRef(s);
+            // fake player - was not in the content
+            PlayerRef playerRef = PlayerRef.humanRef(UserRef.localRef(s));
+            seatPlayer.put(seatRef.getPosition(), playerRef.getGlobalRef());
+            seatsNumbers.add(seatRef.getPosition());
+        }
+    }
+    @JsonSetter("coins-on-seat")
+    @Deprecated
+    public void setCoinsOnSeats(Map<String, Integer> coins)
+    {
+        // ignore for new content
+        if (coins== null)
+        {
+            return;
+        }
+        seatCoins = new HashMap<>();
+        coins.forEach((k,v) -> seatCoins.put(SeatRef.globalRef(k).getPosition(), v));
+    }
+
+    /** for json loading **/
+    @JsonSetter("button")
+    @Deprecated
+    public void setOnButton(String onButtonRef)
+    {
+        if (onButtonRef.startsWith("seat:"))
+        {
+            SeatRef onButton = SeatRef.globalRef(onButtonRef);
+            setTableRef(onButton.getTableRef());
+            this.onButton = onButton.getPosition();
+        }
+        else
+        {
+            this.onButton = Integer.valueOf(onButtonRef);
+        }
+    }
 }
