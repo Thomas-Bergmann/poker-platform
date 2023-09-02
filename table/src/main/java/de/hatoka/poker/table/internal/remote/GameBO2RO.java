@@ -64,11 +64,15 @@ public class GameBO2RO
 
         GameInfoRO info = new GameInfoRO();
         info.setTableResourceURI("/tables/" + game.getTable().getRef().getLocalRef());
-        info.setSeats(getDealerInfoAboutSeats(game, dealerInfo));
-        info.setBoardCards(Card.serialize(dealerInfo.getBoardCards()));
-        info.setEvents(getEvents(dealerInfo));
-        info.setPotSize(dealerInfo.getPotSize());
-        info.setBigBlind(dealerInfo.getBigBlind());
+        List<GameEventRO> events = getEvents(dealerInfo);
+        info.setEvents(events);
+        if (!events.isEmpty())
+        {
+            info.setSeats(getDealerInfoAboutSeats(game, dealerInfo));
+            info.setBoardCards(Card.serialize(dealerInfo.getBoardCards()));
+            info.setPotSize(dealerInfo.getPotSize());
+            info.setBigBlind(dealerInfo.getBigBlind());
+        }
         GameRO result = new GameRO();
         result.setRefGlobal(game.getRef().getGlobalRef());
         result.setRefLocal(game.getRef().getLocalRef());
