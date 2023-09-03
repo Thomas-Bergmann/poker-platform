@@ -10,12 +10,13 @@ import org.springframework.stereotype.Component;
 import de.hatoka.poker.base.Card;
 import de.hatoka.poker.base.Hand;
 import de.hatoka.poker.remote.GameEventRO;
+import de.hatoka.poker.remote.GameEventRO.Action;
 import de.hatoka.poker.remote.GameInfoRO;
 import de.hatoka.poker.remote.GameRO;
 import de.hatoka.poker.remote.SeatDataRO;
+import de.hatoka.poker.remote.SeatGameInfoRO;
 import de.hatoka.poker.remote.SeatInfoRO;
 import de.hatoka.poker.remote.SeatRO;
-import de.hatoka.poker.remote.GameEventRO.Action;
 import de.hatoka.poker.table.capi.business.GameBO;
 import de.hatoka.poker.table.capi.business.SeatBO;
 import de.hatoka.poker.table.capi.business.SeatRef;
@@ -46,12 +47,12 @@ public class GameBO2RO
         Map<SeatRef, Hand> hands = playerInfo.getHands();
         for (SeatRO seatRO : seats)
         {
-            SeatInfoRO info = seatRO.getInfo();
             // player specific
             SeatRef seatRef = SeatRef.globalRef(seatRO.getRefGlobal());
             Hand hand = hands.get(seatRef);
             if (hand != null)
             {
+                SeatGameInfoRO info = seatRO.getGame();
                 info.setHoleCards(Card.serialize(hand.getHoleCards()));
                 info.setRank(playerInfo.getRank(hand).name());
             }
@@ -149,11 +150,12 @@ public class GameBO2RO
             {
                 SeatDataRO data = seatRO.getData();
                 data.setCoinsOnSeat(dealerInfo.getCoinsOnSeat(seatRef));
-                SeatInfoRO info = seatRO.getInfo();
+                SeatGameInfoRO info = new SeatGameInfoRO();
                 info.setInPlay(coinsInPlay.getOrDefault(seatRef, 0));
                 info.setAllIn(allIns.contains(seatRef));
                 info.setOnButton(seatRef.equals(onButton));
                 info.setHasAction(seatRef.equals(action));
+                seatRO.setGame(info);
             }
             else
             {

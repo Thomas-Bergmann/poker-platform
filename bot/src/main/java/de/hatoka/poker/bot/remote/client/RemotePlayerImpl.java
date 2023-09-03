@@ -12,7 +12,7 @@ import de.hatoka.poker.base.Card;
 import de.hatoka.poker.remote.GameRO;
 import de.hatoka.poker.remote.PlayerGameActionRO;
 import de.hatoka.poker.remote.PlayerGameActionRO.Action;
-import de.hatoka.poker.remote.SeatInfoRO;
+import de.hatoka.poker.remote.SeatGameInfoRO;
 import de.hatoka.poker.remote.SeatRO;
 
 @Component
@@ -82,7 +82,7 @@ public class RemotePlayerImpl implements RemotePlayer
     @Override
     public boolean hasAction()
     {
-        return getCurrentSeat().filter(s -> s.getInfo().isHasAction()).isPresent();
+        return getCurrentSeat().filter(s -> s.getGame().isHasAction()).isPresent();
     }
 
     private Optional<SeatRO> getCurrentSeat()
@@ -98,8 +98,8 @@ public class RemotePlayerImpl implements RemotePlayer
     @Override
     public List<Card> getHoleCards()
     {
-        return getCurrentSeat().map(SeatRO::getInfo)
-                               .map(SeatInfoRO::getHoleCards)
+        return getCurrentSeat().map(SeatRO::getGame)
+                               .map(SeatGameInfoRO::getHoleCards)
                                .map(Card::deserialize)
                                .orElse(Collections.emptyList());
     }

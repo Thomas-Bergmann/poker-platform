@@ -70,9 +70,18 @@ public class PokerStrategyImpl implements PokerStrategy
                         client.rebuy(seat, table);
                     }
                 }
-                while(seat !=null && seat.getData().getCoinsOnSeat() > 0)
+                try
                 {
                     seat = runOnSeat(seat);
+                }
+                catch (Exception e) {
+                    GameRO game = client.getGame(seat);
+                    final SeatRO oldSeatInfo = seat;
+                    seat = game.getInfo()
+                                    .getSeats()
+                                    .stream()
+                                    .filter(s -> oldSeatInfo.getRefGlobal().equals(s.getRefGlobal()))
+                                    .findAny().orElse(null);
                 }
             }
         }
@@ -84,20 +93,30 @@ public class PokerStrategyImpl implements PokerStrategy
         }
     }
 
-    private SeatRO runOnSeat(SeatRO seat)
+    private SeatRO runOnSeat(SeatRO seatOnTable)
     {
-        GameRO game = client.getGame(seat);
-        RemotePlayer remotePlayer = remotePlayerFactory.create(seat, client);
-        if (remotePlayer.hasAction())
+        GameRO game = client.getGame(seatOnTable);
+        Optional<SeatRO> seatOnGame = game.getInfo()
+                        .getSeats()
+                        .stream()
+                        .filter(s -> seatOnTable.getRefGlobal().equals(s.getRefGlobal()))
+                        .findAny();
+        if (seatOnGame.isEmpty())
         {
-            runOnAction(game, remotePlayer);
+            LOGGER.warn("Can't find seat on game '{}'.", seatOnTable.getRefGlobal());
+            return null;
+        }
+        SeatRO seat = seatOnGame.get();
+        if (seat.getGame().isHasAction())
+        {
+            runOnAction(seat);
         }
         else
         {
             Optional<SeatRO> seatWithAction = game.getInfo()
                                                   .getSeats()
                                                   .stream()
-                                                  .filter(s -> s.getInfo().isHasAction())
+                                                  .filter(s -> s.getGame().isHasAction())
                                                   .findAny();
             if (!seatWithAction.isEmpty())
             {
@@ -105,11 +124,7 @@ public class PokerStrategyImpl implements PokerStrategy
                 sleep();
             }
         }
-        return game.getInfo()
-                        .getSeats()
-                        .stream()
-                        .filter(s -> seat.getRefGlobal().equals(s.getRefGlobal()))
-                        .findAny().orElse(null);
+        return seatOnGame.get();
     }
 
     private void sleep()
@@ -125,8 +140,10 @@ public class PokerStrategyImpl implements PokerStrategy
         }
     }
 
-    private void runOnAction(GameRO game, RemotePlayer remotePlayer)
+    private void runOnAction(SeatRO seat)
     {
+        GameRO game = client.getGame(seat);
+        RemotePlayer remotePlayer = remotePlayerFactory.create(seat, client);
         PlayerGameActionRO action = strategyFactory.createDecisionMaker(remotePlayer).calculateAction(game);
         LOGGER.debug("Player did action {} on game {}.", action, game.getRefLocal());
         remotePlayer.submit(action);

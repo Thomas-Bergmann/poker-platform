@@ -106,13 +106,13 @@ public class SeatBOImpl implements SeatBO
     @Override
     public void buyin(int coins)
     {
-        if (coins < getTable().getBigBlind())
-        {
-            throw new IllegalArgumentException("buyin ("+coins+") is smaller as big blind ("+getTable().getBigBlind()+") are not allowed");
-        }
         if (getTable().getMaxBuyIn() < coins + getAmountOfCoinsOnSeat())
         {
-            throw new IllegalArgumentException("buyin greater than max buy in are not allowed");
+            throw new IllegalArgumentException("buyin ("+ coins +"+"+ getAmountOfCoinsOnSeat() + ") greater than max buy ("+getTable().getMaxBuyIn()+") is not allowed.");
+        }
+        if (coins + getAmountOfCoinsOnSeat() < getTable().getBigBlind())
+        {
+            throw new IllegalArgumentException("buyin ("+ coins +"+"+ getAmountOfCoinsOnSeat() + ") less than big blind ("+getTable().getBigBlind()+") is not allowed.");
         }
         SeatPO seatPO = getPO();
         Optional<PlayerBO> playerOpt = getPlayer();
