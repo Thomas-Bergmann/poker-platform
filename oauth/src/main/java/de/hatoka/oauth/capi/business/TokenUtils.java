@@ -16,6 +16,7 @@ import org.springframework.stereotype.Component;
 
 import de.hatoka.poker.remote.oauth.OAuthTokenResponse;
 import io.jsonwebtoken.Claims;
+import io.jsonwebtoken.ExpiredJwtException;
 import io.jsonwebtoken.JwtParser;
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.SignatureAlgorithm;
@@ -157,9 +158,14 @@ public class TokenUtils
      */
     private boolean isTokenExpired(String token)
     {
-        Date now = new Date(getNow());
-        return getClaimFromToken(token, Claims::getExpiration).before(now)
-                        && getClaimFromToken(token, Claims::getNotBefore).after(now);
+        try
+        {
+            getClaimFromToken(token, Claims::getExpiration);
+        }
+        catch (ExpiredJwtException e) {
+            return true;
+        }
+        return false;
     }
 
     private long getNow()
@@ -191,8 +197,13 @@ public class TokenUtils
         return claimsResolver.apply(claims);
     }
 
-    // for retrieveing any information from token we will need the secret key
-    private Claims getAllClaimsFromToken(String token)
+    /**
+     * retrieving any information from token we will need the secret key
+     * @param token
+     * @return claims
+     * @throws ExpiredJwtException
+     */
+    private Claims getAllClaimsFromToken(String token) throws ExpiredJwtException
     {
         return getJwtParser().parseClaimsJws(token).getBody();
     }
