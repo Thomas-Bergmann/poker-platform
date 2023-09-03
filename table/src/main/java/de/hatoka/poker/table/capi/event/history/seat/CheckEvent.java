@@ -6,7 +6,7 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 import de.hatoka.poker.table.capi.business.SeatRef;
 import de.hatoka.poker.table.capi.event.history.PublicGameEvent;
 
-public class CheckEvent implements PublicGameEvent, PlayerEvent, CoinEvent
+public class CheckEvent implements PublicGameEvent, ActionEvent, CoinEvent
 {
     @JsonProperty("seat")
     private String seat;

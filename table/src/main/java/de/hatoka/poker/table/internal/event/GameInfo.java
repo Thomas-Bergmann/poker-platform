@@ -28,6 +28,7 @@ import de.hatoka.poker.table.capi.event.history.lifecycle.ShowdownEvent;
 import de.hatoka.poker.table.capi.event.history.lifecycle.StartEvent;
 import de.hatoka.poker.table.capi.event.history.lifecycle.TransferEvent;
 import de.hatoka.poker.table.capi.event.history.pot.ChangedPotEvent;
+import de.hatoka.poker.table.capi.event.history.seat.ActionEvent;
 import de.hatoka.poker.table.capi.event.history.seat.BetEvent;
 import de.hatoka.poker.table.capi.event.history.seat.BlindEvent;
 import de.hatoka.poker.table.capi.event.history.seat.CallEvent;
@@ -352,6 +353,9 @@ public class GameInfo
         return getEvents(SetEvent.class).filter(SetEvent::isAllIn).map(SetEvent::getSeat).toList();
     }
 
+    /**
+     * @return seat with action, if empty the dealer has action (or must wait)
+     */
     public Optional<SeatRef> getSeatHasAction()
     {
         // check that game started
@@ -385,34 +389,51 @@ public class GameInfo
         PlayerEvent lastPlayer = playerEvents.get(playerEvents.size() - 1);
         SeatRef lastSeat = lastPlayer.getSeat();
         // get last player, which has done an action (bet or raise)
-        SeatRef lastAction = getLastActionSeat().orElse(null);
+        SeatRef lastSetAction = getSeatWithLastBet().orElse(null);
 
-        // if first round blinds have actions
-        if (getBoardCards().isEmpty() && lastAction == null)
+        // if first round blinds have actions, but if a set action occurs normal procedure
+        if (getBoardCards().isEmpty() && lastSetAction == null)
         {
-            if (isBigBlind(lastPlayer.getSeat()))
+            Optional<SeatRef> bigBlindSeat = getBigBlindSeat();
+            if (hadAction(bigBlindSeat))
             {
-                // if had action than dealer else go
-                if (lastPlayer instanceof BlindEvent)
-                {
-                    if (seats.size() == 2)
-                    {
-                        return Optional.of(seats.get(0));
-                    }
-                }
-                else
-                {
-                    return Optional.empty();
-                }
+                // big blind had action and no one bets (dealer has action)
+                return Optional.empty();
             }
-        } else if (lastAction == null && lastSeat.equals(playerWithLastAction)) {
+            Optional<SeatRef> smallBlindSeat = getSmallBlindSeat();
+            // get last player, which has done an action (bet, raise, call or check
+            SeatRef lastAction = getSeatWithLastAction().orElse(null);
+            Optional<SeatRef> nextSeat = getNextActiveSeat(seats, lastSeat, lastAction, activeSeats);
+            if (nextSeat.isEmpty() && !hadAction(smallBlindSeat))
+            {
+                return smallBlindSeat;
+            }
+            // big blind after small blind or next in the row
+            return nextSeat;
+        } else if (lastSetAction == null && lastSeat.equals(playerWithLastAction)) {
             // if nobody did bet - button had last action
             return Optional.empty();
         }
-        return getNextActiveSeat(seats, lastSeat, lastAction, activeSeats);
+        return getNextActiveSeat(seats, lastSeat, lastSetAction, activeSeats);
     }
 
-    private Optional<SeatRef> getLastActionSeat()
+    /**
+     * @param seatOpt optional seat
+     * @return true if player did an action (bet, call, fold but no blind events)
+     */
+    private boolean hadAction(Optional<SeatRef> seatOpt)
+    {
+        if (!seatOpt.isPresent())
+        {
+            return false;
+        }
+        return getEvents(ActionEvent.class).filter(ae -> seatOpt.get().equals(ae.getSeat())).findAny().isPresent();
+    }
+
+    /**
+     * @return a seat which bets/raises - board cards will reset the seat
+     */
+    private Optional<SeatRef> getSeatWithLastBet()
     {
         List<GameEvent> all = getAllEvents();
         if (all.isEmpty())
@@ -426,9 +447,34 @@ public class GameInfo
             {
                 lastAction = null;
             }
-            else if (event instanceof BetEvent)
+            else if (event instanceof BetEvent betEvent)
             {
-                lastAction = ((BetEvent)event).getSeat();
+                lastAction = betEvent.getSeat();
+            }
+        }
+        return Optional.ofNullable(lastAction);
+    }
+
+    /**
+     * @return a seat which bets/raises/call/blinds/fold - board cards will reset the seat
+     */
+    private Optional<SeatRef> getSeatWithLastAction()
+    {
+        List<GameEvent> all = getAllEvents();
+        if (all.isEmpty())
+        {
+            return Optional.empty();
+        }
+        SeatRef lastAction = null;
+        for (GameEvent event : all)
+        {
+            if (event instanceof BoardCardsEvent)
+            {
+                lastAction = null;
+            }
+            else if (event instanceof ActionEvent actionEvent)
+            {
+                lastAction = actionEvent.getSeat();
             }
         }
         return Optional.ofNullable(lastAction);
@@ -478,20 +524,26 @@ public class GameInfo
 
     boolean isBigBlind(SeatRef seat)
     {
-        return getEvents(BlindEvent.class).filter(BlindEvent::isBigBlind)
-                                          .map(BlindEvent::getSeat)
-                                          .filter(s -> seat.equals(s))
-                                          .findAny()
-                                          .isPresent();
+        return getBigBlindSeat().filter(s -> seat.equals(s)).isPresent();
     }
 
-    boolean isSmallBlind(SeatRef seat)
+    private Optional<SeatRef> getBigBlindSeat()
+    {
+        return getEvents(BlindEvent.class).filter(BlindEvent::isBigBlind)
+                                          .map(BlindEvent::getSeat)
+                                          .findAny();
+    }
+
+    /* test */ boolean isSmallBlind(SeatRef seat)
+    {
+        return getSmallBlindSeat().filter(s -> seat.equals(s)).isPresent();
+    }
+
+    private Optional<SeatRef> getSmallBlindSeat()
     {
         return getEvents(BlindEvent.class).filter(BlindEvent::isSmallBlind)
                                           .map(BlindEvent::getSeat)
-                                          .filter(s -> seat.equals(s))
-                                          .findAny()
-                                          .isPresent();
+                                          .findAny();
     }
 
     public boolean hasDealerAction()
@@ -525,7 +577,11 @@ public class GameInfo
         return initial - moved + showDown;
     }
 
-    public List<GameEvent> getEvents(SeatRef seatRef)
+    /**
+     * @param seatRef events seen by seat
+     * @return all game events with information for given seat (private events will be converted to public events)
+     */
+    public List<GameEvent> getMappedEvents(SeatRef seatRef)
     {
         return getEvents(GameEvent.class)
                              .map(e -> this.mapForSeat(e, seatRef))

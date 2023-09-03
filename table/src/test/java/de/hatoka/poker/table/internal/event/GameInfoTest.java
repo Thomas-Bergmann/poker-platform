@@ -41,11 +41,6 @@ public class GameInfoTest
         return LOADER.load(getResourceURI("GameInfoTest_StartEvent2.csv"));
     }
 
-    private GameInfo getGameInfoPlayers3() throws URISyntaxException, IOException
-    {
-        return LOADER.load(getResourceURI("GameInfoTest_StartEvent3.csv"));
-    }
-
     private URI getResourceURI(String resourcePath) throws URISyntaxException
     {
         return getClass().getResource(resourcePath).toURI();
@@ -156,7 +151,7 @@ public class GameInfoTest
     @Test
     public void testHasActionThreePlayers() throws Exception
     {
-        GameInfo gameInfo = getGameInfoPlayers3();
+        GameInfo gameInfo = LOADER.load(getResourceURI("GameInfoTest_StartEvent3.csv"));
         DealerInGame dealer = new DealerInGameImpl(gameInfo);
         dealer.doWhatEverYouNeed();
         PlayerActions playerOne = playerFactory.get(gameInfo, seatOne);
@@ -196,5 +191,12 @@ public class GameInfoTest
         dealer.river();
         assertTrue(gameInfo.hasDealerAction());
         dealer.showDown();
+    }
+    @Test
+    public void testHasActionTwoPlayer() throws Exception
+    {
+        GameInfo gameInfo = LOADER.load(getResourceURI("GameInfoTest_hasAction.csv"));
+        // seat 1 is small blind and has action after blinds
+        assertEquals(SeatRef.globalRef("seat:1@table:c8f2d2b8-49a2-4573-9441-b49f15990703"), gameInfo.getSeatHasAction().get());
     }
 }

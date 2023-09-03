@@ -3,6 +3,7 @@ package de.hatoka.poker.bot.strategy;
 import java.util.List;
 import java.util.Optional;
 
+import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.config.ConfigurableBeanFactory;
@@ -21,6 +22,7 @@ import de.hatoka.poker.remote.TableRO;
 @Scope(ConfigurableBeanFactory.SCOPE_PROTOTYPE)
 public class PokerStrategyImpl implements PokerStrategy
 {
+    private final Logger LOGGER = LoggerFactory.getLogger(getClass());
     @Autowired
     private RemotePlayerFactory remotePlayerFactory;
     @Autowired
@@ -55,31 +57,34 @@ public class PokerStrategyImpl implements PokerStrategy
         if (seatOpt.isPresent())
         {
             SeatRO seat = seatOpt.get();
-            if (seat.getData().isSittingOut())
+            while(seat != null)
             {
-                if (seat.getData().getCoinsOnSeat() > 0)
+                if (seat.getData().isSittingOut() || seat.getData().getCoinsOnSeat() == 0)
                 {
-                    client.sitIn(seat);
+                    if (seat.getData().getCoinsOnSeat() > 0)
+                    {
+                        client.sitIn(seat);
+                    }
+                    else
+                    {
+                        client.rebuy(seat, table);
+                    }
                 }
-                else
+                while(seat !=null && seat.getData().getCoinsOnSeat() > 0)
                 {
-                    client.rebuy(seat, table);
+                    seat = runOnSeat(seat);
                 }
-            }
-            while(seat.getData().getCoinsOnSeat() > 0)
-            {
-                runOnSeat(seat);
             }
         }
         else
         {
-            LoggerFactory.getLogger(getClass()).debug("bot not on seat.");
+            LOGGER.debug("bot not on seat.");
             client.joinTable(table);
-            LoggerFactory.getLogger(getClass()).info("bot joined table.");
+            LOGGER.info("bot joined table.");
         }
     }
 
-    private void runOnSeat(SeatRO seat)
+    private SeatRO runOnSeat(SeatRO seat)
     {
         GameRO game = client.getGame(seat);
         RemotePlayer remotePlayer = remotePlayerFactory.create(seat, client);
@@ -94,18 +99,17 @@ public class PokerStrategyImpl implements PokerStrategy
                                                   .stream()
                                                   .filter(s -> s.getInfo().isHasAction())
                                                   .findAny();
-            if (seatWithAction.isEmpty())
+            if (!seatWithAction.isEmpty())
             {
-                LoggerFactory.getLogger(getClass())
-                             .warn("bot has not the action. Bug - no one has action - or only one player at table.");
-            }
-            else
-            {
-                LoggerFactory.getLogger(getClass())
-                             .debug("player '{}' has the action.", seatWithAction.get().getInfo().getName());
+                LOGGER.debug("player '{}' has the action.", seatWithAction.get().getInfo().getName());
                 sleep();
             }
         }
+        return game.getInfo()
+                        .getSeats()
+                        .stream()
+                        .filter(s -> seat.getRefGlobal().equals(s.getRefGlobal()))
+                        .findAny().orElse(null);
     }
 
     private void sleep()
@@ -116,7 +120,7 @@ public class PokerStrategyImpl implements PokerStrategy
         }
         catch(InterruptedException e)
         {
-            LoggerFactory.getLogger(getClass()).warn("waiting for next move was interrupted.");
+            LOGGER.warn("waiting for next move was interrupted.");
             Thread.currentThread().interrupt();
         }
     }
@@ -124,7 +128,7 @@ public class PokerStrategyImpl implements PokerStrategy
     private void runOnAction(GameRO game, RemotePlayer remotePlayer)
     {
         PlayerGameActionRO action = strategyFactory.createDecisionMaker(remotePlayer).calculateAction(game);
-        LoggerFactory.getLogger(getClass()).debug("Player did action {} on game {}.", action, game.getRefLocal());
+        LOGGER.debug("Player did action {} on game {}.", action, game.getRefLocal());
         remotePlayer.submit(action);
     }
 }

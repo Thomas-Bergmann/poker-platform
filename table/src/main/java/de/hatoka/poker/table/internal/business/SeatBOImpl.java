@@ -108,7 +108,7 @@ public class SeatBOImpl implements SeatBO
     {
         if (coins < getTable().getBigBlind())
         {
-            throw new IllegalArgumentException("buyin smaller as big blind are not allowed");
+            throw new IllegalArgumentException("buyin ("+coins+") is smaller as big blind ("+getTable().getBigBlind()+") are not allowed");
         }
         if (getTable().getMaxBuyIn() < coins + getAmountOfCoinsOnSeat())
         {
