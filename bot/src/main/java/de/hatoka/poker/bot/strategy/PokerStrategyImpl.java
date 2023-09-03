@@ -3,6 +3,7 @@ package de.hatoka.poker.bot.strategy;
 import java.util.List;
 import java.util.Optional;
 
+import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.config.ConfigurableBeanFactory;
@@ -21,6 +22,7 @@ import de.hatoka.poker.remote.TableRO;
 @Scope(ConfigurableBeanFactory.SCOPE_PROTOTYPE)
 public class PokerStrategyImpl implements PokerStrategy
 {
+    private final Logger LOGGER = LoggerFactory.getLogger(getClass());
     @Autowired
     private RemotePlayerFactory remotePlayerFactory;
     @Autowired
@@ -55,57 +57,74 @@ public class PokerStrategyImpl implements PokerStrategy
         if (seatOpt.isPresent())
         {
             SeatRO seat = seatOpt.get();
-            if (seat.getData().isSittingOut())
+            while(seat != null)
             {
-                if (seat.getData().getCoinsOnSeat() > 0)
+                if (seat.getData().isSittingOut() || seat.getData().getCoinsOnSeat() == 0)
                 {
-                    client.sitIn(seat);
+                    if (seat.getData().getCoinsOnSeat() > 0)
+                    {
+                        client.sitIn(seat);
+                    }
+                    else
+                    {
+                        client.rebuy(seat, table);
+                    }
                 }
-                else
+                try
                 {
-                    client.rebuy(seat, table);
+                    seat = runOnSeat(seat);
                 }
-            }
-            while(seat.getData().getCoinsOnSeat() > 0)
-            {
-                runOnSeat(seat);
+                catch (Exception e) {
+                    GameRO game = client.getGame(seat);
+                    final SeatRO oldSeatInfo = seat;
+                    seat = game.getInfo()
+                                    .getSeats()
+                                    .stream()
+                                    .filter(s -> oldSeatInfo.getRefGlobal().equals(s.getRefGlobal()))
+                                    .findAny().orElse(null);
+                }
             }
         }
         else
         {
-            LoggerFactory.getLogger(getClass()).debug("bot not on seat.");
+            LOGGER.debug("bot not on seat.");
             client.joinTable(table);
-            LoggerFactory.getLogger(getClass()).info("bot joined table.");
+            LOGGER.info("bot joined table.");
         }
     }
 
-    private void runOnSeat(SeatRO seat)
+    private SeatRO runOnSeat(SeatRO seatOnTable)
     {
-        GameRO game = client.getGame(seat);
-        RemotePlayer remotePlayer = remotePlayerFactory.create(seat, client);
-        if (remotePlayer.hasAction())
+        GameRO game = client.getGame(seatOnTable);
+        Optional<SeatRO> seatOnGame = game.getInfo()
+                        .getSeats()
+                        .stream()
+                        .filter(s -> seatOnTable.getRefGlobal().equals(s.getRefGlobal()))
+                        .findAny();
+        if (seatOnGame.isEmpty())
         {
-            runOnAction(game, remotePlayer);
+            LOGGER.warn("Can't find seat on game '{}'.", seatOnTable.getRefGlobal());
+            return null;
+        }
+        SeatRO seat = seatOnGame.get();
+        if (seat.getGame().isHasAction())
+        {
+            runOnAction(seat);
         }
         else
         {
             Optional<SeatRO> seatWithAction = game.getInfo()
                                                   .getSeats()
                                                   .stream()
-                                                  .filter(s -> s.getInfo().isHasAction())
+                                                  .filter(s -> s.getGame().isHasAction())
                                                   .findAny();
-            if (seatWithAction.isEmpty())
+            if (!seatWithAction.isEmpty())
             {
-                LoggerFactory.getLogger(getClass())
-                             .warn("bot has not the action. Bug - no one has action - or only one player at table.");
-            }
-            else
-            {
-                LoggerFactory.getLogger(getClass())
-                             .debug("player '{}' has the action.", seatWithAction.get().getInfo().getName());
+                LOGGER.debug("player '{}' has the action.", seatWithAction.get().getInfo().getName());
                 sleep();
             }
         }
+        return seatOnGame.get();
     }
 
     private void sleep()
@@ -116,15 +135,17 @@ public class PokerStrategyImpl implements PokerStrategy
         }
         catch(InterruptedException e)
         {
-            LoggerFactory.getLogger(getClass()).warn("waiting for next move was interrupted.");
+            LOGGER.warn("waiting for next move was interrupted.");
             Thread.currentThread().interrupt();
         }
     }
 
-    private void runOnAction(GameRO game, RemotePlayer remotePlayer)
+    private void runOnAction(SeatRO seat)
     {
+        GameRO game = client.getGame(seat);
+        RemotePlayer remotePlayer = remotePlayerFactory.create(seat, client);
         PlayerGameActionRO action = strategyFactory.createDecisionMaker(remotePlayer).calculateAction(game);
-        LoggerFactory.getLogger(getClass()).debug("Player did action {} on game {}.", action, game.getRefLocal());
+        LOGGER.debug("Player did action {} on game {}.", action, game.getRefLocal());
         remotePlayer.submit(action);
     }
 }

@@ -93,14 +93,14 @@ public class GameControllerTest
         GameRO gameOfPlayer = getGameForSeat(SeatRef.globalRef(seat1.getRefGlobal()));
         List<SeatRO> seatsOfPlayer = gameOfPlayer.getInfo().getSeats();
         assertEquals(2, seatsOfPlayer.size());
-        assertTrue(seatsOfPlayer.get(0).getInfo().isOnButton());
-        assertFalse(seatsOfPlayer.get(1).getInfo().isOnButton());
+        assertTrue(seatsOfPlayer.get(0).getGame().isOnButton());
+        assertFalse(seatsOfPlayer.get(1).getGame().isOnButton());
         // TODO may sorting is relevant
         // game started - inside the game the seat has 495 because of the small blind
         assertEquals(495, seatsOfPlayer.get(0).getData().getCoinsOnSeat());
-        assertEquals(5, seatsOfPlayer.get(0).getInfo().getInPlay());
+        assertEquals(5, seatsOfPlayer.get(0).getGame().getInPlay());
         assertEquals(490, seatsOfPlayer.get(1).getData().getCoinsOnSeat());
-        assertEquals(10, seatsOfPlayer.get(1).getInfo().getInPlay());
+        assertEquals(10, seatsOfPlayer.get(1).getGame().getInPlay());
 
         deleteSeat(SeatRef.globalRef(seats.get(1).getRefGlobal()));
         deleteSeat(SeatRef.globalRef(seats.get(0).getRefGlobal()));
@@ -129,14 +129,14 @@ public class GameControllerTest
         GameRO gameOfPlayer = getGameForSeat(SeatRef.globalRef(seat1.getRefGlobal()));
         List<SeatRO> seatsOfPlayer = gameOfPlayer.getInfo().getSeats();
         assertEquals(2, seatsOfPlayer.size());
-        assertTrue(seatsOfPlayer.get(0).getInfo().isOnButton());
-        assertFalse(seatsOfPlayer.get(1).getInfo().isOnButton());
+        assertTrue(seatsOfPlayer.get(0).getGame().isOnButton());
+        assertFalse(seatsOfPlayer.get(1).getGame().isOnButton());
         // TODO may sorting is relevant
         // game started - inside the game the seat has 495 because of the small blind
         assertEquals(495, seatsOfPlayer.get(0).getData().getCoinsOnSeat());
-        assertEquals(5, seatsOfPlayer.get(0).getInfo().getInPlay());
+        assertEquals(5, seatsOfPlayer.get(0).getGame().getInPlay());
         assertEquals(490, seatsOfPlayer.get(1).getData().getCoinsOnSeat());
-        assertEquals(10, seatsOfPlayer.get(1).getInfo().getInPlay());
+        assertEquals(10, seatsOfPlayer.get(1).getGame().getInPlay());
 
         deleteSeat(SeatRef.globalRef(seats.get(1).getRefGlobal()));
         deleteSeat(SeatRef.globalRef(seats.get(0).getRefGlobal()));

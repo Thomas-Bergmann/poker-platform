@@ -44,10 +44,10 @@ export class GameService {
 
   map(ro : SeatRO): Seat
   {
-    return new Seat().init(ro.resourceURI, ro.info.tableResourceURI, ro.info.position, ro.data['player-ref'],
+    return new Seat().initForGame(ro.resourceURI, ro.info.tableResourceURI, ro.info.position, ro.data['player-ref'],
       ro.data['sitting-out'], ro.info.out,
-      ro.data['coins-onseat'], ro.info['coins-inplay'], ro.info.name,
-      ro.info['cards-hole'], ro.info.allin, ro.info.button, ro.info['has-action'], ro.info.rank);
+      ro.data['coins-onseat'], ro.game['coins-inplay'], ro.info.name,
+      ro.game['cards-hole'], ro.game.allin, ro.game.button, ro.game['has-action'], ro.game.rank);
   }
   doAction(seat: Seat, action: string, betTo:number) : Observable<Game>
   {

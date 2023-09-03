@@ -20,7 +20,7 @@ public interface BotServiceClient
 
     /**
      * @param table table information
-     * @return all seats of a table
+     * @return all seats of a table  (without game information)
      */
     List<SeatRO> getSeats(TableRO table);
 
@@ -57,7 +57,7 @@ public interface BotServiceClient
     
     /**
      * @param table
-     * @return bot seat of table if bot is placed
+     * @return bot seat of table if bot is placed (without game information)
      */
     default Optional<SeatRO> getBotSeat(TableRO table)
     {

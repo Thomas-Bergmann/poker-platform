@@ -20,16 +20,18 @@ export class SeatDataRO {
     return this;
   }
 }
-export interface SeatInfoRO {
-  position : number;
-  tableResourceURI: string;
-  name: string;
+export interface SeatGameInfoRO {
   rank: string;
   'cards-hole' : string;
   'coins-inplay': number;
   'allin' : boolean;
   'button' : boolean;
   'has-action' : boolean;
+}
+export interface SeatInfoRO {
+  position : number;
+  tableResourceURI: string;
+  name: string;
   'out' : boolean;
 }
 
@@ -39,6 +41,7 @@ export interface SeatRO {
   resourceURI: string;
   data : SeatDataRO;
   info : SeatInfoRO;
+  game : SeatGameInfoRO;
 }
 
 @Injectable({ providedIn: 'root' })
@@ -73,8 +76,7 @@ export class SeatService {
 
 function convertSeatRO(ro : SeatRO): Seat
 {
-  return new Seat().init(ro.resourceURI, ro.info.tableResourceURI, ro.info.position, 
-    ro.data['player-ref'], ro.info.out, ro.data['sitting-out'], ro.data['coins-onseat'], ro.info['coins-inplay'],
-    ro.info.name,
-    ro.info['cards-hole'], ro.info.allin, ro.info.button, ro.info['has-action'], ro.info.rank);
+  return new Seat().initForTable(ro.resourceURI, ro.info.tableResourceURI, ro.info.position, 
+    ro.data['player-ref'], ro.info.out, ro.data['sitting-out'], ro.data['coins-onseat'],
+    ro.info.name);
 }

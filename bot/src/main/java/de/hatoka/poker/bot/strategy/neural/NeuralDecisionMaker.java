@@ -16,7 +16,7 @@ import de.hatoka.poker.bot.remote.client.RemotePlayer;
 import de.hatoka.poker.bot.strategy.PokerStrategyDecisionMaker;
 import de.hatoka.poker.remote.GameRO;
 import de.hatoka.poker.remote.PlayerGameActionRO;
-import de.hatoka.poker.remote.SeatInfoRO;
+import de.hatoka.poker.remote.SeatGameInfoRO;
 import de.hatoka.poker.remote.SeatRO;
 
 @Component
@@ -120,6 +120,6 @@ public class NeuralDecisionMaker implements PokerStrategyDecisionMaker
 
     private int getLastBet()
     {
-        return remotePlayer.getSeats().stream().map(SeatRO::getInfo).mapToInt(SeatInfoRO::getInPlay).max().orElse(0);
+        return remotePlayer.getSeats().stream().map(SeatRO::getGame).mapToInt(SeatGameInfoRO::getInPlay).max().orElse(0);
     }
 }

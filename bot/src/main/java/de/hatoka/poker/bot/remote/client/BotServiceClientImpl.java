@@ -38,8 +38,6 @@ public class BotServiceClientImpl implements BotServiceClient
     private final String botRef;
     private final String botKey;
 
-    private GameRO lastGame = null;
-    private long nextUpdate = 0L;
     private String gameSeatURI = null;
 
     public BotServiceClientImpl(String serviceURI, String botRef, String botKey)
@@ -62,10 +60,6 @@ public class BotServiceClientImpl implements BotServiceClient
     @Override
     public GameRO getGame(SeatRO seat)
     {
-        if (lastGame != null && nextUpdate < System.currentTimeMillis())
-        {
-            return lastGame;
-        }
         if (gameSeatURI != null)
         {
             return getGame(gameSeatURI);
@@ -164,8 +158,6 @@ public class BotServiceClientImpl implements BotServiceClient
     private void updateGame(String gameSeatURI, GameRO game)
     {
         this.gameSeatURI = gameSeatURI;
-        this.lastGame = game;
-        this.nextUpdate = System.currentTimeMillis() + 5000;
     }
 
 }

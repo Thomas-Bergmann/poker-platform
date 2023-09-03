@@ -59,13 +59,13 @@ public class PlayerGameInfo
     @SuppressWarnings("unchecked")
     public <T> Stream<T> getEvents(Class<T> eventClass)
     {
-        return game.getEvents(seat).stream().filter(e -> eventClass.isInstance(e)).map(e -> (T)e);
+        return game.getMappedEvents(seat).stream().filter(e -> eventClass.isInstance(e)).map(e -> (T)e);
     }
 
     @SuppressWarnings("unchecked")
     <T> Optional<T> getFirstEvent(Class<T> eventClass)
     {
-        return game.getEvents(seat).stream().filter(e -> eventClass.isInstance(e)).map(e -> (T)e).findFirst();
+        return game.getMappedEvents(seat).stream().filter(e -> eventClass.isInstance(e)).map(e -> (T)e).findFirst();
     }
 
     public Map<SeatRef, Integer> getCoinsInPlay()

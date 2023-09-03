@@ -8,6 +8,7 @@ import java.util.Optional;
 
 import org.apache.logging.log4j.util.Strings;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.context.ApplicationEventPublisher;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.PostMapping;
@@ -24,6 +25,7 @@ import de.hatoka.oauth.capi.remote.OAuthUserAuthenticationRO;
 import de.hatoka.oidc.capi.business.IdentityProviderBO;
 import de.hatoka.oidc.capi.business.IdentityProviderBORepository;
 import de.hatoka.oidc.capi.business.IdentityProviderRef;
+import de.hatoka.oidc.capi.event.OIDCUserTokenGeneratedEvent;
 import de.hatoka.oidc.capi.remote.OIDCUserInfo;
 import de.hatoka.poker.player.internal.remote.PlayerController;
 import de.hatoka.poker.remote.oauth.OAuthRefreshRO;
@@ -39,6 +41,8 @@ public class UserTokenController
     public static final String PATH_SUB_TOKEN = "/token";
     public static final String PATH_SUB_REFRESH = "/refresh";
 
+    @Autowired
+    private ApplicationEventPublisher applicationEventPublisher;
     @Autowired
     private IdentityProviderBORepository idpRepository;
     @Autowired
@@ -64,6 +68,7 @@ public class UserTokenController
         OIDCUserInfo userInfo = idp.getUserInfo(idToken);
         OAuthTokenResponse result = tokenUtils.createTokenForSubject(userInfo.getSubject());
         result.setScope(getScopes(uriBuilder));
+        applicationEventPublisher.publishEvent(new OIDCUserTokenGeneratedEvent(this, userInfo));
         return result;
     }
 

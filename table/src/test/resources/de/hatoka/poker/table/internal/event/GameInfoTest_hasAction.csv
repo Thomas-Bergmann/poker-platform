@@ -1,0 +1,6 @@
+event_type,event_data
+Start,"{""table"":""table:c8f2d2b8-49a2-4573-9441-b49f15990703"",""seats-order"":[0,1],""seat-coins"":{""0"":440,""1"":560},""seat-player"":{""0"":""player:KE60gWMki5OI4OUGtzVZQQIYS88xqBcjyWwnzz0oMSA"",""1"":""bot:ki-bot@KE60gWMki5OI4OUGtzVZQQIYS88xqBcjyWwnzz0oMSA""},""button"":1,""deck"":""seed: -8632712284077913426 index: 0 cards: 2c Ks 4h 2d Jc As 3c Ad 9d Ts 9c 7s 9h 3d 6d 7c Td Th Tc Qs 7h 8d 8c 2h 7d Js 8h Jh 6s 5d 5s 6h Jd 5h 4s 3h 9s 4c Qc Ah 8s 2s Qd Kc 5c 3s 6c 4d Ac Kh Qh Kd"",""pot"":""{\""coinsOfPlayer\"":{},\""sub-pods\"":[]}"",""blind-small"":5,""blind-big"":10}"
+Blind,"{""seat"":""seat:1@table:c8f2d2b8-49a2-4573-9441-b49f15990703"",""coins"":5,""allin"":false,""big"":false}"
+Blind,"{""seat"":""seat:0@table:c8f2d2b8-49a2-4573-9441-b49f15990703"",""coins"":10,""allin"":false,""big"":true}"
+HoleCard,"{""cards"":""Ks 2d"",""seat"":""seat:1@table:c8f2d2b8-49a2-4573-9441-b49f15990703""}"
+HoleCard,"{""cards"":""2c 4h"",""seat"":""seat:0@table:c8f2d2b8-49a2-4573-9441-b49f15990703""}"
