@@ -74,7 +74,7 @@ export class ApiService {
         if (error.status === 0) {
           this.store.dispatch(serverTimeout());
           return EMPTY;
-        } else if (error.status >= 400 && error.status < 400) {
+        } else if (error.status >= 400 && error.status < 500) {
             this.store.dispatch(clientError({ status : error.status, message : error.payload }));
             return EMPTY;
           } else if (error.status >= 500 && error.status < 600) {
