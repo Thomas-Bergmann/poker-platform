@@ -34,8 +34,8 @@ variables:
     value: $[replace(variables['Build.SourceBranch'], 'refs/tags/version/', '')]
 stages:
 - stage: BUILD_AND_PUBLISH
-  pool: '$(BUILD_AGENT_POOL)'
-
+  pool:
+    vmImage: 'ubuntu-latest'
   jobs:
   - job: Build_Service
     timeoutInMinutes: 15
