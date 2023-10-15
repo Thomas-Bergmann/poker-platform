@@ -17,7 +17,6 @@ trigger:
 
 variables:
   - group: poker-platform-docker-config
-  - group: poker-platform-machine
   - name:  GRADLE_USER_HOME
     value: $(Pipeline.Workspace)/.gradle
   - name:  isVersion
