@@ -8,7 +8,7 @@ import {
 } from '@angular/router';
 import { Store } from '@ngrx/store';
 
-import { OIDCState, selectAccessToken, rememberRouteBeforeLogin } from 'src/app/oidc/store';
+import { OIDCState, selectRefreshToken, rememberRouteBeforeLogin } from 'src/app/oidc/store';
 
 @Injectable({
   providedIn: 'root',
@@ -19,8 +19,8 @@ export class AuthGuard implements CanActivate, CanActivateChild, CanLoad {
     private router: Router,
     private readonly oidcStore: Store<OIDCState>,
   ) {
-    this.oidcStore.select(selectAccessToken).subscribe((accessToken) => {
-      this.isLoggedIn = (accessToken !== undefined && accessToken != '');
+    this.oidcStore.select(selectRefreshToken).subscribe((token) => {
+      this.isLoggedIn = token !== undefined;
     });
   }
 

@@ -21,6 +21,10 @@ export const selectAccessToken = createSelector(
   selectFeature,
   (state: OIDCState) => state.accessToken);
 
+export const selectRefreshToken = createSelector(
+  selectFeature,
+  (state: OIDCState) => state.refreshToken);
+
 export const selectResources = createSelector(
   selectFeature,
   (state: OIDCState) => state.resources);

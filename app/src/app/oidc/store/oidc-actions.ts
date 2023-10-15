@@ -18,7 +18,15 @@ export const defineUser = createAction(
 
 export const setAccessToken = createAction(
   'Set Access Token',
-  props<{ token: string }>()
+  props<{ token: string, expires_in: number }>()
+);
+export const setRefreshToken = createAction(
+  'Set Refresh Token',
+  props<{ token: string, expires_in: number }>()
+);
+
+export const clearAccessToken = createAction(
+  'Clear Access Token',
 );
 
 export const addResources = createAction(

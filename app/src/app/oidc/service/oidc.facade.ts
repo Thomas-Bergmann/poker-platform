@@ -1,13 +1,13 @@
 import { Store } from '@ngrx/store';
 import { Injectable } from '@angular/core';
 
-import { OIDCInterceptor } from './oidc.interceptor';
 import { OIDCAuthenticationService } from './oidc-authentication';
 import { OIDCAuthorizationService } from './oidc-authorization';
 import { OIDCService } from './oidc.service';
-import { OIDCState, OIDCProvider, addProviders, defineUser, setAccessToken, addResources } from 'src/app/oidc/store';
+import { OIDCState, OIDCProvider, addProviders, defineUser, setAccessToken, addResources, setRefreshToken } from 'src/app/oidc/store';
 import { environment } from 'src/environments/environment';
 import { ServiceEndpoint, ServiceState, updateServiceLocation } from 'src/app/core/service';
+import { TokenResponse } from 'angular-oauth2-oidc';
 
 @Injectable({ providedIn: 'root' })
 export class OIDCFacade {
@@ -30,8 +30,7 @@ export class OIDCFacade {
       this.authenticationService.getTokenForCodeFlow(p).then((idToken) =>
       {
         this.authorizationService.getAccessToken(p, idToken).then((tokenResponse) => {
-          // access token will stored at interceptor
-          this.store.dispatch(setAccessToken({ token : tokenResponse.access_token}));
+          this.storeTokens(tokenResponse);
           // response.scope will contain list of URIs assigned to that token
           this.store.dispatch(addResources({ resources : this.getScopes(tokenResponse.scope)}));
           var claims = this.getClaims(tokenResponse.access_token);
@@ -39,6 +38,22 @@ export class OIDCFacade {
         });
       });
     }
+  }
+  getAccessTokenWithRefreshToken(p : OIDCProvider, refreshToken : String) : Promise<void> {
+    return this.authorizationService.getAccessTokenWithRefreshToken(p, refreshToken).then(this.storeTokens);
+  }
+
+  private storeTokens(tokenResponse: TokenResponse):void {
+    // access token will stored
+    this.store.dispatch(setAccessToken({
+      token : tokenResponse.access_token,
+      expires_in: tokenResponse.expires_in
+    }));
+    // refresh token will stored
+    this.store.dispatch(setRefreshToken({
+      token : tokenResponse.refresh_token,
+      expires_in: tokenResponse.expires_in
+    }));
   }
 
   private getClaims(access_token:string):any {

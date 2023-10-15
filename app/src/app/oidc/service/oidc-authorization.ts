@@ -27,6 +27,20 @@ export class OIDCAuthorizationService {
         .subscribe((tokenResponse) => resolve(tokenResponse));
     });
   }
+  getAccessTokenWithRefreshToken(provider:OIDCProvider, refreshToken: String):Promise<TokenResponse> {
+    return new Promise((resolve, reject) => {
+      const httpOptions = {
+        headers : new HttpHeaders({
+          'Authorization': 'Bearer ' + refreshToken,
+        }),
+      }
+      var data : OAuthUserAuthenticationRO  = new OAuthUserAuthenticationRO();
+      data.idp = provider.localRef;
+      this.http
+        .post<TokenResponse>(provider.authorizationURI, data, httpOptions)
+        .subscribe((tokenResponse) => resolve(tokenResponse));
+    });
+  }
 }
 
  class OAuthUserAuthenticationRO {
