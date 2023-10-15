@@ -33,6 +33,8 @@ variables:
     value: $[replace(variables['Build.SourceBranch'], 'refs/tags/version/', '')]
 stages:
 - stage: BUILD_AND_PUBLISH
+  displayName: "Build and Publish"
+  lockBehavior: sequential
   pool:
     vmImage: 'ubuntu-latest'
   jobs:
