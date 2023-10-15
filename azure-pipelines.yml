@@ -5,11 +5,8 @@
 trigger:
   branches:
     include:
-      - master
-      - develop
-      - release/*
-      - feature/*
-      - hotfix/*
+      - main
+      - feature/build/*
 
   tags:
     include:
