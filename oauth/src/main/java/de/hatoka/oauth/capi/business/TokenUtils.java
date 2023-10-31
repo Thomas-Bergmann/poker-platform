@@ -1,12 +1,12 @@
 package de.hatoka.oauth.capi.business;
 
-import java.security.Key;
 import java.util.Collections;
 import java.util.Date;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.function.Function;
 
+import javax.crypto.SecretKey;
 import javax.crypto.spec.SecretKeySpec;
 
 import org.springframework.beans.factory.annotation.Value;
@@ -17,9 +17,11 @@ import org.springframework.stereotype.Component;
 import de.hatoka.poker.remote.oauth.OAuthTokenResponse;
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.ExpiredJwtException;
+import io.jsonwebtoken.JwtException;
 import io.jsonwebtoken.JwtParser;
 import io.jsonwebtoken.Jwts;
-import io.jsonwebtoken.SignatureAlgorithm;
+import io.jsonwebtoken.security.MacAlgorithm;
+import io.jsonwebtoken.security.SecureDigestAlgorithm;
 import jakarta.xml.bind.DatatypeConverter;
 
 @Component
@@ -37,6 +39,14 @@ public class TokenUtils
     private static final Function<Claims, TokenMetaData> CLAIM_METADATA_PROVIDER = (claims) -> {
         return TokenMetaData.valueOf((Map<String, Object>)claims.get(CLAIM_TOKEN_META));
     };
+    /**
+     * Algorithm used for key signature
+     */
+    private static final MacAlgorithm ALGORITHM = Jwts.SIG.HS256;
+    /**
+     * create a key and retrieve the algorithm
+     */
+    private static final String ALGORITHM_NAME = ALGORITHM.key().build().getAlgorithm();
 
     @Value("${jwt.secret}")
     private String secret;
@@ -205,23 +215,34 @@ public class TokenUtils
      */
     private Claims getAllClaimsFromToken(String token) throws ExpiredJwtException
     {
-        return getJwtParser().parseClaimsJws(token).getBody();
+        Object payload = getJwtParser().parse(token).getPayload();
+        if (payload instanceof Claims claims)
+        {
+            return claims;
+        }
+        throw new JwtException("no claims found");
     }
 
     private JwtParser getJwtParser()
     {
-        return Jwts.parserBuilder().setSigningKey(getKey()).build();
+        return Jwts.parser().verifyWith(getKey()).build();
     }
 
-    private Key getKey()
+    /**
+     * Provides the secret key, which is configured at application.
+     * <br>Create a secret with
+     * <code>private static final SecretKey SECRET_KEY = Jwts.SIG.HS256.key().build();</code>
+     * @return configured secret key
+     */
+    private SecretKey getKey()
     {
         byte[] secretBytes = DatatypeConverter.parseBase64Binary(secret);
-        return new SecretKeySpec(secretBytes, getAlgoritm().getJcaName());
+        return new SecretKeySpec(secretBytes, ALGORITHM_NAME);
     }
 
-    private SignatureAlgorithm getAlgoritm()
+    private SecureDigestAlgorithm<SecretKey, SecretKey> getAlgoritm()
     {
-        return SignatureAlgorithm.HS256;
+        return ALGORITHM;
     }
 
     // while creating the token -
@@ -236,13 +257,12 @@ public class TokenUtils
         Map<String, Object> withMetaClaims = new HashMap<>();
         withMetaClaims.putAll(claims);
         withMetaClaims.put(CLAIM_TOKEN_META, meta.setIssuedAt(now));
-
         return Jwts.builder()
-                   .setClaims(withMetaClaims)
-                   .setSubject(subject)
-                   .setNotBefore(new Date(now))
-                   .setIssuedAt(new Date(now))
-                   .setExpiration(new Date(now + validity))
+                   .claims(withMetaClaims)
+                   .subject(subject)
+                   .notBefore(new Date(now))
+                   .issuedAt(new Date(now))
+                   .expiration(new Date(now + validity))
                    .signWith(getKey(), getAlgoritm())
                    .compact();
     }
