@@ -44,21 +44,6 @@ stages:
     - checkout: self
       clean: true
 
-    # This task is necessary for the version calculation.
-    # Otherwise the git repo is always in detached head and
-    # SNAPSHOTS are not longer separeted by their name.
-    - task: CmdLine@2
-      displayName: Checkout $(Build.SourceBranchName)
-      inputs:
-        script: |
-           BRANCH="${BUILD_SOURCEBRANCHNAME}"
-           if [[ "${BUILD_SOURCEBRANCH}" =~ ^refs/heads.* ]]; then
-             BRANCH="${BUILD_SOURCEBRANCH/refs\/heads\//}"
-           fi
-           echo "checkout ${BRANCH}"
-           git checkout ${BRANCH}
-      condition: and(eq(variables.isVersion, false), ne(variables['Build.SourceBranchName'], 'merge'))
-
     - task: Cache@2
       displayName: Gradle build cache
       inputs:
