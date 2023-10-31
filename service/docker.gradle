@@ -26,7 +26,7 @@ def getConfigurationProperty = {env, prop, defaultValue=null ->
 }
 
 def containerRegistry = getConfigurationProperty('CONTAINER_REGISTRY', 'container.registry', 'local')
-def containerImageName = "$containerRegistry/hatoka/poker-service"
+def containerImageName = "$containerRegistry/hatoka/poker-platform-service"
 
 def dockerDir = new File(buildDir, 'docker')
 def dockerEnvFile = new File(dockerDir, 'service.env')

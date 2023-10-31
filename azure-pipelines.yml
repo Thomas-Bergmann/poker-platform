@@ -1,0 +1,187 @@
+# Pipeline
+# - configures Gradle cache
+# - run Gradle
+
+trigger:
+  branches:
+    include:
+      - main
+      - feature/build/*
+
+  tags:
+    include:
+      - version/*
+
+variables:
+  - group: poker-platform-docker-config
+  - name:  GRADLE_USER_HOME
+    value: $(Pipeline.Workspace)/.gradle
+  - name:  isVersion
+    value: $[startsWith(variables['Build.SourceBranch'], 'refs/tags/version')]
+  - name:  isReleaseBranch
+    value: $[startsWith(variables['Build.SourceBranch'], 'refs/heads/release')]
+  - name:  PROJECT_ROOT
+    value: $(Build.Repository.LocalPath)
+  - name:  IMAGE_SERVICE
+    value: 'hatoka/poker-platform-service'
+  - name:  IMAGE_APP
+    value: 'hatoka/poker-platform-app'
+  - name: IMAGE_TAG
+    value: $[replace(variables['Build.SourceBranch'], 'refs/tags/version/', '')]
+stages:
+- stage: BUILD_AND_PUBLISH
+  displayName: "Build and Publish"
+  lockBehavior: sequential
+  pool:
+    vmImage: 'ubuntu-latest'
+  jobs:
+  - job: Build_Service
+    timeoutInMinutes: 15
+    workspace:
+      clean: all
+
+    steps:
+    - checkout: self
+      clean: true
+
+    - task: Cache@2
+      displayName: Gradle build cache
+      inputs:
+        key: 'gradle'
+        restoreKeys: gradle
+        path: $(GRADLE_USER_HOME)
+
+    - task: JavaToolInstaller@0
+      inputs:
+        versionSpec: '17'
+        jdkArchitectureOption: 'x64'
+        jdkSourceOption: 'PreInstalled'
+
+    - task: Gradle@2
+      displayName: Check version
+      continueOnError: true
+      inputs:
+        gradleOptions: '-Xmx3072m'
+        javaHomeOption: 'JDKVersion'
+        jdkVersionOption: '17'
+        jdkArchitectureOption: 'x64'
+        publishJUnitResults: false
+        tasks: '-version'
+
+    # the task contains the publishing of test results
+    - task: Gradle@2
+      displayName: Gradle build
+      inputs:
+        options: '--max-workers 6 -PrunOnCI=true'
+        gradleOptions: '-Xmx3072m'
+        javaHomeOption: 'JDKVersion'
+        jdkVersionOption: '17'
+        jdkArchitectureOption: 'x64'
+        publishJUnitResults: true
+        tasks: 'check buildImage'
+
+    - task: Docker@2
+      displayName: Login to ACR
+      inputs:
+        command: login
+        containerRegistry: $(DOCKER_SERVICE_CONNECTION)
+
+    - task: Docker@2
+      displayName: Docker push service "latest"
+      inputs:
+        command: push
+        containerRegistry: $(DOCKER_SERVICE_CONNECTION)
+        repository: $(IMAGE_SERVICE)
+        tags: 'latest'
+
+    # push app image with rc tags
+    - task: CmdLine@2
+      displayName: Docker tag "rc"
+      condition: eq(variables.isReleaseBranch, true)
+      inputs:
+        script: |
+           docker tag $(CONTAINER_REGISTRY)/$(IMAGE_SERVICE):latest $(CONTAINER_REGISTRY)/$(IMAGE_SERVICE):rc-$(Build.BuildId)
+
+    - task: Docker@2
+      displayName: Docker push service "rc"
+      condition: eq(variables.isReleaseBranch, true)
+      inputs:
+        command: push
+        containerRegistry: $(DOCKER_SERVICE_CONNECTION)
+        repository: $(IMAGE_SERVICE)
+        tags: rc-$(Build.BuildId)
+    
+    # push images with real tags
+    - task: CmdLine@2
+      displayName: Docker tag version
+      condition: eq(variables.isVersion, true)
+      inputs:
+        script: |
+           docker tag $(CONTAINER_REGISTRY)/$(IMAGE_SERVICE):latest $(CONTAINER_REGISTRY)/$(IMAGE_SERVICE):$(IMAGE_TAG)
+
+    - task: Docker@2
+      displayName: Docker push service with tag
+      condition: eq(variables.isVersion, true)
+      inputs:
+        command: push
+        containerRegistry: $(DOCKER_SERVICE_CONNECTION)
+        repository: $(IMAGE_SERVICE)
+        tags: $(IMAGE_TAG)
+
+  - job: Build_App
+    timeoutInMinutes: 10
+    steps:
+    - task: Docker@2
+      displayName: Login to ACR
+      inputs:
+        command: login
+        containerRegistry: $(DOCKER_SERVICE_CONNECTION)
+
+    # push image with latest tag (build app)
+    - task: Docker@2
+      displayName: Docker build and push app "latest"
+      inputs:
+        command: buildAndPush
+        containerRegistry: $(DOCKER_SERVICE_CONNECTION)
+        repository: $(IMAGE_APP)
+        buildContext: app
+        Dockerfile: app/Dockerfile
+        tags: latest
+
+    # push app images with rc tags
+    - task: CmdLine@2
+      displayName: Docker tag "rc"
+      condition: eq(variables.isReleaseBranch, true)
+      inputs:
+        script: |
+           docker tag $(CONTAINER_REGISTRY)/$(IMAGE_APP):latest $(CONTAINER_REGISTRY)/$(IMAGE_APP):rc-$(Build.BuildId)
+
+    - task: Docker@2
+      displayName: Docker push app "rc"
+      condition: eq(variables.isReleaseBranch, true)
+      inputs:
+        command: push
+        containerRegistry: $(DOCKER_SERVICE_CONNECTION)
+        buildContext: app
+        Dockerfile: app/Dockerfile
+        repository: $(IMAGE_APP)
+        tags: rc-$(Build.BuildId)
+
+    # push images with real tags
+    - task: CmdLine@2
+      displayName: Docker tag version
+      condition: eq(variables.isVersion, true)
+      inputs:
+        script: |
+           docker tag $(CONTAINER_REGISTRY)/$(IMAGE_APP):latest $(CONTAINER_REGISTRY)/$(IMAGE_APP):$(IMAGE_TAG)
+
+    - task: Docker@2
+      displayName: Docker push app with tag
+      condition: eq(variables.isVersion, true)
+      inputs:
+        command: push
+        containerRegistry: $(DOCKER_SERVICE_CONNECTION)
+        buildContext: app
+        Dockerfile: app/Dockerfile
+        repository: $(IMAGE_APP)
+        tags: $(IMAGE_TAG)
