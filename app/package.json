@@ -23,7 +23,7 @@
     "@ngrx/entity": "^16.3.0",
     "@ngrx/store": "^16.3.0",
     "@ngrx/store-devtools": "^16.3.0",
-    "angular-oauth2-oidc": "^15.0.1",
+    "angular-oauth2-oidc": "^17.0.2",
     "rxjs": "^7.8.1",
     "tslib": "^2.5.0",
     "zone.js": "^0.13.3"
