@@ -7,7 +7,7 @@
   </div>
 </div>
 <div class="outerbox" *ngIf="selectedGame && selectedTable">
-  <div class="header">Game #{{selectedGame.gameno}}@{{selectedTable.name}}</div>
+  <div class="header">Game #{{selectedGame.gameno}} - {{selectedTable.name}}</div>
   <div class="play">
     <div class="seats">
       <gameSeat *ngFor="let seat of seats" [seat]="seat"
