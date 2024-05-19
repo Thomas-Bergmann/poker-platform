@@ -42,3 +42,14 @@ export const EMPTY : OIDCProvider = {
   tokenURI: "",
   authorizationURI: "",
 }
+
+export interface ServiceTokenResponse {
+  access_token: string;
+  id_token: string;
+  token_type: string;
+  expires_in: number;
+  refresh_token: string;
+  refresh_expires_in: number;
+  "not-before-policy": number;
+  scope: string;
+}

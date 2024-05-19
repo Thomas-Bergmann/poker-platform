@@ -20,7 +20,7 @@ export class AuthGuard implements CanActivate, CanActivateChild, CanLoad {
     private readonly oidcStore: Store<OIDCState>,
   ) {
     this.oidcStore.select(selectAccessToken).subscribe((accessToken) => {
-      this.isLoggedIn = (accessToken !== undefined && accessToken != '');
+      this.isLoggedIn = accessToken !== undefined;
     });
   }
 
