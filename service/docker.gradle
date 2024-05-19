@@ -26,31 +26,13 @@ def getConfigurationProperty = {env, prop, defaultValue=null ->
 }
 
 def containerRegistry = getConfigurationProperty('CONTAINER_REGISTRY', 'container.registry', 'local')
-def containerImageName = "$containerRegistry/hatoka/poker-platform-service"
+def containerImageName = "$containerRegistry/hatoka/poker-service"
 
 def dockerDir = new File(buildDir, 'docker')
 def dockerEnvFile = new File(dockerDir, 'service.env')
 
 docker {
     url = OperatingSystem.current().isWindows()  ? 'http://localhost:2375' : (System.getenv('DOCKER_HOST_URL') ?: 'unix:///var/run/docker.sock').replace('tcp', 'https')
-}
-
-task prepareDockerFile(type: Dockerfile) {
-    group = 'Docker'
-    description "Preares the Dockerfile."
-
-    destFile = new File(dockerDir, 'Dockerfile')
-    from 'eclipse-temurin:17.0.4.1_1-jre'
-
-    //@deprecated
-    environmentVariable "SPRING_PROFILES_ACTIVE", "production"
-
-    copyFile "libs/service-${version}.jar", '/app/app.jar'
-    exposePort 7090
-    exposePort 8090
-    exposePort 9090
-    entryPoint 'java'
-    defaultCommand '-agentlib:jdwp=transport=dt_socket,server=y,suspend=n,address=*:7090', '-jar', '/app/app.jar'
 }
 
 task copyJar(type: Copy) {
@@ -64,47 +46,32 @@ task copyJar(type: Copy) {
     dependsOn bootJar
 }
 
-tasks.prepareDockerFile.dependsOn copyJar
+task copyScripts(type: Copy) {
+    group = 'Docker'
+    description "Helper task for copying scripts into the docker build folder."
+
+    from 'src/main/docker'
+    into new File(dockerDir,"/bin")
+    include '*.sh'
+}
+
+task copyDockerfile(type: Copy) {
+    group = 'Docker'
+    description "Helper task for copy Dockerfile into docker build folder."
+
+    from 'src/main/docker'
+    into dockerDir
+    include 'Dockerfile'
+}
 
 task buildImage(type: DockerBuildImage) {
     group = 'Docker'
     description "Generates the docker image."
-    dependsOn prepareDockerFile
+    dependsOn copyDockerfile
+    dependsOn copyJar
+    dependsOn copyScripts
 
     inputDir = dockerDir
     images.add("$containerImageName:latest")
 }
 
-task prepareDockerEnv() {
-    group = 'Docker'
-    description "Prepares environment file 'service.env'. Used from task imageRun or composeUp for running"
-
-    doLast() {
-        dockerEnvFile.write "DATASOURCE_URL=${getConfigurationProperty 'SPRING_DATASOURCE_URL', 'spring.datasource.url'}\n"
-        dockerEnvFile.write "ALLOW_CORS_ORIGINS=*\n"
-        dockerEnvFile.write "JWT_SECRET=secret\n"
-        dockerEnvFile.append "\n"
-    }
-
-}
-
-task runImage(type: Exec) {
-    group = 'Docker'
-    description "Executes the docker file locally."
-
-    dependsOn buildImage, prepareDockerEnv
-
-    workingDir dockerDir
-
-    commandLine 'docker', 'run', '-p', '8090:8090', '--env-file', dockerEnvFile.name, "$containerImageName:$version"
-}
-
-/* docker-compose task */
-dockerCompose {
-    captureContainersOutputToFile = (new File(project.buildDir, 'logs/docker-compose.log')).absolutePath
-    environment.put 'IMAGE_NAME', "$containerImageName:c"
-    environment.put 'ENV_FILE_NAME', "$dockerEnvFile.path"
-
-}
-
-composeUp.dependsOn buildImage, prepareDockerEnv

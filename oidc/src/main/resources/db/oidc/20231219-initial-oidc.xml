@@ -1,0 +1,54 @@
+<?xml version="1.1" encoding="UTF-8" standalone="no"?>
+<databaseChangeLog xmlns="http://www.liquibase.org/xml/ns/dbchangelog" xmlns:ext="http://www.liquibase.org/xml/ns/dbchangelog-ext" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog-ext http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-ext.xsd http://www.liquibase.org/xml/ns/dbchangelog http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-latest.xsd">
+    <changeSet author="tm@hatoka.de" id="1702922461725-3">
+        <preConditions onFail="MARK_RAN">
+            <not>
+                <tableExists tableName="oidc_id_provider" />
+            </not>
+        </preConditions>
+        <createTable tableName="oidc_id_provider">
+            <column autoIncrement="true" computed="false" name="identityprovider_id" type="bigint">
+                <constraints nullable="false" primaryKey="true" primaryKeyName="PK_oidc_id_provider"/>
+            </column>
+            <column computed="false" name="idp_ref" type="varchar(255)">
+                <constraints nullable="false"/>
+            </column>
+            <column computed="false" name="name" type="varchar(255)">
+                <constraints nullable="false"/>
+            </column>
+            <column computed="false" name="public_clientid" type="varchar(255)">
+                <constraints nullable="false"/>
+            </column>
+            <column computed="false" name="public_auth_uri" type="varchar(4095)"/>
+            <column computed="false" name="public_token_uri" type="varchar(4095)"/>
+            <column computed="false" name="public_token_issuer" type="varchar(4095)"/>
+            <column computed="false" name="public_userinfo_uri" type="varchar(4095)"/>
+            <column computed="false" name="openid_config_uri" type="varchar(4095)"/>
+            <column computed="false" defaultValue="empty" defaultValueConstraintName="DF__oidc_id_p__priva__5070F446" name="private_clientid" type="varchar(255)">
+                <constraints nullable="false"/>
+            </column>
+            <column computed="false" defaultValue=" " defaultValueConstraintName="DF__oidc_id_p__priva__5165187F" name="private_client_secret" type="varchar(255)">
+                <constraints nullable="false"/>
+            </column>
+        </createTable>
+        <createTable tableName="oidc_id_provider_map">
+            <column autoIncrement="true" computed="false" name="identityprovider_map_id" type="bigint">
+                <constraints nullable="false" primaryKey="true" primaryKeyName="PK_oidc_id_provider_map"/>
+            </column>
+            <column computed="false" name="identityprovider_id" type="bigint">
+                <constraints nullable="false"/>
+            </column>
+            <column computed="false" name="subject" type="varchar(255)">
+                <constraints nullable="false"/>
+            </column>
+            <column computed="false" name="user_ref" type="varchar(255)">
+                <constraints nullable="false"/>
+            </column>
+        </createTable>
+        <addUniqueConstraint columnNames="idp_ref" constraintName="AK_oidc_id_provider" tableName="oidc_id_provider"/>
+        <addUniqueConstraint columnNames="identityprovider_id, subject" constraintName="AK_oidc_id_provider_map" tableName="oidc_id_provider_map"/>
+        <createIndex indexName="IDX_oidc_id_provider_map" tableName="oidc_id_provider_map">
+            <column name="identityprovider_id"/>
+        </createIndex>
+    </changeSet>
+</databaseChangeLog>

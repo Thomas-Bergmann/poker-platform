@@ -55,7 +55,7 @@ An initial bot implementation shows how to interact with the service. The bot in
 
 ## service ##
 * puts all sub projects together to one Spring application.
-* contains database setup and migration with Flyway
+* contains database setup and migration with Liquibase
 * contains central CORS
 
 ## user ##
