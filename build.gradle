@@ -23,7 +23,7 @@ def versionMicrosoftSqlserverMssqlJdbc="12.4.2.jre11"
 def versionGlassfishJersey="3.1.6"
 def versionSpringDoc="2.3.0"
 def versionJJWT="0.12.5"
-def versionJupiter="5.10.1"
+def versionJupiter="5.10.2"
 def versionJunitPlatform="1.10.1"
 
 subprojects {
