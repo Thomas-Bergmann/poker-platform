@@ -1,8 +1,7 @@
 import { Injectable } from '@angular/core';
 import { HttpClient, HttpHeaders } from '@angular/common/http';
-import { TokenResponse } from 'angular-oauth2-oidc';
 
-import { OIDCProvider } from '../store';
+import { OIDCProvider, ServiceTokenResponse } from '../store';
 
 /**
  * The authorization service will convert an identity token to an access_token for the resource service
@@ -13,7 +12,7 @@ export class OIDCAuthorizationService {
     private http: HttpClient,
   ) {}
 
-  getAccessToken(provider:OIDCProvider, idToken: String):Promise<TokenResponse> {
+  getAccessToken(provider:OIDCProvider, idToken: String):Promise<ServiceTokenResponse> {
     return new Promise((resolve, reject) => {
       const httpOptions = {
         headers : new HttpHeaders({
@@ -23,11 +22,11 @@ export class OIDCAuthorizationService {
       var data : OAuthUserAuthenticationRO  = new OAuthUserAuthenticationRO();
       data.idp = provider.localRef;
       this.http
-        .post<TokenResponse>(provider.authorizationURI, data, httpOptions)
+        .post<ServiceTokenResponse>(provider.authorizationURI, data, httpOptions)
         .subscribe((tokenResponse) => resolve(tokenResponse));
     });
   }
-  getAccessTokenWithRefreshToken(provider:OIDCProvider, refreshToken: String):Promise<TokenResponse> {
+  getAccessTokenWithRefreshToken(provider:OIDCProvider, refreshToken: String):Promise<ServiceTokenResponse> {
     return new Promise((resolve, reject) => {
       const httpOptions = {
         headers : new HttpHeaders({
@@ -37,7 +36,7 @@ export class OIDCAuthorizationService {
       var data : OAuthUserAuthenticationRO  = new OAuthUserAuthenticationRO();
       data.idp = provider.localRef;
       this.http
-        .post<TokenResponse>(provider.authorizationURI, data, httpOptions)
+        .post<ServiceTokenResponse>(provider.authorizationURI, data, httpOptions)
         .subscribe((tokenResponse) => resolve(tokenResponse));
     });
   }

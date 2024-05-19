@@ -4,11 +4,9 @@ import { Injectable } from '@angular/core';
 import { OIDCAuthenticationService } from './oidc-authentication';
 import { OIDCAuthorizationService } from './oidc-authorization';
 import { OIDCService } from './oidc.service';
-import { OIDCState, OIDCProvider, addProviders, defineUser, setAccessToken, addResources, setRefreshToken } from 'src/app/oidc/store';
+import { ServiceTokenResponse, OIDCState, OIDCProvider, addProviders, defineUser, setAccessToken, addResources, setRefreshToken } from 'src/app/oidc/store';
 import { environment } from 'src/environments/environment';
 import { ServiceEndpoint, ServiceState, updateServiceLocation } from 'src/app/core/service';
-import { TokenResponse } from 'angular-oauth2-oidc';
-
 
 var _storeFromAccessToken : Store<OIDCState> | undefined = undefined;
 
@@ -47,7 +45,7 @@ export class OIDCFacade {
     return this.authorizationService.getAccessTokenWithRefreshToken(p, refreshToken).then(this.storeTokens);
   }
 
-  private storeTokens(tokenResponse: TokenResponse):void {
+  private storeTokens(tokenResponse: ServiceTokenResponse):void {
     var diff = new Date().getTime() - tokenResponse['not-before-policy'];
     if (diff > 1000) {
       console.log("token expiry adjusted by (%d ms)", diff);
