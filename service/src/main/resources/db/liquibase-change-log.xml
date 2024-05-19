@@ -1,0 +1,7 @@
+<databaseChangeLog xmlns="http://www.liquibase.org/xml/ns/dbchangelog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.4.xsd">
+    <include file="classpath:db/user/user-change-log.xml" relativeToChangelogFile="false" />
+    <include file="classpath:db/oidc/oidc-change-log.xml" relativeToChangelogFile="false" />
+    <include file="classpath:db/player/player-change-log.xml" relativeToChangelogFile="false" />
+    <include file="classpath:db/table/table-change-log.xml" relativeToChangelogFile="false" />
+    <include file="classpath:db/20231219-drop-flyway.xml" relativeToChangelogFile="false" />
+</databaseChangeLog>

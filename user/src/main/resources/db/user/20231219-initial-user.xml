@@ -1,0 +1,29 @@
+<?xml version="1.1" encoding="UTF-8" standalone="no"?>
+<databaseChangeLog xmlns="http://www.liquibase.org/xml/ns/dbchangelog" xmlns:ext="http://www.liquibase.org/xml/ns/dbchangelog-ext" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog-ext http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-ext.xsd http://www.liquibase.org/xml/ns/dbchangelog http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-latest.xsd">
+    <changeSet author="tm@hatoka.de" id="1702922461725-7">
+        <preConditions onFail="MARK_RAN">
+            <not>
+                <tableExists tableName="users" />
+            </not>
+        </preConditions>
+        <createTable tableName="users">
+            <column autoIncrement="true" computed="false" name="user_id" type="bigint">
+                <constraints nullable="false" primaryKey="true" primaryKeyName="PK_users"/>
+            </column>
+            <column computed="false" name="user_ref" type="varchar(255)">
+                <constraints nullable="false"/>
+            </column>
+            <column computed="false" name="active" type="bit">
+                <constraints nullable="false"/>
+            </column>
+            <column computed="false" name="email" type="varchar(255)"/>
+            <column computed="false" name="name_full" type="varchar(255)"/>
+            <column computed="false" name="name_first" type="varchar(255)"/>
+            <column computed="false" name="name_last" type="varchar(255)"/>
+            <column computed="false" name="name_nick" type="varchar(255)"/>
+            <column computed="false" name="locale" type="varchar(255)"/>
+            <column computed="false" name="time_zone" type="varchar(255)"/>
+        </createTable>
+        <addUniqueConstraint columnNames="user_ref" constraintName="AK_users" tableName="users"/>
+    </changeSet>
+</databaseChangeLog>

@@ -1,6 +1,6 @@
 ARG VERSION_APP=latest
 
-FROM node:18-alpine as builder
+FROM node:20-alpine as builder
 RUN npm install -g @angular/cli
 
 # dependencies of app-project
@@ -19,7 +19,7 @@ RUN npm run build:production
 # ENTRYPOINT ["ng", "serve","--disableHostCheck", "--host", "0.0.0.0"]
 
 ### STAGE 2: nginx environment ###
-FROM nginx:1.15.3-alpine
+FROM nginx:1.25.4-alpine
 
 ## Remove default nginx website
 RUN rm -rf /usr/share/nginx/html/*

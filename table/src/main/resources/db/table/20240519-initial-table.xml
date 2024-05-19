@@ -1,0 +1,98 @@
+<?xml version="1.1" encoding="UTF-8" standalone="no"?>
+<databaseChangeLog xmlns="http://www.liquibase.org/xml/ns/dbchangelog" xmlns:ext="http://www.liquibase.org/xml/ns/dbchangelog-ext" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog-ext http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-ext.xsd http://www.liquibase.org/xml/ns/dbchangelog http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-latest.xsd">
+    <changeSet author="tm@hatoka.de" id="1716112143363-1">
+        <preConditions onFail="MARK_RAN">
+            <not>
+                <tableExists tableName="tables" />
+            </not>
+        </preConditions>
+        <createTable tableName="tables">
+            <column autoIncrement="true" computed="false" name="table_id" type="bigint">
+                <constraints nullable="false" primaryKey="true" primaryKeyName="PK_table"/>
+            </column>
+            <column computed="false" name="name" type="varchar(255)">
+                <constraints nullable="false"/>
+            </column>
+            <column computed="false" name="poker_variant" type="varchar(255)">
+                <constraints nullable="false"/>
+            </column>
+            <column computed="false" name="poker_limit" type="varchar(255)">
+                <constraints nullable="false"/>
+            </column>
+            <column computed="false" name="buyin_max" type="int">
+                <constraints nullable="false"/>
+            </column>
+            <column computed="false" name="last_gameno" type="bigint">
+                <constraints nullable="false"/>
+            </column>
+            <column computed="false" name="blind_small" type="int">
+                <constraints nullable="false"/>
+            </column>
+            <column computed="false" name="blind_big" type="int">
+                <constraints nullable="false"/>
+            </column>
+        </createTable>
+        <addUniqueConstraint columnNames="name" constraintName="AK_table" tableName="tables"/>
+    </changeSet>
+    <changeSet author="tm@hatoka.de" id="1716112143363-2">
+        <preConditions onFail="MARK_RAN">
+            <not>
+                <tableExists tableName="seats" />
+            </not>
+        </preConditions>
+        <createTable tableName="seats">
+            <column autoIncrement="true" computed="false" name="seat_id" type="bigint">
+                <constraints nullable="false" primaryKey="true" primaryKeyName="PK_seat"/>
+            </column>
+            <column computed="false" name="table_id" type="bigint">
+                <constraints nullable="false"/>
+            </column>
+            <column computed="false" name="position" type="int">
+                <constraints nullable="false"/>
+            </column>
+            <column computed="false" name="player_id" type="bigint"/>
+            <column computed="false" name="coins_on_seat" type="int">
+                <constraints nullable="false"/>
+            </column>
+            <column computed="false" name="is_out" type="bit">
+                <constraints nullable="false"/>
+            </column>
+        </createTable>
+        <addUniqueConstraint columnNames="table_id, position" constraintName="AK_seat" tableName="seats"/>
+        <addForeignKeyConstraint baseColumnNames="player_id" baseTableName="seats" constraintName="FK_seat_player" deferrable="false" initiallyDeferred="false" onDelete="NO ACTION" onUpdate="NO ACTION" referencedColumnNames="player_id" referencedTableName="players" validate="true"/>
+        <addForeignKeyConstraint baseColumnNames="table_id" baseTableName="seats" constraintName="FK_seat_table" deferrable="false" initiallyDeferred="false" onDelete="NO ACTION" onUpdate="NO ACTION" referencedColumnNames="table_id" referencedTableName="tables" validate="true"/>
+    </changeSet>
+    <changeSet author="tm@hatoka.de" id="1716112143363-3">
+        <preConditions onFail="MARK_RAN">
+            <not>
+                <tableExists tableName="game_events" />
+            </not>
+        </preConditions>
+        <createTable tableName="game_events">
+            <column autoIncrement="true" computed="false" name="game_event_id" type="bigint">
+                <constraints nullable="false" primaryKey="true" primaryKeyName="PK_game_event"/>
+            </column>
+            <column computed="false" name="table_id" type="bigint">
+                <constraints nullable="false"/>
+            </column>
+            <column computed="false" name="game_no" type="bigint">
+                <constraints nullable="false"/>
+            </column>
+            <column computed="false" name="event_no" type="int">
+                <constraints nullable="false"/>
+            </column>
+            <column computed="false" name="event_type" type="varchar(255)">
+                <constraints nullable="false"/>
+            </column>
+            <column computed="false" name="event_data" type="varchar(4048)">
+                <constraints nullable="false"/>
+            </column>
+        </createTable>
+        <addUniqueConstraint columnNames="table_id, game_no, event_no" constraintName="AK_game_event" tableName="game_events"/>
+        <createIndex indexName="IDX_game_event" tableName="game_events">
+            <column name="table_id"/>
+            <column name="game_no"/>
+        </createIndex>
+        <addForeignKeyConstraint baseColumnNames="table_id" baseTableName="game_events" constraintName="FK_game_event_table" deferrable="false" initiallyDeferred="false" onDelete="NO ACTION" onUpdate="NO ACTION" referencedColumnNames="table_id" referencedTableName="tables" validate="true"/>
+    </changeSet>
+</databaseChangeLog>
