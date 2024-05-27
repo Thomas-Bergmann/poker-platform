@@ -19,7 +19,7 @@ allprojects {
     jacoco { toolVersion = '0.8.11' }
 }
 
-def versionMicrosoftSqlserverMssqlJdbc="12.4.2.jre11"
+def versionMicrosoftSqlserverMssqlJdbc="12.7.0.jre11-preview"
 def versionGlassfishJersey="3.1.7"
 def versionSpringDoc="2.5.0"
 def versionJJWT="0.12.5"
