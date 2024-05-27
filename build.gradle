@@ -20,7 +20,7 @@ allprojects {
 }
 
 def versionMicrosoftSqlserverMssqlJdbc="12.4.2.jre11"
-def versionGlassfishJersey="3.1.6"
+def versionGlassfishJersey="3.1.7"
 def versionSpringDoc="2.5.0"
 def versionJJWT="0.12.5"
 def versionJupiter="5.10.2"
