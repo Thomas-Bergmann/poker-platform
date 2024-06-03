@@ -64,7 +64,7 @@ subprojects {
                 dependency 'org.json:json:20240303'
 
                 dependency 'jakarta.validation:jakarta.validation-api:3.0.2'
-                dependency 'jakarta.ws.rs:jakarta.ws.rs-api:3.1.0'
+                dependency 'jakarta.ws.rs:jakarta.ws.rs-api:4.0.0'
 
                 dependency "io.jsonwebtoken:jjwt-api:${versionJJWT}"
                 dependency "io.jsonwebtoken:jjwt-impl:${versionJJWT}"
