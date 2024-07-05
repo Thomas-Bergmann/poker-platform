@@ -70,7 +70,7 @@ subprojects {
                 dependency "io.jsonwebtoken:jjwt-impl:${versionJJWT}"
                 dependency "io.jsonwebtoken:jjwt-jackson:${versionJJWT}"
 
-                dependency "org.liquibase:liquibase-core:4.25.0"
+                dependency "org.liquibase:liquibase-core:4.28.0"
                 dependency 'info.picocli:picocli:4.7.5'
                 dependency "com.microsoft.sqlserver:mssql-jdbc:${versionMicrosoftSqlserverMssqlJdbc}"
 
